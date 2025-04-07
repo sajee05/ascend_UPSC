@@ -1,6 +1,6 @@
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useEffect, useState, useMemo } from "react";
 import { useQuery } from "@tanstack/react-query";
-import { Question, QuestionWithTags, Test, TestWithStats } from "@shared/schema";
+import { Question, QuestionWithTags, Test, TestWithStats, Tag } from "@shared/schema";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -41,23 +41,40 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
     enabled: !!testId,
   });
 
-  // Get all questions (for browsing across tests)
-  // Since the /api/questions endpoint is having issues, use the first test's questions as a fallback
+  // Get all tests 
   const { data: testsList } = useQuery<TestWithStats[]>({
     queryKey: ['/api/tests'],
-    enabled: !testId && activeTab === "all",
+    enabled: true, // Always fetch tests since we need them
     staleTime: 30000, // Consider data fresh for 30 seconds
   });
   
-  // Determine the first test ID for fallback
-  const firstTestId = testsList && testsList.length > 0 ? testsList[0].id : undefined;
+  // We'll fetch all questions across all tests by using multiple queries
+  const testIds = testsList?.map(test => test.id) || [];
   
-  // Use the test-specific questions endpoint since it's working
-  const { data: allQuestions, isLoading: isLoadingAllQuestions } = useQuery<QuestionWithTags[]>({
-    queryKey: ['/api/tests', firstTestId, 'questions'],
-    enabled: !testId && activeTab === "all" && !!firstTestId, // Only run if we have a test ID
-    staleTime: 30000, // Consider data fresh for 30 seconds
+  // Create a list of promises to fetch questions for each test
+  const questionsQueries = testIds.map(id => {
+    return useQuery<QuestionWithTags[]>({
+      queryKey: ['/api/tests', id, 'questions'],
+      enabled: !testId && activeTab === "all" && testIds.length > 0,
+      staleTime: 30000,
+    });
   });
+  
+  // Get loading state for all questions queries
+  const isLoadingAllQuestions = !testId && activeTab === "all" && 
+    (questionsQueries.length === 0 || questionsQueries.some(query => query.isLoading));
+  
+  // Combine all questions from all tests
+  const allQuestions = useMemo(() => {
+    if (testId || activeTab !== "all" || questionsQueries.length === 0) {
+      return [];
+    }
+    
+    // Flatten all questions from all tests
+    return questionsQueries
+      .filter(query => query.data) // Only include queries with data
+      .flatMap(query => query.data || []); // Flatten into a single array
+  }, [testId, activeTab, questionsQueries]);
 
   // Get all tags for filtering
   const { data: allTags, isLoading: isLoadingTags } = useQuery<string[]>({
@@ -116,7 +133,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
         filtered = filtered.filter(q => {
           try {
             if (!q.tags || !Array.isArray(q.tags) || q.tags.length === 0) return false;
-            return selectedTags.some(tag => q.tags.some(t => t.tagName === tag));
+            return selectedTags.some(tag => q.tags.some((t: { tagName: string }) => t.tagName === tag));
           } catch (e) {
             return false;
           }
@@ -136,7 +153,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
 
     console.log("Found", filtered.length, "questions after filtering");
     return filtered;
-  }, [testQuestions, allQuestions, searchTerm, selectedTags, testId, showAttemptedOnly, testAttempts, firstTestId]);
+  }, [testQuestions, allQuestions, searchTerm, selectedTags, testId, showAttemptedOnly, testAttempts]);
 
   const toggleTag = (tag: string) => {
     if (selectedTags.includes(tag)) {
