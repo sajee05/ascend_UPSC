@@ -122,11 +122,11 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
                 <XAxis type="number" domain={[0, 100]} />
                 <YAxis type="category" dataKey="name" tick={{ fontSize: 12 }} width={90} />
                 <Tooltip 
-                  formatter={(value, name) => [
+                  formatter={(value: any, name: any) => [
                     `${value}${name === "accuracy" ? "%" : ""}`, 
                     name === "accuracy" ? "Accuracy" : "Score"
-                  ]}
-                  labelFormatter={(label, payload) => {
+                  ] as [string, string]}
+                  labelFormatter={(label: any, payload: any) => {
                     if (payload && payload.length > 0) {
                       return payload[0].payload.fullName;
                     }
@@ -236,13 +236,13 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
                 <ZAxis dataKey="total" range={[40, 120]} />
                 <Tooltip 
                   cursor={{ strokeDasharray: '3 3' }}
-                  formatter={(value, name) => [
+                  formatter={(value: any, name: any) => [
                     name === "avgTime" 
-                      ? `${value.toFixed(1)} sec` 
-                      : `${value.toFixed(1)}%`,
+                      ? `${parseFloat(value).toFixed(1)} sec` 
+                      : `${parseFloat(value).toFixed(1)}%`,
                     name === "avgTime" ? "Avg. Time" : "Accuracy"
-                  ]}
-                  labelFormatter={(label, payload) => {
+                  ] as [string, string]}
+                  labelFormatter={(label: any, payload: any) => {
                     if (payload && payload.length > 0) {
                       return payload[0].payload.name;
                     }
@@ -276,11 +276,11 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
                 <XAxis type="number" />
                 <YAxis dataKey="name" type="category" />
                 <Tooltip 
-                  formatter={(value, name) => [
+                  formatter={(value: any, name: any) => [
                     `${value}${name === "accuracy" ? "%" : ""}`,
                     name === "accuracy" ? "Accuracy" : "Efficiency Index"
-                  ]}
-                  labelFormatter={(label, payload) => {
+                  ] as [string, string]}
+                  labelFormatter={(label: any, payload: any) => {
                     if (payload && payload.length > 0) {
                       return payload[0].payload.fullName;
                     }
@@ -335,11 +335,11 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
                 <XAxis dataKey="name" />
                 <YAxis label={{ value: 'Percentage (%)', angle: -90, position: 'insideLeft' }} />
                 <Tooltip 
-                  formatter={(value, name, props) => [
+                  formatter={(value: any, name: any, props: any) => [
                     `${value}%`, 
                     name === "correct" ? "Correct" : "Incorrect"
-                  ]}
-                  labelFormatter={(label, payload) => {
+                  ] as [string, string]}
+                  labelFormatter={(label: any, payload: any) => {
                     if (payload && payload.length > 0) {
                       return `${label} Confidence (${payload[0].payload.total} answers)`;
                     }

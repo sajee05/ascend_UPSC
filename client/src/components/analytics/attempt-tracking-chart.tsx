@@ -17,17 +17,17 @@ const COLORS = ['#4caf50', '#2196f3', '#ff9800', '#f44336'];
 
 // Helper function to prepare data for the charts
 function prepareAttemptData(stats: SubjectStats) {
-  // Prepare data for the attempt distribution chart (bar chart)
+  // Prepare data for the read distribution chart (bar chart)
   const attemptDistributionData = Object.entries(stats.attemptDistribution || {}).map(([key, value]) => ({
-    name: `Attempt ${key}`,
+    name: `Read ${key}`,
     count: value,
   }));
 
-  // Prepare data for the correct answers by attempt number (pie chart)
+  // Prepare data for the correct answers by read number (pie chart)
   const correctByAttemptData = [
-    { name: '1st Attempt', value: stats.firstAttemptCorrect },
-    { name: '2nd Attempt', value: stats.secondAttemptCorrect },
-    { name: '3rd+ Attempt', value: stats.thirdPlusAttemptCorrect },
+    { name: '1st Read', value: stats.firstAttemptCorrect },
+    { name: '2nd Read', value: stats.secondAttemptCorrect },
+    { name: '3rd+ Read', value: stats.thirdPlusAttemptCorrect },
   ];
 
   return {
@@ -54,6 +54,9 @@ export function AttemptTrackingCharts({ stats }: AttemptTrackingProps) {
         <div className="custom-tooltip bg-background p-2 border rounded-md shadow-md">
           <p className="font-medium">{`${data.name}: ${data.value}`}</p>
           <p>{`${percentage} of correct answers`}</p>
+          <p className="text-xs text-muted-foreground">{data.name === '1st Read' ? 'Answered on first viewing' : 
+             data.name === '2nd Read' ? 'Skipped once, answered on second viewing' : 
+             'Required multiple skips before answering'}</p>
         </div>
       );
     }
@@ -63,15 +66,15 @@ export function AttemptTrackingCharts({ stats }: AttemptTrackingProps) {
   return (
     <Card className="w-full">
       <CardHeader>
-        <CardTitle>Attempt Analysis</CardTitle>
+        <CardTitle>Reading Analysis</CardTitle>
         <CardDescription>
-          Analysis of question attempts and success rates based on attempt number
+          Analysis of question readings and success rates based on read number
         </CardDescription>
       </CardHeader>
       <CardContent className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {/* Pie chart showing correct answers by attempt number */}
+        {/* Pie chart showing correct answers by read number */}
         <div className="flex flex-col items-center">
-          <h3 className="text-sm font-medium mb-2">Correct Answers by Attempt</h3>
+          <h3 className="text-sm font-medium mb-2">Correct Answers by Read</h3>
           <div className="w-full h-[250px]">
             <ResponsiveContainer width="100%" height="100%">
               <PieChart>
@@ -98,9 +101,9 @@ export function AttemptTrackingCharts({ stats }: AttemptTrackingProps) {
           </div>
         </div>
 
-        {/* Bar chart showing attempt distribution */}
+        {/* Bar chart showing read distribution */}
         <div className="flex flex-col items-center">
-          <h3 className="text-sm font-medium mb-2">Question Attempt Distribution</h3>
+          <h3 className="text-sm font-medium mb-2">Question Read Distribution</h3>
           <div className="w-full h-[250px]">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart
@@ -121,25 +124,25 @@ export function AttemptTrackingCharts({ stats }: AttemptTrackingProps) {
           </div>
         </div>
 
-        {/* Text summary of attempt data */}
+        {/* Text summary of read data */}
         <div className="md:col-span-2 mt-4 p-3 bg-accent/30 rounded-md">
-          <h3 className="text-sm font-medium mb-2">Attempt Analysis Summary</h3>
+          <h3 className="text-sm font-medium mb-2">Reading Analysis Summary</h3>
           <ul className="list-disc list-inside space-y-1">
             <li>
-              <span className="font-medium">{stats.firstAttemptCorrect}</span> questions answered correctly on first attempt
+              <span className="font-medium">{stats.firstAttemptCorrect}</span> questions answered correctly on first read
               {totalCorrect > 0 && ` (${((stats.firstAttemptCorrect / totalCorrect) * 100).toFixed(1)}% of correct answers)`}
             </li>
             <li>
-              <span className="font-medium">{stats.secondAttemptCorrect}</span> questions answered correctly on second attempt
+              <span className="font-medium">{stats.secondAttemptCorrect}</span> questions answered correctly on second read
               {totalCorrect > 0 && ` (${((stats.secondAttemptCorrect / totalCorrect) * 100).toFixed(1)}% of correct answers)`}
             </li>
             <li>
-              <span className="font-medium">{stats.thirdPlusAttemptCorrect}</span> questions answered correctly on third or later attempts
+              <span className="font-medium">{stats.thirdPlusAttemptCorrect}</span> questions answered correctly on third or later reads
               {totalCorrect > 0 && ` (${((stats.thirdPlusAttemptCorrect / totalCorrect) * 100).toFixed(1)}% of correct answers)`}
             </li>
             {stats.attempts > 0 && (
               <li>
-                Average attempt before answering: <span className="font-medium">
+                Average number of reads before answering: <span className="font-medium">
                   {
                     (Object.entries(stats.attemptDistribution || {})
                       .reduce((sum, [key, value]) => sum + (parseInt(key) * value), 0) / 

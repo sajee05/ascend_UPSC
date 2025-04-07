@@ -292,11 +292,11 @@ export default function OverallAnalyticsPage() {
                       <YAxis yAxisId="left" />
                       <YAxis yAxisId="right" orientation="right" domain={[0, 100]} unit="%" />
                       <Tooltip 
-                        formatter={(value, name) => {
-                          if (name === "accuracy") return [`${value.toFixed(1)}%`, "Accuracy"];
-                          return [value.toFixed(1), "Score"];
+                        formatter={(value: any, name: any): [string, string] => {
+                          if (name === "accuracy") return [`${parseFloat(value).toFixed(1)}%`, "Accuracy"];
+                          return [parseFloat(value).toFixed(1), "Score"];
                         }}
-                        labelFormatter={(value) => formatDate(value)}
+                        labelFormatter={(value: any) => formatDate(value)}
                       />
                       <Legend />
                       <Line 
@@ -332,7 +332,7 @@ export default function OverallAnalyticsPage() {
                       <XAxis dataKey="subject" />
                       <YAxis domain={[0, 100]} unit="%" />
                       <Tooltip 
-                        formatter={(value) => [`${value}%`, "Accuracy"]}
+                        formatter={(value: any): [string, string] => [`${value}%`, "Accuracy"]}
                       />
                       <Bar dataKey="accuracy" fill="#0A84FF" name="Accuracy" radius={[4, 4, 0, 0]}>
                         {filteredStats.map((entry, index) => (
