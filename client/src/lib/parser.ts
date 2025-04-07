@@ -49,43 +49,47 @@ export function parseTestFile(fileContent: string): ParseResult {
       const parts = block.split('#AnswerStart');
       
       if (parts.length !== 2) {
+        console.log("Skipping malformed block - no #AnswerStart tag found");
         continue; // Skip malformed blocks
       }
       
       const questionPart = parts[0].split('#QuestionEnd')[0].trim();
       const answerPart = parts[1].split('#AnswerEnd')[0].trim();
       
+      console.log("Processing question part:", questionPart);
+      console.log("Processing answer part:", answerPart);
+      
       // Extract question number and text
-      const questionMatch = questionPart.match(/Q(\d+)\)\s*(.*)/s);
+      const questionMatch = questionPart.match(/Q(\d+)\)\s*([\s\S]*)/);
       
       if (!questionMatch) {
+        console.log("Skipping question with invalid format - no Q number found");
         continue; // Skip if question format is invalid
       }
       
       const questionNumber = parseInt(questionMatch[1]);
       const fullText = questionMatch[2].trim();
       
-      // Find where options start (looking for pattern like "a)", "A)", etc.)
-      const optionStartRegex = /\n\s*[a-dA-D][\)\.]|\n\s*\([a-dA-D]\)|\n\s*[ivx]+\)/;
-      const optionStartMatch = fullText.match(optionStartRegex);
+      // Extract options directly (assuming they're already formatted as a), b), etc.)
+      const lines = fullText.split('\n').map(line => line.trim()).filter(line => line.length > 0);
       
-      if (!optionStartMatch) {
-        continue; // Skip if options cannot be identified
+      // Find the option lines (looking for lines that start with a), b), etc.)
+      const optionLines = lines.filter(line => /^[a-dA-D]\)/.test(line));
+      
+      if (optionLines.length < 2) {
+        console.log("Skipping question - insufficient options found:", optionLines);
+        continue; // Skip if not enough options found
       }
       
-      const optionStartIndex = optionStartMatch.index;
-      
-      // Extract the question text (everything before options)
-      const questionText = fullText.substring(0, optionStartIndex).trim();
-      
-      // Extract options
-      const optionsText = fullText.substring(optionStartIndex).trim();
-      const optionLines = optionsText.split('\n').map(line => line.trim()).filter(line => line.length > 0);
+      // Extract question text (everything before the first option)
+      const firstOptionIndex = lines.findIndex(line => /^[a-dA-D]\)/.test(line));
+      const questionTextLines = lines.slice(0, firstOptionIndex);
+      const questionText = questionTextLines.join('\n');
       
       // Helper function to normalize option format
       const normalizeOption = (option: string): string => {
-        // Remove leading markers like "a)", "A.", "(a)", etc.
-        return option.replace(/^[a-dA-D][\)\.]\s*|^\([a-dA-D]\)\s*|^[ivx]+\)\s*/, '').trim();
+        // Remove leading markers like "a)", "A)", etc.
+        return option.replace(/^[a-dA-D]\)\s*/, '').trim();
       };
       
       // Extract options A, B, C, D
@@ -93,32 +97,50 @@ export function parseTestFile(fileContent: string): ParseResult {
         A: '', B: '', C: '', D: ''
       };
       
-      const optionKeys = ['A', 'B', 'C', 'D'];
-      
-      for (let i = 0; i < Math.min(optionLines.length, 4); i++) {
-        options[optionKeys[i]] = normalizeOption(optionLines[i]);
+      for (const line of optionLines) {
+        const optionMatch = line.match(/^([a-dA-D])\)(.*)/);
+        if (optionMatch) {
+          const letterKey = optionMatch[1].toUpperCase();
+          options[letterKey] = normalizeOption(line);
+        }
       }
       
       // Extract correct answer from answer part
-      const answerMatch = answerPart.match(/Answer:\s*([a-dA-D])[\.|\)]?\s*(.*)/i);
+      // Format is typically "Answer: a) Option text"
+      let correctAnswerLetter = '';
+      let correctAnswerText = '';
       
-      if (!answerMatch) {
-        continue; // Skip if answer format is invalid
+      const answerMatch = answerPart.match(/Answer:\s*([a-dA-D])\)(.*)/i);
+      
+      if (answerMatch) {
+        correctAnswerLetter = answerMatch[1].toUpperCase();
+        correctAnswerText = answerMatch[2].trim();
+      } else {
+        console.log("Trying alternate answer format (no parenthesis)");
+        // Try alternate format: "Answer: a Option text"
+        const altAnswerMatch = answerPart.match(/Answer:\s*([a-dA-D])\s+(.*)/i);
+        
+        if (!altAnswerMatch) {
+          console.log("Skipping question - invalid answer format:", answerPart);
+          continue; // Skip if answer format is invalid
+        }
+        
+        correctAnswerLetter = altAnswerMatch[1].toUpperCase();
+        correctAnswerText = altAnswerMatch[2].trim();
       }
-      
-      const correctAnswerLetter = answerMatch[1].toUpperCase();
-      const correctAnswerText = answerMatch[2].trim();
       
       questions.push({
         questionNumber,
         questionText,
-        optionA: options.A,
-        optionB: options.B,
-        optionC: options.C,
-        optionD: options.D,
+        optionA: options.A || "No option provided",
+        optionB: options.B || "No option provided",
+        optionC: options.C || "No option provided",
+        optionD: options.D || "No option provided",
         correctAnswer: correctAnswerLetter,
         correctAnswerText
       });
+      
+      console.log("Successfully parsed question:", questionNumber);
     }
 
     if (questions.length === 0) {

@@ -70,6 +70,9 @@ export function FileUploader() {
       // Read file content
       const fileContent = await selectedFile.text();
       
+      console.log("File content length:", fileContent.length);
+      console.log("First 100 chars:", fileContent.substring(0, 100));
+      
       // Parse the file
       const parseResult = parseTestFile(fileContent);
       
@@ -83,6 +86,8 @@ export function FileUploader() {
         return;
       }
       
+      console.log("Successfully parsed questions:", parseResult.questions.length);
+      
       // Create test in database
       const testData: InsertTest = {
         filename: selectedFile.name,
@@ -91,29 +96,49 @@ export function FileUploader() {
       };
       
       // Upload test data
-      const testResponse = await apiRequest("POST", "/api/tests", testData);
-      const test = await testResponse.json();
-      
-      // Convert parsed questions to the format expected by the database
-      const questions: InsertQuestion[] = convertParsedQuestions(test.id, parseResult.questions);
-      
-      // Upload questions
-      await apiRequest("POST", "/api/questions", questions);
-      
-      // Show success notification
-      toast({
-        title: "Upload Successful",
-        description: `${parseResult.questions.length} questions parsed from ${selectedFile.name}`,
-      });
-      
-      // Reset state and refresh tests list
-      setSelectedFile(null);
-      queryClient.invalidateQueries({ queryKey: ["/api/tests"] });
-    } catch (error) {
+      try {
+        const testResponse = await apiRequest("POST", "/api/tests", testData);
+        
+        if (!testResponse.ok) {
+          const errorData = await testResponse.json();
+          throw new Error(`API error: ${errorData.message || testResponse.statusText}`);
+        }
+        
+        const test = await testResponse.json();
+        
+        // Convert parsed questions to the format expected by the database
+        const questions: InsertQuestion[] = convertParsedQuestions(test.id, parseResult.questions);
+        
+        // Upload questions
+        const questionsResponse = await apiRequest("POST", "/api/questions", questions);
+        
+        if (!questionsResponse.ok) {
+          const errorData = await questionsResponse.json();
+          throw new Error(`API error while saving questions: ${errorData.message || questionsResponse.statusText}`);
+        }
+        
+        // Show success notification
+        toast({
+          title: "Upload Successful",
+          description: `${parseResult.questions.length} questions parsed from ${selectedFile.name}`,
+        });
+        
+        // Reset state and refresh tests list
+        setSelectedFile(null);
+        queryClient.invalidateQueries({ queryKey: ["/api/tests"] });
+      } catch (apiError: any) {
+        console.error("API error:", apiError);
+        toast({
+          title: "API Error",
+          description: apiError.message || "Failed to save test data to the server",
+          variant: "destructive",
+        });
+      }
+    } catch (error: any) {
       console.error("Error uploading file:", error);
       toast({
         title: "Upload Error",
-        description: "Failed to upload and process the file",
+        description: error.message || "Failed to upload and process the file",
         variant: "destructive",
       });
     } finally {

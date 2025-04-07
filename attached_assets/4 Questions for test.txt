@@ -1,0 +1,55 @@
+#QuestionStart
+Q1) The mind of the makers of the Constitution of India is reflected in which of the following?
+a) The Preamble
+b) The Fundamental Rights
+c) The Directive Principles of State Policy
+d) The Fundamental Duties
+#QuestionEnd
+#AnswerStart
+Answer: a) The Preamble
+#AnswerEnd
+
+#QuestionStart
+Q2) Which of the following describes the most significant advantage of the Parliamentary form of Government?
+a) It ensures the separation of powers between the executive and the legislature.
+b) It provides that the power is constitutionally divided between the national government and the regional governments.
+c) It establishes a responsible government whereby the executive is responsible to the legislature for its actions.
+d) It provides a stable government, thus ensuring the formulation and implementation of long-term policies.
+#QuestionEnd
+#AnswerStart
+Answer: c) It establishes a responsible government whereby the executive is responsible to the legislature for its actions.
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following pairs with reference to making of the Constitution of India:
+|---------------------------------------------|
+| Personality             Role  in  Constitutional Making                                 |
+|---------------------------------------------|
+| 1. K.M. Munshi            Member  of  the  Drafting Committee          of      the Constitution |
+| 2. B.N. Rau               Constitutional  Advisor  to the Constituent Assembly                |
+| 3. Alladi Krishnaswami Ayyar  Chairman of the Steering Committee          of      the Constituent Assembly |
+|---------------------------------------------|
+How many pairs given above are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q4) In the context of Constitution of India, consider the following provisions:
+1. The Centre altering the names and boundaries of States unilaterally.
+2. Unequal representation of states in the Rajya Sabha.
+3. Different federal arrangements for Union Territories compared to states.
+How many of the above are examples of the asymmetric federalism in India?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
