@@ -12,6 +12,21 @@ export function FormatInfo() {
   // Construct the parsing prompt using the title from settings
   const parsingPrompt = `${settings.parsingPromptTitle || "Parse the following test into JSON format"}:
 
+Parse all questions into the following structure:
+[
+  {
+    "questionNumber": 1,
+    "questionText": "Full question text",
+    "optionA": "Option A text",
+    "optionB": "Option B text",
+    "optionC": "Option C text",
+    "optionD": "Option D text",
+    "correctAnswer": "a", // The correct option letter
+    "correctText": "Option A text" // The text of the correct option
+  }
+]
+
+Input Format:
 #QuestionStart
 [Question number]) [Full question text]
 a) [Option A text]
