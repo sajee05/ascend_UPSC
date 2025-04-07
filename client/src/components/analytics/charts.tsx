@@ -22,11 +22,13 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
   ];
 
   // Data for subject accuracy bar chart
-  const subjectAccuracyData = subjectStats.map(subject => ({
-    name: subject.subject,
-    accuracy: parseFloat(subject.accuracy.toFixed(1)),
-    color: "#0A84FF",
-  }));
+  const subjectAccuracyData = [...subjectStats]
+    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .map(subject => ({
+      name: subject.subject,
+      accuracy: parseFloat(subject.accuracy.toFixed(1)),
+      color: "#0A84FF",
+    }));
 
   // Data for confidence pie chart
   const confidenceData = [
@@ -59,34 +61,40 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
   ];
   
   // Data for subject performance radar chart
-  const radarData = subjectStats.map(subject => {
-    const data = {
-      subject: subject.subject,
-      accuracy: parseFloat(subject.accuracy.toFixed(1)),
-      score: parseFloat((subject.score * 10).toFixed(1)),
-      speed: 100 - Math.min(100, parseFloat((subject.avgTimeSeconds / 2).toFixed(1))),
-      confidence: parseFloat(((subject.confidenceHigh / Math.max(1, subject.attempts)) * 100).toFixed(1)),
-      knowledge: parseFloat(((subject.knowledgeYes / Math.max(1, subject.attempts)) * 100).toFixed(1)),
-    };
-    return data;
-  });
+  const radarData = [...subjectStats]
+    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .map(subject => {
+      const data = {
+        subject: subject.subject,
+        accuracy: parseFloat(subject.accuracy.toFixed(1)),
+        score: parseFloat((subject.score * 10).toFixed(1)),
+        speed: 100 - Math.min(100, parseFloat((subject.avgTimeSeconds / 2).toFixed(1))),
+        confidence: parseFloat(((subject.confidenceHigh / Math.max(1, subject.attempts)) * 100).toFixed(1)),
+        knowledge: parseFloat(((subject.knowledgeYes / Math.max(1, subject.attempts)) * 100).toFixed(1)),
+      };
+      return data;
+    });
   
   // Data for subject comparison chart
-  const subjectComparisonData = subjectStats.map(subject => ({
-    name: subject.subject,
-    accuracy: parseFloat(subject.accuracy.toFixed(1)),
-    score: parseFloat((subject.score * 10).toFixed(1)),
-    avgTime: parseFloat(subject.avgTimeSeconds.toFixed(0)),
-    questions: subject.attempts,
-  }));
+  const subjectComparisonData = [...subjectStats]
+    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .map(subject => ({
+      name: subject.subject,
+      accuracy: parseFloat(subject.accuracy.toFixed(1)),
+      score: parseFloat((subject.score * 10).toFixed(1)),
+      avgTime: parseFloat(subject.avgTimeSeconds.toFixed(0)),
+      questions: subject.attempts,
+    }));
   
   // Data for time-speed analysis
-  const timeSpeedData = subjectStats.map(subject => ({
-    name: subject.subject,
-    avgTime: subject.avgTimeSeconds,
-    accuracy: subject.accuracy,
-    size: subject.attempts * 5, // Circle size proportional to number of questions
-  }));
+  const timeSpeedData = [...subjectStats]
+    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .map(subject => ({
+      name: subject.subject,
+      avgTime: subject.avgTimeSeconds,
+      accuracy: subject.accuracy,
+      size: subject.attempts * 5, // Circle size proportional to number of questions
+    }));
 
   return (
     <motion.div 

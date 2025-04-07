@@ -42,7 +42,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
 
   // Get all questions (for browsing across tests)
   const { data: allQuestions, isLoading: isLoadingAllQuestions } = useQuery<QuestionWithTags[]>({
-    queryKey: ['/api/tests/all/questions'],
+    queryKey: ['/api/questions'],
     enabled: !testId && activeTab === "all",
   });
 
@@ -213,7 +213,7 @@ function SearchAndFilterSection({
           Filter by Tags
         </h3>
         <div className="flex flex-wrap gap-2">
-          {allTags && allTags.map((tag: string) => (
+          {allTags && [...allTags].sort().map((tag: string) => (
             <Badge
               key={tag}
               variant={selectedTags.includes(tag) ? "default" : "outline"}
@@ -271,7 +271,7 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
         <div className="line-clamp-3 mb-2 text-sm">{question.questionText}</div>
         
         <div className="flex flex-wrap mt-2 gap-2">
-          {question.tags && question.tags.map(tag => (
+          {question.tags && [...question.tags].sort((a, b) => a.tagName.localeCompare(b.tagName)).map(tag => (
             <Badge
               key={tag.id}
               variant={tag.isAIGenerated ? "outline" : "secondary"}

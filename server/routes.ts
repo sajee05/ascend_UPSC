@@ -100,8 +100,8 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
   
-  // GET /api/tests/all/questions - Get all questions across tests
-  apiRouter.get("/api/tests/all/questions", async (_req: Request, res: Response) => {
+  // GET /api/questions - Get all questions across tests
+  apiRouter.get("/api/questions", async (_req: Request, res: Response) => {
     try {
       const questions = await storage.getAllQuestions();
       res.json(questions);

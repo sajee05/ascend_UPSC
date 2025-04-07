@@ -3,7 +3,7 @@ import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
-import { PlayIcon, DownloadIcon, BarChart3Icon, Loader2Icon } from "lucide-react";
+import { PlayIcon, DownloadIcon, BarChart3Icon, Loader2Icon, EyeIcon } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { apiRequest } from "@/lib/queryClient";
 import { formatDate, downloadCSV, generateFileName } from "@/lib/utils";
@@ -244,6 +244,14 @@ export function TestList() {
                   ) : (
                     <PlayIcon className="h-4 w-4 text-green-600 dark:text-green-400" />
                   )}
+                </Button>
+                <Button 
+                  variant="ghost" 
+                  size="icon" 
+                  title="Browse Questions"
+                  onClick={() => navigate(`/tests/${test.id}/questions`)}
+                >
+                  <EyeIcon className="h-4 w-4 text-blue-500 dark:text-blue-400" />
                 </Button>
                 <Button 
                   variant="ghost" 
