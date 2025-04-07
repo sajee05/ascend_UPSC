@@ -23,7 +23,7 @@ const defaultSettings: Settings = {
   animations: true,
   aiEnabled: true,
   aiApiKey: "",
-  aiModel: "gemini-1.5-flash",
+  aiModel: "gemini-2.0-flash",
   subjectTaggingPrompt: DEFAULT_SUBJECT_TAGGING_PROMPT,
   analyticsPrompt: DEFAULT_ANALYTICS_PROMPT,
 };
@@ -46,6 +46,44 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
     }
     return defaultSettings;
   });
+  
+  // Load theme from theme.json on initial load
+  useEffect(() => {
+    const getThemeColor = async () => {
+      try {
+        // This fetch will be intercepted by the Vite dev server and will read from the file
+        const response = await fetch('/theme.json');
+        if (response.ok) {
+          const themeData = await response.json();
+          
+          // Map HSL values to color names
+          const colorMap: Record<string, string> = {
+            "hsl(211, 100%, 50%)": "blue",
+            "hsl(270, 80%, 50%)": "purple",
+            "hsl(142, 70%, 45%)": "green",
+            "hsl(45, 97%, 50%)": "amber",
+            "hsl(0, 84%, 60%)": "red"
+          };
+          
+          // Find closest match or default to blue
+          const primaryColor = themeData.primary ? (colorMap[themeData.primary] || "blue") : "blue";
+          
+          // Update settings with color from theme.json
+          setSettings(prev => ({
+            ...prev,
+            primaryColor
+          }));
+          
+          // Set CSS variable for immediate application
+          document.documentElement.style.setProperty('--primary', themeData.primary);
+        }
+      } catch (error) {
+        console.error("Failed to load theme.json:", error);
+      }
+    };
+    
+    getThemeColor();
+  }, []);
 
   useEffect(() => {
     // Apply theme when settings change or on initial load

@@ -3,7 +3,9 @@ import { SubjectStats } from "@shared/schema";
 import { motion } from "framer-motion";
 import { 
   PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, 
-  Tooltip, Legend, ResponsiveContainer 
+  Tooltip, Legend, ResponsiveContainer, RadarChart, PolarGrid,
+  PolarAngleAxis, PolarRadiusAxis, Radar, LineChart, Line, 
+  ScatterChart, Scatter, Area, AreaChart, ComposedChart
 } from "recharts";
 
 interface ChartsProps {
@@ -39,6 +41,36 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
     { name: "Technique", yes: overallStats.techniqueYes, no: overallStats.attempts - overallStats.techniqueYes },
     { name: "Guesswork", yes: overallStats.guessworkYes, no: overallStats.attempts - overallStats.guessworkYes },
   ];
+  
+  // Data for subject performance radar chart
+  const radarData = subjectStats.map(subject => {
+    const data = {
+      subject: subject.subject,
+      accuracy: parseFloat(subject.accuracy.toFixed(1)),
+      score: parseFloat((subject.score * 10).toFixed(1)),
+      speed: 100 - Math.min(100, parseFloat((subject.avgTimeSeconds / 2).toFixed(1))),
+      confidence: parseFloat(((subject.confidenceHigh / Math.max(1, subject.attempts)) * 100).toFixed(1)),
+      knowledge: parseFloat(((subject.knowledgeYes / Math.max(1, subject.attempts)) * 100).toFixed(1)),
+    };
+    return data;
+  });
+  
+  // Data for subject comparison chart
+  const subjectComparisonData = subjectStats.map(subject => ({
+    name: subject.subject,
+    accuracy: parseFloat(subject.accuracy.toFixed(1)),
+    score: parseFloat((subject.score * 10).toFixed(1)),
+    avgTime: parseFloat(subject.avgTimeSeconds.toFixed(0)),
+    questions: subject.attempts,
+  }));
+  
+  // Data for time-speed analysis
+  const timeSpeedData = subjectStats.map(subject => ({
+    name: subject.subject,
+    avgTime: subject.avgTimeSeconds,
+    accuracy: subject.accuracy,
+    size: subject.attempts * 5, // Circle size proportional to number of questions
+  }));
 
   return (
     <motion.div 
@@ -172,6 +204,76 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
                 <Bar dataKey="yes" name="Yes" stackId="a" fill="#30D158" />
                 <Bar dataKey="no" name="No" stackId="a" fill="#FF453A" />
               </BarChart>
+            </ResponsiveContainer>
+          </div>
+        </CardContent>
+      </Card>
+      
+      {/* Radar Chart: Subject Performance Analysis */}
+      <Card className="md:col-span-2">
+        <CardContent className="p-4">
+          <h3 className="font-medium text-center mb-3">Subject Performance Analysis</h3>
+          <div className="h-72 w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
+                <PolarGrid strokeDasharray="3 3" />
+                <PolarAngleAxis dataKey="subject" />
+                <PolarRadiusAxis domain={[0, 100]} />
+                <Radar name="Accuracy" dataKey="accuracy" stroke="#0A84FF" fill="#0A84FF" fillOpacity={0.6} />
+                <Radar name="Score" dataKey="score" stroke="#30D158" fill="#30D158" fillOpacity={0.6} />
+                <Radar name="Speed" dataKey="speed" stroke="#FF9F0A" fill="#FF9F0A" fillOpacity={0.6} />
+                <Radar name="Confidence" dataKey="confidence" stroke="#BF5AF2" fill="#BF5AF2" fillOpacity={0.6} />
+                <Radar name="Knowledge" dataKey="knowledge" stroke="#FF2D55" fill="#FF2D55" fillOpacity={0.6} />
+                <Legend />
+                <Tooltip />
+              </RadarChart>
+            </ResponsiveContainer>
+          </div>
+        </CardContent>
+      </Card>
+      
+      {/* Scatter Plot: Time vs Accuracy */}
+      <Card className="md:col-span-1">
+        <CardContent className="p-4">
+          <h3 className="font-medium text-center mb-3">Time vs Accuracy</h3>
+          <div className="h-72 w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <ScatterChart margin={{ top: 20, right: 20, bottom: 20, left: 20 }}>
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis type="number" dataKey="avgTime" name="Time (sec)" unit="s" />
+                <YAxis type="number" dataKey="accuracy" name="Accuracy" unit="%" domain={[0, 100]} />
+                <Tooltip cursor={{ strokeDasharray: '3 3' }} />
+                <Scatter name="Subjects" data={timeSpeedData} fill="#0A84FF">
+                  {timeSpeedData.map((entry, index) => (
+                    <Cell 
+                      key={`cell-${index}`} 
+                      fill={entry.accuracy > 70 ? "#30D158" : entry.accuracy > 40 ? "#FF9F0A" : "#FF453A"} 
+                    />
+                  ))}
+                </Scatter>
+              </ScatterChart>
+            </ResponsiveContainer>
+          </div>
+        </CardContent>
+      </Card>
+      
+      {/* Area Chart: Subject Comparisons */}
+      <Card className="md:col-span-3">
+        <CardContent className="p-4">
+          <h3 className="font-medium text-center mb-3">Subject Comparison</h3>
+          <div className="h-72 w-full">
+            <ResponsiveContainer width="100%" height="100%">
+              <ComposedChart data={subjectComparisonData} margin={{ top: 10, right: 30, left: 0, bottom: 20 }}>
+                <CartesianGrid strokeDasharray="3 3" />
+                <XAxis dataKey="name" />
+                <YAxis yAxisId="left" orientation="left" stroke="#0A84FF" />
+                <YAxis yAxisId="right" orientation="right" stroke="#FF9F0A" />
+                <Tooltip />
+                <Legend />
+                <Bar yAxisId="left" dataKey="accuracy" name="Accuracy (%)" fill="#0A84FF" />
+                <Bar yAxisId="left" dataKey="score" name="Score (out of 100)" fill="#30D158" />
+                <Line yAxisId="right" type="monotone" dataKey="avgTime" name="Avg Time (sec)" stroke="#FF9F0A" />
+              </ComposedChart>
             </ResponsiveContainer>
           </div>
         </CardContent>

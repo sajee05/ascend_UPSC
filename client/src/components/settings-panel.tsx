@@ -52,8 +52,26 @@ export default function SettingsPanel() {
   };
 
   const handleColorChange = (color: string) => {
+    const colorMap: Record<string, string> = {
+      blue: "hsl(211, 100%, 50%)",
+      purple: "hsl(270, 80%, 50%)",
+      green: "hsl(142, 70%, 45%)",
+      amber: "hsl(45, 97%, 50%)",
+      red: "hsl(0, 84%, 60%)"
+    };
+    
+    // Update settings
     updateSettings({ primaryColor: color });
-    // Update theme.json via an API call or local storage for persistence
+    
+    // Update CSS variables for immediate visual feedback
+    document.documentElement.style.setProperty('--primary', colorMap[color]);
+    
+    // Send request to update theme.json
+    fetch('/api/theme', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ primary: colorMap[color] })
+    }).catch(err => console.error('Error updating theme:', err));
   };
 
   const handleSaveAISettings = () => {
@@ -234,11 +252,15 @@ export default function SettingsPanel() {
                     <SelectValue placeholder="Select Gemini model" />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="gemini-1.5-flash">gemini-1.5-flash (Recommended)</SelectItem>
-                    <SelectItem value="gemini-1.0-pro">gemini-1.0-pro</SelectItem>
+                    <SelectItem value="gemini-2.0-flash">gemini-2.0-flash (Recommended)</SelectItem>
+                    <SelectItem value="gemini-1.5-flash">gemini-1.5-flash</SelectItem>
                     <SelectItem value="gemini-1.5-pro">gemini-1.5-pro</SelectItem>
+                    <SelectItem value="gemini-1.0-pro">gemini-1.0-pro</SelectItem>
                   </SelectContent>
                 </Select>
+                <p className="text-xs text-muted-foreground mt-1">
+                  Model options are updated automatically to reflect the latest available models.
+                </p>
               </div>
               
               {/* API Key */}

@@ -14,6 +14,8 @@ import {
 } from "@shared/schema";
 import { fromZodError } from "zod-validation-error";
 import { ZodError } from "zod";
+import * as fs from "fs/promises";
+import * as path from "path";
 
 export async function registerRoutes(app: Express): Promise<Server> {
   // Prefix all routes with /api
@@ -369,6 +371,54 @@ export async function registerRoutes(app: Express): Promise<Server> {
     } catch (error) {
       console.error("Error generating Anki data:", error);
       res.status(500).json({ message: "Failed to generate Anki data" });
+    }
+  });
+  
+  // POST /api/theme - Update theme settings
+  apiRouter.post("/api/theme", async (req: Request, res: Response) => {
+    try {
+      const schema = z.object({
+        primary: z.string(),
+        variant: z.enum(["professional", "tint", "vibrant"]).optional(),
+        appearance: z.enum(["light", "dark", "system"]).optional(),
+        radius: z.number().optional()
+      });
+      
+      const themeData = schema.parse(req.body);
+      const themeJsonPath = path.resolve("./theme.json");
+      
+      // Read current theme.json
+      let currentTheme;
+      try {
+        const themeFile = await fs.readFile(themeJsonPath, 'utf-8');
+        currentTheme = JSON.parse(themeFile);
+      } catch (err) {
+        // Use default values if file doesn't exist
+        currentTheme = {
+          variant: "professional",
+          primary: "hsl(211, 100%, 50%)",
+          appearance: "light",
+          radius: 0.75
+        };
+      }
+      
+      // Update with new values
+      const updatedTheme = {
+        ...currentTheme,
+        ...themeData
+      };
+      
+      // Write to theme.json
+      await fs.writeFile(themeJsonPath, JSON.stringify(updatedTheme, null, 2));
+      
+      res.json({ message: "Theme updated successfully", theme: updatedTheme });
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid theme data", error: fromZodError(error) });
+      } else {
+        console.error("Error updating theme:", error);
+        res.status(500).json({ message: "Failed to update theme" });
+      }
     }
   });
 
