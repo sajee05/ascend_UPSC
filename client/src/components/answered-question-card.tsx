@@ -114,6 +114,143 @@ export function AnsweredQuestionCard({
     let tableRows = [];
     let tableIndex = 0;
     
+    // This function specifically handles UPSC-style tables
+    const processUpscTable = (tableContent: string[]) => {
+      // Determine the column structure based on the content
+      // For UPSC tables, we can look at the header row which usually has "Personality | Role" structure
+      const headerRowIndex = tableContent.findIndex(row => 
+        !row.includes('---') && 
+        row.includes('|') && 
+        !row.trim().startsWith('|---')
+      );
+      
+      // If we can't find a header row, just default to basic rendering
+      if (headerRowIndex === -1) {
+        return (
+          <pre className="font-mono whitespace-pre-wrap text-xs md:text-sm overflow-x-auto">
+            {tableContent.join('\n')}
+          </pre>
+        );
+      }
+      
+      // Get the header row to analyze column structure
+      const headerRow = tableContent[headerRowIndex];
+      
+      // Parse the header to identify column positions
+      const parts = headerRow.split('|').filter(p => p.trim() !== '');
+      
+      // If we don't detect enough columns, use pre-formatted display
+      if (parts.length < 2) {
+        return (
+          <pre className="font-mono whitespace-pre-wrap text-xs md:text-sm overflow-x-auto">
+            {tableContent.join('\n')}
+          </pre>
+        );
+      }
+      
+      // Otherwise, we can render a proper table with the detected columns
+      const contentRows = tableContent.filter((row, idx) => 
+        !row.includes('---') && idx !== headerRowIndex
+      );
+      
+      return (
+        <div className="my-3 overflow-x-auto">
+          <table className="border-collapse w-full border border-gray-300 dark:border-gray-700">
+            <thead>
+              <tr className="bg-muted">
+                {parts.map((part, index) => (
+                  <th key={index} className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left">
+                    {part.trim()}
+                  </th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {contentRows.map((row, rowIdx) => {
+                // Skip separator rows
+                if (row.includes('---') || row.trim().startsWith('|---')) {
+                  return null;
+                }
+                
+                // Split the row by the pipe character
+                const cells = row.split('|').filter(c => c.trim() !== '');
+                
+                // If this is a multi-column row, render it as a table row
+                if (cells.length >= 2) {
+                  return (
+                    <tr key={rowIdx} className="border-b border-gray-300 dark:border-gray-700">
+                      {cells.map((cell, cellIdx) => (
+                        <td 
+                          key={cellIdx}
+                          className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-sm"
+                        >
+                          {cell.trim()}
+                        </td>
+                      ))}
+                    </tr>
+                  );
+                }
+                
+                // If it doesn't have enough cells, just render as is
+                return null;
+              })}
+            </tbody>
+          </table>
+        </div>
+      );
+    };
+    
+    // Check if the question contains a UPSC style table (patterns from your example)
+    const containsUpscTable = lines.some(line => 
+      line.includes('|---') || 
+      (line.includes('|') && line.includes('Personality')) ||
+      (line.includes('|') && line.includes('Member of the Drafting Committee'))
+    );
+    
+    if (containsUpscTable) {
+      // Extract the table content
+      let tableStart = lines.findIndex(line => line.includes('|'));
+      if (tableStart !== -1) {
+        let tableEnd = lines.findIndex((line, idx) => idx > tableStart && !line.includes('|') && line.trim() !== '');
+        if (tableEnd === -1) tableEnd = lines.length;
+        
+        // Get the table content
+        const tableContent = lines.slice(tableStart, tableEnd);
+        
+        // Pre-table content
+        if (tableStart > 0) {
+          result.push(
+            <div key="pre-table" className="mb-4">
+              {lines.slice(0, tableStart).map((line, idx) => (
+                <div key={`pre-${idx}`}>{line}</div>
+              ))}
+            </div>
+          );
+        }
+        
+        // Render the table
+        result.push(
+          <div key="upsc-table" className="mb-4">
+            {processUpscTable(tableContent)}
+          </div>
+        );
+        
+        // Post-table content
+        if (tableEnd < lines.length) {
+          result.push(
+            <div key="post-table" className="mt-4">
+              {lines.slice(tableEnd).map((line, idx) => (
+                <div key={`post-${idx}`}>{line}</div>
+              ))}
+            </div>
+          );
+        }
+        
+        return result;
+      }
+    }
+    
+    // Standard table processing logic for other cases
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i];
       const isTableRow = line.includes('|');
@@ -199,47 +336,57 @@ export function AnsweredQuestionCard({
     
     // Handle any remaining table at the end
     if (inTable && tableRows.length > 0) {
-      result.push(
-        <div key={`table-${tableIndex}`} className="my-3 overflow-x-auto">
-          <table className="border-collapse w-full border border-gray-300 dark:border-gray-700">
-            <tbody>
-              {tableRows.map((tableRow, rowIdx) => {
-                // Handle table rows with proper parsing
-                const cells = tableRow.split('|');
-                
-                // Remove empty cells from start/end if they're just spacing
-                const filteredCells = cells.filter((cell, idx) => 
-                  !(
-                    (idx === 0 || idx === cells.length - 1) && 
-                    cell.trim() === ''
-                  )
-                );
-                
-                const isHeaderRow = rowIdx === 0;
-                const isSeparatorRow = tableRow.includes('---') || tableRow.includes('===');
-                
-                if (isSeparatorRow) return null;
-                
-                return (
-                  <tr key={`row-${rowIdx}`} className="border-b border-gray-300 dark:border-gray-700">
-                    {filteredCells.map((cell, cellIdx) => {
-                      const CellTag = isHeaderRow ? 'th' : 'td';
-                      return (
-                        <CellTag 
-                          key={`cell-${cellIdx}`}
-                          className="border border-gray-300 dark:border-gray-700 px-3 py-2 text-sm"
-                        >
-                          {cell.trim()}
-                        </CellTag>
-                      );
-                    })}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
-        </div>
-      );
+      // If this looks like a UPSC table, use the specialized handler
+      if (tableRows.some(row => row.includes('---') || row.includes('Personality'))) {
+        result.push(
+          <div key={`upsc-table-${tableIndex}`} className="mb-4">
+            {processUpscTable(tableRows)}
+          </div>
+        );
+      } else {
+        // Otherwise use the standard table renderer
+        result.push(
+          <div key={`table-${tableIndex}`} className="my-3 overflow-x-auto">
+            <table className="border-collapse w-full border border-gray-300 dark:border-gray-700">
+              <tbody>
+                {tableRows.map((tableRow, rowIdx) => {
+                  // Handle table rows with proper parsing
+                  const cells = tableRow.split('|');
+                  
+                  // Remove empty cells from start/end if they're just spacing
+                  const filteredCells = cells.filter((cell, idx) => 
+                    !(
+                      (idx === 0 || idx === cells.length - 1) && 
+                      cell.trim() === ''
+                    )
+                  );
+                  
+                  const isHeaderRow = rowIdx === 0;
+                  const isSeparatorRow = tableRow.includes('---') || tableRow.includes('===');
+                  
+                  if (isSeparatorRow) return null;
+                  
+                  return (
+                    <tr key={`row-${rowIdx}`} className="border-b border-gray-300 dark:border-gray-700">
+                      {filteredCells.map((cell, cellIdx) => {
+                        const CellTag = isHeaderRow ? 'th' : 'td';
+                        return (
+                          <CellTag 
+                            key={`cell-${cellIdx}`}
+                            className="border border-gray-300 dark:border-gray-700 px-3 py-2 text-sm"
+                          >
+                            {cell.trim()}
+                          </CellTag>
+                        );
+                      })}
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
+        );
+      }
     }
     
     return result;

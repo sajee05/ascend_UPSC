@@ -36,6 +36,19 @@ function preserveTableFormatting(text: string): string {
   const processedLines: string[] = [];
   let insideTable = false;
   
+  // Special handling for UPSC-style tables (like the one with Personality and Role columns)
+  const containsUpscTable = lines.some(line => 
+    (line.includes('|') && line.includes('Personality')) ||
+    (line.includes('|') && line.includes('Role in Constitutional Making')) ||
+    (line.includes('|--') && line.includes('--|'))
+  );
+  
+  if (containsUpscTable) {
+    // For UPSC tables, preserve the exact formatting as is
+    return text;
+  }
+  
+  // Standard table handling for other cases
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     

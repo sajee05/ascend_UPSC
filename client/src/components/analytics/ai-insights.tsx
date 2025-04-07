@@ -108,7 +108,35 @@ export function AIInsights({ overallStats, subjectStats }: AIInsightsProps) {
                 </div>
               ) : (
                 <div className="prose prose-sm dark:prose-invert max-w-none">
-                  <ReactMarkdown rehypePlugins={[rehypeSanitize]}>
+                  <ReactMarkdown 
+                    rehypePlugins={[rehypeSanitize]}
+                    components={{
+                      // Add custom components for better table rendering
+                      table: ({node, ...props}) => (
+                        <div className="overflow-x-auto my-4">
+                          <table className="border-collapse w-full border border-gray-300 dark:border-gray-700" {...props} />
+                        </div>
+                      ),
+                      thead: ({node, ...props}) => (
+                        <thead className="bg-muted" {...props} />
+                      ),
+                      th: ({node, ...props}) => (
+                        <th className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left font-semibold" {...props} />
+                      ),
+                      td: ({node, ...props}) => (
+                        <td className="border border-gray-300 dark:border-gray-700 px-4 py-2" {...props} />
+                      ),
+                      tr: ({node, ...props}) => (
+                        <tr className="border-b border-gray-300 dark:border-gray-700" {...props} />
+                      ),
+                      code: ({node, ...props}) => (
+                        <code className="bg-muted px-1 py-0.5 rounded font-mono text-sm" {...props} />
+                      ),
+                      pre: ({node, ...props}) => (
+                        <pre className="bg-muted p-4 rounded-md overflow-x-auto" {...props} />
+                      ),
+                    }}
+                  >
                     {insights || ''}
                   </ReactMarkdown>
                 </div>
