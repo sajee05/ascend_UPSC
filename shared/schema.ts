@@ -1,6 +1,7 @@
-import { pgTable, text, serial, integer, boolean, date, timestamp, real } from "drizzle-orm/pg-core";
+import { pgTable, text, serial, integer, boolean, date, timestamp, real, primaryKey } from "drizzle-orm/pg-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
+import { relations } from "drizzle-orm";
 
 // User authentication (not required for MVP but included for extensibility)
 export const users = pgTable("users", {
@@ -8,6 +9,10 @@ export const users = pgTable("users", {
   username: text("username").notNull().unique(),
   password: text("password").notNull(),
 });
+
+export const usersRelations = relations(users, ({ many }) => ({
+  tests: many(tests),
+}));
 
 export const insertUserSchema = createInsertSchema(users).pick({
   username: true,
@@ -22,6 +27,11 @@ export const tests = pgTable("tests", {
   uploadedAt: timestamp("uploaded_at").notNull().defaultNow(),
   questionCount: integer("question_count").notNull(),
 });
+
+export const testsRelations = relations(tests, ({ many }) => ({
+  questions: many(questions),
+  attempts: many(attempts),
+}));
 
 export const insertTestSchema = createInsertSchema(tests).omit({
   id: true,
@@ -42,6 +52,16 @@ export const questions = pgTable("questions", {
   correctAnswerText: text("correct_answer_text").notNull(),
 });
 
+export const questionsRelations = relations(questions, ({ one, many }) => ({
+  test: one(tests, {
+    fields: [questions.testId],
+    references: [tests.id],
+  }),
+  tags: many(tags),
+  userAnswers: many(userAnswers),
+  flashcards: many(flashcards),
+}));
+
 export const insertQuestionSchema = createInsertSchema(questions).omit({
   id: true,
 });
@@ -53,6 +73,13 @@ export const tags = pgTable("tags", {
   tagName: text("tag_name").notNull(),
   isAIGenerated: boolean("is_ai_generated").notNull().default(false),
 });
+
+export const tagsRelations = relations(tags, ({ one }) => ({
+  question: one(questions, {
+    fields: [tags.questionId],
+    references: [questions.id],
+  }),
+}));
 
 export const insertTagSchema = createInsertSchema(tags).omit({
   id: true,
@@ -68,6 +95,14 @@ export const attempts = pgTable("attempts", {
   totalTimeSeconds: integer("total_time_seconds"),
   completed: boolean("completed").notNull().default(false),
 });
+
+export const attemptsRelations = relations(attempts, ({ one, many }) => ({
+  test: one(tests, {
+    fields: [attempts.testId],
+    references: [tests.id],
+  }),
+  userAnswers: many(userAnswers),
+}));
 
 export const insertAttemptSchema = createInsertSchema(attempts).omit({
   id: true,
@@ -92,6 +127,17 @@ export const userAnswers = pgTable("user_answers", {
   timestamp: timestamp("timestamp").defaultNow(),
 });
 
+export const userAnswersRelations = relations(userAnswers, ({ one }) => ({
+  attempt: one(attempts, {
+    fields: [userAnswers.attemptId],
+    references: [attempts.id],
+  }),
+  question: one(questions, {
+    fields: [userAnswers.questionId],
+    references: [questions.id],
+  }),
+}));
+
 export const insertUserAnswerSchema = createInsertSchema(userAnswers).omit({
   id: true,
   timestamp: true,
@@ -108,6 +154,13 @@ export const flashcards = pgTable("flashcards", {
   interval: integer("interval").notNull().default(1), // in days
   reviewCount: integer("review_count").notNull().default(0),
 });
+
+export const flashcardsRelations = relations(flashcards, ({ one }) => ({
+  question: one(questions, {
+    fields: [flashcards.questionId],
+    references: [questions.id],
+  }),
+}));
 
 export const insertFlashcardSchema = createInsertSchema(flashcards).omit({
   id: true,

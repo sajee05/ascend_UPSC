@@ -1,0 +1,40 @@
+1. there is no confirmation after saving the AI settings.
+
+2. new feild with parsing prompt title is not added in settings. 
+
+3. the text of theme buttons is still not aligned. its becausae of extra emoji. do one thing, enlargen the boxes a bit and add a computer emoji on top of system to make the three of them look aligned.
+
+4. the boxes are still not being made from this text:
+
+
+Q3)
+Consider the following pairs with reference to making of the Constitution of India:
+| Personality               | Role  in  Constitutional Making                  |
+|---------------------------|----------------------------------------------------|
+| 1. K.M. Munshi            | Member  of  the  Drafting Committee of the Constitution |
+| 2. B.N. Rau               | Constitutional  Advisor  to the Constituent Assembly |
+| 3. Alladi Krishnaswami Ayyar | Chairman of the Steering Committee of the Constituent Assembly |
+How many pairs given above are correctly matched?Consider the following pairs with reference to making of the Constitution of India:
+
+
+ths should make a table in the question for better aesthetics its currently visible as it is,.
+
+5. buttons after selecting option in reflect your answr is still not properly fixed. and are unsynchronous aesthetically, the "mid" button is dim as if its hpvered all the time. fix it.
+
+6. text is still going out of the box in case of options sometimes.
+
+7. add undo button after answers.
+
+8. the tags are only showing till the question is unanswered, make it show till its on my screen, i told you earlier as well, you ignored.
+
+9. AI insights box doesnt support markdown format make it support it.
+
+11.add a "Generate AI explanation button next to "next question->" in the question card, which will send -> all the 4 options with right option and its question
+and it will tell me why right answer is right and wrong answer is wrong.
+here accuracy is most important, in case gemini isn't sure about the factual/general/logical correctness, make it add a star emoji next to that statement in its response of AI explanation. so that i can manually proof-read it.
+
+12. add the feature by which all my correct answers automatically converted into flashcards 
+
+13. the analytics can be seen datewise, subjectwise, topicwise, historically, comparatively, etc etc. in all ways possible, its the point of this app.
+
+14. Analytics are still not accurate, fix it.
