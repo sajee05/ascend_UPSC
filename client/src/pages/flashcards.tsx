@@ -168,7 +168,23 @@ export default function FlashcardsPage() {
   // Toggle dark mode
   const toggleDarkMode = () => {
     const newTheme = document.documentElement.classList.contains("dark") ? "light" : "dark";
-    updateSettings({ theme: newTheme as "light" | "dark" });
+    
+    // First update DOM to prevent flash
+    if (newTheme === "dark") {
+      document.documentElement.classList.add("dark");
+    } else {
+      document.documentElement.classList.remove("dark");
+    }
+    
+    // Then update settings
+    updateSettings({ theme: newTheme });
+    
+    // Update theme.json appearance setting without page reload
+    fetch('/api/theme', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ appearance: newTheme })
+    }).catch(err => console.error('Error updating theme appearance:', err));
   };
 
   // Open settings panel

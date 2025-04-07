@@ -38,8 +38,7 @@ export default function SettingsPanel() {
   }, [uiState.settingsPanelOpen, settings]);
 
   const handleThemeChange = (theme: "light" | "dark" | "system") => {
-    updateSettings({ theme });
-    
+    // First update DOM to prevent flash
     if (theme === "dark") {
       document.documentElement.classList.add("dark");
     } else if (theme === "light") {
@@ -53,6 +52,16 @@ export default function SettingsPanel() {
         document.documentElement.classList.remove("dark");
       }
     }
+    
+    // Then update settings
+    updateSettings({ theme });
+    
+    // Update theme.json appearance setting without page reload
+    fetch('/api/theme', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ appearance: theme })
+    }).catch(err => console.error('Error updating theme appearance:', err));
   };
 
   const handleColorChange = (color: string) => {
@@ -64,18 +73,25 @@ export default function SettingsPanel() {
       red: "hsl(0, 84%, 60%)"
     };
     
-    // Update settings
-    updateSettings({ primaryColor: color });
-    
-    // Update CSS variables for immediate visual feedback
+    // First update CSS variables for immediate visual feedback
     document.documentElement.style.setProperty('--primary', colorMap[color]);
     
-    // Send request to update theme.json
+    // Update settings after visual change
+    updateSettings({ primaryColor: color });
+    
+    // Send request to update theme.json without page reload
     fetch('/api/theme', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ primary: colorMap[color] })
     }).catch(err => console.error('Error updating theme:', err));
+    
+    // Show toast confirmation
+    toast({
+      title: "Color updated",
+      description: "Your accent color has been changed",
+      duration: 2000,
+    });
   };
 
   const handleSaveAISettings = () => {

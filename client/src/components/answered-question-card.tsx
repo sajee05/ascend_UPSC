@@ -74,38 +74,127 @@ export function AnsweredQuestionCard({
     onNext();
   };
 
-  // Format monospace text tables with enhanced table detection
-  const formattedQuestionText = question.questionText.split('\n').map((line, i, lines) => {
-    // Detect table rows: lines with tabs or multiple consecutive spaces or table-like structures
-    const isTableRow = 
-      line.includes('\t') || 
-      line.match(/\s{2,}/) || 
-      line.match(/\|\s*[^|]+\s*\|/) || // Detect markdown-style tables with | separators
-      line.match(/\+[-+]+\+/) || // Detect ascii-style tables with + and - separators
-      line.match(/^\s*[\-\+]{3,}/) || // Horizontal table separators
-      line.match(/^\s*[a-z0-9]+\s{2,}/) || // Lines starting with text followed by multiple spaces
-      line.match(/^\s*\d+[\.\)]\s+\S+\s{2,}\S+/) || // Numbered lists with multiple spaces between items
-      (line.match(/[\-\+]{3,}/) && (lines[i-1]?.includes('\t') || lines[i-1]?.match(/\s{2,}/))) || // Lines after table rows
-      (i > 0 && i < lines.length - 1 && 
-       (lines[i-1].includes('\t') || lines[i-1].match(/\s{2,}/)) && 
-       (lines[i+1].includes('\t') || lines[i+1].match(/\s{2,}/)));
+  // Process question text to render markdown tables properly
+  const processQuestionText = () => {
+    const lines = question.questionText.split('\n');
+    const result = [];
+    let inTable = false;
+    let tableRows = [];
+    let tableIndex = 0;
     
-    let className = "";
-    if (isTableRow) {
-      className = "font-mono whitespace-pre text-xs md:text-sm overflow-x-auto max-w-full pb-1";
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      const isTableRow = line.includes('|');
       
-      // Add a scrollable container if the line is too long
-      if (line.length > 60) {
-        className += " scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600";
+      // Start or continue collecting table rows
+      if (isTableRow) {
+        if (!inTable) {
+          inTable = true;
+          tableRows = [];
+        }
+        tableRows.push(line);
+      } 
+      // End of table detected
+      else if (inTable) {
+        // Render the collected table
+        result.push(
+          <div key={`table-${tableIndex}`} className="my-3 overflow-x-auto">
+            <table className="border-collapse w-full">
+              <tbody>
+                {tableRows.map((tableRow, rowIdx) => {
+                  const cells = tableRow.split('|').filter(cell => cell.trim() !== '');
+                  
+                  // Check if this is a header or separator row
+                  const isHeaderRow = rowIdx === 0;
+                  const isSeparatorRow = tableRow.includes('---') || tableRow.includes('===');
+                  
+                  if (isSeparatorRow) return null;
+                  
+                  return (
+                    <tr key={`row-${rowIdx}`}>
+                      {cells.map((cell, cellIdx) => {
+                        const CellTag = isHeaderRow ? 'th' : 'td';
+                        return (
+                          <CellTag 
+                            key={`cell-${cellIdx}`}
+                            className="border border-gray-300 dark:border-gray-700 px-3 py-2 text-sm"
+                          >
+                            {cell.trim()}
+                          </CellTag>
+                        );
+                      })}
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
+        );
+        
+        inTable = false;
+        tableIndex++;
+      } 
+      // Regular text line
+      else {
+        // Handle regular text or other formatting
+        const isTableLike = 
+          line.includes('\t') || 
+          line.match(/\s{2,}/) || 
+          line.match(/\+[-+]+\+/) || // Detect ascii-style tables with + and - separators
+          line.match(/^\s*[\-\+]{3,}/) || // Horizontal table separators
+          line.match(/^\s*[a-z0-9]+\s{2,}/) || // Lines starting with text followed by multiple spaces
+          line.match(/^\s*\d+[\.\)]\s+\S+\s{2,}\S+/); // Numbered lists with multiple spaces between items
+        
+        let className = isTableLike ? 
+          "font-mono whitespace-pre text-xs md:text-sm overflow-x-auto max-w-full pb-1" : "";
+        
+        result.push(
+          <div key={`line-${i}`} className={className}>
+            {line}
+          </div>
+        );
       }
     }
     
-    return (
-      <div key={i} className={className}>
-        {line}
-      </div>
-    );
-  });
+    // Handle any remaining table at the end
+    if (inTable && tableRows.length > 0) {
+      result.push(
+        <div key={`table-${tableIndex}`} className="my-3 overflow-x-auto">
+          <table className="border-collapse w-full">
+            <tbody>
+              {tableRows.map((tableRow, rowIdx) => {
+                const cells = tableRow.split('|').filter(cell => cell.trim() !== '');
+                const isHeaderRow = rowIdx === 0;
+                const isSeparatorRow = tableRow.includes('---') || tableRow.includes('===');
+                
+                if (isSeparatorRow) return null;
+                
+                return (
+                  <tr key={`row-${rowIdx}`}>
+                    {cells.map((cell, cellIdx) => {
+                      const CellTag = isHeaderRow ? 'th' : 'td';
+                      return (
+                        <CellTag 
+                          key={`cell-${cellIdx}`}
+                          className="border border-gray-300 dark:border-gray-700 px-3 py-2 text-sm"
+                        >
+                          {cell.trim()}
+                        </CellTag>
+                      );
+                    })}
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+      );
+    }
+    
+    return result;
+  };
+  
+  const formattedQuestionText = processQuestionText();
 
   return (
     <Card className="mb-6 shadow-lg">
