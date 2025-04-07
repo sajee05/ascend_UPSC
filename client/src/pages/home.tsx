@@ -4,10 +4,11 @@ import { TestList } from "@/components/test-list";
 import { FormatInfo } from "@/components/format-info";
 import { Logo } from "@/components/ui/logo";
 import { Button } from "@/components/ui/button";
-import { Cog, Moon, Sun } from "lucide-react";
+import { Cog, Moon, Sun, BookOpen, LineChart } from "lucide-react";
 import { motion } from "framer-motion";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
+import { Link } from "wouter";
 
 export default function Home() {
   const { settings, updateSettings } = useSettings();
@@ -33,7 +34,22 @@ export default function Home() {
           <Logo />
           
           {/* Navigation and Controls */}
-          <div className="flex items-center space-x-4">
+          <div className="flex items-center space-x-3">
+            {/* Navigation Links */}
+            <Link href="/questions">
+              <Button variant="ghost" className="flex items-center gap-1">
+                <BookOpen className="h-4 w-4" />
+                <span className="hidden sm:inline">Questions</span>
+              </Button>
+            </Link>
+            
+            <Link href="/overall-analytics">
+              <Button variant="ghost" className="flex items-center gap-1">
+                <LineChart className="h-4 w-4" />
+                <span className="hidden sm:inline">Analytics</span>
+              </Button>
+            </Link>
+            
             {/* Dark Mode Toggle */}
             <Button 
               variant="ghost" 
@@ -95,7 +111,15 @@ export default function Home() {
               transition={{ delay: 0.3 }}
               className="mb-8"
             >
-              <h3 className="text-lg font-semibold mb-4">Recent Tests</h3>
+              <div className="flex justify-between items-center mb-4">
+                <h3 className="text-lg font-semibold">Recent Tests</h3>
+                <Link href="/questions">
+                  <Button variant="outline" size="sm" className="flex items-center gap-1">
+                    <BookOpen className="h-4 w-4" />
+                    Browse All Questions
+                  </Button>
+                </Link>
+              </div>
               <TestList />
             </motion.div>
             

@@ -50,6 +50,28 @@ export function AnsweredQuestionCard({
       return () => clearTimeout(timer);
     }
   }, [metaData]);
+
+  // Load meta question answers from userAnswer if available
+  useEffect(() => {
+    if (userAnswer) {
+      setMetaData({
+        knowledgeFlag: userAnswer.knowledgeFlag || false,
+        techniqueFlag: userAnswer.techniqueFlag || false,
+        guessworkFlag: userAnswer.guessworkFlag || false,
+        confidenceLevel: userAnswer.confidenceLevel || 'mid',
+      });
+
+      // If meta questions are already answered, show the answer immediately
+      if (
+        userAnswer.knowledgeFlag !== null &&
+        userAnswer.techniqueFlag !== null &&
+        userAnswer.guessworkFlag !== null &&
+        userAnswer.confidenceLevel !== null
+      ) {
+        setShowCorrectAnswer(true);
+      }
+    }
+  }, [userAnswer]);
   
   // No automatic fetch of explanations - will be triggered by user
 
@@ -733,14 +755,7 @@ export function AnsweredQuestionCard({
         <div className="flex justify-end">
           <Button 
             onClick={handleNextQuestion}
-            disabled={
-              metaData.knowledgeFlag === null ||
-              metaData.techniqueFlag === null ||
-              metaData.guessworkFlag === null ||
-              metaData.confidenceLevel === null ||
-              !showCorrectAnswer ||
-              isUpdating
-            }
+            disabled={isUpdating}
           >
             Next Question
             <ArrowRightIcon className="h-4 w-4 ml-2" />
