@@ -11,6 +11,7 @@ import Quiz from "@/pages/quiz";
 import TestAnalytics from "@/pages/test-analytics";
 import OverallAnalytics from "@/pages/overall-analytics";
 import Flashcards from "@/pages/flashcards";
+import QuestionView from "@/pages/question-view";
 import NotFound from "@/pages/not-found";
 import SettingsPanel from "./components/settings-panel";
 import { AnalyticsButton } from "./components/ui/analytics-button";
@@ -27,6 +28,9 @@ function Router() {
       <Route path="/questions" component={() => <QuestionBrowser />} />
       <Route path="/tests/:testId/questions">
         {(params) => <QuestionBrowser testId={Number(params.testId)} />}
+      </Route>
+      <Route path="/tests/:testId/questions/:questionId">
+        {(params) => <QuestionView />}
       </Route>
       <Route component={NotFound} />
     </Switch>

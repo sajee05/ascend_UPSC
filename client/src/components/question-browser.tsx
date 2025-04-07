@@ -288,7 +288,7 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
         </div>
         
         <div className="mt-4 flex justify-end">
-          <Link href={`/tests/${question.testId}/questions/${question.id}`}>
+          <Link to={`/tests/${question.testId}/questions/${question.id}`}>
             <Button size="sm" variant="outline">
               View Question
             </Button>
@@ -310,7 +310,7 @@ function TestCard({ test }: { test: TestWithStats }) {
   };
 
   return (
-    <Link href={`/tests/${test.id}/questions`}>
+    <Link to={`/tests/${test.id}/questions`}>
       <Card className="cursor-pointer hover:shadow-md transition-shadow">
         <CardContent className="p-4">
           <h3 className="font-medium mb-2">{test.filename}</h3>

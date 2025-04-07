@@ -110,6 +110,26 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch all questions" });
     }
   });
+  
+  // GET /api/questions/:id - Get a single question by ID
+  apiRouter.get("/api/questions/:id", async (req: Request, res: Response) => {
+    try {
+      const questionId = parseInt(req.params.id);
+      if (isNaN(questionId)) {
+        return res.status(400).json({ message: "Invalid question ID" });
+      }
+
+      const question = await storage.getQuestion(questionId);
+      if (!question) {
+        return res.status(404).json({ message: "Question not found" });
+      }
+
+      res.json(question);
+    } catch (error) {
+      console.error("Error fetching question:", error);
+      res.status(500).json({ message: "Failed to fetch question" });
+    }
+  });
 
   // POST /api/attempts - Create a new attempt
   apiRouter.post("/api/attempts", async (req: Request, res: Response) => {
