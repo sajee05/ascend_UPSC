@@ -5,7 +5,7 @@ import { AnsweredQuestionCard } from "@/components/answered-question-card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, Clock } from "lucide-react";
+import { Cog, Moon, Sun, Clock, Home } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
@@ -317,6 +317,15 @@ export default function Quiz() {
               <Clock className="h-4 w-4 mr-2" />
               <span>{formatTime(timer)}</span>
             </div>
+            
+            {/* Home Button */}
+            <Button 
+              variant="ghost" 
+              size="icon"
+              onClick={() => navigate("/")}
+            >
+              <Home className="h-5 w-5" />
+            </Button>
             
             {/* Dark Mode Toggle */}
             <Button 
