@@ -49,43 +49,43 @@ export function SettingsProvider({ children }: { children: React.ReactNode }) {
     return defaultSettings;
   });
   
-  // Load theme from theme.json on initial load
+  // This useEffect sets up color theme management
   useEffect(() => {
-    const getThemeColor = async () => {
-      try {
-        // This fetch will be intercepted by the Vite dev server and will read from the file
-        const response = await fetch('/theme.json');
-        if (response.ok) {
-          const themeData = await response.json();
-          
-          // Map HSL values to color names
-          const colorMap: Record<string, string> = {
-            "hsl(211, 100%, 50%)": "blue",
-            "hsl(270, 80%, 50%)": "purple",
-            "hsl(142, 70%, 45%)": "green",
-            "hsl(45, 97%, 50%)": "amber",
-            "hsl(0, 84%, 60%)": "red"
-          };
-          
-          // Find closest match or default to blue
-          const primaryColor = themeData.primary ? (colorMap[themeData.primary] || "blue") : "blue";
-          
-          // Update settings with color from theme.json
-          setSettings(prev => ({
-            ...prev,
-            primaryColor
-          }));
-          
-          // Set CSS variable for immediate application
-          document.documentElement.style.setProperty('--primary', themeData.primary);
-        }
-      } catch (error) {
-        console.error("Failed to load theme.json:", error);
-      }
+    // Define HSL colors for each primary color
+    const colorMap: Record<string, string> = {
+      "blue": "211 100% 50%",
+      "purple": "270 80% 50%",
+      "green": "142 70% 45%",
+      "amber": "45 97% 50%",
+      "red": "0 84% 60%"
     };
     
-    getThemeColor();
-  }, []);
+    // Set the CSS variable for the primary color based on settings
+    if (settings.primaryColor && colorMap[settings.primaryColor]) {
+      document.documentElement.style.setProperty('--primary', colorMap[settings.primaryColor]);
+    }
+    
+    // Initialize system theme listener if the theme is set to system
+    if (settings.theme === "system") {
+      const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+      
+      const handleChange = (e: MediaQueryListEvent) => {
+        if (e.matches) {
+          document.documentElement.classList.add("dark");
+        } else {
+          document.documentElement.classList.remove("dark");
+        }
+      };
+      
+      // Add event listener
+      mediaQuery.addEventListener("change", handleChange);
+      
+      // Clean up
+      return () => {
+        mediaQuery.removeEventListener("change", handleChange);
+      };
+    }
+  }, [settings.primaryColor, settings.theme]);
 
   useEffect(() => {
     // Apply theme when settings change or on initial load

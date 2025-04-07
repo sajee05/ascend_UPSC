@@ -176,15 +176,15 @@ export default function FlashcardsPage() {
       document.documentElement.classList.remove("dark");
     }
     
-    // Then update settings
+    // Update settings
     updateSettings({ theme: newTheme });
     
-    // Update theme.json appearance setting without page reload
-    fetch('/api/theme', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ appearance: newTheme })
-    }).catch(err => console.error('Error updating theme appearance:', err));
+    // Show confirmation toast
+    toast({
+      title: "Theme changed",
+      description: `Theme changed to ${newTheme} mode`,
+      duration: 2000,
+    });
   };
 
   // Open settings panel

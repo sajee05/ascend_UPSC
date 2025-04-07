@@ -56,21 +56,21 @@ export default function SettingsPanel() {
     // Then update settings
     updateSettings({ theme });
     
-    // Update theme.json appearance setting without page reload
-    fetch('/api/theme', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ appearance: theme })
-    }).catch(err => console.error('Error updating theme appearance:', err));
+    // Show toast confirmation
+    toast({
+      title: "Theme updated",
+      description: `Theme changed to ${theme} mode`,
+      duration: 2000,
+    });
   };
 
   const handleColorChange = (color: string) => {
     const colorMap: Record<string, string> = {
-      blue: "hsl(211, 100%, 50%)",
-      purple: "hsl(270, 80%, 50%)",
-      green: "hsl(142, 70%, 45%)",
-      amber: "hsl(45, 97%, 50%)",
-      red: "hsl(0, 84%, 60%)"
+      blue: "211 100% 50%",
+      purple: "270 80% 50%",
+      green: "142 70% 45%",
+      amber: "45 97% 50%",
+      red: "0 84% 60%"
     };
     
     // First update CSS variables for immediate visual feedback
@@ -78,13 +78,6 @@ export default function SettingsPanel() {
     
     // Update settings after visual change
     updateSettings({ primaryColor: color });
-    
-    // Send request to update theme.json without page reload
-    fetch('/api/theme', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ primary: colorMap[color] })
-    }).catch(err => console.error('Error updating theme:', err));
     
     // Show toast confirmation
     toast({

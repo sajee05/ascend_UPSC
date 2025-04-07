@@ -9,7 +9,8 @@ export function FormatInfo() {
   const { toast } = useToast();
   const { settings } = useSettings();
   
-  const parsingPrompt = `I have a PDF/document of an UPSC mock test. Please convert it into the following format:
+  // Construct the parsing prompt using the title from settings
+  const parsingPrompt = `${settings.parsingPromptTitle || "Parse the following test into JSON format"}:
 
 #QuestionStart
 [Question number]) [Full question text]
