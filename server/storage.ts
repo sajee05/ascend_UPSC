@@ -7,7 +7,7 @@ import {
   Subject, Topic, InsertQuestionSubject, InsertQuestionTopic, InsertTestSubject
 } from "@shared/schema";
 import { db } from "./db";
-import { eq, desc, and, sql, asc } from "drizzle-orm";
+import { eq, desc, and, sql, asc, inArray } from "drizzle-orm";
 
 // Helper function to ensure dates are properly converted to strings
 function dateToString(date: Date | string | null): string | null {
@@ -742,40 +742,67 @@ export class DatabaseStorage implements IStorage {
   }
 
   async getAllTests(): Promise<TestWithStats[]> {
-    // Fetch all tests
-    const allTests = await db.select().from(tests).orderBy(desc(tests.uploadedAt));
-    
-    // Prepare result array
-    const result: TestWithStats[] = [];
-    
-    // Process each test
-    for (const test of allTests) {
-      // Get attempts for this test
-      const testAttempts = await db.select().from(attempts).where(eq(attempts.testId, test.id));
+    try {
+      console.time('getAllTests');
+      // Fetch all tests with a single query
+      const allTests = await db.select().from(tests).orderBy(desc(tests.uploadedAt));
       
-      let bestScore = null;
-      let lastAttemptDate = null;
+      if (allTests.length === 0) {
+        console.timeEnd('getAllTests');
+        return [];
+      }
       
-      if (testAttempts.length > 0) {
-        // Get completed attempts
+      // Get all test IDs
+      const testIds = allTests.map(test => test.id);
+      
+      // Get all attempts for these tests in a single query
+      const allAttempts = testIds.length > 0 
+        ? await db.select().from(attempts).where(inArray(attempts.testId, testIds))
+        : [];
+      
+      // Get all answers for completed attempts in a single query
+      const completedAttemptIds = allAttempts
+        .filter(a => a.completed)
+        .map(a => a.id);
+      
+      const allAnswers = completedAttemptIds.length > 0
+        ? await db.select().from(userAnswers).where(inArray(userAnswers.attemptId, completedAttemptIds))
+        : [];
+      
+      // Group attempts by test
+      const attemptsByTest = new Map<number, typeof allAttempts>();
+      allAttempts.forEach(attempt => {
+        if (!attemptsByTest.has(attempt.testId)) {
+          attemptsByTest.set(attempt.testId, []);
+        }
+        attemptsByTest.get(attempt.testId)!.push(attempt);
+      });
+      
+      // Group answers by attempt
+      const answersByAttempt = new Map<number, typeof allAnswers>();
+      allAnswers.forEach(answer => {
+        if (!answersByAttempt.has(answer.attemptId)) {
+          answersByAttempt.set(answer.attemptId, []);
+        }
+        answersByAttempt.get(answer.attemptId)!.push(answer);
+      });
+      
+      // Process each test
+      const result: TestWithStats[] = allTests.map(test => {
+        const testAttempts = attemptsByTest.get(test.id) || [];
         const completedAttempts = testAttempts.filter(a => a.completed);
         
+        let bestScore = null;
+        let lastAttemptDate = null;
+        
         if (completedAttempts.length > 0) {
-          // Calculate scores for each attempt
-          const attemptScores: number[] = [];
-          
-          for (const attempt of completedAttempts) {
-            // Get answers for this attempt
-            const answers = await db.select()
-              .from(userAnswers)
-              .where(eq(userAnswers.attemptId, attempt.id));
-            
-            // Calculate score (2 points per correct answer)
+          // Calculate best score
+          const attemptScores = completedAttempts.map(attempt => {
+            const answers = answersByAttempt.get(attempt.id) || [];
             const correctAnswers = answers.filter(a => a.isCorrect).length;
-            attemptScores.push(correctAnswers * 2);
-          }
+            return correctAnswers * 2;
+          });
           
-          // Find highest score
           if (attemptScores.length > 0) {
             bestScore = Math.max(...attemptScores);
           }
@@ -789,18 +816,23 @@ export class DatabaseStorage implements IStorage {
             lastAttemptDate = sortedAttempts[0].endTime;
           }
         }
-      }
-      
-      // Create TestWithStats object
-      result.push({
-        ...test,
-        attempts: testAttempts.length,
-        lastAttemptDate,
-        bestScore,
+        
+        // Get question count
+        return {
+          ...test,
+          attempts: testAttempts.length,
+          lastAttemptDate,
+          bestScore,
+          questionCount: test.questionCount || 0, // Make sure questionCount is always available
+        };
       });
+      
+      console.timeEnd('getAllTests');
+      return result;
+    } catch (error) {
+      console.error('Error in getAllTests:', error);
+      throw error;
     }
-    
-    return result;
   }
 
   // Question methods
@@ -857,48 +889,91 @@ export class DatabaseStorage implements IStorage {
   }
 
   async getQuestionsByTest(testId: number): Promise<QuestionWithTags[]> {
-    const testQuestions = await db.select()
-      .from(questions)
-      .where(eq(questions.testId, testId));
-    
-    const result: QuestionWithTags[] = [];
-    
-    for (const question of testQuestions) {
-      const questionTags = await db.select()
-        .from(tags)
-        .where(eq(tags.questionId, question.id));
+    try {
+      console.time(`getQuestionsByTest-${testId}`);
+      // Get all questions for this test
+      const testQuestions = await db.select()
+        .from(questions)
+        .where(eq(questions.testId, testId));
+        
+      if (testQuestions.length === 0) {
+        console.timeEnd(`getQuestionsByTest-${testId}`);
+        return [];
+      }
       
-      // Get subjects for this question
-      const questionSubjectsData = await db.select({
-        questionSubject: questionSubjects,
-        subject: subjects,
-      })
-        .from(questionSubjects)
-        .innerJoin(subjects, eq(questionSubjects.subjectId, subjects.id))
-        .where(eq(questionSubjects.questionId, question.id));
+      // Extract all question IDs
+      const questionIds = testQuestions.map(q => q.id);
       
-      const questionSubjectsArray = questionSubjectsData.map(qs => qs.subject);
-      
-      // Get topics for this question
-      const questionTopicsData = await db.select({
-        questionTopic: questionTopics,
-        topic: topics,
-      })
-        .from(questionTopics)
-        .innerJoin(topics, eq(questionTopics.topicId, topics.id))
-        .where(eq(questionTopics.questionId, question.id));
-      
-      const questionTopicsArray = questionTopicsData.map(qt => qt.topic);
-      
-      result.push({
-        ...question,
-        tags: questionTags,
-        subjects: questionSubjectsArray,
-        topics: questionTopicsArray,
+      // Get all tags, subjects, and topics for these questions in batched queries
+      const allTags = questionIds.length > 0 
+        ? await db.select().from(tags).where(inArray(tags.questionId, questionIds))
+        : [];
+          
+      // Group tags by question ID
+      const tagsByQuestion = new Map<number, Tag[]>();
+      allTags.forEach(tag => {
+        if (!tagsByQuestion.has(tag.questionId)) {
+          tagsByQuestion.set(tag.questionId, []);
+        }
+        tagsByQuestion.get(tag.questionId)!.push(tag);
       });
+      
+      // Get all subject relationships
+      const allSubjectsData = questionIds.length > 0
+        ? await db.select({
+            questionId: questionSubjects.questionId,
+            questionSubject: questionSubjects,
+            subject: subjects,
+          })
+          .from(questionSubjects)
+          .innerJoin(subjects, eq(questionSubjects.subjectId, subjects.id))
+          .where(inArray(questionSubjects.questionId, questionIds))
+        : [];
+      
+      // Group subjects by question ID
+      const subjectsByQuestion = new Map<number, Subject[]>();
+      allSubjectsData.forEach(data => {
+        if (!subjectsByQuestion.has(data.questionId)) {
+          subjectsByQuestion.set(data.questionId, []);
+        }
+        subjectsByQuestion.get(data.questionId)!.push(data.subject);
+      });
+      
+      // Get all topic relationships
+      const allTopicsData = questionIds.length > 0
+        ? await db.select({
+            questionId: questionTopics.questionId,
+            questionTopic: questionTopics,
+            topic: topics,
+          })
+          .from(questionTopics)
+          .innerJoin(topics, eq(questionTopics.topicId, topics.id))
+          .where(inArray(questionTopics.questionId, questionIds))
+        : [];
+      
+      // Group topics by question ID
+      const topicsByQuestion = new Map<number, Topic[]>();
+      allTopicsData.forEach(data => {
+        if (!topicsByQuestion.has(data.questionId)) {
+          topicsByQuestion.set(data.questionId, []);
+        }
+        topicsByQuestion.get(data.questionId)!.push(data.topic);
+      });
+      
+      // Assemble the questions with their related data
+      const result: QuestionWithTags[] = testQuestions.map(question => ({
+        ...question,
+        tags: tagsByQuestion.get(question.id) || [],
+        subjects: subjectsByQuestion.get(question.id) || [],
+        topics: topicsByQuestion.get(question.id) || [],
+      }));
+      
+      console.timeEnd(`getQuestionsByTest-${testId}`);
+      return result;
+    } catch (error) {
+      console.error(`Error in getQuestionsByTest(${testId}):`, error);
+      throw error;
     }
-    
-    return result;
   }
   
   async getAllQuestions(): Promise<QuestionWithTags[]> {

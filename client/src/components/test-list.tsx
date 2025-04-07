@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -7,12 +7,139 @@ import { PlayIcon, DownloadIcon, BarChart3Icon, Loader2Icon, EyeIcon } from "luc
 import { useToast } from "@/hooks/use-toast";
 import { apiRequest } from "@/lib/queryClient";
 import { formatDate, downloadCSV, generateFileName } from "@/lib/utils";
-import { TestWithStats } from "@shared/schema";
+import { TestWithStats, QuestionWithTags } from "@shared/schema";
 import { useLocation } from "wouter";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogFooter,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
+
+// QuizPreviewDialog component
+function QuizPreviewDialog({ 
+  testId, 
+  isOpen, 
+  onClose, 
+  onStartQuiz 
+}: { 
+  testId: number; 
+  isOpen: boolean; 
+  onClose: () => void; 
+  onStartQuiz: () => void;
+}) {
+  const [previewQuestions, setPreviewQuestions] = useState<QuestionWithTags[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+  const { toast } = useToast();
+
+  // Load the questions for this test
+  const loadQuestions = async () => {
+    try {
+      setIsLoading(true);
+      setError(null);
+      const response = await fetch(`/api/tests/${testId}/questions`, {
+        credentials: 'include',
+      });
+
+      if (!response.ok) {
+        throw new Error("Failed to load questions");
+      }
+
+      const questions = await response.json();
+      setPreviewQuestions(questions);
+    } catch (err) {
+      console.error("Error loading questions:", err);
+      setError("Failed to load questions for preview");
+      toast({
+        title: "Error",
+        description: "Failed to load quiz questions. Please try again.",
+        variant: "destructive",
+      });
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // Load questions when the dialog opens
+  useEffect(() => {
+    if (isOpen && testId) {
+      loadQuestions();
+    }
+  }, [isOpen, testId]);
+
+  return (
+    <Dialog open={isOpen} onOpenChange={onClose}>
+      <DialogContent className="max-w-3xl max-h-[80vh] overflow-y-auto">
+        <DialogHeader>
+          <DialogTitle>Quiz Preview</DialogTitle>
+          <DialogDescription>
+            Review the questions before starting the quiz
+          </DialogDescription>
+        </DialogHeader>
+        
+        {isLoading ? (
+          <div className="py-8 text-center">
+            <Loader2Icon className="animate-spin h-8 w-8 mx-auto mb-4 text-primary" />
+            <p>Loading questions...</p>
+          </div>
+        ) : error ? (
+          <div className="py-8 text-center text-red-500">
+            <p>{error}</p>
+          </div>
+        ) : (
+          <div className="space-y-4 py-4">
+            <p className="font-medium">This quiz contains {previewQuestions.length} questions:</p>
+            <div className="space-y-3 mt-4">
+              {previewQuestions.slice(0, 3).map((question, index) => (
+                <Card key={question.id} className="overflow-hidden">
+                  <CardContent className="p-4">
+                    <p className="font-medium">Question {index + 1}: {question.questionText.length > 100 
+                      ? question.questionText.substring(0, 100) + '...' 
+                      : question.questionText}
+                    </p>
+                    <div className="grid grid-cols-2 gap-2 mt-2 text-sm text-muted-foreground">
+                      <p>A: {question.optionA.substring(0, 40)}...</p>
+                      <p>B: {question.optionB.substring(0, 40)}...</p>
+                      <p>C: {question.optionC.substring(0, 40)}...</p>
+                      <p>D: {question.optionD.substring(0, 40)}...</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              ))}
+              
+              {previewQuestions.length > 3 && (
+                <p className="text-center text-muted-foreground">
+                  And {previewQuestions.length - 3} more questions...
+                </p>
+              )}
+            </div>
+          </div>
+        )}
+        
+        <DialogFooter className="gap-2 sm:gap-0">
+          <Button variant="outline" onClick={onClose}>
+            Back
+          </Button>
+          <Button 
+            onClick={onStartQuiz} 
+            disabled={isLoading || !!error}
+            className="ml-2"
+          >
+            Start Quiz
+          </Button>
+        </DialogFooter>
+      </DialogContent>
+    </Dialog>
+  );
+}
 
 export function TestList() {
   const [isGeneratingAnki, setIsGeneratingAnki] = useState<number | null>(null);
   const [isStartingQuiz, setIsStartingQuiz] = useState<number | null>(null);
+  const [previewTestId, setPreviewTestId] = useState<number | null>(null);
   const { toast } = useToast();
   const queryClient = useQueryClient();
   const [, navigate] = useLocation();
@@ -20,6 +147,16 @@ export function TestList() {
   const { data: tests, isLoading, error } = useQuery<TestWithStats[]>({
     queryKey: ["/api/tests"],
   });
+  
+  // Show preview before starting quiz
+  const handlePreviewQuiz = (testId: number) => {
+    setPreviewTestId(testId);
+  };
+  
+  // Close preview dialog
+  const handleClosePreview = () => {
+    setPreviewTestId(null);
+  };
 
   const handleStartQuiz = async (testId: number) => {
     try {
@@ -44,6 +181,9 @@ export function TestList() {
       });
       
       const attempt = await attemptResponse.json();
+      
+      // Close the preview dialog if it's open
+      setPreviewTestId(null);
       
       // Navigate to quiz page
       navigate(`/quiz/${attempt.id}`);
@@ -216,6 +356,16 @@ export function TestList() {
 
   return (
     <div className="grid gap-4">
+      {/* Preview dialog */}
+      {previewTestId && (
+        <QuizPreviewDialog
+          testId={previewTestId}
+          isOpen={previewTestId !== null}
+          onClose={handleClosePreview}
+          onStartQuiz={() => handleStartQuiz(previewTestId)}
+        />
+      )}
+    
       {tests.map((test) => (
         <Card 
           key={test.id} 
@@ -236,7 +386,7 @@ export function TestList() {
                   variant="ghost" 
                   size="icon" 
                   title="Start Quiz"
-                  onClick={() => handleStartQuiz(test.id)}
+                  onClick={() => handlePreviewQuiz(test.id)}
                   disabled={isStartingQuiz === test.id}
                 >
                   {isStartingQuiz === test.id ? (
