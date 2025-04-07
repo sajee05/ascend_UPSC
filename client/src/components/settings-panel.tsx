@@ -8,7 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetFooter } from "@/components/ui/sheet";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
-import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle, Database } from "lucide-react";
+import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle } from "lucide-react";
 import { useLocation } from "wouter";
 import { 
   DEFAULT_ANALYTICS_PROMPT, 
@@ -18,14 +18,12 @@ import {
   DEFAULT_LEARNING_PATTERN_PROMPT
 } from "@/lib/gemini";
 import { useToast } from "@/hooks/use-toast";
-import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 
 export default function SettingsPanel() {
   const { settings, updateSettings } = useSettings();
   const { uiState, updateUIState } = useUIState();
   const { toast } = useToast();
   const [, navigate] = useLocation();
-  const queryClient = useQueryClient();
   
   // Local state for form values
   const [apiKey, setApiKey] = useState(settings.aiApiKey || "");
@@ -36,46 +34,6 @@ export default function SettingsPanel() {
   const [studyPlanPrompt, setStudyPlanPrompt] = useState(settings.studyPlanPrompt);
   const [learningPatternPrompt, setLearningPatternPrompt] = useState(settings.learningPatternPrompt);
   const [parsingPromptTitle, setParsingPromptTitle] = useState(settings.parsingPromptTitle || "");
-  
-  // Check database setup status
-  const { data: dbStatus, isLoading: isDbStatusLoading } = useQuery({
-    queryKey: ['/api/database/status'],
-    refetchOnWindowFocus: false,
-  });
-  
-  // Mutation for initializing the database
-  const initDbMutation = useMutation({
-    mutationFn: async () => {
-      const response = await fetch('/api/database/setup', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-      });
-      
-      if (!response.ok) {
-        const errorData = await response.json();
-        throw new Error(errorData.message || 'Error initializing database');
-      }
-      
-      return response.json();
-    },
-    onSuccess: () => {
-      toast({
-        title: "Database initialized",
-        description: "Database has been successfully set up with default subjects and topics",
-        className: "bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800",
-        duration: 5000,
-      });
-      queryClient.invalidateQueries({ queryKey: ['/api/database/status'] });
-    },
-    onError: (error) => {
-      toast({
-        title: "Database initialization failed",
-        description: error.message || "Error setting up database. Please try again.",
-        variant: "destructive",
-        duration: 5000,
-      });
-    }
-  });
 
   // Apply settings when panel closes
   useEffect(() => {
@@ -503,22 +461,6 @@ export default function SettingsPanel() {
           <div>
             <h3 className="font-medium text-lg mb-4">Data Management</h3>
             <div className="space-y-3">
-              <Button 
-                variant={dbStatus?.initialized ? "outline" : "default"}
-                className={`w-full justify-start ${dbStatus?.initialized ? "opacity-70 cursor-not-allowed" : ""}`}
-                onClick={() => !dbStatus?.initialized && initDbMutation.mutate()}
-                disabled={!!dbStatus?.initialized || initDbMutation.isPending || isDbStatusLoading}
-              >
-                <Database className="h-4 w-4 mr-2" />
-                {initDbMutation.isPending ? "Initializing..." : (dbStatus?.initialized ? "Database Initialized" : "Initialize Database")}
-                {dbStatus?.initialized && <CheckCircle className="h-3.5 w-3.5 ml-2 text-green-500" />}
-              </Button>
-              <p className="text-xs text-muted-foreground mt-1 mb-2">
-                {dbStatus?.initialized 
-                  ? "Database has been initialized with default subjects and topics." 
-                  : "Set up your database with default UPSC subjects and topics. This only needs to be done once."}
-              </p>
-              
               <Button 
                 variant="outline" 
                 className="w-full justify-start"
