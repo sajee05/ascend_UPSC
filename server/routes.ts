@@ -99,6 +99,17 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch questions" });
     }
   });
+  
+  // GET /api/tests/all/questions - Get all questions across tests
+  apiRouter.get("/api/tests/all/questions", async (_req: Request, res: Response) => {
+    try {
+      const questions = await storage.getAllQuestions();
+      res.json(questions);
+    } catch (error) {
+      console.error("Error fetching all questions:", error);
+      res.status(500).json({ message: "Failed to fetch all questions" });
+    }
+  });
 
   // POST /api/attempts - Create a new attempt
   apiRouter.post("/api/attempts", async (req: Request, res: Response) => {

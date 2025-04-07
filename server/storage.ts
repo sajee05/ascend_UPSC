@@ -26,6 +26,7 @@ export interface IStorage {
   addQuestionsToTest(questions: InsertQuestion[]): Promise<Question[]>;
   getQuestion(id: number): Promise<QuestionWithTags | undefined>;
   getQuestionsByTest(testId: number): Promise<QuestionWithTags[]>;
+  getAllQuestions(): Promise<QuestionWithTags[]>; // Get all questions across all tests
   
   // Tags
   addTagsToQuestion(tags: InsertTag[]): Promise<Tag[]>;
@@ -181,6 +182,21 @@ export class MemStorage implements IStorage {
       .filter(question => question.testId === testId);
       
     return testQuestions.map(question => {
+      const questionTags = Array.from(this.tags.values())
+        .filter(tag => tag.questionId === question.id);
+        
+      return {
+        ...question,
+        tags: questionTags,
+      };
+    });
+  }
+  
+  async getAllQuestions(): Promise<QuestionWithTags[]> {
+    // Get all questions across all tests
+    const allQuestions = Array.from(this.questions.values());
+      
+    return allQuestions.map(question => {
       const questionTags = Array.from(this.tags.values())
         .filter(tag => tag.questionId === question.id);
         
@@ -826,6 +842,32 @@ export class DatabaseStorage implements IStorage {
     }
     
     return result;
+  }
+  
+  async getAllQuestions(): Promise<QuestionWithTags[]> {
+    try {
+      // Get all questions
+      const allQuestions = await db.select().from(questions);
+      
+      const result: QuestionWithTags[] = [];
+      
+      // For each question, get its tags
+      for (const question of allQuestions) {
+        const questionTags = await db.select()
+          .from(tags)
+          .where(eq(tags.questionId, question.id));
+        
+        result.push({
+          ...question,
+          tags: questionTags,
+        });
+      }
+      
+      return result;
+    } catch (error) {
+      console.error("Error getting all questions:", error);
+      return [];
+    }
   }
 
   // Tag methods
