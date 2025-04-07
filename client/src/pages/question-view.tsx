@@ -3,7 +3,7 @@ import { useQuery } from "@tanstack/react-query";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription, CardFooter } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { ArrowLeftIcon, ArrowRightIcon, BookIcon, TagIcon, Chrome, ChevronLeft, ChevronRight, Home } from "lucide-react";
+import { ArrowLeftIcon, ArrowRightIcon, BookIcon, TagIcon, Chrome, Home, ChevronLeft, ChevronRight } from "lucide-react";
 import { QuestionWithTags } from "@shared/schema";
 import { motion } from "framer-motion";
 import { Skeleton } from "@/components/ui/skeleton";
@@ -44,11 +44,6 @@ export default function QuestionView() {
       navigate('/questions');
     }
   };
-  
-  // Navigate to home page
-  const goToHome = () => {
-    navigate('/');
-  };
 
   // Navigate to the previous question
   const goToPreviousQuestion = () => {
@@ -64,6 +59,11 @@ export default function QuestionView() {
       const nextQuestion = allQuestions[currentIndex + 1];
       navigate(`/tests/${testId}/questions/${nextQuestion.id}`);
     }
+  };
+
+  // Navigate to home
+  const goToHome = () => {
+    navigate('/');
   };
 
   // Loading state

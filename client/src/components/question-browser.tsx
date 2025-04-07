@@ -4,7 +4,7 @@ import { Question, QuestionWithTags, Test, TestWithStats, Tag } from "@shared/sc
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { SearchIcon, TagIcon, Chrome, BookOpenIcon, ClockIcon, CheckCircle2, Home } from "lucide-react";
+import { SearchIcon, TagIcon, Chrome, BookOpenIcon, ClockIcon, CheckCircle2 } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { motion, AnimatePresence } from "framer-motion";
 import { Progress } from "@/components/ui/progress";
@@ -78,14 +78,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
       // Check if we're dealing with questions or tests
       if (questions.length > 0 && 'filename' in questions[0]) {
         console.log("We have tests data instead of questions. This is not what we want here.");
-        // Instead of returning empty, let's fetch the questions for this test
-        if (testId) {
-          const testQuestionsData = testQuestions || [];
-          if (testQuestionsData.length > 0) {
-            return testQuestionsData;
-          }
-        }
-        return []; // Return empty if we have tests instead of questions and couldn't get the right data
+        return []; // Return empty if we have tests instead of questions
       }
     } catch (error) {
       console.error("Error processing questions:", error);
@@ -170,17 +163,9 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
     >
       <Card className="shadow-lg">
         <CardHeader>
-          <CardTitle className="text-2xl flex items-center justify-between">
-            <div className="flex items-center">
-              <BookOpenIcon className="h-6 w-6 mr-2" />
-              Question Browser
-            </div>
-            <Link to="/">
-              <Button variant="outline" size="sm" className="flex items-center gap-1">
-                <Home className="h-4 w-4" />
-                <span>Home</span>
-              </Button>
-            </Link>
+          <CardTitle className="text-2xl flex items-center">
+            <BookOpenIcon className="h-6 w-6 mr-2" />
+            Question Browser
           </CardTitle>
           <CardDescription>
             Browse and filter questions from all tests or a specific test
