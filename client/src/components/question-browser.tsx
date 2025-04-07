@@ -32,6 +32,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
   const { data: testQuestions, isLoading: isLoadingTestQuestions } = useQuery<QuestionWithTags[]>({
     queryKey: ['/api/tests', testId, 'questions'],
     enabled: !!testId,
+    staleTime: 30000, // Consider data fresh for 30 seconds
   });
 
   // Get attempts for a specific test if testId is provided
@@ -41,9 +42,10 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
   });
 
   // Get all questions (for browsing across tests)
-  const { data: allQuestions, isLoading: isLoadingAllQuestions } = useQuery<QuestionWithTags[]>({
+  const { data: allQuestions, isLoading: isLoadingAllQuestions, isStale: isQuestionsStale } = useQuery<QuestionWithTags[]>({
     queryKey: ['/api/questions'],
     enabled: !testId && activeTab === "all",
+    staleTime: 30000, // Consider data fresh for 30 seconds
   });
 
   // Get all tags for filtering
@@ -53,40 +55,53 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
 
   // Filter questions by search and tags
   const filteredQuestions = useCallback(() => {
-    const questions = testId ? (testQuestions || []) : (allQuestions || []);
-    if (!questions.length) return [];
-
+    // Get and process questions with proper error handling
+    let questions: QuestionWithTags[] = [];
+    try {
+      questions = testId ? (testQuestions || []) : (allQuestions || []);
+    } catch (error) {
+      console.error("Error processing questions:", error);
+      return []; // Return empty array on error
+    }
+    
+    // Always create a new array to avoid reference issues
     let filtered = [...questions];
+    
+    try {
+      // Filter by search term
+      if (searchTerm) {
+        const term = searchTerm.toLowerCase();
+        filtered = filtered.filter(q => 
+          q.questionText?.toLowerCase().includes(term) || 
+          q.optionA?.toLowerCase().includes(term) || 
+          q.optionB?.toLowerCase().includes(term) || 
+          q.optionC?.toLowerCase().includes(term) || 
+          q.optionD?.toLowerCase().includes(term)
+        );
+      }
 
-    // Filter by search term
-    if (searchTerm) {
-      const term = searchTerm.toLowerCase();
-      filtered = filtered.filter(q => 
-        q.questionText.toLowerCase().includes(term) || 
-        q.optionA.toLowerCase().includes(term) || 
-        q.optionB.toLowerCase().includes(term) || 
-        q.optionC.toLowerCase().includes(term) || 
-        q.optionD.toLowerCase().includes(term)
-      );
+      // Filter by selected tags
+      if (selectedTags.length > 0) {
+        filtered = filtered.filter(q => {
+          if (!q.tags || !Array.isArray(q.tags) || q.tags.length === 0) return false;
+          return selectedTags.some(tag => q.tags.some(t => t.tagName === tag));
+        });
+      }
+
+      // Filter by attempted status if requested
+      if (showAttemptedOnly && testAttempts && Array.isArray(testAttempts) && testAttempts.length > 0) {
+        const attemptedQuestionIds = new Set<number>();
+        // Logic to get IDs of all attempted questions
+        // For now, disabling this filter until we implement the logic
+        
+        // filtered = filtered.filter(q => q && q.id && attemptedQuestionIds.has(q.id));
+      }
+    } catch (error) {
+      console.error("Error filtering questions:", error);
+      return questions; // Return unfiltered questions on error
     }
 
-    // Filter by selected tags
-    if (selectedTags.length > 0) {
-      filtered = filtered.filter(q => {
-        if (!q.tags || !q.tags.length) return false;
-        return selectedTags.some(tag => q.tags.some(t => t.tagName === tag));
-      });
-    }
-
-    // Filter by attempted status if requested
-    if (showAttemptedOnly && testAttempts && Array.isArray(testAttempts) && testAttempts.length > 0) {
-      const attemptedQuestionIds = new Set<number>();
-      // Logic to get IDs of all attempted questions
-      // This would require additional API data
-
-      filtered = filtered.filter(q => attemptedQuestionIds.has(q.id));
-    }
-
+    console.log("Found", filtered.length, "questions after filtering");
     return filtered;
   }, [testQuestions, allQuestions, searchTerm, selectedTags, testId, showAttemptedOnly, testAttempts]);
 
@@ -98,12 +113,15 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
     }
   };
 
-  // Render loading state
-  if (testId && (isLoadingTestQuestions || isLoadingTestAttempts)) {
-    return <LoadingState />;
-  }
-
-  if (!testId && isLoadingTests && isLoadingAllQuestions) {
+  // Render loading state - more comprehensive loading check
+  const isLoading = 
+    (testId && (isLoadingTestQuestions || isLoadingTestAttempts)) || 
+    (!testId && activeTab === "all" && isLoadingAllQuestions) ||
+    (!testId && activeTab === "test" && isLoadingTests) ||
+    isLoadingTags;
+  
+  if (isLoading) {
+    console.log("Showing loading state");
     return <LoadingState />;
   }
 
@@ -230,7 +248,8 @@ function SearchAndFilterSection({
 }
 
 function QuestionList({ questions }: { questions: QuestionWithTags[] }) {
-  if (!questions || questions.length === 0) {
+  // Check for valid questions array
+  if (!questions || !Array.isArray(questions) || questions.length === 0) {
     return (
       <div className="text-center py-10 bg-muted/20 rounded-lg">
         <BookOpenIcon className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
@@ -242,16 +261,34 @@ function QuestionList({ questions }: { questions: QuestionWithTags[] }) {
     );
   }
   
+  // Filter out any invalid question objects before rendering
+  const validQuestions = questions.filter(q => 
+    q && typeof q === 'object' && q.id !== undefined && q.questionText
+  );
+  
+  // If all questions were invalid, show the "no questions" message
+  if (validQuestions.length === 0) {
+    return (
+      <div className="text-center py-10 bg-muted/20 rounded-lg">
+        <BookOpenIcon className="h-12 w-12 text-muted-foreground mx-auto mb-4" />
+        <h3 className="text-xl font-medium mb-2">Data Error</h3>
+        <p className="text-muted-foreground">
+          There was a problem with the question data. Please try refreshing the page.
+        </p>
+      </div>
+    );
+  }
+  
   return (
     <div className="space-y-4">
       <AnimatePresence>
-        {questions.map((question, index) => (
+        {validQuestions.map((question, index) => (
           <motion.div
             key={question.id}
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -20 }}
-            transition={{ duration: 0.3, delay: index * 0.05 }}
+            transition={{ duration: 0.3, delay: Math.min(index * 0.05, 1)}} // Cap the delay at 1 second
           >
             <QuestionCard question={question} />
           </motion.div>
@@ -262,33 +299,72 @@ function QuestionList({ questions }: { questions: QuestionWithTags[] }) {
 }
 
 function QuestionCard({ question }: { question: QuestionWithTags }) {
+  // Safety check - if the question object is invalid, render a fallback card
+  if (!question || typeof question !== 'object' || !question.id) {
+    return (
+      <Card className="hover:shadow-md transition-shadow">
+        <CardContent className="p-4">
+          <div className="font-semibold text-sm text-destructive mb-2">
+            Error: Invalid question data
+          </div>
+          <div className="text-sm text-muted-foreground">
+            This question cannot be displayed due to missing or invalid data.
+          </div>
+        </CardContent>
+      </Card>
+    );
+  }
+  
+  // Safely access question properties with fallbacks
+  const questionNumber = question.questionNumber || '?';
+  const questionText = question.questionText || 'No question text available';
+  const testId = question.testId || 0;
+  const questionId = question.id || 0;
+  
+  // Function to safely sort and process tags
+  const renderTags = () => {
+    try {
+      if (!question.tags || !Array.isArray(question.tags) || question.tags.length === 0) {
+        return null;
+      }
+      
+      return [...question.tags]
+        .sort((a, b) => a.tagName.localeCompare(b.tagName))
+        .map(tag => (
+          <Badge
+            key={tag.id}
+            variant={tag.isAIGenerated ? "outline" : "secondary"}
+            className="flex items-center gap-1 text-xs"
+          >
+            {tag.isAIGenerated ? (
+              <Chrome className="h-3 w-3" />
+            ) : (
+              <TagIcon className="h-3 w-3" />
+            )}
+            {tag.tagName}
+          </Badge>
+        ));
+    } catch (error) {
+      console.error("Error rendering tags:", error);
+      return null;
+    }
+  };
+  
   return (
     <Card className="hover:shadow-md transition-shadow relative group">
       <CardContent className="p-4">
         <div className="font-semibold text-sm text-muted-foreground mb-2">
-          Q{question.questionNumber})
+          Q{questionNumber})
         </div>
-        <div className="line-clamp-3 mb-2 text-sm">{question.questionText}</div>
+        
+        <div className="line-clamp-3 mb-2 text-sm">{questionText}</div>
         
         <div className="flex flex-wrap mt-2 gap-2">
-          {question.tags && [...question.tags].sort((a, b) => a.tagName.localeCompare(b.tagName)).map(tag => (
-            <Badge
-              key={tag.id}
-              variant={tag.isAIGenerated ? "outline" : "secondary"}
-              className="flex items-center gap-1 text-xs"
-            >
-              {tag.isAIGenerated ? (
-                <Chrome className="h-3 w-3" />
-              ) : (
-                <TagIcon className="h-3 w-3" />
-              )}
-              {tag.tagName}
-            </Badge>
-          ))}
+          {renderTags()}
         </div>
         
         <div className="mt-4 flex justify-end">
-          <Link to={`/tests/${question.testId}/questions/${question.id}`}>
+          <Link to={`/tests/${testId}/questions/${questionId}`}>
             <Button size="sm" variant="outline">
               View Question
             </Button>
@@ -297,7 +373,7 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
         
         {/* Overlay on hover for quick navigation */}
         <div className="absolute inset-0 bg-black/5 dark:bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-lg flex items-center justify-center pointer-events-none">
-          <Link to={`/tests/${question.testId}/questions/${question.id}`} className="pointer-events-auto">
+          <Link to={`/tests/${testId}/questions/${questionId}`} className="pointer-events-auto">
             <div className="bg-background/90 backdrop-blur-sm p-3 rounded-full shadow-lg">
               <BookOpenIcon className="h-6 w-6 text-primary" />
             </div>
@@ -309,6 +385,30 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
 }
 
 function TestCard({ test }: { test: TestWithStats }) {
+  // Safety check - if the test object is invalid, render a fallback card
+  if (!test || typeof test !== 'object' || !test.id) {
+    return (
+      <Card className="hover:shadow-md transition-shadow">
+        <CardContent className="p-4">
+          <div className="font-semibold text-sm text-destructive mb-2">
+            Error: Invalid test data
+          </div>
+          <div className="text-sm text-muted-foreground">
+            This test cannot be displayed due to missing or invalid data.
+          </div>
+        </CardContent>
+      </Card>
+    );
+  }
+  
+  // Safely access test properties with fallbacks
+  const testId = test.id;
+  const filename = test.filename || 'Untitled Test';
+  const attempts = test.attempts || 0;
+  const bestScore = test.bestScore !== undefined && test.bestScore !== null 
+    ? test.bestScore 
+    : null;
+  
   const formattedDate = (dateStr: string | null) => {
     if (!dateStr) return "N/A";
     try {
@@ -321,34 +421,34 @@ function TestCard({ test }: { test: TestWithStats }) {
   return (
     <Card className="cursor-pointer hover:shadow-md transition-shadow relative group">
       <CardContent className="p-4">
-        <Link to={`/tests/${test.id}/questions`} className="block">
-          <h3 className="font-medium mb-2">{test.filename}</h3>
+        <Link to={`/tests/${testId}/questions`} className="block">
+          <h3 className="font-medium mb-2">{filename}</h3>
           <div className="flex items-center text-xs text-muted-foreground">
             <ClockIcon className="h-3 w-3 mr-1" />
-            <span>{formattedDate(test.uploadedAt ? test.uploadedAt.toString() : null)}</span>
+            <span>
+              {formattedDate(test.uploadedAt ? test.uploadedAt.toString() : null)}
+            </span>
           </div>
           
-          {test.attempts !== undefined && (
-            <div className="mt-3">
-              <div className="flex justify-between items-center text-xs mb-1">
-                <span>Attempts</span>
-                <span className="font-medium">{test.attempts}</span>
-              </div>
-              <Progress value={Math.min(test.attempts * 10, 100)} className="h-1" />
+          <div className="mt-3">
+            <div className="flex justify-between items-center text-xs mb-1">
+              <span>Attempts</span>
+              <span className="font-medium">{attempts}</span>
             </div>
-          )}
+            <Progress value={Math.min(attempts * 10, 100)} className="h-1" />
+          </div>
           
-          {test.bestScore !== undefined && test.bestScore !== null && (
+          {bestScore !== null && (
             <div className="mt-3 flex items-center text-xs">
               <CheckCircle2 className="h-3 w-3 mr-1 text-green-500" />
-              <span>Best Score: {test.bestScore}%</span>
+              <span>Best Score: {bestScore}%</span>
             </div>
           )}
         </Link>
         
         {/* View questions button as an eye icon */}
         <div className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity">
-          <Link to={`/tests/${test.id}/questions`}>
+          <Link to={`/tests/${testId}/questions`}>
             <Button size="icon" variant="ghost" className="h-8 w-8">
               <BookOpenIcon className="h-4 w-4" />
             </Button>
