@@ -6,6 +6,9 @@ import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-c
 import { SubjectTrendCharts } from "@/components/analytics/subject-trend-charts-fixed";
 import { TopicSubtopicAnalysis } from "@/components/analytics/topic-subtopic-analysis";
 import { DateAnalysisChart } from "@/components/analytics/date-analysis-chart";
+import { RecommendationCards } from "@/components/analytics/recommendation-cards";
+import { KnowledgeCalibrationCard } from "@/components/analytics/knowledge-calibration-card";
+import { AdvancedCharts } from "@/components/analytics/advanced-charts";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
@@ -414,6 +417,39 @@ export default function OverallAnalyticsPage() {
               </p>
               <AttemptTrackingCharts stats={overallStats} />
             </motion.div>
+          )}
+          
+          {/* Knowledge Calibration Card */}
+          {overallStats && (
+            <KnowledgeCalibrationCard 
+              overallStats={overallStats} 
+              subjectStats={filteredStats} 
+            />
+          )}
+          
+          {/* Recommendation Cards */}
+          {overallStats && (
+            <RecommendationCards 
+              overallStats={overallStats} 
+              subjectStats={filteredStats} 
+            />
+          )}
+          
+          {/* Advanced Charts */}
+          {overallStats && (
+            <div className="mb-8">
+              <h2 className="text-xl font-medium mb-4 flex items-center gap-2">
+                <BarChart2 className="h-5 w-5 text-primary" />
+                Meta-Cognitive Analytics
+              </h2>
+              <p className="text-muted-foreground mb-4">
+                Advanced analysis of your learning patterns, knowledge calibration, and cognitive processes.
+              </p>
+              <AdvancedCharts 
+                overallStats={overallStats} 
+                subjectStats={filteredStats} 
+              />
+            </div>
           )}
           
           {/* AI Insights */}
