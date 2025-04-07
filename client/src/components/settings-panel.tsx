@@ -10,7 +10,7 @@ import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
 import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle } from "lucide-react";
 import { useLocation } from "wouter";
-import { DEFAULT_ANALYTICS_PROMPT, DEFAULT_SUBJECT_TAGGING_PROMPT } from "@/lib/gemini";
+import { DEFAULT_ANALYTICS_PROMPT, DEFAULT_EXPLANATION_PROMPT, DEFAULT_SUBJECT_TAGGING_PROMPT } from "@/lib/gemini";
 import { useToast } from "@/hooks/use-toast";
 
 export default function SettingsPanel() {
@@ -24,6 +24,7 @@ export default function SettingsPanel() {
   const [showApiKey, setShowApiKey] = useState(false);
   const [subjectTaggingPrompt, setSubjectTaggingPrompt] = useState(settings.subjectTaggingPrompt);
   const [analyticsPrompt, setAnalyticsPrompt] = useState(settings.analyticsPrompt);
+  const [explanationPrompt, setExplanationPrompt] = useState(settings.explanationPrompt);
   const [parsingPromptTitle, setParsingPromptTitle] = useState(settings.parsingPromptTitle || "");
 
   // Apply settings when panel closes
@@ -33,6 +34,7 @@ export default function SettingsPanel() {
       setApiKey(settings.aiApiKey || "");
       setSubjectTaggingPrompt(settings.subjectTaggingPrompt);
       setAnalyticsPrompt(settings.analyticsPrompt);
+      setExplanationPrompt(settings.explanationPrompt);
       setParsingPromptTitle(settings.parsingPromptTitle || "Parse the following test into JSON format");
     }
   }, [uiState.settingsPanelOpen, settings]);
@@ -92,6 +94,7 @@ export default function SettingsPanel() {
       aiApiKey: apiKey,
       subjectTaggingPrompt,
       analyticsPrompt,
+      explanationPrompt,
       parsingPromptTitle
     });
     
@@ -109,6 +112,10 @@ export default function SettingsPanel() {
 
   const handleResetAnalyticsPrompt = () => {
     setAnalyticsPrompt(DEFAULT_ANALYTICS_PROMPT);
+  };
+  
+  const handleResetExplanationPrompt = () => {
+    setExplanationPrompt(DEFAULT_EXPLANATION_PROMPT);
   };
 
   const handleNavigate = (path: string) => {
@@ -343,6 +350,28 @@ export default function SettingsPanel() {
                     Reset to Default
                   </Button>
                 </div>
+              </div>
+              
+              <div>
+                <Label className="block text-sm font-medium mb-2">Explanation Prompt</Label>
+                <Textarea 
+                  value={explanationPrompt} 
+                  onChange={(e) => setExplanationPrompt(e.target.value)}
+                  className="text-sm h-24"
+                />
+                <div className="flex justify-end mt-1">
+                  <Button 
+                    variant="ghost" 
+                    size="sm" 
+                    className="text-xs"
+                    onClick={handleResetExplanationPrompt}
+                  >
+                    Reset to Default
+                  </Button>
+                </div>
+                <p className="text-xs text-muted-foreground mt-1">
+                  Customize how AI explains correct and incorrect answers after attempting a question.
+                </p>
               </div>
               
               <div>

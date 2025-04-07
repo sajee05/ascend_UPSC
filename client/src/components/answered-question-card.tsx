@@ -2,10 +2,14 @@ import { useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
-import { CheckCircle2Icon, XCircleIcon, ArrowRightIcon } from "lucide-react";
+import { CheckCircle2Icon, XCircleIcon, ArrowRightIcon, Lightbulb } from "lucide-react";
 import { motion } from "framer-motion";
 import { QuestionWithTags, UserAnswer } from "@shared/schema";
 import { apiRequest } from "@/lib/queryClient";
+import { useSettings } from "@/hooks/use-settings";
+import { getQuestionExplanation } from "@/lib/gemini";
+import ReactMarkdown from "react-markdown";
+import rehypeSanitize from "rehype-sanitize";
 
 interface AnsweredQuestionCardProps {
   question: QuestionWithTags;
@@ -18,6 +22,7 @@ export function AnsweredQuestionCard({
   userAnswer, 
   onNext 
 }: AnsweredQuestionCardProps) {
+  const { settings } = useSettings();
   const [isUpdating, setIsUpdating] = useState(false);
   const [metaData, setMetaData] = useState({
     knowledgeFlag: userAnswer.knowledgeFlag || false,
@@ -26,6 +31,8 @@ export function AnsweredQuestionCard({
     confidenceLevel: userAnswer.confidenceLevel || 'mid',
   });
   const [showCorrectAnswer, setShowCorrectAnswer] = useState(false);
+  const [explanation, setExplanation] = useState<string | null>(null);
+  const [isLoadingExplanation, setIsLoadingExplanation] = useState(false);
 
   // If all meta questions are answered, show the correct answer
   useEffect(() => {
@@ -42,6 +49,13 @@ export function AnsweredQuestionCard({
       return () => clearTimeout(timer);
     }
   }, [metaData]);
+  
+  // Fetch explanation when correct answer is shown
+  useEffect(() => {
+    if (showCorrectAnswer && settings.aiEnabled && !explanation && !isLoadingExplanation) {
+      fetchExplanation();
+    }
+  }, [showCorrectAnswer, settings.aiEnabled]);
 
   const updateUserAnswer = async () => {
     if (isUpdating) return;
@@ -72,6 +86,28 @@ export function AnsweredQuestionCard({
   const handleNextQuestion = async () => {
     await updateUserAnswer();
     onNext();
+  };
+  
+  const fetchExplanation = async () => {
+    if (!settings.aiEnabled || !settings.aiApiKey || isLoadingExplanation) return;
+    
+    try {
+      setIsLoadingExplanation(true);
+      
+      const explanationText = await getQuestionExplanation(
+        question,
+        userAnswer,
+        settings.aiApiKey,
+        settings.aiModel || 'gemini-1.0-pro',
+        settings.explanationPrompt || ''
+      );
+      
+      setExplanation(explanationText);
+    } catch (error) {
+      console.error("Error fetching AI explanation:", error);
+    } finally {
+      setIsLoadingExplanation(false);
+    }
   };
 
   // Process question text to render markdown tables properly
@@ -401,6 +437,62 @@ export function AnsweredQuestionCard({
             <h4 className="font-medium text-green-700 dark:text-green-300 mb-2">
               Correct Answer: {question.correctAnswer}) {question.correctAnswerText}
             </h4>
+          </motion.div>
+        )}
+        
+        {/* AI Explanation */}
+        {showCorrectAnswer && settings.aiEnabled && (
+          <motion.div
+            className="mb-6 p-4 rounded-lg border border-blue-200 bg-blue-50 dark:bg-blue-900/10 dark:border-blue-800"
+            initial={{ opacity: 0, height: 0 }}
+            animate={{ opacity: 1, height: 'auto' }}
+            transition={{ duration: 0.3, delay: 0.2 }}
+          >
+            <div className="flex items-center gap-2 mb-3">
+              <Lightbulb className="h-5 w-5 text-blue-500" />
+              <h4 className="font-medium text-blue-700 dark:text-blue-300">
+                AI Explanation
+              </h4>
+            </div>
+            
+            {isLoadingExplanation ? (
+              <div className="flex justify-center py-4">
+                <div className="animate-pulse flex flex-col items-center">
+                  <div className="h-2 bg-blue-200 dark:bg-blue-700 rounded w-3/4 mb-2"></div>
+                  <div className="h-2 bg-blue-200 dark:bg-blue-700 rounded w-5/6 mb-2"></div>
+                  <div className="h-2 bg-blue-200 dark:bg-blue-700 rounded w-2/3 mb-2"></div>
+                  <div className="h-2 bg-blue-200 dark:bg-blue-700 rounded w-4/5"></div>
+                  <p className="text-sm text-muted-foreground mt-2">
+                    Generating explanation...
+                  </p>
+                </div>
+              </div>
+            ) : explanation ? (
+              <div className="prose prose-sm dark:prose-invert max-w-none">
+                <ReactMarkdown rehypePlugins={[rehypeSanitize]}>
+                  {explanation}
+                </ReactMarkdown>
+              </div>
+            ) : (
+              <div className="flex flex-col items-center py-4">
+                <p className="text-sm text-muted-foreground">
+                  {!settings.aiApiKey ? (
+                    "No API key provided. Add your API key in settings to enable AI explanations."
+                  ) : (
+                    "Failed to generate explanation. Try again by refreshing the page."
+                  )}
+                </p>
+                <Button 
+                  variant="outline"
+                  size="sm"
+                  className="mt-2"
+                  onClick={fetchExplanation}
+                  disabled={!settings.aiApiKey || isLoadingExplanation}
+                >
+                  Try Again
+                </Button>
+              </div>
+            )}
           </motion.div>
         )}
         

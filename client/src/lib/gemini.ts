@@ -1,6 +1,17 @@
-import { QuestionWithTags, SubjectStats } from "@shared/schema";
+import { QuestionWithTags, SubjectStats, UserAnswer } from "@shared/schema";
 
 // Default prompts
+export const DEFAULT_EXPLANATION_PROMPT = 
+`Analyze this UPSC question and provide a detailed explanation of why the correct answer is right and why the other options are wrong. 
+
+Format your response using Markdown, with clear sections:
+1. **Question Analysis**: Brief explanation of what the question is asking
+2. **Correct Answer**: Detailed explanation of why the correct option is right
+3. **Incorrect Options**: For each wrong option, explain why it's incorrect
+4. **Key Takeaways**: 2-3 bullet points summarizing the main concepts
+
+Include factual information with precise citations where possible. If you're uncertain about any statement, mark it with a ⭐ symbol. Focus on providing accurate information that would help a UPSC aspirant understand the concept thoroughly.`;
+
 export const DEFAULT_SUBJECT_TAGGING_PROMPT = 
 `Analyze this UPSC question and classify it under the most relevant subject(s) and subtopics from the following comprehensive list:
 
@@ -159,5 +170,66 @@ ${subject.subject}:
   } catch (error) {
     console.error('Error getting analytics insights:', error);
     return 'Unable to generate insights at this time. Please try again later.';
+  }
+}
+
+// Function to generate AI explanation for a question
+export async function getQuestionExplanation(
+  question: QuestionWithTags,
+  userAnswer: UserAnswer,
+  apiKey: string,
+  model: string,
+  prompt: string
+): Promise<string> {
+  try {
+    // Format the question and answers for the model
+    const formattedQuestion = `
+Question: ${question.questionText}
+
+Options:
+A) ${question.optionA}
+B) ${question.optionB}
+C) ${question.optionC}
+D) ${question.optionD}
+
+Correct Answer: ${question.correctAnswer}) ${question.correctAnswerText}
+User Selected: ${userAnswer.selectedOption}) ${
+      userAnswer.selectedOption === "A" ? question.optionA :
+      userAnswer.selectedOption === "B" ? question.optionB :
+      userAnswer.selectedOption === "C" ? question.optionC : 
+      question.optionD
+    }
+`;
+
+    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [
+          {
+            parts: [
+              { text: prompt },
+              { text: formattedQuestion }
+            ]
+          }
+        ],
+        generationConfig: {
+          temperature: 0.3,
+          topK: 32,
+          topP: 0.95,
+          maxOutputTokens: 1000,
+        }
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`Gemini API error: ${response.status}`);
+    }
+
+    const data = await response.json() as GeminiResponse;
+    return data.candidates[0]?.content.parts[0].text || 'No explanation available.';
+  } catch (error) {
+    console.error('Error getting question explanation:', error);
+    return 'Unable to generate explanation at this time. Please try again later.';
   }
 }

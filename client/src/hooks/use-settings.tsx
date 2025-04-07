@@ -1,5 +1,5 @@
 import { createContext, useContext, useState, useEffect } from "react";
-import { DEFAULT_ANALYTICS_PROMPT, DEFAULT_SUBJECT_TAGGING_PROMPT } from "@/lib/gemini";
+import { DEFAULT_ANALYTICS_PROMPT, DEFAULT_EXPLANATION_PROMPT, DEFAULT_SUBJECT_TAGGING_PROMPT } from "@/lib/gemini";
 
 interface Settings {
   theme: "light" | "dark" | "system";
@@ -10,6 +10,7 @@ interface Settings {
   aiModel: string;
   subjectTaggingPrompt: string;
   analyticsPrompt: string;
+  explanationPrompt: string;
   parsingPromptTitle: string;
 }
 
@@ -27,6 +28,7 @@ const defaultSettings: Settings = {
   aiModel: "gemini-2.0-flash",
   subjectTaggingPrompt: DEFAULT_SUBJECT_TAGGING_PROMPT,
   analyticsPrompt: DEFAULT_ANALYTICS_PROMPT,
+  explanationPrompt: DEFAULT_EXPLANATION_PROMPT,
   parsingPromptTitle: "Parse the following test into JSON format",
 };
 
