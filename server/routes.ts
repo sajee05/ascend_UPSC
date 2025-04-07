@@ -1,0 +1,378 @@
+import type { Express, Request, Response } from "express";
+import { createServer, type Server } from "http";
+import { storage } from "./storage";
+import { z } from "zod";
+import { 
+  insertAttemptSchema,
+  insertFlashcardSchema,
+  insertQuestionSchema,
+  insertTagSchema,
+  insertTestSchema,
+  insertUserAnswerSchema,
+  Attempt,
+  Flashcard
+} from "@shared/schema";
+import { fromZodError } from "zod-validation-error";
+import { ZodError } from "zod";
+
+export async function registerRoutes(app: Express): Promise<Server> {
+  // Prefix all routes with /api
+  const apiRouter = app;
+
+  // GET /api/tests - Get all tests
+  apiRouter.get("/api/tests", async (_req: Request, res: Response) => {
+    try {
+      const tests = await storage.getAllTests();
+      res.json(tests);
+    } catch (error) {
+      console.error("Error fetching tests:", error);
+      res.status(500).json({ message: "Failed to fetch tests" });
+    }
+  });
+
+  // POST /api/tests - Upload and parse a new test
+  apiRouter.post("/api/tests", async (req: Request, res: Response) => {
+    try {
+      const testData = insertTestSchema.parse(req.body);
+      const test = await storage.createTest(testData);
+      res.status(201).json(test);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid test data", error: fromZodError(error) });
+      } else {
+        console.error("Error creating test:", error);
+        res.status(500).json({ message: "Failed to create test" });
+      }
+    }
+  });
+
+  // GET /api/tests/:id - Get a single test
+  apiRouter.get("/api/tests/:id", async (req: Request, res: Response) => {
+    try {
+      const testId = parseInt(req.params.id);
+      if (isNaN(testId)) {
+        return res.status(400).json({ message: "Invalid test ID" });
+      }
+
+      const test = await storage.getTest(testId);
+      if (!test) {
+        return res.status(404).json({ message: "Test not found" });
+      }
+
+      res.json(test);
+    } catch (error) {
+      console.error("Error fetching test:", error);
+      res.status(500).json({ message: "Failed to fetch test" });
+    }
+  });
+
+  // POST /api/questions - Add questions to a test
+  apiRouter.post("/api/questions", async (req: Request, res: Response) => {
+    try {
+      const questionsData = z.array(insertQuestionSchema).parse(req.body);
+      const questions = await storage.addQuestionsToTest(questionsData);
+      res.status(201).json(questions);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid question data", error: fromZodError(error) });
+      } else {
+        console.error("Error adding questions:", error);
+        res.status(500).json({ message: "Failed to add questions" });
+      }
+    }
+  });
+
+  // GET /api/tests/:testId/questions - Get all questions for a test
+  apiRouter.get("/api/tests/:testId/questions", async (req: Request, res: Response) => {
+    try {
+      const testId = parseInt(req.params.testId);
+      if (isNaN(testId)) {
+        return res.status(400).json({ message: "Invalid test ID" });
+      }
+
+      const questions = await storage.getQuestionsByTest(testId);
+      res.json(questions);
+    } catch (error) {
+      console.error("Error fetching questions:", error);
+      res.status(500).json({ message: "Failed to fetch questions" });
+    }
+  });
+
+  // POST /api/attempts - Create a new attempt
+  apiRouter.post("/api/attempts", async (req: Request, res: Response) => {
+    try {
+      const attemptData = insertAttemptSchema.parse(req.body);
+      const attempt = await storage.createAttempt(attemptData);
+      res.status(201).json(attempt);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid attempt data", error: fromZodError(error) });
+      } else {
+        console.error("Error creating attempt:", error);
+        res.status(500).json({ message: "Failed to create attempt" });
+      }
+    }
+  });
+
+  // PATCH /api/attempts/:id - Update an attempt (complete it)
+  apiRouter.patch("/api/attempts/:id", async (req: Request, res: Response) => {
+    try {
+      const attemptId = parseInt(req.params.id);
+      if (isNaN(attemptId)) {
+        return res.status(400).json({ message: "Invalid attempt ID" });
+      }
+
+      const schema = z.object({
+        endTime: z.string().optional(),
+        totalTimeSeconds: z.number().optional(),
+        completed: z.boolean().optional(),
+      });
+
+      const rawUpdateData = schema.parse(req.body);
+      
+      // Convert string dates to Date objects
+      const updateData: Partial<Attempt> = {
+        ...(rawUpdateData.totalTimeSeconds && { totalTimeSeconds: rawUpdateData.totalTimeSeconds }),
+        ...(rawUpdateData.completed && { completed: rawUpdateData.completed }),
+        ...(rawUpdateData.endTime && { endTime: new Date(rawUpdateData.endTime) })
+      };
+      
+      const attempt = await storage.updateAttempt(attemptId, updateData);
+      
+      if (!attempt) {
+        return res.status(404).json({ message: "Attempt not found" });
+      }
+      
+      res.json(attempt);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid update data", error: fromZodError(error) });
+      } else {
+        console.error("Error updating attempt:", error);
+        res.status(500).json({ message: "Failed to update attempt" });
+      }
+    }
+  });
+
+  // GET /api/attempts/:id - Get a single attempt
+  apiRouter.get("/api/attempts/:id", async (req: Request, res: Response) => {
+    try {
+      const attemptId = parseInt(req.params.id);
+      if (isNaN(attemptId)) {
+        return res.status(400).json({ message: "Invalid attempt ID" });
+      }
+
+      const attempt = await storage.getAttempt(attemptId);
+      if (!attempt) {
+        return res.status(404).json({ message: "Attempt not found" });
+      }
+
+      res.json(attempt);
+    } catch (error) {
+      console.error("Error fetching attempt:", error);
+      res.status(500).json({ message: "Failed to fetch attempt" });
+    }
+  });
+
+  // GET /api/tests/:testId/attempts - Get all attempts for a test
+  apiRouter.get("/api/tests/:testId/attempts", async (req: Request, res: Response) => {
+    try {
+      const testId = parseInt(req.params.testId);
+      if (isNaN(testId)) {
+        return res.status(400).json({ message: "Invalid test ID" });
+      }
+
+      const attempts = await storage.getAttemptsByTest(testId);
+      res.json(attempts);
+    } catch (error) {
+      console.error("Error fetching attempts:", error);
+      res.status(500).json({ message: "Failed to fetch attempts" });
+    }
+  });
+
+  // POST /api/answers - Submit an answer
+  apiRouter.post("/api/answers", async (req: Request, res: Response) => {
+    try {
+      const answerData = insertUserAnswerSchema.parse(req.body);
+      const answer = await storage.createUserAnswer(answerData);
+      res.status(201).json(answer);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid answer data", error: fromZodError(error) });
+      } else {
+        console.error("Error submitting answer:", error);
+        res.status(500).json({ message: "Failed to submit answer" });
+      }
+    }
+  });
+
+  // GET /api/attempts/:attemptId/answers - Get all answers for an attempt
+  apiRouter.get("/api/attempts/:attemptId/answers", async (req: Request, res: Response) => {
+    try {
+      const attemptId = parseInt(req.params.attemptId);
+      if (isNaN(attemptId)) {
+        return res.status(400).json({ message: "Invalid attempt ID" });
+      }
+
+      const answers = await storage.getUserAnswersByAttempt(attemptId);
+      res.json(answers);
+    } catch (error) {
+      console.error("Error fetching answers:", error);
+      res.status(500).json({ message: "Failed to fetch answers" });
+    }
+  });
+
+  // POST /api/tags - Add tags to a question
+  apiRouter.post("/api/tags", async (req: Request, res: Response) => {
+    try {
+      const tagsData = z.array(insertTagSchema).parse(req.body);
+      const tags = await storage.addTagsToQuestion(tagsData);
+      res.status(201).json(tags);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid tag data", error: fromZodError(error) });
+      } else {
+        console.error("Error adding tags:", error);
+        res.status(500).json({ message: "Failed to add tags" });
+      }
+    }
+  });
+
+  // DELETE /api/tags/:id - Delete a tag
+  apiRouter.delete("/api/tags/:id", async (req: Request, res: Response) => {
+    try {
+      const tagId = parseInt(req.params.id);
+      if (isNaN(tagId)) {
+        return res.status(400).json({ message: "Invalid tag ID" });
+      }
+
+      await storage.deleteTag(tagId);
+      res.status(204).send();
+    } catch (error) {
+      console.error("Error deleting tag:", error);
+      res.status(500).json({ message: "Failed to delete tag" });
+    }
+  });
+
+  // POST /api/flashcards - Create a flashcard
+  apiRouter.post("/api/flashcards", async (req: Request, res: Response) => {
+    try {
+      const flashcardData = insertFlashcardSchema.parse(req.body);
+      const flashcard = await storage.createFlashcard(flashcardData);
+      res.status(201).json(flashcard);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid flashcard data", error: fromZodError(error) });
+      } else {
+        console.error("Error creating flashcard:", error);
+        res.status(500).json({ message: "Failed to create flashcard" });
+      }
+    }
+  });
+
+  // GET /api/flashcards - Get all flashcards
+  apiRouter.get("/api/flashcards", async (_req: Request, res: Response) => {
+    try {
+      const flashcards = await storage.getAllFlashcards();
+      res.json(flashcards);
+    } catch (error) {
+      console.error("Error fetching flashcards:", error);
+      res.status(500).json({ message: "Failed to fetch flashcards" });
+    }
+  });
+
+  // PATCH /api/flashcards/:id - Update a flashcard (after review)
+  apiRouter.patch("/api/flashcards/:id", async (req: Request, res: Response) => {
+    try {
+      const flashcardId = parseInt(req.params.id);
+      if (isNaN(flashcardId)) {
+        return res.status(400).json({ message: "Invalid flashcard ID" });
+      }
+
+      const schema = z.object({
+        lastReviewedAt: z.string().optional(),
+        nextReviewAt: z.string().optional(),
+        easeFactor: z.number().optional(),
+        interval: z.number().optional(),
+        reviewCount: z.number().optional(),
+      });
+
+      const rawUpdateData = schema.parse(req.body);
+      
+      // Convert string dates to Date objects
+      const updateData: Partial<Flashcard> = {
+        ...(rawUpdateData.easeFactor && { easeFactor: rawUpdateData.easeFactor }),
+        ...(rawUpdateData.interval && { interval: rawUpdateData.interval }),
+        ...(rawUpdateData.reviewCount && { reviewCount: rawUpdateData.reviewCount }),
+        ...(rawUpdateData.lastReviewedAt && { lastReviewedAt: new Date(rawUpdateData.lastReviewedAt) }),
+        ...(rawUpdateData.nextReviewAt && { nextReviewAt: new Date(rawUpdateData.nextReviewAt) })
+      };
+      
+      const flashcard = await storage.updateFlashcard(flashcardId, updateData);
+      
+      if (!flashcard) {
+        return res.status(404).json({ message: "Flashcard not found" });
+      }
+      
+      res.json(flashcard);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid update data", error: fromZodError(error) });
+      } else {
+        console.error("Error updating flashcard:", error);
+        res.status(500).json({ message: "Failed to update flashcard" });
+      }
+    }
+  });
+
+  // GET /api/analytics/test/:attemptId - Get analytics for a test attempt
+  apiRouter.get("/api/analytics/test/:attemptId", async (req: Request, res: Response) => {
+    try {
+      const attemptId = parseInt(req.params.attemptId);
+      if (isNaN(attemptId)) {
+        return res.status(400).json({ message: "Invalid attempt ID" });
+      }
+
+      const analytics = await storage.getTestAnalytics(attemptId);
+      if (!analytics) {
+        return res.status(404).json({ message: "Analytics not found" });
+      }
+
+      res.json(analytics);
+    } catch (error) {
+      console.error("Error fetching test analytics:", error);
+      res.status(500).json({ message: "Failed to fetch test analytics" });
+    }
+  });
+
+  // GET /api/analytics/overall - Get overall analytics
+  apiRouter.get("/api/analytics/overall", async (_req: Request, res: Response) => {
+    try {
+      const analytics = await storage.getOverallAnalytics();
+      res.json(analytics);
+    } catch (error) {
+      console.error("Error fetching overall analytics:", error);
+      res.status(500).json({ message: "Failed to fetch overall analytics" });
+    }
+  });
+
+  // Generate Anki CSV - endpoint just returns questions formatted for Anki
+  apiRouter.get("/api/tests/:testId/anki", async (req: Request, res: Response) => {
+    try {
+      const testId = parseInt(req.params.testId);
+      if (isNaN(testId)) {
+        return res.status(400).json({ message: "Invalid test ID" });
+      }
+
+      const ankiData = await storage.getAnkiData(testId);
+      res.json(ankiData);
+    } catch (error) {
+      console.error("Error generating Anki data:", error);
+      res.status(500).json({ message: "Failed to generate Anki data" });
+    }
+  });
+
+  const httpServer = createServer(app);
+
+  return httpServer;
+}
