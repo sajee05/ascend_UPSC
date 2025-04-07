@@ -16,6 +16,7 @@ import { fromZodError } from "zod-validation-error";
 import { ZodError } from "zod";
 import * as fs from "fs/promises";
 import * as path from "path";
+import { checkDatabaseSetup, initializeDatabase } from "./database-init";
 
 export async function registerRoutes(app: Express): Promise<Server> {
   // Prefix all routes with /api
@@ -494,6 +495,28 @@ export async function registerRoutes(app: Express): Promise<Server> {
         console.error("Error updating theme:", error);
         res.status(500).json({ message: "Failed to update theme" });
       }
+    }
+  });
+  
+  // GET /api/database/status - Check if database is already set up
+  apiRouter.get("/api/database/status", async (_req: Request, res: Response) => {
+    try {
+      const isSetup = await checkDatabaseSetup();
+      res.json({ initialized: isSetup });
+    } catch (error) {
+      console.error("Error checking database status:", error);
+      res.status(500).json({ message: "Failed to check database status" });
+    }
+  });
+  
+  // POST /api/database/setup - Initialize database
+  apiRouter.post("/api/database/setup", async (_req: Request, res: Response) => {
+    try {
+      const result = await initializeDatabase();
+      res.json(result);
+    } catch (error) {
+      console.error("Error initializing database:", error);
+      res.status(500).json({ message: "Failed to initialize database" });
     }
   });
 
