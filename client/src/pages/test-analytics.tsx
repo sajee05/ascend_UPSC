@@ -2,7 +2,7 @@ import { useParams, useLocation } from "wouter";
 import { TestSummary } from "@/components/analytics/test-summary";
 import { Charts } from "@/components/analytics/charts";
 import { PerformanceTable } from "@/components/analytics/performance-table";
-import { AIInsights } from "@/components/analytics/ai-insights";
+import { EnhancedAIInsights } from "@/components/analytics/enhanced-ai-insights";
 import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
 import { Button } from "@/components/ui/button";
 import { Logo } from "@/components/ui/logo";
@@ -195,7 +195,7 @@ export default function TestAnalyticsPage() {
           />
           
           {/* AI Recommendations */}
-          <AIInsights 
+          <EnhancedAIInsights 
             overallStats={analytics.overallStats} 
             subjectStats={analytics.subjectStats}
           />

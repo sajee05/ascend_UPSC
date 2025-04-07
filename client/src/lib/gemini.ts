@@ -47,6 +47,32 @@ Focus on:
 
 Keep your response concise, practical, and focused on actionable advice. Use bullet points.`;
 
+export const DEFAULT_STUDY_PLAN_PROMPT = 
+`As a UPSC exam coach, create a detailed 7-day study plan based on the candidate's performance data below.
+The plan should address their weakest areas while maintaining strengths.
+
+For each day, provide:
+1. Key subjects/topics to focus on (specify 2-3 priority areas)
+2. Recommended study approach (e.g., revision, practice tests, note-making)
+3. Time allocation suggestions (morning/afternoon/evening blocks)
+4. One specific resource recommendation for each focus area
+
+Make the plan practical, balanced, and targeted to optimize their preparation strategy.
+Include a brief explanation of why you've structured the plan this way.`;
+
+export const DEFAULT_LEARNING_PATTERN_PROMPT = 
+`Analyze the student's learning patterns based on the UPSC mock test data provided.
+Focus specifically on metacognitive insights (confidence levels, knowledge self-assessment, guesswork patterns).
+
+Provide insights on:
+1. How the student's self-assessment correlates with actual performance
+2. Patterns in their confidence levels across different subjects
+3. When they rely on guesswork vs. knowledge
+4. Their time management patterns across subjects
+
+Include 3-5 specific, actionable recommendations to improve their metacognitive approach to studying.
+Be specific, insightful, and focused on psychological aspects of learning rather than just content knowledge.`;
+
 // Interface for Gemini API response
 interface GeminiResponse {
   candidates: {
@@ -170,6 +196,136 @@ ${subject.subject}:
   } catch (error) {
     console.error('Error getting analytics insights:', error);
     return 'Unable to generate insights at this time. Please try again later.';
+  }
+}
+
+// Function to get study plan recommendations
+export async function getStudyPlanRecommendations(
+  stats: {
+    overallStats: SubjectStats;
+    subjectStats: SubjectStats[];
+  },
+  apiKey: string,
+  model: string,
+  prompt: string = DEFAULT_STUDY_PLAN_PROMPT
+): Promise<string> {
+  try {
+    // Format the statistics for the model (same as getAnalyticsInsights)
+    const formattedStats = `
+OVERALL PERFORMANCE:
+- Total Questions: ${stats.overallStats.attempts}
+- Score: ${stats.overallStats.score.toFixed(2)}
+- Accuracy: ${stats.overallStats.accuracy.toFixed(1)}%
+- Confidence: High ${stats.overallStats.confidenceHigh}, Medium ${stats.overallStats.confidenceMid}, Low ${stats.overallStats.confidenceLow}
+- Knowledge: Yes ${stats.overallStats.knowledgeYes}, Technique: Yes ${stats.overallStats.techniqueYes}, Guesswork: Yes ${stats.overallStats.guessworkYes}
+
+SUBJECT PERFORMANCE:
+${stats.subjectStats.map(subject => `
+${subject.subject}:
+- Questions: ${subject.attempts}
+- Accuracy: ${subject.accuracy.toFixed(1)}%
+- Score: ${subject.score.toFixed(2)}
+- Avg Time: ${subject.avgTimeSeconds.toFixed(0)}s
+- Confidence: High ${subject.confidenceHigh}, Medium ${subject.confidenceMid}, Low ${subject.confidenceLow}
+- Knowledge: Yes ${subject.knowledgeYes}, Technique: Yes ${subject.techniqueYes}, Guesswork: Yes ${subject.guessworkYes}
+`).join('')}
+`;
+
+    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [
+          {
+            parts: [
+              { text: prompt },
+              { text: formattedStats }
+            ]
+          }
+        ],
+        generationConfig: {
+          temperature: 0.4,
+          topK: 32,
+          topP: 0.95,
+          maxOutputTokens: 1200, // Increased for longer study plan
+        }
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`Gemini API error: ${response.status}`);
+    }
+
+    const data = await response.json() as GeminiResponse;
+    return data.candidates[0]?.content.parts[0].text || 'No study plan available.';
+  } catch (error) {
+    console.error('Error getting study plan:', error);
+    return 'Unable to generate study plan at this time. Please try again later.';
+  }
+}
+
+// Function to get learning pattern analysis
+export async function getLearningPatternAnalysis(
+  stats: {
+    overallStats: SubjectStats;
+    subjectStats: SubjectStats[];
+  },
+  apiKey: string,
+  model: string,
+  prompt: string = DEFAULT_LEARNING_PATTERN_PROMPT
+): Promise<string> {
+  try {
+    // Format the statistics for the model (same as getAnalyticsInsights)
+    const formattedStats = `
+OVERALL PERFORMANCE:
+- Total Questions: ${stats.overallStats.attempts}
+- Score: ${stats.overallStats.score.toFixed(2)}
+- Accuracy: ${stats.overallStats.accuracy.toFixed(1)}%
+- Confidence: High ${stats.overallStats.confidenceHigh}, Medium ${stats.overallStats.confidenceMid}, Low ${stats.overallStats.confidenceLow}
+- Knowledge: Yes ${stats.overallStats.knowledgeYes}, Technique: Yes ${stats.overallStats.techniqueYes}, Guesswork: Yes ${stats.overallStats.guessworkYes}
+
+SUBJECT PERFORMANCE:
+${stats.subjectStats.map(subject => `
+${subject.subject}:
+- Questions: ${subject.attempts}
+- Accuracy: ${subject.accuracy.toFixed(1)}%
+- Score: ${subject.score.toFixed(2)}
+- Avg Time: ${subject.avgTimeSeconds.toFixed(0)}s
+- Confidence: High ${subject.confidenceHigh}, Medium ${subject.confidenceMid}, Low ${subject.confidenceLow}
+- Knowledge: Yes ${subject.knowledgeYes}, Technique: Yes ${subject.techniqueYes}, Guesswork: Yes ${subject.guessworkYes}
+`).join('')}
+`;
+
+    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [
+          {
+            parts: [
+              { text: prompt },
+              { text: formattedStats }
+            ]
+          }
+        ],
+        generationConfig: {
+          temperature: 0.4,
+          topK: 32,
+          topP: 0.95,
+          maxOutputTokens: 1000,
+        }
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`Gemini API error: ${response.status}`);
+    }
+
+    const data = await response.json() as GeminiResponse;
+    return data.candidates[0]?.content.parts[0].text || 'No learning pattern analysis available.';
+  } catch (error) {
+    console.error('Error getting learning pattern analysis:', error);
+    return 'Unable to generate learning pattern analysis at this time. Please try again later.';
   }
 }
 

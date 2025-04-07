@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useLocation } from "wouter";
 import { FilterControls, AnalyticsFilter } from "@/components/analytics/filter-controls";
-import { AIInsights } from "@/components/analytics/ai-insights";
+import { EnhancedAIInsights } from "@/components/analytics/enhanced-ai-insights";
 import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -367,7 +367,7 @@ export default function OverallAnalyticsPage() {
           
           {/* AI Insights */}
           {overallStats && (
-            <AIInsights 
+            <EnhancedAIInsights 
               overallStats={overallStats} 
               subjectStats={filteredStats} 
             />
