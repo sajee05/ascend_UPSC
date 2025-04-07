@@ -7,6 +7,14 @@ import {
 import { db } from "./db";
 import { eq, desc, and, sql, asc } from "drizzle-orm";
 
+// Helper function to ensure dates are properly converted to strings
+function dateToString(date: Date | string | null): string | null {
+  if (date === null) return null;
+  if (typeof date === 'string') return date;
+  if (date instanceof Date) return date.toISOString();
+  return null;
+}
+
 // Interface for storage operations
 export interface IStorage {
   // Tests
@@ -439,7 +447,7 @@ export class MemStorage implements IStorage {
       testId: test.id,
       attemptId,
       title: test.title,
-      date: attempt.startTime,
+      date: dateToString(attempt.startTime) || "",
       totalTimeSeconds: attempt.totalTimeSeconds || 0,
       overallStats,
       subjectStats,
@@ -552,7 +560,7 @@ export class MemStorage implements IStorage {
         const score = correct * 2 - incorrect * 0.66;
         
         trendData.push({
-          date: attempt.startTime,
+          date: dateToString(attempt.startTime) || "",
           accuracy,
           score,
         });
@@ -780,16 +788,25 @@ export class DatabaseStorage implements IStorage {
 
   // User Answer methods
   async createUserAnswer(answerData: InsertUserAnswer): Promise<UserAnswer> {
-    const [answer] = await db.insert(userAnswers)
-      .values(answerData)
-      .returning();
-    
-    // If this is an incorrect answer, automatically create a flashcard
-    if (answerData.isCorrect === false) {
-      await this.createFlashcard({ questionId: answerData.questionId });
+    try {
+      const [answer] = await db.insert(userAnswers)
+        .values({
+          ...answerData,
+          // Ensure timestamp is handled properly
+          timestamp: new Date().toISOString()
+        })
+        .returning();
+      
+      // If this is an incorrect answer, automatically create a flashcard
+      if (answerData.isCorrect === false) {
+        await this.createFlashcard({ questionId: answerData.questionId });
+      }
+      
+      return answer;
+    } catch (error) {
+      console.error("Error submitting answer:", error);
+      throw new Error("Failed to submit answer");
     }
-    
-    return answer;
   }
 
   async getUserAnswersByAttempt(attemptId: number): Promise<UserAnswer[]> {
@@ -802,27 +819,33 @@ export class DatabaseStorage implements IStorage {
 
   // Flashcard methods
   async createFlashcard(flashcardData: InsertFlashcard): Promise<Flashcard> {
-    // Check if flashcard for this question already exists
-    const [existingFlashcard] = await db.select()
-      .from(flashcards)
-      .where(eq(flashcards.questionId, flashcardData.questionId));
-    
-    if (existingFlashcard) {
-      return existingFlashcard;
+    try {
+      // Check if flashcard for this question already exists
+      const [existingFlashcard] = await db.select()
+        .from(flashcards)
+        .where(eq(flashcards.questionId, flashcardData.questionId));
+      
+      if (existingFlashcard) {
+        return existingFlashcard;
+      }
+      
+      const tomorrow = new Date();
+      tomorrow.setDate(tomorrow.getDate() + 1);
+      
+      // Insert with explicit date fields - let database handle timestamp conversion
+      const [flashcard] = await db.insert(flashcards)
+        .values({
+          ...flashcardData,
+          createdAt: new Date().toISOString(),
+          nextReviewAt: tomorrow
+        })
+        .returning();
+      
+      return flashcard;
+    } catch (error) {
+      console.error("Error creating flashcard:", error);
+      throw new Error("Failed to create flashcard");
     }
-    
-    const now = new Date();
-    const tomorrow = new Date();
-    tomorrow.setDate(tomorrow.getDate() + 1);
-    
-    const [flashcard] = await db.insert(flashcards)
-      .values({
-        ...flashcardData,
-        nextReviewAt: tomorrow.toISOString(),
-      })
-      .returning();
-    
-    return flashcard;
   }
 
   async getAllFlashcards(): Promise<(Flashcard & { question: QuestionWithTags })[]> {
@@ -992,7 +1015,7 @@ export class DatabaseStorage implements IStorage {
       testId: test.id,
       attemptId,
       title: test.title,
-      date: attempt.startTime,
+      date: dateToString(attempt.startTime) || "",
       totalTimeSeconds: attempt.totalTimeSeconds || 0,
       overallStats,
       subjectStats,
@@ -1137,13 +1160,18 @@ export class DatabaseStorage implements IStorage {
         const score = correct * 2 - incorrect * 0.66;
         const accuracy = (correct / (correct + incorrect)) * 100;
         
-        // Use the date part of the timestamp
-        const date = attempt.endTime.split('T')[0];
+        // Use the date part of the timestamp 
+        let dateString = "";
+        if (typeof attempt.endTime === 'string') {
+          dateString = attempt.endTime.split('T')[0];
+        } else if (attempt.endTime instanceof Date) {
+          dateString = attempt.endTime.toISOString().split('T')[0];
+        }
         
         trendData.push({
-          date,
-          accuracy,
-          score,
+          date: dateString,
+          accuracy: Number(accuracy.toFixed(2)),
+          score: Number(score.toFixed(2)),
         });
       }
     }

@@ -82,7 +82,10 @@ export function AnsweredQuestionCard({
       line.match(/\s{2,}/) || 
       line.match(/\|\s*[^|]+\s*\|/) || // Detect markdown-style tables with | separators
       line.match(/\+[-+]+\+/) || // Detect ascii-style tables with + and - separators
-      (line.match(/[\-\+]{3,}/) && (lines[i-1]?.includes('\t') || lines[i-1]?.match(/\s{2,}/))) || // Horizontal table separators
+      line.match(/^\s*[\-\+]{3,}/) || // Horizontal table separators
+      line.match(/^\s*[a-z0-9]+\s{2,}/) || // Lines starting with text followed by multiple spaces
+      line.match(/^\s*\d+[\.\)]\s+\S+\s{2,}\S+/) || // Numbered lists with multiple spaces between items
+      (line.match(/[\-\+]{3,}/) && (lines[i-1]?.includes('\t') || lines[i-1]?.match(/\s{2,}/))) || // Lines after table rows
       (i > 0 && i < lines.length - 1 && 
        (lines[i-1].includes('\t') || lines[i-1].match(/\s{2,}/)) && 
        (lines[i+1].includes('\t') || lines[i+1].match(/\s{2,}/)));
@@ -153,7 +156,13 @@ export function AnsweredQuestionCard({
                         : question.optionD;
                         
                       // Check if option text contains a table structure
-                      if (optionText.includes('\t') || optionText.match(/\s{2,}/) || optionText.match(/\|\s*[^|]+\s*\|/)) {
+                      if (optionText.includes('\t') || 
+                          optionText.match(/\s{2,}/) || 
+                          optionText.match(/\|\s*[^|]+\s*\|/) ||
+                          optionText.match(/\+[-+]+\+/) ||
+                          optionText.match(/^\s*[\-\+]{3,}/) ||
+                          optionText.match(/^\s*[a-z0-9]+\s{2,}/) ||
+                          optionText.match(/^\s*\d+[\.\)]\s+\S+\s{2,}\S+/)) {
                         // Return as pre-formatted text for tables
                         return (
                           <div className="font-mono whitespace-pre text-xs md:text-sm overflow-x-auto">
