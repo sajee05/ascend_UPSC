@@ -20,7 +20,6 @@ interface Settings {
   studyPlanPrompt: string;
   learningPatternPrompt: string;
   parsingPromptTitle: string;
-  databaseConfigured: boolean;
 }
 
 interface SettingsContextType {
@@ -41,7 +40,6 @@ const defaultSettings: Settings = {
   studyPlanPrompt: DEFAULT_STUDY_PLAN_PROMPT,
   learningPatternPrompt: DEFAULT_LEARNING_PATTERN_PROMPT,
   parsingPromptTitle: "Parse the following test into JSON format",
-  databaseConfigured: false,
 };
 
 const SettingsContext = createContext<SettingsContextType>({

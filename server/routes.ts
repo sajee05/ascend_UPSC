@@ -16,10 +16,6 @@ import { fromZodError } from "zod-validation-error";
 import { ZodError } from "zod";
 import * as fs from "fs/promises";
 import * as path from "path";
-import { client, db } from "./db";
-import { sql } from "drizzle-orm";
-import { initializeDatabase } from "./migrate";
-import { logger } from "./logger";
 
 export async function registerRoutes(app: Express): Promise<Server> {
   // Prefix all routes with /api
@@ -498,52 +494,6 @@ export async function registerRoutes(app: Express): Promise<Server> {
         console.error("Error updating theme:", error);
         res.status(500).json({ message: "Failed to update theme" });
       }
-    }
-  });
-  
-  // POST /api/database/configure - Configure and initialize the database
-  apiRouter.post("/api/database/configure", async (req: Request, res: Response) => {
-    try {
-      // Check if database is properly configured
-      if (!process.env.DATABASE_URL) {
-        return res.status(400).json({ 
-          success: false, 
-          message: "DATABASE_URL environment variable is missing" 
-        });
-      }
-      
-      // Test database connection
-      try {
-        // Run a simple query to test the connection
-        await db.execute(sql`SELECT 1 as test`);
-        logger("Database connection test successful", "database");
-      } catch (dbError) {
-        logger(`Database connection test failed: ${dbError}`, "database-error");
-        return res.status(500).json({ 
-          success: false, 
-          message: "Could not connect to the database. Please check your database credentials." 
-        });
-      }
-      
-      // Initialize database with default subjects and topics
-      try {
-        await initializeDatabase();
-        logger("Database initialization successful", "database");
-      } catch (initError) {
-        logger(`Database initialization failed: ${initError}`, "database-error");
-        return res.status(500).json({ 
-          success: false, 
-          message: "Database initialization failed" 
-        });
-      }
-      
-      res.json({ success: true, message: "Database configured successfully" });
-    } catch (error) {
-      console.error("Error configuring database:", error);
-      res.status(500).json({ 
-        success: false, 
-        message: "An unexpected error occurred during database configuration" 
-      });
     }
   });
 

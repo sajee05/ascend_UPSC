@@ -159,48 +159,6 @@ export default function SettingsPanel() {
       alert("All data would be cleared");
     }
   };
-  
-  const handleConfigureDatabase = async () => {
-    try {
-      // Make an API call to test the database connection
-      const response = await fetch('/api/database/configure', {
-        method: 'POST',
-      });
-      
-      if (response.ok) {
-        const result = await response.json();
-        if (result.success) {
-          updateSettings({
-            databaseConfigured: true
-          });
-          
-          toast({
-            title: "Database configured",
-            description: "Your PostgreSQL database has been successfully configured",
-            className: "bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800",
-            duration: 3000,
-          });
-          
-          // Reload the page to apply database changes
-          setTimeout(() => {
-            window.location.reload();
-          }, 1500);
-        } else {
-          throw new Error(result.message || "Failed to configure database");
-        }
-      } else {
-        throw new Error("Failed to configure database");
-      }
-    } catch (error) {
-      console.error("Database configuration error:", error);
-      toast({
-        title: "Configuration failed",
-        description: "Failed to configure the database. Please check console for details.",
-        variant: "destructive",
-        duration: 5000,
-      });
-    }
-  };
 
   return (
     <Sheet open={uiState.settingsPanelOpen} onOpenChange={(open) => updateUIState({ settingsPanelOpen: open })}>
@@ -503,16 +461,6 @@ export default function SettingsPanel() {
           <div>
             <h3 className="font-medium text-lg mb-4">Data Management</h3>
             <div className="space-y-3">
-              <Button 
-                variant="outline" 
-                className={`w-full justify-start ${settings.databaseConfigured ? 'text-green-600 border-green-200 dark:text-green-400 dark:border-green-800' : ''}`}
-                onClick={handleConfigureDatabase}
-                disabled={settings.databaseConfigured}
-              >
-                <CheckCircle className={`h-4 w-4 mr-2 ${settings.databaseConfigured ? 'text-green-600 dark:text-green-400' : 'text-gray-600 dark:text-gray-400'}`} />
-                {settings.databaseConfigured ? 'Database Configured' : 'Configure Database'}
-              </Button>
-              
               <Button 
                 variant="outline" 
                 className="w-full justify-start"
