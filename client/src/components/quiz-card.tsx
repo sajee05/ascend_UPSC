@@ -120,12 +120,35 @@ export function QuizCard({
     }
   };
 
-  // Format monospace text tables
-  const formattedQuestionText = question.questionText.split('\n').map((line, i) => (
-    <div key={i} className={line.includes('\t') || line.match(/\s{2,}/) ? "font-mono whitespace-pre" : ""}>
-      {line}
-    </div>
-  ));
+  // Format monospace text tables with enhanced table detection
+  const formattedQuestionText = question.questionText.split('\n').map((line, i, lines) => {
+    // Detect table rows: lines with tabs or multiple consecutive spaces or table-like structures
+    const isTableRow = 
+      line.includes('\t') || 
+      line.match(/\s{2,}/) || 
+      line.match(/\|\s*[^|]+\s*\|/) || // Detect markdown-style tables with | separators
+      line.match(/\+[-+]+\+/) || // Detect ascii-style tables with + and - separators
+      (line.match(/[\-\+]{3,}/) && (lines[i-1]?.includes('\t') || lines[i-1]?.match(/\s{2,}/))) || // Horizontal table separators
+      (i > 0 && i < lines.length - 1 && 
+       (lines[i-1].includes('\t') || lines[i-1].match(/\s{2,}/)) && 
+       (lines[i+1].includes('\t') || lines[i+1].match(/\s{2,}/)));
+    
+    let className = "";
+    if (isTableRow) {
+      className = "font-mono whitespace-pre text-xs md:text-sm overflow-x-auto max-w-full pb-1";
+      
+      // Add a scrollable container if the line is too long
+      if (line.length > 60) {
+        className += " scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600";
+      }
+    }
+    
+    return (
+      <div key={i} className={className}>
+        {line}
+      </div>
+    );
+  });
 
   return (
     <>
@@ -196,21 +219,37 @@ export function QuizCard({
                   <Button
                     variant="outline"
                     className={cn(
-                      "w-full justify-start text-left h-auto py-3 px-4",
+                      "w-full justify-start text-left h-auto py-3 px-4 overflow-hidden",
                       selectedOption === option && "border-primary-500 ring-2 ring-primary/50"
                     )}
                     onClick={() => handleOptionSelect(option)}
                     disabled={!!selectedOption}
                   >
-                    <span className="font-medium mr-2">{option})</span>
-                    <span>
-                      {option === "A"
-                        ? question.optionA
-                        : option === "B"
-                        ? question.optionB
-                        : option === "C"
-                        ? question.optionC
-                        : question.optionD}
+                    <span className="font-medium mr-2 flex-shrink-0">{option})</span>
+                    <span className="break-words">
+                      {(() => {
+                        // Get option text
+                        const optionText = option === "A"
+                          ? question.optionA
+                          : option === "B"
+                          ? question.optionB
+                          : option === "C"
+                          ? question.optionC
+                          : question.optionD;
+                          
+                        // Check if option text contains a table structure
+                        if (optionText.includes('\t') || optionText.match(/\s{2,}/) || optionText.match(/\|\s*[^|]+\s*\|/)) {
+                          // Return as pre-formatted text for tables
+                          return (
+                            <div className="font-mono whitespace-pre text-xs md:text-sm overflow-x-auto">
+                              {optionText}
+                            </div>
+                          );
+                        }
+                        
+                        // Return as normal text
+                        return optionText;
+                      })()}
                     </span>
                   </Button>
                 </motion.div>

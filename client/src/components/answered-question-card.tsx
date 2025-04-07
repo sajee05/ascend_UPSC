@@ -74,12 +74,35 @@ export function AnsweredQuestionCard({
     onNext();
   };
 
-  // Format monospace text tables
-  const formattedQuestionText = question.questionText.split('\n').map((line, i) => (
-    <div key={i} className={line.includes('\t') || line.match(/\s{2,}/) ? "font-mono whitespace-pre" : ""}>
-      {line}
-    </div>
-  ));
+  // Format monospace text tables with enhanced table detection
+  const formattedQuestionText = question.questionText.split('\n').map((line, i, lines) => {
+    // Detect table rows: lines with tabs or multiple consecutive spaces or table-like structures
+    const isTableRow = 
+      line.includes('\t') || 
+      line.match(/\s{2,}/) || 
+      line.match(/\|\s*[^|]+\s*\|/) || // Detect markdown-style tables with | separators
+      line.match(/\+[-+]+\+/) || // Detect ascii-style tables with + and - separators
+      (line.match(/[\-\+]{3,}/) && (lines[i-1]?.includes('\t') || lines[i-1]?.match(/\s{2,}/))) || // Horizontal table separators
+      (i > 0 && i < lines.length - 1 && 
+       (lines[i-1].includes('\t') || lines[i-1].match(/\s{2,}/)) && 
+       (lines[i+1].includes('\t') || lines[i+1].match(/\s{2,}/)));
+    
+    let className = "";
+    if (isTableRow) {
+      className = "font-mono whitespace-pre text-xs md:text-sm overflow-x-auto max-w-full pb-1";
+      
+      // Add a scrollable container if the line is too long
+      if (line.length > 60) {
+        className += " scrollbar-thin scrollbar-thumb-gray-300 dark:scrollbar-thumb-gray-600";
+      }
+    }
+    
+    return (
+      <div key={i} className={className}>
+        {line}
+      </div>
+    );
+  });
 
   return (
     <Card className="mb-6 shadow-lg">
@@ -117,28 +140,46 @@ export function AnsweredQuestionCard({
             return (
               <div key={option} className={optionClassName}>
                 <div className="flex items-start">
-                  <span className="font-medium mr-2">{option})</span>
-                  <span>
-                    {option === "A"
-                      ? question.optionA
-                      : option === "B"
-                      ? question.optionB
-                      : option === "C"
-                      ? question.optionC
-                      : question.optionD}
+                  <span className="font-medium mr-2 flex-shrink-0">{option})</span>
+                  <span className="break-words">
+                    {(() => {
+                      // Get option text
+                      const optionText = option === "A"
+                        ? question.optionA
+                        : option === "B"
+                        ? question.optionB
+                        : option === "C"
+                        ? question.optionC
+                        : question.optionD;
+                        
+                      // Check if option text contains a table structure
+                      if (optionText.includes('\t') || optionText.match(/\s{2,}/) || optionText.match(/\|\s*[^|]+\s*\|/)) {
+                        // Return as pre-formatted text for tables
+                        return (
+                          <div className="font-mono whitespace-pre text-xs md:text-sm overflow-x-auto">
+                            {optionText}
+                          </div>
+                        );
+                      }
+                      
+                      // Return as normal text
+                      return optionText;
+                    })()}
                   </span>
                   
-                  {isSelected && isCorrect && (
-                    <CheckCircle2Icon className="h-5 w-5 text-green-500 ml-auto flex-shrink-0" />
-                  )}
-                  
-                  {isSelected && !isCorrect && (
-                    <XCircleIcon className="h-5 w-5 text-red-500 ml-auto flex-shrink-0" />
-                  )}
-                  
-                  {!isSelected && isCorrect && showCorrectAnswer && (
-                    <CheckCircle2Icon className="h-5 w-5 text-green-500 ml-auto flex-shrink-0" />
-                  )}
+                  <div className="ml-auto flex-shrink-0">
+                    {isSelected && isCorrect && (
+                      <CheckCircle2Icon className="h-5 w-5 text-green-500" />
+                    )}
+                    
+                    {isSelected && !isCorrect && (
+                      <XCircleIcon className="h-5 w-5 text-red-500" />
+                    )}
+                    
+                    {!isSelected && isCorrect && showCorrectAnswer && (
+                      <CheckCircle2Icon className="h-5 w-5 text-green-500" />
+                    )}
+                  </div>
                 </div>
               </div>
             );
@@ -161,6 +202,7 @@ export function AnsweredQuestionCard({
                 <Button
                   size="sm"
                   variant={metaData.knowledgeFlag ? "default" : "outline"}
+                  className={metaData.knowledgeFlag ? "bg-green-500 hover:bg-green-600 text-white" : ""}
                   onClick={() => handleMetaOptionSelect('knowledgeFlag', true)}
                 >
                   Yes ✅
@@ -181,6 +223,7 @@ export function AnsweredQuestionCard({
                 <Button
                   size="sm"
                   variant={metaData.techniqueFlag ? "default" : "outline"}
+                  className={metaData.techniqueFlag ? "bg-green-500 hover:bg-green-600 text-white" : ""}
                   onClick={() => handleMetaOptionSelect('techniqueFlag', true)}
                 >
                   Yes ✅
@@ -201,6 +244,7 @@ export function AnsweredQuestionCard({
                 <Button
                   size="sm"
                   variant={metaData.guessworkFlag ? "destructive" : "outline"}
+                  className={metaData.guessworkFlag ? "bg-red-500 hover:bg-red-600 text-white border-red-500" : ""}
                   onClick={() => handleMetaOptionSelect('guessworkFlag', true)}
                 >
                   Yes ✅
@@ -208,6 +252,7 @@ export function AnsweredQuestionCard({
                 <Button
                   size="sm"
                   variant={metaData.guessworkFlag === false ? "default" : "outline"}
+                  className={metaData.guessworkFlag === false ? "bg-green-500 hover:bg-green-600 text-white" : ""}
                   onClick={() => handleMetaOptionSelect('guessworkFlag', false)}
                 >
                   No ❌
@@ -220,21 +265,24 @@ export function AnsweredQuestionCard({
               <div className="flex space-x-3">
                 <Button
                   size="sm"
-                  variant={metaData.confidenceLevel === 'high' ? "default" : "outline"}
+                  variant="outline"
+                  className={metaData.confidenceLevel === 'high' ? "border-green-500 bg-green-50 text-green-700 hover:bg-green-100 dark:bg-green-900/20 dark:text-green-400 dark:border-green-800" : ""}
                   onClick={() => handleConfidenceSelect('high')}
                 >
                   High 🟢
                 </Button>
                 <Button
                   size="sm"
-                  variant={metaData.confidenceLevel === 'mid' ? "warning" : "outline"}
+                  variant="outline"
+                  className={metaData.confidenceLevel === 'mid' ? "border-orange-500 bg-orange-50 text-orange-700 hover:bg-orange-100 dark:bg-orange-900/20 dark:text-orange-400 dark:border-orange-800" : ""}
                   onClick={() => handleConfidenceSelect('mid')}
                 >
                   Mid 🟡
                 </Button>
                 <Button
                   size="sm"
-                  variant={metaData.confidenceLevel === 'low' ? "destructive" : "outline"}
+                  variant="outline"
+                  className={metaData.confidenceLevel === 'low' ? "border-red-500 bg-red-50 text-red-700 hover:bg-red-100 dark:bg-red-900/20 dark:text-red-400 dark:border-red-800" : ""}
                   onClick={() => handleConfidenceSelect('low')}
                 >
                   Low 🔴

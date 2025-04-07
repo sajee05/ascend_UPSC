@@ -8,13 +8,15 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetFooter } from "@/components/ui/sheet";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
-import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download } from "lucide-react";
+import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle } from "lucide-react";
 import { useLocation } from "wouter";
 import { DEFAULT_ANALYTICS_PROMPT, DEFAULT_SUBJECT_TAGGING_PROMPT } from "@/lib/gemini";
+import { useToast } from "@/hooks/use-toast";
 
 export default function SettingsPanel() {
   const { settings, updateSettings } = useSettings();
   const { uiState, updateUIState } = useUIState();
+  const { toast } = useToast();
   const [, navigate] = useLocation();
   
   // Local state for form values
@@ -22,6 +24,7 @@ export default function SettingsPanel() {
   const [showApiKey, setShowApiKey] = useState(false);
   const [subjectTaggingPrompt, setSubjectTaggingPrompt] = useState(settings.subjectTaggingPrompt);
   const [analyticsPrompt, setAnalyticsPrompt] = useState(settings.analyticsPrompt);
+  const [parsingPromptTitle, setParsingPromptTitle] = useState(settings.parsingPromptTitle || "");
 
   // Apply settings when panel closes
   useEffect(() => {
@@ -30,6 +33,7 @@ export default function SettingsPanel() {
       setApiKey(settings.aiApiKey || "");
       setSubjectTaggingPrompt(settings.subjectTaggingPrompt);
       setAnalyticsPrompt(settings.analyticsPrompt);
+      setParsingPromptTitle(settings.parsingPromptTitle || "Parse the following test into JSON format");
     }
   }, [uiState.settingsPanelOpen, settings]);
 
@@ -78,7 +82,15 @@ export default function SettingsPanel() {
     updateSettings({
       aiApiKey: apiKey,
       subjectTaggingPrompt,
-      analyticsPrompt
+      analyticsPrompt,
+      parsingPromptTitle
+    });
+    
+    toast({
+      title: "Settings saved",
+      description: "Your AI settings have been successfully saved",
+      className: "bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800",
+      duration: 3000,
     });
   };
 
@@ -162,7 +174,7 @@ export default function SettingsPanel() {
                     }`}
                     onClick={() => handleThemeChange("system")}
                   >
-                    <div className="h-5 w-5 bg-gradient-to-r from-slate-100 to-slate-900 rounded-full" />
+                    <Computer className="h-5 w-5" />
                     <span className="text-xs">System</span>
                   </Button>
                 </div>
@@ -322,6 +334,19 @@ export default function SettingsPanel() {
                     Reset to Default
                   </Button>
                 </div>
+              </div>
+              
+              <div>
+                <Label className="block text-sm font-medium mb-2">Parsing Prompt Title</Label>
+                <Input 
+                  value={parsingPromptTitle} 
+                  onChange={(e) => setParsingPromptTitle(e.target.value)}
+                  placeholder="Parse the following test into JSON format"
+                  className="text-sm"
+                />
+                <p className="text-xs text-muted-foreground mt-1">
+                  This title will be displayed above the parsing prompt for test format conversion.
+                </p>
               </div>
               
               <Button onClick={handleSaveAISettings}>

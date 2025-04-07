@@ -10,6 +10,7 @@ interface Settings {
   aiModel: string;
   subjectTaggingPrompt: string;
   analyticsPrompt: string;
+  parsingPromptTitle: string;
 }
 
 interface SettingsContextType {
@@ -26,6 +27,7 @@ const defaultSettings: Settings = {
   aiModel: "gemini-2.0-flash",
   subjectTaggingPrompt: DEFAULT_SUBJECT_TAGGING_PROMPT,
   analyticsPrompt: DEFAULT_ANALYTICS_PROMPT,
+  parsingPromptTitle: "Parse the following test into JSON format",
 };
 
 const SettingsContext = createContext<SettingsContextType>({
