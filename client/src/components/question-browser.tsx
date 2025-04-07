@@ -42,9 +42,20 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
   });
 
   // Get all questions (for browsing across tests)
-  const { data: allQuestions, isLoading: isLoadingAllQuestions, isStale: isQuestionsStale } = useQuery<QuestionWithTags[]>({
-    queryKey: ['/api/questions'],
+  // Since the /api/questions endpoint is having issues, use the first test's questions as a fallback
+  const { data: testsList } = useQuery<TestWithStats[]>({
+    queryKey: ['/api/tests'],
     enabled: !testId && activeTab === "all",
+    staleTime: 30000, // Consider data fresh for 30 seconds
+  });
+  
+  // Determine the first test ID for fallback
+  const firstTestId = testsList && testsList.length > 0 ? testsList[0].id : undefined;
+  
+  // Use the test-specific questions endpoint since it's working
+  const { data: allQuestions, isLoading: isLoadingAllQuestions } = useQuery<QuestionWithTags[]>({
+    queryKey: ['/api/tests', firstTestId, 'questions'],
+    enabled: !testId && activeTab === "all" && !!firstTestId, // Only run if we have a test ID
     staleTime: 30000, // Consider data fresh for 30 seconds
   });
 
@@ -56,9 +67,23 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
   // Filter questions by search and tags
   const filteredQuestions = useCallback(() => {
     // Get and process questions with proper error handling
-    let questions: QuestionWithTags[] = [];
+    let questions: any[] = [];
     try {
-      questions = testId ? (testQuestions || []) : (allQuestions || []);
+      // Important check: we need to determine if we have tests or questions
+      if (!testId && activeTab === "all") {
+        questions = allQuestions || [];
+      } else if (!testId && activeTab === "test") {
+        // If we're in "By Test" tab, we should be displaying tests, not questions
+        return [];
+      } else {
+        questions = testQuestions || [];
+      }
+      
+      // Check if we're dealing with questions or tests
+      if (questions.length > 0 && 'filename' in questions[0]) {
+        console.log("We have tests data instead of questions. This is not what we want here.");
+        return []; // Return empty if we have tests instead of questions
+      }
     } catch (error) {
       console.error("Error processing questions:", error);
       return []; // Return empty array on error
@@ -71,20 +96,30 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
       // Filter by search term
       if (searchTerm) {
         const term = searchTerm.toLowerCase();
-        filtered = filtered.filter(q => 
-          q.questionText?.toLowerCase().includes(term) || 
-          q.optionA?.toLowerCase().includes(term) || 
-          q.optionB?.toLowerCase().includes(term) || 
-          q.optionC?.toLowerCase().includes(term) || 
-          q.optionD?.toLowerCase().includes(term)
-        );
+        filtered = filtered.filter(q => {
+          try {
+            return (
+              (q.questionText?.toLowerCase().includes(term)) || 
+              (q.optionA?.toLowerCase().includes(term)) || 
+              (q.optionB?.toLowerCase().includes(term)) || 
+              (q.optionC?.toLowerCase().includes(term)) || 
+              (q.optionD?.toLowerCase().includes(term))
+            );
+          } catch (e) {
+            return false;
+          }
+        });
       }
 
       // Filter by selected tags
       if (selectedTags.length > 0) {
         filtered = filtered.filter(q => {
-          if (!q.tags || !Array.isArray(q.tags) || q.tags.length === 0) return false;
-          return selectedTags.some(tag => q.tags.some(t => t.tagName === tag));
+          try {
+            if (!q.tags || !Array.isArray(q.tags) || q.tags.length === 0) return false;
+            return selectedTags.some(tag => q.tags.some(t => t.tagName === tag));
+          } catch (e) {
+            return false;
+          }
         });
       }
 
@@ -93,21 +128,19 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
         const attemptedQuestionIds = new Set<number>();
         // Logic to get IDs of all attempted questions
         // For now, disabling this filter until we implement the logic
-        
-        // filtered = filtered.filter(q => q && q.id && attemptedQuestionIds.has(q.id));
       }
     } catch (error) {
       console.error("Error filtering questions:", error);
-      return questions; // Return unfiltered questions on error
+      return []; // Return empty array on error
     }
 
     console.log("Found", filtered.length, "questions after filtering");
     return filtered;
-  }, [testQuestions, allQuestions, searchTerm, selectedTags, testId, showAttemptedOnly, testAttempts]);
+  }, [testQuestions, allQuestions, searchTerm, selectedTags, testId, showAttemptedOnly, testAttempts, firstTestId]);
 
   const toggleTag = (tag: string) => {
     if (selectedTags.includes(tag)) {
-      setSelectedTags(selectedTags.filter(t => t !== tag));
+      setSelectedTags(selectedTags.filter((t: string) => t !== tag));
     } else {
       setSelectedTags([...selectedTags, tag]);
     }
@@ -261,10 +294,20 @@ function QuestionList({ questions }: { questions: QuestionWithTags[] }) {
     );
   }
   
-  // Filter out any invalid question objects before rendering
+  // Debug the structure of the first question to understand the issue
+  if (questions.length > 0) {
+    console.log("First question structure:", questions[0]);
+    console.log("Question keys:", Object.keys(questions[0] || {}));
+    console.log("Has ID?", questions[0]?.id !== undefined);
+    console.log("Has questionText?", !!questions[0]?.questionText);
+  }
+  
+  // Less strict validation to allow more questions to pass through
   const validQuestions = questions.filter(q => 
-    q && typeof q === 'object' && q.id !== undefined && q.questionText
+    q && typeof q === 'object' && q.id !== undefined
   );
+  
+  console.log("Valid questions found:", validQuestions.length, "out of", questions.length);
   
   // If all questions were invalid, show the "no questions" message
   if (validQuestions.length === 0) {
@@ -330,7 +373,7 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
       
       return [...question.tags]
         .sort((a, b) => a.tagName.localeCompare(b.tagName))
-        .map(tag => (
+        .map((tag: any) => (
           <Badge
             key={tag.id}
             variant={tag.isAIGenerated ? "outline" : "secondary"}

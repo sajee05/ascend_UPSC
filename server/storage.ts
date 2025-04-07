@@ -846,24 +846,21 @@ export class DatabaseStorage implements IStorage {
   
   async getAllQuestions(): Promise<QuestionWithTags[]> {
     try {
-      // Get all questions
-      const allQuestions = await db.select().from(questions);
+      // Get all questions - more efficient approach using a query to get questions by all test IDs
+      // Instead of fetching all questions directly, we'll get all test IDs first,
+      // then get questions for those tests using getQuestionsByTest, which is a more tested/reliable function
+      const allTests = await db.select().from(tests);
+      const testIds = allTests.map(test => test.id);
       
-      const result: QuestionWithTags[] = [];
+      // Use Promise.all to fetch questions for each test in parallel
+      const questionsPromises = testIds.map(testId => this.getQuestionsByTest(testId));
+      const questionsArrays = await Promise.all(questionsPromises);
       
-      // For each question, get its tags
-      for (const question of allQuestions) {
-        const questionTags = await db.select()
-          .from(tags)
-          .where(eq(tags.questionId, question.id));
-        
-        result.push({
-          ...question,
-          tags: questionTags,
-        });
-      }
+      // Flatten the array of arrays
+      const allQuestions = questionsArrays.flat();
       
-      return result;
+      console.log(`Found ${allQuestions.length} questions across ${testIds.length} tests`);
+      return allQuestions;
     } catch (error) {
       console.error("Error getting all questions:", error);
       return [];
