@@ -22,6 +22,22 @@ interface SubjectTagGroup {
   tags: string[];
 }
 
+// Helper function to format a tag for display in the UI
+function formatTagDisplay(tag: string, subject: string): string {
+  // If the tag has a colon format (Subject: Topic)
+  if (tag.includes(':')) {
+    return tag.split(':')[1].trim();
+  }
+  
+  // If it's part of the modern format like "Economics BANKING"
+  if (tag.startsWith(subject)) {
+    return tag.replace(subject, '').trim();
+  }
+  
+  // If it can't be formatted, return the original
+  return tag;
+}
+
 // Helper function to extract subject from tag
 function extractSubjectFromTag(tag: string): string {
   // Handle tags like "Economics: BANKING"
@@ -29,25 +45,198 @@ function extractSubjectFromTag(tag: string): string {
     return tag.split(":")[0].trim();
   }
   
-  // Handle tags in older format
+  // Main subject list based on the UPSC curriculum
   const knownSubjects = [
-    "Economics", 
-    "Ancient History", 
-    "Medieval History", 
+    "Economics",
+    "Ancient History",
+    "Medieval History",
     "Modern History",
-    "Polity", 
-    "Geography", 
-    "Environment", 
+    "Polity",
+    "Geography",
+    "Environment",
     "Science and Technology",
     "CSAT"
   ];
   
+  // Detailed mapping of topics to their parent subjects
+  const topicToSubjectMap: Record<string, string> = {
+    // Economics topics
+    "ECONOMICS BASICS": "Economics",
+    "NATIONAL INCOME": "Economics",
+    "INFLATION": "Economics",
+    "RBI": "Economics",
+    "MONETARY POLICY": "Economics",
+    "BANKING": "Economics",
+    "FINANCE": "Economics",
+    "TAX": "Economics",
+    "MONEY & STOCKS": "Economics",
+    "TRADE": "Economics",
+    "INTERNATIONAL BODIES": "Economics",
+    "REPORTS": "Economics",
+    "AGRICULTURE": "Economics",
+    "EMPLOYMENT": "Economics",
+    "MISC": "Economics",
+    "BUDGET": "Economics",
+    "SURVEY": "Economics",
+    "SCHEMES": "Economics",
+    
+    // Ancient History topics
+    "IVC": "Ancient History",
+    "VEDIC CULTURE": "Ancient History",
+    "MAHAJANPADAS": "Ancient History",
+    "JAINISM": "Ancient History",
+    "BUDDHISM": "Ancient History",
+    "MAURYA": "Ancient History",
+    "PRE GUPTA": "Ancient History",
+    "GUPTA": "Ancient History",
+    "SOUTH": "Ancient History",
+    "VARDHAN": "Ancient History",
+    "TRIPARTITE": "Ancient History",
+    "SCULPTURE": "Ancient History",
+    "ARCHITECTURE": "Ancient History",
+    "TEMPLE": "Ancient History",
+    "PAINTING": "Ancient History",
+    "MUSIC": "Ancient History",
+    "DANCE": "Ancient History",
+    "AWARDS": "Ancient History",
+    
+    // Medieval History topics
+    "VIJAYNAGAR": "Medieval History",
+    "SULTANATE": "Medieval History",
+    "MUGHAL": "Medieval History",
+    "BAHAMANI": "Medieval History",
+    "MARATHA": "Medieval History",
+    "EUROPEANS": "Medieval History",
+    
+    // Modern History topics
+    "CIVIL UPRISINGS": "Modern History",
+    "PEASANT MOVEMENTS": "Modern History",
+    "TRIBAL REVOLTS": "Modern History",
+    "SEPOY MUTINY": "Modern History",
+    "1857": "Modern History",
+    "SOCIO RELIGIOUS REFORMS": "Modern History",
+    "SOCIO CULTURAL REFORMS": "Modern History",
+    "MODERN NATIONALISM": "Modern History",
+    "INC": "Modern History",
+    "MODERATES": "Modern History",
+    "MILITANT NATIONALISM": "Modern History",
+    "FIRST PHASE": "Modern History",
+    "WWI": "Modern History",
+    "GANDHI": "Modern History",
+    "NCM": "Modern History",
+    "SWARAJ SWARAJIST": "Modern History",
+    "SIMON+": "Modern History",
+    "CDM": "Modern History",
+    "RTC": "Modern History",
+    "WWII": "Modern History",
+    "QIM": "Modern History",
+    "PAKISTAN": "Modern History",
+    "INA": "Modern History",
+    "POST WAR": "Modern History",
+    "INDEPENDENCE AND PARTITION": "Modern History",
+    "LEGAL": "Modern History",
+    "ADMIN": "Modern History",
+    "JUDICIAL": "Modern History",
+    "ECONOMIC IMPACT": "Modern History",
+    "PRESS": "Modern History",
+    "EDUCATION": "Modern History",
+    "ADVENT OF EUROPEANS": "Modern History",
+    "EXPANSION": "Modern History",
+    
+    // Polity topics
+    "ACTS": "Polity",
+    "FEATURES": "Polity",
+    "P and FED SYSTEM": "Polity",
+    "PREMBLE": "Polity",
+    "FR": "Polity",
+    "DPSP": "Polity",
+    "FD": "Polity",
+    "EMERGENCY": "Polity",
+    "AMD": "Polity",
+    "BS": "Polity",
+    "CITIZENSHIP": "Polity",
+    "EXECUTIVES": "Polity",
+    "LEGISLATURES": "Polity",
+    "JUDICIARY": "Polity",
+    "LOCAL GOVT": "Polity",
+    "SERVICES": "Polity",
+    "SPECIAL AREAS": "Polity",
+    "CONSTI BODIES": "Polity",
+    
+    // Geography topics
+    "EARTH": "Geography",
+    "LANDFORMS": "Geography",
+    "MINERALS": "Geography",
+    "GEOMORPHICS": "Geography",
+    "INDIA PHYSIOGRAPHY": "Geography",
+    "INDIA DRAINAGE SYSTEM": "Geography",
+    "CLIMATE": "Geography",
+    "ATMOSPHERE": "Geography",
+    "G C LEONG CLIMATE & VEGETATION": "Geography",
+    "INDIA CLIMATE AND VEGETATION": "Geography",
+    "OCEANOGRAPHY": "Geography",
+    "HUMAN GEOG": "Geography",
+    "MAPPING INDIA": "Geography",
+    "MAPPING WORLD": "Geography",
+    
+    // Environment topics
+    "ENVIRONMENT BASICS": "Environment",
+    "FUNCTIONS": "Environment",
+    "TERRESTRIAL": "Environment",
+    "AQUATIC": "Environment",
+    "POLLUTION": "Environment",
+    "BIODIVERSITY AND CONSERVATION": "Environment",
+    "CLIMATE AND CONSERVATION": "Environment",
+    "NATIONAL ACTS": "Environment",
+    "POLICIES": "Environment",
+    "ENV BODIES": "Environment",
+    "INTERNATIONAL ORG": "Environment",
+    "CONVENTIONS": "Environment",
+    "RAMSAR SITES": "Environment",
+    "TIGER RESERVES": "Environment",
+    "ELEPHANT RESERVES": "Environment",
+    "BIOSPHERE RESERVES": "Environment",
+    "NATIONAL PARKS": "Environment",
+    
+    // Science and Technology topics
+    "BIOLOGY": "Science and Technology",
+    "BIOTECH": "Science and Technology",
+    "HEALTH AND DISEASE": "Science and Technology",
+    "PHYSICS": "Science and Technology",
+    "CHEMISTRY": "Science and Technology",
+    "SPACE": "Science and Technology",
+    "IT": "Science and Technology",
+    "NANOTECH": "Science and Technology",
+    "DEFENCE": "Science and Technology",
+    "EMERGING TECH": "Science and Technology",
+    
+    // CSAT topics
+    "NUMBER SYSTEM": "CSAT",
+    "PERCENTAGE": "CSAT",
+    "AVERAGE": "CSAT",
+    "RATIO & PROPORTION": "CSAT",
+    "PROFIT AND LOSS": "CSAT",
+    "SPEED DISTANCE TIME": "CSAT",
+    "LCM/HCF": "CSAT",
+    "SYLLOGISM": "CSAT",
+    "STATEMENTS": "CSAT"
+  };
+
+  // First check if any subject name is in the tag as a prefix
   for (const subject of knownSubjects) {
     if (tag.startsWith(subject)) {
       return subject;
     }
   }
   
+  // Then check for topic-based mapping
+  for (const [topic, subject] of Object.entries(topicToSubjectMap)) {
+    if (tag.includes(topic)) {
+      return subject;
+    }
+  }
+  
+  // Default fallback
   return "Other";
 }
 
@@ -205,9 +394,7 @@ export function FilterControls({
                           value={tag}
                           className="pl-6" // Add extra padding for nested items
                         >
-                          {tag.includes(':') 
-                            ? tag.split(':')[1].trim() 
-                            : tag.replace(group.subject, '').trim()}
+                          {formatTagDisplay(tag, group.subject)}
                         </SelectItem>
                       ))}
                     </SelectGroup>
