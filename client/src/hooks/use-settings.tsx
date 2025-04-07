@@ -39,7 +39,7 @@ const defaultSettings: Settings = {
   explanationPrompt: DEFAULT_EXPLANATION_PROMPT,
   studyPlanPrompt: DEFAULT_STUDY_PLAN_PROMPT,
   learningPatternPrompt: DEFAULT_LEARNING_PATTERN_PROMPT,
-  parsingPromptTitle: "Parse the following test into JSON format",
+  parsingPromptTitle: "Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.",
 };
 
 const SettingsContext = createContext<SettingsContextType>({

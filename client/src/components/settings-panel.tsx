@@ -45,7 +45,7 @@ export default function SettingsPanel() {
       setExplanationPrompt(settings.explanationPrompt);
       setStudyPlanPrompt(settings.studyPlanPrompt);
       setLearningPatternPrompt(settings.learningPatternPrompt);
-      setParsingPromptTitle(settings.parsingPromptTitle || "Parse the following test into JSON format");
+      setParsingPromptTitle(settings.parsingPromptTitle || "Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.");
     }
   }, [uiState.settingsPanelOpen, settings]);
 
@@ -443,7 +443,7 @@ export default function SettingsPanel() {
                 <Input 
                   value={parsingPromptTitle} 
                   onChange={(e) => setParsingPromptTitle(e.target.value)}
-                  placeholder="Parse the following test into JSON format"
+                  placeholder="Your Task:** You are an expert data formatter..."
                   className="text-sm"
                 />
                 <p className="text-xs text-muted-foreground mt-1">
