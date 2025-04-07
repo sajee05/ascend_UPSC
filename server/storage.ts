@@ -792,8 +792,8 @@ export class DatabaseStorage implements IStorage {
       const [answer] = await db.insert(userAnswers)
         .values({
           ...answerData,
-          // Ensure timestamp is handled properly
-          timestamp: new Date().toISOString()
+          // Let the database handle timestamp with defaultNow()
+          // Don't include explicit timestamp field
         })
         .returning();
       
@@ -832,11 +832,10 @@ export class DatabaseStorage implements IStorage {
       const tomorrow = new Date();
       tomorrow.setDate(tomorrow.getDate() + 1);
       
-      // Insert with explicit date fields - let database handle timestamp conversion
+      // Let database handle createdAt with defaultNow()
       const [flashcard] = await db.insert(flashcards)
         .values({
           ...flashcardData,
-          createdAt: new Date().toISOString(),
           nextReviewAt: tomorrow
         })
         .returning();
