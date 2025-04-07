@@ -100,7 +100,7 @@ export class MemStorage implements IStorage {
     const test: Test = {
       ...testData,
       id,
-      uploadedAt: new Date().toISOString(),
+      uploadedAt: dateToString(new Date()) || new Date().toISOString(),
     };
     this.tests.set(id, test);
     return test;
@@ -115,7 +115,7 @@ export class MemStorage implements IStorage {
       const testAttempts = Array.from(this.attempts.values()).filter(a => a.testId === test.id);
       
       let bestScore = null;
-      let lastAttemptDate = null;
+      let lastAttemptDate: string | null = null;
       
       if (testAttempts.length > 0) {
         // Find the attempt with the highest score
@@ -312,9 +312,15 @@ export class MemStorage implements IStorage {
     
     this.userAnswers.set(id, answer);
     
-    // If this is an incorrect answer, automatically create a flashcard
-    if (answerData.isCorrect === false) {
-      this.createFlashcard({ questionId: answerData.questionId });
+    // If this is an incorrect answer or left question, automatically create a flashcard
+    if (answerData.isCorrect === false || answerData.isLeft === true) {
+      try {
+        console.log(`Creating flashcard for question ID: ${answerData.questionId}`);
+        this.createFlashcard({ questionId: answerData.questionId });
+      } catch (flashcardError) {
+        console.error("Error creating flashcard:", flashcardError);
+        // Continue with the answer submission even if flashcard creation fails
+      }
     }
     
     return answer;
@@ -962,9 +968,15 @@ export class DatabaseStorage implements IStorage {
         })
         .returning();
       
-      // If this is an incorrect answer, automatically create a flashcard
-      if (answerData.isCorrect === false) {
-        await this.createFlashcard({ questionId: answerData.questionId });
+      // If this is an incorrect answer or left question, automatically create a flashcard
+      if (answerData.isCorrect === false || answerData.isLeft === true) {
+        try {
+          console.log(`Creating flashcard for question ID: ${answerData.questionId}`);
+          await this.createFlashcard({ questionId: answerData.questionId });
+        } catch (flashcardError) {
+          console.error("Error creating flashcard:", flashcardError);
+          // Continue with the answer submission even if flashcard creation fails
+        }
       }
       
       return answer;

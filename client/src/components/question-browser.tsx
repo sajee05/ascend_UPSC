@@ -48,33 +48,12 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
     staleTime: 30000, // Consider data fresh for 30 seconds
   });
   
-  // We'll fetch all questions across all tests by using multiple queries
-  const testIds = testsList?.map(test => test.id) || [];
-  
-  // Create a list of promises to fetch questions for each test
-  const questionsQueries = testIds.map(id => {
-    return useQuery<QuestionWithTags[]>({
-      queryKey: ['/api/tests', id, 'questions'],
-      enabled: !testId && activeTab === "all" && testIds.length > 0,
-      staleTime: 30000,
-    });
+  // Fetch all questions directly from the /api/questions endpoint - much more efficient
+  const { data: allQuestions, isLoading: isLoadingAllQuestions } = useQuery<QuestionWithTags[]>({
+    queryKey: ['/api/questions'],
+    enabled: !testId && activeTab === "all",
+    staleTime: 30000, // Consider data fresh for 30 seconds
   });
-  
-  // Get loading state for all questions queries
-  const isLoadingAllQuestions = !testId && activeTab === "all" && 
-    (questionsQueries.length === 0 || questionsQueries.some(query => query.isLoading));
-  
-  // Combine all questions from all tests
-  const allQuestions = useMemo(() => {
-    if (testId || activeTab !== "all" || questionsQueries.length === 0) {
-      return [];
-    }
-    
-    // Flatten all questions from all tests
-    return questionsQueries
-      .filter(query => query.data) // Only include queries with data
-      .flatMap(query => query.data || []); // Flatten into a single array
-  }, [testId, activeTab, questionsQueries]);
 
   // Get all tags for filtering
   const { data: allTags, isLoading: isLoadingTags } = useQuery<string[]>({
