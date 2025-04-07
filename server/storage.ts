@@ -30,6 +30,7 @@ export interface IStorage {
   // Tags
   addTagsToQuestion(tags: InsertTag[]): Promise<Tag[]>;
   deleteTag(id: number): Promise<void>;
+  getAllTags(): Promise<string[]>; // Get all unique tag names
   
   // Attempts
   createAttempt(attempt: InsertAttempt): Promise<Attempt>;
@@ -209,6 +210,15 @@ export class MemStorage implements IStorage {
 
   async deleteTag(id: number): Promise<void> {
     this.tags.delete(id);
+  }
+  
+  async getAllTags(): Promise<string[]> {
+    // Get unique tag names
+    const tagSet = new Set<string>();
+    Array.from(this.tags.values()).forEach(tag => {
+      tagSet.add(tag.tagName);
+    });
+    return Array.from(tagSet);
   }
 
   // Attempt methods
@@ -831,6 +841,15 @@ export class DatabaseStorage implements IStorage {
 
   async deleteTag(id: number): Promise<void> {
     await db.delete(tags).where(eq(tags.id, id));
+  }
+  
+  async getAllTags(): Promise<string[]> {
+    // Query to get all unique tag names
+    const result = await db.selectDistinct({ tagName: tags.tagName })
+      .from(tags);
+    
+    // Extract tag names from result
+    return result.map(row => row.tagName);
   }
 
   // Attempt methods

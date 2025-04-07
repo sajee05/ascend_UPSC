@@ -1,7 +1,7 @@
-import { useState } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Button } from "@/components/ui/button";
 import { Switch } from "@/components/ui/switch";
 import { motion } from "framer-motion";
@@ -14,6 +14,41 @@ export interface AnalyticsFilter {
   knowledgeFlag: boolean | null;
   techniqueFlag: boolean | null;
   guessworkFlag: boolean | null;
+}
+
+// Interface for grouped tags
+interface SubjectTagGroup {
+  subject: string;
+  tags: string[];
+}
+
+// Helper function to extract subject from tag
+function extractSubjectFromTag(tag: string): string {
+  // Handle tags like "Economics: BANKING"
+  if (tag.includes(":")) {
+    return tag.split(":")[0].trim();
+  }
+  
+  // Handle tags in older format
+  const knownSubjects = [
+    "Economics", 
+    "Ancient History", 
+    "Medieval History", 
+    "Modern History",
+    "Polity", 
+    "Geography", 
+    "Environment", 
+    "Science and Technology",
+    "CSAT"
+  ];
+  
+  for (const subject of knownSubjects) {
+    if (tag.startsWith(subject)) {
+      return subject;
+    }
+  }
+  
+  return "Other";
 }
 
 interface FilterControlsProps {
@@ -38,6 +73,25 @@ export function FilterControls({
   });
 
   const [showMoreFilters, setShowMoreFilters] = useState(false);
+  
+  // Group tags by subject for better organization in the UI
+  const groupedTags = useMemo(() => {
+    const groups: Record<string, string[]> = {};
+    
+    availableTags.forEach(tag => {
+      const subject = extractSubjectFromTag(tag);
+      if (!groups[subject]) {
+        groups[subject] = [];
+      }
+      groups[subject].push(tag);
+    });
+    
+    // Convert to array structure for rendering
+    return Object.entries(groups).map(([subject, tags]) => ({
+      subject,
+      tags
+    }));
+  }, [availableTags]);
 
   const handleFilterChange = <K extends keyof AnalyticsFilter>(key: K, value: AnalyticsFilter[K]) => {
     setFilters(prev => ({
@@ -141,10 +195,22 @@ export function FilterControls({
                 </SelectTrigger>
                 <SelectContent>
                   <SelectItem value="all">All Tags</SelectItem>
-                  {availableTags.map(tag => (
-                    <SelectItem key={tag} value={tag}>
-                      {tag}
-                    </SelectItem>
+                  
+                  {groupedTags.map(group => (
+                    <SelectGroup key={group.subject}>
+                      <SelectLabel>{group.subject}</SelectLabel>
+                      {group.tags.map(tag => (
+                        <SelectItem 
+                          key={tag} 
+                          value={tag}
+                          className="pl-6" // Add extra padding for nested items
+                        >
+                          {tag.includes(':') 
+                            ? tag.split(':')[1].trim() 
+                            : tag.replace(group.subject, '').trim()}
+                        </SelectItem>
+                      ))}
+                    </SelectGroup>
                   ))}
                 </SelectContent>
               </Select>

@@ -1,8 +1,9 @@
 import { useState, useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
-import { CheckCircle2Icon, XCircleIcon, ArrowRightIcon, Lightbulb } from "lucide-react";
+import { CheckCircle2Icon, XCircleIcon, ArrowRightIcon, Lightbulb, TagIcon, Chrome } from "lucide-react";
 import { motion } from "framer-motion";
 import { QuestionWithTags, UserAnswer } from "@shared/schema";
 import { apiRequest } from "@/lib/queryClient";
@@ -50,12 +51,7 @@ export function AnsweredQuestionCard({
     }
   }, [metaData]);
   
-  // Fetch explanation when correct answer is shown
-  useEffect(() => {
-    if (showCorrectAnswer && settings.aiEnabled && !explanation && !isLoadingExplanation) {
-      fetchExplanation();
-    }
-  }, [showCorrectAnswer, settings.aiEnabled]);
+  // No automatic fetch of explanations - will be triggered by user
 
   const updateUserAnswer = async () => {
     if (isUpdating) return;
@@ -242,6 +238,24 @@ export function AnsweredQuestionCard({
           </div>
           <div className="text-lg space-y-2">
             {formattedQuestionText}
+          </div>
+          
+          {/* Tags */}
+          <div className="flex flex-wrap mt-4 gap-2">
+            {question.tags && question.tags.map(tag => (
+              <Badge
+                key={tag.id}
+                variant={tag.isAIGenerated ? "outline" : "secondary"}
+                className="flex items-center gap-1"
+              >
+                {tag.isAIGenerated ? (
+                  <Chrome className="h-3 w-3" />
+                ) : (
+                  <TagIcon className="h-3 w-3" />
+                )}
+                {tag.tagName}
+              </Badge>
+            ))}
           </div>
         </div>
         
@@ -448,11 +462,26 @@ export function AnsweredQuestionCard({
             animate={{ opacity: 1, height: 'auto' }}
             transition={{ duration: 0.3, delay: 0.2 }}
           >
-            <div className="flex items-center gap-2 mb-3">
-              <Lightbulb className="h-5 w-5 text-blue-500" />
-              <h4 className="font-medium text-blue-700 dark:text-blue-300">
-                AI Explanation
-              </h4>
+            <div className="flex items-center justify-between gap-2 mb-3">
+              <div className="flex items-center gap-2">
+                <Lightbulb className="h-5 w-5 text-blue-500" />
+                <h4 className="font-medium text-blue-700 dark:text-blue-300">
+                  AI Explanation
+                </h4>
+              </div>
+              
+              {!isLoadingExplanation && !explanation && (
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={fetchExplanation}
+                  disabled={!settings.aiApiKey || isLoadingExplanation}
+                  className="flex items-center gap-1"
+                >
+                  <Lightbulb className="h-3 w-3" />
+                  Get Explanation
+                </Button>
+              )}
             </div>
             
             {isLoadingExplanation ? (
@@ -479,18 +508,9 @@ export function AnsweredQuestionCard({
                   {!settings.aiApiKey ? (
                     "No API key provided. Add your API key in settings to enable AI explanations."
                   ) : (
-                    "Failed to generate explanation. Try again by refreshing the page."
+                    "Click 'Get Explanation' to generate an AI-powered explanation for this question."
                   )}
                 </p>
-                <Button 
-                  variant="outline"
-                  size="sm"
-                  className="mt-2"
-                  onClick={fetchExplanation}
-                  disabled={!settings.aiApiKey || isLoadingExplanation}
-                >
-                  Try Again
-                </Button>
               </div>
             )}
           </motion.div>

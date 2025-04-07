@@ -54,9 +54,14 @@ export default function OverallAnalyticsPage() {
     queryKey: ["/api/analytics/overall"],
   });
 
-  // Extract available subjects and tags
+  // Extract available subjects
   const availableSubjects = analytics?.subjectStats.map(stat => stat.subject) || [];
-  const availableTags = []; // In a real implementation, we would fetch all tags
+  
+  // Fetch all tags
+  const { data: tagsData } = useQuery<string[]>({
+    queryKey: ["/api/tags"],
+    enabled: !isLoading, // Only fetch tags after analytics are loaded
+  });
 
   // Apply filters when analytics data changes or filters change
   useEffect(() => {
@@ -219,7 +224,7 @@ export default function OverallAnalyticsPage() {
           {/* Filter Controls */}
           <FilterControls 
             availableSubjects={availableSubjects} 
-            availableTags={availableTags}
+            availableTags={tagsData || []}
             onFilterChange={handleFilterChange}
           />
           

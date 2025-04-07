@@ -272,6 +272,17 @@ export async function registerRoutes(app: Express): Promise<Server> {
       }
     }
   });
+  
+  // GET /api/tags - Get all unique tags
+  apiRouter.get("/api/tags", async (_req: Request, res: Response) => {
+    try {
+      const allTags = await storage.getAllTags();
+      res.json(allTags);
+    } catch (error) {
+      console.error("Error fetching tags:", error);
+      res.status(500).json({ message: "Failed to fetch tags" });
+    }
+  });
 
   // DELETE /api/tags/:id - Delete a tag
   apiRouter.delete("/api/tags/:id", async (req: Request, res: Response) => {
