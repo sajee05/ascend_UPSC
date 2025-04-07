@@ -3,11 +3,14 @@ import { useLocation } from "wouter";
 import { FilterControls, AnalyticsFilter } from "@/components/analytics/filter-controls";
 import { EnhancedAIInsights } from "@/components/analytics/enhanced-ai-insights";
 import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
+import { SubjectTrendCharts } from "@/components/analytics/subject-trend-charts-fixed";
+import { TopicSubtopicAnalysis } from "@/components/analytics/topic-subtopic-analysis";
+import { DateAnalysisChart } from "@/components/analytics/date-analysis-chart";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, Home, History } from "lucide-react";
+import { Cog, Moon, Sun, Home, History, BarChart2, TrendingUp, Calendar } from "lucide-react";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
 import { useQuery } from "@tanstack/react-query";
@@ -18,6 +21,7 @@ import {
 } from "recharts";
 import { formatDate, formatPercentage, getConfidenceEmoji, getYesNoEmoji } from "@/lib/utils";
 import { motion } from "framer-motion";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 interface OverallAnalyticsData {
   testCount: number;
@@ -267,7 +271,54 @@ export default function OverallAnalyticsPage() {
             </Card>
           </motion.div>
           
-          {/* Trend Charts */}
+          {/* Enhanced Analytics Tabs */}
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3 }}
+            className="mb-8"
+          >
+            <h2 className="text-xl font-medium mb-4 flex items-center gap-2">
+              <BarChart2 className="h-5 w-5 text-primary" />
+              Performance Analytics
+            </h2>
+            <p className="text-muted-foreground mb-4">
+              Analyze your performance across different dimensions and identify trends.
+            </p>
+            <Tabs defaultValue="multi-dimension" className="w-full">
+              <TabsList className="grid grid-cols-3 mb-4">
+                <TabsTrigger value="multi-dimension" className="flex items-center gap-1">
+                  <BarChart2 className="h-4 w-4" />
+                  <span>Subject & Topic</span>
+                </TabsTrigger>
+                <TabsTrigger value="time-analysis" className="flex items-center gap-1">
+                  <Calendar className="h-4 w-4" />
+                  <span>Time Analysis</span>
+                </TabsTrigger>
+                <TabsTrigger value="trend-view" className="flex items-center gap-1">
+                  <TrendingUp className="h-4 w-4" />
+                  <span>Trend View</span>
+                </TabsTrigger>
+              </TabsList>
+              
+              <TabsContent value="multi-dimension">
+                <TopicSubtopicAnalysis subjectStats={filteredStats} />
+              </TabsContent>
+              
+              <TabsContent value="time-analysis">
+                <DateAnalysisChart trendData={analytics.trendData} />
+              </TabsContent>
+              
+              <TabsContent value="trend-view">
+                <SubjectTrendCharts 
+                  trendData={analytics.trendData} 
+                  subjectStats={filteredStats}
+                />
+              </TabsContent>
+            </Tabs>
+          </motion.div>
+          
+          {/* Original Trend Charts (Basic View) */}
           <motion.div 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
