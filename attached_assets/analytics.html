@@ -1,0 +1,2549 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🇮🇳 Ascend UPSC</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #007aff;
+            --primary-color-rgb: 0, 122, 255;
+            --secondary-color: #34c759;
+            --secondary-color-rgb: 52, 199, 89;
+            --accent-color: #ff9500;
+            --background-color: #f5f5f7;
+            --card-color: #ffffff;
+            --text-color: #1d1d1f;
+            --border-color: #d2d2d7;
+            --shadow-color: rgba(0, 0, 0, 0.1);
+            --error-color: #ff3b30;
+            --error-color-rgb: 255, 59, 48;
+        }
+
+        .dark-mode {
+            --primary-color: #0a84ff;
+            --primary-color-rgb: 10, 132, 255;
+            --secondary-color: #30d158;
+            --secondary-color-rgb: 48, 209, 88;
+            --accent-color: #ff9f0a;
+            --background-color: #1d1d1f;
+            --card-color: #2c2c2e;
+            --text-color: #f5f5f7;
+            --border-color: #444;
+            --shadow-color: rgba(0, 0, 0, 0.5);
+            --error-color: #ff453a;
+            --error-color-rgb: 255, 69, 58;
+        }
+
+        .theme-cyberpunk {
+            --primary-color: #00f0ff;
+            --primary-color-rgb: 0, 240, 255;
+            --secondary-color: #f000ff;
+            --secondary-color-rgb: 240, 0, 255;
+            --accent-color: #ff7800;
+            --background-color: #0a0a1c;
+            --card-color: #1a1a3c;
+            --text-color: #ffffff;
+            --border-color: #00f0ff;
+            --shadow-color: rgba(0, 240, 255, 0.5);
+            --error-color: #ff0050;
+            --error-color-rgb: 255, 0, 80;
+        }
+
+        .theme-coffee {
+            --primary-color: #6f4e37;
+            --primary-color-rgb: 111, 78, 55;
+            --secondary-color: #dca868;
+            --secondary-color-rgb: 220, 168, 104;
+            --accent-color: #b85c38;
+            --background-color: #f5e9d9;
+            --card-color: #ffffff;
+            --text-color: #4a2c29;
+            --border-color: #b85c38;
+            --shadow-color: rgba(111, 78, 55, 0.2);
+            --error-color: #cd4f39;
+            --error-color-rgb: 205, 79, 57;
+        }
+
+        .theme-coffee.dark-mode {
+            --primary-color: #a67c52;
+            --primary-color-rgb: 166, 124, 82;
+            --secondary-color: #dca868;
+            --secondary-color-rgb: 220, 168, 104;
+            --accent-color: #e09f7b;
+            --background-color: #2c1e16;
+            --card-color: #3e2a1e;
+            --text-color: #f5e9d9;
+            --border-color: #a67c52;
+            --shadow-color: rgba(111, 78, 55, 0.5);
+            --error-color: #ff7f59;
+            --error-color-rgb: 255, 127, 89;
+        }
+
+        .theme-real-madrid {
+            --primary-color: #000080;
+            --primary-color-rgb: 0, 0, 128;
+            --secondary-color: #ffffff;
+            --secondary-color-rgb: 255, 255, 255;
+            --accent-color: #fff200;
+            --background-color: #f5f5f5;
+            --card-color: #ffffff;
+            --text-color: #000080;
+            --border-color: #000080;
+            --shadow-color: rgba(0, 0, 128, 0.2);
+            --error-color: #ff0000;
+            --error-color-rgb: 255, 0, 0;
+        }
+
+        .theme-real-madrid.dark-mode {
+            --primary-color: #fff200;
+            --primary-color-rgb: 255, 242, 0;
+            --secondary-color: #ffffff;
+            --secondary-color-rgb: 255, 255, 255;
+            --accent-color: #000080;
+            --background-color: #0f1521;
+            --card-color: #1c2539;
+            --text-color: #ffffff;
+            --border-color: #fff200;
+            --shadow-color: rgba(255, 242, 0, 0.3);
+            --error-color: #ff0000;
+            --error-color-rgb: 255, 0, 0;
+        }
+
+        .theme-rcb {
+            --primary-color: #c9920e;
+            --primary-color-rgb: 201, 146, 14;
+            --secondary-color: #e63329;
+            --secondary-color-rgb: 230, 51, 41;
+            --accent-color: #fadf8d;
+            --background-color: #fefefe;
+            --card-color: #ffffff;
+            --text-color: #252829;
+            --border-color: #c9920e;
+            --shadow-color: rgba(201, 146, 14, 0.2);
+            --error-color: #e63329;
+            --error-color-rgb: 230, 51, 41;
+        }
+
+        .theme-rcb.dark-mode {
+            --primary-color: #fadf8d;
+            --primary-color-rgb: 250, 223, 141;
+            --secondary-color: #e63329;
+            --secondary-color-rgb: 230, 51, 41;
+            --accent-color: #c9920e;
+            --background-color: #252829;
+            --card-color: #353535;
+            --text-color: #fadf8d;
+            --border-color: #c9920e;
+            --shadow-color: rgba(201, 146, 14, 0.5);
+            --error-color: #e63329;
+            --error-color-rgb: 230, 51, 41;
+        }
+
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .card {
+            background-color: var(--card-color);
+            border-radius: 1rem;
+            box-shadow: 0 4px 20px var(--shadow-color);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            transition: all 0.3s ease;
+            border: 1px solid var(--border-color);
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.75rem 1.5rem;
+            font-weight: 600;
+            border-radius: 0.75rem;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: none;
+            outline: none;
+            margin: 0.5rem;
+        }
+
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .btn-secondary {
+            background-color: var(--secondary-color);
+            color: white;
+        }
+
+        .btn-outline {
+            background-color: transparent;
+            border: 2px solid var(--primary-color);
+            color: var(--primary-color);
+        }
+
+        .btn-outline:hover {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 0;
+            margin-bottom: 2rem;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            display: flex;
+            align-items: center;
+        }
+
+        .logo span {
+            margin-left: 0.5rem;
+        }
+
+        .toggle-dark-mode {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 1.5rem;
+            color: var(--text-color);
+            transition: color 0.3s;
+        }
+
+        .filter-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background-color: rgba(var(--primary-color-rgb), 0.05);
+            border-radius: 0.75rem;
+        }
+
+        .filter-group {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .filter-label {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            display: block;
+            color: var(--primary-color);
+        }
+
+        .filter-select, .filter-date {
+            width: 100%;
+            padding: 0.5rem;
+            border-radius: 0.5rem;
+            border: 1px solid var(--border-color);
+            background-color: var(--card-color);
+            color: var(--text-color);
+        }
+
+        .summary-card {
+            background-color: var(--card-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 4px 20px var(--shadow-color);
+        }
+
+        .summary-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .summary-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+
+        .summary-subtitle {
+            font-size: 1.2rem;
+            opacity: 0.8;
+        }
+
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-card {
+            background-color: rgba(var(--primary-color-rgb), 0.05);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow-color);
+        }
+
+        .stat-title {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            opacity: 0.8;
+        }
+
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary-color);
+        }
+
+        .stat-card.score {
+            background-color: rgba(var(--secondary-color-rgb), 0.05);
+        }
+
+        .stat-card.score .stat-value {
+            color: var(--secondary-color);
+        }
+
+        .table-container {
+            overflow-x: auto;
+            margin-bottom: 2rem;
+        }
+
+        .analytics-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .analytics-table th, .analytics-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .analytics-table th {
+            font-weight: 600;
+            color: var(--primary-color);
+            position: sticky;
+            top: 0;
+            background-color: var(--card-color);
+            z-index: 10;
+        }
+
+        .analytics-table tr:hover {
+            background-color: rgba(var(--primary-color-rgb), 0.05);
+        }
+
+        .chart-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .analytics-chart {
+            background-color: var(--card-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 4px 20px var(--shadow-color);
+            height: 350px;
+            position: relative;
+        }
+
+        .analytics-chart h3 {
+            margin-bottom: 1rem;
+            font-weight: 600;
+            text-align: center;
+            color: var(--primary-color);
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 1rem;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .badge-primary {
+            background-color: rgba(var(--primary-color-rgb), 0.1);
+            color: var(--primary-color);
+        }
+
+        .badge-secondary {
+            background-color: rgba(var(--secondary-color-rgb), 0.1);
+            color: var(--secondary-color);
+        }
+
+        .badge-error {
+            background-color: rgba(var(--error-color-rgb), 0.1);
+            color: var(--error-color);
+        }
+
+        .badge-warning {
+            background-color: rgba(var(--accent-color), 0.1);
+            color: var(--accent-color);
+        }
+
+        .time-series-container {
+            margin-top: 3rem;
+        }
+
+        .time-series-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .time-series-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--primary-color);
+        }
+
+        .time-series-subtitle {
+            font-size: 1.1rem;
+            opacity: 0.8;
+        }
+
+        .progress-container {
+            margin-bottom: 1.5rem;
+        }
+
+        .progress-label {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 0.5rem;
+        }
+
+        .progress-title {
+            font-weight: 600;
+        }
+
+        .progress-value {
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+
+        .progress-bar-container {
+            height: 0.5rem;
+            background-color: rgba(var(--primary-color-rgb), 0.1);
+            border-radius: 1rem;
+            overflow: hidden;
+        }
+
+        .progress-bar {
+            height: 100%;
+            background-color: var(--primary-color);
+            border-radius: 1rem;
+            transition: width 0.5s ease;
+        }
+
+        .progress-bar-secondary {
+            background-color: var(--secondary-color);
+        }
+
+        .progress-bar-error {
+            background-color: var(--error-color);
+        }
+
+        .progress-bar-warning {
+            background-color: var(--accent-color);
+        }
+
+        .meta-cognitive-card {
+            padding: 2rem;
+            margin-bottom: 2rem;
+            background-color: var(--card-color);
+            border-radius: 1rem;
+            box-shadow: 0 4px 20px var(--shadow-color);
+            border: 1px solid var(--border-color);
+        }
+
+        .meta-cognitive-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--primary-color);
+            text-align: center;
+        }
+
+        .meta-cognitive-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+
+        .meta-cognitive-item {
+            text-align: center;
+        }
+
+        .meta-cognitive-value {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .meta-cognitive-label {
+            font-weight: 600;
+            opacity: 0.8;
+        }
+
+        .tab-container {
+            margin-bottom: 2rem;
+        }
+
+        .tab-buttons {
+            display: flex;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 2rem;
+        }
+
+        .tab-button {
+            padding: 1rem 2rem;
+            font-weight: 600;
+            cursor: pointer;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .tab-button.active {
+            color: var(--primary-color);
+            border-bottom: 3px solid var(--primary-color);
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .error-log-container {
+            margin-top: 3rem;
+        }
+
+        .error-log-header {
+            margin-bottom: 1.5rem;
+        }
+
+        .error-log-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .error-log-subtitle {
+            opacity: 0.8;
+        }
+
+        .error-log-filters {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .error-log-filter {
+            padding: 0.5rem 1rem;
+            background-color: rgba(var(--primary-color-rgb), 0.1);
+            border-radius: 0.5rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .error-log-filter.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+
+        .error-log-item {
+            padding: 1.5rem;
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            margin-bottom: 1.5rem;
+            background-color: var(--card-color);
+            box-shadow: 0 4px 15px var(--shadow-color);
+        }
+
+        .error-log-question {
+            margin-bottom: 1rem;
+        }
+
+        .error-log-question-number {
+            font-weight: 600;
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+
+        .error-log-question-text {
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+
+        .error-log-answers {
+            margin-bottom: 1rem;
+            padding: 1rem;
+            background-color: rgba(var(--primary-color-rgb), 0.05);
+            border-radius: 0.5rem;
+        }
+
+        .error-log-user-answer {
+            margin-bottom: 0.5rem;
+        }
+
+        .error-log-correct-answer {
+            font-weight: 600;
+            color: var(--secondary-color);
+        }
+
+        .error-log-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .error-log-meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .error-log-meta-icon {
+            width: 1.25rem;
+            height: 1.25rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            font-size: 0.7rem;
+            color: white;
+        }
+
+        .icon-true {
+            background-color: var(--secondary-color);
+        }
+
+        .icon-false {
+            background-color: var(--error-color);
+        }
+
+        .recommendation-card {
+            background-color: var(--card-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 4px 20px var(--shadow-color);
+        }
+
+        .recommendation-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--primary-color);
+            text-align: center;
+        }
+
+        .recommendation-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .recommendation-item {
+            background-color: rgba(var(--primary-color-rgb), 0.05);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            transition: all 0.3s ease;
+        }
+
+        .recommendation-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px var(--shadow-color);
+        }
+
+        .recommendation-item-title {
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: var(--primary-color);
+        }
+
+        .recommendation-item-content {
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+
+        .improvement-card {
+            background-color: rgba(var(--secondary-color-rgb), 0.05);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            display: flex;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .improvement-icon {
+            font-size: 2rem;
+            margin-right: 1.5rem;
+            color: var(--secondary-color);
+        }
+
+        .improvement-content {
+            flex: 1;
+        }
+
+        .improvement-title {
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .improvement-metrics {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .improvement-value {
+            font-weight: 700;
+            color: var(--secondary-color);
+        }
+
+        .improvement-arrow {
+            font-size: 1.2rem;
+            margin: 0 0.5rem;
+            color: var(--secondary-color);
+        }
+
+        .trend-card {
+            background-color: var(--card-color);
+            border-radius: 1rem;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 4px 20px var(--shadow-color);
+        }
+
+        .trend-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--primary-color);
+            text-align: center;
+        }
+
+        .trend-content {
+            height: 400px;
+            position: relative;
+        }
+
+        .heatmap {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 0.5rem;
+            margin-top: 1rem;
+        }
+
+        .heatmap-cell {
+            width: 100%;
+            padding-top: 100%; /* Square cells */
+            position: relative;
+            border-radius: 0.25rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .heatmap-tooltip {
+            position: absolute;
+            top: -40px;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 0.5rem;
+            background-color: var(--card-color);
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 15px var(--shadow-color);
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: none;
+            z-index: 10;
+            white-space: nowrap;
+        }
+
+        .heatmap-cell:hover .heatmap-tooltip {
+            display: block;
+        }
+
+        .heatmap-cell:hover {
+            transform: scale(1.1);
+        }
+
+        .heatmap-legend {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 1rem;
+            gap: 1rem;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.8rem;
+        }
+
+        .legend-color {
+            width: 1rem;
+            height: 1rem;
+            border-radius: 0.25rem;
+        }
+
+        /* Common utility classes */
+        .text-center { text-align: center; }
+        .font-bold { font-weight: 700; }
+        .text-lg { font-size: 1.125rem; }
+        .text-xl { font-size: 1.25rem; }
+        .flex { display: flex; }
+        .flex-col { flex-direction: column; }
+        .items-center { align-items: center; }
+        .justify-center { justify-content: center; }
+        .justify-between { justify-content: space-between; }
+        .gap-2 { gap: 0.5rem; }
+        .gap-4 { gap: 1rem; }
+        .w-full { width: 100%; }
+        .rounded-lg { border-radius: 0.5rem; }
+        .mb-4 { margin-bottom: 1rem; }
+        .mb-6 { margin-bottom: 1.5rem; }
+        .mb-8 { margin-bottom: 2rem; }
+        .mt-4 { margin-top: 1rem; }
+        .mt-6 { margin-top: 1.5rem; }
+        .mt-8 { margin-top: 2rem; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span>🇮🇳 Ascend UPSC</span>
+            </div>
+            <div class="flex items-center">
+                <button id="settingsButton" class="settings-btn">
+                    <i class="fas fa-cog"></i>
+                </button>
+                <button id="darkModeToggle" class="toggle-dark-mode">
+                    <i class="fas fa-sun"></i>
+                </button>
+            </div>
+        </header>
+
+        <!-- Analytics Dashboard -->
+        <main>
+            <!-- Tab Navigation -->
+            <div class="tab-container">
+                <div class="tab-buttons">
+                    <div class="tab-button active" data-tab="testEnd">Recent Test Results</div>
+                    <div class="tab-button" data-tab="overall">Overall Analytics</div>
+                    <div class="tab-button" data-tab="metaCognitive">Meta-Cognitive Analysis</div>
+                    <div class="tab-button" data-tab="errorLog">Error Log & Improvement</div>
+                </div>
+                
+                <!-- Test End Analytics Tab -->
+                <div class="tab-content active" id="testEndTab">
+                    <div class="summary-card">
+                        <div class="summary-header">
+                            <div class="summary-title">Test Completed: VisionIAS CSP[E] 2025 Test 30</div>
+                            <div class="summary-subtitle">March 15, 2025 | Time Taken: 02:45:32</div>
+                        </div>
+                        
+                        <div class="summary-stats">
+                            <div class="stat-card">
+                                <div class="stat-title">Attempted</div>
+                                <div class="stat-value">93/100</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Correct</div>
+                                <div class="stat-value">62</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Incorrect</div>
+                                <div class="stat-value">31</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Accuracy</div>
+                                <div class="stat-value">66.7%</div>
+                            </div>
+                            
+                            <div class="stat-card score">
+                                <div class="stat-title">Total Score</div>
+                                <div class="stat-value">103.46</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Percentile</div>
+                                <div class="stat-value">82<sup>nd</sup></div>
+                            </div>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <div class="analytics-chart">
+                                <h3>Subject-wise Performance</h3>
+                                <canvas id="subjectPerformanceChart"></canvas>
+                            </div>
+                            
+                            <div class="analytics-chart">
+                                <h3>Time Distribution</h3>
+                                <canvas id="timeDistributionChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="table-container">
+                            <h3 class="text-xl font-bold mb-4">Subject-wise Analysis</h3>
+                            <table class="analytics-table">
+                                <thead>
+                                    <tr>
+                                        <th>Subject</th>
+                                        <th>Attempts</th>
+                                        <th>Correct</th>
+                                        <th>Incorrect</th>
+                                        <th>Accuracy</th>
+                                        <th>Knowledge %</th>
+                                        <th>Presence of Mind %</th>
+                                        <th>Tukke-baazi %</th>
+                                        <th>Confidence</th>
+                                        <th>Score</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Polity</td>
+                                        <td>18</td>
+                                        <td>14</td>
+                                        <td>4</td>
+                                        <td>77.8%</td>
+                                        <td>83%</td>
+                                        <td>72%</td>
+                                        <td>11%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 67%</span>
+                                            <span style="color: var(--accent-color);">🟡 22%</span>
+                                            <span style="color: var(--error-color);">🔴 11%</span>
+                                        </td>
+                                        <td>25.36</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Modern History</td>
+                                        <td>12</td>
+                                        <td>8</td>
+                                        <td>4</td>
+                                        <td>66.7%</td>
+                                        <td>75%</td>
+                                        <td>58%</td>
+                                        <td>17%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 50%</span>
+                                            <span style="color: var(--accent-color);">🟡 33%</span>
+                                            <span style="color: var(--error-color);">🔴 17%</span>
+                                        </td>
+                                        <td>14.64</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Geography</td>
+                                        <td>16</td>
+                                        <td>10</td>
+                                        <td>6</td>
+                                        <td>62.5%</td>
+                                        <td>69%</td>
+                                        <td>63%</td>
+                                        <td>25%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 44%</span>
+                                            <span style="color: var(--accent-color);">🟡 31%</span>
+                                            <span style="color: var(--error-color);">🔴 25%</span>
+                                        </td>
+                                        <td>16.04</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Economics</td>
+                                        <td>14</td>
+                                        <td>8</td>
+                                        <td>6</td>
+                                        <td>57.1%</td>
+                                        <td>64%</td>
+                                        <td>71%</td>
+                                        <td>36%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 36%</span>
+                                            <span style="color: var(--accent-color);">🟡 43%</span>
+                                            <span style="color: var(--error-color);">🔴 21%</span>
+                                        </td>
+                                        <td>10.04</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Environment</td>
+                                        <td>13</td>
+                                        <td>9</td>
+                                        <td>4</td>
+                                        <td>69.2%</td>
+                                        <td>77%</td>
+                                        <td>62%</td>
+                                        <td>15%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 54%</span>
+                                            <span style="color: var(--accent-color);">🟡 31%</span>
+                                            <span style="color: var(--error-color);">🔴 15%</span>
+                                        </td>
+                                        <td>15.36</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Science & Technology</td>
+                                        <td>10</td>
+                                        <td>6</td>
+                                        <td>4</td>
+                                        <td>60.0%</td>
+                                        <td>60%</td>
+                                        <td>80%</td>
+                                        <td>40%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 30%</span>
+                                            <span style="color: var(--accent-color);">🟡 40%</span>
+                                            <span style="color: var(--error-color);">🔴 30%</span>
+                                        </td>
+                                        <td>9.36</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Current Affairs</td>
+                                        <td>10</td>
+                                        <td>7</td>
+                                        <td>3</td>
+                                        <td>70.0%</td>
+                                        <td>80%</td>
+                                        <td>50%</td>
+                                        <td>20%</td>
+                                        <td>
+                                            <span style="color: var(--secondary-color);">🟢 50%</span>
+                                            <span style="color: var(--accent-color);">🟡 30%</span>
+                                            <span style="color: var(--error-color);">🔴 20%</span>
+                                        </td>
+                                        <td>12.66</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <div class="analytics-chart">
+                                <h3>Meta-Cognitive Analysis</h3>
+                                <canvas id="metaCognitiveChart"></canvas>
+                            </div>
+                            
+                            <div class="analytics-chart">
+                                <h3>Time vs. Accuracy</h3>
+                                <canvas id="timeAccuracyChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="improvement-card">
+                            <div class="improvement-icon">
+                                <i class="fas fa-arrow-up"></i>
+                            </div>
+                            <div class="improvement-content">
+                                <div class="improvement-title">Your most improved subject</div>
+                                <div class="improvement-metrics">
+                                    <span>Environment</span>
+                                    <span class="improvement-value">45%</span>
+                                    <i class="fas fa-arrow-right improvement-arrow"></i>
+                                    <span class="improvement-value">69.2%</span>
+                                    <span>(+24.2%)</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="recommendation-card">
+                            <h3 class="recommendation-title">Personalized Recommendations</h3>
+                            <div class="recommendation-grid">
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Focus Area: Economics</h4>
+                                    <p class="recommendation-item-content">
+                                        Your accuracy in Economics is below average (57.1%). Based on your error patterns, 
+                                        focus more on Macroeconomic Indicators and Banking concepts which account for 70% of your errors.
+                                    </p>
+                                    <div class="badge badge-primary">High Priority</div>
+                                </div>
+                                
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Time Management</h4>
+                                    <p class="recommendation-item-content">
+                                        You spent 40% more time on Science & Technology questions compared to others.
+                                        Consider practicing more S&T questions to improve decision speed.
+                                    </p>
+                                    <div class="badge badge-secondary">Medium Priority</div>
+                                </div>
+                                
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Reduce Guesswork</h4>
+                                    <p class="recommendation-item-content">
+                                        40% of your Science & Technology answers involved guesswork. Focus on fundamental concept building
+                                        in Physics and Biology topics.
+                                    </p>
+                                    <div class="badge badge-primary">High Priority</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Overall Analytics Tab -->
+                <div class="tab-content" id="overallTab">
+                    <div class="filter-container">
+                        <div class="filter-group">
+                            <label class="filter-label">Date Range</label>
+                            <select class="filter-select" id="dateRangeFilter">
+                                <option value="all">All Time</option>
+                                <option value="month" selected>Last Month</option>
+                                <option value="quarter">Last Quarter</option>
+                                <option value="custom">Custom Range</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label class="filter-label">Subject</label>
+                            <select class="filter-select" id="subjectFilter">
+                                <option value="all" selected>All Subjects</option>
+                                <option value="polity">Polity</option>
+                                <option value="history">History</option>
+                                <option value="geography">Geography</option>
+                                <option value="economics">Economics</option>
+                                <option value="environment">Environment</option>
+                                <option value="science">Science & Technology</option>
+                                <option value="current">Current Affairs</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label class="filter-label">Test Type</label>
+                            <select class="filter-select" id="testTypeFilter">
+                                <option value="all" selected>All Tests</option>
+                                <option value="prelims">Prelims</option>
+                                <option value="sectional">Sectional</option>
+                                <option value="mains">Mains</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label class="filter-label">View Type</label>
+                            <select class="filter-select" id="viewTypeFilter">
+                                <option value="performance" selected>Performance</option>
+                                <option value="metacognitive">Meta-Cognitive</option>
+                                <option value="time">Time-based</option>
+                                <option value="error">Error Analysis</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <div class="summary-card">
+                        <div class="summary-header">
+                            <div class="summary-title">Overall Performance Analysis</div>
+                            <div class="summary-subtitle">February 15 - March 15, 2025 • 10 Tests</div>
+                        </div>
+                        
+                        <div class="summary-stats">
+                            <div class="stat-card">
+                                <div class="stat-title">Average Score</div>
+                                <div class="stat-value">108.5</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Highest Score</div>
+                                <div class="stat-value">132.3</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Avg. Accuracy</div>
+                                <div class="stat-value">68.2%</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Avg. Time/Test</div>
+                                <div class="stat-value">2:32</div>
+                            </div>
+                            
+                            <div class="stat-card">
+                                <div class="stat-title">Tests Taken</div>
+                                <div class="stat-value">10</div>
+                            </div>
+                            
+                            <div class="stat-card score">
+                                <div class="stat-title">Score Trend</div>
+                                <div class="stat-value">+6.3%</div>
+                            </div>
+                        </div>
+                        
+                        <div class="trend-card">
+                            <h3 class="trend-title">Performance Evolution</h3>
+                            <div class="trend-content">
+                                <canvas id="performanceEvolutionChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <div class="analytics-chart">
+                                <h3>Subject-wise Average Accuracy</h3>
+                                <canvas id="subjectAccuracyChart"></canvas>
+                            </div>
+                            
+                            <div class="analytics-chart">
+                                <h3>Meta-Cognitive Patterns</h3>
+                                <canvas id="metaCognitivePatternChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="meta-cognitive-card">
+                            <h3 class="meta-cognitive-title">Meta-Cognitive Insights</h3>
+                            <div class="meta-cognitive-grid">
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--secondary-color);">73%</div>
+                                    <div class="meta-cognitive-label">Knowledge-based Answers</div>
+                                </div>
+                                
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--accent-color);">65%</div>
+                                    <div class="meta-cognitive-label">Presence of Mind Usage</div>
+                                </div>
+                                
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--error-color);">22%</div>
+                                    <div class="meta-cognitive-label">Tukke-baazi Percentage</div>
+                                </div>
+                                
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--primary-color);">76%</div>
+                                    <div class="meta-cognitive-label">Correct when Confident</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="time-series-container">
+                            <div class="time-series-header">
+                                <div class="time-series-title">Improvement Trends</div>
+                                <div class="time-series-subtitle">Subject Performance over Time</div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">Polity</div>
+                                    <div class="progress-value">+14.3%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" style="width: 77.8%;"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">History</div>
+                                    <div class="progress-value">+8.2%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" style="width: 66.7%;"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">Geography</div>
+                                    <div class="progress-value">+5.1%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" style="width: 62.5%;"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">Economics</div>
+                                    <div class="progress-value">+3.2%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" style="width: 57.1%;"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">Environment</div>
+                                    <div class="progress-value">+24.2%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar progress-bar-secondary" style="width: 69.2%;"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">Science & Technology</div>
+                                    <div class="progress-value">-2.5%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar progress-bar-error" style="width: 60.0%;"></div>
+                                </div>
+                            </div>
+                            
+                            <div class="progress-container">
+                                <div class="progress-label">
+                                    <div class="progress-title">Current Affairs</div>
+                                    <div class="progress-value">+5.8%</div>
+                                </div>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" style="width: 70.0%;"></div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="trend-card">
+                            <h3 class="trend-title">Test Activity Heatmap</h3>
+                            <div class="heatmap">
+                                <!-- Heatmap cells for January -->
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Jan 1: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Jan 2: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.3);">
+                                    <div class="heatmap-tooltip">Jan 3: 1 test, Score: 92.4</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Jan 4: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Jan 5: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.2);">
+                                    <div class="heatmap-tooltip">Jan 6: 1 test, Score: 87.3</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Jan 7: No tests</div>
+                                </div>
+                                
+                                <!-- Heatmap cells for February -->
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Feb 5: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.4);">
+                                    <div class="heatmap-tooltip">Feb 6: 1 test, Score: 104.6</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Feb 7: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Feb 8: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.5);">
+                                    <div class="heatmap-tooltip">Feb 9: 1 test, Score: 108.2</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Feb 10: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Feb 11: No tests</div>
+                                </div>
+                                
+                                <!-- Heatmap cells for March -->
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.6);">
+                                    <div class="heatmap-tooltip">Mar 1: 1 test, Score: 116.8</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 2: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.7);">
+                                    <div class="heatmap-tooltip">Mar 3: 1 test, Score: 124.5</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 4: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 5: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.6);">
+                                    <div class="heatmap-tooltip">Mar 6: 1 test, Score: 115.2</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.8);">
+                                    <div class="heatmap-tooltip">Mar 7: 1 test, Score: 132.3</div>
+                                </div>
+                                
+                                <!-- More heatmap cells for March -->
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 8: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.6);">
+                                    <div class="heatmap-tooltip">Mar 9: 1 test, Score: 118.7</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 10: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 11: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.5);">
+                                    <div class="heatmap-tooltip">Mar 12: 1 test, Score: 109.8</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 13: No tests</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Mar 14: No tests</div>
+                                </div>
+                                
+                                <!-- Last week -->
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.5);">
+                                    <div class="heatmap-tooltip">Mar 15: 1 test, Score: 103.46</div>
+                                </div>
+                                <div class="heatmap-cell" style="background-color: rgba(var(--secondary-color-rgb), 0.1);">
+                                    <div class="heatmap-tooltip">Today: No tests yet</div>
+                                </div>
+                            </div>
+                            
+                            <div class="heatmap-legend">
+                                <div class="legend-item">
+                                    <div class="legend-color" style="background-color: rgba(var(--secondary-color-rgb), 0.1);"></div>
+                                    <span>No Test</span>
+                                </div>
+                                <div class="legend-item">
+                                    <div class="legend-color" style="background-color: rgba(var(--secondary-color-rgb), 0.3);"></div>
+                                    <span>Score &lt; 100</span>
+                                </div>
+                                <div class="legend-item">
+                                    <div class="legend-color" style="background-color: rgba(var(--secondary-color-rgb), 0.5);"></div>
+                                    <span>Score 100-120</span>
+                                </div>
+                                <div class="legend-item">
+                                    <div class="legend-color" style="background-color: rgba(var(--secondary-color-rgb), 0.8);"></div>
+                                    <span>Score &gt; 120</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Meta-Cognitive Analysis Tab -->
+                <div class="tab-content" id="metaCognitiveTab">
+                    <div class="summary-card">
+                        <div class="summary-header">
+                            <div class="summary-title">Meta-Cognitive Analysis</div>
+                            <div class="summary-subtitle">Understanding your thinking patterns</div>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <div class="analytics-chart">
+                                <h3>Knowledge vs. Results</h3>
+                                <canvas id="knowledgeResultsChart"></canvas>
+                            </div>
+                            
+                            <div class="analytics-chart">
+                                <h3>Confidence vs. Accuracy</h3>
+                                <canvas id="confidenceAccuracyChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="meta-cognitive-card">
+                            <h3 class="meta-cognitive-title">Knowledge Calibration</h3>
+                            <div class="meta-cognitive-grid">
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--secondary-color);">82%</div>
+                                    <div class="meta-cognitive-label">Correct when Claimed Knowledge</div>
+                                </div>
+                                
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--error-color);">18%</div>
+                                    <div class="meta-cognitive-label">Incorrect despite Claimed Knowledge</div>
+                                </div>
+                                
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--accent-color);">43%</div>
+                                    <div class="meta-cognitive-label">Correct without Knowledge</div>
+                                </div>
+                                
+                                <div class="meta-cognitive-item">
+                                    <div class="meta-cognitive-value" style="color: var(--primary-color);">72%</div>
+                                    <div class="meta-cognitive-label">Overall Knowledge Assessment Accuracy</div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <div class="analytics-chart">
+                                <h3>Tukke-baazi Analysis by Subject</h3>
+                                <canvas id="tukkeBaaziChart"></canvas>
+                            </div>
+                            
+                            <div class="analytics-chart">
+                                <h3>Presence of Mind Effectiveness</h3>
+                                <canvas id="presenceOfMindChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="table-container">
+                            <h3 class="text-xl font-bold mb-4">Subject-wise Meta-Cognitive Analysis</h3>
+                            <table class="analytics-table">
+                                <thead>
+                                    <tr>
+                                        <th>Subject</th>
+                                        <th>Knowledge Score</th>
+                                        <th>Presence of Mind</th>
+                                        <th>Tukke-baazi %</th>
+                                        <th>Confidence Level</th>
+                                        <th>Calibration Score</th>
+                                        <th>Meta-Cognitive Strength</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Polity</td>
+                                        <td>83%</td>
+                                        <td>72%</td>
+                                        <td>11%</td>
+                                        <td>High</td>
+                                        <td>85%</td>
+                                        <td><span class="badge badge-secondary">Strong</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Modern History</td>
+                                        <td>75%</td>
+                                        <td>58%</td>
+                                        <td>17%</td>
+                                        <td>Medium</td>
+                                        <td>78%</td>
+                                        <td><span class="badge badge-secondary">Strong</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Geography</td>
+                                        <td>69%</td>
+                                        <td>63%</td>
+                                        <td>25%</td>
+                                        <td>Medium</td>
+                                        <td>72%</td>
+                                        <td><span class="badge badge-warning">Average</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Economics</td>
+                                        <td>64%</td>
+                                        <td>71%</td>
+                                        <td>36%</td>
+                                        <td>Medium</td>
+                                        <td>65%</td>
+                                        <td><span class="badge badge-warning">Average</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Environment</td>
+                                        <td>77%</td>
+                                        <td>62%</td>
+                                        <td>15%</td>
+                                        <td>Medium</td>
+                                        <td>79%</td>
+                                        <td><span class="badge badge-secondary">Strong</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Science & Technology</td>
+                                        <td>60%</td>
+                                        <td>80%</td>
+                                        <td>40%</td>
+                                        <td>Low</td>
+                                        <td>57%</td>
+                                        <td><span class="badge badge-error">Weak</span></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Current Affairs</td>
+                                        <td>80%</td>
+                                        <td>50%</td>
+                                        <td>20%</td>
+                                        <td>Medium</td>
+                                        <td>78%</td>
+                                        <td><span class="badge badge-secondary">Strong</span></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <div class="recommendation-card">
+                            <h3 class="recommendation-title">Meta-Cognitive Improvement Suggestions</h3>
+                            <div class="recommendation-grid">
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Overconfidence in Economics</h4>
+                                    <p class="recommendation-item-content">
+                                        You claim knowledge in 64% of Economics questions, but your accuracy is 57.1%. 
+                                        Focus on validating your knowledge with more practice tests and identify knowledge gaps.
+                                    </p>
+                                    <div class="badge badge-primary">High Priority</div>
+                                </div>
+                                
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Science & Technology Guesswork</h4>
+                                    <p class="recommendation-item-content">
+                                        40% of your S&T answers involve guesswork, the highest across all subjects.
+                                        Develop a systematic approach to eliminate options in S&T questions.
+                                    </p>
+                                    <div class="badge badge-primary">High Priority</div>
+                                </div>
+                                
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Confidence Calibration</h4>
+                                    <p class="recommendation-item-content">
+                                        Your high confidence answers in Geography are only correct 68% of the time.
+                                        Practice more self-assessment exercises to improve confidence calibration.
+                                    </p>
+                                    <div class="badge badge-warning">Medium Priority</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Error Log and Improvement Tab -->
+                <div class="tab-content" id="errorLogTab">
+                    <div class="error-log-container">
+                        <div class="error-log-header">
+                            <h2 class="error-log-title">Error Log Analysis</h2>
+                            <p class="error-log-subtitle">Review and learn from your mistakes</p>
+                        </div>
+                        
+                        <div class="error-log-filters">
+                            <div class="error-log-filter active" data-filter="all">All Errors</div>
+                            <div class="error-log-filter" data-filter="knowledge">Knowledge Gaps</div>
+                            <div class="error-log-filter" data-filter="conceptual">Conceptual Errors</div>
+                            <div class="error-log-filter" data-filter="careless">Careless Mistakes</div>
+                            <div class="error-log-filter" data-filter="tukka">Tukke-baazi Failures</div>
+                        </div>
+                        
+                        <div class="chart-container">
+                            <div class="analytics-chart">
+                                <h3>Error Distribution by Subject</h3>
+                                <canvas id="errorDistributionChart"></canvas>
+                            </div>
+                            
+                            <div class="analytics-chart">
+                                <h3>Error Classification</h3>
+                                <canvas id="errorClassificationChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="error-log-item">
+                            <div class="error-log-question">
+                                <div class="error-log-question-number">Question #17 - Economics</div>
+                                <div class="error-log-question-text">Which of the following best describes the term 'Helicopter Money'?</div>
+                            </div>
+                            <div class="error-log-answers">
+                                <div class="error-log-user-answer">Your Answer: (C) A monetary policy tool where money is printed by the central bank to fund government expenditure</div>
+                                <div class="error-log-correct-answer">Correct Answer: (B) A policy of printing large sums of money and distributing it to the public to stimulate the economy</div>
+                            </div>
+                            <div class="error-log-meta">
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-true">✓</div>
+                                    <span>Claimed Knowledge</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-false">✗</div>
+                                    <span>Used Presence of Mind</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-false">✗</div>
+                                    <span>Guesswork</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <span>Confidence: <span style="color: var(--secondary-color);">High 🟢</span></span>
+                                </div>
+                            </div>
+                            <div class="badge badge-primary">Knowledge Gap</div>
+                        </div>
+                        
+                        <div class="error-log-item">
+                            <div class="error-log-question">
+                                <div class="error-log-question-number">Question #43 - Science & Technology</div>
+                                <div class="error-log-question-text">Which of the following technologies is primarily used in COVID-19 mRNA vaccines?</div>
+                            </div>
+                            <div class="error-log-answers">
+                                <div class="error-log-user-answer">Your Answer: (D) DNA sequencing</div>
+                                <div class="error-log-correct-answer">Correct Answer: (A) Lipid nanoparticles for RNA delivery</div>
+                            </div>
+                            <div class="error-log-meta">
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-false">✗</div>
+                                    <span>Claimed Knowledge</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-true">✓</div>
+                                    <span>Used Presence of Mind</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-true">✓</div>
+                                    <span>Guesswork</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <span>Confidence: <span style="color: var(--error-color);">Low 🔴</span></span>
+                                </div>
+                            </div>
+                            <div class="badge badge-error">Conceptual Error</div>
+                        </div>
+                        
+                        <div class="error-log-item">
+                            <div class="error-log-question">
+                                <div class="error-log-question-number">Question #72 - Polity</div>
+                                <div class="error-log-question-text">The concept of 'Judicial Review' in the Indian Constitution has been taken from which country's constitution?</div>
+                            </div>
+                            <div class="error-log-answers">
+                                <div class="error-log-user-answer">Your Answer: (B) United Kingdom</div>
+                                <div class="error-log-correct-answer">Correct Answer: (D) United States of America</div>
+                            </div>
+                            <div class="error-log-meta">
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-true">✓</div>
+                                    <span>Claimed Knowledge</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-false">✗</div>
+                                    <span>Used Presence of Mind</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <div class="error-log-meta-icon icon-false">✗</div>
+                                    <span>Guesswork</span>
+                                </div>
+                                <div class="error-log-meta-item">
+                                    <span>Confidence: <span style="color: var(--secondary-color);">High 🟢</span></span>
+                                </div>
+                            </div>
+                            <div class="badge badge-warning">Careless Mistake</div>
+                        </div>
+                        
+                        <div class="trend-card">
+                            <h3 class="trend-title">Learning from Mistakes: Improvement Over Time</h3>
+                            <div class="trend-content">
+                                <canvas id="mistakeImprovementChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <div class="recommendation-card">
+                            <h3 class="recommendation-title">Personalized Error Correction Strategy</h3>
+                            <div class="recommendation-grid">
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Economics Fundamentals</h4>
+                                    <p class="recommendation-item-content">
+                                        You show consistent errors in monetary policy concepts. Revisit basic economic 
+                                        terms and their applications. Focus on RBI monetary tools and their mechanisms.
+                                    </p>
+                                    <div class="badge badge-primary">High Priority</div>
+                                </div>
+                                
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Polity Source Confusion</h4>
+                                    <p class="recommendation-item-content">
+                                        You often confuse the sources of constitutional provisions. Create a structured 
+                                        note on borrowed features of the Indian Constitution from different countries.
+                                    </p>
+                                    <div class="badge badge-warning">Medium Priority</div>
+                                </div>
+                                
+                                <div class="recommendation-item">
+                                    <h4 class="recommendation-item-title">Science & Technology Gaps</h4>
+                                    <p class="recommendation-item-content">
+                                        Focus on biology-related technology questions where your error rate is 40%. 
+                                        Create flashcards for biotechnology terms and their applications.
+                                    </p>
+                                    <div class="badge badge-primary">High Priority</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Toggle Dark Mode
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        
+        darkModeToggle.addEventListener('click', () => {
+            document.body.classList.toggle('dark-mode');
+            
+            if (document.body.classList.contains('dark-mode')) {
+                darkModeToggle.innerHTML = '<i class="fas fa-moon"></i>';
+                localStorage.setItem('darkMode', 'true');
+            } else {
+                darkModeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+                localStorage.setItem('darkMode', 'false');
+            }
+        });
+
+        // Load saved dark mode preference
+        if (localStorage.getItem('darkMode') === 'true') {
+            document.body.classList.add('dark-mode');
+            darkModeToggle.innerHTML = '<i class="fas fa-moon"></i>';
+        }
+
+        // Tab Navigation
+        const tabButtons = document.querySelectorAll('.tab-button');
+        const tabContents = document.querySelectorAll('.tab-content');
+        
+        tabButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                const tabId = button.getAttribute('data-tab');
+                
+                // Remove active class from all buttons and contents
+                tabButtons.forEach(btn => btn.classList.remove('active'));
+                tabContents.forEach(content => content.classList.remove('active'));
+                
+                // Add active class to selected button and content
+                button.classList.add('active');
+                document.getElementById(`${tabId}Tab`).classList.add('active');
+            });
+        });
+
+        // Chart Rendering
+        document.addEventListener('DOMContentLoaded', function() {
+            // Subject Performance Chart
+            const subjectPerformanceCtx = document.getElementById('subjectPerformanceChart').getContext('2d');
+            const subjectPerformanceChart = new Chart(subjectPerformanceCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Polity', 'Modern History', 'Geography', 'Economics', 'Environment', 'Science & Tech', 'Current Affairs'],
+                    datasets: [{
+                        label: 'Accuracy (%)',
+                        data: [77.8, 66.7, 62.5, 57.1, 69.2, 60.0, 70.0],
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.7)',
+                        borderColor: 'var(--primary-color)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: true,
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Time Distribution Chart
+            const timeDistributionCtx = document.getElementById('timeDistributionChart').getContext('2d');
+            const timeDistributionChart = new Chart(timeDistributionCtx, {
+                type: 'pie',
+                data: {
+                    labels: ['0-30 min', '30-60 min', '60-90 min', '90-120 min', '>120 min'],
+                    datasets: [{
+                        data: [15, 25, 30, 20, 10],
+                        backgroundColor: [
+                            'rgba(var(--primary-color-rgb), 0.7)',
+                            'rgba(var(--secondary-color-rgb), 0.7)',
+                            'rgba(var(--accent-color), 0.7)',
+                            'rgba(var(--error-color-rgb), 0.7)',
+                            'rgba(125, 125, 125, 0.7)'
+                        ],
+                        borderColor: [
+                            'var(--primary-color)',
+                            'var(--secondary-color)',
+                            'var(--accent-color)',
+                            'var(--error-color)',
+                            'rgb(125, 125, 125)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Meta-Cognitive Chart
+            const metaCognitiveCtx = document.getElementById('metaCognitiveChart').getContext('2d');
+            const metaCognitiveChart = new Chart(metaCognitiveCtx, {
+                type: 'radar',
+                data: {
+                    labels: ['Knowledge', 'Presence of Mind', 'Confidence', 'Accuracy', 'Speed', 'Guesswork Avoidance'],
+                    datasets: [{
+                        label: 'Your Performance',
+                        data: [75, 65, 70, 67, 60, 78],
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.2)',
+                        borderColor: 'var(--primary-color)',
+                        borderWidth: 2,
+                        pointBackgroundColor: 'var(--primary-color)'
+                    }, {
+                        label: 'Average Performer',
+                        data: [60, 55, 60, 55, 65, 60],
+                        backgroundColor: 'rgba(var(--border-color), 0.2)',
+                        borderColor: 'var(--border-color)',
+                        borderWidth: 1,
+                        pointBackgroundColor: 'var(--border-color)'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: {
+                                color: 'rgba(var(--border-color), 0.2)'
+                            },
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.2)'
+                            },
+                            ticks: {
+                                backdropColor: 'transparent',
+                                color: 'var(--text-color)'
+                            },
+                            pointLabels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Time vs. Accuracy Chart
+            const timeAccuracyCtx = document.getElementById('timeAccuracyChart').getContext('2d');
+            const timeAccuracyChart = new Chart(timeAccuracyCtx, {
+                type: 'line',
+                data: {
+                    labels: ['0-30 min', '30-60 min', '60-90 min', '90-120 min', '>120 min'],
+                    datasets: [{
+                        label: 'Accuracy (%)',
+                        data: [72, 68, 65, 62, 58],
+                        borderColor: 'var(--primary-color)',
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.1)',
+                        tension: 0.4,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Performance Evolution Chart
+            const performanceEvolutionCtx = document.getElementById('performanceEvolutionChart').getContext('2d');
+            const performanceEvolutionChart = new Chart(performanceEvolutionCtx, {
+                type: 'line',
+                data: {
+                    labels: ['Test 1', 'Test 2', 'Test 3', 'Test 4', 'Test 5', 'Test 6', 'Test 7', 'Test 8', 'Test 9', 'Test 10'],
+                    datasets: [{
+                        label: 'Score',
+                        data: [92.4, 87.3, 95.8, 104.6, 108.2, 116.8, 124.5, 115.2, 132.3, 103.5],
+                        borderColor: 'var(--secondary-color)',
+                        backgroundColor: 'rgba(var(--secondary-color-rgb), 0.1)',
+                        tension: 0.4,
+                        fill: true
+                    }, {
+                        label: 'Accuracy (%)',
+                        data: [58, 54, 60, 64, 67, 72, 76, 71, 82, 67],
+                        borderColor: 'var(--primary-color)',
+                        backgroundColor: 'transparent',
+                        tension: 0.4,
+                        yAxisID: 'y1'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Score',
+                                color: 'var(--text-color)'
+                            },
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        y1: {
+                            beginAtZero: true,
+                            position: 'right',
+                            max: 100,
+                            title: {
+                                display: true,
+                                text: 'Accuracy (%)',
+                                color: 'var(--text-color)'
+                            },
+                            grid: {
+                                drawOnChartArea: false
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Subject Accuracy Chart
+            const subjectAccuracyCtx = document.getElementById('subjectAccuracyChart').getContext('2d');
+            const subjectAccuracyChart = new Chart(subjectAccuracyCtx, {
+                type: 'radar',
+                data: {
+                    labels: ['Polity', 'Modern History', 'Geography', 'Economics', 'Environment', 'Science & Tech', 'Current Affairs'],
+                    datasets: [{
+                        label: 'Current Accuracy (%)',
+                        data: [77.8, 66.7, 62.5, 57.1, 69.2, 60.0, 70.0],
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.2)',
+                        borderColor: 'var(--primary-color)',
+                        borderWidth: 2,
+                        pointBackgroundColor: 'var(--primary-color)'
+                    }, {
+                        label: 'Previous Month',
+                        data: [63.5, 58.5, 57.4, 53.9, 45.0, 62.5, 64.2],
+                        backgroundColor: 'rgba(var(--border-color), 0.2)',
+                        borderColor: 'var(--border-color)',
+                        borderWidth: 1,
+                        pointBackgroundColor: 'var(--border-color)'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        r: {
+                            angleLines: {
+                                color: 'rgba(var(--border-color), 0.2)'
+                            },
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.2)'
+                            },
+                            ticks: {
+                                backdropColor: 'transparent',
+                                color: 'var(--text-color)'
+                            },
+                            pointLabels: {
+                                color: 'var(--text-color)'
+                            },
+                            suggestedMin: 0,
+                            suggestedMax: 100
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Meta-Cognitive Pattern Chart
+            const metaCognitivePatternCtx = document.getElementById('metaCognitivePatternChart').getContext('2d');
+            const metaCognitivePatternChart = new Chart(metaCognitivePatternCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Knowledge-based', 'Presence of Mind', 'Tukke-baazi'],
+                    datasets: [{
+                        label: 'Correct Answers',
+                        data: [48, 16, 5],
+                        backgroundColor: 'rgba(var(--secondary-color-rgb), 0.7)'
+                    }, {
+                        label: 'Incorrect Answers',
+                        data: [11, 9, 11],
+                        backgroundColor: 'rgba(var(--error-color-rgb), 0.7)'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            stacked: true,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            stacked: true,
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Knowledge Results Chart
+            const knowledgeResultsCtx = document.getElementById('knowledgeResultsChart').getContext('2d');
+            const knowledgeResultsChart = new Chart(knowledgeResultsCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Polity', 'Modern History', 'Geography', 'Economics', 'Environment', 'Science & Tech', 'Current Affairs'],
+                    datasets: [{
+                        label: 'Claimed Knowledge (%)',
+                        data: [83, 75, 69, 64, 77, 60, 80],
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.7)',
+                        borderColor: 'var(--primary-color)',
+                        borderWidth: 1,
+                        order: 2
+                    }, {
+                        label: 'Actual Accuracy (%)',
+                        data: [77.8, 66.7, 62.5, 57.1, 69.2, 60.0, 70.0],
+                        type: 'line',
+                        borderColor: 'var(--secondary-color)',
+                        backgroundColor: 'transparent',
+                        borderWidth: 2,
+                        pointBackgroundColor: 'var(--secondary-color)',
+                        order: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Confidence Accuracy Chart
+            const confidenceAccuracyCtx = document.getElementById('confidenceAccuracyChart').getContext('2d');
+            const confidenceAccuracyChart = new Chart(confidenceAccuracyCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: [
+                        'High Confidence & Correct',
+                        'High Confidence & Incorrect',
+                        'Medium Confidence & Correct',
+                        'Medium Confidence & Incorrect',
+                        'Low Confidence & Correct',
+                        'Low Confidence & Incorrect'
+                    ],
+                    datasets: [{
+                        data: [35, 7, 20, 10, 7, 14],
+                        backgroundColor: [
+                            'rgba(var(--secondary-color-rgb), 0.8)',
+                            'rgba(var(--secondary-color-rgb), 0.3)',
+                            'rgba(var(--accent-color), 0.8)',
+                            'rgba(var(--accent-color), 0.3)',
+                            'rgba(var(--error-color-rgb), 0.8)',
+                            'rgba(var(--error-color-rgb), 0.3)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Tukke-baazi Chart
+            const tukkeBaaziCtx = document.getElementById('tukkeBaaziChart').getContext('2d');
+            const tukkeBaaziChart = new Chart(tukkeBaaziCtx, {
+                type: 'horizontalBar',
+                data: {
+                    labels: ['Polity', 'Modern History', 'Geography', 'Economics', 'Environment', 'Science & Tech', 'Current Affairs'],
+                    datasets: [{
+                        label: 'Tukke-baazi %',
+                        data: [11, 17, 25, 36, 15, 40, 20],
+                        backgroundColor: 'rgba(var(--error-color-rgb), 0.7)',
+                        borderColor: 'var(--error-color)',
+                        borderWidth: 1
+                    }, {
+                        label: 'Success Rate %',
+                        data: [40, 35, 30, 28, 33, 25, 37],
+                        backgroundColor: 'rgba(var(--secondary-color-rgb), 0.7)',
+                        borderColor: 'var(--secondary-color)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        y: {
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Presence of Mind Chart
+            const presenceOfMindCtx = document.getElementById('presenceOfMindChart').getContext('2d');
+            const presenceOfMindChart = new Chart(presenceOfMindCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Polity', 'Modern History', 'Geography', 'Economics', 'Environment', 'Science & Tech', 'Current Affairs'],
+                    datasets: [{
+                        label: 'Presence of Mind Usage %',
+                        data: [72, 58, 63, 71, 62, 80, 50],
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.7)',
+                        borderColor: 'var(--primary-color)',
+                        borderWidth: 1
+                    }, {
+                        label: 'Success Rate %',
+                        data: [83, 72, 68, 65, 74, 55, 80],
+                        backgroundColor: 'rgba(var(--secondary-color-rgb), 0.7)',
+                        borderColor: 'var(--secondary-color)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Error Distribution Chart
+            const errorDistributionCtx = document.getElementById('errorDistributionChart').getContext('2d');
+            const errorDistributionChart = new Chart(errorDistributionCtx, {
+                type: 'pie',
+                data: {
+                    labels: ['Polity', 'Modern History', 'Geography', 'Economics', 'Environment', 'Science & Tech', 'Current Affairs'],
+                    datasets: [{
+                        data: [4, 4, 6, 6, 4, 4, 3],
+                        backgroundColor: [
+                            'rgba(255, 99, 132, 0.7)',
+                            'rgba(54, 162, 235, 0.7)',
+                            'rgba(255, 206, 86, 0.7)',
+                            'rgba(75, 192, 192, 0.7)',
+                            'rgba(153, 102, 255, 0.7)',
+                            'rgba(255, 159, 64, 0.7)',
+                            'rgba(199, 199, 199, 0.7)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Error Classification Chart
+            const errorClassificationCtx = document.getElementById('errorClassificationChart').getContext('2d');
+            const errorClassificationChart = new Chart(errorClassificationCtx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Knowledge Gap', 'Conceptual Error', 'Careless Mistake', 'Time Pressure', 'Misreading Question'],
+                    datasets: [{
+                        data: [38, 24, 20, 12, 6],
+                        backgroundColor: [
+                            'rgba(var(--primary-color-rgb), 0.7)',
+                            'rgba(var(--error-color-rgb), 0.7)',
+                            'rgba(var(--accent-color), 0.7)',
+                            'rgba(var(--secondary-color-rgb), 0.7)',
+                            'rgba(125, 125, 125, 0.7)'
+                        ],
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'right',
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            // Mistake Improvement Chart
+            const mistakeImprovementCtx = document.getElementById('mistakeImprovementChart').getContext('2d');
+            const mistakeImprovementChart = new Chart(mistakeImprovementCtx, {
+                type: 'line',
+                data: {
+                    labels: ['Week 1', 'Week 2', 'Week 3', 'Week 4', 'Week 5', 'Current'],
+                    datasets: [{
+                        label: 'Knowledge Gap Errors',
+                        data: [15, 14, 12, 10, 8, 6],
+                        borderColor: 'rgba(var(--primary-color-rgb), 0.8)',
+                        backgroundColor: 'rgba(var(--primary-color-rgb), 0.1)',
+                        tension: 0.4,
+                        fill: true
+                    }, {
+                        label: 'Conceptual Errors',
+                        data: [10, 10, 9, 8, 7, 6],
+                        borderColor: 'rgba(var(--error-color-rgb), 0.8)',
+                        backgroundColor: 'rgba(var(--error-color-rgb), 0.1)',
+                        tension: 0.4,
+                        fill: true
+                    }, {
+                        label: 'Careless Mistakes',
+                        data: [8, 9, 7, 6, 5, 4],
+                        borderColor: 'rgba(var(--accent-color), 0.8)',
+                        backgroundColor: 'rgba(var(--accent-color), 0.1)',
+                        tension: 0.4,
+                        fill: true
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        },
+                        x: {
+                            grid: {
+                                color: 'rgba(var(--border-color), 0.1)'
+                            },
+                            ticks: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            labels: {
+                                color: 'var(--text-color)'
+                            }
+                        }
+                    }
+                }
+            });
+        });
+        
+        // Error Log Filters
+        const errorLogFilters = document.querySelectorAll('.error-log-filter');
+        
+        errorLogFilters.forEach(filter => {
+            filter.addEventListener('click', () => {
+                errorLogFilters.forEach(f => f.classList.remove('active'));
+                filter.classList.add('active');
+                
+                // In a real implementation, this would filter the error log items
+                // For demo purposes, we're not implementing the actual filtering
+            });
+        });
+    </script>
+</body>
+</html>
