@@ -1,5 +1,5 @@
 import { QueryClientProvider } from "@tanstack/react-query";
-import { Route, Switch } from "wouter";
+import { Route, Switch, useLocation } from "wouter";
 import { Toaster } from "@/components/ui/toaster";
 import { queryClient } from "./lib/queryClient";
 import { SettingsProvider } from "./hooks/use-settings";
@@ -13,6 +13,7 @@ import OverallAnalytics from "@/pages/overall-analytics";
 import Flashcards from "@/pages/flashcards";
 import NotFound from "@/pages/not-found";
 import SettingsPanel from "./components/settings-panel";
+import { AnalyticsButton } from "./components/ui/analytics-button";
 
 function Router() {
   return (
@@ -28,6 +29,10 @@ function Router() {
 }
 
 function App() {
+  // Get current location to determine if we should show analytics button
+  const [location] = useLocation();
+  const hideAnalyticsButton = location === "/overall-analytics";
+
   return (
     <QueryClientProvider client={queryClient}>
       <SettingsProvider>
@@ -36,6 +41,7 @@ function App() {
             <Router />
             <Toaster />
             <SettingsPanel />
+            {!hideAnalyticsButton && <AnalyticsButton />}
           </div>
         </UIStateProvider>
       </SettingsProvider>

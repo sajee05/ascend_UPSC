@@ -251,10 +251,11 @@ export class MemStorage implements IStorage {
   // User Answer methods
   async createUserAnswer(answerData: InsertUserAnswer): Promise<UserAnswer> {
     const id = this.currentUserAnswerId++;
+    const now = new Date();
     const answer: UserAnswer = {
       ...answerData,
       id,
-      timestamp: new Date().toISOString(),
+      timestamp: dateToString(now) || now.toISOString(),
     };
     this.userAnswers.set(id, answer);
     
@@ -289,9 +290,9 @@ export class MemStorage implements IStorage {
     const flashcard: Flashcard = {
       ...flashcardData,
       id,
-      createdAt: now.toISOString(),
+      createdAt: dateToString(now) || now.toISOString(),
       lastReviewedAt: null,
-      nextReviewAt: tomorrow.toISOString(),
+      nextReviewAt: dateToString(tomorrow) || tomorrow.toISOString(),
       easeFactor: 2.5,
       interval: 1,
       reviewCount: 0,
@@ -302,13 +303,19 @@ export class MemStorage implements IStorage {
   }
 
   async getAllFlashcards(): Promise<(Flashcard & { question: QuestionWithTags })[]> {
-    return Array.from(this.flashcards.values()).map(flashcard => {
-      const question = this.getQuestion(flashcard.questionId);
-      return {
-        ...flashcard,
-        question: question || { id: 0, testId: 0, questionNumber: 0, questionText: 'Question not found', optionA: '', optionB: '', optionC: '', optionD: '', correctAnswer: '', correctAnswerText: '', tags: [] },
-      };
-    }).filter(f => f.question.id !== 0);
+    const result: (Flashcard & { question: QuestionWithTags })[] = [];
+    
+    for (const flashcard of Array.from(this.flashcards.values())) {
+      const question = await this.getQuestion(flashcard.questionId);
+      if (question) {
+        result.push({
+          ...flashcard,
+          question
+        });
+      }
+    }
+    
+    return result;
   }
 
   async updateFlashcard(id: number, data: Partial<Flashcard>): Promise<Flashcard | undefined> {
