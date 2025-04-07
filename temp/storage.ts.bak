@@ -40,7 +40,6 @@ export interface IStorage {
   // User Answers
   createUserAnswer(answer: InsertUserAnswer): Promise<UserAnswer>;
   getUserAnswersByAttempt(attemptId: number): Promise<UserAnswer[]>;
-  updateUserAnswer(id: number, data: Partial<UserAnswer>): Promise<UserAnswer | undefined>;
   
   // Flashcards
   createFlashcard(flashcard: InsertFlashcard): Promise<Flashcard>;
@@ -508,9 +507,8 @@ export class MemStorage implements IStorage {
     }
     
     // Calculate overall stats using all answers
-    // Calculate overall stats using all answers for return object
-    const memStats = calculateStats(answers);
-    memStats.subject = 'Overall';
+    const overallStats = calculateStats(answers);
+    overallStats.subject = 'Overall';
       
     return {
       testId: test.id,
@@ -518,7 +516,7 @@ export class MemStorage implements IStorage {
       title: test.title,
       date: dateToString(attempt.startTime) || "",
       totalTimeSeconds: attempt.totalTimeSeconds || 0,
-      overallStats: memStats,
+      overallStats,
       subjectStats,
     };
   }
@@ -591,18 +589,6 @@ export class MemStorage implements IStorage {
         const totalTime = subjectAnswers.reduce((sum, a) => sum + (a.answerTimeSeconds || 0), 0);
         const avgTime = subjectAnswers.length > 0 ? totalTime / subjectAnswers.length : 0;
         
-        // Calculate attempt-based stats for this subject
-        const firstAttemptCorrectSubj = subjectAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
-        const secondAttemptCorrectSubj = subjectAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
-        const thirdPlusAttemptCorrectSubj = subjectAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
-        
-        // Distribution of attempt numbers
-        const attemptDistributionSubj: {[key: number]: number} = {};
-        subjectAnswers.forEach(answer => {
-          const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
-          attemptDistributionSubj[attemptNum] = (attemptDistributionSubj[attemptNum] || 0) + 1;
-        });
-        
         subjectStats.push({
           subject,
           attempts: subjectAnswers.length,
@@ -619,10 +605,11 @@ export class MemStorage implements IStorage {
           knowledgeYes,
           techniqueYes,
           guessworkYes,
-          firstAttemptCorrect: firstAttemptCorrectSubj,
-          secondAttemptCorrect: secondAttemptCorrectSubj,
-          thirdPlusAttemptCorrect: thirdPlusAttemptCorrectSubj,
-          attemptDistribution: attemptDistributionSubj,
+        // New attempt-based stats
+        firstAttemptCorrect,
+        secondAttemptCorrect,
+        thirdPlusAttemptCorrect,
+        attemptDistribution,
         });
       }
     }
@@ -995,173 +982,6 @@ export class DatabaseStorage implements IStorage {
     return updatedFlashcard;
   }
 
-  // Overall analytics
-  async getOverallAnalytics(): Promise<{
-    testCount: number;
-    attemptCount: number;
-    totalCorrect: number;
-    totalIncorrect: number;
-    totalLeft: number;
-    subjectStats: SubjectStats[];
-    trendData: { date: string; accuracy: number; score: number }[];
-  }> {
-    // Get basic counts
-    const testCount = await db.select({ count: sql<number>`count(*)` }).from(tests);
-    const attemptCount = await db.select({ count: sql<number>`count(*)` })
-      .from(attempts)
-      .where(eq(attempts.completed, true));
-    
-    const answers = await db.select().from(userAnswers);
-    const totalCorrect = answers.filter(a => a.isCorrect).length;
-    const totalIncorrect = answers.filter(a => !a.isCorrect && !a.isLeft).length;
-    const totalLeft = answers.filter(a => a.isLeft).length;
-
-    // Get all subject tags
-    const allTags = await db.select().from(tags).where(eq(tags.isAIGenerated, false));
-    const subjectTags = [...new Set(allTags.map(t => t.tagName))];
-
-    // Stats by subject
-    const subjectStats: SubjectStats[] = [];
-    
-    for (const subject of subjectTags) {
-      // Get questions with this subject tag
-      const questionTags = await db.select()
-        .from(tags)
-        .where(and(
-          eq(tags.tagName, subject),
-          eq(tags.isAIGenerated, false)
-        ));
-      
-      const subjectQuestionIds = questionTags.map(t => t.questionId);
-      
-      // Get answers for these questions
-      const subjectAnswers = answers.filter(a => subjectQuestionIds.includes(a.questionId));
-      
-      if (subjectAnswers.length > 0) {
-        const correct = subjectAnswers.filter(a => a.isCorrect).length;
-        const incorrect = subjectAnswers.filter(a => !a.isCorrect && !a.isLeft).length;
-        const left = subjectAnswers.filter(a => a.isLeft).length;
-        
-        // Calculate other stats
-        const score = correct * 2 - incorrect * 0.66;
-        const accuracy = (correct / (correct + incorrect)) * 100 || 0;
-        
-        // Calculate confidence stats
-        const highConfidence = subjectAnswers.filter(a => a.confidenceLevel === 'high').length;
-        const midConfidence = subjectAnswers.filter(a => a.confidenceLevel === 'mid').length;
-        const lowConfidence = subjectAnswers.filter(a => a.confidenceLevel === 'low').length;
-        
-        // Calculate meta-cognitive stats
-        const knowledgeYes = subjectAnswers.filter(a => a.knowledgeFlag).length;
-        const techniqueYes = subjectAnswers.filter(a => a.techniqueFlag).length;
-        const guessworkYes = subjectAnswers.filter(a => a.guessworkFlag).length;
-        
-        // Calculate average time
-        const totalTime = subjectAnswers.reduce((sum, a) => sum + (a.answerTimeSeconds || 0), 0);
-        const avgTime = subjectAnswers.length > 0 ? totalTime / subjectAnswers.length : 0;
-        
-        // Calculate attempt-based stats
-        const firstAttemptCorrect = subjectAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
-        const secondAttemptCorrect = subjectAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
-        const thirdPlusAttemptCorrect = subjectAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
-        
-        // Distribution of attempt numbers
-        const attemptDistribution: {[key: number]: number} = {};
-        subjectAnswers.forEach(answer => {
-          const attemptNum = answer.attemptNumber || 1;
-          attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
-        });
-        
-        // Calculate personal best
-        let personalBest = accuracy;
-        
-        subjectStats.push({
-          subject,
-          attempts: subjectAnswers.length,
-          correct,
-          incorrect,
-          left,
-          score,
-          accuracy,
-          personalBest,
-          avgTimeSeconds: avgTime,
-          confidenceHigh: highConfidence,
-          confidenceMid: midConfidence,
-          confidenceLow: lowConfidence,
-          knowledgeYes,
-          techniqueYes,
-          guessworkYes,
-          firstAttemptCorrect,
-          secondAttemptCorrect,
-          thirdPlusAttemptCorrect,
-          attemptDistribution,
-        });
-      }
-    }
-
-    // Trend data over time
-    const trendData: { date: string; accuracy: number; score: number }[] = [];
-    
-    // Get all attempts sorted by date
-    const allAttempts = await db.select().from(attempts).where(eq(attempts.completed, true));
-    const sortedAttempts = [...allAttempts].sort((a, b) => 
-      new Date(a.startTime).getTime() - new Date(b.startTime).getTime()
-    );
-    
-    for (const attempt of sortedAttempts) {
-      const attemptAnswers = answers.filter(a => a.attemptId === attempt.id);
-      const correct = attemptAnswers.filter(a => a.isCorrect).length;
-      const incorrect = attemptAnswers.filter(a => !a.isCorrect && !a.isLeft).length;
-      
-      if (correct + incorrect > 0) {
-        const accuracy = (correct / (correct + incorrect)) * 100;
-        const score = correct * 2 - incorrect * 0.66;
-        
-        trendData.push({
-          date: dateToString(attempt.startTime) || "",
-          accuracy,
-          score,
-        });
-      }
-    }
-    
-    return {
-      testCount: testCount[0]?.count || 0,
-      attemptCount: attemptCount[0]?.count || 0,
-      totalCorrect,
-      totalIncorrect,
-      totalLeft,
-      subjectStats,
-      trendData,
-    };
-  }
-
-  // Anki data generation
-  async getAnkiData(testId: number): Promise<{
-    front: string;
-    back: string;
-    tags: string;
-  }[]> {
-    const questions = await this.getQuestionsByTest(testId);
-    
-    return questions.map(question => {
-      // Format the front (question + options)
-      const front = `${question.questionText}\n\n${question.optionA}\n\n${question.optionB}\n\n${question.optionC}\n\n${question.optionD}`;
-      
-      // Format the back (correct answer)
-      const back = `${question.correctAnswer}) ${question.correctAnswerText}`;
-      
-      // Format tags
-      const tagsList = question.tags.map(tag => tag.tagName.replace(/\s+/g, '_')).join(' ');
-      
-      return {
-        front,
-        back,
-        tags: tagsList,
-      };
-    });
-  }
-
   // Analytics methods
   async getTestAnalytics(attemptId: number): Promise<TestAnalytics | undefined> {
     // Get attempt
@@ -1316,13 +1136,16 @@ export class DatabaseStorage implements IStorage {
     }
     
     // Calculate overall stats using all answers
+    const overallStats = calculateStats(answers);
+    overallStats.subject = 'Overall';
+      
     return {
       testId: test.id,
       attemptId,
       title: test.title,
       date: dateToString(attempt.startTime) || "",
       totalTimeSeconds: attempt.totalTimeSeconds || 0,
-      overallStats: overallStats,
+      overallStats,
       subjectStats,
     };
   }
@@ -1436,11 +1259,11 @@ export class DatabaseStorage implements IStorage {
             knowledgeYes,
             techniqueYes,
             guessworkYes,
-            // New attempt-based stats
-            firstAttemptCorrect: subjectAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length,
-            secondAttemptCorrect: subjectAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length,
-            thirdPlusAttemptCorrect: subjectAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length,
-            attemptDistribution: {},
+        // New attempt-based stats
+        firstAttemptCorrect,
+        secondAttemptCorrect,
+        thirdPlusAttemptCorrect,
+        attemptDistribution,
           });
         }
       }

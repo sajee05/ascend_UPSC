@@ -223,6 +223,39 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch answers" });
     }
   });
+  
+  // PATCH /api/answers/:id - Update a user answer with metadata (confidence, knowledge flags, etc.)
+  apiRouter.patch("/api/answers/:id", async (req: Request, res: Response) => {
+    try {
+      const answerId = parseInt(req.params.id);
+      if (isNaN(answerId)) {
+        return res.status(400).json({ message: "Invalid answer ID" });
+      }
+
+      const schema = z.object({
+        knowledgeFlag: z.boolean().optional(),
+        techniqueFlag: z.boolean().optional(),
+        guessworkFlag: z.boolean().optional(),
+        confidenceLevel: z.enum(['high', 'mid', 'low']).optional(),
+      });
+
+      const updateData = schema.parse(req.body);
+      const updatedAnswer = await storage.updateUserAnswer(answerId, updateData);
+      
+      if (!updatedAnswer) {
+        return res.status(404).json({ message: "Answer not found" });
+      }
+      
+      res.json(updatedAnswer);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        res.status(400).json({ message: "Invalid update data", error: fromZodError(error) });
+      } else {
+        console.error("Error updating answer:", error);
+        res.status(500).json({ message: "Failed to update answer" });
+      }
+    }
+  });
 
   // POST /api/tags - Add tags to a question
   apiRouter.post("/api/tags", async (req: Request, res: Response) => {
