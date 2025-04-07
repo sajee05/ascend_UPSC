@@ -116,8 +116,55 @@ export function AnsweredQuestionCard({
     
     // This function specifically handles UPSC-style tables
     const processUpscTable = (tableContent: string[]) => {
+      // This is a specialized handler for the exact format from UPSC questions
+      if (tableContent.some(row => row.includes('Personality') && row.includes('Role in Constitutional Making'))) {
+        // Hardcoded structure for the UPSC constitution table
+        return (
+          <div className="my-3 overflow-x-auto">
+            <table className="border-collapse w-full border border-gray-300 dark:border-gray-700">
+              <thead>
+                <tr className="bg-muted">
+                  <th className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left">Personality</th>
+                  <th className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-left">Role in Constitutional Making</th>
+                </tr>
+              </thead>
+              <tbody>
+                {tableContent.map((row, rowIdx) => {
+                  // Skip header and separator rows
+                  if (row.includes('Personality') || row.includes('---') || !row.includes('|')) {
+                    return null;
+                  }
+                  
+                  // Extract the cells from this specific format
+                  // For rows like "| 1. K.M. Munshi | Member of the Drafting Committee |"
+                  const cleanRow = row.replace(/^\||\|$/g, ''); // Remove leading/trailing |
+                  const firstPipeIndex = cleanRow.indexOf('|');
+                  
+                  if (firstPipeIndex > 0) {
+                    const personality = cleanRow.substring(0, firstPipeIndex).trim();
+                    const role = cleanRow.substring(firstPipeIndex + 1).trim();
+                    
+                    return (
+                      <tr key={rowIdx} className="border-b border-gray-300 dark:border-gray-700">
+                        <td className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-sm">
+                          {personality}
+                        </td>
+                        <td className="border border-gray-300 dark:border-gray-700 px-4 py-2 text-sm">
+                          {role}
+                        </td>
+                      </tr>
+                    );
+                  }
+                  return null;
+                }).filter(Boolean)}
+              </tbody>
+            </table>
+          </div>
+        );
+      }
+      
+      // General approach for other table formats
       // Determine the column structure based on the content
-      // For UPSC tables, we can look at the header row which usually has "Personality | Role" structure
       const headerRowIndex = tableContent.findIndex(row => 
         !row.includes('---') && 
         row.includes('|') && 
