@@ -131,10 +131,19 @@ export function AnsweredQuestionCard({
         // Render the collected table
         result.push(
           <div key={`table-${tableIndex}`} className="my-3 overflow-x-auto">
-            <table className="border-collapse w-full">
+            <table className="border-collapse w-full border border-gray-300 dark:border-gray-700">
               <tbody>
                 {tableRows.map((tableRow, rowIdx) => {
-                  const cells = tableRow.split('|').filter(cell => cell.trim() !== '');
+                  // Handle table rows with proper parsing
+                  const cells = tableRow.split('|');
+                  
+                  // Remove empty cells from start/end if they're just spacing
+                  const filteredCells = cells.filter((cell, idx) => 
+                    !(
+                      (idx === 0 || idx === cells.length - 1) && 
+                      cell.trim() === ''
+                    )
+                  );
                   
                   // Check if this is a header or separator row
                   const isHeaderRow = rowIdx === 0;
@@ -143,8 +152,8 @@ export function AnsweredQuestionCard({
                   if (isSeparatorRow) return null;
                   
                   return (
-                    <tr key={`row-${rowIdx}`}>
-                      {cells.map((cell, cellIdx) => {
+                    <tr key={`row-${rowIdx}`} className="border-b border-gray-300 dark:border-gray-700">
+                      {filteredCells.map((cell, cellIdx) => {
                         const CellTag = isHeaderRow ? 'th' : 'td';
                         return (
                           <CellTag 
@@ -192,18 +201,28 @@ export function AnsweredQuestionCard({
     if (inTable && tableRows.length > 0) {
       result.push(
         <div key={`table-${tableIndex}`} className="my-3 overflow-x-auto">
-          <table className="border-collapse w-full">
+          <table className="border-collapse w-full border border-gray-300 dark:border-gray-700">
             <tbody>
               {tableRows.map((tableRow, rowIdx) => {
-                const cells = tableRow.split('|').filter(cell => cell.trim() !== '');
+                // Handle table rows with proper parsing
+                const cells = tableRow.split('|');
+                
+                // Remove empty cells from start/end if they're just spacing
+                const filteredCells = cells.filter((cell, idx) => 
+                  !(
+                    (idx === 0 || idx === cells.length - 1) && 
+                    cell.trim() === ''
+                  )
+                );
+                
                 const isHeaderRow = rowIdx === 0;
                 const isSeparatorRow = tableRow.includes('---') || tableRow.includes('===');
                 
                 if (isSeparatorRow) return null;
                 
                 return (
-                  <tr key={`row-${rowIdx}`}>
-                    {cells.map((cell, cellIdx) => {
+                  <tr key={`row-${rowIdx}`} className="border-b border-gray-300 dark:border-gray-700">
+                    {filteredCells.map((cell, cellIdx) => {
                       const CellTag = isHeaderRow ? 'th' : 'td';
                       return (
                         <CellTag 

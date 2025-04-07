@@ -8,6 +8,8 @@ import { useToast } from "@/hooks/use-toast";
 import { useSettings } from "@/hooks/use-settings";
 import { getAnalyticsInsights, getStudyPlanRecommendations, getLearningPatternAnalysis } from "@/lib/gemini";
 import { SubjectStats } from "@shared/schema";
+import ReactMarkdown from "react-markdown";
+import rehypeSanitize from "rehype-sanitize";
 
 interface EnhancedAIInsightsProps {
   overallStats: SubjectStats;
@@ -177,25 +179,9 @@ export function EnhancedAIInsights({ overallStats, subjectStats }: EnhancedAIIns
 
     return (
       <div className="prose prose-sm dark:prose-invert mt-4 max-w-none">
-        {content.split('\n').map((paragraph, index) => {
-          if (paragraph.startsWith('- ') || paragraph.startsWith('* ')) {
-            return <li key={index}>{paragraph.substring(2)}</li>;
-          }
-          if (paragraph.trim() === '') {
-            return <br key={index} />;
-          }
-          // Check for headings (Markdown style)
-          if (paragraph.startsWith('# ')) {
-            return <h3 key={index} className="font-bold text-lg mt-4">{paragraph.substring(2)}</h3>;
-          }
-          if (paragraph.startsWith('## ')) {
-            return <h4 key={index} className="font-semibold text-md mt-3">{paragraph.substring(3)}</h4>;
-          }
-          if (paragraph.startsWith('### ')) {
-            return <h5 key={index} className="font-medium mt-2">{paragraph.substring(4)}</h5>;
-          }
-          return <p key={index}>{paragraph}</p>;
-        })}
+        <ReactMarkdown rehypePlugins={[rehypeSanitize]}>
+          {content || ''}
+        </ReactMarkdown>
 
         <Button 
           variant="ghost" 

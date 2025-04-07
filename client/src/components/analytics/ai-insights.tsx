@@ -7,6 +7,8 @@ import { useToast } from "@/hooks/use-toast";
 import { useSettings } from "@/hooks/use-settings";
 import { getAnalyticsInsights } from "@/lib/gemini";
 import { SubjectStats } from "@shared/schema";
+import ReactMarkdown from "react-markdown";
+import rehypeSanitize from "rehype-sanitize";
 
 interface AIInsightsProps {
   overallStats: SubjectStats;
@@ -105,16 +107,10 @@ export function AIInsights({ overallStats, subjectStats }: AIInsightsProps) {
                   <div className="h-4 bg-muted rounded w-2/3"></div>
                 </div>
               ) : (
-                <div className="prose prose-sm dark:prose-invert">
-                  {insights?.split('\n').map((paragraph, index) => {
-                    if (paragraph.startsWith('- ') || paragraph.startsWith('* ')) {
-                      return <li key={index}>{paragraph.substring(2)}</li>;
-                    }
-                    if (paragraph.trim() === '') {
-                      return <br key={index} />;
-                    }
-                    return <p key={index}>{paragraph}</p>;
-                  })}
+                <div className="prose prose-sm dark:prose-invert max-w-none">
+                  <ReactMarkdown rehypePlugins={[rehypeSanitize]}>
+                    {insights || ''}
+                  </ReactMarkdown>
                 </div>
               )}
               

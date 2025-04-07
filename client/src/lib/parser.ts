@@ -29,6 +29,35 @@ export interface ParseResult {
   errorMessage?: string;
 }
 
+// Function to detect and preserve table structure
+function preserveTableFormatting(text: string): string {
+  // Look for table patterns - lines containing multiple pipe characters
+  const lines = text.split('\n');
+  const processedLines: string[] = [];
+  let insideTable = false;
+  
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    
+    // Check if this is a table line (has pipes or dashes forming table structure)
+    if (line.includes('|') || line.includes('----')) {
+      insideTable = true;
+      // Preserve the exact formatting for table lines
+      processedLines.push(line);
+    } else if (insideTable) {
+      // Check if we've exited the table
+      if (line.trim() === '') {
+        insideTable = false;
+      }
+      processedLines.push(line);
+    } else {
+      processedLines.push(line);
+    }
+  }
+  
+  return processedLines.join('\n');
+}
+
 // Parse the uploaded text file
 export function parseTestFile(fileContent: string): ParseResult {
   try {
@@ -70,8 +99,11 @@ export function parseTestFile(fileContent: string): ParseResult {
       const questionNumber = parseInt(questionMatch[1]);
       const fullText = questionMatch[2].trim();
       
+      // Process the text to preserve table formatting
+      const processedText = preserveTableFormatting(fullText);
+      
       // Extract options directly (assuming they're already formatted as a), b), etc.)
-      const lines = fullText.split('\n').map(line => line.trim()).filter(line => line.length > 0);
+      const lines = processedText.split('\n').map(line => line.trim()).filter(line => line.length > 0);
       
       // Find the option lines (looking for lines that start with a), b), etc.)
       const optionLines = lines.filter(line => /^[a-dA-D]\)/.test(line));
