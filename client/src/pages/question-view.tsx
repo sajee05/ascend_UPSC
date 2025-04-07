@@ -3,20 +3,38 @@ import { useQuery } from "@tanstack/react-query";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription, CardFooter } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
-import { ArrowLeftIcon, BookIcon, TagIcon, Chrome } from "lucide-react";
+import { ArrowLeftIcon, ArrowRightIcon, BookIcon, TagIcon, Chrome, Home, ChevronLeft, ChevronRight } from "lucide-react";
 import { QuestionWithTags } from "@shared/schema";
 import { motion } from "framer-motion";
 import { Skeleton } from "@/components/ui/skeleton";
+import { useEffect, useState } from "react";
 
 export default function QuestionView() {
   const { testId, questionId } = useParams();
   const [, navigate] = useLocation();
+  const [allQuestions, setAllQuestions] = useState<QuestionWithTags[]>([]);
+  const [currentIndex, setCurrentIndex] = useState<number>(-1);
+
+  // Get all questions for this test for navigation
+  const { data: testQuestions, isLoading: isLoadingTestQuestions } = useQuery<QuestionWithTags[]>({
+    queryKey: ['/api/tests', testId, 'questions'],
+    enabled: !!testId,
+  });
 
   // Get test-specific question
-  const { data: question, isLoading, error } = useQuery<QuestionWithTags>({
+  const { data: question, isLoading: isLoadingQuestion, error } = useQuery<QuestionWithTags>({
     queryKey: ['/api/questions', questionId],
     enabled: !!questionId,
   });
+
+  // Set up all questions and current index when data loads
+  useEffect(() => {
+    if (testQuestions && question) {
+      setAllQuestions(testQuestions);
+      const index = testQuestions.findIndex(q => q.id === parseInt(questionId as string));
+      setCurrentIndex(index);
+    }
+  }, [testQuestions, question, questionId]);
 
   // Navigate back to test questions
   const goBackToTest = () => {
@@ -27,8 +45,29 @@ export default function QuestionView() {
     }
   };
 
+  // Navigate to the previous question
+  const goToPreviousQuestion = () => {
+    if (currentIndex > 0 && testId) {
+      const prevQuestion = allQuestions[currentIndex - 1];
+      navigate(`/tests/${testId}/questions/${prevQuestion.id}`);
+    }
+  };
+
+  // Navigate to the next question
+  const goToNextQuestion = () => {
+    if (currentIndex < allQuestions.length - 1 && testId) {
+      const nextQuestion = allQuestions[currentIndex + 1];
+      navigate(`/tests/${testId}/questions/${nextQuestion.id}`);
+    }
+  };
+
+  // Navigate to home
+  const goToHome = () => {
+    navigate('/');
+  };
+
   // Loading state
-  if (isLoading) {
+  if (isLoadingQuestion || isLoadingTestQuestions) {
     return (
       <div className="container mx-auto py-8">
         <Card className="shadow-lg">
@@ -86,22 +125,59 @@ export default function QuestionView() {
       transition={{ duration: 0.5 }}
       className="container mx-auto py-8"
     >
-      <Card className="shadow-lg">
+      <Card className="shadow-lg relative">
+        {/* Top-level navigation */}
+        <div className="flex items-center justify-between p-4">
+          <Button variant="outline" size="sm" onClick={goBackToTest}>
+            <ArrowLeftIcon className="h-4 w-4 mr-2" />
+            Back to All Questions
+          </Button>
+          <Button variant="outline" size="sm" onClick={goToHome}>
+            <Home className="h-4 w-4 mr-2" />
+            Home
+          </Button>
+        </div>
+
+        {/* Left/Right Navigation */}
+        <div className="absolute left-0 top-1/2 transform -translate-y-1/2 ml-2 z-10">
+          <Button 
+            variant="outline" 
+            size="icon" 
+            className="rounded-full bg-background/80 backdrop-blur-sm"
+            onClick={goToPreviousQuestion}
+            disabled={currentIndex <= 0}
+          >
+            <ChevronLeft className="h-5 w-5" />
+          </Button>
+        </div>
+        
+        <div className="absolute right-0 top-1/2 transform -translate-y-1/2 mr-2 z-10">
+          <Button 
+            variant="outline" 
+            size="icon" 
+            className="rounded-full bg-background/80 backdrop-blur-sm"
+            onClick={goToNextQuestion}
+            disabled={currentIndex >= allQuestions.length - 1}
+          >
+            <ChevronRight className="h-5 w-5" />
+          </Button>
+        </div>
+
         <CardHeader>
-          <div className="flex items-center justify-between">
-            <Button variant="ghost" onClick={goBackToTest}>
-              <ArrowLeftIcon className="h-4 w-4 mr-2" />
-              Back to Questions
-            </Button>
-          </div>
-          <CardTitle className="text-xl mt-4 flex items-center">
+          <CardTitle className="text-xl flex items-center">
             <BookIcon className="h-5 w-5 mr-2" />
-            Question {question.questionNumber}
+            Question {question.questionNumber} 
+            <span className="text-sm text-muted-foreground ml-2">
+              {currentIndex >= 0 && `(${currentIndex + 1} of ${allQuestions.length})`}
+            </span>
           </CardTitle>
           <CardDescription>
-            Test ID: {question.testId}
+            {testQuestions && testQuestions.length > 0 && testQuestions[0].testId && (
+              <>Test: {testQuestions[0].testId}</>
+            )}
           </CardDescription>
         </CardHeader>
+        
         <CardContent>
           {/* Question text */}
           <div className="mb-6 text-lg">
@@ -128,15 +204,6 @@ export default function QuestionView() {
             </Card>
           </div>
 
-          {/* Explanation - commented out as it's not available in the current schema
-          {question.explanation && (
-            <div className="mt-6 p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg">
-              <h3 className="font-medium mb-2">Explanation</h3>
-              <p>{question.explanation}</p>
-            </div>
-          )}
-          */}
-
           {/* Tags */}
           {question.tags && question.tags.length > 0 && (
             <div className="mt-6">
@@ -160,6 +227,26 @@ export default function QuestionView() {
             </div>
           )}
         </CardContent>
+        
+        {/* Bottom navigation controls */}
+        <CardFooter className="flex justify-between">
+          <Button 
+            variant="outline" 
+            onClick={goToPreviousQuestion}
+            disabled={currentIndex <= 0}
+          >
+            <ChevronLeft className="h-4 w-4 mr-2" />
+            Previous
+          </Button>
+          <Button 
+            variant="outline" 
+            onClick={goToNextQuestion}
+            disabled={currentIndex >= allQuestions.length - 1}
+          >
+            Next
+            <ChevronRight className="h-4 w-4 ml-2" />
+          </Button>
+        </CardFooter>
       </Card>
     </motion.div>
   );

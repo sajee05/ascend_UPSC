@@ -35,7 +35,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
   });
 
   // Get attempts for a specific test if testId is provided
-  const { data: testAttempts, isLoading: isLoadingTestAttempts } = useQuery({
+  const { data: testAttempts, isLoading: isLoadingTestAttempts } = useQuery<any[]>({
     queryKey: ['/api/tests', testId, 'attempts'],
     enabled: !!testId,
   });
@@ -79,7 +79,7 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
     }
 
     // Filter by attempted status if requested
-    if (showAttemptedOnly && testAttempts && testAttempts.length > 0) {
+    if (showAttemptedOnly && testAttempts && Array.isArray(testAttempts) && testAttempts.length > 0) {
       const attemptedQuestionIds = new Set<number>();
       // Logic to get IDs of all attempted questions
       // This would require additional API data
@@ -263,7 +263,7 @@ function QuestionList({ questions }: { questions: QuestionWithTags[] }) {
 
 function QuestionCard({ question }: { question: QuestionWithTags }) {
   return (
-    <Card className="hover:shadow-md transition-shadow">
+    <Card className="hover:shadow-md transition-shadow relative group">
       <CardContent className="p-4">
         <div className="font-semibold text-sm text-muted-foreground mb-2">
           Q{question.questionNumber})
@@ -294,6 +294,15 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
             </Button>
           </Link>
         </div>
+        
+        {/* Overlay on hover for quick navigation */}
+        <div className="absolute inset-0 bg-black/5 dark:bg-white/5 opacity-0 group-hover:opacity-100 transition-opacity rounded-lg flex items-center justify-center pointer-events-none">
+          <Link to={`/tests/${question.testId}/questions/${question.id}`} className="pointer-events-auto">
+            <div className="bg-background/90 backdrop-blur-sm p-3 rounded-full shadow-lg">
+              <BookOpenIcon className="h-6 w-6 text-primary" />
+            </div>
+          </Link>
+        </div>
       </CardContent>
     </Card>
   );
@@ -310,9 +319,9 @@ function TestCard({ test }: { test: TestWithStats }) {
   };
 
   return (
-    <Link to={`/tests/${test.id}/questions`}>
-      <Card className="cursor-pointer hover:shadow-md transition-shadow">
-        <CardContent className="p-4">
+    <Card className="cursor-pointer hover:shadow-md transition-shadow relative group">
+      <CardContent className="p-4">
+        <Link to={`/tests/${test.id}/questions`} className="block">
           <h3 className="font-medium mb-2">{test.filename}</h3>
           <div className="flex items-center text-xs text-muted-foreground">
             <ClockIcon className="h-3 w-3 mr-1" />
@@ -335,9 +344,18 @@ function TestCard({ test }: { test: TestWithStats }) {
               <span>Best Score: {test.bestScore}%</span>
             </div>
           )}
-        </CardContent>
-      </Card>
-    </Link>
+        </Link>
+        
+        {/* View questions button as an eye icon */}
+        <div className="absolute top-3 right-3 opacity-0 group-hover:opacity-100 transition-opacity">
+          <Link to={`/tests/${test.id}/questions`}>
+            <Button size="icon" variant="ghost" className="h-8 w-8">
+              <BookOpenIcon className="h-4 w-4" />
+            </Button>
+          </Link>
+        </div>
+      </CardContent>
+    </Card>
   );
 }
 
