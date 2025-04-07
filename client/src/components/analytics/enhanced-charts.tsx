@@ -79,14 +79,14 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
   ];
   
   // Normalize meta-cognitive data for radar chart
-  const total = overallStats.attempts;
+  const total = Math.max(1, overallStats.attempts); // Avoid division by zero
   const metaCognitiveRadarData = [
-    { key: "Knowledge", value: Math.round((overallStats.knowledgeYes / total) * 100) },
-    { key: "Technique", value: Math.round((overallStats.techniqueYes / total) * 100) },
-    { key: "Guesswork", value: Math.round((overallStats.guessworkYes / total) * 100) },
-    { key: "High Confidence", value: Math.round((overallStats.confidenceHigh / total) * 100) },
-    { key: "Mid Confidence", value: Math.round((overallStats.confidenceMid / total) * 100) },
-    { key: "Low Confidence", value: Math.round((overallStats.confidenceLow / total) * 100) },
+    { key: "Knowledge", value: Math.round((overallStats.knowledgeYes / total) * 100) || 0 },
+    { key: "Technique", value: Math.round((overallStats.techniqueYes / total) * 100) || 0 },
+    { key: "Guesswork", value: Math.round((overallStats.guessworkYes / total) * 100) || 0 },
+    { key: "High Confidence", value: Math.round((overallStats.confidenceHigh / total) * 100) || 0 },
+    { key: "Mid Confidence", value: Math.round((overallStats.confidenceMid / total) * 100) || 0 },
+    { key: "Low Confidence", value: Math.round((overallStats.confidenceLow / total) * 100) || 0 },
   ];
   
   // Calculate efficency index per subject (correct answers per unit time)
@@ -181,17 +181,28 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
           <div className="h-64 w-full">
             <ResponsiveContainer width="100%" height="100%">
               <RadarChart outerRadius={90} data={metaCognitiveRadarData}>
-                <PolarGrid />
-                <PolarAngleAxis dataKey="key" />
-                <PolarRadiusAxis domain={[0, 100]} />
+                <PolarGrid strokeDasharray="3 3" />
+                <PolarAngleAxis dataKey="key" tick={{ fill: 'var(--foreground)', fontSize: 12 }} />
+                <PolarRadiusAxis domain={[0, 100]} tick={{ fill: 'var(--foreground)' }} axisLine={{ stroke: 'var(--border)' }} tickLine={{ stroke: 'var(--border)' }} />
                 <Radar
                   name="Percentage"
                   dataKey="value"
                   stroke="#8884d8"
                   fill="#8884d8"
                   fillOpacity={0.6}
+                  animationBegin={0}
+                  animationDuration={1000}
+                  animationEasing="ease-out"
                 />
-                <Tooltip formatter={(value) => [`${value}%`, "Occurrence"]} />
+                <Tooltip 
+                  formatter={(value) => [`${value}%`, "Occurrence"]} 
+                  contentStyle={{ 
+                    backgroundColor: 'var(--card)', 
+                    border: '1px solid var(--border)', 
+                    borderRadius: '6px',
+                    color: 'var(--foreground)'
+                  }}
+                />
               </RadarChart>
             </ResponsiveContainer>
           </div>
@@ -296,25 +307,25 @@ export function EnhancedCharts({ overallStats, subjectStats }: ChartsProps) {
                   {
                     name: "High",
                     correct: overallStats.confidenceHigh > 0 ? 
-                      Math.round((overallStats.knowledgeYes / overallStats.confidenceHigh) * 100) : 0,
+                      Math.min(100, Math.round((overallStats.correct / Math.max(1, overallStats.confidenceHigh)) * 100)) : 0,
                     incorrect: overallStats.confidenceHigh > 0 ? 
-                      100 - Math.round((overallStats.knowledgeYes / overallStats.confidenceHigh) * 100) : 0,
+                      Math.min(100, Math.round((overallStats.incorrect / Math.max(1, overallStats.confidenceHigh)) * 100)) : 0,
                     total: overallStats.confidenceHigh,
                   },
                   {
                     name: "Medium",
                     correct: overallStats.confidenceMid > 0 ? 
-                      Math.round((overallStats.techniqueYes / overallStats.confidenceMid) * 100) : 0,
+                      Math.min(100, Math.round((overallStats.correct / Math.max(1, overallStats.confidenceMid)) * 100)) : 0,
                     incorrect: overallStats.confidenceMid > 0 ? 
-                      100 - Math.round((overallStats.techniqueYes / overallStats.confidenceMid) * 100) : 0,
+                      Math.min(100, Math.round((overallStats.incorrect / Math.max(1, overallStats.confidenceMid)) * 100)) : 0,
                     total: overallStats.confidenceMid,
                   },
                   {
                     name: "Low",
                     correct: overallStats.confidenceLow > 0 ? 
-                      Math.round((overallStats.guessworkYes / overallStats.confidenceLow) * 100) : 0,
+                      Math.min(100, Math.round((overallStats.correct / Math.max(1, overallStats.confidenceLow)) * 100)) : 0,
                     incorrect: overallStats.confidenceLow > 0 ? 
-                      100 - Math.round((overallStats.guessworkYes / overallStats.confidenceLow) * 100) : 0,
+                      Math.min(100, Math.round((overallStats.incorrect / Math.max(1, overallStats.confidenceLow)) * 100)) : 0,
                     total: overallStats.confidenceLow,
                   }
                 ]}

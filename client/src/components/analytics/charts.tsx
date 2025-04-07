@@ -36,10 +36,26 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
   ];
 
   // Data for meta-cognitive bar chart
+  const total = Math.max(1, overallStats.attempts); // Avoid division by zero
   const metaCognitiveData = [
-    { name: "Knowledge", yes: overallStats.knowledgeYes, no: overallStats.attempts - overallStats.knowledgeYes },
-    { name: "Technique", yes: overallStats.techniqueYes, no: overallStats.attempts - overallStats.techniqueYes },
-    { name: "Guesswork", yes: overallStats.guessworkYes, no: overallStats.attempts - overallStats.guessworkYes },
+    { 
+      name: "Knowledge", 
+      yes: overallStats.knowledgeYes, 
+      no: overallStats.attempts - overallStats.knowledgeYes,
+      percentage: Math.round((overallStats.knowledgeYes / total) * 100)
+    },
+    { 
+      name: "Technique", 
+      yes: overallStats.techniqueYes, 
+      no: overallStats.attempts - overallStats.techniqueYes,
+      percentage: Math.round((overallStats.techniqueYes / total) * 100)
+    },
+    { 
+      name: "Guesswork", 
+      yes: overallStats.guessworkYes, 
+      no: overallStats.attempts - overallStats.guessworkYes,
+      percentage: Math.round((overallStats.guessworkYes / total) * 100)
+    },
   ];
   
   // Data for subject performance radar chart
@@ -199,7 +215,13 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
                 <CartesianGrid strokeDasharray="3 3" />
                 <XAxis dataKey="name" />
                 <YAxis />
-                <Tooltip />
+                <Tooltip 
+                  formatter={(value, name) => [
+                    value, 
+                    name === "yes" ? "Yes" : name === "no" ? "No" : name === "percentage" ? "Percentage" : name
+                  ]} 
+                  labelFormatter={(label) => `${label} (${metaCognitiveData.find(d => d.name === label)?.percentage || 0}%)`}
+                />
                 <Legend />
                 <Bar dataKey="yes" name="Yes" stackId="a" fill="#30D158" />
                 <Bar dataKey="no" name="No" stackId="a" fill="#FF453A" />
@@ -217,15 +239,23 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
             <ResponsiveContainer width="100%" height="100%">
               <RadarChart cx="50%" cy="50%" outerRadius="80%" data={radarData}>
                 <PolarGrid strokeDasharray="3 3" />
-                <PolarAngleAxis dataKey="subject" />
-                <PolarRadiusAxis domain={[0, 100]} />
+                <PolarAngleAxis dataKey="subject" tick={{ fill: 'var(--foreground)', fontSize: 12 }} />
+                <PolarRadiusAxis domain={[0, 100]} tick={{ fill: 'var(--foreground)' }} />
                 <Radar name="Accuracy" dataKey="accuracy" stroke="#0A84FF" fill="#0A84FF" fillOpacity={0.6} />
                 <Radar name="Score" dataKey="score" stroke="#30D158" fill="#30D158" fillOpacity={0.6} />
                 <Radar name="Speed" dataKey="speed" stroke="#FF9F0A" fill="#FF9F0A" fillOpacity={0.6} />
                 <Radar name="Confidence" dataKey="confidence" stroke="#BF5AF2" fill="#BF5AF2" fillOpacity={0.6} />
                 <Radar name="Knowledge" dataKey="knowledge" stroke="#FF2D55" fill="#FF2D55" fillOpacity={0.6} />
                 <Legend />
-                <Tooltip />
+                <Tooltip 
+                  formatter={(value) => [`${value}%`, ""]} 
+                  contentStyle={{ 
+                    backgroundColor: 'var(--card)', 
+                    border: '1px solid var(--border)', 
+                    borderRadius: '6px',
+                    color: 'var(--foreground)'
+                  }}
+                />
               </RadarChart>
             </ResponsiveContainer>
           </div>
