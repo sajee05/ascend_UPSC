@@ -3,9 +3,10 @@ import { TestSummary } from "@/components/analytics/test-summary";
 import { Charts } from "@/components/analytics/charts";
 import { PerformanceTable } from "@/components/analytics/performance-table";
 import { AIInsights } from "@/components/analytics/ai-insights";
+import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
 import { Button } from "@/components/ui/button";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, RefreshCw, BarChart3, ListIcon, Download } from "lucide-react";
+import { Cog, Moon, Sun, RefreshCw, BarChart3, ListIcon, Download, History } from "lucide-react";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
 import { useQuery } from "@tanstack/react-query";
@@ -173,6 +174,18 @@ export default function TestAnalyticsPage() {
             overallStats={analytics.overallStats} 
             subjectStats={analytics.subjectStats} 
           />
+          
+          {/* Attempt Tracking Charts */}
+          <div className="mt-8 mb-4">
+            <h2 className="text-2xl font-bold flex items-center gap-2 mb-4">
+              <History className="h-5 w-5 text-primary" />
+              Attempt Tracking Analytics
+            </h2>
+            <p className="text-muted-foreground mb-6">
+              Track your performance across multiple attempts and see how you improve over time.
+            </p>
+            <AttemptTrackingCharts stats={analytics.overallStats} />
+          </div>
           
           {/* Detailed Analytics Table */}
           <PerformanceTable 

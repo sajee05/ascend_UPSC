@@ -2,11 +2,12 @@ import { useState, useEffect } from "react";
 import { useLocation } from "wouter";
 import { FilterControls, AnalyticsFilter } from "@/components/analytics/filter-controls";
 import { AIInsights } from "@/components/analytics/ai-insights";
+import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, Home } from "lucide-react";
+import { Cog, Moon, Sun, Home, History } from "lucide-react";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
 import { useQuery } from "@tanstack/react-query";
@@ -88,6 +89,20 @@ export default function OverallAnalyticsPage() {
         knowledgeYes: filtered.reduce((sum, stat) => sum + stat.knowledgeYes, 0),
         techniqueYes: filtered.reduce((sum, stat) => sum + stat.techniqueYes, 0),
         guessworkYes: filtered.reduce((sum, stat) => sum + stat.guessworkYes, 0),
+        // Aggregate attempt tracking data
+        firstAttemptCorrect: filtered.reduce((sum, stat) => sum + (stat.firstAttemptCorrect || 0), 0),
+        secondAttemptCorrect: filtered.reduce((sum, stat) => sum + (stat.secondAttemptCorrect || 0), 0),
+        thirdPlusAttemptCorrect: filtered.reduce((sum, stat) => sum + (stat.thirdPlusAttemptCorrect || 0), 0),
+        attemptDistribution: filtered.reduce((result, stat) => {
+          // Combine attempt distributions across all subjects
+          if (stat.attemptDistribution) {
+            Object.entries(stat.attemptDistribution).forEach(([attempt, count]) => {
+              const attemptNum = parseInt(attempt);
+              result[attemptNum] = (result[attemptNum] || 0) + count;
+            });
+          }
+          return result;
+        }, {} as {[key: number]: number}),
       };
       
       // Calculate accuracy
@@ -325,6 +340,25 @@ export default function OverallAnalyticsPage() {
               </CardContent>
             </Card>
           </motion.div>
+          
+          {/* Attempt Tracking Charts */}
+          {overallStats && (
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.35 }}
+              className="mb-8"
+            >
+              <h2 className="text-xl font-medium mb-4 flex items-center gap-2">
+                <History className="h-5 w-5 text-primary" />
+                Attempt Tracking Analytics
+              </h2>
+              <p className="text-muted-foreground mb-4">
+                Analyze how your performance varies across multiple attempt numbers and identify areas for improvement.
+              </p>
+              <AttemptTrackingCharts stats={overallStats} />
+            </motion.div>
+          )}
           
           {/* AI Insights */}
           {overallStats && (

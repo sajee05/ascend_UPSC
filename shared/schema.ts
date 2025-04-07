@@ -124,6 +124,7 @@ export const userAnswers = pgTable("user_answers", {
   techniqueFlag: boolean("technique_flag"),
   guessworkFlag: boolean("guesswork_flag"),
   confidenceLevel: text("confidence_level"), // 'high', 'mid', 'low'
+  attemptNumber: integer("attempt_number").default(1), // Number of times user has seen this question (1=first attempt, 2=second attempt, etc.)
   timestamp: timestamp("timestamp").defaultNow(),
 });
 
@@ -220,6 +221,11 @@ export type SubjectStats = {
   knowledgeYes: number;
   techniqueYes: number;
   guessworkYes: number;
+  // Attempt breakdown
+  firstAttemptCorrect: number;  // Correct on first attempt
+  secondAttemptCorrect: number; // Correct on second attempt
+  thirdPlusAttemptCorrect: number; // Correct on third or later attempts
+  attemptDistribution: {[key: number]: number}; // Map of attempt number to count
 };
 
 export type TestAnalytics = {

@@ -251,12 +251,38 @@ export class MemStorage implements IStorage {
   // User Answer methods
   async createUserAnswer(answerData: InsertUserAnswer): Promise<UserAnswer> {
     const id = this.currentUserAnswerId++;
+    
+    // Check if there's a previous attempt for this question in this test
+    let attemptNumber = 1;
+    
+    // First, find the current attempt
+    const attempt = this.attempts.get(answerData.attemptId);
+    
+    if (attempt) {
+      // Get all previous attempts for this test
+      const previousAttempts = Array.from(this.attempts.values())
+        .filter(a => a.testId === attempt.testId && a.id < answerData.attemptId);
+      
+      // Count how many times this question has been attempted before
+      if (previousAttempts.length > 0) {
+        const previousAnswers = Array.from(this.userAnswers.values())
+          .filter(a => a.questionId === answerData.questionId &&
+                  previousAttempts.some(pa => pa.id === a.attemptId));
+                  
+        if (previousAnswers.length > 0) {
+          attemptNumber = previousAnswers.length + 1;
+        }
+      }
+    }
+    
     const now = new Date();
     const answer: UserAnswer = {
       ...answerData,
       id,
+      attemptNumber,
       timestamp: dateToString(now) || now.toISOString(),
     };
+    
     this.userAnswers.set(id, answer);
     
     // If this is an incorrect answer, automatically create a flashcard
@@ -384,6 +410,18 @@ export class MemStorage implements IStorage {
       const totalTime = filteredAnswers.reduce((sum, a) => sum + (a.answerTimeSeconds || 0), 0);
       const avgTime = filteredAnswers.length > 0 ? totalTime / filteredAnswers.length : 0;
       
+      // Calculate attempt-based statistics
+      const firstAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
+      const secondAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
+      const thirdPlusAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
+      
+      // Distribution of attempt numbers
+      const attemptDistribution: {[key: number]: number} = {};
+      filteredAnswers.forEach(answer => {
+        const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
+        attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
+      });
+      
       return {
         subject: '',  // Will be set by caller
         attempts: filteredAnswers.length,
@@ -400,6 +438,11 @@ export class MemStorage implements IStorage {
         knowledgeYes,
         techniqueYes,
         guessworkYes,
+        // New attempt-based stats
+        firstAttemptCorrect,
+        secondAttemptCorrect,
+        thirdPlusAttemptCorrect,
+        attemptDistribution,
       };
     };
     
@@ -450,7 +493,19 @@ export class MemStorage implements IStorage {
       }
     }
     
-    return {
+    // Calculate attempt-based statistics
+      const firstAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
+      const secondAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
+      const thirdPlusAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
+      
+      // Distribution of attempt numbers
+      const attemptDistribution: {[key: number]: number} = {};
+      filteredAnswers.forEach(answer => {
+        const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
+        attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
+      });
+      
+      return {
       testId: test.id,
       attemptId,
       title: test.title,
@@ -545,6 +600,11 @@ export class MemStorage implements IStorage {
           knowledgeYes,
           techniqueYes,
           guessworkYes,
+        // New attempt-based stats
+        firstAttemptCorrect,
+        secondAttemptCorrect,
+        thirdPlusAttemptCorrect,
+        attemptDistribution,
         });
       }
     }
@@ -796,9 +856,31 @@ export class DatabaseStorage implements IStorage {
   // User Answer methods
   async createUserAnswer(answerData: InsertUserAnswer): Promise<UserAnswer> {
     try {
+      // Check if there are existing answers for this question in this attempt
+      // to determine the attempt number
+      let attemptNumber = 1; // Default is first attempt
+      
+      if (answerData.questionId && answerData.attemptId) {
+        const existingAnswers = await db.select({ count: sql<number>`count(*)` })
+          .from(userAnswers)
+          .where(
+            and(
+              eq(userAnswers.questionId, answerData.questionId),
+              eq(userAnswers.attemptId, answerData.attemptId)
+            )
+          );
+        
+        // If there are existing answers, increment the attempt number
+        if (existingAnswers.length > 0 && existingAnswers[0].count > 0) {
+          attemptNumber = existingAnswers[0].count + 1;
+        }
+      }
+      
+      // Insert the new answer with the calculated attempt number
       const [answer] = await db.insert(userAnswers)
         .values({
           ...answerData,
+          attemptNumber,
           // Let the database handle timestamp with defaultNow()
           // Don't include explicit timestamp field
         })
@@ -946,6 +1028,18 @@ export class DatabaseStorage implements IStorage {
       const totalTime = filteredAnswers.reduce((sum, a) => sum + (a.answerTimeSeconds || 0), 0);
       const avgTime = filteredAnswers.length > 0 ? totalTime / filteredAnswers.length : 0;
       
+      // Calculate attempt-based statistics
+      const firstAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
+      const secondAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
+      const thirdPlusAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
+      
+      // Distribution of attempt numbers
+      const attemptDistribution: {[key: number]: number} = {};
+      filteredAnswers.forEach(answer => {
+        const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
+        attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
+      });
+      
       return {
         subject: '',  // Will be set by caller
         attempts: filteredAnswers.length,
@@ -962,6 +1056,11 @@ export class DatabaseStorage implements IStorage {
         knowledgeYes,
         techniqueYes,
         guessworkYes,
+        // New attempt-based stats
+        firstAttemptCorrect,
+        secondAttemptCorrect,
+        thirdPlusAttemptCorrect,
+        attemptDistribution,
       };
     };
     
@@ -1017,7 +1116,19 @@ export class DatabaseStorage implements IStorage {
       }
     }
     
-    return {
+    // Calculate attempt-based statistics
+      const firstAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
+      const secondAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
+      const thirdPlusAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
+      
+      // Distribution of attempt numbers
+      const attemptDistribution: {[key: number]: number} = {};
+      filteredAnswers.forEach(answer => {
+        const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
+        attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
+      });
+      
+      return {
       testId: test.id,
       attemptId,
       title: test.title,
@@ -1137,6 +1248,11 @@ export class DatabaseStorage implements IStorage {
             knowledgeYes,
             techniqueYes,
             guessworkYes,
+        // New attempt-based stats
+        firstAttemptCorrect,
+        secondAttemptCorrect,
+        thirdPlusAttemptCorrect,
+        attemptDistribution,
           });
         }
       }
