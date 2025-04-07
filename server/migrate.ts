@@ -56,7 +56,7 @@ const defaultTopics = [
 ];
 
 // Function to initialize the database with default data
-async function initializeDatabase() {
+export async function initializeDatabase() {
   try {
     // Create tables if they don't exist
     logger("Creating tables if they don't exist...", "migration");
