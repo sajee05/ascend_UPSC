@@ -493,25 +493,17 @@ export class MemStorage implements IStorage {
       }
     }
     
-    // Calculate attempt-based statistics
-      const firstAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
-      const secondAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
-      const thirdPlusAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
+    // Calculate overall stats using all answers
+    const memOverallStats = calculateStats(answers);
+    memOverallStats.subject = 'Overall';
       
-      // Distribution of attempt numbers
-      const attemptDistribution: {[key: number]: number} = {};
-      filteredAnswers.forEach(answer => {
-        const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
-        attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
-      });
-      
-      return {
+    return {
       testId: test.id,
       attemptId,
       title: test.title,
       date: dateToString(attempt.startTime) || "",
       totalTimeSeconds: attempt.totalTimeSeconds || 0,
-      overallStats,
+      memOverallStats,
       subjectStats,
     };
   }
@@ -1116,19 +1108,11 @@ export class DatabaseStorage implements IStorage {
       }
     }
     
-    // Calculate attempt-based statistics
-      const firstAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 1).length;
-      const secondAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber === 2).length;
-      const thirdPlusAttemptCorrect = filteredAnswers.filter(a => a.isCorrect && a.attemptNumber && a.attemptNumber >= 3).length;
+    // Calculate overall stats using all answers
+    const dbOverallStats = calculateStats(answers);
+    dbOverallStats.subject = 'Overall';
       
-      // Distribution of attempt numbers
-      const attemptDistribution: {[key: number]: number} = {};
-      filteredAnswers.forEach(answer => {
-        const attemptNum = answer.attemptNumber || 1; // Default to 1 if not set
-        attemptDistribution[attemptNum] = (attemptDistribution[attemptNum] || 0) + 1;
-      });
-      
-      return {
+    return {
       testId: test.id,
       attemptId,
       title: test.title,
