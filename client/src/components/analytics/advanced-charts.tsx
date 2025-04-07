@@ -154,9 +154,13 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
         (Math.max(0, subject.confidenceHigh - subject.correct) / Math.max(1, subject.confidenceHigh)) * 100
       )) : 100;
       
+    const subjectName = typeof subject.subject === 'string' 
+      ? subject.subject 
+      : subject.subject.name;
+    
     return {
-      name: subject.subject.length > 10 ? `${subject.subject.slice(0, 10)}...` : subject.subject,
-      fullName: subject.subject,
+      name: subjectName.length > 10 ? `${subjectName.slice(0, 10)}...` : subjectName,
+      fullName: subjectName,
       score: carelessnessScore,
       value: subject.attempts
     };

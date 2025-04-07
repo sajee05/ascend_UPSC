@@ -78,7 +78,10 @@ export default function OverallAnalyticsPage() {
     
     // Apply subject filter
     if (filters.subjects.length > 0) {
-      filtered = filtered.filter(stat => filters.subjects.includes(stat.subject));
+      filtered = filtered.filter(stat => {
+        const subjectName = typeof stat.subject === 'string' ? stat.subject : stat.subject.name;
+        return filters.subjects.includes(subjectName);
+      });
     }
     
     // Apply date range filter (would be applied in a real implementation)
@@ -383,7 +386,10 @@ export default function OverallAnalyticsPage() {
                       margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
                     >
                       <CartesianGrid strokeDasharray="3 3" />
-                      <XAxis dataKey="subject" />
+                      <XAxis 
+                        dataKey={(entry: any) => typeof entry.subject === 'string' ? entry.subject : entry.subject.name}
+                        name="Subject" 
+                      />
                       <YAxis domain={[0, 100]} unit="%" />
                       <Tooltip 
                         formatter={(value: any): [string, string] => [`${value}%`, "Accuracy"]}
@@ -486,32 +492,37 @@ export default function OverallAnalyticsPage() {
                       </TableRow>
                     </TableHeader>
                     <TableBody>
-                      {filteredStats.map((stat) => (
-                        <TableRow key={stat.subject}>
-                          <TableCell className="font-medium">{stat.subject}</TableCell>
-                          <TableCell>{stat.attempts}</TableCell>
-                          <TableCell>{formatPercentage(stat.accuracy)}</TableCell>
-                          <TableCell>{stat.score.toFixed(1)}</TableCell>
-                          <TableCell>{Math.round(stat.avgTimeSeconds)}s</TableCell>
-                          <TableCell>
-                            {getConfidenceEmoji('high')}{Math.round((stat.confidenceHigh / stat.attempts) * 100)}%{' '}
-                            {getConfidenceEmoji('mid')}{Math.round((stat.confidenceMid / stat.attempts) * 100)}%{' '}
-                            {getConfidenceEmoji('low')}{Math.round((stat.confidenceLow / stat.attempts) * 100)}%
-                          </TableCell>
-                          <TableCell>
-                            {getYesNoEmoji(true)}{Math.round((stat.knowledgeYes / stat.attempts) * 100)}%
-                          </TableCell>
-                          <TableCell>
-                            {getYesNoEmoji(true)}{Math.round((stat.techniqueYes / stat.attempts) * 100)}%
-                          </TableCell>
-                          <TableCell>
-                            {getYesNoEmoji(true)}{Math.round((stat.guessworkYes / stat.attempts) * 100)}%
-                          </TableCell>
-                        </TableRow>
-                      ))}
+                      {filteredStats.map((stat) => {
+                        const subjectName = typeof stat.subject === 'string' ? stat.subject : stat.subject.name;
+                        const subjectId = typeof stat.subject === 'string' ? stat.subject : stat.subject.id.toString();
+                        
+                        return (
+                          <TableRow key={subjectId}>
+                            <TableCell className="font-medium">{subjectName}</TableCell>
+                            <TableCell>{stat.attempts}</TableCell>
+                            <TableCell>{formatPercentage(stat.accuracy)}</TableCell>
+                            <TableCell>{stat.score.toFixed(1)}</TableCell>
+                            <TableCell>{Math.round(stat.avgTimeSeconds)}s</TableCell>
+                            <TableCell>
+                              {getConfidenceEmoji('high')}{Math.round((stat.confidenceHigh / stat.attempts) * 100)}%{' '}
+                              {getConfidenceEmoji('mid')}{Math.round((stat.confidenceMid / stat.attempts) * 100)}%{' '}
+                              {getConfidenceEmoji('low')}{Math.round((stat.confidenceLow / stat.attempts) * 100)}%
+                            </TableCell>
+                            <TableCell>
+                              {getYesNoEmoji(true)}{Math.round((stat.knowledgeYes / stat.attempts) * 100)}%
+                            </TableCell>
+                            <TableCell>
+                              {getYesNoEmoji(true)}{Math.round((stat.techniqueYes / stat.attempts) * 100)}%
+                            </TableCell>
+                            <TableCell>
+                              {getYesNoEmoji(true)}{Math.round((stat.guessworkYes / stat.attempts) * 100)}%
+                            </TableCell>
+                          </TableRow>
+                        );
+                      })}
                       {overallStats && (
                         <TableRow className="font-semibold bg-muted/50">
-                          <TableCell>{overallStats.subject}</TableCell>
+                          <TableCell>{typeof overallStats.subject === 'string' ? overallStats.subject : overallStats.subject.name}</TableCell>
                           <TableCell>{overallStats.attempts}</TableCell>
                           <TableCell>{formatPercentage(overallStats.accuracy)}</TableCell>
                           <TableCell>{overallStats.score.toFixed(1)}</TableCell>

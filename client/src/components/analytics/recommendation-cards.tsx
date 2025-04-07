@@ -40,12 +40,16 @@ export function RecommendationCards({ overallStats, subjectStats }: Recommendati
     // Lowest accuracy subject recommendation
     if (sortedByAccuracy.length > 0) {
       const lowestAccuracy = sortedByAccuracy[0];
+      const subjectName = typeof lowestAccuracy.subject === 'string' 
+        ? lowestAccuracy.subject 
+        : lowestAccuracy.subject.name;
+        
       if (lowestAccuracy.accuracy < 60) {
         initialRecommendations.push({
-          title: `${lowestAccuracy.subject} Needs Attention`,
-          content: `Your accuracy in ${lowestAccuracy.subject} is ${lowestAccuracy.accuracy.toFixed(1)}%, the lowest among all subjects. Consider dedicating more study time to strengthen your fundamentals.`,
+          title: `${subjectName} Needs Attention`,
+          content: `Your accuracy in ${subjectName} is ${lowestAccuracy.accuracy.toFixed(1)}%, the lowest among all subjects. Consider dedicating more study time to strengthen your fundamentals.`,
           priority: 'high',
-          subject: lowestAccuracy.subject
+          subject: subjectName
         });
       }
     }
@@ -60,11 +64,15 @@ export function RecommendationCards({ overallStats, subjectStats }: Recommendati
         (a, b) => (b.guessworkYes / Math.max(1, b.attempts)) - (a.guessworkYes / Math.max(1, a.attempts))
       )[0];
       
+      const subjectName = typeof highestGuesswork.subject === 'string' 
+        ? highestGuesswork.subject 
+        : highestGuesswork.subject.name;
+      
       initialRecommendations.push({
-        title: `${highestGuesswork.subject} Guesswork Analysis`,
-        content: `${Math.round((highestGuesswork.guessworkYes / Math.max(1, highestGuesswork.attempts)) * 100)}% of your ${highestGuesswork.subject} answers involve guesswork. Focus on building a stronger knowledge foundation in this area.`,
+        title: `${subjectName} Guesswork Analysis`,
+        content: `${Math.round((highestGuesswork.guessworkYes / Math.max(1, highestGuesswork.attempts)) * 100)}% of your ${subjectName} answers involve guesswork. Focus on building a stronger knowledge foundation in this area.`,
         priority: 'medium',
-        subject: highestGuesswork.subject
+        subject: subjectName
       });
     }
     
@@ -78,11 +86,15 @@ export function RecommendationCards({ overallStats, subjectStats }: Recommendati
         (a, b) => b.avgTimeSeconds - a.avgTimeSeconds
       )[0];
       
+      const subjectName = typeof slowestSubject.subject === 'string' 
+        ? slowestSubject.subject 
+        : slowestSubject.subject.name;
+      
       initialRecommendations.push({
-        title: `Time Management for ${slowestSubject.subject}`,
-        content: `You're taking an average of ${Math.round(slowestSubject.avgTimeSeconds)} seconds per question in ${slowestSubject.subject}, which is considerably high. Practice timed exercises to improve your speed.`,
+        title: `Time Management for ${subjectName}`,
+        content: `You're taking an average of ${Math.round(slowestSubject.avgTimeSeconds)} seconds per question in ${subjectName}, which is considerably high. Practice timed exercises to improve your speed.`,
         priority: 'medium',
-        subject: slowestSubject.subject
+        subject: subjectName
       });
     }
     
@@ -94,11 +106,15 @@ export function RecommendationCards({ overallStats, subjectStats }: Recommendati
     
     if (overconfidentSubjects.length > 0) {
       const mostOverconfident = overconfidentSubjects[0];
+      const subjectName = typeof mostOverconfident.subject === 'string' 
+        ? mostOverconfident.subject 
+        : mostOverconfident.subject.name;
+      
       initialRecommendations.push({
-        title: `Overconfidence in ${mostOverconfident.subject}`,
-        content: `You have high confidence in ${mostOverconfident.subject} (${Math.round((mostOverconfident.confidenceHigh / Math.max(1, mostOverconfident.attempts)) * 100)}% of questions), but your accuracy is only ${mostOverconfident.accuracy.toFixed(1)}%. Work on validating your knowledge with more practice.`,
+        title: `Overconfidence in ${subjectName}`,
+        content: `You have high confidence in ${subjectName} (${Math.round((mostOverconfident.confidenceHigh / Math.max(1, mostOverconfident.attempts)) * 100)}% of questions), but your accuracy is only ${mostOverconfident.accuracy.toFixed(1)}%. Work on validating your knowledge with more practice.`,
         priority: 'high',
-        subject: mostOverconfident.subject
+        subject: subjectName
       });
     }
     

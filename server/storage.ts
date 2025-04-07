@@ -1397,8 +1397,6 @@ export class DatabaseStorage implements IStorage {
     
     // Stats by subject
     for (const subject of subjectTags) {
-    // Stats by subject
-    for (const subject of subjectTags) {
       // Get questions with this subject (check both new schema and old tags)
       const subjectQuestionIds = questions
         .filter(q => {
@@ -1491,28 +1489,58 @@ export class DatabaseStorage implements IStorage {
       left: sql`COUNT(CASE WHEN ${userAnswers.isLeft} = true THEN 1 END)::integer`
     }).from(userAnswers);
     
-    // Get all subjects (non-AI-generated tags)
+    // Get all subjects (from new schema, fall back to tags if needed)
+    const subjectsResult = await db.select()
+      .from(subjects)
+      .where(eq(subjects.isActive, true));
+    
+    const subjectNames = subjectsResult.map(s => s.name);
+    
+    // For backward compatibility, also get subject tags
     const subjectTagsResult = await db.select({ tagName: tags.tagName })
       .from(tags)
       .where(eq(tags.isAIGenerated, false))
       .groupBy(tags.tagName);
     
-    const subjectTags = subjectTagsResult.map(t => t.tagName);
+    // Combine subjects from both sources, removing duplicates
+    const subjectTags = [...new Set([...subjectNames, ...subjectTagsResult.map(t => t.tagName)])];
     
     // Stats by subject
     const subjectStats: SubjectStats[] = [];
     
     for (const subject of subjectTags) {
-      // Get questions with this subject tag
-      const questionsWithTag = await db.select()
-        .from(questions)
-        .innerJoin(tags, eq(questions.id, tags.questionId))
-        .where(and(
-          eq(tags.tagName, subject),
-          eq(tags.isAIGenerated, false)
-        ));
+      // Try to get questions from the subjects table first (new schema)
+      let questionIds: number[] = [];
       
-      const questionIds = questionsWithTag.map(q => q.questions.id);
+      // Look up the subject in the subjects table
+      const subjectRecord = await db.select()
+        .from(subjects)
+        .where(eq(subjects.name, subject))
+        .limit(1);
+        
+      if (subjectRecord.length > 0) {
+        // Get questions with this subject using the new schema
+        const questionsWithSubject = await db.select({
+          questionId: questionSubjects.questionId
+        })
+        .from(questionSubjects)
+        .where(eq(questionSubjects.subjectId, subjectRecord[0].id));
+        
+        questionIds = questionsWithSubject.map(q => q.questionId);
+      }
+      
+      // If no questions found, fall back to tags
+      if (questionIds.length === 0) {
+        const questionsWithTag = await db.select()
+          .from(questions)
+          .innerJoin(tags, eq(questions.id, tags.questionId))
+          .where(and(
+            eq(tags.tagName, subject),
+            eq(tags.isAIGenerated, false)
+          ));
+        
+        questionIds = questionsWithTag.map(q => q.questions.id);
+      }
       
       if (questionIds.length > 0) {
         // Get answers for these questions
@@ -1651,8 +1679,23 @@ export class DatabaseStorage implements IStorage {
       // Back side: correct answer with explanation
       const back = `${question.correctAnswerText}`;
       
-      // Tags: all tags as comma-separated string
-      const tagString = question.tags.map(t => t.tagName).join(',');
+      // Get tags from both the new schema (subjects/topics) and traditional tags
+      let allTags: string[] = [];
+      
+      // Add subjects and topics if available (new schema)
+      if (question.subjects && question.subjects.length > 0) {
+        allTags = [...allTags, ...question.subjects.map(s => s.name)];
+      }
+      
+      if (question.topics && question.topics.length > 0) {
+        allTags = [...allTags, ...question.topics.map(t => t.name)];
+      }
+      
+      // Add traditional tags
+      allTags = [...allTags, ...question.tags.map(t => t.tagName)];
+      
+      // Remove duplicates and join
+      const tagString = [...new Set(allTags)].join(',');
       
       return {
         front,

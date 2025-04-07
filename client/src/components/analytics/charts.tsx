@@ -23,9 +23,13 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
 
   // Data for subject accuracy bar chart
   const subjectAccuracyData = [...subjectStats]
-    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .sort((a, b) => {
+      const aName = typeof a.subject === 'string' ? a.subject : a.subject.name;
+      const bName = typeof b.subject === 'string' ? b.subject : b.subject.name;
+      return aName.localeCompare(bName);
+    })
     .map(subject => ({
-      name: subject.subject,
+      name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
       accuracy: parseFloat(subject.accuracy.toFixed(1)),
       color: "#0A84FF",
     }));
@@ -62,10 +66,14 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
   
   // Data for subject performance radar chart
   const radarData = [...subjectStats]
-    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .sort((a, b) => {
+      const aName = typeof a.subject === 'string' ? a.subject : a.subject.name;
+      const bName = typeof b.subject === 'string' ? b.subject : b.subject.name;
+      return aName.localeCompare(bName);
+    })
     .map(subject => {
       const data = {
-        subject: subject.subject,
+        subject: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
         accuracy: parseFloat(subject.accuracy.toFixed(1)),
         score: parseFloat((subject.score * 10).toFixed(1)),
         speed: 100 - Math.min(100, parseFloat((subject.avgTimeSeconds / 2).toFixed(1))),
@@ -77,9 +85,13 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
   
   // Data for subject comparison chart
   const subjectComparisonData = [...subjectStats]
-    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .sort((a, b) => {
+      const aName = typeof a.subject === 'string' ? a.subject : a.subject.name;
+      const bName = typeof b.subject === 'string' ? b.subject : b.subject.name;
+      return aName.localeCompare(bName);
+    })
     .map(subject => ({
-      name: subject.subject,
+      name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
       accuracy: parseFloat(subject.accuracy.toFixed(1)),
       score: parseFloat((subject.score * 10).toFixed(1)),
       avgTime: parseFloat(subject.avgTimeSeconds.toFixed(0)),
@@ -88,9 +100,13 @@ export function Charts({ overallStats, subjectStats }: ChartsProps) {
   
   // Data for time-speed analysis
   const timeSpeedData = [...subjectStats]
-    .sort((a, b) => a.subject.localeCompare(b.subject))
+    .sort((a, b) => {
+      const aName = typeof a.subject === 'string' ? a.subject : a.subject.name;
+      const bName = typeof b.subject === 'string' ? b.subject : b.subject.name;
+      return aName.localeCompare(bName);
+    })
     .map(subject => ({
-      name: subject.subject,
+      name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
       avgTime: subject.avgTimeSeconds,
       accuracy: subject.accuracy,
       size: subject.attempts * 5, // Circle size proportional to number of questions
