@@ -581,8 +581,8 @@ export async function registerRoutes(app: Express): Promise<Server> {
         if (type === "postgresql") {
           try {
             // Test the connection with a simple query
-            const { Pool } = await import('pg');
-            const pool = new Pool({
+            const pg = await import('pg');
+            const pool = new pg.Pool({
               connectionString: connectionString,
             });
             

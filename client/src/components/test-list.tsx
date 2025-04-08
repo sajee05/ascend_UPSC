@@ -342,15 +342,34 @@ export function TestList() {
     return (
       <Card className="bg-red-50 dark:bg-red-900/20 border-red-200 dark:border-red-800">
         <CardContent className="p-4">
-          <p className="text-red-600 dark:text-red-400">Error loading tests: {(error as Error).message}</p>
-          <Button 
-            variant="outline" 
-            size="sm" 
-            className="mt-2"
-            onClick={() => queryClient.invalidateQueries({ queryKey: ["/api/tests"] })}
-          >
-            Retry
-          </Button>
+          <p className="text-red-600 dark:text-red-400">
+            Error loading tests. Please try configuring the database in settings.
+            {process.env.NODE_ENV === 'development' && 
+              <span className="block mt-1 text-xs"> Error details: {(error as Error).message}</span>
+            }
+          </p>
+          <div className="flex space-x-2 mt-3">
+            <Button 
+              variant="default" 
+              size="sm"
+              onClick={() => {
+                // Open settings panel to database configuration section
+                import("@/hooks/use-ui-state").then(({ useUIState }) => {
+                  const { updateUIState } = useUIState.getState();
+                  updateUIState({ settingsPanelOpen: true });
+                });
+              }}
+            >
+              Configure Database
+            </Button>
+            <Button 
+              variant="outline" 
+              size="sm"
+              onClick={() => queryClient.invalidateQueries({ queryKey: ["/api/tests"] })}
+            >
+              Retry
+            </Button>
+          </div>
         </CardContent>
       </Card>
     );

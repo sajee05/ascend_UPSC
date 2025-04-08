@@ -1,6 +1,8 @@
 import express, { type Request, Response, NextFunction } from "express";
 import { registerRoutes } from "./routes";
 import { setupVite, serveStatic, log } from "./vite";
+import { initializeDatabase } from "./database-switcher";
+import { logger } from "./logger";
 
 const app = express();
 // Increase JSON payload size limit to 50MB to handle large test files
@@ -37,7 +39,34 @@ app.use((req, res, next) => {
   next();
 });
 
+// Initialize database based on environment
+async function setupDatabase() {
+  try {
+    // Check if we are in portable mode - default to SQLite
+    const isPortableMode = process.env.PORTABLE_MODE === "true";
+    const dbType = process.env.DB_TYPE || (isPortableMode ? "sqlite" : "postgresql");
+    
+    logger(`Database type detected: ${dbType}, portable mode: ${isPortableMode}`, "database");
+    
+    // If portable mode is enabled, force SQLite
+    if (isPortableMode) {
+      process.env.DB_TYPE = "sqlite";
+      logger("Portable mode detected, using SQLite database", "database");
+    }
+    
+    // Initialize database
+    await initializeDatabase();
+    logger("Database initialized successfully", "database");
+  } catch (error) {
+    logger(`Error initializing database: ${error}`, "database");
+    console.error("Database initialization error:", error);
+  }
+}
+
 (async () => {
+  // Initialize database before setting up server
+  await setupDatabase();
+  
   const server = await registerRoutes(app);
 
   app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
