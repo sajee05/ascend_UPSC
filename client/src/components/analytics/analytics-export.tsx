@@ -12,9 +12,13 @@ import {
   FileImage,
   Share,
   Sparkles,
-  Camera
+  Camera,
+  FileDown,
+  FileType,
+  FileSpreadsheet
 } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
+import { downloadCSV, generateCSV, generateFileName } from "@/lib/utils";
 
 interface AnalyticsExportProps {
   testTitle: string;
@@ -27,6 +31,80 @@ export function AnalyticsExport({ testTitle, testDate, overallStats, subjectStat
   const [exportType, setExportType] = useState<string>("infographic");
   const exportRef = useRef<HTMLDivElement>(null);
   const { toast } = useToast();
+  
+  // Function to export performance data as CSV
+  const handleExportCSV = () => {
+    try {
+      // Format the data for CSV export
+      // First, prepare the overall statistics
+      const overallData = {
+        "Test Title": testTitle,
+        "Test Date": new Date(testDate).toLocaleDateString(),
+        "Overall Accuracy": `${overallStats.accuracy.toFixed(1)}%`,
+        "Overall Score": overallStats.score,
+        "Total Questions": overallStats.attempts,
+        "Correct Answers": overallStats.correct,
+        "Average Time": `${overallStats.avgTimeSeconds.toFixed(1)} sec`
+      };
+      
+      // Create CSV header for overall data
+      let csvData = "OVERALL PERFORMANCE\n";
+      for (const [key, value] of Object.entries(overallData)) {
+        csvData += `${key},${value}\n`;
+      }
+      csvData += "\n\n";
+      
+      // Add metacognitive data
+      csvData += "METACOGNITIVE ANALYSIS\n";
+      csvData += "Type,Percentage\n";
+      
+      const knowledgePct = Math.round((overallStats.knowledgeYes / Math.max(1, overallStats.attempts)) * 100);
+      const techniquePct = Math.round((overallStats.techniqueYes / Math.max(1, overallStats.attempts)) * 100);
+      const guessworkPct = Math.round((overallStats.guessworkYes / Math.max(1, overallStats.attempts)) * 100);
+      
+      csvData += `Knowledge-based,${knowledgePct}%\n`;
+      csvData += `Technique-based,${techniquePct}%\n`;
+      csvData += `Guesswork,${guessworkPct}%\n\n\n`;
+      
+      // Add subject-wise data
+      csvData += "SUBJECT-WISE PERFORMANCE\n";
+      csvData += "Subject,Accuracy,Score,Questions,Correct,Incorrect,Average Time (sec)\n";
+      
+      subjectStats.forEach(subject => {
+        const subjectName = typeof subject.subject === 'string' 
+          ? subject.subject 
+          : subject.subject.name;
+          
+        csvData += `${subjectName},${subject.accuracy.toFixed(1)}%,${subject.score},${subject.attempts},${subject.correct},${subject.incorrect},${subject.avgTimeSeconds.toFixed(1)}\n`;
+      });
+      
+      // Create and trigger download
+      const fileName = `${testTitle.replace(/\s+/g, '-').toLowerCase()}-analytics-${new Date().toISOString().split('T')[0]}.csv`;
+      const blob = new Blob([csvData], { type: 'text/csv;charset=utf-8;' });
+      const link = document.createElement('a');
+      
+      // Create a download link and trigger it
+      const url = URL.createObjectURL(blob);
+      link.setAttribute('href', url);
+      link.setAttribute('download', fileName);
+      link.style.visibility = 'hidden';
+      document.body.appendChild(link);
+      link.click();
+      document.body.removeChild(link);
+      
+      toast({
+        title: "CSV Export Successful",
+        description: `Data exported to ${fileName}`,
+      });
+    } catch (error) {
+      console.error("CSV export failed:", error);
+      toast({
+        title: "Export Failed",
+        description: "Could not export data to CSV. Please try again.",
+        variant: "destructive",
+      });
+    }
+  };
   
   // Function to generate and download the infographic
   const handleExportInfographic = async () => {
@@ -137,12 +215,15 @@ export function AnalyticsExport({ testTitle, testDate, overallStats, subjectStat
       </p>
       
       <Tabs defaultValue="infographic" value={exportType} onValueChange={setExportType} className="mb-4">
-        <TabsList className="grid w-full grid-cols-2 mb-4">
+        <TabsList className="grid w-full grid-cols-3 mb-4">
           <TabsTrigger value="infographic" className="flex items-center gap-1">
             <Image className="h-3 w-3" /> Infographic
           </TabsTrigger>
           <TabsTrigger value="snapshot" className="flex items-center gap-1">
             <FileImage className="h-3 w-3" /> Performance Snapshot
+          </TabsTrigger>
+          <TabsTrigger value="data" className="flex items-center gap-1">
+            <FileSpreadsheet className="h-3 w-3" /> Data Export
           </TabsTrigger>
         </TabsList>
         
@@ -408,6 +489,51 @@ export function AnalyticsExport({ testTitle, testDate, overallStats, subjectStat
                   }}
                 >
                   <Share className="h-4 w-4" /> Share Results
+                </Button>
+              </CardFooter>
+            </Card>
+          </div>
+        </TabsContent>
+        
+        {/* DATA EXPORT */}
+        <TabsContent value="data" className="mt-4">
+          <div className="grid grid-cols-1 gap-6">
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Export Raw Performance Data</CardTitle>
+                <CardDescription>Download your performance metrics as CSV for further analysis</CardDescription>
+              </CardHeader>
+              <CardContent className="py-6">
+                <div className="text-center space-y-4">
+                  <div className="flex justify-center">
+                    <FileSpreadsheet className="h-16 w-16 text-muted-foreground/50" />
+                  </div>
+                  <div className="max-w-md mx-auto">
+                    <h3 className="text-lg font-medium mb-2">CSV Data Export</h3>
+                    <p className="text-muted-foreground mb-4">
+                      Export your complete performance data in CSV format for analyzing in spreadsheet 
+                      applications like Microsoft Excel or Google Sheets.
+                    </p>
+                    
+                    <div className="border rounded-lg p-3 mb-4 text-left">
+                      <h4 className="font-medium mb-2">Data included in export:</h4>
+                      <ul className="list-disc list-inside space-y-1 text-sm text-muted-foreground">
+                        <li>Overall performance metrics</li>
+                        <li>Subject-wise detailed statistics</li>
+                        <li>Metacognitive pattern analysis</li>
+                        <li>Time performance data</li>
+                        <li>Confidence-accuracy correlation</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </CardContent>
+              <CardFooter className="flex justify-center">
+                <Button 
+                  onClick={handleExportCSV}
+                  className="gap-2"
+                >
+                  <FileDown className="h-4 w-4" /> Export as CSV
                 </Button>
               </CardFooter>
             </Card>

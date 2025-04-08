@@ -31,15 +31,67 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
   // ---------------- DATA PREPARATION ----------------
   
   // Data for tag-wise performance
-  const tagData = subjectStats
-    .sort((a, b) => b.accuracy - a.accuracy)
-    .map((subject, index) => ({
-      name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
-      accuracy: parseFloat(subject.accuracy.toFixed(1)),
-      score: parseFloat((subject.score / subject.attempts * 50).toFixed(1)), 
-      questions: subject.attempts,
-      color: PRIMARY_COLORS[index % PRIMARY_COLORS.length]
-    }));
+  // Generate data by tags instead of subjects
+  const tagCounter = new Map<string, {
+    accuracy: number, 
+    score: number, 
+    questions: number, 
+    correct: number, 
+    incorrect: number,
+    time: number
+  }>();
+  
+  // Process tags from all subjects
+  subjectStats.forEach(subject => {
+    // Extract tags from subject name or embedded tags
+    const subjectName = typeof subject.subject === 'string' ? subject.subject : subject.subject.name;
+    const tags = [subjectName]; // Use subject as base tag
+    
+    // Add the tag data
+    tags.forEach(tag => {
+      const existing = tagCounter.get(tag);
+      if (existing) {
+        existing.questions += subject.attempts;
+        existing.correct += subject.correct;
+        existing.incorrect += subject.incorrect;
+        existing.score += subject.score;
+        existing.time += subject.avgTimeSeconds * subject.attempts;
+      } else {
+        tagCounter.set(tag, {
+          accuracy: 0, // Will calculate later
+          score: subject.score,
+          questions: subject.attempts,
+          correct: subject.correct,
+          incorrect: subject.incorrect,
+          time: subject.avgTimeSeconds * subject.attempts
+        });
+      }
+    });
+  });
+  
+  // Calculate averages and convert to array
+  const tagData = Array.from(tagCounter.entries())
+    .map(([tag, data], index) => {
+      // Calculate accuracy
+      data.accuracy = data.correct + data.incorrect > 0 
+        ? (data.correct / (data.correct + data.incorrect)) * 100 
+        : 0;
+      
+      // Calculate average time
+      data.time = data.questions > 0 ? data.time / data.questions : 0;
+        
+      return {
+        name: tag,
+        accuracy: parseFloat(data.accuracy.toFixed(1)),
+        score: parseFloat((data.score / data.questions * 50).toFixed(1)), 
+        questions: data.questions,
+        avgTime: parseFloat(data.time.toFixed(1)),
+        correct: data.correct,
+        incorrect: data.incorrect,
+        color: PRIMARY_COLORS[index % PRIMARY_COLORS.length]
+      };
+    })
+    .sort((a, b) => b.accuracy - a.accuracy);
     
   // Data for confidence-accuracy correlation
   const confidenceAccuracyData = subjectStats.map(subject => {

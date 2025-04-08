@@ -477,7 +477,18 @@ export async function registerRoutes(app: Express): Promise<Server> {
   apiRouter.get("/api/analytics/overall", async (_req: Request, res: Response) => {
     try {
       const analytics = await storage.getOverallAnalytics();
-      res.json(analytics);
+      
+      // Make sure all required fields are present in the response
+      const totalQuestions = analytics.totalCorrect + analytics.totalIncorrect + analytics.totalLeft;
+      const accuracy = totalQuestions > 0 ? (analytics.totalCorrect / totalQuestions) * 100 : 0;
+      
+      // Add fields required by frontend if they're missing
+      res.json({
+        ...analytics,
+        totalQuestions: totalQuestions,
+        accuracy: accuracy,
+        avgTimeSeconds: analytics.avgTimeSeconds || 0
+      });
     } catch (error) {
       console.error("Error fetching overall analytics:", error);
       res.status(500).json({ message: "Failed to fetch overall analytics" });

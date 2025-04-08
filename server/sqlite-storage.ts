@@ -514,12 +514,25 @@ export class SqliteStorage implements IStorage {
     // Reverse to get chronological order
     trendData.reverse();
     
+    // Calculate aggregate analytics metrics 
+    const totalQuestions = totalCorrect + totalIncorrect + totalLeft;
+    const accuracy = totalQuestions > 0 ? (totalCorrect / totalQuestions) * 100 : 0;
+    
+    // Calculate average time
+    const answersWithTime = allAnswers.filter(a => a.timeSeconds !== null && a.timeSeconds > 0);
+    const totalTime = answersWithTime.reduce((sum, a) => sum + (a.timeSeconds || 0), 0);
+    const avgTimeSeconds = answersWithTime.length > 0 ? totalTime / answersWithTime.length : 0;
+    
     return {
       testCount: testCountResult[0]?.count || 0,
       attemptCount: attemptCountResult[0]?.count || 0,
+      totalQuestions,
       totalCorrect,
       totalIncorrect,
       totalLeft,
+      correctCount: totalCorrect,
+      accuracy,
+      avgTimeSeconds,
       subjectStats,
       trendData,
     };

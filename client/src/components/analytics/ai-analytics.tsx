@@ -30,23 +30,97 @@ export function AIAnalytics({ overallStats, subjectStats }: AIAnalyticsProps) {
   
   // ---------------- AI INSIGHTS PREPARATION ----------------
   
-  // Sort subjects by accuracy for strengths and weaknesses 
-  const sortedByAccuracy = [...subjectStats].sort((a, b) => b.accuracy - a.accuracy);
+  // Process data by tag rather than subject 
+  // First, extract unique tags from all subjects
+  const tagCounter = new Map<string, {
+    accuracy: number, 
+    score: number, 
+    attempts: number, 
+    correct: number, 
+    incorrect: number,
+    time: number,
+    confidence: number
+  }>();
   
-  // Strengths (top 2 subjects)
-  const strengths = sortedByAccuracy.slice(0, 2).map(subject => ({
-    name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
-    accuracy: subject.accuracy,
-    score: subject.score,
-    attempts: subject.attempts
+  // Process tags from all subjects
+  subjectStats.forEach(subject => {
+    // Extract tags from subject name or embedded tags
+    const subjectName = typeof subject.subject === 'string' ? subject.subject : subject.subject.name;
+    const tags = [subjectName]; // Use subject as base tag
+    
+    // Calculate confidence level
+    const confidenceRating = subject.attempts > 0 ? 
+      (subject.confidenceHigh * 3 + subject.confidenceMid * 2 + subject.confidenceLow * 1) / 
+      (subject.attempts * 3) * 100 : 0;
+    
+    // Add the tag data
+    tags.forEach(tag => {
+      const existing = tagCounter.get(tag);
+      if (existing) {
+        existing.attempts += subject.attempts;
+        existing.correct += subject.correct;
+        existing.incorrect += subject.incorrect;
+        existing.score += subject.score;
+        existing.time += subject.avgTimeSeconds * subject.attempts;
+        existing.confidence += confidenceRating;
+      } else {
+        tagCounter.set(tag, {
+          accuracy: 0, // Will calculate later
+          score: subject.score,
+          attempts: subject.attempts,
+          correct: subject.correct,
+          incorrect: subject.incorrect,
+          time: subject.avgTimeSeconds * subject.attempts,
+          confidence: confidenceRating
+        });
+      }
+    });
+  });
+  
+  // Calculate averages and convert to array
+  const tagPerformance = Array.from(tagCounter.entries())
+    .map(([tag, data]) => {
+      // Calculate accuracy
+      data.accuracy = data.correct + data.incorrect > 0 
+        ? (data.correct / (data.correct + data.incorrect)) * 100 
+        : 0;
+      
+      // Calculate average time
+      data.time = data.attempts > 0 ? data.time / data.attempts : 0;
+        
+      return {
+        name: tag,
+        accuracy: parseFloat(data.accuracy.toFixed(1)),
+        score: parseFloat((data.score / data.attempts).toFixed(1)), 
+        attempts: data.attempts,
+        avgTimeSeconds: parseFloat(data.time.toFixed(1)),
+        confidence: parseFloat((data.confidence / data.attempts).toFixed(1)),
+        correct: data.correct,
+        incorrect: data.incorrect
+      };
+    });
+  
+  // Sort by accuracy for strengths and weaknesses
+  const sortedByAccuracy = [...tagPerformance].sort((a, b) => b.accuracy - a.accuracy);
+  
+  // Strengths (top 2 tags)
+  const strengths = sortedByAccuracy.slice(0, 2).map(tag => ({
+    name: tag.name,
+    accuracy: tag.accuracy,
+    score: tag.score,
+    attempts: tag.attempts,
+    avgTimeSeconds: tag.avgTimeSeconds,
+    confidence: tag.confidence
   }));
   
-  // Weaknesses (bottom 2 subjects)
-  const weaknesses = [...sortedByAccuracy].reverse().slice(0, 2).map(subject => ({
-    name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
-    accuracy: subject.accuracy,
-    score: subject.score,
-    attempts: subject.attempts
+  // Weaknesses (bottom 2 tags)
+  const weaknesses = [...sortedByAccuracy].reverse().slice(0, 2).map(tag => ({
+    name: tag.name,
+    accuracy: tag.accuracy,
+    score: tag.score,
+    attempts: tag.attempts,
+    avgTimeSeconds: tag.avgTimeSeconds,
+    confidence: tag.confidence
   }));
   
   // Time efficiency (subjects sorted by score/time ratio)
