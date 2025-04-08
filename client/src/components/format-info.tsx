@@ -8,7 +8,7 @@ import { Copy, ExternalLink } from "lucide-react";
 export function FormatInfo() {
   const { toast } = useToast();
   const { settings } = useSettings();
-  
+
   // Use the new parsing prompt from the user
   const parsingPrompt = `Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.
 
@@ -91,7 +91,7 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
       description: "The parsing prompt has been copied to your clipboard",
     });
   };
-  
+
   const openGeminiChat = () => {
     window.open("https://aistudio.google.com/prompts/new_chat", "_blank");
   };
@@ -107,28 +107,23 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
           <h3 className="text-lg font-semibold mb-3">Expected File Format</h3>
           <div className="bg-card rounded-lg p-4 overflow-x-auto text-sm font-mono border border-border">
             <pre className="whitespace-pre-line text-foreground opacity-80">
-              #QuestionStart
-              Q1) [Question text here]
-              a) Option A text
-              b) Option B text
-              c) Option C text
-              d) Option D text
-              #QuestionEnd
-              #AnswerStart
-              Answer: a) Option A text
-              #AnswerEnd
+              #QuestionStart Q1) [Question text here] a) Option A text b) Option
+              B text c) Option C text d) Option D text #QuestionEnd #AnswerStart
+              Answer: a) Option A text #AnswerEnd
             </pre>
           </div>
           <p className="text-sm text-muted-foreground mt-3 mb-4">
-            Files must follow this exact tag structure. Each question must have 4 options (a-d).
+            Files must follow this exact tag structure. Each question must have
+            4 options (a-d).
           </p>
-          
+
           <div className="border-t pt-4 mt-2">
             <p className="text-sm font-medium mb-3">
-              To parse test files, copy this prompt and paste it with your test's PDF/text to Gemini:
+              To parse test files, copy this prompt and paste it with your
+              test's PDF/text to Gemini:
             </p>
             <div className="flex flex-col sm:flex-row gap-2">
-              <Button 
+              <Button
                 variant="outline"
                 className="flex-1 gap-2"
                 onClick={handleCopyPrompt}
@@ -136,7 +131,7 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
                 <Copy size={16} />
                 <span>Copy parsing prompt</span>
               </Button>
-              <Button 
+              <Button
                 variant="default"
                 className="flex-1 gap-2"
                 onClick={openGeminiChat}
