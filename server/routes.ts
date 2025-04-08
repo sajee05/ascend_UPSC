@@ -546,6 +546,75 @@ export async function registerRoutes(app: Express): Promise<Server> {
       }
     }
   });
+  
+  // POST /api/database/configure - Configure database settings
+  apiRouter.post("/api/database/configure", async (req: Request, res: Response) => {
+    try {
+      const { type, connectionString } = req.body;
+      
+      // Validate database type
+      if (type !== "sqlite" && type !== "postgresql") {
+        return res.status(400).json({ message: "Invalid database type. Must be 'sqlite' or 'postgresql'" });
+      }
+      
+      if (type === "postgresql" && !connectionString) {
+        return res.status(400).json({ message: "Connection string is required for PostgreSQL" });
+      }
+      
+      // Update environment variables based on the database type
+      if (type === "postgresql") {
+        // Set PostgreSQL connection
+        process.env.DATABASE_URL = connectionString;
+        process.env.DB_TYPE = "postgresql";
+        process.env.PORTABLE_MODE = "false";
+      } else {
+        // Set SQLite connection
+        process.env.DB_TYPE = "sqlite";
+        process.env.PORTABLE_MODE = "true";
+        // Use default SQLite path from sqlite-db.ts
+      }
+      
+      // Reload database connection
+      try {
+        // For PostgreSQL, reinitialize the connection
+        if (type === "postgresql") {
+          // Import the modules dynamically to get fresh instances
+          const pg = await import("postgres");
+          // Create a new client with the updated connection string
+          const client = pg.default(connectionString);
+          
+          // Test the connection
+          await client.query`SELECT 1`;
+          
+          return res.json({ 
+            success: true, 
+            message: "PostgreSQL database configured successfully" 
+          });
+        } else {
+          // For SQLite, use the adapter
+          const sqliteDb = await import("./sqlite-db");
+          sqliteDb.initializeDatabase();
+          
+          return res.json({ 
+            success: true, 
+            message: "SQLite database configured successfully" 
+          });
+        }
+      } catch (dbError: any) {
+        console.error("Database configuration error:", dbError);
+        return res.status(500).json({ 
+          message: `Database connection failed: ${dbError.message}`,
+          error: dbError
+        });
+      }
+    } catch (error: any) {
+      console.error("Error configuring database:", error);
+      res.status(500).json({ 
+        message: "Failed to configure database",
+        error: error.message
+      });
+    }
+  });
 
   const httpServer = createServer(app);
 

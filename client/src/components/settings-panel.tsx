@@ -5,10 +5,11 @@ import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetFooter } from "@/components/ui/sheet";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
-import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle } from "lucide-react";
+import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle, Database, Loader2 } from "lucide-react";
 import { useLocation } from "wouter";
 import { 
   DEFAULT_ANALYTICS_PROMPT, 
@@ -34,6 +35,9 @@ export default function SettingsPanel() {
   const [studyPlanPrompt, setStudyPlanPrompt] = useState(settings.studyPlanPrompt);
   const [learningPatternPrompt, setLearningPatternPrompt] = useState(settings.learningPatternPrompt);
   const [parsingPromptTitle, setParsingPromptTitle] = useState(settings.parsingPromptTitle || "");
+  const [postgresConnectionString, setPostgresConnectionString] = useState(settings.postgresConnectionString || "");
+  const [showConnectionString, setShowConnectionString] = useState(false);
+  const [configuringDatabase, setConfiguringDatabase] = useState(false);
 
   // Apply settings when panel closes
   useEffect(() => {
@@ -453,6 +457,138 @@ export default function SettingsPanel() {
               
               <Button onClick={handleSaveAISettings}>
                 Save AI Settings
+              </Button>
+            </div>
+          </div>
+          
+          {/* Database Configuration */}
+          <div>
+            <h3 className="font-medium text-lg mb-4">Database Configuration</h3>
+            <div className="space-y-4">
+              {/* Database Type */}
+              <div>
+                <Label className="block text-sm font-medium mb-2">Database Type</Label>
+                <RadioGroup 
+                  value={settings.databaseType || "postgresql"} 
+                  onValueChange={(value: "sqlite" | "postgresql") => updateSettings({ databaseType: value })}
+                  className="space-y-2"
+                >
+                  <div className="flex items-start space-x-2">
+                    <RadioGroupItem value="sqlite" id="sqlite" />
+                    <div className="grid gap-1.5">
+                      <Label htmlFor="sqlite" className="font-medium">SQLite</Label>
+                      <p className="text-xs text-muted-foreground">
+                        Portable, local database. Best for personal use or portable mode.
+                      </p>
+                    </div>
+                  </div>
+                  <div className="flex items-start space-x-2">
+                    <RadioGroupItem value="postgresql" id="postgresql" />
+                    <div className="grid gap-1.5">
+                      <Label htmlFor="postgresql" className="font-medium">PostgreSQL</Label>
+                      <p className="text-xs text-muted-foreground">
+                        Production database for web mode and multi-user setups.
+                      </p>
+                    </div>
+                  </div>
+                </RadioGroup>
+              </div>
+              
+              {/* PostgreSQL Connection String */}
+              {(settings.databaseType === "postgresql" || !settings.databaseType) && (
+                <div>
+                  <Label className="block text-sm font-medium mb-2">PostgreSQL Connection String</Label>
+                  <div className="relative">
+                    <Input 
+                      type={showConnectionString ? "text" : "password"}
+                      value={postgresConnectionString}
+                      onChange={(e) => setPostgresConnectionString(e.target.value)}
+                      className="pr-24"
+                      placeholder="postgres://username:password@host:port/database"
+                    />
+                    <Button
+                      type="button"
+                      variant="ghost"
+                      size="sm"
+                      className="absolute right-1 top-1 h-7 text-xs"
+                      onClick={() => setShowConnectionString(!showConnectionString)}
+                    >
+                      {showConnectionString ? "Hide" : "Show"}
+                    </Button>
+                  </div>
+                  <p className="text-xs text-muted-foreground mt-1">
+                    Format: postgres://username:password@host:port/database
+                  </p>
+                </div>
+              )}
+              
+              {/* Configure Database Button */}
+              <Button 
+                onClick={() => {
+                  setConfiguringDatabase(true);
+                  
+                  // Call API to configure database
+                  fetch('/api/database/configure', {
+                    method: 'POST',
+                    headers: {
+                      'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                      type: settings.databaseType || "postgresql",
+                      connectionString: postgresConnectionString,
+                    }),
+                  })
+                  .then(response => {
+                    if (!response.ok) {
+                      throw new Error('Failed to configure database');
+                    }
+                    return response.json();
+                  })
+                  .then(data => {
+                    toast({
+                      title: "Database configured",
+                      description: data.message || "Database configured successfully. Reloading in 3 seconds...",
+                      className: "bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800",
+                      duration: 3000,
+                    });
+                    
+                    // Save settings
+                    updateSettings({
+                      databaseType: settings.databaseType || "postgresql",
+                      postgresConnectionString,
+                    });
+                    
+                    // Reload the page after 3 seconds to apply the new database configuration
+                    setTimeout(() => {
+                      window.location.reload();
+                    }, 3000);
+                  })
+                  .catch(error => {
+                    toast({
+                      title: "Error",
+                      description: error.message || "Failed to configure database",
+                      variant: "destructive",
+                      duration: 5000,
+                    });
+                  })
+                  .finally(() => {
+                    setConfiguringDatabase(false);
+                  });
+                }}
+                disabled={configuringDatabase}
+                className="w-full"
+              >
+                {configuringDatabase ? (
+                  <>
+                    <Loader2 className="h-4 w-4 mr-2 animate-spin" />
+                    Configuring Database...
+                  </>
+                ) : (
+                  <>
+                    <Database className="h-4 w-4 mr-2" />
+                    Configure Database
+                  </>
+                )}
               </Button>
             </div>
           </div>
