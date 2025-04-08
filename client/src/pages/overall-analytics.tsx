@@ -1,20 +1,17 @@
 import { useState, useEffect, useMemo } from "react";
 import { useLocation } from "wouter";
 import { FilterControls, AnalyticsFilter } from "@/components/analytics/filter-controls";
-import { EnhancedAIInsights } from "@/components/analytics/enhanced-ai-insights";
-import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
-import { SubjectTrendCharts } from "@/components/analytics/subject-trend-charts-fixed";
-import { TopicSubtopicAnalysis } from "@/components/analytics/topic-subtopic-analysis";
-import { DateAnalysisChart } from "@/components/analytics/date-analysis-chart";
-import { RecommendationCards } from "@/components/analytics/recommendation-cards";
-import { KnowledgeCalibrationCard } from "@/components/analytics/knowledge-calibration-card";
+import { AIAnalytics } from "@/components/analytics/ai-analytics";
 import { AdvancedCharts } from "@/components/analytics/advanced-charts";
-import { InfographicGenerator } from "@/components/analytics/infographic-generator";
+import { AnalyticsExport } from "@/components/analytics/analytics-export";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, Home, History, BarChart2, TrendingUp, Calendar } from "lucide-react";
+import { 
+  Cog, Home, History, BarChart2, TrendingUp, 
+  Calendar, BrainCircuit, ArrowLeft, Sparkles 
+} from "lucide-react";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
 import { useQuery } from "@tanstack/react-query";
@@ -23,7 +20,7 @@ import {
   LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid, 
   Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell
 } from "recharts";
-import { formatDate, formatPercentage, getConfidenceEmoji, getYesNoEmoji } from "@/lib/utils";
+import { formatDate, formatPercentage } from "@/lib/utils";
 import { motion } from "framer-motion";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 

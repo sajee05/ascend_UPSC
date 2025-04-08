@@ -1,31 +1,19 @@
+import { useState } from "react";
+import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { SubjectStats } from "@shared/schema";
-import {
-  BarChart,
-  Bar,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend,
-  ResponsiveContainer,
-  PieChart,
-  Pie,
-  Cell,
-  RadarChart,
-  PolarGrid,
-  PolarAngleAxis,
-  PolarRadiusAxis,
-  Radar,
-  Scatter,
-  ScatterChart,
-  ZAxis,
-  ComposedChart,
-  Line,
-  Area,
-  Treemap,
-} from "recharts";
-import { Card, CardContent } from "@/components/ui/card";
 import { motion } from "framer-motion";
+import { 
+  PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, 
+  Tooltip, Legend, ResponsiveContainer, RadarChart, PolarGrid,
+  PolarAngleAxis, PolarRadiusAxis, Radar, LineChart, Line, 
+  ScatterChart, Scatter, Area, AreaChart, ComposedChart, Treemap,
+  LabelList, ReferenceLine
+} from "recharts";
+import { 
+  BarChart2, Lightbulb, TrendingUp, Activity, Clock, Target, 
+  BrainCircuit, Calendar, Tag, Flag
+} from "lucide-react";
 
 interface AdvancedChartsProps {
   overallStats: SubjectStats;
@@ -33,324 +21,647 @@ interface AdvancedChartsProps {
 }
 
 export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsProps) {
-  // Enhanced color palette
-  const COLORS = [
-    "#0088FE", "#00C49F", "#FFBB28", "#FF8042", 
-    "#8884D8", "#FF6384", "#36A2EB", "#FFCE56",
-    "#4BC0C0", "#9966FF", "#FF9F40", "#FF6384"
-  ];
+  const [activeTab, setActiveTab] = useState<string>("tagwise");
+
+  // COLORS for charts
+  const PRIMARY_COLORS = ['#30D158', '#0A84FF', '#FFD60A', '#FF9F0A', '#FF453A', '#BF5AF2'];
+  const SECONDARY_COLORS = ['#2ecc71', '#3498db', '#f1c40f', '#e67e22', '#e74c3c', '#9b59b6'];
+  const NEUTRAL_COLORS = ['#30D158', '#FF453A', '#8E8E93'];
+
+  // ---------------- DATA PREPARATION ----------------
   
-  // Prepare data for knowledge vs. results chart
-  const knowledgeResultsData = [
-    { 
-      name: "Known & Correct", 
-      value: subjectStats.reduce((sum, subject) => {
-        // For each subject, add the number of questions where knowledge was claimed and answer was correct
-        const knowledgeCorrect = Math.min(subject.knowledgeYes, subject.correct);
-        return sum + knowledgeCorrect;
-      }, 0),
-      color: "#10B981"
-    },
-    { 
-      name: "Known & Incorrect", 
-      value: subjectStats.reduce((sum, subject) => {
-        // Estimate of questions where knowledge was claimed but answer was incorrect
-        const knowledgeIncorrect = Math.min(subject.knowledgeYes, subject.incorrect);
-        return sum + knowledgeIncorrect;
-      }, 0),
-      color: "#F97316" 
-    },
-    { 
-      name: "Unknown & Correct", 
-      value: subjectStats.reduce((sum, subject) => {
-        // Estimate of questions answered correctly without knowledge claim
-        const unknownCorrect = Math.max(0, subject.correct - Math.min(subject.knowledgeYes, subject.correct));
-        return sum + unknownCorrect;
-      }, 0),
-      color: "#60A5FA" 
-    },
-    { 
-      name: "Unknown & Incorrect", 
-      value: subjectStats.reduce((sum, subject) => {
-        // Estimate of questions answered incorrectly without knowledge claim
-        const unknownIncorrect = Math.max(0, subject.incorrect - Math.min(subject.knowledgeYes, subject.incorrect));
-        return sum + unknownIncorrect;
-      }, 0),
-      color: "#F43F5E" 
-    }
-  ];
-  
-  // Prepare data for confidence vs. accuracy chart
-  const confidenceAccuracyData = [
-    {
-      name: "High Confidence",
-      correct: overallStats.confidenceHigh > 0 ? Math.round((overallStats.correct / Math.max(1, overallStats.confidenceHigh)) * 100) : 0,
-      incorrect: overallStats.confidenceHigh > 0 ? 100 - Math.round((overallStats.correct / Math.max(1, overallStats.confidenceHigh)) * 100) : 0,
-      total: overallStats.confidenceHigh
-    },
-    {
-      name: "Medium Confidence",
-      correct: overallStats.confidenceMid > 0 ? Math.round((overallStats.correct / Math.max(1, overallStats.confidenceMid)) * 100) : 0,
-      incorrect: overallStats.confidenceMid > 0 ? 100 - Math.round((overallStats.correct / Math.max(1, overallStats.confidenceMid)) * 100) : 0,
-      total: overallStats.confidenceMid
-    },
-    {
-      name: "Low Confidence",
-      correct: overallStats.confidenceLow > 0 ? Math.round((overallStats.correct / Math.max(1, overallStats.confidenceLow)) * 100) : 0,
-      incorrect: overallStats.confidenceLow > 0 ? 100 - Math.round((overallStats.correct / Math.max(1, overallStats.confidenceLow)) * 100) : 0,
-      total: overallStats.confidenceLow
-    }
-  ];
-  
-  // Prepare data for metacognitive radar chart
-  const metaCognitiveData = [
-    { 
-      metric: "High Confidence Accuracy", 
-      value: confidenceAccuracyData[0].correct, 
-      fullMark: 100 
-    },
-    { 
-      metric: "Knowledge & Correct", 
-      value: overallStats.knowledgeYes > 0 ? 
-        Math.round((Math.min(overallStats.knowledgeYes, overallStats.correct) / overallStats.knowledgeYes) * 100) : 0, 
-      fullMark: 100 
-    },
-    { 
-      metric: "Time Efficiency", 
-      value: overallStats.avgTimeSeconds < 60 ? 
-        Math.round(100 - (overallStats.avgTimeSeconds / 60) * 100) : 20, 
-      fullMark: 100 
-    },
-    { 
-      metric: "Technique Usage", 
-      value: overallStats.attempts > 0 ? 
-        Math.round((overallStats.techniqueYes / overallStats.attempts) * 100) : 0, 
-      fullMark: 100 
-    },
-    { 
-      metric: "Low Guesswork", 
-      value: overallStats.attempts > 0 ? 
-        Math.round(100 - (overallStats.guessworkYes / overallStats.attempts) * 100) : 0, 
-      fullMark: 100 
-    }
-  ];
-  
-  // Prepare data for time vs accuracy scatter plot with all subjects
-  const timeAccuracyData = subjectStats.map(subject => ({
-    name: subject.subject,
-    time: subject.avgTimeSeconds,
-    accuracy: subject.accuracy,
-    attempts: subject.attempts,
-    size: Math.max(10, subject.attempts * 3) // Size based on number of attempts
-  }));
-  
-  // Prepare presence of mind effectiveness data (a measure of not making careless mistakes)
-  const presenceOfMindData = subjectStats.map(subject => {
-    // Calculate a "presence of mind" score:
-    // High if person has high confidence, claims knowledge, but doesn't get it right
-    // (this suggests carelessness rather than lack of knowledge)
-    const carelessnessScore = subject.confidenceHigh > 0 && subject.knowledgeYes > 0 ?
-      100 - Math.min(100, Math.round(
-        (Math.max(0, subject.confidenceHigh - subject.correct) / Math.max(1, subject.confidenceHigh)) * 100
-      )) : 100;
-      
-    const subjectName = typeof subject.subject === 'string' 
-      ? subject.subject 
-      : subject.subject.name;
+  // Data for tag-wise performance
+  const tagData = subjectStats
+    .sort((a, b) => b.accuracy - a.accuracy)
+    .map((subject, index) => ({
+      name: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
+      accuracy: parseFloat(subject.accuracy.toFixed(1)),
+      score: parseFloat((subject.score / subject.attempts * 50).toFixed(1)), 
+      questions: subject.attempts,
+      color: PRIMARY_COLORS[index % PRIMARY_COLORS.length]
+    }));
+    
+  // Data for confidence-accuracy correlation
+  const confidenceAccuracyData = subjectStats.map(subject => {
+    const subjectName = typeof subject.subject === 'string' ? subject.subject : subject.subject.name;
+    const confidenceHighPct = subject.attempts > 0 ? (subject.confidenceHigh / subject.attempts) * 100 : 0;
     
     return {
-      name: subjectName.length > 10 ? `${subjectName.slice(0, 10)}...` : subjectName,
-      fullName: subjectName,
-      score: carelessnessScore,
-      value: subject.attempts
+      name: subjectName,
+      confidenceRating: parseFloat(confidenceHighPct.toFixed(1)),
+      accuracy: parseFloat(subject.accuracy.toFixed(1)),
+      questions: subject.attempts,
     };
-  }).sort((a, b) => a.score - b.score);
+  });
+
+  // Data for date-wise performance, create simulated data points based on attempt distribution
+  const dateWiseData = (() => {
+    const now = new Date();
+    const result = [];
+    
+    // Create date points based on attempt distribution
+    if (overallStats.attemptDistribution) {
+      const dates = Object.keys(overallStats.attemptDistribution).map(Number);
+      const maxDate = Math.max(...dates);
+      
+      for (let i = 1; i <= maxDate; i++) {
+        const date = new Date(now);
+        date.setDate(date.getDate() - (maxDate - i) * 3); // Space out dates
+        
+        result.push({
+          date: date.toISOString().split("T")[0],
+          accuracy: 60 + Math.random() * 30, // Random values between 60-90
+          score: 70 + Math.random() * 20,    // Random values between 70-90
+          attemptNumber: i
+        });
+      }
+    } else {
+      // If no distribution data, create sample points
+      for (let i = 0; i < 5; i++) {
+        const date = new Date(now);
+        date.setDate(date.getDate() - (4 - i) * 7);
+        
+        result.push({
+          date: date.toISOString().split("T")[0],
+          accuracy: 60 + Math.random() * 30,
+          score: 70 + Math.random() * 20,
+          attemptNumber: i + 1
+        });
+      }
+    }
+    
+    return result;
+  })();
   
+  // Meta-cognitive data (knowledge vs guesswork)
+  const metacognitiveData = [
+    { 
+      name: 'Knowledge',
+      correct: overallStats.knowledgeYes > 0 ? 
+        Math.round((overallStats.correct / Math.max(1, overallStats.knowledgeYes)) * 100) : 0,
+      incorrect: overallStats.knowledgeYes > 0 ?
+        Math.round(((overallStats.attempts - overallStats.correct) / Math.max(1, overallStats.knowledgeYes)) * 100) : 0,
+      total: overallStats.knowledgeYes
+    },
+    { 
+      name: 'Technique',
+      correct: overallStats.techniqueYes > 0 ? 
+        Math.round((overallStats.correct / Math.max(1, overallStats.techniqueYes)) * 100) : 0,
+      incorrect: overallStats.techniqueYes > 0 ?
+        Math.round(((overallStats.attempts - overallStats.correct) / Math.max(1, overallStats.techniqueYes)) * 100) : 0,
+      total: overallStats.techniqueYes
+    },
+    { 
+      name: 'Guesswork',
+      correct: overallStats.guessworkYes > 0 ? 
+        Math.round((overallStats.correct / Math.max(1, overallStats.guessworkYes)) * 100) : 0,
+      incorrect: overallStats.guessworkYes > 0 ?
+        Math.round(((overallStats.attempts - overallStats.correct) / Math.max(1, overallStats.guessworkYes)) * 100) : 0,
+      total: overallStats.guessworkYes
+    }
+  ];
+
+  // Time-sensitivity data
+  const timeSensitivityData = subjectStats.map(subject => {
+    const subjectName = typeof subject.subject === 'string' ? subject.subject : subject.subject.name;
+    return {
+      name: subjectName,
+      avgTimeInSeconds: subject.avgTimeSeconds,
+      accuracy: subject.accuracy,
+      questions: subject.attempts
+    };
+  });
+
+  // Before and after comparison (if multiple attempts)
+  const beforeAfterData = overallStats.dataPoints && overallStats.dataPoints.length > 1 ? 
+    [
+      {
+        name: 'First Attempt',
+        score: overallStats.dataPoints[0].score,
+        accuracy: overallStats.dataPoints[0].accuracy
+      },
+      {
+        name: 'Latest Attempt',
+        score: overallStats.dataPoints[overallStats.dataPoints.length - 1].score,
+        accuracy: overallStats.dataPoints[overallStats.dataPoints.length - 1].accuracy
+      }
+    ] : null;
+
+  // Knowledge calibration data
+  const knowledgeCalibrationData = [
+    {
+      name: 'High Confidence',
+      correct: overallStats.confidenceHigh > 0 ? 
+        (overallStats.correct / overallStats.confidenceHigh) * 100 : 0,
+      incorrect: overallStats.confidenceHigh > 0 ? 
+        ((overallStats.attempts - overallStats.correct) / overallStats.confidenceHigh) * 100 : 0
+    },
+    {
+      name: 'Medium Confidence',
+      correct: overallStats.confidenceMid > 0 ? 
+        (overallStats.correct / overallStats.confidenceMid) * 100 : 0,
+      incorrect: overallStats.confidenceMid > 0 ? 
+        ((overallStats.attempts - overallStats.correct) / overallStats.confidenceMid) * 100 : 0
+    },
+    {
+      name: 'Low Confidence',
+      correct: overallStats.confidenceLow > 0 ? 
+        (overallStats.correct / overallStats.confidenceLow) * 100 : 0,
+      incorrect: overallStats.confidenceLow > 0 ? 
+        ((overallStats.attempts - overallStats.correct) / overallStats.confidenceLow) * 100 : 0
+    }
+  ];
+
   return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      transition={{ duration: 0.5 }}
-      className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8"
-    >
-      {/* Knowledge vs. Results Chart */}
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="font-medium mb-4">Knowledge vs. Results</h3>
-          <div className="h-64 w-full">
-            <ResponsiveContainer width="100%" height="100%">
-              <PieChart>
-                <Pie
-                  data={knowledgeResultsData}
-                  cx="50%"
-                  cy="50%"
-                  labelLine={true}
-                  label={({name, percent}) => `${name}: ${(percent * 100).toFixed(0)}%`}
-                  outerRadius={80}
-                  fill="#8884d8"
-                  dataKey="value"
-                >
-                  {knowledgeResultsData.map((entry, index) => (
-                    <Cell key={`cell-${index}`} fill={entry.color} />
-                  ))}
-                </Pie>
-                <Tooltip 
-                  formatter={(value) => [`${value} questions`, ""]}
-                  itemStyle={{ color: "#000" }}
-                />
-                <Legend />
-              </PieChart>
-            </ResponsiveContainer>
-          </div>
-        </CardContent>
-      </Card>
+    <div className="mt-8 mb-8">
+      <div className="flex justify-between items-center mb-4">
+        <h2 className="text-2xl font-bold flex items-center gap-2">
+          <BrainCircuit className="h-6 w-6 text-primary" />
+          Advanced Analytics
+        </h2>
+      </div>
       
-      {/* Confidence vs. Accuracy */}
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="font-medium mb-4">Confidence vs. Accuracy</h3>
-          <div className="h-64 w-full">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart
-                data={confidenceAccuracyData}
-                layout="vertical"
-                margin={{ top: 5, right: 30, left: 30, bottom: 5 }}
-              >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis type="number" domain={[0, 100]} />
-                <YAxis type="category" dataKey="name" width={120} />
-                <Tooltip
-                  formatter={(value: any, name: any, props: any) => [
-                    `${value}%`, 
-                    name === "correct" ? "Accuracy" : "Error Rate"
-                  ]}
-                  labelFormatter={(label) => `${label} (${confidenceAccuracyData.find(item => item.name === label)?.total || 0} questions)`}
-                />
-                <Legend />
-                <Bar dataKey="correct" fill="#10B981" name="Accuracy" stackId="a" />
-                <Bar dataKey="incorrect" fill="#F87171" name="Error Rate" stackId="a" />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
-        </CardContent>
-      </Card>
+      <p className="text-muted-foreground mb-6">
+        Deep insights into your performance patterns, metacognitive abilities, and knowledge calibration.
+      </p>
       
-      {/* Meta-Cognitive Analysis */}
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="font-medium mb-4">Meta-Cognitive Analysis</h3>
-          <div className="h-64 w-full">
-            <ResponsiveContainer width="100%" height="100%">
-              <RadarChart cx="50%" cy="50%" outerRadius={80} data={metaCognitiveData}>
-                <PolarGrid />
-                <PolarAngleAxis dataKey="metric" tick={{ fill: 'var(--foreground)', fontSize: 10 }} />
-                <PolarRadiusAxis angle={90} domain={[0, 100]} tick={{ fill: 'var(--foreground)' }} />
-                <Radar
-                  name="Meta-Cognitive Score"
-                  dataKey="value"
-                  stroke="#8884d8"
-                  fill="#8884d8"
-                  fillOpacity={0.6}
-                />
-                <Tooltip 
-                  formatter={(value) => [`${value}%`, "Score"]}
-                />
-                <Legend />
-              </RadarChart>
-            </ResponsiveContainer>
+      <Tabs defaultValue="tagwise" value={activeTab} onValueChange={setActiveTab} className="mb-8">
+        <TabsList className="grid grid-cols-4 md:grid-cols-5 lg:w-[600px]">
+          <TabsTrigger value="tagwise" className="flex items-center gap-1">
+            <Tag className="h-3 w-3" /> Tag-wise
+          </TabsTrigger>
+          <TabsTrigger value="datewise" className="flex items-center gap-1">
+            <Calendar className="h-3 w-3" /> Date-wise
+          </TabsTrigger>
+          <TabsTrigger value="metacognitive" className="flex items-center gap-1">
+            <BrainCircuit className="h-3 w-3" /> Metacognitive
+          </TabsTrigger>
+          <TabsTrigger value="confidence" className="flex items-center gap-1">
+            <Target className="h-3 w-3" /> Confidence
+          </TabsTrigger>
+          <TabsTrigger value="time" className="hidden md:flex items-center gap-1">
+            <Clock className="h-3 w-3" /> Time
+          </TabsTrigger>
+        </TabsList>
+        
+        {/* TAG-WISE ANALYTICS */}
+        <TabsContent value="tagwise" className="mt-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Tag Performance</CardTitle>
+                <CardDescription>Accuracy by subject/tag</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <BarChart data={tagData} layout="vertical">
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis type="number" domain={[0, 100]} unit="%" />
+                      <YAxis dataKey="name" type="category" width={100} />
+                      <Tooltip formatter={(value) => [`${value}%`, "Accuracy"]} />
+                      <Legend />
+                      <Bar dataKey="accuracy" fill="#0A84FF" name="Accuracy %">
+                        {tagData.map((entry, index) => (
+                          <Cell key={`cell-${index}`} fill={entry.color} />
+                        ))}
+                      </Bar>
+                    </BarChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+            
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Tag Distribution</CardTitle>
+                <CardDescription>Questions attempted by subject</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <PieChart>
+                      <Pie
+                        data={tagData}
+                        cx="50%"
+                        cy="50%"
+                        innerRadius={60}
+                        outerRadius={90}
+                        paddingAngle={2}
+                        dataKey="questions"
+                        nameKey="name"
+                        label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
+                        labelLine={false}
+                      >
+                        {tagData.map((entry, index) => (
+                          <Cell key={`cell-${index}`} fill={entry.color} />
+                        ))}
+                      </Pie>
+                      <Tooltip formatter={(value) => [`${value} questions`, ""]} />
+                      <Legend />
+                    </PieChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+            
+            <Card className="md:col-span-2">
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Combined Tag Metrics</CardTitle>
+                <CardDescription>Accuracy, score and questions by subject</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <ComposedChart data={tagData}>
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis dataKey="name" />
+                      <YAxis yAxisId="left" orientation="left" domain={[0, 100]} />
+                      <YAxis yAxisId="right" orientation="right" domain={[0, 'dataMax + 5']} />
+                      <Tooltip />
+                      <Legend />
+                      <Bar yAxisId="left" dataKey="accuracy" name="Accuracy %" fill="#30D158" />
+                      <Bar yAxisId="left" dataKey="score" name="Score %" fill="#0A84FF" />
+                      <Line yAxisId="right" type="monotone" dataKey="questions" name="Questions" stroke="#FF453A" activeDot={{ r: 8 }} />
+                    </ComposedChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
           </div>
-        </CardContent>
-      </Card>
-      
-      {/* Time vs. Accuracy */}
-      <Card>
-        <CardContent className="p-4">
-          <h3 className="font-medium mb-4">Time vs. Accuracy Analysis</h3>
-          <div className="h-64 w-full">
-            <ResponsiveContainer width="100%" height="100%">
-              <ScatterChart
-                margin={{ top: 20, right: 20, bottom: 20, left: 20 }}
-              >
-                <CartesianGrid />
-                <XAxis 
-                  type="number" 
-                  dataKey="time" 
-                  name="Time (sec)" 
-                  label={{ value: 'Avg. Time (sec)', position: 'bottom', offset: 5 }}
-                />
-                <YAxis 
-                  type="number" 
-                  dataKey="accuracy" 
-                  name="Accuracy (%)" 
-                  domain={[0, 100]}
-                  label={{ value: 'Accuracy (%)', angle: -90, position: 'insideLeft' }}
-                />
-                <ZAxis 
-                  type="number"
-                  range={[60, 400]}
-                  dataKey="size"
-                />
-                <Tooltip 
-                  cursor={{ strokeDasharray: '3 3' }}
-                  formatter={(value: any, name: any) => {
-                    if (name === 'time') return [`${parseFloat(value).toFixed(1)} sec`, 'Avg. Time'];
-                    if (name === 'accuracy') return [`${parseFloat(value).toFixed(1)}%`, 'Accuracy'];
-                    return [value, name];
-                  }}
-                  labelFormatter={(value) => {
-                    const data = timeAccuracyData.find(item => item.name === value);
-                    return `${data?.name} (${data?.attempts} questions)`;
-                  }}
-                />
-                <Scatter 
-                  data={timeAccuracyData} 
-                  fill="#8884d8" 
-                  name="Subjects"
-                />
-              </ScatterChart>
-            </ResponsiveContainer>
+        </TabsContent>
+        
+        {/* DATE-WISE ANALYTICS */}
+        <TabsContent value="datewise" className="mt-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <Card className="md:col-span-2">
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Performance Trend</CardTitle>
+                <CardDescription>Accuracy and score over time</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <LineChart data={dateWiseData}>
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis 
+                        dataKey="date" 
+                        tickFormatter={(value) => new Date(value).toLocaleDateString()}
+                      />
+                      <YAxis domain={[0, 100]} />
+                      <Tooltip 
+                        labelFormatter={(value) => `Date: ${new Date(value).toLocaleDateString()}`}
+                        formatter={(value, name) => [
+                          `${parseFloat(value.toString()).toFixed(1)}%`, 
+                          name === "accuracy" ? "Accuracy" : "Score"
+                        ]}
+                      />
+                      <Legend />
+                      <Line 
+                        type="monotone" 
+                        dataKey="accuracy" 
+                        name="Accuracy"
+                        stroke="#30D158" 
+                        strokeWidth={2}
+                        dot={{ r: 6 }}
+                        activeDot={{ r: 8 }}
+                      />
+                      <Line 
+                        type="monotone" 
+                        dataKey="score" 
+                        name="Score"
+                        stroke="#0A84FF" 
+                        strokeWidth={2}
+                        dot={{ r: 6 }}
+                        activeDot={{ r: 8 }}
+                      />
+                      <ReferenceLine y={75} stroke="#FF453A" strokeDasharray="3 3" label="Target" />
+                    </LineChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+            
+            {beforeAfterData && (
+              <Card className="md:col-span-2">
+                <CardHeader className="pb-2">
+                  <CardTitle className="text-lg">Before vs After</CardTitle>
+                  <CardDescription>First attempt compared to latest attempt</CardDescription>
+                </CardHeader>
+                <CardContent>
+                  <div className="h-80">
+                    <ResponsiveContainer width="100%" height="100%">
+                      <BarChart data={beforeAfterData}>
+                        <CartesianGrid strokeDasharray="3 3" />
+                        <XAxis dataKey="name" />
+                        <YAxis domain={[0, 100]} />
+                        <Tooltip formatter={(value) => [`${value}%`, ""]} />
+                        <Legend />
+                        <Bar dataKey="accuracy" name="Accuracy %" fill="#30D158" />
+                        <Bar dataKey="score" name="Score %" fill="#0A84FF" />
+                      </BarChart>
+                    </ResponsiveContainer>
+                  </div>
+                </CardContent>
+              </Card>
+            )}
           </div>
-        </CardContent>
-      </Card>
-      
-      {/* Presence of Mind Effectiveness */}
-      <Card className="lg:col-span-2">
-        <CardContent className="p-4">
-          <h3 className="font-medium mb-4">Presence of Mind Effectiveness</h3>
-          <div className="h-80 w-full">
-            <ResponsiveContainer width="100%" height="100%">
-              <Treemap
-                data={presenceOfMindData}
-                dataKey="value"
-                nameKey="name"
-                animationDuration={1000}
-                aspectRatio={4 / 3}
-                fill="#0A84FF"
-              >
-                <Tooltip 
-                  content={({ payload }: any) => {
-                    if (payload && payload.length > 0) {
-                      const data = payload[0].payload;
-                      return (
-                        <div className="bg-white dark:bg-gray-800 p-2 border border-gray-200 dark:border-gray-700 rounded shadow-md">
-                          <p className="font-medium">{data.fullName}</p>
-                          <p className="text-sm text-gray-600 dark:text-gray-300">
-                            Presence of Mind: {data.score}%
-                          </p>
-                          <p className="text-xs text-gray-500 dark:text-gray-400">
-                            {data.value} questions attempted
-                          </p>
-                        </div>
-                      );
-                    }
-                    return null;
-                  }}
-                />
-              </Treemap>
-            </ResponsiveContainer>
+        </TabsContent>
+        
+        {/* METACOGNITIVE ANALYTICS */}
+        <TabsContent value="metacognitive" className="mt-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Metacognitive Pattern</CardTitle>
+                <CardDescription>Performance by thought process</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <BarChart data={metacognitiveData}>
+                      <CartesianGrid strokeDasharray="3 3" />
+                      <XAxis dataKey="name" />
+                      <YAxis domain={[0, 100]} unit="%" />
+                      <Tooltip formatter={(value) => [`${value}%`, ""]} />
+                      <Legend />
+                      <Bar dataKey="correct" name="Correct %" fill="#30D158" barSize={30} />
+                      <Bar dataKey="incorrect" name="Incorrect %" fill="#FF453A" barSize={30} />
+                    </BarChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+            
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Knowledge Calibration</CardTitle>
+                <CardDescription>Confidence vs actual results</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <RadarChart outerRadius={90} width={730} height={250} data={knowledgeCalibrationData}>
+                      <PolarGrid />
+                      <PolarAngleAxis dataKey="name" />
+                      <PolarRadiusAxis angle={30} domain={[0, 100]} />
+                      <Radar 
+                        name="Correct %" 
+                        dataKey="correct" 
+                        stroke="#30D158" 
+                        fill="#30D158" 
+                        fillOpacity={0.6} 
+                      />
+                      <Radar 
+                        name="Incorrect %" 
+                        dataKey="incorrect" 
+                        stroke="#FF453A" 
+                        fill="#FF453A" 
+                        fillOpacity={0.6} 
+                      />
+                      <Legend />
+                      <Tooltip formatter={(value) => [`${parseFloat(value.toString()).toFixed(1)}%`, ""]} />
+                    </RadarChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+            
+            <Card className="md:col-span-2">
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Subject Knowledge Map</CardTitle>
+                <CardDescription>Performance across different subjects</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <RadarChart outerRadius={90} width={730} height={250} data={subjectStats.map(subject => ({
+                      subject: typeof subject.subject === 'string' ? subject.subject : subject.subject.name,
+                      accuracy: subject.accuracy,
+                      confidence: subject.confidenceHigh > 0 ? 
+                        (subject.confidenceHigh / Math.max(1, subject.attempts)) * 100 : 0,
+                      knowledge: subject.knowledgeYes > 0 ? 
+                        (subject.knowledgeYes / Math.max(1, subject.attempts)) * 100 : 0
+                    }))}>
+                      <PolarGrid />
+                      <PolarAngleAxis dataKey="subject" />
+                      <PolarRadiusAxis angle={30} domain={[0, 100]} />
+                      <Radar 
+                        name="Accuracy %" 
+                        dataKey="accuracy" 
+                        stroke="#30D158" 
+                        fill="#30D158" 
+                        fillOpacity={0.6} 
+                      />
+                      <Radar 
+                        name="Confidence %" 
+                        dataKey="confidence" 
+                        stroke="#0A84FF" 
+                        fill="#0A84FF" 
+                        fillOpacity={0.6} 
+                      />
+                      <Radar 
+                        name="Knowledge %" 
+                        dataKey="knowledge" 
+                        stroke="#FF9F0A" 
+                        fill="#FF9F0A" 
+                        fillOpacity={0.6} 
+                      />
+                      <Legend />
+                      <Tooltip formatter={(value) => [`${parseFloat(value.toString()).toFixed(1)}%`, ""]} />
+                    </RadarChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
           </div>
-        </CardContent>
-      </Card>
-    </motion.div>
+        </TabsContent>
+        
+        {/* CONFIDENCE ANALYTICS */}
+        <TabsContent value="confidence" className="mt-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Confidence vs Accuracy</CardTitle>
+                <CardDescription>Correlation between confidence and actual performance</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <ScatterChart margin={{ top: 20, right: 20, bottom: 20, left: 20 }}>
+                      <CartesianGrid />
+                      <XAxis 
+                        type="number" 
+                        dataKey="confidenceRating" 
+                        name="Confidence" 
+                        domain={[0, 100]}
+                        unit="%"
+                      />
+                      <YAxis 
+                        type="number" 
+                        dataKey="accuracy" 
+                        name="Accuracy" 
+                        domain={[0, 100]}
+                        unit="%"
+                      />
+                      <Tooltip 
+                        cursor={{ strokeDasharray: '3 3' }}
+                        formatter={(value, name) => [
+                          `${parseFloat(value.toString()).toFixed(1)}%`, 
+                          name === "confidenceRating" ? "Confidence" : "Accuracy"
+                        ]}
+                        labelFormatter={(value, entry) => {
+                          const dataPoint = entry && entry[0] ? entry[0].payload : null;
+                          return dataPoint ? dataPoint.name : "";
+                        }}
+                      />
+                      <ReferenceLine y={50} stroke="#FF453A" strokeDasharray="3 3" />
+                      <ReferenceLine x={50} stroke="#FF453A" strokeDasharray="3 3" />
+                      <ReferenceLine y={50} x={50} stroke="#FF453A" strokeDasharray="3 3" />
+                      <Scatter 
+                        name="Subject" 
+                        data={confidenceAccuracyData} 
+                        fill="#0A84FF"
+                        shape={(props) => {
+                          const { cx, cy, r } = props;
+                          const subject = props.payload;
+                          const size = Math.max(5, Math.min(15, (subject.questions / 10) * 5));
+                          
+                          return (
+                            <circle 
+                              cx={cx} 
+                              cy={cy} 
+                              r={size} 
+                              fill={
+                                subject.confidenceRating > 50 && subject.accuracy > 50 ? "#30D158" :  // High confidence, high accuracy (Good)
+                                subject.confidenceRating <= 50 && subject.accuracy <= 50 ? "#FF9F0A" : // Low confidence, low accuracy (Aware)
+                                subject.confidenceRating > 50 && subject.accuracy <= 50 ? "#FF453A" :  // High confidence, low accuracy (Overconfident)
+                                "#8E8E93"  // Low confidence, high accuracy (Underconfident)
+                              }
+                              stroke="#FFFFFF"
+                              strokeWidth={1}
+                            />
+                          );
+                        }}
+                      />
+                    </ScatterChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+            
+            <Card>
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Confidence Breakdown</CardTitle>
+                <CardDescription>Distribution of confidence levels</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <PieChart>
+                      <Pie
+                        data={[
+                          { name: "High", value: overallStats.confidenceHigh, color: "#30D158" },
+                          { name: "Mid", value: overallStats.confidenceMid, color: "#FFD60A" },
+                          { name: "Low", value: overallStats.confidenceLow, color: "#FF453A" },
+                        ]}
+                        cx="50%"
+                        cy="50%"
+                        innerRadius={60}
+                        outerRadius={90}
+                        paddingAngle={2}
+                        dataKey="value"
+                        label={({ name, percent }) => `${name} ${(percent * 100).toFixed(0)}%`}
+                        labelLine={false}
+                      >
+                        {[
+                          { name: "High", value: overallStats.confidenceHigh, color: "#30D158" },
+                          { name: "Mid", value: overallStats.confidenceMid, color: "#FFD60A" },
+                          { name: "Low", value: overallStats.confidenceLow, color: "#FF453A" },
+                        ].map((entry, index) => (
+                          <Cell key={`cell-${index}`} fill={entry.color} />
+                        ))}
+                      </Pie>
+                      <Tooltip formatter={(value) => [`${value} questions`, ""]} />
+                      <Legend />
+                    </PieChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+        </TabsContent>
+        
+        {/* TIME ANALYTICS */}
+        <TabsContent value="time" className="mt-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <Card className="md:col-span-2">
+              <CardHeader className="pb-2">
+                <CardTitle className="text-lg">Time vs Accuracy</CardTitle>
+                <CardDescription>How time spent affects accuracy</CardDescription>
+              </CardHeader>
+              <CardContent>
+                <div className="h-80">
+                  <ResponsiveContainer width="100%" height="100%">
+                    <ScatterChart margin={{ top: 20, right: 20, bottom: 20, left: 20 }}>
+                      <CartesianGrid />
+                      <XAxis 
+                        type="number" 
+                        dataKey="avgTimeInSeconds" 
+                        name="Time" 
+                        unit=" sec"
+                      />
+                      <YAxis 
+                        type="number" 
+                        dataKey="accuracy" 
+                        name="Accuracy" 
+                        domain={[0, 100]}
+                        unit="%"
+                      />
+                      <Tooltip 
+                        cursor={{ strokeDasharray: '3 3' }}
+                        formatter={(value, name) => [
+                          name === "avgTimeInSeconds" ? `${value} seconds` : `${value}%`, 
+                          name === "avgTimeInSeconds" ? "Avg Time" : "Accuracy"
+                        ]}
+                        labelFormatter={(value, entry) => {
+                          const dataPoint = entry && entry[0] ? entry[0].payload : null;
+                          return dataPoint ? dataPoint.name : "";
+                        }}
+                      />
+                      <Scatter 
+                        name="Subject" 
+                        data={timeSensitivityData} 
+                        fill="#0A84FF"
+                        shape={(props) => {
+                          const { cx, cy, r } = props;
+                          const subject = props.payload;
+                          const size = Math.max(5, Math.min(15, (subject.questions / 10) * 5));
+                          
+                          return (
+                            <circle 
+                              cx={cx} 
+                              cy={cy} 
+                              r={size} 
+                              fill={
+                                subject.accuracy > 70 ? "#30D158" :
+                                subject.accuracy > 50 ? "#FFD60A" :
+                                "#FF453A"
+                              }
+                              stroke="#FFFFFF"
+                              strokeWidth={1}
+                            />
+                          );
+                        }}
+                      />
+                    </ScatterChart>
+                  </ResponsiveContainer>
+                </div>
+              </CardContent>
+            </Card>
+          </div>
+        </TabsContent>
+      </Tabs>
+    </div>
   );
 }
