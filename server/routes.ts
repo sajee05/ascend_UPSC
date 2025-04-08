@@ -1,6 +1,7 @@
 import type { Express, Request, Response } from "express";
 import { createServer, type Server } from "http";
 import { storage } from "./storage";
+import { switchDatabase, getStorage } from "./database-switcher";
 import { z } from "zod";
 import { 
   insertAttemptSchema,
@@ -576,24 +577,36 @@ export async function registerRoutes(app: Express): Promise<Server> {
       
       // Reload database connection
       try {
-        // For PostgreSQL, reinitialize the connection
+        // For PostgreSQL, test the connection first
         if (type === "postgresql") {
-          // Import the modules dynamically to get fresh instances
-          const pg = await import("postgres");
-          // Create a new client with the updated connection string
-          const client = pg.default(connectionString);
-          
-          // Test the connection
-          await client.query`SELECT 1`;
-          
-          return res.json({ 
-            success: true, 
-            message: "PostgreSQL database configured successfully" 
-          });
+          try {
+            // Test the connection with a simple query
+            const { Pool } = await import('pg');
+            const pool = new Pool({
+              connectionString: connectionString,
+            });
+            
+            // Test the connection
+            await pool.query('SELECT 1');
+            await pool.end();
+            
+            // If successful, switch the database
+            await switchDatabase(type, connectionString);
+            
+            return res.json({ 
+              success: true, 
+              message: "PostgreSQL database configured successfully" 
+            });
+          } catch (pgError: any) {
+            console.error("PostgreSQL connection error:", pgError);
+            return res.status(500).json({
+              message: `PostgreSQL connection failed: ${pgError.message}`,
+              error: pgError.message
+            });
+          }
         } else {
-          // For SQLite, use the adapter
-          const sqliteDb = await import("./sqlite-db");
-          sqliteDb.initializeDatabase();
+          // For SQLite, use the database switcher
+          await switchDatabase('sqlite');
           
           return res.json({ 
             success: true, 
@@ -604,7 +617,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
         console.error("Database configuration error:", dbError);
         return res.status(500).json({ 
           message: `Database connection failed: ${dbError.message}`,
-          error: dbError
+          error: dbError.message
         });
       }
     } catch (error: any) {

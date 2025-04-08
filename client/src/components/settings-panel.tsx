@@ -593,6 +593,130 @@ export default function SettingsPanel() {
             </div>
           </div>
           
+          {/* Database Configuration */}
+          <div>
+            <h3 className="font-medium text-lg mb-4">Database Configuration</h3>
+            <div className="space-y-4">
+              <div>
+                <Label className="block text-sm font-medium mb-2">Database Type</Label>
+                <RadioGroup 
+                  value={settings.databaseType || "sqlite"} 
+                  onValueChange={(value: "sqlite" | "postgresql") => updateSettings({ databaseType: value })}
+                  className="space-y-2"
+                >
+                  <div className="flex items-center space-x-2">
+                    <RadioGroupItem value="sqlite" id="sqlite" />
+                    <Label htmlFor="sqlite" className="cursor-pointer">SQLite (Portable Mode)</Label>
+                  </div>
+                  <div className="flex items-center space-x-2">
+                    <RadioGroupItem value="postgresql" id="postgresql" />
+                    <Label htmlFor="postgresql" className="cursor-pointer">PostgreSQL (Web Mode)</Label>
+                  </div>
+                </RadioGroup>
+                <p className="text-xs text-muted-foreground mt-1">
+                  Use SQLite for standalone usage and PostgreSQL for web/server deployments.
+                </p>
+              </div>
+              
+              {settings.databaseType === "postgresql" && (
+                <div>
+                  <Label className="block text-sm font-medium mb-2">PostgreSQL Connection String</Label>
+                  <div className="relative">
+                    <Input 
+                      type={showConnectionString ? "text" : "password"} 
+                      value={postgresConnectionString}
+                      onChange={(e) => setPostgresConnectionString(e.target.value)}
+                      className="pr-24"
+                      placeholder="postgresql://username:password@host:port/database"
+                    />
+                    <Button
+                      type="button"
+                      variant="ghost"
+                      size="sm"
+                      className="absolute right-1 top-1 h-7 text-xs"
+                      onClick={() => setShowConnectionString(!showConnectionString)}
+                    >
+                      {showConnectionString ? "Hide" : "Show"}
+                    </Button>
+                  </div>
+                  <p className="text-xs text-muted-foreground mt-1">
+                    Format: postgresql://username:password@hostname:port/database
+                  </p>
+                </div>
+              )}
+              
+              <Button 
+                variant="secondary" 
+                className="w-full justify-start"
+                onClick={async () => {
+                  setConfiguringDatabase(true);
+                  try {
+                    const response = await fetch('/api/database/configure', {
+                      method: 'POST',
+                      headers: {
+                        'Content-Type': 'application/json',
+                      },
+                      body: JSON.stringify({
+                        type: settings.databaseType || 'sqlite',
+                        connectionString: postgresConnectionString,
+                      }),
+                    });
+                    
+                    const data = await response.json();
+                    
+                    if (response.ok) {
+                      toast({
+                        title: "Database configured",
+                        description: data.message,
+                        className: "bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800",
+                        duration: 3000,
+                      });
+                      // Save connection string to settings
+                      updateSettings({ 
+                        postgresConnectionString,
+                        databaseType: settings.databaseType || 'sqlite'
+                      });
+                    } else {
+                      toast({
+                        title: "Configuration failed",
+                        description: data.message || "Unknown error occurred",
+                        variant: "destructive",
+                        duration: 5000,
+                      });
+                    }
+                  } catch (error) {
+                    console.error('Database configuration error:', error);
+                    toast({
+                      title: "Configuration error",
+                      description: "Failed to configure database. Check console for details.",
+                      variant: "destructive",
+                      duration: 5000,
+                    });
+                  } finally {
+                    setConfiguringDatabase(false);
+                  }
+                }}
+                disabled={configuringDatabase || (settings.databaseType === 'postgresql' && !postgresConnectionString)}
+              >
+                <Database className="h-4 w-4 mr-2" />
+                {configuringDatabase ? "Configuring..." : "Apply Database Configuration"}
+                {configuringDatabase && <Loader2 className="h-4 w-4 ml-2 animate-spin" />}
+              </Button>
+              
+              {settings.databaseType === "sqlite" && (
+                <p className="text-sm text-muted-foreground">
+                  <strong>SQLite Mode:</strong> All data is stored locally in a file. Perfect for portable usage or standalone deployments.
+                </p>
+              )}
+              
+              {settings.databaseType === "postgresql" && (
+                <p className="text-sm text-muted-foreground">
+                  <strong>PostgreSQL Mode:</strong> Data is stored in a remote database. Ideal for web deployments or multi-user scenarios.
+                </p>
+              )}
+            </div>
+          </div>
+          
           {/* Data Management */}
           <div>
             <h3 className="font-medium text-lg mb-4">Data Management</h3>
