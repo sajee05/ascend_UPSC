@@ -15,14 +15,24 @@ An advanced UPSC exam preparation platform that combines AI technologies with in
 
 - **Frontend**: React with TypeScript, Tailwind CSS, and Shadcn UI components
 - **Backend**: Node.js with Express
-- **Database**: PostgreSQL for data storage
+- **Database**: PostgreSQL for web version, SQLite for desktop version
 - **AI Integration**: OpenAI API for advanced question analysis
+- **Desktop Application**: Electron for cross-platform desktop experience
 
 ## Getting Started
 
+The Ascend UPSC application is available as both a web application and a standalone desktop application.
+
+### Desktop Application
 For installation instructions, please refer to:
 - [Windows Installation Guide](INSTALL_WINDOWS.md)
 - [macOS Installation Guide](INSTALL_MACOS.md)
+
+### Key Features of the Desktop Version
+- **No Internet Required**: All features work offline
+- **No Login Required**: Access all functionality without an account
+- **Portable Database**: Your data stays on your computer
+- **Same Experience**: Identical features to the web version
 
 ## File Format for Test Upload
 

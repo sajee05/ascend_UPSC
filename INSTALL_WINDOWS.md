@@ -1,112 +1,71 @@
-# Windows Installation Guide for Ascend UPSC
+# Installing Ascend UPSC on Windows
 
-This guide will walk you through the complete setup process for the Ascend UPSC application on Windows systems.
+This guide will help you install Ascend UPSC on your Windows computer.
 
-## Prerequisites
+## System Requirements
 
-Before starting, ensure you have the following installed on your Windows machine:
-
-1. **Node.js and npm**:
-   - Download and install the latest LTS version from [Node.js official website](https://nodejs.org/)
-   - Verify installation with `node -v` and `npm -v` in Command Prompt
-
-2. **Git**:
-   - Download and install from [Git for Windows](https://git-scm.com/download/win)
-   - Verify installation with `git --version`
-
-3. **PostgreSQL**:
-   - Download and install from [PostgreSQL Downloads](https://www.postgresql.org/download/windows/)
-   - During installation, note your password and the port (default is 5432)
-   - Verify installation by launching pgAdmin
-
-4. **Visual Studio Code** (optional but recommended):
-   - Download and install from [VS Code website](https://code.visualstudio.com/)
+- Windows 10 (64-bit) or higher
+- At least 4GB of RAM
+- 500MB of free disk space
+- Intel or AMD processor
 
 ## Installation Steps
 
-### 1. Clone the Repository
+1. Download the latest Windows installer (AscendUPSC-Setup.exe) from the releases page
+2. Double-click the downloaded .exe file to start the installer
+3. If a Windows Defender SmartScreen warning appears, click "More info" and then "Run anyway"
+4. Follow the installation wizard:
+   - Read and accept the license agreement
+   - Choose an installation location (or use the default)
+   - Select installation options (desktop shortcut, start menu entry)
+   - Click "Install" to complete the installation
 
-1. Open Command Prompt (or Git Bash)
-2. Navigate to where you want to store the project:
-   ```
-   cd C:\path\to\your\projects
-   ```
-3. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/ascend-upsc.git
-   cd ascend-upsc
-   ```
+## Starting the Application
 
-### 2. Set Up the Database
+- Launch Ascend UPSC from the desktop shortcut or Start menu
+- The application may take a few moments to start the first time as it initializes the local database
 
-1. Open pgAdmin (installed with PostgreSQL)
-2. Right-click on "Servers" → "PostgreSQL" → Enter your password
-3. Right-click on "Databases" → "Create" → "Database"
-4. Name the database "ascend_upsc" and save
+## Updating the Application
 
-Alternatively, use Command Prompt:
-```
-psql -U postgres
-CREATE DATABASE ascend_upsc;
-\q
-```
-
-### 3. Configure Environment Variables
-
-1. In the project root folder, create a file named `.env`
-2. Add the following content, adjusting values as needed:
-   ```
-   DATABASE_URL=postgresql://postgres:your_password@localhost:5432/ascend_upsc
-   PORT=5000
-   NODE_ENV=development
-   ```
-3. If you plan to use OpenAI features, add your API key:
-   ```
-   OPENAI_API_KEY=your_openai_api_key
-   ```
-
-### 4. Install Dependencies
-
-1. In Command Prompt, navigate to the project directory
-2. Use the Node Package Manager to install all required packages
-
-### 5. Run Database Migrations
-
-Use the database migration script to initialize the database with the required tables.
-
-### 6. Start the Application
-
-1. Start the development server using the npm script
-2. Open your browser and go to `http://localhost:5000`
+- The application will check for updates when launched
+- If an update is available, you'll be prompted to install it
+- Follow the on-screen instructions to complete the update
 
 ## Troubleshooting
 
-### Common Issues and Solutions
+If you encounter issues during installation or while using the application:
 
-1. **PostgreSQL Connection Issues**:
-   - Verify PostgreSQL is running (check Services in Windows)
-   - Confirm credentials in your .env file
-   - Try connecting with pgAdmin to test your credentials
+1. Make sure your Windows version is up to date
+2. Try running the installer as Administrator by right-clicking the .exe file and selecting "Run as administrator"
+3. Temporarily disable your antivirus software during installation (some antivirus programs may interfere with the installation process)
+4. If you receive a ".NET Framework" error, install the latest .NET Framework from Microsoft's website
 
-2. **Node.js Installation Problems**:
-   - Uninstall and reinstall Node.js
-   - Make sure npm is properly installed with Node.js
-   - Check your PATH environment variables
+## Uninstalling
 
-3. **Database Migration Errors**:
-   - Ensure PostgreSQL service is running
-   - Check if the database was created properly
-   - Verify your DATABASE_URL environment variable
+To remove Ascend UPSC from your computer:
 
-4. **Port Already in Use Error**:
-   - Change the PORT in your .env file
-   - Check for other applications using port 5000
-   - Use Task Manager to end processes that might be using the port
+1. Open the Windows Control Panel
+2. Go to "Programs and Features" (or "Apps & features" in Windows 10/11)
+3. Find "Ascend UPSC" in the list of installed programs
+4. Click "Uninstall" and follow the prompts
 
-5. **OpenAI API Issues**:
-   - Verify your API key is correct and has sufficient credits
-   - Check your network connection and proxy settings
+### Removing User Data
 
-## Support
+If you want to completely remove all data, you can also delete the application data:
 
-If you encounter any issues not covered in this guide, please reach out to the development team for support.
+1. Press Windows+R to open the Run dialog
+2. Type `%APPDATA%\ascend-upsc` and press Enter
+3. Delete the entire folder
+
+## Data Storage
+
+Ascend UPSC stores your data in a local SQLite database. This database is located in:
+```
+%APPDATA%\ascend-upsc\db\ascend-upsc.db
+```
+
+To back up your data, make a copy of this file before uninstalling the application.
+
+## Contact Support
+
+If you need assistance with the installation or have questions about the application, please contact our support team at support@ascendupsc.com.

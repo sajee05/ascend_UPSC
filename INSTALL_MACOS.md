@@ -1,100 +1,83 @@
-# macOS Installation Guide for Ascend UPSC
+# Installing Ascend UPSC on macOS
 
-This guide will walk you through the complete setup process for the Ascend UPSC application on macOS systems.
+This guide will help you install Ascend UPSC on your Mac computer.
 
-## Prerequisites
+## System Requirements
 
-Before starting, ensure you have the following installed on your Mac:
-
-1. **Homebrew**:
-   - Open Terminal
-   - Install Homebrew using the command from [brew.sh](https://brew.sh/)
-   - Verify installation with `brew --version`
-
-2. **Node.js and npm**:
-   - Install using Homebrew
-   - Verify installation in Terminal
-
-3. **Git**:
-   - Install using Homebrew
-   - Verify installation in Terminal
-
-4. **PostgreSQL**:
-   - Install using Homebrew
-   - Start PostgreSQL service
-   - Verify installation in Terminal
-
-5. **Visual Studio Code** (optional but recommended):
-   - Download and install from [VS Code website](https://code.visualstudio.com/)
-   - Alternatively, install using Homebrew
+- macOS 11.0 (Big Sur) or later
+- Intel or Apple Silicon (M1/M2) processor
+- At least 4GB of RAM
+- 500MB of free disk space
 
 ## Installation Steps
 
-### 1. Clone the Repository
+1. Download the latest macOS installer (AscendUPSC.dmg) from the releases page
+2. Double-click the downloaded .dmg file to mount it
+3. Drag the Ascend UPSC application icon to the Applications folder
+4. Eject the mounted disk image
 
-1. Open Terminal
-2. Navigate to where you want to store the project:
-   ```
-   cd ~/Documents/Projects
-   ```
-3. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/ascend-upsc.git
-   cd ascend-upsc
-   ```
+## First Launch
 
-### 2. Set Up the Database
+When launching Ascend UPSC for the first time:
 
-1. Create a new PostgreSQL database using createdb command
-2. Verify the database was created using psql
+1. Open the Applications folder in Finder
+2. Right-click (or Control-click) on Ascend UPSC
+3. Select "Open" from the context menu
+4. A security dialog may appear saying the app is from an unidentified developer
+5. Click "Open" to confirm you want to run the application
+6. The application may take a few moments to start as it initializes the local database
 
-### 3. Configure Environment Variables
+Note: This security verification is only needed the first time you run the application.
 
-1. In the project root folder, create a file named `.env`
-2. Add the following content, adjusting values as needed:
-   ```
-   DATABASE_URL=postgresql://$(whoami)@localhost:5432/ascend_upsc
-   PORT=5000
-   NODE_ENV=development
-   ```
-3. If you plan to use OpenAI features, add your API key:
-   ```
-   OPENAI_API_KEY=your_openai_api_key
-   ```
+## Updating the Application
 
-### 4. Final Setup
-
-1. Install project dependencies
-2. Run database migrations
-3. Start the application server
-4. Access the application at http://localhost:5000
+- The application will check for updates when launched
+- If an update is available, you'll be prompted to install it
+- Follow the on-screen instructions to complete the update
 
 ## Troubleshooting
 
-### Common Issues and Solutions
+If you encounter issues during installation or while using the application:
 
-1. **PostgreSQL Connection Issues**:
-   - Check if PostgreSQL service is running
-   - Restart PostgreSQL if needed
-   - Verify database connection
+1. Make sure your macOS version is up to date
+2. If you receive a message about the application being damaged:
+   - Open System Preferences > Security & Privacy
+   - Under the General tab, click "Open Anyway" if that option is available
+3. If the application won't open due to security settings:
+   - Open Terminal
+   - Run the command: `xattr -d com.apple.quarantine /Applications/Ascend\ UPSC.app`
+   - Try opening the application again
 
-2. **Node.js Issues**:
-   - Update Node.js if needed
-   - Clear cache
-   - Reinstall dependencies
+## Uninstalling
 
-3. **Git Clone Errors**:
-   - Check your internet connection
-   - Verify repository access
+To remove Ascend UPSC from your Mac:
 
-4. **Port Already in Use Error**:
-   - Change the PORT in your .env file
-   - Find and stop conflicting processes
+1. Open Finder and navigate to the Applications folder
+2. Drag the Ascend UPSC application to the Trash
+3. Empty the Trash
 
-5. **Permission Issues**:
-   - Check file permissions
-   - Ensure database write access
+### Removing User Data
 
-## Support
+If you want to completely remove all data, you can also delete the application data:
 
-If you encounter any issues not covered in this guide, please reach out to the development team for support.
+1. Open Finder
+2. Press Command+Shift+G to open the "Go to Folder" dialog
+3. Enter `~/Library/Application Support/ascend-upsc` and click Go
+4. Delete the entire folder
+
+## Data Storage
+
+Ascend UPSC stores your data in a local SQLite database. This database is located in:
+```
+~/Library/Application Support/ascend-upsc/db/ascend-upsc.db
+```
+
+To back up your data, make a copy of this file before uninstalling the application.
+
+## Apple Silicon (M1/M2) Compatibility
+
+Ascend UPSC is a universal application that runs natively on both Intel and Apple Silicon Macs. No Rosetta translation is required.
+
+## Contact Support
+
+If you need assistance with the installation or have questions about the application, please contact our support team at support@ascendupsc.com.

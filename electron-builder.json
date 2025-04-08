@@ -1,0 +1,57 @@
+{
+  "appId": "com.ascendupsc.app",
+  "productName": "Ascend UPSC",
+  "copyright": "Copyright © 2023-2024 Ascend UPSC",
+  "directories": {
+    "output": "dist_electron",
+    "buildResources": "."
+  },
+  "files": [
+    "dist/**/*",
+    "electron/**/*",
+    "node_modules/**/*",
+    "server/**/*",
+    "shared/**/*",
+    "package.json",
+    "server-starter.js",
+    "*.js"
+  ],
+  "mac": {
+    "category": "public.app-category.education",
+    "target": [
+      "dmg"
+    ],
+    "icon": "generated-icon.png"
+  },
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": [
+          "x64"
+        ]
+      }
+    ],
+    "icon": "generated-icon.png"
+  },
+  "nsis": {
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "Ascend UPSC"
+  },
+  "linux": {
+    "target": [
+      "AppImage"
+    ],
+    "category": "Education"
+  },
+  "extraResources": [
+    {
+      "from": "assets",
+      "to": "assets"
+    }
+  ],
+  "publish": null
+}

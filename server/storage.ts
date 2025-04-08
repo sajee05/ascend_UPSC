@@ -1879,5 +1879,20 @@ export class DatabaseStorage implements IStorage {
   }
 }
 
-// Use database storage instead of in-memory storage
-export const storage = new DatabaseStorage();
+// Import the SqliteAdapter if needed
+import { SqliteAdapter } from './sqlite-adapter';
+import { logger } from './logger';
+
+// Decide which storage implementation to use based on environment
+let storage: IStorage;
+
+// Check if running in Electron (ELECTRON_RUN is set in server-starter.js)
+if (process.env.ELECTRON_RUN === '1') {
+  console.log('Using SQLite storage for desktop mode');
+  storage = new SqliteAdapter();
+} else {
+  console.log('Using PostgreSQL storage for web mode');
+  storage = new DatabaseStorage();
+}
+
+export { storage };
