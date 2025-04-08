@@ -107,14 +107,33 @@ export function FileUploader() {
         const test = await testResponse.json();
         
         // Convert parsed questions to the format expected by the database
-        const questions: InsertQuestion[] = convertParsedQuestions(test.id, parseResult.questions);
+        // For large question sets, split into batches of 50 questions
+        const BATCH_SIZE = 50;
+        const allQuestions = convertParsedQuestions(test.id, parseResult.questions);
+        let uploadedCount = 0;
         
-        // Upload questions
-        const questionsResponse = await apiRequest("POST", "/api/questions", questions);
-        
-        if (!questionsResponse.ok) {
-          const errorData = await questionsResponse.json();
-          throw new Error(`API error while saving questions: ${errorData.message || questionsResponse.statusText}`);
+        // Process in batches to avoid payload size issues
+        for (let i = 0; i < allQuestions.length; i += BATCH_SIZE) {
+          const batch = allQuestions.slice(i, i + BATCH_SIZE);
+          console.log(`Uploading batch ${i/BATCH_SIZE + 1} of ${Math.ceil(allQuestions.length/BATCH_SIZE)}, containing ${batch.length} questions`);
+          
+          // Upload questions
+          const questionsResponse = await apiRequest("POST", "/api/questions", batch);
+          
+          if (!questionsResponse.ok) {
+            const errorData = await questionsResponse.json();
+            throw new Error(`API error while saving questions in batch ${i/BATCH_SIZE + 1}: ${errorData.message || questionsResponse.statusText}`);
+          }
+          
+          uploadedCount += batch.length;
+          
+          // Update toast to show progress
+          if (i + BATCH_SIZE < allQuestions.length) {
+            toast({
+              title: "Upload Progress",
+              description: `Processed ${uploadedCount} of ${allQuestions.length} questions...`,
+            });
+          }
         }
         
         // Show success notification
