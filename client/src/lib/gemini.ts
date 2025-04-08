@@ -74,6 +74,8 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
 
 import { QuestionWithTags, SubjectStats, UserAnswer } from "@shared/schema";
 
+export const DEFAULT_PARSING_PROMPT_TITLE = "Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanations from the provided input text into a specific, structured format. Adhere strictly to the rules below.";
+
 // Default prompts
 export const DEFAULT_EXPLANATION_PROMPT = `Analyze this UPSC question and provide a detailed explanation of why the correct answer is right and why the other options are wrong. 
 
