@@ -70,7 +70,7 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
 
 *Mandatory Rules & Constraints:**
 
-1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|"" in between the options). If there statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example.Use the precise tags (`#QuestionStart`, `#QuestionEnd`, `#AnswerStart`, `#AnswerEnd`) and prefixes (`Q1)`, `Answer:`, `Explanation:`) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
+1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|" in between the options). If there are statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example. Use the precise tags (`#QuestionStart`, `#QuestionEnd`, `#AnswerStart`, `#AnswerEnd`) and prefixes (`Q1)`, `Answer:`, `Explanation:`) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
 
 2. **100% Accuracy to Input:** Reproduce the question text, all options, the identified correct answer, and the explanation text *exactly* as they appear in the input provided format. Do not rephrase, summarize, or omit any part of the original content unless addressing rule #5, in which case add the correction with in a bracket along with explanation but dont modify original..
 
