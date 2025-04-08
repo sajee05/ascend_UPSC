@@ -11,14 +11,14 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 let activeStorage: IStorage | null = null;
-let activeDbType: 'sqlite' | 'postgresql' = 'postgresql'; // Default to PostgreSQL
+let activeDbType: 'sqlite' | 'postgresql' = 'sqlite'; // Default to SQLite
 
 /**
  * Initialize the appropriate database based on environment variables
  */
 export async function initializeDatabase(): Promise<IStorage> {
   // Check for database type setting
-  const dbType = process.env.DB_TYPE || 'postgresql';
+  const dbType = process.env.DB_TYPE || 'sqlite';
   
   if (dbType === 'sqlite') {
     return initializeSqlite();

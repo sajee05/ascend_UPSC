@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { PlayIcon, DownloadIcon, BarChart3Icon, Loader2Icon, EyeIcon, Trash2Icon } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
+import { useUIState } from "@/hooks/use-ui-state";
 import { apiRequest } from "@/lib/queryClient";
 import { formatDate, downloadCSV, generateFileName } from "@/lib/utils";
 import { TestWithStats, QuestionWithTags } from "@shared/schema";
@@ -153,6 +154,7 @@ export function TestList() {
   const [isDeletingTest, setIsDeletingTest] = useState<number | null>(null);
   const [testToDelete, setTestToDelete] = useState<number | null>(null);
   const { toast } = useToast();
+  const { updateUIState } = useUIState();
   const queryClient = useQueryClient();
   const [, navigate] = useLocation();
 
@@ -354,10 +356,7 @@ export function TestList() {
               size="sm"
               onClick={() => {
                 // Open settings panel to database configuration section
-                import("@/hooks/use-ui-state").then(({ useUIState }) => {
-                  const { updateUIState } = useUIState.getState();
-                  updateUIState({ settingsPanelOpen: true });
-                });
+                updateUIState({ settingsPanelOpen: true });
               }}
             >
               Configure Database
