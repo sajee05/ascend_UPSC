@@ -1,6 +1,6 @@
 /**
- * Build script for creating a portable Windows .exe file
- * This script automates the build process for the Electron app
+ * Build script for creating a Windows installer (.exe)
+ * This script automates the build process for the Electron app installer
  */
 
 import { exec as execCallback, execSync } from 'child_process';
@@ -17,7 +17,7 @@ import { promisify } from 'util';
 const exec = promisify(execCallback);
 
 console.log('=============================================');
-console.log('Starting build process for portable executable');
+console.log('Starting build process for Windows installer');
 console.log('=============================================');
 
 // Verify that all necessary tools are installed
@@ -25,11 +25,10 @@ try {
   console.log('Checking for required tools...');
   execSync('electron-builder --version', { stdio: 'pipe' });
   execSync('esbuild --version', { stdio: 'pipe' });
-  execSync('pkg --version', { stdio: 'pipe' });
   console.log('✓ All required tools found');
 } catch (error) {
   console.error('Error: Required build tools are missing. Please run:');
-  console.error('npm install -g electron-builder esbuild typescript pkg');
+  console.error('npm install -g electron-builder esbuild typescript');
   process.exit(1);
 }
 
@@ -48,21 +47,28 @@ if (!fs.existsSync(dbSource)) {
   }
 }
 
-// Create electron-builder configuration for portable app
+// Create electron-builder.yml configuration file
 const electronBuilderConfig = `
 appId: "com.ascendupsc.app"
 productName: "Ascend UPSC"
 copyright: "Copyright © ${new Date().getFullYear()}"
 
+# Installer configuration
+nsis:
+  oneClick: true
+  allowElevation: true
+  allowToChangeInstallationDirectory: false
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: "Ascend UPSC"
+  uninstallDisplayName: "Ascend UPSC"
+  artifactName: "AscendUPSC-Setup-\${version}.\${ext}"
+
 # Windows configuration  
 win:
   target: 
-    - "portable"
+    - "nsis"
   icon: "resources/icon.ico"
-  
-# Configuration for portable executable  
-portable:
-  artifactName: "AscendUPSC-Portable.exe"
   
 # Distribution files
 files:
@@ -85,11 +91,11 @@ extraResources:
 `;
 
 // Write the configuration file
-fs.writeFileSync('electron-builder-portable.yml', electronBuilderConfig);
-console.log('✓ Created electron-builder-portable.yml configuration');
+fs.writeFileSync('electron-builder.yml', electronBuilderConfig);
+console.log('✓ Created electron-builder.yml configuration');
 
 // Main build function using async/await
-async function buildPortable() {
+async function buildInstaller() {
   try {
     // Step 1: Build the Vite app
     console.log('\n1. Building Vite app...');
@@ -127,7 +133,7 @@ async function buildPortable() {
       process.exit(1);
     }
     
-    // Step 4: Create resources directory and prepare database
+    // Step 4: Create resources directory and icon if not exist
     console.log('\n4. Preparing resources for packaging...');
     
     // Create resources directory if it doesn't exist
@@ -168,10 +174,10 @@ async function buildPortable() {
       process.exit(1);
     }
     
-    // Step 5: Build Electron portable app
-    console.log('\n5. Building portable executable...');
+    // Step 5: Build Electron app with NSIS installer
+    console.log('\n5. Building Windows installer...');
     try {
-      const { stdout, stderr } = await exec('electron-builder --win --config=electron-builder-portable.yml');
+      const { stdout, stderr } = await exec('electron-builder --win --config=electron-builder.yml');
       console.log(stdout);
       if (stderr) console.error(stderr);
       
@@ -180,30 +186,30 @@ async function buildPortable() {
       
       if (fs.existsSync(outputDir)) {
         const files = fs.readdirSync(outputDir);
-        const portableFiles = files.filter(file => file.includes('Portable') && file.endsWith('.exe'));
+        const installerFiles = files.filter(file => file.includes('Setup') && file.endsWith('.exe'));
         
-        if (portableFiles.length > 0) {
+        if (installerFiles.length > 0) {
           console.log('\n=============================================');
           console.log('Build completed successfully!');
           console.log('=============================================');
-          console.log('Portable executable created at:');
-          portableFiles.forEach(file => {
+          console.log('Windows installer created at:');
+          installerFiles.forEach(file => {
             const filePath = path.join(outputDir, file);
             const fileSize = fs.statSync(filePath).size;
             console.log(`${filePath} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
           });
           console.log('\nNext steps:');
-          console.log('1. Test the portable app on a clean Windows system');
-          console.log('2. Distribute to users - they can run it directly without installation!');
+          console.log('1. Test the installer on a clean Windows system');
+          console.log('2. Distribute to users - they can install with just one click!');
           console.log('=============================================');
         } else {
-          console.log('Build completed, but no portable executable found in the output directory.');
+          console.log('Build completed, but no installer file found in the output directory.');
         }
       } else {
         console.log('Build completed, but output directory not found.');
       }
     } catch (error) {
-      console.error('Error building portable executable:', error);
+      console.error('Error building Windows installer:', error);
       process.exit(1);
     }
   } catch (error) {
@@ -213,7 +219,7 @@ async function buildPortable() {
 }
 
 // Run the build process
-buildPortable().catch(error => {
+buildInstaller().catch(error => {
   console.error('Error during build:', error);
   process.exit(1);
 });

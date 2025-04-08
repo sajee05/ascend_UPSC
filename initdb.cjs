@@ -1,331 +1,353 @@
 /**
- * Database initialization script
- * Run this script to create and initialize the SQLite database with sample data
+ * Database initialization script for Ascend UPSC Windows installer
+ * 
+ * This script creates a SQLite database with initial structure and sample data
+ * for the Windows installer to bundle with the application.
  */
 
-const Database = require('better-sqlite3');
 const fs = require('fs');
 const path = require('path');
+const { Database } = require('better-sqlite3');
 
-// Database path
+console.log('===========================================');
+console.log('Initializing SQLite database for installer');
+console.log('===========================================');
+
+// Path to the database file
 const dbPath = path.join(__dirname, 'ascend-upsc.db');
 
-console.log(`Initializing SQLite database at: ${dbPath}`);
-
-// Remove existing database if it exists
+// Check if database already exists
 if (fs.existsSync(dbPath)) {
-  console.log('Removing existing database...');
-  fs.unlinkSync(dbPath);
+  console.log(`Database already exists at: ${dbPath}`);
+  console.log('Skipping initialization');
+  process.exit(0);
 }
 
-// Create new database
+// Create a new database
+console.log(`Creating new database at: ${dbPath}`);
 const db = new Database(dbPath);
 
+// Enable foreign keys
+db.pragma('foreign_keys = ON');
+
+console.log('Creating database tables...');
+
 // Create tables
-console.log('Creating tables...');
-
-// Subjects table
 db.exec(`
-  CREATE TABLE subjects (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name TEXT NOT NULL UNIQUE,
-    description TEXT,
-    sort_order INTEGER DEFAULT 0,
-    is_active INTEGER DEFAULT 1,
-    created_at TEXT NOT NULL
-  )
+-- Subjects table
+CREATE TABLE IF NOT EXISTS "subjects" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "name" TEXT NOT NULL,
+  "created_at" TEXT DEFAULT (datetime('now'))
+);
+
+-- Topics table
+CREATE TABLE IF NOT EXISTS "topics" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "name" TEXT NOT NULL,
+  "subject_id" INTEGER NOT NULL,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("subject_id") REFERENCES "subjects" ("id") ON DELETE CASCADE
+);
+
+-- Subtopics table
+CREATE TABLE IF NOT EXISTS "subtopics" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "name" TEXT NOT NULL,
+  "topic_id" INTEGER NOT NULL,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("topic_id") REFERENCES "topics" ("id") ON DELETE CASCADE
+);
+
+-- Tests table
+CREATE TABLE IF NOT EXISTS "tests" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "title" TEXT NOT NULL,
+  "description" TEXT,
+  "filename" TEXT,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  "modified_at" TEXT DEFAULT (datetime('now'))
+);
+
+-- Questions table
+CREATE TABLE IF NOT EXISTS "questions" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "test_id" INTEGER NOT NULL,
+  "question_text" TEXT NOT NULL,
+  "option_a" TEXT,
+  "option_b" TEXT,
+  "option_c" TEXT,
+  "option_d" TEXT,
+  "correct_option" TEXT NOT NULL,
+  "explanation" TEXT,
+  "subject_id" INTEGER,
+  "topic_id" INTEGER,
+  "subtopic_id" INTEGER,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("test_id") REFERENCES "tests" ("id") ON DELETE CASCADE,
+  FOREIGN KEY ("subject_id") REFERENCES "subjects" ("id") ON DELETE SET NULL,
+  FOREIGN KEY ("topic_id") REFERENCES "topics" ("id") ON DELETE SET NULL,
+  FOREIGN KEY ("subtopic_id") REFERENCES "subtopics" ("id") ON DELETE SET NULL
+);
+
+-- Tags table
+CREATE TABLE IF NOT EXISTS "tags" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "name" TEXT UNIQUE NOT NULL,
+  "question_id" INTEGER NOT NULL,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("question_id") REFERENCES "questions" ("id") ON DELETE CASCADE
+);
+
+-- Attempts table
+CREATE TABLE IF NOT EXISTS "attempts" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "test_id" INTEGER NOT NULL,
+  "start_time" TEXT NOT NULL,
+  "end_time" TEXT,
+  "total_questions" INTEGER NOT NULL,
+  "attempted_questions" INTEGER DEFAULT 0,
+  "correct_answers" INTEGER DEFAULT 0,
+  "status" TEXT DEFAULT 'in_progress',
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("test_id") REFERENCES "tests" ("id") ON DELETE CASCADE
+);
+
+-- User Answers table
+CREATE TABLE IF NOT EXISTS "user_answers" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "attempt_id" INTEGER NOT NULL,
+  "question_id" INTEGER NOT NULL,
+  "selected_option" TEXT,
+  "is_correct" INTEGER,
+  "time_taken" INTEGER,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("attempt_id") REFERENCES "attempts" ("id") ON DELETE CASCADE,
+  FOREIGN KEY ("question_id") REFERENCES "questions" ("id") ON DELETE CASCADE
+);
+
+-- Flashcards table
+CREATE TABLE IF NOT EXISTS "flashcards" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "question_id" INTEGER NOT NULL UNIQUE,
+  "status" TEXT DEFAULT 'new',
+  "review_count" INTEGER DEFAULT 0,
+  "last_reviewed" TEXT,
+  "next_review" TEXT,
+  "difficulty" TEXT DEFAULT 'medium',
+  "created_at" TEXT DEFAULT (datetime('now')),
+  FOREIGN KEY ("question_id") REFERENCES "questions" ("id") ON DELETE CASCADE
+);
+
+-- App Settings table
+CREATE TABLE IF NOT EXISTS "app_settings" (
+  "id" INTEGER PRIMARY KEY AUTOINCREMENT,
+  "key" TEXT UNIQUE NOT NULL,
+  "value" TEXT,
+  "created_at" TEXT DEFAULT (datetime('now')),
+  "modified_at" TEXT DEFAULT (datetime('now'))
+);
 `);
 
-// Topics table
-db.exec(`
-  CREATE TABLE topics (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    subject_id INTEGER NOT NULL,
-    name TEXT NOT NULL,
-    description TEXT,
-    sort_order INTEGER DEFAULT 0,
-    is_active INTEGER DEFAULT 1,
-    created_at TEXT NOT NULL,
-    FOREIGN KEY (subject_id) REFERENCES subjects(id)
-  )
-`);
+console.log('✓ Database tables created successfully');
 
-// Tests table
-db.exec(`
-  CREATE TABLE tests (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    name TEXT NOT NULL,
-    description TEXT,
-    difficulty TEXT,
-    time_limit INTEGER,
-    total_questions INTEGER,
-    is_active INTEGER DEFAULT 1,
-    created_at TEXT NOT NULL
-  )
-`);
+// Insert initial data
+console.log('Inserting initial data...');
 
-// Questions table
-db.exec(`
-  CREATE TABLE questions (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    test_id INTEGER NOT NULL,
-    question_text TEXT NOT NULL,
-    option_a TEXT NOT NULL,
-    option_b TEXT NOT NULL,
-    option_c TEXT NOT NULL,
-    option_d TEXT NOT NULL,
-    correct_answer TEXT NOT NULL,
-    explanation TEXT,
-    is_active INTEGER DEFAULT 1,
-    created_at TEXT NOT NULL,
-    FOREIGN KEY (test_id) REFERENCES tests(id)
-  )
-`);
-
-// Question subjects junction table
-db.exec(`
-  CREATE TABLE question_subjects (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    question_id INTEGER NOT NULL,
-    subject_id INTEGER NOT NULL,
-    FOREIGN KEY (question_id) REFERENCES questions(id),
-    FOREIGN KEY (subject_id) REFERENCES subjects(id)
-  )
-`);
-
-// Question topics junction table
-db.exec(`
-  CREATE TABLE question_topics (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    question_id INTEGER NOT NULL,
-    topic_id INTEGER NOT NULL,
-    FOREIGN KEY (question_id) REFERENCES questions(id),
-    FOREIGN KEY (topic_id) REFERENCES topics(id)
-  )
-`);
-
-// Tags table
-db.exec(`
-  CREATE TABLE tags (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    question_id INTEGER NOT NULL,
-    tag_name TEXT NOT NULL,
-    is_ai_generated INTEGER NOT NULL DEFAULT 0,
-    created_at TEXT NOT NULL,
-    FOREIGN KEY (question_id) REFERENCES questions(id)
-  )
-`);
-
-// Attempts table
-db.exec(`
-  CREATE TABLE attempts (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    test_id INTEGER NOT NULL,
-    attempt_number INTEGER NOT NULL,
-    start_time TEXT NOT NULL,
-    end_time TEXT,
-    total_time_seconds INTEGER,
-    completed INTEGER NOT NULL DEFAULT 0,
-    score REAL,
-    correct_count INTEGER,
-    incorrect_count INTEGER,
-    left_count INTEGER,
-    FOREIGN KEY (test_id) REFERENCES tests(id)
-  )
-`);
-
-// User answers table
-db.exec(`
-  CREATE TABLE user_answers (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    attempt_id INTEGER NOT NULL,
-    question_id INTEGER NOT NULL,
-    selected_option TEXT,
-    is_correct INTEGER,
-    is_left INTEGER,
-    answer_time INTEGER,
-    knowledge_flag INTEGER DEFAULT 0,
-    technique_flag INTEGER DEFAULT 0,
-    guesswork_flag INTEGER DEFAULT 0,
-    confidence INTEGER,
-    notes TEXT,
-    created_at TEXT NOT NULL,
-    FOREIGN KEY (attempt_id) REFERENCES attempts(id),
-    FOREIGN KEY (question_id) REFERENCES questions(id)
-  )
-`);
-
-// Flashcards table
-db.exec(`
-  CREATE TABLE flashcards (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    question_id INTEGER NOT NULL,
-    created_at TEXT NOT NULL,
-    last_reviewed_at TEXT,
-    next_review_at TEXT,
-    ease_factor REAL NOT NULL DEFAULT 2.5,
-    interval INTEGER NOT NULL DEFAULT 1,
-    review_count INTEGER NOT NULL DEFAULT 0,
-    difficulty_rating INTEGER,
-    notes TEXT,
-    FOREIGN KEY (question_id) REFERENCES questions(id)
-  )
-`);
-
-// Users table (for future use)
-db.exec(`
-  CREATE TABLE users (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    username TEXT NOT NULL UNIQUE,
-    password TEXT NOT NULL
-  )
-`);
-
-// Insert sample data
-console.log('Inserting sample data...');
-
-// Subjects
-const now = new Date().toISOString();
-const insertSubject = db.prepare(`
-  INSERT INTO subjects (name, description, created_at) 
-  VALUES (?, ?, ?)
-`);
-
-// Insert some default subjects
+// Insert subjects
+const insertSubject = db.prepare('INSERT INTO subjects (name) VALUES (?)');
 const subjects = [
-  { name: 'Economics', description: 'Economic concepts and theories' },
-  { name: 'History', description: 'Historical events and developments' },
-  { name: 'Geography', description: 'Physical and human geography' },
-  { name: 'Polity', description: 'Political systems and governance' },
-  { name: 'Science & Technology', description: 'Scientific and technological concepts' },
-  { name: 'Environment', description: 'Environmental issues and ecology' },
-  { name: 'International Relations', description: 'Global politics and diplomacy' },
+  'History',
+  'Geography',
+  'Economics',
+  'Political Science',
+  'Science & Technology',
+  'Environment & Ecology',
+  'Current Affairs'
 ];
 
+const subjectIds = {};
 subjects.forEach(subject => {
-  insertSubject.run(subject.name, subject.description, now);
+  const info = insertSubject.run(subject);
+  subjectIds[subject] = info.lastInsertRowid;
 });
 
-// Topics
-const insertTopic = db.prepare(`
-  INSERT INTO topics (subject_id, name, description, created_at) 
-  VALUES (?, ?, ?, ?)
-`);
+// Insert topics for each subject
+const insertTopic = db.prepare('INSERT INTO topics (name, subject_id) VALUES (?, ?)');
+const topicData = {
+  'History': ['Ancient India', 'Medieval India', 'Modern India', 'World History'],
+  'Geography': ['Physical Geography', 'Indian Geography', 'World Geography', 'Economic Geography'],
+  'Economics': ['Microeconomics', 'Macroeconomics', 'Indian Economy', 'International Economics'],
+  'Political Science': ['Indian Constitution', 'Governance', 'International Relations', 'Political Theory'],
+  'Science & Technology': ['Physics', 'Chemistry', 'Biology', 'Technology & Innovation'],
+  'Environment & Ecology': ['Ecosystem', 'Climate Change', 'Biodiversity', 'Environmental Policies'],
+  'Current Affairs': ['National', 'International', 'Economy', 'Science & Tech']
+};
 
-// Insert some topics for Economics
-const economicsTopics = [
-  { name: 'Macroeconomics', description: 'Study of economy-wide phenomena' },
-  { name: 'Monetary Policy', description: 'Central bank policies affecting money supply' },
-  { name: 'Fiscal Policy', description: 'Government spending and taxation' },
-  { name: 'International Trade', description: 'Exchange of goods and services across borders' },
-];
+const topicIds = {};
+for (const subject in topicData) {
+  const subjectId = subjectIds[subject];
+  topicData[subject].forEach(topic => {
+    const info = insertTopic.run(topic, subjectId);
+    if (!topicIds[subject]) topicIds[subject] = {};
+    topicIds[subject][topic] = info.lastInsertRowid;
+  });
+}
 
-economicsTopics.forEach(topic => {
-  insertTopic.run(1, topic.name, topic.description, now);
-});
+// Insert subtopics
+const insertSubtopic = db.prepare('INSERT INTO subtopics (name, topic_id) VALUES (?, ?)');
+const subtopicData = {
+  'History': {
+    'Ancient India': ['Indus Valley Civilization', 'Vedic Period', 'Buddhism & Jainism', 'Mauryan Empire'],
+    'Medieval India': ['Delhi Sultanate', 'Mughal Empire', 'Vijayanagara Empire', 'Medieval Art & Architecture'],
+    'Modern India': ['British Rule', 'Freedom Movement', 'Post-Independence India', 'Social Reforms'],
+    'World History': ['Renaissance', 'World Wars', 'Cold War', 'Decolonization']
+  },
+  'Economics': {
+    'Microeconomics': ['Market Structures', 'Consumer Theory', 'Production Theory', 'Price Determination'],
+    'Macroeconomics': ['National Income', 'Inflation', 'Monetary Policy', 'Fiscal Policy'],
+    'Indian Economy': ['Economic Reforms', 'Agriculture', 'Industry', 'Service Sector'],
+    'International Economics': ['Trade Theory', 'Balance of Payments', 'Exchange Rates', 'International Organizations']
+  }
+};
+
+for (const subject in subtopicData) {
+  for (const topic in subtopicData[subject]) {
+    const topicId = topicIds[subject][topic];
+    subtopicData[subject][topic].forEach(subtopic => {
+      insertSubtopic.run(subtopic, topicId);
+    });
+  }
+}
 
 // Create a sample test
-const insertTest = db.prepare(`
-  INSERT INTO tests (name, description, difficulty, time_limit, total_questions, created_at) 
-  VALUES (?, ?, ?, ?, ?, ?)
-`);
+const insertTest = db.prepare('INSERT INTO tests (title, description, filename) VALUES (?, ?, ?)');
+const testInfo = insertTest.run(
+  'Economics BASICS Sample Test',
+  'A sample test covering fundamental economics concepts',
+  'economics_basics.txt'
+);
+const testId = testInfo.lastInsertRowid;
 
-const testId = insertTest.run(
-  'Economics Basics Quiz',
-  'Test your knowledge of basic economic concepts',
-  'medium',
-  30,
-  5,
-  now
-).lastInsertRowid;
-
-// Insert sample questions
+// Create sample questions
 const insertQuestion = db.prepare(`
-  INSERT INTO questions (test_id, question_text, option_a, option_b, option_c, option_d, correct_answer, explanation, created_at) 
-  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+  INSERT INTO questions 
+  (test_id, question_text, option_a, option_b, option_c, option_d, correct_option, explanation, subject_id, topic_id) 
+  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 `);
 
-const questions = [
+const sampleQuestions = [
   {
-    question: 'Which of the following is NOT a function of the Reserve Bank of India?',
-    optionA: 'Banker to the Government',
-    optionB: 'Issuing currency notes',
-    optionC: 'Directly lending to farmers',
-    optionD: 'Banker\'s Bank',
-    correctAnswer: 'C',
-    explanation: 'The RBI does not directly lend to farmers. Agricultural lending is done through commercial banks, regional rural banks, and cooperative banks.',
+    question: 'Which of the following is NOT a measure of national income?',
+    optionA: 'Gross Domestic Product (GDP)',
+    optionB: 'Net National Product (NNP)',
+    optionC: 'Consumer Price Index (CPI)',
+    optionD: 'Gross National Product (GNP)',
+    correctOption: 'C',
+    explanation: 'Consumer Price Index (CPI) is a measure of inflation, not national income. GDP, NNP, and GNP are all measures of national income.',
+    subject: 'Economics',
+    topic: 'Macroeconomics'
   },
   {
-    question: 'Gross Domestic Product (GDP) measures:',
-    optionA: 'The total value of goods and services produced within a country in a year',
-    optionB: 'The total income of all citizens of a country',
-    optionC: 'The difference between exports and imports',
-    optionD: 'The total government revenue in a fiscal year',
-    correctAnswer: 'A',
-    explanation: 'GDP measures the total market value of all final goods and services produced within a country in a specific time period.',
+    question: 'Which of the following is the apex banking institution in India?',
+    optionA: 'State Bank of India',
+    optionB: 'Reserve Bank of India',
+    optionC: 'NITI Aayog',
+    optionD: 'Finance Ministry',
+    correctOption: 'B',
+    explanation: 'The Reserve Bank of India (RBI) is the central bank and apex monetary authority of India, established on April 1, 1935.',
+    subject: 'Economics',
+    topic: 'Indian Economy'
   },
   {
-    question: 'Inflation targeting in India is the responsibility of:',
-    optionA: 'Ministry of Finance',
-    optionB: 'NITI Aayog',
-    optionC: 'Reserve Bank of India',
+    question: 'Fiscal policy in India is formulated by:',
+    optionA: 'Reserve Bank of India',
+    optionB: 'Ministry of Finance',
+    optionC: 'NITI Aayog',
     optionD: 'Securities and Exchange Board of India',
-    correctAnswer: 'C',
-    explanation: 'The Reserve Bank of India (RBI) is responsible for inflation targeting in India through its monetary policy framework.',
+    correctOption: 'B',
+    explanation: 'Fiscal policy, which involves government revenue and expenditure decisions, is formulated by the Ministry of Finance in India.',
+    subject: 'Economics',
+    topic: 'Macroeconomics'
   },
   {
-    question: 'Which of the following is an example of direct tax?',
-    optionA: 'Goods and Services Tax (GST)',
-    optionB: 'Income Tax',
-    optionC: 'Excise Duty',
-    optionD: 'Customs Duty',
-    correctAnswer: 'B',
-    explanation: 'Income tax is a direct tax as it is levied directly on the income of individuals and cannot be transferred to another person.',
+    question: 'In economics, what does "Gresham\'s Law" state?',
+    optionA: 'Good money drives out bad money',
+    optionB: 'Bad money drives out good money',
+    optionC: 'Inflation rises as unemployment falls',
+    optionD: 'Prices rise when supply exceeds demand',
+    correctOption: 'B',
+    explanation: 'Gresham\'s Law states that "bad money drives out good money," meaning that when two currencies are in circulation, people will hoard the more valuable one and spend the less valuable one.',
+    subject: 'Economics',
+    topic: 'Microeconomics'
   },
   {
-    question: 'The Monetary Policy Committee (MPC) in India comprises:',
-    optionA: '3 members from RBI and 3 external members',
-    optionB: '4 members from RBI and 2 external members',
-    optionC: '2 members from RBI and 4 external members',
-    optionD: 'All members are from RBI',
-    correctAnswer: 'A',
-    explanation: 'The MPC consists of six members - three officials from the RBI (including the Governor) and three external members appointed by the Government of India.',
+    question: 'Which of the following is NOT one of the four factors of production in economics?',
+    optionA: 'Land',
+    optionB: 'Labor',
+    optionC: 'Technology',
+    optionD: 'Capital',
+    correctOption: 'C',
+    explanation: 'The four classical factors of production are Land, Labor, Capital, and Entrepreneurship. Technology is considered a factor affecting productivity rather than a distinct factor of production.',
+    subject: 'Economics',
+    topic: 'Microeconomics'
   }
 ];
 
-const insertQuestionSubject = db.prepare(`
-  INSERT INTO question_subjects (question_id, subject_id) 
-  VALUES (?, ?)
-`);
-
-const insertTag = db.prepare(`
-  INSERT INTO tags (question_id, tag_name, is_ai_generated, created_at) 
-  VALUES (?, ?, ?, ?)
-`);
-
-// Insert questions and link to subjects and tags
-questions.forEach((q, index) => {
-  const questionId = insertQuestion.run(
+// Insert sample questions
+sampleQuestions.forEach(q => {
+  const subjectId = subjectIds[q.subject];
+  const topicId = topicIds[q.subject][q.topic];
+  
+  const questionInfo = insertQuestion.run(
     testId,
     q.question,
     q.optionA,
     q.optionB,
     q.optionC,
     q.optionD,
-    q.correctAnswer,
+    q.correctOption,
     q.explanation,
-    now
-  ).lastInsertRowid;
-  
-  // Link question to the Economics subject
-  insertQuestionSubject.run(questionId, 1); // Economics subject id is 1
+    subjectId,
+    topicId
+  );
   
   // Add some tags to the questions
-  const tags = ['UPSC', 'Economics', 'Basics'];
-  tags.forEach(tag => {
-    insertTag.run(questionId, tag, 0, now);
+  const questionId = questionInfo.lastInsertRowid;
+  const insertTag = db.prepare('INSERT INTO tags (name, question_id) VALUES (?, ?)');
+  
+  // Add subject and topic as tags
+  insertTag.run(q.subject, questionId);
+  insertTag.run(q.topic, questionId);
+  
+  // Add some generic tags
+  const genericTags = ['UPSC', 'Prelims', 'Important'];
+  genericTags.forEach(tag => {
+    try {
+      insertTag.run(tag, questionId);
+    } catch (e) {
+      // Ignore duplicate tag errors
+    }
   });
+  
+  // Create a flashcard for this question
+  const insertFlashcard = db.prepare('INSERT INTO flashcards (question_id) VALUES (?)');
+  insertFlashcard.run(questionId);
 });
 
-console.log('Database initialization completed successfully!');
+// Add default app settings
+const insertSetting = db.prepare('INSERT INTO app_settings (key, value) VALUES (?, ?)');
+insertSetting.run('theme', 'light');
+insertSetting.run('first_run', 'true');
+insertSetting.run('db_version', '1.0');
+
+console.log('✓ Initial data inserted successfully');
+console.log(`✓ Database created at: ${dbPath}`);
+console.log(`✓ Database size: ${(fs.statSync(dbPath).size / 1024 / 1024).toFixed(2)} MB`);
+
+// Close the database connection
 db.close();
+
+console.log('===========================================');
+console.log('Database initialization completed successfully');
+console.log('===========================================');

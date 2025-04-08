@@ -25,8 +25,13 @@ The Ascend UPSC application is available as both a web application and a standal
 
 ### Desktop Application
 For installation instructions, please refer to:
-- [Windows Installation Guide](INSTALL_WINDOWS.md)
+- [Windows Installation Guide](WINDOWS_INSTALLER_README.md)
 - [macOS Installation Guide](INSTALL_MACOS.md)
+- [Portable Usage Guide](PORTABLE_USAGE.md)
+
+#### Windows Installation Options
+- **One-Click Installer**: Easy installation with desktop shortcuts
+- **Portable Version**: No installation required, run from any location
 
 ### Key Features of the Desktop Version
 - **No Internet Required**: All features work offline

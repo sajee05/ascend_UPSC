@@ -1,0 +1,47 @@
+appId: "com.ascendupsc.app"
+productName: "Ascend UPSC"
+copyright: "Copyright © 2025"
+
+# Installer configuration
+nsis:
+  oneClick: true
+  allowElevation: true
+  allowToChangeInstallationDirectory: false
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: "Ascend UPSC"
+  uninstallDisplayName: "Ascend UPSC"
+  artifactName: "AscendUPSC-Setup-${version}.${ext}"
+
+# Windows configuration  
+win:
+  target: 
+    - "nsis"
+  icon: "resources/icon.ico"
+  
+# Distribution files
+files:
+  - "dist/**/*"
+  - "resources/**/*"
+  - "node_modules/**/*"
+  - "server-starter.js"
+  - "package.json"
+  - "electron.js"
+  - "!**/node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}"
+  - "!**/node_modules/*/{test,__tests__,tests,powered-test,example,examples}"
+  - "!**/node_modules/.bin"
+  - "!**/node_modules/electron-builder"
+  
+# Extra resources to be included
+extraResources:
+  - from: "resources/db"
+    to: "db"
+    filter: "**/*"
+
+# Application directories
+directories:
+  output: "dist_electron"
+  buildResources: "resources"
+
+# Auto-update configuration
+publish: null
