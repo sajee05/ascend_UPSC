@@ -14,6 +14,9 @@ export interface AnalyticsFilter {
   knowledgeFlag: boolean | null;
   techniqueFlag: boolean | null;
   guessworkFlag: boolean | null;
+  
+  // Flag to track if filters were applied
+  isFiltered?: boolean;
 }
 
 // Interface for grouped tags

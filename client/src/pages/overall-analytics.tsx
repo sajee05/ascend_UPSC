@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { useLocation } from "wouter";
 import { FilterControls, AnalyticsFilter } from "@/components/analytics/filter-controls";
 import { EnhancedAIInsights } from "@/components/analytics/enhanced-ai-insights";
@@ -61,14 +61,27 @@ export default function OverallAnalyticsPage() {
     queryKey: ["/api/analytics/overall"],
   });
 
-  // Extract available subjects
-  const availableSubjects = analytics?.subjectStats.map(stat => stat.subject) || [];
+  // Extract available subjects for filtering
+  const availableSubjects = useMemo(() => {
+    if (!analytics) return [];
+    
+    return analytics.subjectStats.map(stat => {
+      const subject = typeof stat.subject === 'string' ? stat.subject : stat.subject.name;
+      return subject;
+    });
+  }, [analytics]);
   
   // Fetch all tags
   const { data: tagsData } = useQuery<string[]>({
     queryKey: ["/api/tags"],
     enabled: !isLoading, // Only fetch tags after analytics are loaded
   });
+  
+  // Process tags data for display
+  const processedTags = useMemo(() => {
+    if (!tagsData) return [];
+    return tagsData;
+  }, [tagsData]);
 
   // Apply filters when analytics data changes or filters change
   useEffect(() => {
@@ -84,7 +97,53 @@ export default function OverallAnalyticsPage() {
       });
     }
     
-    // Apply date range filter (would be applied in a real implementation)
+    // Apply tag filter - treat all tags as topics that can belong to any subject
+    if (filters.tags.length > 0) {
+      filtered = filtered.filter(stat => {
+        const subjectName = typeof stat.subject === 'string' ? stat.subject : stat.subject.name;
+        
+        // Consider a match if any tag contains the subject or vice versa
+        return filters.tags.some(tag => 
+          subjectName.includes(tag) || 
+          tag.includes(subjectName) ||
+          // Also check if the tag is a known subject topic
+          (subjectName === "Economics" && ["ECONOMICS BASICS", "NATIONAL INCOME", "INFLATION", "RBI", "BANKING"].includes(tag)) ||
+          (subjectName === "Polity" && ["PREMBLE", "FR", "DPSP", "PARL+"].includes(tag)) ||
+          (subjectName === "Modern History" && ["GANDHI", "INC"].includes(tag))
+        );
+      });
+    }
+    
+    // Apply confidence level filter if selected
+    if (filters.confidenceLevel) {
+      filtered = filtered.filter(stat => {
+        if (filters.confidenceLevel === "high" && stat.confidenceHigh > 0) return true;
+        if (filters.confidenceLevel === "mid" && stat.confidenceMid > 0) return true;
+        if (filters.confidenceLevel === "low" && stat.confidenceLow > 0) return true;
+        return false;
+      });
+    }
+    
+    // Apply meta-cognitive flag filters
+    if (filters.knowledgeFlag !== null) {
+      filtered = filtered.filter(stat => 
+        filters.knowledgeFlag ? stat.knowledgeYes > 0 : stat.knowledgeYes === 0
+      );
+    }
+    
+    if (filters.techniqueFlag !== null) {
+      filtered = filtered.filter(stat => 
+        filters.techniqueFlag ? stat.techniqueYes > 0 : stat.techniqueYes === 0
+      );
+    }
+    
+    if (filters.guessworkFlag !== null) {
+      filtered = filtered.filter(stat => 
+        filters.guessworkFlag ? stat.guessworkYes > 0 : stat.guessworkYes === 0
+      );
+    }
+    
+    // Apply date range filter - if selected
     
     // Calculate overall stats for filtered data
     if (filtered.length > 0) {
@@ -192,7 +251,7 @@ export default function OverallAnalyticsPage() {
           {/* Filter Controls */}
           <FilterControls 
             availableSubjects={availableSubjects} 
-            availableTags={tagsData || []}
+            availableTags={processedTags}
             onFilterChange={handleFilterChange}
           />
           
