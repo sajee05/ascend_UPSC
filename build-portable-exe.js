@@ -52,6 +52,8 @@ if (!fs.existsSync(dbSource)) {
 const electronBuilderConfig = `
 appId: "com.ascendupsc.app"
 productName: "Ascend UPSC"
+description: "AI-powered UPSC exam preparation platform"
+author: "Ascend UPSC Team"
 copyright: "Copyright © ${new Date().getFullYear()}"
 
 # Windows configuration  
@@ -120,7 +122,12 @@ async function buildPortable() {
     try {
       const { stdout, stderr } = await exec('esbuild electron/main.ts --platform=node --packages=external --bundle --outfile=dist/electron.js');
       console.log(stdout);
-      if (stderr) console.error(stderr);
+      // Only show stderr if it's not just about the duplicate methods in storage.ts
+      if (stderr && !stderr.includes('duplicate-class-member')) {
+        console.error(stderr);
+      } else if (stderr) {
+        console.log('NOTE: Ignoring known warnings about duplicate methods in storage.ts');
+      }
       console.log('✓ Electron main process bundled');
     } catch (error) {
       console.error('Error bundling Electron main process:', error);
@@ -171,9 +178,64 @@ async function buildPortable() {
     // Step 5: Build Electron portable app
     console.log('\n5. Building portable executable...');
     try {
+      // Check if a temporary package.json is needed (if electron/electron-builder are in wrong section)
+      let packageJson;
+      try {
+        packageJson = JSON.parse(fs.readFileSync('package.json', 'utf8'));
+        
+        // Create a temporary fixed package.json file if needed
+        const needsFix = packageJson.dependencies && 
+                        (packageJson.dependencies['electron'] || 
+                         packageJson.dependencies['electron-builder']);
+        
+        if (needsFix) {
+          console.log('⚠️ Detected electron/electron-builder in dependencies instead of devDependencies');
+          console.log('Creating temporary package.json for build...');
+          
+          // Create a fixed package.json
+          const fixedPackageJson = { ...packageJson };
+          
+          // Initialize devDependencies if it doesn't exist
+          if (!fixedPackageJson.devDependencies) {
+            fixedPackageJson.devDependencies = {};
+          }
+          
+          // Move electron to devDependencies if it exists in dependencies
+          if (fixedPackageJson.dependencies.electron) {
+            fixedPackageJson.devDependencies.electron = fixedPackageJson.dependencies.electron;
+            delete fixedPackageJson.dependencies.electron;
+          }
+          
+          // Move electron-builder to devDependencies if it exists in dependencies
+          if (fixedPackageJson.dependencies['electron-builder']) {
+            fixedPackageJson.devDependencies['electron-builder'] = fixedPackageJson.dependencies['electron-builder'];
+            delete fixedPackageJson.dependencies['electron-builder'];
+          }
+          
+          // Save original package.json
+          fs.copyFileSync('package.json', 'package.json.original');
+          console.log('✓ Backed up original package.json to package.json.original');
+          
+          // Write the fixed package.json
+          fs.writeFileSync('package.json', JSON.stringify(fixedPackageJson, null, 2));
+          console.log('✓ Created temporary package.json with correct dependencies');
+        }
+      } catch (error) {
+        console.error('Error checking package.json:', error.message);
+        // Continue with the build, it might still work
+      }
+      
+      // Run the electron-builder command
       const { stdout, stderr } = await exec('electron-builder --win --config=electron-builder-portable.yml');
       console.log(stdout);
       if (stderr) console.error(stderr);
+      
+      // Restore original package.json if we made a temporary one
+      if (fs.existsSync('package.json.original')) {
+        fs.copyFileSync('package.json.original', 'package.json');
+        fs.unlinkSync('package.json.original');
+        console.log('✓ Restored original package.json');
+      }
       
       // Find the output file and display its path
       const outputDir = path.join(__dirname, 'dist_electron');

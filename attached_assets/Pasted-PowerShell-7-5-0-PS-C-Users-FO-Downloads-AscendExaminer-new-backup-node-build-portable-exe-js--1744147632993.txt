@@ -1,0 +1,172 @@
+PowerShell 7.5.0
+PS C:\Users\FO\Downloads\AscendExaminer-new-backup> node build-portable-exe.js
+=============================================
+Starting build process for portable executable
+=============================================
+Checking for required tools...
+✓ All required tools found
+✓ Created electron-builder-portable.yml configuration
+
+1. Building Vite app...
+Error building Vite app: Error: Command failed: npm run build
+'vite' is not recognized as an internal or external command,
+operable program or batch file.
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at Socket.<anonymous> (node:internal/child_process:456:11)
+    at Socket.emit (node:events:518:28)
+    at Pipe.<anonymous> (node:net:351:12) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'npm run build',
+  stdout: '\n' +
+    '> rest-express@1.0.0 build\n' +
+    '> vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist\n' +
+    '\n',
+  stderr: "'vite' is not recognized as an internal or external command,\r\n" +
+    'operable program or batch file.\r\n'
+}
+PS C:\Users\FO\Downloads\AscendExaminer-new-backup> npm install
+npm warn skipping integrity check for git dependency ssh://git@github.com/electron/node-gyp.git
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs
+npm warn deprecated @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs
+npm warn deprecated @esbuild-kit/esm-loader@2.6.5: Merged into tsx: https://tsx.is
+npm warn deprecated npmlog@6.0.2: This package is no longer supported.
+npm warn deprecated rimraf@2.6.3: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated @esbuild-kit/core-utils@3.3.2: Merged into tsx: https://tsx.is
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@8.1.0: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@7.2.3: Glob versions prior to v9 are no longer supported
+npm warn deprecated glob@8.1.0: Glob versions prior to v9 are no longer supported
+npm warn deprecated are-we-there-yet@3.0.1: This package is no longer supported.
+npm warn deprecated gauge@4.0.4: This package is no longer supported.
+npm warn deprecated boolean@3.2.0: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
+
+added 1048 packages, and audited 1049 packages in 17s
+
+185 packages are looking for funding
+  run `npm fund` for details
+
+9 moderate severity vulnerabilities
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+PS C:\Users\FO\Downloads\AscendExaminer-new-backup> node build-portable-exe.js
+=============================================
+Starting build process for portable executable
+=============================================
+Checking for required tools...
+✓ All required tools found
+✓ Created electron-builder-portable.yml configuration
+
+1. Building Vite app...
+
+> rest-express@1.0.0 build
+> vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist
+
+vite v5.4.14 building for production...
+transforming...
+✓ 3060 modules transformed.
+rendering chunks...
+computing gzip size...
+../dist/public/index.html                     1.92 kB │ gzip:   0.81 kB
+../dist/public/assets/index-B28dvML3.css     97.12 kB │ gzip:  15.59 kB
+../dist/public/assets/index-CvsNK5ji.js   1,246.32 kB │ gzip: 357.89 kB
+✓ built in 8.50s
+
+Browserslist: browsers data (caniuse-lite) is 6 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+▲ [WARNING] Duplicate member "getOverallAnalytics" in class body [duplicate-class-member]
+
+    server/storage.ts:1638:8:
+      1638 │   async getOverallAnalytics(): Promise<{
+           ╵         ~~~~~~~~~~~~~~~~~~~
+
+  The original member "getOverallAnalytics" is here:
+
+    server/storage.ts:1293:8:
+      1293 │   async getOverallAnalytics(): Promise<{
+           ╵         ~~~~~~~~~~~~~~~~~~~
+
+▲ [WARNING] Duplicate member "getAnkiData" in class body [duplicate-class-member]
+
+    server/storage.ts:1839:8:
+      1839 │   async getAnkiData(testId: number): Promise<{
+           ╵         ~~~~~~~~~~~
+
+  The original member "getAnkiData" is here:
+
+    server/storage.ts:1432:8:
+      1432 │   async getAnkiData(testId: number): Promise<{
+           ╵         ~~~~~~~~~~~
+
+2 warnings
+
+  dist\index.js  102.1kb
+
+⚡ Done in 84ms
+
+✓ Vite build completed
+
+2. Compiling Electron TypeScript files...
+
+✓ TypeScript compilation completed
+
+3. Bundling Electron main process...
+
+
+  dist\electron.js  4.5kb
+
+⚡ Done in 40ms
+
+✓ Electron main process bundled
+
+4. Preparing resources for packaging...
+Created directory: C:\Users\FO\Downloads\AscendExaminer-new-backup\resources\db
+✓ Database copied successfully (0.06 MB)
+
+5. Building portable executable...
+Error building portable executable: Error: Command failed: electron-builder --win --config=electron-builder-portable.yml
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:414:12)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'electron-builder --win --config=electron-builder-portable.yml',
+  stdout: '  • electron-builder  version=26.0.12 os=10.0.26100\n' +
+    '  • loaded configuration  file=C:\\Users\\FO\\Downloads\\AscendExaminer-new-backup\\electron-builder-portable.yml\n' +
+    '  • description is missed in the package.json  appPackageFile=C:\\Users\\FO\\Downloads\\AscendExaminer-new-backup\\package.json\n' +
+    '  • author is missed in the package.json  appPackageFile=C:\\Users\\FO\\Downloads\\AscendExaminer-new-backup\\package.json\n' +
+    '  ⨯ Package "electron" is only allowed in "devDependencies". Please remove it from the "dependencies" section in your package.json.\n' +
+    'Package "electron-builder" is only allowed in "devDependencies". Please remove it from the "dependencies" section in your package.json.\n',
+  stderr: ''
+}
+PS C:\Users\FO\Downloads\AscendExaminer-new-backup>

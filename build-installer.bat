@@ -31,6 +31,14 @@ if %ERRORLEVEL% NEQ 0 (
   exit /b 1
 )
 
+echo Converting icon files...
+node convert-icon.js
+if %ERRORLEVEL% NEQ 0 (
+  echo Error converting icons
+  pause
+  exit /b 1
+)
+
 echo Starting the build process...
 node build-installer.js
 if %ERRORLEVEL% NEQ 0 (
