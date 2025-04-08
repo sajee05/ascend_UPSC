@@ -30,14 +30,14 @@ export function QuestionBrowser({ testId, showAttemptedOnly = false }: QuestionB
 
   // Get test-specific questions if testId is provided
   const { data: testQuestions, isLoading: isLoadingTestQuestions } = useQuery<QuestionWithTags[]>({
-    queryKey: ['/api/tests', testId, 'questions'],
+    queryKey: [`/api/tests/${testId}/questions`],
     enabled: !!testId,
     staleTime: 30000, // Consider data fresh for 30 seconds
   });
 
   // Get attempts for a specific test if testId is provided
   const { data: testAttempts, isLoading: isLoadingTestAttempts } = useQuery<any[]>({
-    queryKey: ['/api/tests', testId, 'attempts'],
+    queryKey: [`/api/tests/${testId}/attempts`],
     enabled: !!testId,
   });
 
