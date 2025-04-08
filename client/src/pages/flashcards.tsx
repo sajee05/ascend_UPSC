@@ -194,47 +194,6 @@ export default function FlashcardsPage() {
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Header */}
-      <header className="bg-card border-b sticky top-0 z-30 backdrop-blur bg-opacity-90 dark:bg-opacity-90">
-        <div className="container mx-auto px-4 sm:px-6 py-3 flex justify-between items-center">
-          {/* Logo */}
-          <Logo />
-          
-          {/* Controls */}
-          <div className="flex items-center space-x-4">
-            {/* Home Button */}
-            <Button 
-              variant="ghost" 
-              size="icon"
-              onClick={() => navigate("/")}
-            >
-              <Home className="h-5 w-5" />
-            </Button>
-            
-            {/* Dark Mode Toggle */}
-            <Button 
-              variant="ghost" 
-              size="icon"
-              onClick={toggleDarkMode}
-            >
-              {settings.theme === "dark" ? (
-                <Sun className="h-5 w-5 text-amber-500" />
-              ) : (
-                <Moon className="h-5 w-5 text-muted-foreground" />
-              )}
-            </Button>
-            
-            {/* Settings Button */}
-            <Button 
-              variant="ghost" 
-              size="icon"
-              onClick={openSettings}
-            >
-              <Cog className="h-5 w-5 text-muted-foreground" />
-            </Button>
-          </div>
-        </div>
-      </header>
       
       {/* Main Content Area */}
       <main className="flex-grow container mx-auto px-4 sm:px-6 py-6">
