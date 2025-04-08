@@ -60,6 +60,9 @@ export interface IStorage {
     totalCorrect: number;
     totalIncorrect: number;
     totalLeft: number;
+    avgTimeSeconds: number;
+    totalQuestions?: number;
+    accuracy?: number;
     subjectStats: SubjectStats[];
     trendData: { date: string; accuracy: number; score: number }[];
   }>;
@@ -601,6 +604,9 @@ export class MemStorage implements IStorage {
     totalCorrect: number;
     totalIncorrect: number;
     totalLeft: number;
+    avgTimeSeconds: number;
+    totalQuestions?: number;
+    accuracy?: number;
     subjectStats: SubjectStats[];
     trendData: { date: string; accuracy: number; score: number }[];
   }> {
@@ -614,6 +620,14 @@ export class MemStorage implements IStorage {
     const totalCorrect = answers.filter(a => a.isCorrect).length;
     const totalIncorrect = answers.filter(a => !a.isCorrect && !a.isLeft).length;
     const totalLeft = answers.filter(a => a.isLeft).length;
+    
+    // Calculate average time
+    const totalTimeSeconds = answers.reduce((sum, a) => sum + (a.answerTimeSeconds || 0), 0);
+    const avgTimeSeconds = answers.length > 0 ? totalTimeSeconds / answers.length : 0;
+    
+    // Calculate total questions and accuracy
+    const totalQuestions = totalCorrect + totalIncorrect + totalLeft;
+    const accuracy = totalQuestions > 0 ? (totalCorrect / totalQuestions) * 100 : 0;
     
     // Get all subjects (tags)
     const subjectTags = new Set<string>();
@@ -730,6 +744,9 @@ export class MemStorage implements IStorage {
       totalCorrect,
       totalIncorrect,
       totalLeft,
+      avgTimeSeconds,
+      totalQuestions,
+      accuracy,
       subjectStats,
       trendData,
     };

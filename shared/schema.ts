@@ -407,6 +407,8 @@ export type TestWithStats = Test & {
 
 export type SubjectStats = {
   subject: string | Subject; // Can be either a string or a Subject object
+  subjectId?: number; // Subject ID if available
+  name?: string; // Subject name (used for direct display)
   attempts: number;
   correct: number;
   incorrect: number;
@@ -415,17 +417,24 @@ export type SubjectStats = {
   accuracy: number;
   personalBest: number;
   avgTimeSeconds: number;
+  
+  // Knowledge categorization metrics
   confidenceHigh: number;
   confidenceMid: number;
   confidenceLow: number;
-  knowledgeYes: number;
-  techniqueYes: number;
-  guessworkYes: number;
+  knowledgeYes: number; // KNOWLEDGE category
+  techniqueYes: number; // PRESENCE OF MIND category
+  guessworkYes: number; // TUKKEBAAZI category
+  knowledgeNo?: number; // KNOWLEDGE incorrect
+  techniqueNo?: number; // PRESENCE OF MIND incorrect
+  guessworkNo?: number; // TUKKEBAAZI incorrect
+  
   // Attempt breakdown
   firstAttemptCorrect: number;  // Correct on first attempt
   secondAttemptCorrect: number; // Correct on second attempt
   thirdPlusAttemptCorrect: number; // Correct on third or later attempts
   attemptDistribution: {[key: number]: number}; // Map of attempt number to count
+  
   // For trending analysis
   dataPoints?: {
     date: string;
@@ -433,11 +442,16 @@ export type SubjectStats = {
     score: number;
     attemptId: number;
   }[];
+  
+  // Topic breakdown within subject
   topicBreakdown?: {
     topicName: string;
     accuracy: number;
     questionCount: number;
   }[];
+  
+  // Total questions across all metrics
+  totalQuestions?: number;
 };
 
 export type TopicPerformance = {

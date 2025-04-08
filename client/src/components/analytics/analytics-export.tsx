@@ -40,43 +40,95 @@ export function AnalyticsExport({ testTitle, testDate, overallStats, subjectStat
       const overallData = {
         "Test Title": testTitle,
         "Test Date": new Date(testDate).toLocaleDateString(),
-        "Overall Accuracy": `${overallStats.accuracy.toFixed(1)}%`,
-        "Overall Score": overallStats.score,
-        "Total Questions": overallStats.attempts,
-        "Correct Answers": overallStats.correct,
-        "Average Time": `${overallStats.avgTimeSeconds.toFixed(1)} sec`
       };
       
       // Create CSV header for overall data
-      let csvData = "OVERALL PERFORMANCE\n";
+      let csvData = "TEST DETAILS:\n";
       for (const [key, value] of Object.entries(overallData)) {
         csvData += `${key},${value}\n`;
       }
       csvData += "\n\n";
       
-      // Add metacognitive data
-      csvData += "METACOGNITIVE ANALYSIS\n";
-      csvData += "Type,Percentage\n";
+      // Create the comprehensive test analysis table as seen in the image
+      csvData += "TEST ANALYSIS,,,,,KNOWLEDGE,,PRESENCE OF MIND,,TUKKEBAAZI,\n";
+      csvData += "Subject,Attempt,Correct,Incorrect,Left,Correct,Incorrect,Correct,Incorrect,Correct,Incorrect,Total\n";
       
-      const knowledgePct = Math.round((overallStats.knowledgeYes / Math.max(1, overallStats.attempts)) * 100);
-      const techniquePct = Math.round((overallStats.techniqueYes / Math.max(1, overallStats.attempts)) * 100);
-      const guessworkPct = Math.round((overallStats.guessworkYes / Math.max(1, overallStats.attempts)) * 100);
+      // First add each subject
+      const standardSubjects = [
+        "Ancient History",
+        "Art & Culture",
+        "Medieval History",
+        "Modern History",
+        "Geography and Agriculture",
+        "Polity",
+        "Economy",
+        "Environment",
+        "Science and Technology", 
+        "Programmes, Awareness etc"
+      ];
       
-      csvData += `Knowledge-based,${knowledgePct}%\n`;
-      csvData += `Technique-based,${techniquePct}%\n`;
-      csvData += `Guesswork,${guessworkPct}%\n\n\n`;
+      // Function to generate row for a particular subject or "Total" row
+      const generateAnalysisRow = (subject: SubjectStats | null, isTotal = false) => {
+        if (!subject) return "";
+        
+        const subjectName = isTotal ? "Total" : (
+          typeof subject.subject === 'string' ? subject.subject : subject.subject.name
+        );
+        
+        // Calculate knowledge category stats - correct and incorrect
+        const knowledgeCorrect = Math.round(subject.knowledgeYes * subject.correct / Math.max(1, subject.attempts));
+        const knowledgeIncorrect = Math.round(subject.knowledgeYes * subject.incorrect / Math.max(1, subject.attempts));
+        
+        // Calculate technique/presence of mind category stats - correct and incorrect
+        const techniqueCorrect = Math.round(subject.techniqueYes * subject.correct / Math.max(1, subject.attempts));
+        const techniqueIncorrect = Math.round(subject.techniqueYes * subject.incorrect / Math.max(1, subject.attempts));
+        
+        // Calculate guesswork/tukkebaazi category stats - correct and incorrect
+        const guessworkCorrect = Math.round(subject.guessworkYes * subject.correct / Math.max(1, subject.attempts));
+        const guessworkIncorrect = Math.round(subject.guessworkYes * subject.incorrect / Math.max(1, subject.attempts));
+        
+        // Total questions
+        const total = subject.attempts;
+        
+        return `${subjectName},${subject.attempts},${subject.correct},${subject.incorrect},${subject.left},${knowledgeCorrect},${knowledgeIncorrect},${techniqueCorrect},${techniqueIncorrect},${guessworkCorrect},${guessworkIncorrect},${total}\n`;
+      };
       
-      // Add subject-wise data
-      csvData += "SUBJECT-WISE PERFORMANCE\n";
-      csvData += "Subject,Accuracy,Score,Questions,Correct,Incorrect,Average Time (sec)\n";
+      // Function to find subject by name (case-insensitive)
+      const findSubjectByName = (name: string) => {
+        return subjectStats.find(s => {
+          const subjectName = typeof s.subject === 'string' ? s.subject : s.subject.name;
+          return subjectName.toLowerCase() === name.toLowerCase();
+        });
+      };
       
-      subjectStats.forEach(subject => {
-        const subjectName = typeof subject.subject === 'string' 
-          ? subject.subject 
-          : subject.subject.name;
-          
-        csvData += `${subjectName},${subject.accuracy.toFixed(1)}%,${subject.score},${subject.attempts},${subject.correct},${subject.incorrect},${subject.avgTimeSeconds.toFixed(1)}\n`;
+      // Add standard subjects in the specified order
+      standardSubjects.forEach(subjectName => {
+        const subject = findSubjectByName(subjectName);
+        csvData += generateAnalysisRow(subject || {
+          subject: subjectName,
+          attempts: 0,
+          correct: 0,
+          incorrect: 0, 
+          left: 0,
+          score: 0,
+          accuracy: 0,
+          personalBest: 0,
+          avgTimeSeconds: 0,
+          confidenceHigh: 0,
+          confidenceMid: 0, 
+          confidenceLow: 0,
+          knowledgeYes: 0,
+          techniqueYes: 0,
+          guessworkYes: 0,
+          firstAttemptCorrect: 0,
+          secondAttemptCorrect: 0,
+          thirdPlusAttemptCorrect: 0,
+          attemptDistribution: {}
+        });
       });
+      
+      // Add Total row with overall stats
+      csvData += generateAnalysisRow(overallStats, true);
       
       // Create and trigger download
       const fileName = `${testTitle.replace(/\s+/g, '-').toLowerCase()}-analytics-${new Date().toISOString().split('T')[0]}.csv`;
