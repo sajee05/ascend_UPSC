@@ -14,6 +14,8 @@ import { Flashcard as FlashcardType, QuestionWithTags } from "@shared/schema";
 import { apiRequest } from "@/lib/queryClient";
 import { motion, AnimatePresence } from "framer-motion";
 
+type FlashcardWithQuestion = FlashcardType & { question: QuestionWithTags };
+
 export default function FlashcardsPage() {
   const [, navigate] = useLocation();
   const { settings, updateSettings } = useSettings();
@@ -23,39 +25,43 @@ export default function FlashcardsPage() {
   
   // Flashcard state
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [filteredFlashcards, setFilteredFlashcards] = useState<(FlashcardType & { question: QuestionWithTags })[]>([]);
+  const [filteredFlashcards, setFilteredFlashcards] = useState<FlashcardWithQuestion[]>([]);
   const [selectedSubject, setSelectedSubject] = useState<string>("all");
   const [availableSubjects, setAvailableSubjects] = useState<string[]>([]);
 
   // Fetch flashcards
-  const { data: flashcards, isLoading } = useQuery<(FlashcardType & { question: QuestionWithTags })[]>({
-    queryKey: ["/api/flashcards"],
-    onSuccess: (data) => {
-      // Extract all unique subjects from question tags
-      const subjects = new Set<string>();
-      data.forEach(flashcard => {
-        flashcard.question.tags.forEach(tag => {
-          if (!tag.isAIGenerated) {
-            subjects.add(tag.tagName);
-          }
-        });
-      });
-      setAvailableSubjects(Array.from(subjects));
-      
-      // Filter flashcards
-      filterFlashcards(data, selectedSubject);
-    }
+  const { data: flashcards, isLoading } = useQuery<FlashcardWithQuestion[]>({
+    queryKey: ["/api/flashcards"]
   });
 
+  // Update subjects and filtered cards when flashcards data changes
+  useEffect(() => {
+    if (!flashcards) return;
+    
+    // Extract all unique subjects from question tags
+    const subjects = new Set<string>();
+    flashcards.forEach((flashcard) => {
+      flashcard.question.tags.forEach((tag) => {
+        if (!tag.isAIGenerated) {
+          subjects.add(tag.tagName);
+        }
+      });
+    });
+    setAvailableSubjects(Array.from(subjects));
+    
+    // Filter flashcards
+    filterFlashcards(flashcards, selectedSubject);
+  }, [flashcards, selectedSubject]);
+
   // Filter flashcards by subject
-  const filterFlashcards = (cards: (FlashcardType & { question: QuestionWithTags })[] | undefined, subject: string) => {
+  const filterFlashcards = (cards: FlashcardWithQuestion[] | undefined, subject: string) => {
     if (!cards) return;
     
     if (subject === "all") {
       setFilteredFlashcards(cards);
     } else {
-      const filtered = cards.filter(card => 
-        card.question.tags.some(tag => tag.tagName === subject)
+      const filtered = cards.filter((card) => 
+        card.question.tags.some((tag) => tag.tagName === subject)
       );
       setFilteredFlashcards(filtered);
     }
