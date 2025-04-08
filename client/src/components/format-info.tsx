@@ -8,7 +8,7 @@ import { Copy, ExternalLink } from "lucide-react";
 export function FormatInfo() {
   const { toast } = useToast();
   const { settings } = useSettings();
-
+  
   // Use the new parsing prompt from the user
   const parsingPrompt = `Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.
 
@@ -70,31 +70,19 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
 
 *Mandatory Rules & Constraints:**
 
-1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|" in between the options). If there are statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example. Use the precise tags (`#QuestionStart`, `#QuestionEnd`, `#AnswerStart`, `#AnswerEnd`) and prefixes (`Q1)`, `Answer:`, `Explanation:`) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
-
-2. **100% Accuracy to Input:** Reproduce the question text, all options, the identified correct answer, and the explanation text *exactly* as they appear in the input provided format. Do not rephrase, summarize, or omit any part of the original content unless addressing rule #5, in which case add the correction with in a bracket along with explanation but dont modify original..
-
+1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|"" in between the options). If there statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example.Use the precise tags (#QuestionStart, #QuestionEnd, #AnswerStart, #AnswerEnd) and prefixes (Q1), Answer:, Explanation:) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
+2. **100% Accuracy to Input:** Reproduce the question text, all options, the identified correct answer, and the explanation text *exactly* as they appear in the input provided format. Do not rephrase, summarize, or omit any part of the original content unless addressing rule #5, in which case add the correction with in a bracket along with explanation but dont modify original.
 3. **Stay Within Scope:** (Remove any sources like-Laxmikant/NCERT/etc, coaching names like forum IAS/visionIAS, links mentioned)=from the explanation. Do NOT add any information, details, or context that is not explicitly present in the original input provided for that specific question.
-
 4. **No Hallucination:** Ensure, the answer is not just "a" but "a) answer". Output Should be exactly like depicted in the example. with proper line spacing vertically. Do not invent questions, answers, options, or explanations. Stick strictly to the provided source material.
-
 5. **Error Identification and Correction (Questions Only):**
-
-  - Carefully review the \`Question and its respective answer\` text provided in the input for each question.
-  - If you identify a clear general knowledge error, factual inaccuracy, or logical inconsistency , you MUST:
+  - Carefully review the Question and its respective answer text provided in the input for each question.
+  - If you identify a clear general knowledge error, factual inaccuracy, or logical inconsistency, you MUST:
     - Place a star emoji (⭐) immediately *after* the question.
-    - Immediately following the ⭐, write: "please re-check" enclosed in parentheses \`()\`. (see Q4) from above example)
-  - **Important:** Apply this error correction *only* by indicating asa specified. Do *not* alter the question, options, or the indicated correct answer even if you suspect they are wrong in the source; reproduce them as given. If the source explanation itself seems factually flawed *according to common knowledge/factually/logically or inconsistency in option and its explanation*, apply the correction method by just indicating to recheck. I repeat, NEVER CHANGE ANY TEXT just indicate as described above.
-6. **OCR correction:** it is possible the input provided to you maybe in jumbled or abruptly broken text format, convert it into normal paragraphs but DO NOT change the content. **Example**: *Jumbled-ocr Input*:
-  The President of India is empowered to proclaim a national emergency only after receiving a
-  written recommendation from the Union Cabinet.
-  *nomralised*:
-  The President of India is empowered to proclaim a national emergency only after receiving a written recommendation from the Union Cabinet.
+    - Immediately following the ⭐, write: "please re-check" enclosed in parentheses (). (see Q4) from above example)
+  - **Important:** Apply this error correction *only* by indicating as specified. Do *not* alter the question, options, or the indicated correct answer even if you suspect they are wrong in the source; reproduce them as given.
+6. **OCR correction:** it is possible the input provided to you maybe in jumbled or abruptly broken text format, convert it into normal paragraphs but DO NOT change the content.
 
-7. CRITICAL! NEVER INSERT answer's explanation. just verify that correct answer and explanation given in the answer is matching internally. in the output only mention the correct option with option number i.e. a), b), c), d) and its answer in front of it. for eg: a) America
-
-
-*Process all questions present in the input text according to these rules, only output the output no unnecessary text like "here is your output" + give it to me in code-block so that i can directly copy paste*.`;
+7. CRITICAL! NEVER INSERT answer's explanation. just verify that correct answer and explanation given in the answer is matching internally. in the output only mention the correct option with option number i.e. a), b), c), d) and its answer in front of it. for eg: a) America`;
 
   const handleCopyPrompt = () => {
     navigator.clipboard.writeText(parsingPrompt);
@@ -103,7 +91,7 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
       description: "The parsing prompt has been copied to your clipboard",
     });
   };
-
+  
   const openGeminiChat = () => {
     window.open("https://aistudio.google.com/prompts/new_chat", "_blank");
   };
@@ -134,7 +122,7 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
           <p className="text-sm text-muted-foreground mt-3 mb-4">
             Files must follow this exact tag structure. Each question must have 4 options (a-d).
           </p>
-
+          
           <div className="border-t pt-4 mt-2">
             <p className="text-sm font-medium mb-3">
               To parse test files, copy this prompt and paste it with your test's PDF/text to Gemini:
