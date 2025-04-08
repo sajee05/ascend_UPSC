@@ -1,7 +1,7 @@
 import { QuestionWithTags, SubjectStats, UserAnswer } from "@shared/schema";
 
 // Default prompts
-export const DEFAULT_EXPLANATION_PROMPT = `Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanations from the provided input text into a specific, structured format. Adhere strictly to the rules below.
+export const DEFAULT_PARSING_PROMPT_TITLE = `Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.
 
 **Input:** The input text will contain one or more questions, typically with multiple-choice options, a designated correct answer, and an accompanying explanation.
 
@@ -61,34 +61,34 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
 
 *Mandatory Rules & Constraints:**
 
-1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|"" in between the options). If there statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example.Use the precise tags (`#QuestionStart`, `#QuestionEnd`, `#AnswerStart`, `#AnswerEnd`) and prefixes (`Q1)`, `Answer:`, `Explanation:`) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
-
-2. **100% Accuracy to Input:** Reproduce the question text, all options, the identified correct answer, and the explanation text *exactly* as they appear in the input provided format. Do not rephrase, summarize, or omit any part of the original content unless addressing rule #5, in which case add the correction with in a bracket along with explanation but dont modify original..
-
+1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|"" in between the options). If there statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example.Use the precise tags (#QuestionStart, #QuestionEnd, #AnswerStart, #AnswerEnd) and prefixes (Q1), Answer:, Explanation:) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
+2. **100% Accuracy to Input:** Reproduce the question text, all options, the identified correct answer, and the explanation text *exactly* as they appear in the input provided format. Do not rephrase, summarize, or omit any part of the original content unless addressing rule #5, in which case add the correction with in a bracket along with explanation but dont modify original.
 3. **Stay Within Scope:** (Remove any sources like-Laxmikant/NCERT/etc, coaching names like forum IAS/visionIAS, links mentioned)=from the explanation. Do NOT add any information, details, or context that is not explicitly present in the original input provided for that specific question.
-
 4. **No Hallucination:** Ensure, the answer is not just "a" but "a) answer". Output Should be exactly like depicted in the example. with proper line spacing vertically. Do not invent questions, answers, options, or explanations. Stick strictly to the provided source material.
-
 5. **Error Identification and Correction (Questions Only):**
-
-  - Carefully review the `Question and its respective answer` text provided in the input for each question.
-  - If you identify a clear general knowledge error, factual inaccuracy, or logical inconsistency , you MUST:
+  - Carefully review the Question and its respective answer text provided in the input for each question.
+  - If you identify a clear general knowledge error, factual inaccuracy, or logical inconsistency, you MUST:
     - Place a star emoji (⭐) immediately *after* the question.
-    - Immediately following the ⭐, write: "please re-check" enclosed in parentheses `()`. (see Q4) from above example)
-  - **Important:** Apply this error correction *only* by indicating asa specified. Do *not* alter the question, options, or the indicated correct answer even if you suspect they are wrong in the source; reproduce them as given. If the source explanation itself seems factually flawed *according to common knowledge/factually/logically or inconsistency in option and its explanation*, apply the correction method by just indicating to recheck. I repeat, NEVER CHANGE ANY TEXT just indicate as described above.
-6. **OCR correction:** it is possible the input provided to you maybe in jumbled or abruptly broken text format, convert it into normal paragraphs but DO NOT change the content. **Example**: *Jumbled-ocr Input*:
-  The President of India is empowered to proclaim a national emergency only after receiving a
-  written recommendation from the Union Cabinet.
-  *nomralised*:
-  The President of India is empowered to proclaim a national emergency only after receiving a written recommendation from the Union Cabinet.
+    - Immediately following the ⭐, write: "please re-check" enclosed in parentheses (). (see Q4) from above example)
+  - **Important:** Apply this error correction *only* by indicating as specified. Do *not* alter the question, options, or the indicated correct answer even if you suspect they are wrong in the source; reproduce them as given.
+6. **OCR correction:** it is possible the input provided to you maybe in jumbled or abruptly broken text format, convert it into normal paragraphs but DO NOT change the content.
 
 7. CRITICAL! NEVER INSERT answer's explanation. just verify that correct answer and explanation given in the answer is matching internally. in the output only mention the correct option with option number i.e. a), b), c), d) and its answer in front of it. for eg: a) America
 
 
 *Process all questions present in the input text according to these rules, only output the output no unnecessary text like "here is your output" + give it to me in code-block so that i can directly copy paste*.`;
 
-export const DEFAULT_SUBJECT_TAGGING_PROMPT = 
-`Analyze this UPSC question and classify it under the most relevant subject(s) and subtopics from the following comprehensive list:
+export const DEFAULT_EXPLANATION_PROMPT = `Analyze this UPSC question and provide a detailed explanation of why the correct answer is right and why the other options are wrong. 
+
+Format your response using Markdown, with clear sections:
+1. **Question Analysis**: Brief explanation of what the question is asking
+2. **Correct Answer**: Detailed explanation of why the correct option is right
+3. **Incorrect Options**: For each wrong option, explain why it's incorrect
+4. **Key Takeaways**: 2-3 bullet points summarizing the main concepts
+
+Include factual information with precise citations where possible. If you're uncertain about any statement, mark it with a ⭐ symbol. Focus on providing accurate information that would help a UPSC aspirant understand the concept thoroughly.`;
+
+export const DEFAULT_SUBJECT_TAGGING_PROMPT = `Analyze this UPSC question and classify it under the most relevant subject(s) and subtopics from the following comprehensive list:
 
 - Economics: Economics BASICS, NATIONAL INCOME, INFLATION, RBI & MONETARY POLICY, BANKING, FINANCE, TAX, MONEY & STOCKS, TRADE, INTERNATIONAL BODIES, REPORTS, AGRICULTURE, EMPLOYMENT, MISC, BUDGET, SURVEY, SCHEMES
   
@@ -110,8 +110,7 @@ export const DEFAULT_SUBJECT_TAGGING_PROMPT =
 
 Return only the most relevant subject followed by specific subtopics as comma-separated tags, no explanation or elaboration. For example: "Economics, BANKING, FINANCE" or "Modern History, GANDHI, NCM".`;
 
-export const DEFAULT_ANALYTICS_PROMPT = 
-`You're analyzing UPSC mock test performance data. Based on the following statistics, provide 
+export const DEFAULT_ANALYTICS_PROMPT = `You're analyzing UPSC mock test performance data. Based on the following statistics, provide 
 actionable study advice targeting the weakest areas and recognizing strengths.
 
 Focus on:
@@ -122,8 +121,7 @@ Focus on:
 
 Keep your response concise, practical, and focused on actionable advice. Use bullet points.`;
 
-export const DEFAULT_STUDY_PLAN_PROMPT = 
-`As a UPSC exam coach, create a detailed 7-day study plan based on the candidate's performance data below.
+export const DEFAULT_STUDY_PLAN_PROMPT = `As a UPSC exam coach, create a detailed 7-day study plan based on the candidate's performance data below.
 The plan should address their weakest areas while maintaining strengths.
 
 For each day, provide:
@@ -135,8 +133,7 @@ For each day, provide:
 Make the plan practical, balanced, and targeted to optimize their preparation strategy.
 Include a brief explanation of why you've structured the plan this way.`;
 
-export const DEFAULT_LEARNING_PATTERN_PROMPT = 
-`Analyze the student's learning patterns based on the UPSC mock test data provided.
+export const DEFAULT_LEARNING_PATTERN_PROMPT = `Analyze the student's learning patterns based on the UPSC mock test data provided.
 Focus specifically on metacognitive insights (confidence levels, knowledge self-assessment, guesswork patterns).
 
 Provide insights on:
@@ -165,46 +162,46 @@ export async function getSubjectTags(
   options: string[],
   apiKey: string,
   model: string,
-  prompt: string
+  prompt: string,
 ): Promise<string[]> {
   try {
-    const content = `${questionText}\n\n${options.join('\n')}`;
-    
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              { text: prompt },
-              { text: content }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.2,
-          topK: 32,
-          topP: 0.95,
-          maxOutputTokens: 100,
-        }
-      })
-    });
+    const content = `${questionText}\n\n${options.join("\n")}`;
+
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [
+            {
+              parts: [{ text: prompt }, { text: content }],
+            },
+          ],
+          generationConfig: {
+            temperature: 0.2,
+            topK: 32,
+            topP: 0.95,
+            maxOutputTokens: 100,
+          },
+        }),
+      },
+    );
 
     if (!response.ok) {
       throw new Error(`Gemini API error: ${response.status}`);
     }
 
-    const data = await response.json() as GeminiResponse;
-    const tagsText = data.candidates[0]?.content.parts[0].text || '';
-    
+    const data = (await response.json()) as GeminiResponse;
+    const tagsText = data.candidates[0]?.content.parts[0].text || "";
+
     // Split by commas and trim each tag
     return tagsText
-      .split(',')
-      .map(tag => tag.trim())
-      .filter(tag => tag.length > 0);
+      .split(",")
+      .map((tag) => tag.trim())
+      .filter((tag) => tag.length > 0);
   } catch (error) {
-    console.error('Error getting subject tags:', error);
+    console.error("Error getting subject tags:", error);
     return [];
   }
 }
@@ -217,7 +214,7 @@ export async function getAnalyticsInsights(
   },
   apiKey: string,
   model: string,
-  prompt: string
+  prompt: string,
 ): Promise<string> {
   try {
     // Format the statistics for the model
@@ -230,7 +227,9 @@ OVERALL PERFORMANCE:
 - Knowledge: Yes ${stats.overallStats.knowledgeYes}, Technique: Yes ${stats.overallStats.techniqueYes}, Guesswork: Yes ${stats.overallStats.guessworkYes}
 
 SUBJECT PERFORMANCE:
-${stats.subjectStats.map(subject => `
+${stats.subjectStats
+  .map(
+    (subject) => `
 ${subject.subject}:
 - Questions: ${subject.attempts}
 - Accuracy: ${subject.accuracy.toFixed(1)}%
@@ -238,39 +237,43 @@ ${subject.subject}:
 - Avg Time: ${subject.avgTimeSeconds.toFixed(0)}s
 - Confidence: High ${subject.confidenceHigh}, Medium ${subject.confidenceMid}, Low ${subject.confidenceLow}
 - Knowledge: Yes ${subject.knowledgeYes}, Technique: Yes ${subject.techniqueYes}, Guesswork: Yes ${subject.guessworkYes}
-`).join('')}
+`,
+  )
+  .join("")}
 `;
 
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              { text: prompt },
-              { text: formattedStats }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.4,
-          topK: 32,
-          topP: 0.95,
-          maxOutputTokens: 800,
-        }
-      })
-    });
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [
+            {
+              parts: [{ text: prompt }, { text: formattedStats }],
+            },
+          ],
+          generationConfig: {
+            temperature: 0.4,
+            topK: 32,
+            topP: 0.95,
+            maxOutputTokens: 800,
+          },
+        }),
+      },
+    );
 
     if (!response.ok) {
       throw new Error(`Gemini API error: ${response.status}`);
     }
 
-    const data = await response.json() as GeminiResponse;
-    return data.candidates[0]?.content.parts[0].text || 'No insights available.';
+    const data = (await response.json()) as GeminiResponse;
+    return (
+      data.candidates[0]?.content.parts[0].text || "No insights available."
+    );
   } catch (error) {
-    console.error('Error getting analytics insights:', error);
-    return 'Unable to generate insights at this time. Please try again later.';
+    console.error("Error getting analytics insights:", error);
+    return "Unable to generate insights at this time. Please try again later.";
   }
 }
 
@@ -282,7 +285,7 @@ export async function getStudyPlanRecommendations(
   },
   apiKey: string,
   model: string,
-  prompt: string = DEFAULT_STUDY_PLAN_PROMPT
+  prompt: string = DEFAULT_STUDY_PLAN_PROMPT,
 ): Promise<string> {
   try {
     // Format the statistics for the model (same as getAnalyticsInsights)
@@ -295,7 +298,9 @@ OVERALL PERFORMANCE:
 - Knowledge: Yes ${stats.overallStats.knowledgeYes}, Technique: Yes ${stats.overallStats.techniqueYes}, Guesswork: Yes ${stats.overallStats.guessworkYes}
 
 SUBJECT PERFORMANCE:
-${stats.subjectStats.map(subject => `
+${stats.subjectStats
+  .map(
+    (subject) => `
 ${subject.subject}:
 - Questions: ${subject.attempts}
 - Accuracy: ${subject.accuracy.toFixed(1)}%
@@ -303,39 +308,43 @@ ${subject.subject}:
 - Avg Time: ${subject.avgTimeSeconds.toFixed(0)}s
 - Confidence: High ${subject.confidenceHigh}, Medium ${subject.confidenceMid}, Low ${subject.confidenceLow}
 - Knowledge: Yes ${subject.knowledgeYes}, Technique: Yes ${subject.techniqueYes}, Guesswork: Yes ${subject.guessworkYes}
-`).join('')}
+`,
+  )
+  .join("")}
 `;
 
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              { text: prompt },
-              { text: formattedStats }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.4,
-          topK: 32,
-          topP: 0.95,
-          maxOutputTokens: 1200, // Increased for longer study plan
-        }
-      })
-    });
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [
+            {
+              parts: [{ text: prompt }, { text: formattedStats }],
+            },
+          ],
+          generationConfig: {
+            temperature: 0.4,
+            topK: 32,
+            topP: 0.95,
+            maxOutputTokens: 1200, // Increased for longer study plan
+          },
+        }),
+      },
+    );
 
     if (!response.ok) {
       throw new Error(`Gemini API error: ${response.status}`);
     }
 
-    const data = await response.json() as GeminiResponse;
-    return data.candidates[0]?.content.parts[0].text || 'No study plan available.';
+    const data = (await response.json()) as GeminiResponse;
+    return (
+      data.candidates[0]?.content.parts[0].text || "No study plan available."
+    );
   } catch (error) {
-    console.error('Error getting study plan:', error);
-    return 'Unable to generate study plan at this time. Please try again later.';
+    console.error("Error getting study plan:", error);
+    return "Unable to generate study plan at this time. Please try again later.";
   }
 }
 
@@ -347,7 +356,7 @@ export async function getLearningPatternAnalysis(
   },
   apiKey: string,
   model: string,
-  prompt: string = DEFAULT_LEARNING_PATTERN_PROMPT
+  prompt: string = DEFAULT_LEARNING_PATTERN_PROMPT,
 ): Promise<string> {
   try {
     // Format the statistics for the model (same as getAnalyticsInsights)
@@ -360,7 +369,9 @@ OVERALL PERFORMANCE:
 - Knowledge: Yes ${stats.overallStats.knowledgeYes}, Technique: Yes ${stats.overallStats.techniqueYes}, Guesswork: Yes ${stats.overallStats.guessworkYes}
 
 SUBJECT PERFORMANCE:
-${stats.subjectStats.map(subject => `
+${stats.subjectStats
+  .map(
+    (subject) => `
 ${subject.subject}:
 - Questions: ${subject.attempts}
 - Accuracy: ${subject.accuracy.toFixed(1)}%
@@ -368,39 +379,44 @@ ${subject.subject}:
 - Avg Time: ${subject.avgTimeSeconds.toFixed(0)}s
 - Confidence: High ${subject.confidenceHigh}, Medium ${subject.confidenceMid}, Low ${subject.confidenceLow}
 - Knowledge: Yes ${subject.knowledgeYes}, Technique: Yes ${subject.techniqueYes}, Guesswork: Yes ${subject.guessworkYes}
-`).join('')}
+`,
+  )
+  .join("")}
 `;
 
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              { text: prompt },
-              { text: formattedStats }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.4,
-          topK: 32,
-          topP: 0.95,
-          maxOutputTokens: 1000,
-        }
-      })
-    });
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [
+            {
+              parts: [{ text: prompt }, { text: formattedStats }],
+            },
+          ],
+          generationConfig: {
+            temperature: 0.4,
+            topK: 32,
+            topP: 0.95,
+            maxOutputTokens: 1000,
+          },
+        }),
+      },
+    );
 
     if (!response.ok) {
       throw new Error(`Gemini API error: ${response.status}`);
     }
 
-    const data = await response.json() as GeminiResponse;
-    return data.candidates[0]?.content.parts[0].text || 'No learning pattern analysis available.';
+    const data = (await response.json()) as GeminiResponse;
+    return (
+      data.candidates[0]?.content.parts[0].text ||
+      "No learning pattern analysis available."
+    );
   } catch (error) {
-    console.error('Error getting learning pattern analysis:', error);
-    return 'Unable to generate learning pattern analysis at this time. Please try again later.';
+    console.error("Error getting learning pattern analysis:", error);
+    return "Unable to generate learning pattern analysis at this time. Please try again later.";
   }
 }
 
@@ -410,7 +426,7 @@ export async function getQuestionExplanation(
   userAnswer: UserAnswer,
   apiKey: string,
   model: string,
-  prompt: string
+  prompt: string,
 ): Promise<string> {
   try {
     // Format the question and answers for the model
@@ -425,42 +441,47 @@ D) ${question.optionD}
 
 Correct Answer: ${question.correctAnswer}) ${question.correctAnswerText}
 User Selected: ${userAnswer.selectedOption}) ${
-      userAnswer.selectedOption === "A" ? question.optionA :
-      userAnswer.selectedOption === "B" ? question.optionB :
-      userAnswer.selectedOption === "C" ? question.optionC : 
-      question.optionD
+      userAnswer.selectedOption === "A"
+        ? question.optionA
+        : userAnswer.selectedOption === "B"
+          ? question.optionB
+          : userAnswer.selectedOption === "C"
+            ? question.optionC
+            : question.optionD
     }
 `;
 
-    const response = await fetch(`https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [
-          {
-            parts: [
-              { text: prompt },
-              { text: formattedQuestion }
-            ]
-          }
-        ],
-        generationConfig: {
-          temperature: 0.3,
-          topK: 32,
-          topP: 0.95,
-          maxOutputTokens: 1000,
-        }
-      })
-    });
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`,
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          contents: [
+            {
+              parts: [{ text: prompt }, { text: formattedQuestion }],
+            },
+          ],
+          generationConfig: {
+            temperature: 0.3,
+            topK: 32,
+            topP: 0.95,
+            maxOutputTokens: 1000,
+          },
+        }),
+      },
+    );
 
     if (!response.ok) {
       throw new Error(`Gemini API error: ${response.status}`);
     }
 
-    const data = await response.json() as GeminiResponse;
-    return data.candidates[0]?.content.parts[0].text || 'No explanation available.';
+    const data = (await response.json()) as GeminiResponse;
+    return (
+      data.candidates[0]?.content.parts[0].text || "No explanation available."
+    );
   } catch (error) {
-    console.error('Error getting question explanation:', error);
-    return 'Unable to generate explanation at this time. Please try again later.';
+    console.error("Error getting question explanation:", error);
+    return "Unable to generate explanation at this time. Please try again later.";
   }
 }
