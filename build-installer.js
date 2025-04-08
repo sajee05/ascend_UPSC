@@ -51,8 +51,6 @@ if (!fs.existsSync(dbSource)) {
 const electronBuilderConfig = `
 appId: "com.ascendupsc.app"
 productName: "Ascend UPSC"
-description: "AI-powered UPSC exam preparation platform"
-author: "Ascend UPSC Team"
 copyright: "Copyright © ${new Date().getFullYear()}"
 
 # Installer configuration
@@ -189,14 +187,18 @@ async function buildInstaller() {
       try {
         packageJson = JSON.parse(fs.readFileSync('package.json', 'utf8'));
         
-        // Create a temporary fixed package.json file if needed
-        const needsFix = packageJson.dependencies && 
-                        (packageJson.dependencies['electron'] || 
-                         packageJson.dependencies['electron-builder']);
+        // Check if package.json already has the required fields
+        const needsMetadataFix = !packageJson.author || !packageJson.description;
         
-        if (needsFix) {
-          console.log('⚠️ Detected electron/electron-builder in dependencies instead of devDependencies');
-          console.log('Creating temporary package.json for build...');
+        // Check if electron packages are in the wrong section
+        const needsDependencyFix = packageJson.dependencies && 
+                       (packageJson.dependencies['electron'] || 
+                        packageJson.dependencies['electron-builder']);
+        
+        // Fix if either or both issues exist
+        if (needsDependencyFix || needsMetadataFix) {
+          console.log('⚠️ Detected issues in package.json for electron-builder');
+          console.log('Creating temporary package.json for build with fixes...');
           
           // Create a fixed package.json
           const fixedPackageJson = { ...packageJson };
@@ -218,13 +220,17 @@ async function buildInstaller() {
             delete fixedPackageJson.dependencies['electron-builder'];
           }
           
+          // Add required author and description for electron-builder
+          fixedPackageJson.author = "Ascend UPSC Team";
+          fixedPackageJson.description = "AI-powered UPSC exam preparation platform";
+          
           // Save original package.json
           fs.copyFileSync('package.json', 'package.json.original');
           console.log('✓ Backed up original package.json to package.json.original');
           
           // Write the fixed package.json
           fs.writeFileSync('package.json', JSON.stringify(fixedPackageJson, null, 2));
-          console.log('✓ Created temporary package.json with correct dependencies');
+          console.log('✓ Created temporary package.json with correct metadata and dependencies');
         }
       } catch (error) {
         console.error('Error checking package.json:', error.message);

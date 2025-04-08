@@ -4,9 +4,10 @@ import { Charts } from "@/components/analytics/charts";
 import { PerformanceTable } from "@/components/analytics/performance-table";
 import { EnhancedAIInsights } from "@/components/analytics/enhanced-ai-insights";
 import { AttemptTrackingCharts } from "@/components/analytics/attempt-tracking-chart";
+import { InfographicGenerator } from "@/components/analytics/infographic-generator";
 import { Button } from "@/components/ui/button";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, RefreshCw, BarChart3, ListIcon, Download, History } from "lucide-react";
+import { Cog, Moon, Sun, RefreshCw, BarChart3, ListIcon, Download, History, Share2 } from "lucide-react";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
 import { useQuery } from "@tanstack/react-query";
@@ -166,6 +167,16 @@ export default function TestAnalyticsPage() {
             overallStats={analytics.overallStats} 
             subjectStats={analytics.subjectStats}
           />
+          
+          {/* Infographic Generator */}
+          <div className="mt-8 mb-8">
+            <InfographicGenerator
+              testTitle={analytics.title}
+              testDate={analytics.date}
+              overallStats={analytics.overallStats}
+              subjectStats={analytics.subjectStats}
+            />
+          </div>
           
           {/* Action Buttons */}
           <div className="flex flex-wrap gap-4">

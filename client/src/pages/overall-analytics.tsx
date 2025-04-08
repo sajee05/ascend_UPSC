@@ -9,6 +9,7 @@ import { DateAnalysisChart } from "@/components/analytics/date-analysis-chart";
 import { RecommendationCards } from "@/components/analytics/recommendation-cards";
 import { KnowledgeCalibrationCard } from "@/components/analytics/knowledge-calibration-card";
 import { AdvancedCharts } from "@/components/analytics/advanced-charts";
+import { InfographicGenerator } from "@/components/analytics/infographic-generator";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
@@ -481,6 +482,22 @@ export default function OverallAnalyticsPage() {
               overallStats={overallStats} 
               subjectStats={filteredStats} 
             />
+          )}
+          
+          {/* Infographic Generator */}
+          {overallStats && (
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.4 }}
+              className="mt-8 mb-8"
+            >
+              <InfographicGenerator
+                overallStats={overallStats}
+                subjectStats={filteredStats}
+                isOverall={true}
+              />
+            </motion.div>
           )}
           
           {/* Error Log Table */}
