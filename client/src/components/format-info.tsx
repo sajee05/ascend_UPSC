@@ -9,36 +9,80 @@ export function FormatInfo() {
   const { toast } = useToast();
   const { settings } = useSettings();
   
-  // Construct the parsing prompt using the title from settings
-  const parsingPrompt = `${settings.parsingPromptTitle || "Parse the following test into JSON format"}:
+  // Use the new parsing prompt from the user
+  const parsingPrompt = `Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.
 
-Parse all questions into the following structure:
-[
-  {
-    "questionNumber": 1,
-    "questionText": "Full question text",
-    "optionA": "Option A text",
-    "optionB": "Option B text",
-    "optionC": "Option C text",
-    "optionD": "Option D text",
-    "correctAnswer": "a", // The correct option letter
-    "correctText": "Option A text" // The text of the correct option
-  }
-]
+**Input:** The input text will contain one or more questions, typically with multiple-choice options, a designated correct answer, and an accompanying explanation.
 
-Input Format:
+**Output Format:** For *each* question found in the input, you MUST structure the output exactly as follows:
+
 #QuestionStart
-[Question number]) [Full question text]
-a) [Option A text]
-b) [Option B text]
-c) [Option C text]
-d) [Option D text]
+Q1) [Insert the full question text here]
+[Insert option A here, e.g., a) Option text]
+[Insert option B here, e.g., b) Option text]
+[Insert option C here, e.g., c) Option text]
+[Insert option D here, e.g., d) Option text]
+[Add more options if present in the input]
 #QuestionEnd
 #AnswerStart
-Answer: [correct option letter]) [Correct option text]
+Answer: [Insert the correct answer letter and text exactly as provided in the input, e.g., a) Yadagiri fort]
 #AnswerEnd
 
-Make sure to preserve tables, formatting, and special characters. Ensure each question follows this exact format with the tags. Process all questions in the document.`;
+#QuestionStart
+Q2) [Insert the full question text here (i) statement 1 if any, (ii) statement 2 if any]
+[Insert option A here, e.g., a) Option text]
+[Insert option B here, e.g., b) Option text]
+[Insert option C here, e.g., c) Option text]
+[Insert option D here, e.g., d) Option text]
+[Add more options if present in the input]
+#QuestionEnd
+#AnswerStart
+Answer: [Insert the correct answer letter and text exactly as provided in the input, e.g., a) Yadagiri fort]
+#AnswerEnd
+
+#QuestionStart
+Q3) [Insert the full question text here
+table in text blocks if any (identify from pdf)
+|---------------------------------|
+| abc | xyz | 
+|---------------------------------|]
+[Insert option A here, e.g., a) Option text]
+[Insert option B here, e.g., b) Option text]
+[Insert option C here, e.g., c) Option text]
+[Insert option D here, e.g., d) Option text]
+[Add more options if present in the input]
+#QuestionEnd
+#AnswerStart
+Answer: [Insert the correct answer letter and text exactly as provided in the input, e.g., a) Yadagiri fort]
+#AnswerEnd
+
+#QuestionStart
+Q4) [Insert the full question text here (⭐ Please Re-check)]
+[Insert option A here, e.g., a) Option text]
+[Insert option B here, e.g., b) Option text]
+[Insert option C here, e.g., c) Option text]
+[Insert option D here, e.g., d) Option text]
+[Add more options if present in the input]
+#QuestionEnd
+#AnswerStart
+Answer: [Insert the correct answer letter and text exactly as provided in the input, e.g., a) Yadagiri fort]
+#AnswerEnd
+
+*Mandatory Rules & Constraints:**
+
+1. **Exact Formatting:** Ensure table formatting is exactly as it is above (add "|"" in between the options). If there statements in the questions, involve them just below the question without spacing, given you the output below to be used as a rigid example.Use the precise tags (#QuestionStart, #QuestionEnd, #AnswerStart, #AnswerEnd) and prefixes (Q1), Answer:, Explanation:) as shown. Maintain the line breaks as demonstrated in the format structure and the example.
+2. **100% Accuracy to Input:** Reproduce the question text, all options, the identified correct answer, and the explanation text *exactly* as they appear in the input provided format. Do not rephrase, summarize, or omit any part of the original content unless addressing rule #5, in which case add the correction with in a bracket along with explanation but dont modify original.
+3. **Stay Within Scope:** (Remove any sources like-Laxmikant/NCERT/etc, coaching names like forum IAS/visionIAS, links mentioned)=from the explanation. Do NOT add any information, details, or context that is not explicitly present in the original input provided for that specific question.
+4. **No Hallucination:** Ensure, the answer is not just "a" but "a) answer". Output Should be exactly like depicted in the example. with proper line spacing vertically. Do not invent questions, answers, options, or explanations. Stick strictly to the provided source material.
+5. **Error Identification and Correction (Questions Only):**
+  - Carefully review the Question and its respective answer text provided in the input for each question.
+  - If you identify a clear general knowledge error, factual inaccuracy, or logical inconsistency, you MUST:
+    - Place a star emoji (⭐) immediately *after* the question.
+    - Immediately following the ⭐, write: "please re-check" enclosed in parentheses (). (see Q4) from above example)
+  - **Important:** Apply this error correction *only* by indicating as specified. Do *not* alter the question, options, or the indicated correct answer even if you suspect they are wrong in the source; reproduce them as given.
+6. **OCR correction:** it is possible the input provided to you maybe in jumbled or abruptly broken text format, convert it into normal paragraphs but DO NOT change the content.
+
+7. CRITICAL! NEVER INSERT answer's explanation. just verify that correct answer and explanation given in the answer is matching internally. in the output only mention the correct option with option number i.e. a), b), c), d) and its answer in front of it. for eg: a) America`;
 
   const handleCopyPrompt = () => {
     navigator.clipboard.writeText(parsingPrompt);
