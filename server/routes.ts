@@ -21,6 +21,32 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Prefix all routes with /api
   const apiRouter = app;
 
+  // GET /api/subjects - Get all subjects
+  apiRouter.get("/api/subjects", async (_req: Request, res: Response) => {
+    try {
+      const { db } = await import("./db");
+      const { subjects } = await import("@shared/schema");
+      const allSubjects = await db.select().from(subjects);
+      res.json(allSubjects);
+    } catch (error) {
+      console.error("Error fetching subjects:", error);
+      res.status(500).json({ message: "Failed to fetch subjects" });
+    }
+  });
+
+  // GET /api/topics - Get all topics
+  apiRouter.get("/api/topics", async (_req: Request, res: Response) => {
+    try {
+      const { db } = await import("./db");
+      const { topics } = await import("@shared/schema");
+      const allTopics = await db.select().from(topics);
+      res.json(allTopics);
+    } catch (error) {
+      console.error("Error fetching topics:", error);
+      res.status(500).json({ message: "Failed to fetch topics" });
+    }
+  });
+
   // GET /api/tests - Get all tests
   apiRouter.get("/api/tests", async (_req: Request, res: Response) => {
     try {
