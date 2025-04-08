@@ -54,12 +54,12 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
         existing.questions += subject.attempts;
         existing.correct += subject.correct;
         existing.incorrect += subject.incorrect;
-        existing.score += subject.score;
+        existing.score += subject.score || 0;
         existing.time += subject.avgTimeSeconds * subject.attempts;
       } else {
         tagCounter.set(tag, {
           accuracy: 0, // Will calculate later
-          score: subject.score,
+          score: subject.score || 0,
           questions: subject.attempts,
           correct: subject.correct,
           incorrect: subject.incorrect,
@@ -189,13 +189,13 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
     [
       {
         name: 'First Attempt',
-        score: overallStats.dataPoints[0].score,
-        accuracy: overallStats.dataPoints[0].accuracy
+        score: overallStats.dataPoints[0].score || 0,
+        accuracy: overallStats.dataPoints[0].accuracy || 0
       },
       {
         name: 'Latest Attempt',
-        score: overallStats.dataPoints[overallStats.dataPoints.length - 1].score,
-        accuracy: overallStats.dataPoints[overallStats.dataPoints.length - 1].accuracy
+        score: overallStats.dataPoints[overallStats.dataPoints.length - 1].score || 0,
+        accuracy: overallStats.dataPoints[overallStats.dataPoints.length - 1].accuracy || 0
       }
     ] : null;
 

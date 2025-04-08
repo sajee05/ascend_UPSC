@@ -5,7 +5,7 @@ import { AnsweredQuestionCard } from "@/components/answered-question-card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { Logo } from "@/components/ui/logo";
-import { Cog, Moon, Sun, Clock } from "lucide-react";
+import { Cog, Moon, Sun, Clock, LogOut } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
@@ -14,6 +14,16 @@ import { apiRequest } from "@/lib/queryClient";
 import { useQuery } from "@tanstack/react-query";
 import { formatTime } from "@/lib/utils";
 import { motion, AnimatePresence } from "framer-motion";
+import { 
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@/components/ui/alert-dialog";
 
 export default function Quiz() {
   const { attemptId } = useParams();
@@ -30,6 +40,9 @@ export default function Quiz() {
   const [quizStarted, setQuizStarted] = useState(false);
   const [quizCompleted, setQuizCompleted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  
+  // End quiz dialog state
+  const [showEndQuizDialog, setShowEndQuizDialog] = useState(false);
 
   // Fetch attempt data
   const { data: attempt, isLoading: isLoadingAttempt } = useQuery<Attempt>({
@@ -272,6 +285,17 @@ export default function Quiz() {
   const openSettings = () => {
     updateUIState({ settingsPanelOpen: true });
   };
+  
+  // Handle end quiz button click
+  const handleEndQuizClick = () => {
+    setShowEndQuizDialog(true);
+  };
+  
+  // Handle end quiz confirmation
+  const handleEndQuizConfirm = () => {
+    completeQuiz();
+    setShowEndQuizDialog(false);
+  };
 
   if (isLoadingAttempt || isLoadingQuestions || isLoadingAnswers) {
     return (
@@ -355,12 +379,25 @@ export default function Quiz() {
               </h2>
             </div>
             
-            {/* Progress */}
-            <div className="sm:text-right">
-              <p className="text-sm font-medium mb-1">
-                {answeredCount} / {questionCount} Questions
-              </p>
-              <Progress value={progressPercentage} className="h-2" />
+            {/* Progress and End Quiz Button */}
+            <div className="flex flex-col items-end gap-2">
+              <div className="sm:text-right">
+                <p className="text-sm font-medium mb-1">
+                  {answeredCount} / {questionCount} Questions
+                </p>
+                <Progress value={progressPercentage} className="h-2" />
+              </div>
+              
+              <Button
+                variant="outline"
+                size="sm"
+                className="flex items-center gap-1 text-destructive hover:bg-destructive hover:text-destructive-foreground"
+                onClick={handleEndQuizClick}
+                disabled={isSubmitting}
+              >
+                <LogOut className="h-4 w-4" />
+                End Quiz
+              </Button>
             </div>
           </div>
           
@@ -404,6 +441,33 @@ export default function Quiz() {
           </AnimatePresence>
         </div>
       </main>
+      
+      {/* End Quiz Confirmation Dialog */}
+      <AlertDialog open={showEndQuizDialog} onOpenChange={setShowEndQuizDialog}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>End Quiz?</AlertDialogTitle>
+            <AlertDialogDescription>
+              Are you sure you want to end this quiz? You have answered {answeredCount} out of {questionCount} questions.
+              {answeredCount < questionCount && (
+                <p className="mt-2 text-destructive font-medium">
+                  Warning: You still have {questionCount - answeredCount} unanswered questions.
+                </p>
+              )}
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel disabled={isSubmitting}>Cancel</AlertDialogCancel>
+            <AlertDialogAction
+              onClick={handleEndQuizConfirm}
+              disabled={isSubmitting}
+              className="bg-destructive hover:bg-destructive/90"
+            >
+              {isSubmitting ? "Submitting..." : "End Quiz"}
+            </AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
     </div>
   );
 }

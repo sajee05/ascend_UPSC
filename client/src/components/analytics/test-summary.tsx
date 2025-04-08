@@ -27,7 +27,7 @@ export function TestSummary({ analytics }: TestSummaryProps) {
         </div>
         <div className="flex items-center">
           <CheckCircle2Icon className="h-4 w-4 mr-2 text-green-500 dark:text-green-400" />
-          <span>Score: {analytics.overallStats.score.toFixed(1)} / {analytics.overallStats.attempts * 2}</span>
+          <span>Score: {analytics.overallStats.score ? analytics.overallStats.score.toFixed(1) : '0.0'} / {analytics.overallStats.attempts ? analytics.overallStats.attempts * 2 : 0}</span>
         </div>
       </div>
     </motion.div>
