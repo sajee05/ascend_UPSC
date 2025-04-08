@@ -67,6 +67,30 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch test" });
     }
   });
+  
+  // DELETE /api/tests/:id - Delete a test and all related data
+  apiRouter.delete("/api/tests/:id", async (req: Request, res: Response) => {
+    try {
+      const testId = parseInt(req.params.id);
+      if (isNaN(testId)) {
+        return res.status(400).json({ message: "Invalid test ID" });
+      }
+
+      // Check if test exists
+      const test = await storage.getTest(testId);
+      if (!test) {
+        return res.status(404).json({ message: "Test not found" });
+      }
+
+      // Delete the test and all associated data
+      await storage.deleteTest(testId);
+      
+      res.status(200).json({ message: "Test deleted successfully" });
+    } catch (error) {
+      console.error("Error deleting test:", error);
+      res.status(500).json({ message: "Failed to delete test" });
+    }
+  });
 
   // POST /api/questions - Add questions to a test
   apiRouter.post("/api/questions", async (req: Request, res: Response) => {

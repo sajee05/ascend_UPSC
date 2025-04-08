@@ -3,7 +3,7 @@ import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
-import { PlayIcon, DownloadIcon, BarChart3Icon, Loader2Icon, EyeIcon } from "lucide-react";
+import { PlayIcon, DownloadIcon, BarChart3Icon, Loader2Icon, EyeIcon, Trash2Icon } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { apiRequest } from "@/lib/queryClient";
 import { formatDate, downloadCSV, generateFileName } from "@/lib/utils";
@@ -17,6 +17,16 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import {
+  AlertDialog,
+  AlertDialogAction,
+  AlertDialogCancel,
+  AlertDialogContent,
+  AlertDialogDescription,
+  AlertDialogFooter,
+  AlertDialogHeader,
+  AlertDialogTitle,
+} from "@/components/ui/alert-dialog";
 
 // QuizPreviewDialog component
 function QuizPreviewDialog({ 
@@ -140,6 +150,8 @@ export function TestList() {
   const [isGeneratingAnki, setIsGeneratingAnki] = useState<number | null>(null);
   const [isStartingQuiz, setIsStartingQuiz] = useState<number | null>(null);
   const [previewTestId, setPreviewTestId] = useState<number | null>(null);
+  const [isDeletingTest, setIsDeletingTest] = useState<number | null>(null);
+  const [testToDelete, setTestToDelete] = useState<number | null>(null);
   const { toast } = useToast();
   const queryClient = useQueryClient();
   const [, navigate] = useLocation();
@@ -354,6 +366,42 @@ export function TestList() {
     );
   }
 
+  // Handle delete test
+  const handleDeleteTest = async (testId: number) => {
+    try {
+      setIsDeletingTest(testId);
+      
+      const response = await fetch(`/api/tests/${testId}`, {
+        method: 'DELETE',
+        credentials: 'include',
+      });
+      
+      if (!response.ok) {
+        throw new Error("Failed to delete test");
+      }
+      
+      // Invalidate the query to refresh the list
+      queryClient.invalidateQueries({ queryKey: ["/api/tests"] });
+      
+      // Close the dialog
+      setTestToDelete(null);
+      
+      toast({
+        title: "Test deleted",
+        description: "The test and all associated data have been deleted successfully.",
+      });
+    } catch (error) {
+      console.error("Error deleting test:", error);
+      toast({
+        title: "Error",
+        description: "Failed to delete test. Please try again.",
+        variant: "destructive",
+      });
+    } finally {
+      setIsDeletingTest(null);
+    }
+  };
+
   return (
     <div className="grid gap-4">
       {/* Preview dialog */}
@@ -365,6 +413,41 @@ export function TestList() {
           onStartQuiz={() => handleStartQuiz(previewTestId)}
         />
       )}
+      
+      {/* Delete confirmation dialog */}
+      <AlertDialog open={testToDelete !== null} onOpenChange={() => setTestToDelete(null)}>
+        <AlertDialogContent>
+          <AlertDialogHeader>
+            <AlertDialogTitle>Are you sure you want to delete this test?</AlertDialogTitle>
+            <AlertDialogDescription>
+              This will permanently delete the test and all associated questions, attempts, and flashcards.
+              This action cannot be undone.
+            </AlertDialogDescription>
+          </AlertDialogHeader>
+          <AlertDialogFooter>
+            <AlertDialogCancel disabled={isDeletingTest !== null}>Cancel</AlertDialogCancel>
+            <AlertDialogAction
+              onClick={(e) => {
+                e.preventDefault();
+                if (testToDelete !== null) {
+                  handleDeleteTest(testToDelete);
+                }
+              }}
+              disabled={isDeletingTest !== null}
+              className="bg-red-500 hover:bg-red-600 text-white"
+            >
+              {isDeletingTest !== null ? (
+                <>
+                  <Loader2Icon className="mr-2 h-4 w-4 animate-spin" />
+                  Deleting...
+                </>
+              ) : (
+                "Delete Test"
+              )}
+            </AlertDialogAction>
+          </AlertDialogFooter>
+        </AlertDialogContent>
+      </AlertDialog>
     
       {tests.map((test) => (
         <Card 
@@ -398,14 +481,6 @@ export function TestList() {
                 <Button 
                   variant="ghost" 
                   size="icon" 
-                  title="Browse Questions"
-                  onClick={() => navigate(`/tests/${test.id}/questions`)}
-                >
-                  <EyeIcon className="h-4 w-4 text-blue-500 dark:text-blue-400" />
-                </Button>
-                <Button 
-                  variant="ghost" 
-                  size="icon" 
                   title="Generate Anki CSV"
                   onClick={() => handleGenerateAnki(test.id, test.title)}
                   disabled={isGeneratingAnki === test.id}
@@ -419,11 +494,33 @@ export function TestList() {
                 <Button 
                   variant="ghost" 
                   size="icon" 
+                  title="Browse Questions"
+                  onClick={() => navigate(`/tests/${test.id}/questions`)}
+                >
+                  <EyeIcon className="h-4 w-4 text-blue-500 dark:text-blue-400" />
+                </Button>
+                <Button 
+                  variant="ghost" 
+                  size="icon" 
                   title="View Analytics"
                   onClick={() => handleViewAnalytics(test.id)}
                   disabled={test.attempts === 0}
                 >
                   <BarChart3Icon className="h-4 w-4 text-amber-500 dark:text-amber-400" />
+                </Button>
+                <Button 
+                  variant="ghost" 
+                  size="icon" 
+                  title="Delete Test"
+                  onClick={() => setTestToDelete(test.id)}
+                  disabled={isDeletingTest === test.id}
+                  className="text-red-500 hover:text-red-700 hover:bg-red-100 dark:hover:bg-red-900/20"
+                >
+                  {isDeletingTest === test.id ? (
+                    <Loader2Icon className="h-4 w-4 animate-spin" />
+                  ) : (
+                    <Trash2Icon className="h-4 w-4" />
+                  )}
                 </Button>
               </div>
             </div>

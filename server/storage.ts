@@ -23,6 +23,7 @@ export interface IStorage {
   createTest(test: InsertTest): Promise<Test>;
   getTest(id: number): Promise<Test | undefined>;
   getAllTests(): Promise<TestWithStats[]>;
+  deleteTest(id: number): Promise<void>;
   
   // Questions
   addQuestionsToTest(questions: InsertQuestion[]): Promise<Question[]>;
@@ -110,6 +111,43 @@ export class MemStorage implements IStorage {
 
   async getTest(id: number): Promise<Test | undefined> {
     return this.tests.get(id);
+  }
+
+  async deleteTest(id: number): Promise<void> {
+    // Delete the test first
+    this.tests.delete(id);
+    
+    // Find and delete all questions associated with this test
+    const questionsToDelete = Array.from(this.questions.entries())
+      .filter(([_, question]) => question.testId === id)
+      .map(([qId, _]) => qId);
+      
+    // Find and delete all tags associated with the questions
+    const tagsToDelete = Array.from(this.tags.entries())
+      .filter(([_, tag]) => questionsToDelete.includes(tag.questionId))
+      .map(([tagId, _]) => tagId);
+      
+    // Find and delete all attempts for this test
+    const attemptsToDelete = Array.from(this.attempts.entries())
+      .filter(([_, attempt]) => attempt.testId === id)
+      .map(([attemptId, _]) => attemptId);
+      
+    // Find and delete all user answers for the deleted attempts
+    const answersToDelete = Array.from(this.userAnswers.entries())
+      .filter(([_, answer]) => attemptsToDelete.includes(answer.attemptId))
+      .map(([answerId, _]) => answerId);
+      
+    // Find and delete all flashcards for the deleted questions
+    const flashcardsToDelete = Array.from(this.flashcards.entries())
+      .filter(([_, flashcard]) => questionsToDelete.includes(flashcard.questionId))
+      .map(([flashcardId, _]) => flashcardId);
+    
+    // Delete everything
+    questionsToDelete.forEach(qId => this.questions.delete(qId));
+    tagsToDelete.forEach(tagId => this.tags.delete(tagId));
+    attemptsToDelete.forEach(attemptId => this.attempts.delete(attemptId));
+    answersToDelete.forEach(answerId => this.userAnswers.delete(answerId));
+    flashcardsToDelete.forEach(flashcardId => this.flashcards.delete(flashcardId));
   }
 
   async getAllTests(): Promise<TestWithStats[]> {
@@ -739,6 +777,66 @@ export class DatabaseStorage implements IStorage {
       .from(tests)
       .where(eq(tests.id, id));
     return test;
+  }
+
+  async deleteTest(id: number): Promise<void> {
+    // Use a transaction to delete a test and all related data
+    await db.transaction(async (tx) => {
+      // Get all questions for this test
+      const testQuestions = await tx
+        .select({ id: questions.id })
+        .from(questions)
+        .where(eq(questions.testId, id));
+        
+      const questionIds = testQuestions.map(q => q.id);
+      
+      if (questionIds.length > 0) {
+        // Delete all tags for these questions
+        await tx
+          .delete(tags)
+          .where(inArray(tags.questionId, questionIds));
+          
+        // Delete all flashcards for these questions
+        await tx
+          .delete(flashcards)
+          .where(inArray(flashcards.questionId, questionIds));
+      }
+      
+      // Get all attempts for this test
+      const testAttempts = await tx
+        .select({ id: attempts.id })
+        .from(attempts)
+        .where(eq(attempts.testId, id));
+        
+      const attemptIds = testAttempts.map(a => a.id);
+      
+      if (attemptIds.length > 0) {
+        // Delete all user answers for these attempts
+        await tx
+          .delete(userAnswers)
+          .where(inArray(userAnswers.attemptId, attemptIds));
+          
+        // Delete all attempts
+        await tx
+          .delete(attempts)
+          .where(eq(attempts.testId, id));
+      }
+      
+      // Delete all test subject links
+      await tx
+        .delete(testSubjects)
+        .where(eq(testSubjects.testId, id));
+      
+      // Delete all questions for this test
+      await tx
+        .delete(questions)
+        .where(eq(questions.testId, id));
+        
+      // Finally, delete the test itself
+      await tx
+        .delete(tests)
+        .where(eq(tests.id, id));
+    });
   }
 
   async getAllTests(): Promise<TestWithStats[]> {
