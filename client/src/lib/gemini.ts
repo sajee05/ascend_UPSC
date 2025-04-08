@@ -1,8 +1,7 @@
 import { QuestionWithTags, SubjectStats, UserAnswer } from "@shared/schema";
 
 // Default prompts
-export const DEFAULT_EXPLANATION_PROMPT = 
-`Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.
+export const DEFAULT_EXPLANATION_PROMPT = `Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanations from the provided input text into a specific, structured format. Adhere strictly to the rules below.
 
 **Input:** The input text will contain one or more questions, typically with multiple-choice options, a designated correct answer, and an accompanying explanation.
 
