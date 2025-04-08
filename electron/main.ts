@@ -4,6 +4,18 @@ import * as url from 'url';
 import * as fs from 'fs';
 import { spawn } from 'child_process';
 
+// Add isQuitting property to app object for TypeScript
+declare global {
+  namespace Electron {
+    interface App {
+      isQuitting: boolean;
+    }
+  }
+}
+
+// Initialize the isQuitting property
+app.isQuitting = false;
+
 // Main window reference
 let mainWindow: BrowserWindow | null = null;
 // Server process reference
@@ -80,11 +92,22 @@ function startServer() {
   }
 
   // Environment variables for the server process
-  const env = {
+  const env: NodeJS.ProcessEnv = {
     ...process.env,
     ELECTRON_RUN: '1', // Tell the server it's running in Electron
     PORT: '3000',      // Force the server to run on port 3000
+    PORTABLE_MODE: 'true', // Enable portable mode
   };
+  
+  // In portable mode, the database should be in the resources/db directory
+  // Next to the executable
+  const resourcesPath = process.resourcesPath || path.join(app.getAppPath(), '..', 'resources');
+  const dbPath = path.join(resourcesPath, 'db', 'ascend-upsc.db');
+  
+  // Set database path
+  env.SQLITE_DB_PATH = dbPath;
+  
+  console.log(`Using database at: ${dbPath}`);
 
   // Spawn the server process
   serverProcess = spawn('node', [serverPath], { env });

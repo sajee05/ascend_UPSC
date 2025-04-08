@@ -26,6 +26,12 @@
   "win": {
     "target": [
       {
+        "target": "portable",
+        "arch": [
+          "x64"
+        ]
+      },
+      {
         "target": "nsis",
         "arch": [
           "x64"
@@ -33,6 +39,9 @@
       }
     ],
     "icon": "generated-icon.png"
+  },
+  "portable": {
+    "artifactName": "AscendUPSC-Portable-${version}.exe"
   },
   "nsis": {
     "oneClick": false,
@@ -49,9 +58,13 @@
   },
   "extraResources": [
     {
-      "from": "assets",
-      "to": "assets"
+      "from": "ascend-upsc.db",
+      "to": "db/ascend-upsc.db"
     }
+  ],
+  "asarUnpack": [
+    "node_modules/better-sqlite3",
+    "node_modules/sqlite3"
   ],
   "publish": null
 }

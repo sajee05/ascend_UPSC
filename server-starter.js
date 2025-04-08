@@ -16,21 +16,42 @@ const isElectron = process.env.ELECTRON_RUN === '1';
 
 // Set up data directory for SQLite in Electron mode
 if (isElectron) {
-  const userDataPath = process.env.APPDATA || 
-                       (process.platform === 'darwin' 
-                        ? path.join(process.env.HOME, 'Library', 'Application Support', 'ascend-upsc') 
-                        : path.join(process.env.HOME, '.ascend-upsc'));
-  
-  // Create user data directory if it doesn't exist
-  const dbDir = path.join(userDataPath, 'db');
-  if (!fs.existsSync(dbDir)) {
-    fs.mkdirSync(dbDir, { recursive: true });
+  // For portable mode, use a local database in the app directory
+  const portableMode = true; // Set to true for portable .exe
+
+  if (portableMode) {
+    // Use a database in the application directory for portable mode
+    const appDir = path.join(path.dirname(process.execPath), 'resources');
+    const dbDir = path.join(appDir, 'db');
+    
+    // Create directory if it doesn't exist
+    if (!fs.existsSync(dbDir)) {
+      fs.mkdirSync(dbDir, { recursive: true });
+    }
+    
+    // Set environment variable for database path
+    process.env.SQLITE_DB_PATH = path.join(dbDir, 'ascend-upsc.db');
+    process.env.PORTABLE_MODE = 'true';
+    
+    console.log(`Portable mode: Using SQLite database at ${process.env.SQLITE_DB_PATH}`);
+  } else {
+    // Use user data directory for installed mode
+    const userDataPath = process.env.APPDATA || 
+                         (process.platform === 'darwin' 
+                          ? path.join(process.env.HOME, 'Library', 'Application Support', 'ascend-upsc') 
+                          : path.join(process.env.HOME, '.ascend-upsc'));
+    
+    // Create user data directory if it doesn't exist
+    const dbDir = path.join(userDataPath, 'db');
+    if (!fs.existsSync(dbDir)) {
+      fs.mkdirSync(dbDir, { recursive: true });
+    }
+    
+    // Set environment variable for database path
+    process.env.SQLITE_DB_PATH = path.join(dbDir, 'ascend-upsc.db');
+    
+    console.log(`Electron mode: Using SQLite database at ${process.env.SQLITE_DB_PATH}`);
   }
-  
-  // Set environment variable for database path
-  process.env.SQLITE_DB_PATH = path.join(dbDir, 'ascend-upsc.db');
-  
-  console.log(`Electron mode: Using SQLite database at ${process.env.SQLITE_DB_PATH}`);
 } else {
   console.log('Web mode: Using PostgreSQL database');
 }

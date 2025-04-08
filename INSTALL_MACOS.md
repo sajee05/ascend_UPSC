@@ -1,83 +1,116 @@
-# Installing Ascend UPSC on macOS
+# Installation Guide for macOS
 
-This guide will help you install Ascend UPSC on your Mac computer.
+This document provides detailed instructions for installing and using the Ascend UPSC application on macOS.
 
 ## System Requirements
 
-- macOS 11.0 (Big Sur) or later
-- Intel or Apple Silicon (M1/M2) processor
-- At least 4GB of RAM
-- 500MB of free disk space
+- macOS 10.14 (Mojave) or later
+- 4GB RAM (minimum)
+- 500MB free disk space
+- Administrator privileges for installation
 
-## Installation Steps
+## Installation
 
-1. Download the latest macOS installer (AscendUPSC.dmg) from the releases page
-2. Double-click the downloaded .dmg file to mount it
-3. Drag the Ascend UPSC application icon to the Applications folder
-4. Eject the mounted disk image
+### Installing the Application
 
-## First Launch
+1. Download the `AscendUPSC.dmg` file from the provided link
+2. Double-click the downloaded DMG file to mount it
+3. Drag the Ascend UPSC application to your Applications folder
+4. The first time you open the application, right-click (or Control-click) on the app icon and select "Open"
+5. Click "Open" when prompted to confirm opening the application
+6. The application will start and initialize its database
 
-When launching Ascend UPSC for the first time:
+*Note: The right-click method is required only the first time you run the application because it's not signed with an Apple Developer certificate.*
 
-1. Open the Applications folder in Finder
-2. Right-click (or Control-click) on Ascend UPSC
-3. Select "Open" from the context menu
-4. A security dialog may appear saying the app is from an unidentified developer
-5. Click "Open" to confirm you want to run the application
-6. The application may take a few moments to start as it initializes the local database
+## First-Time Setup
 
-Note: This security verification is only needed the first time you run the application.
+When running the application for the first time:
 
-## Updating the Application
+1. The application will start automatically and initialize its database
+2. You'll see the home page with available tests
+3. No login or registration is required
+4. You can start using the application immediately
 
-- The application will check for updates when launched
-- If an update is available, you'll be prompted to install it
-- Follow the on-screen instructions to complete the update
+## Using the Application
+
+### Taking Tests
+
+1. From the home page, select a test you want to attempt
+2. Click "Start Test" to begin
+3. Answer the questions within the allotted time
+4. Review your answers before submitting
+5. View your test results and analytics
+
+### Viewing Analytics
+
+1. After completing a test, you can view detailed analytics
+2. Navigate to the "Overall Analytics" section to see your performance across all tests
+3. Review subject-wise performance, time spent, and accuracy metrics
+4. Use the insights to focus on weaker areas
+
+### Using Flashcards
+
+1. Navigate to the "Flashcards" section
+2. Review flashcards created from your previous incorrect answers
+3. Rate your understanding of each concept
+4. The spaced repetition system will schedule reviews based on your ratings
 
 ## Troubleshooting
 
-If you encounter issues during installation or while using the application:
+If you encounter any issues:
 
-1. Make sure your macOS version is up to date
-2. If you receive a message about the application being damaged:
-   - Open System Preferences > Security & Privacy
-   - Under the General tab, click "Open Anyway" if that option is available
-3. If the application won't open due to security settings:
-   - Open Terminal
-   - Run the command: `xattr -d com.apple.quarantine /Applications/Ascend\ UPSC.app`
-   - Try opening the application again
+### Application Doesn't Start
 
-## Uninstalling
+1. Check "System Preferences > Security & Privacy > General" and click "Open Anyway" if the app is blocked
+2. Make sure your macOS version meets the minimum requirements
+3. Try restarting your computer and launching the application again
 
-To remove Ascend UPSC from your Mac:
+### "App is damaged" Warning
 
-1. Open Finder and navigate to the Applications folder
-2. Drag the Ascend UPSC application to the Trash
-3. Empty the Trash
+If you see a message saying the app is damaged and can't be opened:
+1. Open Terminal (from Applications > Utilities)
+2. Run the following command:
+   ```
+   xattr -d com.apple.quarantine /Applications/AscendUPSC.app
+   ```
+3. Try opening the application again
 
-### Removing User Data
+### Database Issues
 
-If you want to completely remove all data, you can also delete the application data:
+1. The application might show an error if the database is corrupted
+2. Try reinstalling the application if you encounter database errors
 
-1. Open Finder
-2. Press Command+Shift+G to open the "Go to Folder" dialog
-3. Enter `~/Library/Application Support/ascend-upsc` and click Go
-4. Delete the entire folder
+### Performance Issues
+
+1. Close other applications to free up system resources
+2. Restart the application if it becomes slow after extended use
+3. Ensure your computer meets the minimum system requirements
 
 ## Data Storage
 
-Ascend UPSC stores your data in a local SQLite database. This database is located in:
-```
-~/Library/Application Support/ascend-upsc/db/ascend-upsc.db
-```
+The application stores all data in the following location:
+`~/Library/Application Support/ascend-upsc/`
 
-To back up your data, make a copy of this file before uninstalling the application.
+This includes:
+- Your test attempts
+- Performance analytics
+- Flashcards
+- Application settings
 
-## Apple Silicon (M1/M2) Compatibility
+## Updates
 
-Ascend UPSC is a universal application that runs natively on both Intel and Apple Silicon Macs. No Rosetta translation is required.
+When a new version is available:
+1. Download the new DMG file
+2. Follow the same installation steps as above
+3. Your existing data will be preserved
 
-## Contact Support
+## Uninstallation
 
-If you need assistance with the installation or have questions about the application, please contact our support team at support@ascendupsc.com.
+To uninstall the application:
+
+1. Drag the Ascend UPSC application from the Applications folder to the Trash
+2. Empty the Trash
+3. To completely remove all application data, delete the folder:
+   `~/Library/Application Support/ascend-upsc/`
+
+*Note: The Library folder is hidden by default. To access it, in Finder, hold down the Option key and click on the "Go" menu, then select "Library".*

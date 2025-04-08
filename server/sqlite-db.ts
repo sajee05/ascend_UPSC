@@ -11,6 +11,12 @@ import { logger } from './logger';
  * Get the database file path based on the environment
  */
 export function getDbPath(): string {
+  // If SQLite_DB_PATH is explicitly set, use it (portable mode)
+  if (process.env.SQLITE_DB_PATH) {
+    logger(`Using database path from environment: ${process.env.SQLITE_DB_PATH}`, 'sqlite');
+    return process.env.SQLITE_DB_PATH;
+  }
+  
   // When running in Electron, use the user's app data folder
   if (process.env.APP_DATA_PATH) {
     const dbDir = process.env.APP_DATA_PATH;
@@ -38,6 +44,22 @@ export const db = drizzle(sqlite, { schema });
  */
 export function initializeDatabase() {
   logger('Initializing SQLite database...', 'sqlite');
+  
+  // Check if we're in portable mode and if the database exists
+  if (process.env.PORTABLE_MODE === 'true') {
+    // In portable mode, the database should already exist
+    logger('Portable mode detected, using pre-installed database', 'sqlite');
+    
+    try {
+      // Verify the database has the expected tables
+      db.run(sql`SELECT name FROM sqlite_master WHERE type='table' AND name='subjects'`);
+      logger('Pre-installed database verified', 'sqlite');
+      return;
+    } catch (error) {
+      // If there's an error, we need to create the tables
+      logger('Error verifying pre-installed database, creating tables', 'sqlite');
+    }
+  }
   
   // Create tables from schema
   db.run(schema.subjects);

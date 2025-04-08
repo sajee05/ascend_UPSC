@@ -1,0 +1,158 @@
+/**
+ * Build script for creating a portable Windows .exe file
+ * This script automates the build process for the Electron app
+ */
+
+const { exec, execSync } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+
+console.log('=============================================');
+console.log('Starting build process for portable Windows .exe');
+console.log('=============================================');
+
+// Verify that all necessary tools are installed
+try {
+  console.log('Checking for required tools...');
+  execSync('electron-builder --version', { stdio: 'pipe' });
+  execSync('esbuild --version', { stdio: 'pipe' });
+  console.log('✓ All required tools found');
+} catch (error) {
+  console.error('Error: Required build tools are missing. Please run:');
+  console.error('npm install -g electron-builder esbuild typescript');
+  process.exit(1);
+}
+
+// Ensure the database exists before starting the build
+const dbSource = path.join(__dirname, 'ascend-upsc.db');
+if (!fs.existsSync(dbSource)) {
+  console.warn('WARNING: Database file not found at ' + dbSource);
+  console.warn('Running database initialization script...');
+  
+  try {
+    execSync('node initdb.cjs', { stdio: 'inherit' });
+    console.log('✓ Database initialized successfully');
+  } catch (error) {
+    console.error('Error initializing database:', error.message);
+    process.exit(1);
+  }
+}
+
+// Step 1: Build the Vite app
+console.log('\n1. Building Vite app...');
+exec('npm run build', (error, stdout, stderr) => {
+  if (error) {
+    console.error('Error building Vite app:', error);
+    return;
+  }
+  
+  console.log(stdout);
+  if (stderr) console.error(stderr);
+  console.log('✓ Vite build completed');
+  
+  // Step 2: Compile TypeScript files for Electron
+  console.log('\n2. Compiling Electron TypeScript files...');
+  exec('tsc -p electron', (error, stdout, stderr) => {
+    if (error) {
+      console.error('Error compiling Electron TypeScript:', error);
+      return;
+    }
+    
+    console.log(stdout);
+    if (stderr) console.error(stderr);
+    console.log('✓ TypeScript compilation completed');
+    
+    // Step 3: Bundle Electron main process
+    console.log('\n3. Bundling Electron main process...');
+    exec('esbuild electron/main.ts --platform=node --packages=external --bundle --outfile=dist/electron.js', (error, stdout, stderr) => {
+      if (error) {
+        console.error('Error bundling Electron main process:', error);
+        return;
+      }
+      
+      console.log(stdout);
+      if (stderr) console.error(stderr);
+      console.log('✓ Electron main process bundled');
+      
+      // Step 4: Copy database to resources
+      console.log('\n4. Preparing SQLite database for packaging...');
+      
+      // Create resources/db directory if it doesn't exist
+      const dbDir = path.join(__dirname, 'resources', 'db');
+      if (!fs.existsSync(dbDir)) {
+        fs.mkdirSync(dbDir, { recursive: true });
+        console.log('Created directory:', dbDir);
+      }
+      
+      // Copy the SQLite database to resources/db
+      const dbDest = path.join(dbDir, 'ascend-upsc.db');
+      
+      try {
+        if (fs.existsSync(dbSource)) {
+          // Get file sizes for verification
+          const srcSize = fs.statSync(dbSource).size;
+          
+          // Copy the file
+          fs.copyFileSync(dbSource, dbDest);
+          
+          // Verify the copy
+          const destSize = fs.statSync(dbDest).size;
+          
+          if (srcSize === destSize) {
+            console.log(`✓ Database copied successfully (${(srcSize / 1024 / 1024).toFixed(2)} MB)`);
+          } else {
+            console.error(`Error: Database copy verification failed. Size mismatch: ${srcSize} vs ${destSize}`);
+            return;
+          }
+        } else {
+          console.error(`Error: Database file not found at ${dbSource}`);
+          return;
+        }
+      } catch (error) {
+        console.error('Error copying database:', error);
+        return;
+      }
+      
+      // Step 5: Build Electron app
+      console.log('\n5. Building Electron portable executable...');
+      
+      exec('electron-builder --win --config.win.target=portable', (error, stdout, stderr) => {
+        if (error) {
+          console.error('Error building Electron app:', error);
+          return;
+        }
+        
+        console.log(stdout);
+        if (stderr) console.error(stderr);
+        
+        // Find the output file and display its path
+        const outputDir = path.join(__dirname, 'dist_electron');
+        
+        if (fs.existsSync(outputDir)) {
+          const files = fs.readdirSync(outputDir);
+          const exeFiles = files.filter(file => file.endsWith('.exe'));
+          
+          if (exeFiles.length > 0) {
+            console.log('\n=============================================');
+            console.log('Build completed successfully!');
+            console.log('=============================================');
+            console.log('Portable executable created at:');
+            exeFiles.forEach(file => {
+              const filePath = path.join(outputDir, file);
+              const fileSize = fs.statSync(filePath).size;
+              console.log(`${filePath} (${(fileSize / 1024 / 1024).toFixed(2)} MB)`);
+            });
+            console.log('\nNext steps:');
+            console.log('1. Test the portable executable on a clean Windows system');
+            console.log('2. Distribute to users with installation instructions');
+            console.log('=============================================');
+          } else {
+            console.log('Build completed, but no .exe file found in the output directory.');
+          }
+        } else {
+          console.log('Build completed, but output directory not found.');
+        }
+      });
+    });
+  });
+});
