@@ -20,7 +20,7 @@ import {
   LineChart, Line, BarChart, Bar, XAxis, YAxis, CartesianGrid, 
   Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell
 } from "recharts";
-import { formatDate, formatPercentage } from "@/lib/utils";
+import { formatDate, formatPercentage, getConfidenceEmoji, getYesNoEmoji } from "@/lib/utils";
 import { motion } from "framer-motion";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
@@ -323,18 +323,148 @@ export default function OverallAnalyticsPage() {
               </TabsList>
               
               <TabsContent value="multi-dimension">
-                <TopicSubtopicAnalysis subjectStats={filteredStats} />
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <Card>
+                    <CardContent className="p-4">
+                      <h3 className="font-medium mb-4">Subject Performance</h3>
+                      <div className="h-72 w-full">
+                        <ResponsiveContainer width="100%" height="100%">
+                          <BarChart
+                            data={filteredStats}
+                            layout="vertical"
+                            margin={{ top: 20, right: 30, left: 40, bottom: 5 }}
+                          >
+                            <CartesianGrid strokeDasharray="3 3" />
+                            <XAxis type="number" domain={[0, 100]} unit="%" />
+                            <YAxis 
+                              dataKey={(entry) => typeof entry.subject === 'string' ? entry.subject : entry.subject.name} 
+                              type="category" 
+                              width={100} 
+                            />
+                            <Tooltip formatter={(value) => [`${value}%`, "Accuracy"]} />
+                            <Legend />
+                            <Bar dataKey="accuracy" fill="#0A84FF" name="Accuracy %" barSize={20}>
+                              {filteredStats.map((entry, index) => (
+                                <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                              ))}
+                            </Bar>
+                          </BarChart>
+                        </ResponsiveContainer>
+                      </div>
+                    </CardContent>
+                  </Card>
+                  
+                  <Card>
+                    <CardContent className="p-4">
+                      <h3 className="font-medium mb-4">Subject Distribution</h3>
+                      <div className="h-72 w-full">
+                        <ResponsiveContainer width="100%" height="100%">
+                          <PieChart>
+                            <Pie
+                              data={filteredStats}
+                              cx="50%"
+                              cy="50%"
+                              innerRadius={60}
+                              outerRadius={90}
+                              fill="#8884d8"
+                              paddingAngle={2}
+                              dataKey="attempts"
+                              nameKey={(entry) => typeof entry.subject === 'string' ? entry.subject : entry.subject.name}
+                              label={(entry) => `${typeof entry.payload.subject === 'string' ? entry.payload.subject : entry.payload.subject.name}: ${entry.value} Qs`}
+                            >
+                              {filteredStats.map((entry, index) => (
+                                <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                              ))}
+                            </Pie>
+                            <Tooltip formatter={(value) => [`${value} questions`, ""]} />
+                          </PieChart>
+                        </ResponsiveContainer>
+                      </div>
+                    </CardContent>
+                  </Card>
+                </div>
               </TabsContent>
               
               <TabsContent value="time-analysis">
-                <DateAnalysisChart trendData={analytics.trendData} />
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <Card className="col-span-2">
+                    <CardContent className="p-4">
+                      <h3 className="font-medium mb-4">Date Performance</h3>
+                      <div className="h-72 w-full">
+                        <ResponsiveContainer width="100%" height="100%">
+                          <LineChart
+                            data={analytics.trendData}
+                            margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
+                          >
+                            <CartesianGrid strokeDasharray="3 3" />
+                            <XAxis 
+                              dataKey="date" 
+                              tickFormatter={(value) => new Date(value).toLocaleDateString()}
+                            />
+                            <YAxis yAxisId="left" />
+                            <YAxis yAxisId="right" orientation="right" domain={[0, 100]} unit="%" />
+                            <Tooltip 
+                              formatter={(value: any, name: any): [string, string] => {
+                                if (name === "accuracy") return [`${parseFloat(value).toFixed(1)}%`, "Accuracy"];
+                                return [parseFloat(value).toFixed(1), "Score"];
+                              }}
+                              labelFormatter={(value: any) => formatDate(value)}
+                            />
+                            <Legend />
+                            <Line 
+                              yAxisId="left"
+                              type="monotone" 
+                              dataKey="score" 
+                              stroke="#0A84FF" 
+                              activeDot={{ r: 8 }} 
+                            />
+                            <Line 
+                              yAxisId="right"
+                              type="monotone" 
+                              dataKey="accuracy" 
+                              stroke="#30D158" 
+                            />
+                          </LineChart>
+                        </ResponsiveContainer>
+                      </div>
+                    </CardContent>
+                  </Card>
+                </div>
               </TabsContent>
               
               <TabsContent value="trend-view">
-                <SubjectTrendCharts 
-                  trendData={analytics.trendData} 
-                  subjectStats={filteredStats}
-                />
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                  <Card className="md:col-span-2">
+                    <CardContent className="p-4">
+                      <h3 className="font-medium mb-4">Subject Trend Analysis</h3>
+                      <div className="h-72 w-full">
+                        <ResponsiveContainer width="100%" height="100%">
+                          <BarChart
+                            data={filteredStats}
+                            margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
+                          >
+                            <CartesianGrid strokeDasharray="3 3" />
+                            <XAxis dataKey={(entry) => typeof entry.subject === 'string' ? entry.subject : entry.subject.name} />
+                            <YAxis yAxisId="left" domain={[0, 100]} unit="%" />
+                            <YAxis yAxisId="right" orientation="right" />
+                            <Tooltip 
+                              formatter={(value, name) => {
+                                if (name === "accuracy") return [`${value}%`, "Accuracy"];
+                                if (name === "score") return [`${value}`, "Score"];
+                                if (name === "avgTimeSeconds") return [`${value}s`, "Avg Time"];
+                                return [value, name];
+                              }}
+                            />
+                            <Legend />
+                            <Bar yAxisId="left" dataKey="accuracy" name="Accuracy %" fill="#30D158" />
+                            <Bar yAxisId="left" dataKey="score" name="Score" fill="#0A84FF" />
+                            <Bar yAxisId="right" dataKey="avgTimeSeconds" name="Avg Time (s)" fill="#FF453A" />
+                          </BarChart>
+                        </ResponsiveContainer>
+                      </div>
+                    </CardContent>
+                  </Card>
+                </div>
               </TabsContent>
             </Tabs>
           </motion.div>
@@ -436,24 +566,31 @@ export default function OverallAnalyticsPage() {
               <p className="text-muted-foreground mb-4">
                 Analyze how your performance varies across multiple attempt numbers and identify areas for improvement.
               </p>
-              <AttemptTrackingCharts stats={overallStats} />
+              <Card>
+                <CardContent className="p-4">
+                  <h3 className="font-medium mb-4">Attempt Performance Distribution</h3>
+                  <div className="h-72 w-full">
+                    <ResponsiveContainer width="100%" height="100%">
+                      <BarChart
+                        data={[
+                          { name: '1st Attempt', value: overallStats.firstAttemptCorrect || 0 },
+                          { name: '2nd Attempt', value: overallStats.secondAttemptCorrect || 0 },
+                          { name: '3rd+ Attempt', value: overallStats.thirdPlusAttemptCorrect || 0 },
+                        ]}
+                        margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
+                      >
+                        <CartesianGrid strokeDasharray="3 3" />
+                        <XAxis dataKey="name" />
+                        <YAxis />
+                        <Tooltip formatter={(value) => [`${value} correct`, 'Count']} />
+                        <Legend />
+                        <Bar dataKey="value" fill="#0A84FF" name="Correct Answers" />
+                      </BarChart>
+                    </ResponsiveContainer>
+                  </div>
+                </CardContent>
+              </Card>
             </motion.div>
-          )}
-          
-          {/* Knowledge Calibration Card */}
-          {overallStats && (
-            <KnowledgeCalibrationCard 
-              overallStats={overallStats} 
-              subjectStats={filteredStats} 
-            />
-          )}
-          
-          {/* Recommendation Cards */}
-          {overallStats && (
-            <RecommendationCards 
-              overallStats={overallStats} 
-              subjectStats={filteredStats} 
-            />
           )}
           
           {/* Advanced Charts */}
@@ -475,13 +612,24 @@ export default function OverallAnalyticsPage() {
           
           {/* AI Insights */}
           {overallStats && (
-            <EnhancedAIInsights 
-              overallStats={overallStats} 
-              subjectStats={filteredStats} 
-            />
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: 0.4 }}
+              className="mb-8"
+            >
+              <h2 className="text-xl font-medium mb-4 flex items-center gap-2">
+                <Sparkles className="h-5 w-5 text-primary" />
+                AI-Powered Insights
+              </h2>
+              <AIAnalytics 
+                overallStats={overallStats} 
+                subjectStats={filteredStats} 
+              />
+            </motion.div>
           )}
           
-          {/* Infographic Generator */}
+          {/* Analytics Export */}
           {overallStats && (
             <motion.div
               initial={{ opacity: 0, y: 20 }}
@@ -489,10 +637,15 @@ export default function OverallAnalyticsPage() {
               transition={{ delay: 0.4 }}
               className="mt-8 mb-8"
             >
-              <InfographicGenerator
+              <h2 className="text-xl font-medium mb-4 flex items-center gap-2">
+                <BrainCircuit className="h-5 w-5 text-primary" />
+                Share Your Progress
+              </h2>
+              <AnalyticsExport
+                testTitle="Overall Performance"
+                testDate={new Date().toISOString()}
                 overallStats={overallStats}
                 subjectStats={filteredStats}
-                isOverall={true}
               />
             </motion.div>
           )}
