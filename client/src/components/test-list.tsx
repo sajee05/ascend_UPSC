@@ -479,7 +479,7 @@ export function TestList() {
                 <p className="text-sm text-muted-foreground">
                   Uploaded on {formatDate(test.uploadedAt)} • {test.questionCount} questions
                   {test.attempts > 0 && ` • ${test.attempts} attempt${test.attempts !== 1 ? 's' : ''}`}
-                  {test.bestScore !== null && ` • Best score: ${test.bestScore.toFixed(1)}`}
+                  {test.bestScore !== undefined && test.bestScore !== null && ` • Best score: ${test.bestScore.toFixed(1)}`}
                 </p>
               </div>
               <div className="flex space-x-2 mt-2 sm:mt-0">

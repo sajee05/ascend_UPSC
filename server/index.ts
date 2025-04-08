@@ -42,17 +42,12 @@ app.use((req, res, next) => {
 // Initialize database based on environment
 async function setupDatabase() {
   try {
-    // Check if we are in portable mode - default to SQLite
-    const isPortableMode = process.env.PORTABLE_MODE === "true";
-    const dbType = process.env.DB_TYPE || (isPortableMode ? "sqlite" : "postgresql");
+    // Force SQLite for the batch/PS1 file launcher
+    // This ensures the app works properly in portable mode
+    process.env.DB_TYPE = "sqlite";
+    process.env.PORTABLE_MODE = "true";
     
-    logger(`Database type detected: ${dbType}, portable mode: ${isPortableMode}`, "database");
-    
-    // If portable mode is enabled, force SQLite
-    if (isPortableMode) {
-      process.env.DB_TYPE = "sqlite";
-      logger("Portable mode detected, using SQLite database", "database");
-    }
+    logger(`Database type set to sqlite, portable mode: true`, "database");
     
     // Initialize database
     await initializeDatabase();

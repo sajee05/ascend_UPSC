@@ -1901,10 +1901,13 @@ import { SqliteAdapter } from './sqlite-adapter';
 import { logger } from './logger';
 
 // Decide which storage implementation to use based on environment
+// The real storage instance will be provided by database-switcher.ts
 let storage: IStorage;
 
-// Check if running in Electron (ELECTRON_RUN is set in server-starter.js)
-if (process.env.ELECTRON_RUN === '1') {
+if (process.env.DB_TYPE === 'sqlite') {
+  console.log('Using SQLite storage for portable mode');
+  storage = new SqliteAdapter();
+} else if (process.env.ELECTRON_RUN === '1') {
   console.log('Using SQLite storage for desktop mode');
   storage = new SqliteAdapter();
 } else {

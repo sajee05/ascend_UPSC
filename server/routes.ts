@@ -1,8 +1,35 @@
 import type { Express, Request, Response } from "express";
 import { createServer, type Server } from "http";
-import { storage } from "./storage";
-import { switchDatabase, getStorage } from "./database-switcher";
+import { getStorage } from "./database-switcher";
 import { z } from "zod";
+
+// Define a storage constant that always uses getStorage()
+const storage = {
+  getAllTests: async () => (await getStorage()).getAllTests(),
+  createTest: async (data: any) => (await getStorage()).createTest(data),
+  getTest: async (id: number) => (await getStorage()).getTest(id),
+  deleteTest: async (id: number) => (await getStorage()).deleteTest(id),
+  addQuestionsToTest: async (data: any) => (await getStorage()).addQuestionsToTest(data),
+  getQuestion: async (id: number) => (await getStorage()).getQuestion(id),
+  getQuestionsByTest: async (id: number) => (await getStorage()).getQuestionsByTest(id),
+  getAllQuestions: async () => (await getStorage()).getAllQuestions(),
+  addTagsToQuestion: async (data: any) => (await getStorage()).addTagsToQuestion(data),
+  deleteTag: async (id: number) => (await getStorage()).deleteTag(id),
+  getAllTags: async () => (await getStorage()).getAllTags(),
+  createAttempt: async (data: any) => (await getStorage()).createAttempt(data),
+  getAttempt: async (id: number) => (await getStorage()).getAttempt(id),
+  getAttemptsByTest: async (id: number) => (await getStorage()).getAttemptsByTest(id),
+  updateAttempt: async (id: number, data: any) => (await getStorage()).updateAttempt(id, data),
+  createUserAnswer: async (data: any) => (await getStorage()).createUserAnswer(data),
+  getUserAnswersByAttempt: async (id: number) => (await getStorage()).getUserAnswersByAttempt(id),
+  updateUserAnswer: async (id: number, data: any) => (await getStorage()).updateUserAnswer(id, data),
+  createFlashcard: async (data: any) => (await getStorage()).createFlashcard(data),
+  getAllFlashcards: async () => (await getStorage()).getAllFlashcards(),
+  updateFlashcard: async (id: number, data: any) => (await getStorage()).updateFlashcard(id, data),
+  getTestAnalytics: async (id: number) => (await getStorage()).getTestAnalytics(id),
+  getOverallAnalytics: async () => (await getStorage()).getOverallAnalytics(),
+  getAnkiData: async (id: number) => (await getStorage()).getAnkiData(id),
+};
 import { 
   insertAttemptSchema,
   insertFlashcardSchema,
