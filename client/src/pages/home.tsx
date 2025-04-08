@@ -2,79 +2,14 @@ import { useState } from "react";
 import { FileUploader } from "@/components/file-uploader";
 import { TestList } from "@/components/test-list";
 import { FormatInfo } from "@/components/format-info";
-import { Logo } from "@/components/ui/logo";
 import { Button } from "@/components/ui/button";
-import { Cog, Moon, Sun, BookOpen, LineChart } from "lucide-react";
+import { BookOpen } from "lucide-react";
 import { motion } from "framer-motion";
-import { useSettings } from "@/hooks/use-settings";
-import { useUIState } from "@/hooks/use-ui-state";
 import { Link } from "wouter";
 
 export default function Home() {
-  const { settings, updateSettings } = useSettings();
-  const { updateUIState } = useUIState();
-  
-  // Toggle dark mode
-  const toggleDarkMode = () => {
-    const newTheme = document.documentElement.classList.contains("dark") ? "light" : "dark";
-    updateSettings({ theme: newTheme as "light" | "dark" });
-  };
-
-  // Open settings panel
-  const openSettings = () => {
-    updateUIState({ settingsPanelOpen: true });
-  };
-
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Header */}
-      <header className="bg-card border-b sticky top-0 z-30 backdrop-blur bg-opacity-90 dark:bg-opacity-90">
-        <div className="container mx-auto px-4 sm:px-6 py-3 flex justify-between items-center">
-          {/* Logo and Title */}
-          <Logo />
-          
-          {/* Navigation and Controls */}
-          <div className="flex items-center space-x-3">
-            {/* Navigation Links */}
-            <Link href="/questions">
-              <Button variant="ghost" className="flex items-center gap-1">
-                <BookOpen className="h-4 w-4" />
-                <span className="hidden sm:inline">Questions</span>
-              </Button>
-            </Link>
-            
-            <Link href="/overall-analytics">
-              <Button variant="ghost" className="flex items-center gap-1">
-                <LineChart className="h-4 w-4" />
-                <span className="hidden sm:inline">Analytics</span>
-              </Button>
-            </Link>
-            
-            {/* Dark Mode Toggle */}
-            <Button 
-              variant="ghost" 
-              size="icon"
-              onClick={toggleDarkMode}
-            >
-              {settings.theme === "dark" ? (
-                <Sun className="h-5 w-5 text-amber-500" />
-              ) : (
-                <Moon className="h-5 w-5 text-muted-foreground" />
-              )}
-            </Button>
-            
-            {/* Settings Button */}
-            <Button 
-              variant="ghost" 
-              size="icon"
-              onClick={openSettings}
-            >
-              <Cog className="h-5 w-5 text-muted-foreground" />
-            </Button>
-          </div>
-        </div>
-      </header>
-      
       {/* Main Content Area */}
       <main className="flex-grow container mx-auto px-4 sm:px-6 py-6">
         <motion.div

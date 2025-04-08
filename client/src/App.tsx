@@ -14,8 +14,8 @@ import Flashcards from "@/pages/flashcards";
 import QuestionView from "@/pages/question-view";
 import NotFound from "@/pages/not-found";
 import SettingsPanel from "./components/settings-panel";
-import { AnalyticsButton } from "./components/ui/analytics-button";
 import { QuestionBrowser } from "./components/question-browser";
+import { Header } from "./components/layout/header";
 
 function Router() {
   return (
@@ -38,23 +38,21 @@ function Router() {
 }
 
 function App() {
-  // Get current location to determine if we should show analytics button
+  // Get current location to determine if we should hide header on certain pages
   const [location] = useLocation();
   
-  // Hide analytics button on these pages
-  const hideAnalyticsButton = 
-    location === "/overall-analytics" || 
-    location.startsWith("/quiz/");
+  // Hide header on quiz pages
+  const hideHeader = location.startsWith("/quiz/");
 
   return (
     <QueryClientProvider client={queryClient}>
       <SettingsProvider>
         <UIStateProvider>
           <div className="min-h-screen bg-background text-foreground transition-colors duration-300">
+            {!hideHeader && <Header />}
             <Router />
             <Toaster />
             <SettingsPanel />
-            {!hideAnalyticsButton && <AnalyticsButton />}
           </div>
         </UIStateProvider>
       </SettingsProvider>
