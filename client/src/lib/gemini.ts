@@ -1,3 +1,7 @@
+
+export const DEFAULT_PARSING_PROMPT_TITLE = "Analyze and format the provided UPSC question text into a structured format following the specified rules.";
+
+
 import { QuestionWithTags, SubjectStats, UserAnswer } from "@shared/schema";
 
 // Default prompts
