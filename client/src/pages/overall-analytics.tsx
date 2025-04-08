@@ -685,8 +685,8 @@ export default function OverallAnalyticsPage() {
                             <TableCell className="font-medium">{subjectName}</TableCell>
                             <TableCell>{stat.attempts}</TableCell>
                             <TableCell>{formatPercentage(stat.accuracy)}</TableCell>
-                            <TableCell>{stat.score.toFixed(1)}</TableCell>
-                            <TableCell>{Math.round(stat.avgTimeSeconds)}s</TableCell>
+                            <TableCell>{stat.score ? stat.score.toFixed(1) : '0.0'}</TableCell>
+                            <TableCell>{stat.avgTimeSeconds ? Math.round(stat.avgTimeSeconds) : 0}s</TableCell>
                             <TableCell>
                               {getConfidenceEmoji('high')}{Math.round((stat.confidenceHigh / stat.attempts) * 100)}%{' '}
                               {getConfidenceEmoji('mid')}{Math.round((stat.confidenceMid / stat.attempts) * 100)}%{' '}
@@ -709,8 +709,8 @@ export default function OverallAnalyticsPage() {
                           <TableCell>{typeof overallStats.subject === 'string' ? overallStats.subject : overallStats.subject.name}</TableCell>
                           <TableCell>{overallStats.attempts}</TableCell>
                           <TableCell>{formatPercentage(overallStats.accuracy)}</TableCell>
-                          <TableCell>{overallStats.score.toFixed(1)}</TableCell>
-                          <TableCell>{Math.round(overallStats.avgTimeSeconds)}s</TableCell>
+                          <TableCell>{overallStats.score ? overallStats.score.toFixed(1) : '0.0'}</TableCell>
+                          <TableCell>{overallStats.avgTimeSeconds ? Math.round(overallStats.avgTimeSeconds) : 0}s</TableCell>
                           <TableCell>
                             {getConfidenceEmoji('high')}{Math.round((overallStats.confidenceHigh / overallStats.attempts) * 100)}%{' '}
                             {getConfidenceEmoji('mid')}{Math.round((overallStats.confidenceMid / overallStats.attempts) * 100)}%{' '}
