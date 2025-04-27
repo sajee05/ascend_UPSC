@@ -1,0 +1,168 @@
+#QuestionStart
+Q17) The concept of carbon credit originated from- [U.P.P.C.S. (Pre) 2021]
+a) Earth Summit, Rio-de-Janeiro
+b) Kyoto protocol
+c) Montreal protocol
+d) G-8 Summit, Heiligendam
+#QuestionEnd
+#AnswerStart
+Answer: b) Kyoto protocol
+#AnswerEnd
+
+#QuestionStart
+Q18) Which of the following is not correctly matched? [U.P.P.C.S. (Pre) 2019]
+a) Cartagena Protocol - Biosafety
+b) Stockholm Convention - Persistent organic pollutant
+c) Montreal Protocol - Ozone Layer
+d) Kyoto Protocol - Save water
+#QuestionEnd
+#AnswerStart
+Answer: d) Kyoto Protocol - Save water
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to Deep Carbon Observatory (DCO), which of the following statements is/are correct? [U.P.P.C.S. (Pre) 2019]
+1. It is a Global Research Programme to outreach the role of Carbon on Earth.
+2. It conducts field observations of deep microbial ecosystems.
+Select the correct answer using codes given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q20) When and where was the National Environment Engineering Research Institute (NEERI) established? [U.P.P.C.S. (Mains) 2017]
+a) 1970, Dhanbad
+b) 1958, Nagpur
+c) 1956, New Delhi
+d) 1960, Chennai
+#QuestionEnd
+#AnswerStart
+Answer: b) 1958, Nagpur
+#AnswerEnd
+
+#QuestionStart
+Q21) In which of the following institutes, the Environmental Information System (ENVIS)’s ‘Centre on Population and Environment’ is located? [U.P.P.C.S. (Mains) 2017]
+a) LET. Kharagpur
+b) LET. New Delhi
+c) I.I.P.S. Mumbai
+d) N.I.R.S. Dehradun
+#QuestionEnd
+#AnswerStart
+Answer: c) I.I.P.S. Mumbai
+#AnswerEnd
+
+#QuestionStart
+Q22) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Institute) | List-II (City) |
+|---|---|
+| A. Forest Research Institute | 1. Jodhpur |
+| B. Indian Grassland and Fodder Research Institute | 2. New Delhi |
+| C. Central Arid Zone Research Institute | 3. Dehradun |
+| D. Indian Agricultural Research Institute | 4. Jhansi |
+Code: [UPPCS (Pre) 2017]
+a) A2, B4, C1, D3
+b) A3, B4, C1, D2
+c) A1, B3, C2, D4
+d) A4, B2, C3, D1
+#QuestionEnd
+#AnswerStart
+Answer: b) A3, B4, C1, D2
+#AnswerEnd
+
+#QuestionStart
+Q23) Which one of the following is not included in Eight Missions under India’s National Action Plan on Climate Change? [U.P.P.C.S. (Mains) 2016]
+a) Solar Power
+b) Afforestation
+c) Nuclear power
+d) Waste to energy conversion
+#QuestionEnd
+#AnswerStart
+Answer: c) Nuclear power
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following is not correctly matched [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) First World Climate Conference - 1979
+b) First Earth Summit - Agenda-21
+c) Earth Summit Plus 5 - 1997
+d) Carbon Trading - Montreal Protocol
+#QuestionEnd
+#AnswerStart
+Answer: d) Carbon Trading - Montreal Protocol
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following statements is incorrect for ‘Green Climate Fund’ (GCF)? [U.P.P.C.S. (Mains) 2013]
+a) It was established at the Durban Conference on Climate change.
+b) It would support programs and policies in developing nations.
+c) The developed nations would provide the fund.
+d) The fund will start operating from 2014.
+#QuestionEnd
+#AnswerStart
+Answer: a) It was established at the Durban Conference on Climate change.
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following is the correct definition of‘Agenda 21’? [U.P.P.C.S. (Pre) 2013]
+a) It is an action plan of the U.N.O. for protecting human rights.
+b) It is a book of 21st chapters on nuclear disarmament.
+c) It is an action plan for the conservation of the global environment in the 21st century.
+d) It is an agenda for the election of the President in the next meeting of SAARC.
+#QuestionEnd
+#AnswerStart
+Answer: c) It is an action plan for the conservation of the global environment in the 21st century.
+#AnswerEnd
+
+#QuestionStart
+Q27) Which of the following is related to Protection of Ecological Balance? [U.P.P.C.S. (Spl) (Mains) 2004]
+1. Forest Policy
+2. Environment (Protection) Act
+3. Industrial Policy
+4. Educational Policy
+Select the correct answer using the codes given below:
+a) 1 & 2
+b) 2&3
+c) 1, 2 & 3
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q28) International Conference held in Rio-De Janeiro was: [M.P.P.C.S. (Pre) 1992]
+a) United Nations Conference on Sustainable Development
+b) Environment and Pollution Summit
+c) International new Economics
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) United Nations Conference on Sustainable Development
+#AnswerEnd
+
+#QuestionStart
+Q29) The total amount of green-house gases produced, to directly and indirectly support human activities, is referred to as? [R.A.S./R.T.S. (Pre) 2018]
+a) Carbon dioxide index
+b) Carbon footprint
+c) Carbon sequestration
+d) Carbon capture
+#QuestionEnd
+#AnswerStart
+Answer: b) Carbon footprint
+#AnswerEnd
+
+#QuestionStart
+Q30) Which one of the following is the main objective of Vienna Convention and Montreal Protocol? [CAPE 2019]
+a) Combat desertification
+b) Formulate sustainable developmental goals
+c) Protection of ozone layer
+d) Combat climate change
+#QuestionEnd
+#AnswerStart
+Answer: c) Protection of ozone layer
+#AnswerEnd

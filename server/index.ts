@@ -42,10 +42,10 @@ app.use((req, res, next) => {
 // Initialize database based on environment
 async function setupDatabase() {
   try {
-    // Force SQLite for the batch/PS1 file launcher
-    // This ensures the app works properly in portable mode
-    process.env.DB_TYPE = "sqlite";
-    process.env.PORTABLE_MODE = "true";
+    // // Force SQLite for the batch/PS1 file launcher
+    // // This ensures the app works properly in portable mode
+    // process.env.DB_TYPE = "sqlite";
+    // process.env.PORTABLE_MODE = "true";
     
     logger(`Database type set to sqlite, portable mode: true`, "database");
     
@@ -84,11 +84,10 @@ async function setupDatabase() {
   // ALWAYS serve the app on port 5000
   // this serves both the API and the client.
   // It is the only port that is not firewalled.
-  const port = 5000;
+  const port = process.env.PORT || 3000;
   server.listen({
     port,
     host: "0.0.0.0",
-    reusePort: true,
   }, () => {
     log(`serving on port ${port}`);
   });

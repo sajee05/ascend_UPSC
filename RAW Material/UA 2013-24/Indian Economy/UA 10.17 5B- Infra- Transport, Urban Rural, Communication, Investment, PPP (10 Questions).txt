@@ -1,0 +1,143 @@
+#QuestionStart
+Q1) With reference to physical capital in Indian economy, consider the following pairs: (2024)
+| Items: | Category |
+|---|---|
+| 1. Farmer's plough: | Working capital |
+| 2. Computer: | Fixed capital |
+| 3. Yarn used by the weaver: | Fixed capital |
+| 4. Petrol: | Working capital |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following airports: (2024)
+1. Donyi Polo Airport
+2. Kushinagar International Airport
+3. Vijayawada International Airport
+In the recent past, which of the above have been constructed as Greenfield projects?
+a) 1 and 2 only.
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only.
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements : (2023)
+Statement-I : Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors are exempted from tax, but the dividend is taxable.
+Statement-II : InvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement- II is correct
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following infrastructure sectors : (2023)
+1. Affordable housing
+2. Mass rapid transport
+3. Health care
+4. Renewable energy
+How many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus on its investments?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following statements best describes the 'Polar Code'? (UPSC-2022)
+a) It is the international code of safety for ships operating in polar waters.
+b) It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.
+c) It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.
+d) It is a trade and security agreement of the member countries of the Arctic Council.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is the international code of safety for ships operating in polar waters.
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: (UPSC- 2022)
+1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization.
+2. The National Institute of Urban Affairs is an apex body of the Minister of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the funds under Members of Parliament Local Area Development Scheme(MPLADS), which of the following statements are correct? [2020]
+1. MPLADS funds must be used to create durable assets like physical infrastructure for health, education etc.,
+2. A specified portion of each MP’s fund must benefit SC/ST populations
+3. MPLADS funds are sanctioned on yearly basis and the unused funds cannot be carried forward to the next year.
+4. The district authority must inspect at least 10% of all works under implementation every year
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 2 and 3 only
+d) 1, 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Which of the following is/are the aim/aims of “Digital India” Plan of the Government of India? (Pre18 Set-D)
+1. Formation of India’s own Internet companies like China did.
+2. Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their large data centres within our national geographical boundaries.
+3. Connect many of our villages to the Internet and bring Wi-Fi to many of our school, public places and major tourist centres.
+Select the correct answer using the code given below
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to 'National Investment and Infrastructure Fund', which of the following statements is/are correct? [2017]
+1. It is an organ of NITI Aayog.
+2. It has a corpus of ` 4, 00,000 crore at present.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q10) The Global Infrastructure Facility is a/an: [2017]
+a) ASEAN initiative to upgrade infrastructure in Asia and financed by credit from the Asian Development Bank.
+b) World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public- Private Partnerships (PPPs) to enable mobilization of private sector and institutional investor capital.
+c) Collaboration among the major banks of the world working with the OECD and focused on expanding the set of infrastructure projects that have the potential to mobilize private vestment.
+d) UNCTAD funded an initiative that seeks to finance and facilitate infrastructure development in the world.
+#QuestionEnd
+#AnswerStart
+Answer: b) World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public- Private Partnerships (PPPs) to enable mobilization of private sector and institutional investor capital.
+#AnswerEnd

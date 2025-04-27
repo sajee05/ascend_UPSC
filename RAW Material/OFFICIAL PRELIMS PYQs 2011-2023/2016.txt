@@ -1,0 +1,1210 @@
+#QuestionStart
+Q1) With reference to the Parliament of India, consider the following statements :
+(i) A private member’s bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.
+(ii) Recently, a private member’s bill has been passed in the Parliament of India for the first time in its history.
+Which of the statements given above is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct ?
+(i) Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.
+(ii) Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.
+(iii) Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q3) ‘Recognition of Prior Learning Scheme’ is sometimes mentioned in the news with reference to - 2016
+a) Certifying the skills acquired by construction workers through traditional channels.
+b) Enrolling the persons in Universities for distance learning programmes.
+c) Reserving some skilled jobs to rural and urban poor in some public sector undertakings.
+d) Certifying the skills acquired by trainees under the National Skill Development Programme.
+#QuestionEnd
+#AnswerStart
+Answer: d) Certifying the skills acquired by trainees under the National Skill Development Programme.
+#AnswerEnd
+#QuestionStart
+Q4) From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats ? - 2016
+a) Sathyamangalam Tiger Reserve
+b) Nallamala Forest
+c) Nagarhole National Park
+d) Seshachalam Biosphere Reserve
+#QuestionEnd
+#AnswerStart
+Answer: a) Sathyamangalam Tiger Reserve
+#AnswerEnd
+#QuestionStart
+Q5) One of the implications of equality in society is the absence of - 2016
+a) Privileges
+b) Restraints
+c) Competition
+d) Ideology
+#QuestionEnd
+#AnswerStart
+Answer: a) Privileges
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements in respect of Trade Related Analysis of Fauna and Flora in Commerce (TRAFFIC) :
+(i) TRAFFIC is a bureau under United Nations Environment Programme (UNEP).
+(ii) The mission of TRAFFIC is to ensure that trade in wild plants and animals is not a threat to the conservation of nature.
+Which of the above statements is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q7) Which principle among the following was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution ? - 2016
+a) Equal pay for equal work for both men and women
+b) Participation of workers in the management of industries
+c) Right to work, education and public assistance
+d) Securing living wage and human conditions of work to workers
+#QuestionEnd
+#AnswerStart
+Answer: b) Participation of workers in the management of industries
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following statements is correct ? - 2016
+a) Rights are claims of the State against the citizens.
+b) Rights are privileges which are incorporated in the Constitution of a State.
+c) Rights are claims of the citizens against the State.
+d) Rights are privileges of a few citizens against the many.
+#QuestionEnd
+#AnswerStart
+Answer: c) Rights are claims of the citizens against the State.
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following gives ‘Global Gender Gap Index’ ranking to the countries of the world ? - 2016
+a) World Economic Forum
+b) UN Human Rights Council
+c) UN Women
+d) World Health Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) World Economic Forum
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following statements is/are correct regarding Smart India Hackathon 2017 ?
+(i) It is a centrally sponsored scheme for developing every city of our country into Smart Cities in a decade.
+(ii) It is an initiative to identify new digital technology innovations for solving the many problems faced by our country.
+(iii) It is a programme aimed at making all the financial transactions in our country completely digital in a decade.
+Select the correct answer using the code given below : - 2016
+a) 1 and 3 only
+b) 2 only
+c) 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q11) Which of the following statements is/are correct regarding the Monetary Policy Committee (MPC) ?
+(i) It decides the RBI’s benchmark interest rates.
+(ii) It is a 12-member body including the Governor of RBI and is reconstituted every year.
+(iii) It functions under the chairmanship of the Union Finance Minister.
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q12) With reference to Manipuri Sankirtana, consider the following statements :
+(i) It is a song and dance performance.
+(ii) Cymbals are the only musical instruments used in the performance.
+(iii) It is performed to narrate the life and deeds of Lord Krishna.
+Which of the statements given above is/are correct ? - 2016
+a) 1, 2 and 3
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q13) Who among the following was/were associated with the introduction of Ryotwari Settlement in India during the British rule ?
+(i) Lord Cornwallis
+(ii) Alexander Read
+(iii) Thomas Munro
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q14) In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique ?
+(i) It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.
+(ii) Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.
+(iii) Genetic engineering can be used to create microorganisms specifically designed for bioremediation.
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q15) The Trade Disputes Act of 1929 provided for - 2016
+a) the participation of workers in the management of industries.
+b) arbitrary powers to the management to quell industrial disputes.
+c) an intervention by the British Court in the event of a trade dispute.
+d) a system of tribunals and a ban on strikes.
+#QuestionEnd
+#AnswerStart
+Answer: d) a system of tribunals and a ban on strikes.
+#AnswerEnd
+#QuestionStart
+Q16) Local self-government can be best explained as an exercise in - 2016
+a) Federalism
+b) Democratic decentralisation
+c) Administrative delegation
+d) Direct democracy
+#QuestionEnd
+#AnswerStart
+Answer: b) Democratic decentralisation
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements :
+With reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon
+(i) legislative function.
+(ii) executive function.
+Which of the above statements is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q18) The term ‘Digital Single Market Strategy’ seen in the news refers to - 2016
+a) ASEAN
+b) BRICS
+c) EU
+d) G20
+#QuestionEnd
+#AnswerStart
+Answer: c) EU
+#AnswerEnd
+#QuestionStart
+Q19) At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shore line a few kilometres and comes back to the shore, twice a day, and you can actually walk on the sea floor when the water recedes. This unique phenomenon is seen at - 2016
+a) Bhavnagar
+b) Bheemunipatnam
+c) Chandipur
+d) Nagapattinam
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandipur
+#AnswerEnd
+#QuestionStart
+Q20) With reference to the ‘Prohibition of Benami Property Transactions Act, 1988 (PBPT Act)’, consider the following statements :
+(i) A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction.
+(ii) Properties held benami are liable for confiscation by the Government.
+(iii) The Act provides for three authorities for investigations but does not provide for any appellate mechanism.
+Which of the statements given above is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q21) Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences ?
+(i) Pollination of some plants could be adversely affected.
+(ii) There could be a drastic increase in the fungal infections of some cultivated plants.
+(iii) It could lead to a fall in the population of some species of wasps, spiders and birds.
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q22) It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry ?
+(i) Production of algae based biofuels is possible in seas only and not on continents.
+(ii) Setting up and engineering the algae based biofuel production requires high level of expertise/technology until the construction is completed.
+(iii) Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.
+Select the correct answer using the code given below : - 2016
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q23) Which of the following are the objectives of ‘National Nutrition Mission’ ?
+(i) To create awareness relating to malnutrition among pregnant women and lactating mothers.
+(ii) To reduce the incidence of anaemia among young children, adolescent girls and women.
+(iii) To promote the consumption of millets, coarse cereals and unpolished rice.
+(iv) To promote the consumption of poultry eggs.
+Select the correct answer using the code given below : - 2016
+a) 1 and 2 only
+b) 1, 2 and 3 only
+c) 1, 2 and 4 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q24) Consider the following statements :
+(i) The Factories Act, 1881 was passed with a view to fix the wages of industrial workers and to allow the workers to form trade unions.
+(ii) N.M. Lokhande was a pioneer in organizing the labour movement in British India.
+Which of the above statements is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q25) In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration ?
+(i) Abandoned and uneconomic coal seams
+(ii) Depleted oil and gas reservoirs
+(iii) Subterranean deep saline formations
+Select the correct answer using the code given below : - 2016
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q26) In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers ? - 2016
+a) Central Statistics Office
+b) Department for Promotion of Industry and Internal Trade
+c) Labour Bureau
+d) National Technical Manpower Information System
+#QuestionEnd
+#AnswerStart
+Answer: c) Labour Bureau
+#AnswerEnd
+#QuestionStart
+Q27) In India, what is the role of the Coal Controller's Organization (CCO) ?
+(i) CCO is the major source of Coal Statistics in Government of India.
+(ii) It monitors progress of development of Captive Coal/Lignite blocks.
+(iii) It hears any objection to the Government's notification relating to acquisition of coal-bearing areas.
+(iv) It ensures that coal mining companies deliver the coal to end users in the prescribed time.
+Select the correct answer using the code given below : - 2016
+a) 1, 2 and 3
+b) 3 and 4 only
+c) 1 and 2 only
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q28) If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it ? - 2016
+a) This would prevent the transfer of land of tribal people to non-tribal people.
+b) This would create a local self-governing body in that area.
+c) This would convert that area into a Union Territory.
+d) The State having such areas would be declared a Special Category State.
+#QuestionEnd
+#AnswerStart
+Answer: a) This would prevent the transfer of land of tribal people to non-tribal people.
+#AnswerEnd
+#QuestionStart
+Q29) Consider the following statements :
+(i) The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization.
+(ii) The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.
+Which of the statements given above is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q30) Which one of the following has been constituted under the Environment (Protection) Act, 1986 ? - 2016
+a) Central Water Commission
+b) Central Ground Water Board
+c) Central Ground Water Authority
+d) National Water Development Agency
+#QuestionEnd
+#AnswerStart
+Answer: c) Central Ground Water Authority
+#AnswerEnd
+#QuestionStart
+Q31) With reference to the “United Nations Credentials Committee”, consider the following statements :
+(i) It is a committee set up by the UN Security Council and works under its supervision.
+(ii) It traditionally meets in March, June and September every year.
+(iii) It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.
+Which of the statements given above is/are correct ? - 2016
+a) 3 only
+b) 1 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 3 only
+#AnswerEnd
+#QuestionStart
+Q32) Which of the following statements is/are true of the Fundamental Duties of an Indian citizen ?
+(i) A legislative process has been provided to enforce these duties.
+(ii) They are correlative to legal duties.
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q33) Consider the following pairs :
+(i) Radhakanta Deb — First President of the British Indian Association
+(ii) Gazulu Lakshminarasu Chetty — Founder of the Madras Mahajana Sabha
+(iii) Surendranath Banerjee — Founder of the Indian Association
+Which of the above pairs is/are correctly matched ? - 2016
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q34) According to the Wildlife (Protection) Act, 1972, which of the following animals cannot be hunted by any person except under some provisions provided by law ?
+(i) Gharial
+(ii) Indian wild ass
+(iii) Wild buffalo
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q35) Consider the following statements :
+(i) The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes.
+(ii) AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO).
+Which of the statements given above is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q36) What is/are the advantage/advantages of implementing the ‘National Agriculture Market’ scheme ?
+(i) It is a pan-India electronic trading portal for agricultural commodities.
+(ii) It provides the farmers access to nationwide market, with prices commensurate with the quality of their produce.
+Select the correct answer using the code given below : - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q37) With reference to the ‘National Intellectual Property Rights Policy’, consider the following statements :
+(i) It reiterates India’s commitment to the Doha Development Agenda and the TRIPS Agreement.
+(ii) Department of Industrial Policy and Promotion is the nodal agency for regulating intellectual property rights in India.
+Which of the above statements is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q38) Consider the following statements :
+(i) The minimum age prescribed for any person to be a member of Panchayat is 25 years.
+(ii) A Panchayat reconstituted after premature dissolution continues only for the remainder period.
+Which of the statements given above is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q39) Which of the following statements is/are correct ?
+Proper design and effective implementation of UN-REDD+ Programme can significantly contribute to
+(i) protection of biodiversity
+(ii) resilience of forest ecosystems
+(iii) poverty reduction
+Select the correct answer using the code given below. - 2016
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q40) What is ‘Greenhouse Gas Protocol’ ? - 2016
+a) It is an international accounting tool for government and business leaders to understand, quantify and manage greenhouse gas emissions
+b) It is an initiative of the United Nations to offer financial incentives to developing countries to reduce greenhouse gas emissions and to adopt eco-friendly technologies
+c) It is an inter-governmental agreement ratified by all the member countries of the United Nations to reduce greenhouse gas emissions to specified levels by the year 2022
+d) It is one of the multilateral REDD+ initiatives hosted by the World Bank
+#QuestionEnd
+#AnswerStart
+Answer: a) It is an international accounting tool for government and business leaders to understand, quantify and manage greenhouse gas emissions
+#AnswerEnd
+#QuestionStart
+Q41) With reference to ‘Financial Stability and Development Council’, consider the following statements :
+(i) It is an organ of NITI Aayog.
+(ii) It is headed by the Union Finance Minister.
+(iii) It monitors macroprudential supervision of the economy.
+Which of the statements given above is/are correct ? - 2016
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q42) Consider the following statements :
+(i) The Chief Secretary in a State is appointed by the Governor of that State.
+(ii) The Chief Secretary in a State has a fixed tenure.
+Which of the statements given above is/are correct ? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q43) The term ‘Goldilocks Zone’ is often seen in the news in the context of - 2016
+a) the limits of habitable zone above the surface of the Earth
+b) regions inside the Earth where shale gas is available
+c) search for the Earth-like planets in outer space
+d) search for meteorites containing precious metals
+#QuestionEnd
+#AnswerStart
+Answer: c) search for the Earth-like planets in outer space
+#AnswerEnd
+#QuestionStart
+Q44) Who of the following organized a march on the Tanjore coast to break the Salt Law in April 1930? - 2016
+a) V. O. Chidambaram Pillai
+b) C. Rajagopalachari
+c) K. Kamaraj
+d) Annie Besant
+#QuestionEnd
+#AnswerStart
+Answer: b) C. Rajagopalachari
+#AnswerEnd
+#QuestionStart
+Q45) Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong? - 2016
+a) Amoghavarsha I
+b) Ballala II
+c) Harihara I
+d) Prataparudra II
+#QuestionEnd
+#AnswerStart
+Answer: c) Harihara I
+#AnswerEnd
+#QuestionStart
+Q46) Consider the following statements :
+(i) The first woman President of the Indian National Congress was Sarojini Naidu.
+(ii) The first Muslim President of the Indian National Congress was Badruddin Tyabji.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q47) Which of the following statements regarding ‘Green Climate Fund’ is/are correct?
+(i) It is intended to assist the developing countries in adaptation and mitigation practices to counter climate change.
+(ii) It is founded under the aegis of UNEP, OECD, Asian Development Bank and World Bank.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q48) Indira Gandhi Prize for Peace, Disarmament and Development for 2014 was given to which one of the following? - 2016
+a) Bhabha Atomic Research Centre
+b) Indian Institute of Science
+c) Indian Space Research Organization
+d) Tata Institute of Fundamental Research
+#QuestionEnd
+#AnswerStart
+Answer: c) Indian Space Research Organization
+#AnswerEnd
+#QuestionStart
+Q49) With reference to the Cabinet Mission, which of the following statements is/are correct?
+(i) It recommended a federal government.
+(ii) It enlarged the powers of the Indian courts.
+(iii) It provided for more Indians in the ICS.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q50) Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic? - 2016
+a) Khangchendzonga National Park
+b) Nandadevi National Park
+c) Neora Valley National Park
+d) Namdapha National Park
+#QuestionEnd
+#AnswerStart
+Answer: d) Namdapha National Park
+#AnswerEnd
+#QuestionStart
+Q51) Amnesty International is - 2016
+a) an agency of the United Nations to help refugees of civil wars
+b) a global Human Rights Movement
+c) a non-governmental voluntary organization to help very poor people
+d) an inter-governmental agency to cater to medical emergencies in war-ravaged regions
+#QuestionEnd
+#AnswerStart
+Answer: b) a global Human Rights Movement
+#AnswerEnd
+#QuestionStart
+Q52) With reference to the art and archaeological history of India, which one among the following was made earliest? - 2016
+a) Lingaraja Temple at Bhubaneswar
+b) Rock-cut Elephant at Dhauli
+c) Rock-cut Monuments at Mahabalipuram
+d) Varaha Image at Udayagiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Rock-cut Elephant at Dhauli
+#AnswerEnd
+#QuestionStart
+Q53) With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?
+(i) A very strong centralized political authority and a very weak provincial or local political authority
+(ii) Emergence of administrative structure based on control and possession of land
+(iii) Creation of lord-vassal relationship between the feudal lord and his overlord
+Select the correct answer using the code given below. - 2016
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q54) ‘BioCarbon Fund Initiative for Sustainable Forest Landscapes’ is managed by the - 2016
+a) Asian Development Bank
+b) International Monetary Fund
+c) United Nations Environment Programme
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: d) World Bank
+#AnswerEnd
+#QuestionStart
+Q55) India is a member of which among the following?
+(i) Asia-Pacific Economic Cooperation
+(ii) Association of South-East Asian Nations
+(iii) East Asia Summit
+Select the correct answer using the code given below. - 2016
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) India is a member of none of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q56) In India, the steel production industry requires the import of - 2016
+a) saltpetre
+b) rock phosphate
+c) coking coal
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) coking coal
+#AnswerEnd
+#QuestionStart
+Q57) The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to - 2016
+a) protect the interests of Scheduled Tribes
+b) determine the boundaries between States
+c) determine the powers, authority and responsibilities of Panchayats
+d) protect the interests of all the border States
+#QuestionEnd
+#AnswerStart
+Answer: a) protect the interests of Scheduled Tribes
+#AnswerEnd
+#QuestionStart
+Q58) With reference to the Union Government, consider the following statements :
+(i) The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.
+(ii) No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.
+(iii) All the disbursements made from Public Account also need the authorization from the Parliament of India.
+Which of the statements given above is/are correct? - 2016
+a) 1 and 2 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+#QuestionStart
+Q59) Who/Which of the following is the custodian of the Constitution of India? - 2016
+a) The President of India
+b) The Prime Minister of India
+c) The Lok Sabha Secretariat
+d) The Supreme Court of India
+#QuestionEnd
+#AnswerStart
+Answer: d) The Supreme Court of India
+#AnswerEnd
+#QuestionStart
+Q60) Consider the following statements :
+(i) The Chief Secretary in a State is appointed by the Governor of that State.
+(ii) The Chief Secretary in a State has a fixed tenure.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q61) The term ‘Goldilocks Zone’ is often seen in the news in the context of - 2016
+a) the limits of habitable zone above the surface of the Earth
+b) regions inside the Earth where shale gas is available
+c) search for the Earth-like planets in outer space
+d) search for meteorites containing precious metals
+#QuestionEnd
+#AnswerStart
+Answer: c) search for the Earth-like planets in outer space
+#AnswerEnd
+#QuestionStart
+Q62) Who of the following organized a march on the Tanjore coast to break the Salt Law in April 1930? - 2016
+a) V. O. Chidambaram Pillai
+b) C. Rajagopalachari
+c) K. Kamaraj
+d) Annie Besant
+#QuestionEnd
+#AnswerStart
+Answer: b) C. Rajagopalachari
+#AnswerEnd
+#QuestionStart
+Q63) Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong? - 2016
+a) Amoghavarsha I
+b) Ballala II
+c) Harihara I
+d) Prataparudra II
+#QuestionEnd
+#AnswerStart
+Answer: c) Harihara I
+#AnswerEnd
+#QuestionStart
+Q64) Consider the following statements :
+(i) The first woman President of the Indian National Congress was Sarojini Naidu.
+(ii) The first Muslim President of the Indian National Congress was Badruddin Tyabji.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q65) Which of the following statements regarding ‘Green Climate Fund’ is/are correct?
+(i) It is intended to assist the developing countries in adaptation and mitigation practices to counter climate change.
+(ii) It is founded under the aegis of UNEP, OECD, Asian Development Bank and World Bank.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q66) Indira Gandhi Prize for Peace, Disarmament and Development for 2014 was given to which one of the following? - 2016
+a) Bhabha Atomic Research Centre
+b) Indian Institute of Science
+c) Indian Space Research Organization
+d) Tata Institute of Fundamental Research
+#QuestionEnd
+#AnswerStart
+Answer: c) Indian Space Research Organization
+#AnswerEnd
+#QuestionStart
+Q67) With reference to the Cabinet Mission, which of the following statements is/are correct?
+(i) It recommended a federal government.
+(ii) It enlarged the powers of the Indian courts.
+(iii) It provided for more Indians in the ICS.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q68) Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic? - 2016
+a) Khangchendzonga National Park
+b) Nandadevi National Park
+c) Neora Valley National Park
+d) Namdapha National Park
+#QuestionEnd
+#AnswerStart
+Answer: d) Namdapha National Park
+#AnswerEnd
+#QuestionStart
+Q69) Amnesty International is - 2016
+a) an agency of the United Nations to help refugees of civil wars
+b) a global Human Rights Movement
+c) a non-governmental voluntary organization to help very poor people
+d) an inter-governmental agency to cater to medical emergencies in war-ravaged regions
+#QuestionEnd
+#AnswerStart
+Answer: b) a global Human Rights Movement
+#AnswerEnd
+#QuestionStart
+Q70) With reference to the art and archaeological history of India, which one among the following was made earliest? - 2016
+a) Lingaraja Temple at Bhubaneswar
+b) Rock-cut Elephant at Dhauli
+c) Rock-cut Monuments at Mahabalipuram
+d) Varaha Image at Udayagiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Rock-cut Elephant at Dhauli
+#AnswerEnd
+#QuestionStart
+Q71) With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?
+(i) A very strong centralized political authority and a very weak provincial or local political authority
+(ii) Emergence of administrative structure based on control and possession of land
+(iii) Creation of lord-vassal relationship between the feudal lord and his overlord
+Select the correct answer using the code given below. - 2016
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q72) ‘BioCarbon Fund Initiative for Sustainable Forest Landscapes’ is managed by the - 2016
+a) Asian Development Bank
+b) International Monetary Fund
+c) United Nations Environment Programme
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: d) World Bank
+#AnswerEnd
+#QuestionStart
+Q73) India is a member of which among the following?
+(i) Asia-Pacific Economic Cooperation
+(ii) Association of South-East Asian Nations
+(iii) East Asia Summit
+Select the correct answer using the code given below. - 2016
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) India is a member of none of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q74) In India, the steel production industry requires the import of - 2016
+a) saltpetre
+b) rock phosphate
+c) coking coal
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) coking coal
+#AnswerEnd
+#QuestionStart
+Q75) The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to - 2016
+a) protect the interests of Scheduled Tribes
+b) determine the boundaries between States
+c) determine the powers, authority and responsibilities of Panchayats
+d) protect the interests of all the border States
+#QuestionEnd
+#AnswerStart
+Answer: a) protect the interests of Scheduled Tribes
+#AnswerEnd
+#QuestionStart
+Q76) With reference to the ‘Trans-Pacific Partnership’, consider the following statements :
+(i) It is an agreement among all the Pacific Rim countries except China and Russia.
+(ii) It is a strategic alliance for the purpose of maritime security only.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q77) Consider the following statements :
+(i) The International Solar Alliance was launched at the United Nations Climate Change Conference in 2015.
+(ii) The Alliance includes all the member countries of the United Nations.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q78) ‘European Stability Mechanism’, sometimes seen in the news, is an - 2016
+a) agency created by EU to deal with the impact of millions of refugees arriving from Middle East
+b) agency of EU that provides financial assistance to eurozone countries
+c) agency of EU to deal with all the bilateral and multilateral agreements on trade
+d) agency of EU to deal with the conflicts arising among the member countries
+#QuestionEnd
+#AnswerStart
+Answer: b) agency of EU that provides financial assistance to eurozone countries
+#AnswerEnd
+#QuestionStart
+Q79) Which of the following is/are the advantage/advantages of practising drip irrigation?
+(i) Reduction in weed
+(ii) Reduction in soil salinity
+(iii) Reduction in soil erosion
+Select the correct answer using the code given below. - 2016
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) None of the above is an advantage of practising drip irrigation
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q80) Regarding ‘DigiLocker’, sometimes seen in the news, which of the following statements is/are correct?
+(i) It is a digital locker system offered by the Government under Digital India Programme.
+(ii) It allows you to access your e-documents irrespective of your physical location.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q81) Recently, linking of which of the following rivers was undertaken? - 2016
+a) Cauvery and Tungabhadra
+b) Godavari and Krishna
+c) Mahanadi and Sone
+d) Narmada and Tapti
+#QuestionEnd
+#AnswerStart
+Answer: b) Godavari and Krishna
+#AnswerEnd
+#QuestionStart
+Q82) Consider the following statements :
+(i) The Election Commission of India is a five-member body.
+(ii) Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.
+(iii) Election Commission resolves the disputes relating to splits/mergers of recognised political parties.
+Which of the statements given above is/are correct ? - 2016
+a) 1 and 2 only
+b) 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+#QuestionStart
+Q83) In India, if a species of tortoise is declared protected under Schedule I of the Wildlife (Protection) Act, 1972, what does it imply? - 2016
+a) It enjoys the same level of protection as the tiger.
+b) It no longer exists in the wild, a few individuals are under captive protection; and now it is impossible to prevent its extinction.
+c) It is endemic to a particular region of India.
+d) Both (b) and (c) stated above are correct in this context.
+#QuestionEnd
+#AnswerStart
+Answer: a) It enjoys the same level of protection as the tiger.
+#AnswerEnd
+#QuestionStart
+Q84) Consider the following statements :
+(i) Animal Welfare Board of India is established under the Environment (Protection) Act, 1986.
+(ii) National Tiger Conservation Authority is a statutory body.
+(iii) National Ganga River Basin Authority is chaired by the Prime Minister.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q85) With reference to ‘Eco-Sensitive Zones’, which of the following statements is/are correct?
+(i) Eco-Sensitive Zones are the areas that are declared under the Wildlife (Protection) Act, 1972.
+(ii) The purpose of the declaration of Eco-Sensitive Zones is to prohibit all kinds of human activities in those zones except agriculture.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q86) Consider the following statements :
+(i) The Chief Secretary in a State is appointed by the Governor of that State.
+(ii) The Chief Secretary in a State has a fixed tenure.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q87) Which of the following statements best describes the term ‘Social Cost of Carbon’ ?
+It is a measure, in monetary value, of the - 2016
+a) long-term damage done by a tonne of CO, emissions in a given year.
+b) requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.
+c) efforts put in by a climate refugee to adapt to live in a new place.
+d) contribution of an individual person to the carbon footprint on the planet Earth.
+#QuestionEnd
+#AnswerStart
+Answer: a) long-term damage done by a tonne of CO, emissions in a given year.
+#AnswerEnd
+#QuestionStart
+Q88) With reference to solar water pumps, consider the following statements :
+(i) Solar power can be used for running surface pumps and not for submersible pumps.
+(ii) Solar power can be used for running centrifugal pumps and not the ones with piston.
+Which of the statements given above is/are correct? - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q89) Which one of the following is geographically closest to Great Nicobar? - 2016
+a) Sumatra
+b) Borneo
+c) Java
+d) Sri Lanka
+#QuestionEnd
+#AnswerStart
+Answer: a) Sumatra
+#AnswerEnd
+#QuestionStart
+Q90) Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : - 2016
+a) An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.
+b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.
+c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.
+#QuestionEnd
+#AnswerStart
+Answer: c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+#AnswerEnd
+#QuestionStart
+Q91) Which one of the following is not a feature of Indian federalism? - 2016
+a) There is an independent judiciary in India.
+b) Powers have been clearly divided between the Centre and the States.
+c) The federating units have been given unequal representation in the Rajya Sabha.
+d) It is the result of an agreement among the federating units.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the result of an agreement among the federating units.
+#AnswerEnd
+#QuestionStart
+Q92) Consider the following pairs :
+| Region often mentioned in the news | Country |
+|---|---|
+| 1. Anatolia | Turkey |
+| 2. Amhara | Ethiopia |
+| 3. Cabo Delgado | Spain |
+| 4. Catalonia | Italy |
+How many pairs given above are correctly matched? - 2016
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+#QuestionStart
+Q93) With reference to Indian laws about wildlife protection, consider the following statements :
+(i) Wild animals are the sole property of the government.
+(ii) When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.
+(iii) Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.
+Which of the statements given above is/are correct? - 2016
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q94) Certain species of which one of the following organisms are well known as cultivators of fungi? - 2016
+a) Ant
+b) Cockroach
+c) Crab
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Ant
+#AnswerEnd
+#QuestionStart
+Q95) Which of the following has/have been accorded ‘Geographical Indication’ status?
+(i) Banaras Brocades and Sarees
+(ii) Rajasthani Daal-Bati-Churma
+(iii) Tirupathi Laddu
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q96) With reference to the Indian Renewable Energy Development Agency Limited (IREDA), which of the following statements is/are correct?
+(i) It is a Public Limited Government Company.
+(ii) It is a Non-Banking Financial Company.
+Select the correct answer using the code given below. - 2016
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q97) Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to
+(i) resist drought and increase absorptive area
+(ii) tolerate extremes of pH
+(iii) resist disease infestation
+Select the correct answer using the codes given below. - 2016
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q98) Who among the following constitute the National Development Council?
+(i) The Prime Minister
+(ii) The Chairman, Finance Commission
+(iii) Ministers of the Union Cabinet
+(iv) Chief Ministers of the States
+Select the correct answer using the codes given below. - 2016
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q99) The national income of a country for a given period is equal to the - 2016
+a) total value of goods and services produced by the nationals
+b) sum of total consumption and investment expenditure
+c) sum of personal income of all individuals
+d) money value of final goods and services produced
+#QuestionEnd
+#AnswerStart
+Answer: d) money value of final goods and services produced
+#AnswerEnd
+#QuestionStart
+Q100) Which of the following grants/grant direct credit assistance to rural households?
+(i) Regional Rural Banks
+(ii) National Bank for Agriculture and Rural Development
+(iii) Land Development Banks
+Select the correct answer using the codes given below. - 2016
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd

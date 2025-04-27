@@ -5,15 +5,15 @@ import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
-import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
+// Removed: import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetFooter } from "@/components/ui/sheet";
 import { useSettings } from "@/hooks/use-settings";
 import { useUIState } from "@/hooks/use-ui-state";
-import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle, Database, Loader2 } from "lucide-react";
+import { X, Moon, Sun, Upload, BarChart3, Copy, Trash2, Download, Computer, CheckCircle, Database, Loader2, NotebookText } from "lucide-react"; // Added NotebookText
 import { useLocation } from "wouter";
-import { 
-  DEFAULT_ANALYTICS_PROMPT, 
-  DEFAULT_EXPLANATION_PROMPT, 
+import {
+  DEFAULT_ANALYTICS_PROMPT,
+  DEFAULT_EXPLANATION_PROMPT,
   DEFAULT_SUBJECT_TAGGING_PROMPT,
   DEFAULT_STUDY_PLAN_PROMPT,
   DEFAULT_LEARNING_PATTERN_PROMPT
@@ -25,7 +25,7 @@ export default function SettingsPanel() {
   const { uiState, updateUIState } = useUIState();
   const { toast } = useToast();
   const [, navigate] = useLocation();
-  
+
   // Local state for form values
   const [apiKey, setApiKey] = useState(settings.aiApiKey || "");
   const [showApiKey, setShowApiKey] = useState(false);
@@ -35,9 +35,7 @@ export default function SettingsPanel() {
   const [studyPlanPrompt, setStudyPlanPrompt] = useState(settings.studyPlanPrompt);
   const [learningPatternPrompt, setLearningPatternPrompt] = useState(settings.learningPatternPrompt);
   const [parsingPromptTitle, setParsingPromptTitle] = useState(settings.parsingPromptTitle || "");
-  const [postgresConnectionString, setPostgresConnectionString] = useState(settings.postgresConnectionString || "");
-  const [showConnectionString, setShowConnectionString] = useState(false);
-  const [configuringDatabase, setConfiguringDatabase] = useState(false);
+  // Removed postgresConnectionString, showConnectionString, configuringDatabase, connectionStatus, savingDatabase states
 
   // Apply settings when panel closes
   useEffect(() => {
@@ -68,10 +66,10 @@ export default function SettingsPanel() {
         document.documentElement.classList.remove("dark");
       }
     }
-    
+
     // Then update settings
     updateSettings({ theme });
-    
+
     // Show toast confirmation
     toast({
       title: "Theme updated",
@@ -88,13 +86,13 @@ export default function SettingsPanel() {
       amber: "45 97% 50%",
       red: "0 84% 60%"
     };
-    
+
     // First update CSS variables for immediate visual feedback
     document.documentElement.style.setProperty('--primary', colorMap[color]);
-    
+
     // Update settings after visual change
     updateSettings({ primaryColor: color });
-    
+
     // Show toast confirmation
     toast({
       title: "Color updated",
@@ -113,7 +111,7 @@ export default function SettingsPanel() {
       learningPatternPrompt,
       parsingPromptTitle
     });
-    
+
     toast({
       title: "Settings saved",
       description: "Your AI settings have been successfully saved",
@@ -129,15 +127,15 @@ export default function SettingsPanel() {
   const handleResetAnalyticsPrompt = () => {
     setAnalyticsPrompt(DEFAULT_ANALYTICS_PROMPT);
   };
-  
+
   const handleResetExplanationPrompt = () => {
     setExplanationPrompt(DEFAULT_EXPLANATION_PROMPT);
   };
-  
+
   const handleResetStudyPlanPrompt = () => {
     setStudyPlanPrompt(DEFAULT_STUDY_PLAN_PROMPT);
   };
-  
+
   const handleResetLearningPatternPrompt = () => {
     setLearningPatternPrompt(DEFAULT_LEARNING_PATTERN_PROMPT);
   };
@@ -169,15 +167,15 @@ export default function SettingsPanel() {
       <SheetContent className="sm:max-w-md overflow-y-auto">
         <SheetHeader className="flex items-center justify-between">
           <SheetTitle>Settings</SheetTitle>
-          <Button 
-            variant="ghost" 
-            size="icon" 
+          <Button
+            variant="ghost"
+            size="icon"
             onClick={() => updateUIState({ settingsPanelOpen: false })}
           >
             <X className="h-4 w-4" />
           </Button>
         </SheetHeader>
-        
+
         <div className="py-4 space-y-8">
           {/* Appearance */}
           <div>
@@ -219,36 +217,36 @@ export default function SettingsPanel() {
                   </Button>
                 </div>
               </div>
-              
+
               {/* Accent Color */}
               <div>
                 <Label className="block text-sm font-medium mb-2">Accent Color</Label>
                 <div className="flex space-x-3">
-                  <button 
+                  <button
                     className={`w-8 h-8 rounded-full bg-blue-500 transition-all ${
                       settings.primaryColor === "blue" ? "ring-2 ring-offset-2 ring-blue-500" : "hover:ring-2 hover:ring-offset-2 hover:ring-blue-500"
                     }`}
                     onClick={() => handleColorChange("blue")}
                   />
-                  <button 
+                  <button
                     className={`w-8 h-8 rounded-full bg-purple-500 transition-all ${
                       settings.primaryColor === "purple" ? "ring-2 ring-offset-2 ring-purple-500" : "hover:ring-2 hover:ring-offset-2 hover:ring-purple-500"
                     }`}
                     onClick={() => handleColorChange("purple")}
                   />
-                  <button 
+                  <button
                     className={`w-8 h-8 rounded-full bg-green-500 transition-all ${
                       settings.primaryColor === "green" ? "ring-2 ring-offset-2 ring-green-500" : "hover:ring-2 hover:ring-offset-2 hover:ring-green-500"
                     }`}
                     onClick={() => handleColorChange("green")}
                   />
-                  <button 
+                  <button
                     className={`w-8 h-8 rounded-full bg-amber-500 transition-all ${
                       settings.primaryColor === "amber" ? "ring-2 ring-offset-2 ring-amber-500" : "hover:ring-2 hover:ring-offset-2 hover:ring-amber-500"
                     }`}
                     onClick={() => handleColorChange("amber")}
                   />
-                  <button 
+                  <button
                     className={`w-8 h-8 rounded-full bg-red-500 transition-all ${
                       settings.primaryColor === "red" ? "ring-2 ring-offset-2 ring-red-500" : "hover:ring-2 hover:ring-offset-2 hover:ring-red-500"
                     }`}
@@ -256,13 +254,13 @@ export default function SettingsPanel() {
                   />
                 </div>
               </div>
-              
+
               {/* Animation Setting */}
               <div>
                 <Label className="block text-sm font-medium mb-2">Animations</Label>
                 <div className="flex items-center space-x-2">
-                  <Switch 
-                    id="animations" 
+                  <Switch
+                    id="animations"
                     checked={settings.animations}
                     onCheckedChange={(checked) => updateSettings({ animations: checked })}
                   />
@@ -271,7 +269,7 @@ export default function SettingsPanel() {
               </div>
             </div>
           </div>
-          
+
           {/* AI Settings */}
           <div>
             <h3 className="font-medium text-lg mb-4">AI Integration</h3>
@@ -282,8 +280,8 @@ export default function SettingsPanel() {
                   <Label htmlFor="enable-ai" className="block text-sm font-medium">
                     Enable AI Features
                   </Label>
-                  <Switch 
-                    id="enable-ai" 
+                  <Switch
+                    id="enable-ai"
                     checked={settings.aiEnabled}
                     onCheckedChange={(checked) => updateSettings({ aiEnabled: checked })}
                   />
@@ -292,12 +290,12 @@ export default function SettingsPanel() {
                   Enables subject tagging and analytics recommendations.
                 </p>
               </div>
-              
+
               {/* Model Selection */}
               <div>
                 <Label className="block text-sm font-medium mb-2">Gemini Model</Label>
-                <Select 
-                  value={settings.aiModel} 
+                <Select
+                  value={settings.aiModel}
                   onValueChange={(value) => updateSettings({ aiModel: value })}
                 >
                   <SelectTrigger>
@@ -314,13 +312,13 @@ export default function SettingsPanel() {
                   Model options are updated automatically to reflect the latest available models.
                 </p>
               </div>
-              
+
               {/* API Key */}
               <div>
                 <Label className="block text-sm font-medium mb-2">API Key</Label>
                 <div className="relative">
-                  <Input 
-                    type={showApiKey ? "text" : "password"} 
+                  <Input
+                    type={showApiKey ? "text" : "password"}
                     value={apiKey}
                     onChange={(e) => setApiKey(e.target.value)}
                     className="pr-24"
@@ -336,19 +334,19 @@ export default function SettingsPanel() {
                   </Button>
                 </div>
               </div>
-              
+
               {/* Prompt Templates */}
               <div>
                 <Label className="block text-sm font-medium mb-2">Subject Tagging Prompt</Label>
-                <Textarea 
-                  value={subjectTaggingPrompt} 
+                <Textarea
+                  value={subjectTaggingPrompt}
                   onChange={(e) => setSubjectTaggingPrompt(e.target.value)}
                   className="text-sm h-24"
                 />
                 <div className="flex justify-end mt-1">
-                  <Button 
-                    variant="ghost" 
-                    size="sm" 
+                  <Button
+                    variant="ghost"
+                    size="sm"
                     className="text-xs"
                     onClick={handleResetSubjectPrompt}
                   >
@@ -356,18 +354,18 @@ export default function SettingsPanel() {
                   </Button>
                 </div>
               </div>
-              
+
               <div>
                 <Label className="block text-sm font-medium mb-2">Analytics Prompt</Label>
-                <Textarea 
-                  value={analyticsPrompt} 
+                <Textarea
+                  value={analyticsPrompt}
                   onChange={(e) => setAnalyticsPrompt(e.target.value)}
                   className="text-sm h-24"
                 />
                 <div className="flex justify-end mt-1">
-                  <Button 
-                    variant="ghost" 
-                    size="sm" 
+                  <Button
+                    variant="ghost"
+                    size="sm"
                     className="text-xs"
                     onClick={handleResetAnalyticsPrompt}
                   >
@@ -375,18 +373,18 @@ export default function SettingsPanel() {
                   </Button>
                 </div>
               </div>
-              
+
               <div>
                 <Label className="block text-sm font-medium mb-2">Explanation Prompt</Label>
-                <Textarea 
-                  value={explanationPrompt} 
+                <Textarea
+                  value={explanationPrompt}
                   onChange={(e) => setExplanationPrompt(e.target.value)}
                   className="text-sm h-24"
                 />
                 <div className="flex justify-end mt-1">
-                  <Button 
-                    variant="ghost" 
-                    size="sm" 
+                  <Button
+                    variant="ghost"
+                    size="sm"
                     className="text-xs"
                     onClick={handleResetExplanationPrompt}
                   >
@@ -397,18 +395,18 @@ export default function SettingsPanel() {
                   Customize how AI explains correct and incorrect answers after attempting a question.
                 </p>
               </div>
-              
+
               <div>
                 <Label className="block text-sm font-medium mb-2">Study Plan Prompt</Label>
-                <Textarea 
-                  value={studyPlanPrompt} 
+                <Textarea
+                  value={studyPlanPrompt}
                   onChange={(e) => setStudyPlanPrompt(e.target.value)}
                   className="text-sm h-24"
                 />
                 <div className="flex justify-end mt-1">
-                  <Button 
-                    variant="ghost" 
-                    size="sm" 
+                  <Button
+                    variant="ghost"
+                    size="sm"
                     className="text-xs"
                     onClick={handleResetStudyPlanPrompt}
                   >
@@ -419,18 +417,18 @@ export default function SettingsPanel() {
                   Customize how AI generates personalized study plans based on your performance analytics.
                 </p>
               </div>
-              
+
               <div>
                 <Label className="block text-sm font-medium mb-2">Learning Pattern Prompt</Label>
-                <Textarea 
-                  value={learningPatternPrompt} 
+                <Textarea
+                  value={learningPatternPrompt}
                   onChange={(e) => setLearningPatternPrompt(e.target.value)}
                   className="text-sm h-24"
                 />
                 <div className="flex justify-end mt-1">
-                  <Button 
-                    variant="ghost" 
-                    size="sm" 
+                  <Button
+                    variant="ghost"
+                    size="sm"
                     className="text-xs"
                     onClick={handleResetLearningPatternPrompt}
                   >
@@ -441,11 +439,11 @@ export default function SettingsPanel() {
                   Customize how AI analyzes your learning patterns and recommends optimization strategies.
                 </p>
               </div>
-              
+
               <div>
                 <Label className="block text-sm font-medium mb-2">Parsing Prompt Title</Label>
-                <Input 
-                  value={parsingPromptTitle} 
+                <Input
+                  value={parsingPromptTitle}
                   onChange={(e) => setParsingPromptTitle(e.target.value)}
                   placeholder="Your Task:** You are an expert data formatter..."
                   className="text-sm"
@@ -454,160 +452,43 @@ export default function SettingsPanel() {
                   This title will be displayed above the parsing prompt for test format conversion.
                 </p>
               </div>
-              
+
               <Button onClick={handleSaveAISettings}>
                 Save AI Settings
               </Button>
             </div>
           </div>
-          
-          {/* This section was removed to eliminate duplicate database configuration */}
-          {/* Database Configuration */}
+
+          {/* Database Configuration Section - REMOVED */}
           <div>
             <h3 className="font-medium text-lg mb-4">Database Configuration</h3>
-            <div className="space-y-4">
-              <div>
-                <Label className="block text-sm font-medium mb-2">Database Type</Label>
-                <RadioGroup 
-                  value={settings.databaseType || "sqlite"} 
-                  onValueChange={(value: "sqlite" | "postgresql") => updateSettings({ databaseType: value })}
-                  className="space-y-2"
-                >
-                  <div className="flex items-center space-x-2">
-                    <RadioGroupItem value="sqlite" id="sqlite" />
-                    <Label htmlFor="sqlite" className="cursor-pointer">SQLite (Portable Mode)</Label>
-                  </div>
-                  <div className="flex items-center space-x-2">
-                    <RadioGroupItem value="postgresql" id="postgresql" />
-                    <Label htmlFor="postgresql" className="cursor-pointer">PostgreSQL (Web Mode)</Label>
-                  </div>
-                </RadioGroup>
-                <p className="text-xs text-muted-foreground mt-1">
-                  Use SQLite for standalone usage and PostgreSQL for web/server deployments.
-                </p>
-              </div>
-              
-              {settings.databaseType === "postgresql" && (
-                <div>
-                  <Label className="block text-sm font-medium mb-2">PostgreSQL Connection String</Label>
-                  <div className="relative">
-                    <Input 
-                      type={showConnectionString ? "text" : "password"} 
-                      value={postgresConnectionString}
-                      onChange={(e) => setPostgresConnectionString(e.target.value)}
-                      className="pr-24"
-                      placeholder="postgresql://username:password@host:port/database"
-                    />
-                    <Button
-                      type="button"
-                      variant="ghost"
-                      size="sm"
-                      className="absolute right-1 top-1 h-7 text-xs"
-                      onClick={() => setShowConnectionString(!showConnectionString)}
-                    >
-                      {showConnectionString ? "Hide" : "Show"}
-                    </Button>
-                  </div>
-                  <p className="text-xs text-muted-foreground mt-1">
-                    Format: postgresql://username:password@hostname:port/database
-                  </p>
-                </div>
-              )}
-              
-              <Button 
-                variant="secondary" 
-                className="w-full justify-start"
-                onClick={async () => {
-                  setConfiguringDatabase(true);
-                  try {
-                    const response = await fetch('/api/database/configure', {
-                      method: 'POST',
-                      headers: {
-                        'Content-Type': 'application/json',
-                      },
-                      body: JSON.stringify({
-                        type: settings.databaseType || 'sqlite',
-                        connectionString: postgresConnectionString,
-                      }),
-                    });
-                    
-                    const data = await response.json();
-                    
-                    if (response.ok) {
-                      toast({
-                        title: "Database configured",
-                        description: data.message,
-                        className: "bg-green-50 dark:bg-green-900/20 border-green-200 dark:border-green-800",
-                        duration: 3000,
-                      });
-                      // Save connection string to settings
-                      updateSettings({ 
-                        postgresConnectionString,
-                        databaseType: settings.databaseType || 'sqlite'
-                      });
-                    } else {
-                      toast({
-                        title: "Configuration failed",
-                        description: data.message || "Unknown error occurred",
-                        variant: "destructive",
-                        duration: 5000,
-                      });
-                    }
-                  } catch (error) {
-                    console.error('Database configuration error:', error);
-                    toast({
-                      title: "Configuration error",
-                      description: "Failed to configure database. Check console for details.",
-                      variant: "destructive",
-                      duration: 5000,
-                    });
-                  } finally {
-                    setConfiguringDatabase(false);
-                  }
-                }}
-                disabled={configuringDatabase || (settings.databaseType === 'postgresql' && !postgresConnectionString)}
-              >
-                <Database className="h-4 w-4 mr-2" />
-                {configuringDatabase ? "Configuring..." : "Apply Database Configuration"}
-                {configuringDatabase && <Loader2 className="h-4 w-4 ml-2 animate-spin" />}
-              </Button>
-              
-              {settings.databaseType === "sqlite" && (
-                <p className="text-sm text-muted-foreground">
-                  <strong>SQLite Mode:</strong> All data is stored locally in a file. Perfect for portable usage or standalone deployments.
-                </p>
-              )}
-              
-              {settings.databaseType === "postgresql" && (
-                <p className="text-sm text-muted-foreground">
-                  <strong>PostgreSQL Mode:</strong> Data is stored in a remote database. Ideal for web deployments or multi-user scenarios.
-                </p>
-              )}
-            </div>
+             <p className="text-sm text-muted-foreground">
+                The application is configured to use a local SQLite database (`ascend-upsc.db`). No configuration is required.
+              </p>
           </div>
-          
+
           {/* Data Management */}
           <div>
             <h3 className="font-medium text-lg mb-4">Data Management</h3>
             <div className="space-y-3">
-              <Button 
-                variant="outline" 
+              <Button
+                variant="outline"
                 className="w-full justify-start"
                 onClick={handleExportData}
               >
                 <Download className="h-4 w-4 mr-2" />
                 Export All Data
               </Button>
-              <Button 
-                variant="outline" 
+              <Button
+                variant="outline"
                 className="w-full justify-start"
                 onClick={handleImportData}
               >
                 <Upload className="h-4 w-4 mr-2" />
                 Import Data
               </Button>
-              <Button 
-                variant="outline" 
+              <Button
+                variant="outline"
                 className="w-full justify-start text-red-500 border-red-200 hover:bg-red-50 dark:border-red-800 dark:text-red-400 dark:hover:bg-red-900/20"
                 onClick={handleClearData}
               >
@@ -616,29 +497,40 @@ export default function SettingsPanel() {
               </Button>
             </div>
           </div>
-          
+
           {/* Navigation Links */}
           <div>
             <h3 className="font-medium text-lg mb-4">Quick Access</h3>
             <div className="space-y-2">
-              <Button 
-                variant="ghost" 
+              {/* Add Notes Button Here */}
+              <Button
+                variant="ghost"
+                className="w-full justify-start"
+                onClick={() => {
+                  updateUIState({ settingsPanelOpen: false, notesModalOpen: true }); // Close settings, open notes
+                }}
+              >
+                <NotebookText className="h-4 w-4 mr-3" />
+                View Notes
+              </Button>
+              <Button
+                variant="ghost"
                 className="w-full justify-start"
                 onClick={() => handleNavigate("/")}
               >
                 <Upload className="h-4 w-4 mr-3" />
                 Upload Test
               </Button>
-              <Button 
-                variant="ghost" 
+              <Button
+                variant="ghost"
                 className="w-full justify-start"
                 onClick={() => handleNavigate("/overall-analytics")}
               >
                 <BarChart3 className="h-4 w-4 mr-3" />
                 View Analytics
               </Button>
-              <Button 
-                variant="ghost" 
+              <Button
+                variant="ghost"
                 className="w-full justify-start"
                 onClick={() => handleNavigate("/flashcards")}
               >
@@ -648,7 +540,7 @@ export default function SettingsPanel() {
             </div>
           </div>
         </div>
-        
+
         <SheetFooter>
           <div className="w-full text-center text-sm text-muted-foreground">
             Ascend UPSC v1.0.0

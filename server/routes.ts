@@ -1,6 +1,6 @@
 import type { Express, Request, Response } from "express";
 import { createServer, type Server } from "http";
-import { getStorage } from "./database-switcher";
+import { getStorage } from "./database-switcher"; // Removed switchDatabase import as the endpoint is removed
 import { z } from "zod";
 
 // Define a storage constant that always uses getStorage()
@@ -29,8 +29,10 @@ const storage = {
   getTestAnalytics: async (id: number) => (await getStorage()).getTestAnalytics(id),
   getOverallAnalytics: async () => (await getStorage()).getOverallAnalytics(),
   getAnkiData: async (id: number) => (await getStorage()).getAnkiData(id),
+  getHistory: async (filter?: string) => (await getStorage()).getHistory(filter), // Correctly added getHistory
+  getHeatmapData: async (year: number, month: number) => (await getStorage()).getHeatmapData(year, month), // Added heatmap data
 };
-import { 
+import {
   insertAttemptSchema,
   insertFlashcardSchema,
   insertQuestionSchema,
@@ -42,8 +44,20 @@ import {
 } from "@shared/schema";
 import { fromZodError } from "zod-validation-error";
 import { ZodError } from "zod";
-import * as fs from "fs/promises";
-import * as path from "path";
+import * as fs from "fs/promises"; // Ensure fs/promises is imported
+import * as path from "path"; // Ensure path is imported
+import { logger } from "./logger"; // Import logger
+// Helper function to append to log file
+async function appendToAnalyticsLog(data: any, type: 'test' | 'overall') {
+  const logFilePath = path.resolve("./analytics_log.txt");
+  const timestamp = new Date().toISOString();
+  const logEntry = `[${timestamp}] Type: ${type}\nData:\n${JSON.stringify(data, null, 2)}\n\n---\n\n`;
+  try {
+    await fs.appendFile(logFilePath, logEntry);
+  } catch (error) {
+    console.error("Error writing to analytics log:", error);
+  }
+}
 
 export async function registerRoutes(app: Express): Promise<Server> {
   // Prefix all routes with /api
@@ -52,8 +66,8 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // GET /api/subjects - Get all subjects
   apiRouter.get("/api/subjects", async (_req: Request, res: Response) => {
     try {
-      const { db } = await import("./db");
-      const { subjects } = await import("@shared/schema");
+      const { db } = await import("./sqlite-db");
+      const { subjects } = await import("../shared/sqlite-schema");
       const allSubjects = await db.select().from(subjects);
       res.json(allSubjects);
     } catch (error) {
@@ -65,8 +79,8 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // GET /api/topics - Get all topics
   apiRouter.get("/api/topics", async (_req: Request, res: Response) => {
     try {
-      const { db } = await import("./db");
-      const { topics } = await import("@shared/schema");
+      const { db } = await import("./sqlite-db");
+      const { topics } = await import("../shared/sqlite-schema");
       const allTopics = await db.select().from(topics);
       res.json(allTopics);
     } catch (error) {
@@ -121,7 +135,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch test" });
     }
   });
-  
+
   // DELETE /api/tests/:id - Delete a test and all related data
   apiRouter.delete("/api/tests/:id", async (req: Request, res: Response) => {
     try {
@@ -138,7 +152,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
 
       // Delete the test and all associated data
       await storage.deleteTest(testId);
-      
+
       res.status(200).json({ message: "Test deleted successfully" });
     } catch (error) {
       console.error("Error deleting test:", error);
@@ -177,7 +191,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch questions" });
     }
   });
-  
+
   // GET /api/questions - Get all questions across tests
   apiRouter.get("/api/questions", async (_req: Request, res: Response) => {
     try {
@@ -188,7 +202,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch all questions" });
     }
   });
-  
+
   // GET /api/questions/:id - Get a single question by ID
   apiRouter.get("/api/questions/:id", async (req: Request, res: Response) => {
     try {
@@ -240,20 +254,20 @@ export async function registerRoutes(app: Express): Promise<Server> {
       });
 
       const rawUpdateData = schema.parse(req.body);
-      
+
       // Convert string dates to Date objects
       const updateData: Partial<Attempt> = {
         ...(rawUpdateData.totalTimeSeconds && { totalTimeSeconds: rawUpdateData.totalTimeSeconds }),
         ...(rawUpdateData.completed && { completed: rawUpdateData.completed }),
         ...(rawUpdateData.endTime && { endTime: new Date(rawUpdateData.endTime) })
       };
-      
+
       const attempt = await storage.updateAttempt(attemptId, updateData);
-      
+
       if (!attempt) {
         return res.status(404).json({ message: "Attempt not found" });
       }
-      
+
       res.json(attempt);
     } catch (error) {
       if (error instanceof ZodError) {
@@ -332,7 +346,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to fetch answers" });
     }
   });
-  
+
   // PATCH /api/answers/:id - Update a user answer with metadata (confidence, knowledge flags, etc.)
   apiRouter.patch("/api/answers/:id", async (req: Request, res: Response) => {
     try {
@@ -350,11 +364,11 @@ export async function registerRoutes(app: Express): Promise<Server> {
 
       const updateData = schema.parse(req.body);
       const updatedAnswer = await storage.updateUserAnswer(answerId, updateData);
-      
+
       if (!updatedAnswer) {
         return res.status(404).json({ message: "Answer not found" });
       }
-      
+
       res.json(updatedAnswer);
     } catch (error) {
       if (error instanceof ZodError) {
@@ -381,7 +395,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       }
     }
   });
-  
+
   // GET /api/tags - Get all unique tags
   apiRouter.get("/api/tags", async (_req: Request, res: Response) => {
     try {
@@ -453,7 +467,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       });
 
       const rawUpdateData = schema.parse(req.body);
-      
+
       // Convert string dates to Date objects
       const updateData: Partial<Flashcard> = {
         ...(rawUpdateData.easeFactor && { easeFactor: rawUpdateData.easeFactor }),
@@ -462,13 +476,13 @@ export async function registerRoutes(app: Express): Promise<Server> {
         ...(rawUpdateData.lastReviewedAt && { lastReviewedAt: new Date(rawUpdateData.lastReviewedAt) }),
         ...(rawUpdateData.nextReviewAt && { nextReviewAt: new Date(rawUpdateData.nextReviewAt) })
       };
-      
+
       const flashcard = await storage.updateFlashcard(flashcardId, updateData);
-      
+
       if (!flashcard) {
         return res.status(404).json({ message: "Flashcard not found" });
       }
-      
+
       res.json(flashcard);
     } catch (error) {
       if (error instanceof ZodError) {
@@ -493,6 +507,9 @@ export async function registerRoutes(app: Express): Promise<Server> {
         return res.status(404).json({ message: "Analytics not found" });
       }
 
+      // Log the analytics data
+      await appendToAnalyticsLog(analytics, 'test');
+
       res.json(analytics);
     } catch (error) {
       console.error("Error fetching test analytics:", error);
@@ -504,18 +521,23 @@ export async function registerRoutes(app: Express): Promise<Server> {
   apiRouter.get("/api/analytics/overall", async (_req: Request, res: Response) => {
     try {
       const analytics = await storage.getOverallAnalytics();
-      
+
       // Make sure all required fields are present in the response
       const totalQuestions = analytics.totalCorrect + analytics.totalIncorrect + analytics.totalLeft;
       const accuracy = totalQuestions > 0 ? (analytics.totalCorrect / totalQuestions) * 100 : 0;
-      
-      // Add fields required by frontend if they're missing
-      res.json({
+
+      // Define responseData before using it
+      const responseData = {
         ...analytics,
         totalQuestions: totalQuestions,
         accuracy: accuracy,
         avgTimeSeconds: analytics.avgTimeSeconds || 0
-      });
+      }; // Corrected syntax: added closing brace
+
+      // Log the analytics data
+      await appendToAnalyticsLog(responseData, 'overall');
+
+      res.json(responseData);
     } catch (error) {
       console.error("Error fetching overall analytics:", error);
       res.status(500).json({ message: "Failed to fetch overall analytics" });
@@ -537,7 +559,22 @@ export async function registerRoutes(app: Express): Promise<Server> {
       res.status(500).json({ message: "Failed to generate Anki data" });
     }
   });
-  
+
+  // GET /api/history - Get test history with optional filtering
+  apiRouter.get("/api/history", async (req: Request, res: Response) => {
+    try {
+      // Extract filter query parameter
+      const filter = req.query.filter as string | undefined;
+      logger(`Received history request with filter: ${filter}`, 'routes');
+
+      const history = await storage.getHistory(filter);
+      res.json(history);
+    } catch (error) {
+      console.error("Error fetching history:", error);
+      res.status(500).json({ message: "Failed to fetch history" });
+    }
+  });
+
   // POST /api/theme - Update theme settings
   apiRouter.post("/api/theme", async (req: Request, res: Response) => {
     try {
@@ -547,10 +584,10 @@ export async function registerRoutes(app: Express): Promise<Server> {
         appearance: z.enum(["light", "dark", "system"]).optional(),
         radius: z.number().optional()
       });
-      
+
       const themeData = schema.parse(req.body);
       const themeJsonPath = path.resolve("./theme.json");
-      
+
       // Read current theme.json
       let currentTheme;
       try {
@@ -565,16 +602,16 @@ export async function registerRoutes(app: Express): Promise<Server> {
           radius: 0.75
         };
       }
-      
+
       // Update with new values
       const updatedTheme = {
         ...currentTheme,
         ...themeData
       };
-      
+
       // Write to theme.json
       await fs.writeFile(themeJsonPath, JSON.stringify(updatedTheme, null, 2));
-      
+
       res.json({ message: "Theme updated successfully", theme: updatedTheme });
     } catch (error) {
       if (error instanceof ZodError) {
@@ -585,87 +622,130 @@ export async function registerRoutes(app: Express): Promise<Server> {
       }
     }
   });
-  
-  // POST /api/database/configure - Configure database settings
-  apiRouter.post("/api/database/configure", async (req: Request, res: Response) => {
+
+  // Removed /api/database/configure endpoint as it's no longer needed with hardcoded SQLite
+
+  // --- Wrongs Feature Routes ---
+
+  // GET /api/wrongs - Get incorrectly answered questions with filtering
+  apiRouter.get("/api/wrongs", async (req: Request, res: Response) => {
     try {
-      const { type, connectionString } = req.body;
-      
-      // Validate database type
-      if (type !== "sqlite" && type !== "postgresql") {
-        return res.status(400).json({ message: "Invalid database type. Must be 'sqlite' or 'postgresql'" });
+      const { timeFilter, tagFilter, filterType } = req.query; // Add filterType
+      // Define allowed filter types for validation
+      const allowedFilterTypes = ['Wrongs', 'No knowledge', 'Tukke', 'Low confidence', 'Medium confidence'] as const;
+      type FilterType = typeof allowedFilterTypes[number];
+
+      // Validate filterType
+      let validatedFilterType: FilterType | undefined = undefined;
+      if (filterType && allowedFilterTypes.includes(filterType as FilterType)) {
+        validatedFilterType = filterType as FilterType;
+      } else if (filterType) {
+        logger(`Invalid filterType received: ${filterType}, defaulting to 'Wrongs'`, 'routes');
+        // Optionally return a 400 error here if strict validation is needed
       }
-      
-      if (type === "postgresql" && !connectionString) {
-        return res.status(400).json({ message: "Connection string is required for PostgreSQL" });
-      }
-      
-      // Update environment variables based on the database type
-      if (type === "postgresql") {
-        // Set PostgreSQL connection
-        process.env.DATABASE_URL = connectionString;
-        process.env.DB_TYPE = "postgresql";
-        process.env.PORTABLE_MODE = "false";
-      } else {
-        // Set SQLite connection
-        process.env.DB_TYPE = "sqlite";
-        process.env.PORTABLE_MODE = "true";
-        // Use default SQLite path from sqlite-db.ts
-      }
-      
-      // Reload database connection
-      try {
-        // For PostgreSQL, test the connection first
-        if (type === "postgresql") {
-          try {
-            // Test the connection with a simple query
-            const pg = await import('pg');
-            const pool = new pg.Pool({
-              connectionString: connectionString,
-            });
-            
-            // Test the connection
-            await pool.query('SELECT 1');
-            await pool.end();
-            
-            // If successful, switch the database
-            await switchDatabase(type, connectionString);
-            
-            return res.json({ 
-              success: true, 
-              message: "PostgreSQL database configured successfully" 
-            });
-          } catch (pgError: any) {
-            console.error("PostgreSQL connection error:", pgError);
-            return res.status(500).json({
-              message: `PostgreSQL connection failed: ${pgError.message}`,
-              error: pgError.message
-            });
-          }
-        } else {
-          // For SQLite, use the database switcher
-          await switchDatabase('sqlite');
-          
-          return res.json({ 
-            success: true, 
-            message: "SQLite database configured successfully" 
-          });
-        }
-      } catch (dbError: any) {
-        console.error("Database configuration error:", dbError);
-        return res.status(500).json({ 
-          message: `Database connection failed: ${dbError.message}`,
-          error: dbError.message
-        });
-      }
-    } catch (error: any) {
-      console.error("Error configuring database:", error);
-      res.status(500).json({ 
-        message: "Failed to configure database",
-        error: error.message
-      });
+
+      const wrongs = await (await getStorage()).getWrongAnswers(
+        timeFilter as string | undefined,
+        tagFilter as string | undefined,
+        validatedFilterType // Pass validated filter type
+      );
+      res.json(wrongs);
+    } catch (error) {
+      console.error("Error fetching wrong answers:", error);
+      res.status(500).json({ message: "Failed to fetch wrong answers" });
     }
   });
+
+  // --- Notes Feature Routes ---
+
+  // POST /api/notes - Add a note to a user answer
+  apiRouter.post("/api/notes", async (req: Request, res: Response) => {
+    try {
+      // TODO: Add Zod validation for request body (userAnswerId, noteText)
+      const noteData = req.body;
+      const newNote = await (await getStorage()).addQuestionNote(noteData);
+      res.status(201).json(newNote);
+    } catch (error) {
+      console.error("Error adding note:", error);
+      // Add Zod error handling
+      res.status(500).json({ message: "Failed to add note" });
+    }
+  });
+
+  // GET /api/notes - Get all notes with filtering
+  apiRouter.get("/api/notes", async (req: Request, res: Response) => {
+    try {
+      const { timeFilter, tagFilter } = req.query; // Add validation later
+      // TODO: Implement storage.getAllNotes(timeFilter, tagFilter)
+      const notes = await (await getStorage()).getAllNotes(timeFilter as string, tagFilter as string);
+      res.json(notes);
+    } catch (error) {
+      console.error("Error fetching notes:", error);
+      res.status(500).json({ message: "Failed to fetch notes" });
+    }
+  });
+
+  // PATCH /api/notes/:noteId - Update an existing note
+  apiRouter.patch("/api/notes/:noteId", async (req: Request, res: Response) => {
+    try {
+      const noteId = parseInt(req.params.noteId);
+      if (isNaN(noteId)) {
+        return res.status(400).json({ message: "Invalid note ID" });
+      }
+      // TODO: Add Zod validation for request body (noteText)
+      const { noteText } = req.body;
+      const updatedNote = await (await getStorage()).updateQuestionNote(noteId, noteText);
+      if (!updatedNote) {
+        return res.status(404).json({ message: "Note not found" });
+      }
+      res.json(updatedNote);
+    } catch (error) {
+      console.error("Error updating note:", error);
+      // Add Zod error handling
+      res.status(500).json({ message: "Failed to update note" });
+    }
+  });
+
+  // GET /api/notes/export - Export notes as Markdown
+  apiRouter.get("/api/notes/export", async (req: Request, res: Response) => {
+    try {
+      const { timeFilter, tagFilter } = req.query; // Add validation later
+      // TODO: Implement storage.exportNotesToMarkdown(timeFilter, tagFilter)
+      const markdownContent = await (await getStorage()).exportNotesToMarkdown(timeFilter as string, tagFilter as string);
+
+      res.setHeader('Content-Disposition', 'attachment; filename="ascend_upsc_notes.md"');
+      res.setHeader('Content-Type', 'text/markdown');
+      res.send(markdownContent);
+    } catch (error) {
+      console.error("Error exporting notes:", error);
+      res.status(500).json({ message: "Failed to export notes" });
+    }
+  });
+
+  // --- Heatmap Feature Route ---
+  apiRouter.get("/api/heatmap", async (req: Request, res: Response) => {
+    try {
+      const { year, month } = req.query;
+
+      const yearNum = parseInt(year as string);
+      const monthNum = parseInt(month as string);
+
+      if (isNaN(yearNum) || isNaN(monthNum) || monthNum < 1 || monthNum > 12) {
+        return res.status(400).json({ message: "Invalid year or month parameter" });
+      }
+      // Call getStorage directly within the handler
+      const currentStorage = await getStorage();
+      const heatmapData = await currentStorage.getHeatmapData(yearNum, monthNum);
+      res.json(heatmapData);
+    } catch (error) {
+      // Ensure JSON error response even on failure
+      console.error("Error fetching heatmap data:", error);
+      const message = error instanceof Error ? error.message : "Failed to fetch heatmap data";
+      res.status(500).json({ message });
+    }
+  });
+  // --- End Heatmap Feature Route ---
+
 
   const httpServer = createServer(app);
 

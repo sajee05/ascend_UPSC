@@ -1,0 +1,421 @@
+#QuestionStart
+Q1) Which one of the following statements best reflects the Chief purpose of the ‘Constitution’ of a country? [UPSC CSE Pre 2023]
+a) It determines the objective for the making of necessary laws.
+b) It enables the creation of political offices and a government.
+c) It defines and limits the powers of government.
+d) It secures social justice, social equality and social security.
+#QuestionEnd
+#AnswerStart
+Answer: c) It defines and limits the powers of government.
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements in respect of the Constitution Day:
+Statement-I:
+The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens.
+Statement-II:
+On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B. R. Ambedkar to prepare a Draft Constitution of India.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-1 and Statement-II are correct and Statement-1 is the correct explanation for Statement-I
+b) Both Statement-1 and Statement-11 are correct and Statement-II is not the correct explanation for Statement-1
+c) Statement-1 is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-1 is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy? [UPSC CSE Pre. 2021]
+a) A committed judiciary
+b) Centralization of powers
+c) Elected government
+d) Separation of powers
+#QuestionEnd
+#AnswerStart
+Answer: d) Separation of powers
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to India, consider the following statements:
+1. There is only one citizenship and one domicile.
+2. A Citizen by birth only can become the Head of State.
+3. A foreigner once granted the citizenship cannot be deprived of it under any circumstance.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2021]
+a) 1 only
+b) 2 only
+c) 1 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q5) What was the exact constitutional status of India on 26th January, 1950 [UPSC CSE Pre 2021]
+a) A Democratic Republic
+b) A Sovereign Democratic Republic
+c) A sovereign Secular Democratic
+d) A sovereign Socialist secular Democratic Republic
+#QuestionEnd
+#AnswerStart
+Answer: b) A Sovereign Democratic Republic
+#AnswerEnd
+
+#QuestionStart
+Q6) Constitutional government means [UPSC CSE Pre 2021]
+a) A representative government of a nation with federal structure
+b) A government whose head enjoys nominal powers
+c) A government who’s Head enjoys real powers
+d) A government limited by the terms of the constitution
+#QuestionEnd
+#AnswerStart
+Answer: d) A government limited by the terms of the constitution
+#AnswerEnd
+
+#QuestionStart
+Q7) The Preamble to the Constitution of India, is [UPSC CSE Pre. 2020]
+a) part of the Constitution but has no legal effect
+b) not a part of the Constitution and has no legal effect either
+c) a part of the Constitution and has the same legal effect as any other part
+d) a part of the Constitution but has no legal effect independently of other parts
+#QuestionEnd
+#AnswerStart
+Answer: d) a part of the Constitution but has no legal effect independently of other parts
+#AnswerEnd
+
+#QuestionStart
+Q8) Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)?
+1. Preamble
+2. Directive Principles of State Policy
+3. Fundamental Duties
+Select the correct answer using the code given below: [UPSC CSE Pre 2020]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q9) In the context of India, which one of the following is the characteristic appropriate for bureaucracy? [UPSC CSE Pre. 2020]
+a) An agency for widening the scope of parliamentary democracy
+b) An agency for strengthening the structure of federalism
+c) An agency for facilitating political stability and economic growth
+d) An Agency for the implementation of public policy
+#QuestionEnd
+#AnswerStart
+Answer: d) An Agency for the implementation of public policy
+#AnswerEnd
+
+#QuestionStart
+Q10) A constitutional government by definition is a [UPSC CSE Pre. 2020]
+a) government by legislature
+b) popular government
+c) multi-party government
+d) limited government
+#QuestionEnd
+#AnswerStart
+Answer: d) limited government
+#AnswerEnd
+
+#QuestionStart
+Q11) The Ninth Schedule was introduced in the Constitution of India during the prime ministership of: [UPSC CSE Pre. 2019]
+a) Jawaharlal Nehru
+b) Lal Bahadur Shastri
+c) Indira Gandhi
+d) Morarji Desai
+#QuestionEnd
+#AnswerStart
+Answer: a) Jawaharlal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q12) Which of the following are regarded as the main features of the “Rule of Law”?
+1. Limitation of Powers
+2. Equality before law
+3. People’s responsibility to the Government
+4. Liberty and civil rights
+Select the correct answer using the code given below: [UPSC CSE Pre. 2018]
+a) 1 and 3 only
+b) 2 and 4 only
+c) 1,2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements:
+1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.
+2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it. "
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2018]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Democracy’s superior virtue lies in the fact that it calls into activity [UPSC CSE Pre. 2017]
+a) the intelligence and character of ordinary men and women.
+b) the methods for strengthening executive leadership.
+c) a superior individual with dynamism and vision.
+d) a band of dedicated party workers.
+#QuestionEnd
+#AnswerStart
+Answer: a) the intelligence and character of ordinary men and women.
+#AnswerEnd
+
+#QuestionStart
+Q15) The mind of the makers of the Constitution of India is reflected in which of the following? [UPSC CSE Pre. 2017]
+a) The Preamble
+b) The Fundamental Rights
+c) The Directive Principles of State Policy
+d) The Fundamental Duties
+#QuestionEnd
+#AnswerStart
+Answer: a) The Preamble
+#AnswerEnd
+
+#QuestionStart
+Q16) Which one of the following objectives is not embodied in the Preamble to the Constitution of India? [UPSC CSE Pre. 2017]
+a) Liberty of thought
+b) Economic liberty
+c) Liberty of expression
+d) Liberty of belief
+#QuestionEnd
+#AnswerStart
+Answer: b) Economic liberty
+#AnswerEnd
+
+#QuestionStart
+Q17) One of the implications of equality in society is the absence of [UPSC CSE Pre. 2017]
+a) Privileges
+b) Restraints
+c) Competition
+d) Ideology
+#QuestionEnd
+#AnswerStart
+Answer: a) Privileges
+#AnswerEnd
+
+#QuestionStart
+Q18) The provisions of the fifth and Sixth Schedule in the Constitution of India are made to- [UPSC CSE Pre 2015]
+a) Protect the interests of Scheduled Tribes
+b) Determine the boundaries between States
+c) Determine the powers, authority and responsible of Panchayats
+d) Protect the interests of all the border States
+#QuestionEnd
+#AnswerStart
+Answer: a) Protect the interests of Scheduled Tribes
+#AnswerEnd
+
+#QuestionStart
+Q19) Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection? [UPSC CSE Pre. 2014]
+a) Second Schedule
+b) Fifth Schedule
+c) Eighth Schedule
+d) Tenth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d) Tenth Schedule
+#AnswerEnd
+
+#QuestionStart
+Q20) The Government enacted, the Panchayat Extension to Scheduled Areas (PESA) Act in 1996. Which one of the following is not identified as its objective? [UPSC CSE Pre. 2013]
+a) To provided self-governance
+b) To recognize traditional rights
+c) To create autonomous regions in tribal areas
+d) To free tribal people from exploitation
+#QuestionEnd
+#AnswerStart
+Answer: c) To create autonomous regions in tribal areas
+#AnswerEnd
+
+#QuestionStart
+Q21) ‘Economic Justice’ as one of the objectives of the Indian Constitutional has been provided in [UPSC CSE Pre. 2013]
+a) the Preamble and the Fundamental Rights
+b) the Preamble and the Directive Principles of State Policy
+c) the Fundamental Rights and the Directive Principles of State Policy
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) the Preamble and the Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q22) In the context of India, which of the following principles is/are, implied institutionally in the parliamentary government?
+1. Members of the Cabinet are Members of the Parliament.
+2. Ministers hold the office till they enjoy confidence in the Parliament.
+3. Cabinet is headed by the Head of the State.
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2013]
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q23) Which of the following provisions of the Constitution of India have a bearing on Education?
+1. Directive Principles of State Policy.
+2. Rural and Urban Local Bodies.
+3. Fifth Schedule
+4. Sixth Schedule
+5. Seventh Schedule
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1 and 2 only
+b) 3, 4 and 5 only
+c) 1, 2 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3, 4 and 5
+#AnswerEnd
+
+#QuestionStart
+Q24) Consider the following statements:
+1. The discussions in the Third Round Table Conference eventually led to the passing of the Government of India Act, 1935.
+2. The Government of India Act, 1935 provided for the establishment of an AllIndia Federation to be based on a Union of the Provinces of British India and the Princely States.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q25) The right of the government to impose taxes and fees is provided in which List of Constitution? [UPSC CSE Pre 2009]
+a) VI Schedule
+b) VII Schedule
+c) IX Schedule
+d) XI Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) VII Schedule
+#AnswerEnd
+
+#QuestionStart
+Q26) Which Schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas in several states? [UPSC CSE Pre 2008]
+a) Third
+b) Fifth
+c) Seventh
+d) Ninth
+#QuestionEnd
+#AnswerStart
+Answer: b) Fifth
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following:
+Assertion (A): According to the Wavell Plan, the member of Hindu and Muslim members in the Executive Council was to be equal.
+Reason (R): Wavell thought that this arrangement would have avoided the partition of India.
+Code: [UPSC CSE Pre 2007]
+a) Both A and R are individually true, and R is the correct explanation of A.
+b) Both A and R are individually true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) A is true, but R is false.
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements:
+1. Article 371-A to 371-1 were inserted in the Constitution of India to meet regional demands of Nagaland, Assam, Manipur, Andhra Pradesh, Sikkim, Mizoram, Arunachal Pradesh and Goa.
+2. Constitution of India and the United States of America envisage a dual policy (The Union and the States) but a single citizenship.
+3. A Naturalized citizen of India can never be deprived of his citizenship.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2005]
+a) 1,2 and 3
+b) 1 and 3 only
+c) 3 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q29) If a new state of the Indian Union is to be created, which one of the following Schedules of the Constitution must be amended? [UPSC CSE Pre 2001]
+a) First
+b) Second
+c) Third
+d) Fourth
+#QuestionEnd
+#AnswerStart
+Answer: a) First
+#AnswerEnd
+
+#QuestionStart
+Q30) In the following quotation:
+“WE THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a (Sovereign, Socialist, Secular, Democratic, Republic) and to secure to all its citizens. JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith, and worship; EQUALITY of status and of opportunity: and to promote among them all; FRATERNITY assuring the dignity of the Individual and the unity and integrity of the Nation. In our Constituent Assembly, this ‘X’ do hereby adopt, enact and give to ourselves this Constitution.”
+‘X’ stands for: [UPSC CSE Pre 1997]
+a) Twenty-sixth day of January 1950
+b) Twenty-sixth day of November 1949
+c) Twenty-sixth day of January 1949
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Twenty-sixth day of November 1949
+#AnswerEnd
+
+#QuestionStart
+Q31) Who gave the idea of a Constituent Assembly firstly for the formation of Constitution for India [UPSC CSE Pre 1996]
+a) Swaraj party in 1934
+b) Congress party in 1936
+c) Muslim League in 1942
+d) All Parties conference in 1946
+#QuestionEnd
+#AnswerStart
+Answer: a) Swaraj party in 1934
+#AnswerEnd
+
+#QuestionStart
+Q32) In the Interim Government in 1946, the Vice-President of the Executive Council was [UPSC CSE Pre 1995]
+a) Jawaharlal Nehru
+b) Dr. S. Radhakrishnan
+c) C. Rajagopalachari
+d) Dr. Rajendra Prasad
+#QuestionEnd
+#AnswerStart
+Answer: a) Jawaharlal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q33) Which of the following statement(s) is/are true in relation to Constituent Assembly?
+1. Assembly was based on adult suffrage.
+2. The assembly was a result of direct election.
+3. Assembly was a multi-party body.
+4. Assembly worked through various committees.
+Choose the correct answer by using the code given below: [UPSC CSE Pre 1993]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q34) Which of the following characteristics is common between the Federal system of India and America? [UPSC CSE Pre 1993]
+a) A Single Citizenship
+b) Three lists in the Constitution
+c) Dual Judicial System
+d) A Federal Supreme Court for Interpretation of the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: d) A Federal Supreme Court for Interpretation of the Constitution
+#AnswerEnd

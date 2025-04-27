@@ -1,0 +1,2472 @@
+#QuestionStart
+Q28) From which archaeological site of Indus Valley Civilization, the figures or models of boat are found? [UPPCS (Pre) 2022]
+a) Harappa and Kotdiji
+b) Kalibangan and Ropar
+c) Dhaulabira and Bhagatray
+d) Mohenjodaro and Lothal
+#QuestionEnd
+#AnswerStart
+Answer: d) Mohenjodaro and Lothal
+#AnswerEnd
+
+#QuestionStart
+Q29) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2022]
+| List-I (Officer) | List-II |
+|---|---|
+| A. Talar | 1. Guard of Octroi |
+| B. Pattakola | 2. Officer of cases of Dacoity |
+| C. Sahsadhipati | 3. Officer of Night Guards |
+| D. Baladhip | 4. Village Tax Collector |
+Code:
+a) A-2, B-1, C-4, D-3
+b) A-3, B-4, C-2, D-1
+c) A-1, B-2, C-3, D-4
+d) A-4, B-3, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q30) In which state of India is the Harappan Civilization site Mandi situated? [U.P.P.C.S. (Pre.) 2021]
+a) Gujarat
+b) Haryana
+c) Rajasthan
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: d) Uttar Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q31) The official ‘Agronomaf during Mauryan age was related to which of the following field? [U.P.P.C.S. (Pre.) 2020]
+a) Weight and measurement
+b) Administrative management
+c) Construction of roads
+d) Revenue management
+#QuestionEnd
+#AnswerStart
+Answer: c) Construction of roads
+#AnswerEnd
+
+#QuestionStart
+Q32) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2020]
+| List-I (Harappa Site) | List-II (UT/State of India) |
+|---|---|
+| A. Balu | 1. Uttar Pradesh |
+| B. Manda | 2. Jammu and Kashmir |
+| C. Padri | 3. Haryana |
+| D. Hulas | 4. Gujarat |
+Code:
+a) A-3, B-2, C-1, D-4
+b) A-2, B-3, C-4, D-1
+c) A-2, B-4, C-3, D-1
+d) A-3, B-2, C-4, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-2, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q33) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2020]
+| List-I | List-II |
+|---|---|
+| A. Indus Valley Civilization | 1. Pastoral |
+| B. Later Vedic Society | 2. Land Lordism |
+| C. Rigvedic Society | 3. Agrarian |
+| D. Medieval Period | 4. Urban |
+Code:
+a) A-4, B-2, C-3, D-1
+b) A-2, B-1, C-4, D-3
+c) A-3, B-4, C-1, D-2
+d) A-4, B-3, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q34) Which of the following Indian Archaeologists first visited ‘Bhimbetka Caves’ and discovered prehistoric significance of its rock paintings? [U.P.P.C.S. (Pre) 2020]
+a) Madho Swaroop Vatsa
+b) H.D. Sankalia
+c) V.S. Wakankar
+d) V.N. Mishra
+#QuestionEnd
+#AnswerStart
+Answer: c) V.S. Wakankar
+#AnswerEnd
+
+#QuestionStart
+Q35) Which among the following sites provides evidence of domestication of animals in the Mesolithic period? [U.P.P.C.S. (Pre) 2018]
+a) Odai
+b) Bori
+c) Bagor
+d) Lakhnia
+#QuestionEnd
+#AnswerStart
+Answer: c) Bagor
+#AnswerEnd
+
+#QuestionStart
+Q36) Which of the following is a Samhita of Shukla Yajurveda? [U.P.P.C.S. (Pre) 2018]
+a) Vajasanami
+b) Maitrayani
+c) Taittiriya
+d) Kathak
+#QuestionEnd
+#AnswerStart
+Answer: a) Vajasanami
+#AnswerEnd
+
+#QuestionStart
+Q37) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2017]
+| List-I (Tirthankara) | List-II (Cognizance) |
+|---|---|
+| A. Adinatha | 1. Bull |
+| B. Mallinatha | 2. Horse |
+| C. Parshavanatha | 3. Snake |
+| D. Sambhavnatha | 4. Water Jar |
+Code:
+a) A-1, B-4, C-3, D-2
+b) A-1, B-3, C-2, D-4
+c) A-3, B-1, C-4, D-2
+d) A-3, B-1, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-1, B-4, C-3, D-2
+#AnswerEnd
+
+#QuestionStart
+Q38) Match List-I with List-II and select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2017]
+| List-I (Harappan Site) | List-II |
+|---|---|
+| A. Harappa | 1. CemetryR-37 |
+| B. Lothal | 2. Dockyard |
+| C. Kalibangan | 3. Dancing Girl Statue |
+| D. Mohenjo-Daro | 4. Furrowed land |
+Codes:
+a) A-1, B-2, C-3, D-4
+b) A-2, B-1, C-4, D-3
+c) A-3, B-4, C-1, D-2
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: d) A-1, B-2, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q39) Study the following statements about the Vedic God Indra and select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2017]
+1. Was the God of thunder.
+2. Punished the sinners.
+3. Was the guardian of the moral order.
+4. Was the God of rain.
+Codes:
+a) 1 and 2 are correct
+b) 1 and 3 are correct
+c) 2 and 4 are correct
+d) 1 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4 are correct
+#AnswerEnd
+
+#QuestionStart
+Q40) The name ‘Aghanya’ mentioned in many passages of the Rig Veda refers to: [U.P.P.C.S. (Pre) 2017]
+a) Priest
+b) Women
+c) Cows
+d) Brahmanas
+#QuestionEnd
+#AnswerStart
+Answer: c) Cows
+#AnswerEnd
+
+#QuestionStart
+Q41) Match list-I with list-II and select the correct answer using the codes given below the lists: [UP RO/ARO (Pre) 2017]
+| List-I | List-II |
+|---|---|
+| A. Lakulisa | 1. Ajivaka |
+| B. Nagarjuna | 2. Sunyavada |
+| C. Bhadrabahu | 3. Pasupat |
+| D. Gosala | 4. Jain |
+Code:
+a) A-2, B-3, C-4, D-1
+b) A-3, B-2, C-4, D-1
+c) A-1, B-2, C-3, D-4
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-2, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q42) Three human skeletons in a single grave were recovered at- [U.P.P.C.S. (Pre) 2016]
+a) Sarai Nahar Rai
+b) Damdama
+c) Mahadaha
+d) Langhnaj
+#QuestionEnd
+#AnswerStart
+Answer: b) Damdama
+#AnswerEnd
+
+#QuestionStart
+Q43) From which rock shelter of Vindhyas, a maximum number of human skeletons have been found? [U.P.P.C.S. (Pre) 2016]
+a) Morahana Pahar
+b) Ghagharia
+c) Baghahi Khor
+d) Lekhahia
+#QuestionEnd
+#AnswerStart
+Answer: d) Lekhahia
+#AnswerEnd
+
+#QuestionStart
+Q44) Ashokaram monastery was situated at- [U.P.P.C.S. (Mains) 2015]
+a) Vaishali
+b) Pataliputra
+c) Kaushambi
+d) Shravasti
+#QuestionEnd
+#AnswerStart
+Answer: b) Pataliputra
+#AnswerEnd
+
+#QuestionStart
+Q45) Who one of the following had not come to India with Alexander? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) Nearchus
+b) Onesicritus
+c) Deimachus
+d) Aristobulus
+#QuestionEnd
+#AnswerStart
+Answer: c) Deimachus
+#AnswerEnd
+
+#QuestionStart
+Q46) In the early Rigvedic period, what was considered to be the most valuable property? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Land
+b) Cow
+c) Women
+d) Water
+#QuestionEnd
+#AnswerStart
+Answer: b) Cow
+#AnswerEnd
+
+#QuestionStart
+Q47) Dadheri is a late Harappan site of- [U.P.P.C.S. (Mains) 2014]
+a) Jammu
+b) Punjab
+c) Haryana
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Punjab
+#AnswerEnd
+
+#QuestionStart
+Q48) Rig-vedic religion was- [U.P.P.C.S. (Mains) 2014]
+a) Polytheistic
+b) Monotheistic
+c) Monistic
+d) Libertarian
+#QuestionEnd
+#AnswerStart
+Answer: a) Polytheistic
+#AnswerEnd
+
+#QuestionStart
+Q49) Sir Edwin Arnold book «The Light of Asia» is based on- [U.P.P.C.S. (Mains) 2014]
+a) Divavadana
+b) Lalitvistar
+c) Suttapitak
+d) Abhidhammapitak
+#QuestionEnd
+#AnswerStart
+Answer: b) Lalitvistar
+#AnswerEnd
+
+#QuestionStart
+Q50) The social status assigned to the foreigners in Indian society by Manu was of the- [U.P.P.S.C. (R.I.) 2014]
+a) Kshatriyas
+b) Fallen Kshatriyas
+c) Vaishyas
+d) Sudras
+#QuestionEnd
+#AnswerStart
+Answer: b) Fallen Kshatriyas
+#AnswerEnd
+
+#QuestionStart
+Q51) Who among the following Vedic deity is believed to be their priest? [U.P.P.C.S. (Main) 2013]
+a) Agni
+b) Brihaspati
+c) Dyans
+d) Indra
+#QuestionEnd
+#AnswerStart
+Answer: b) Brihaspati
+#AnswerEnd
+
+#QuestionStart
+Q52) The ‘Mantra’ famous with the name of ‘Gayatri Mantra’ found in which of the following scriptures- [U.P. P.C.S. (Pre) 2013]
+a) Bhagwat Gita
+b) Atharvaveda
+c) Rig Veda
+d) Manusmriti
+#QuestionEnd
+#AnswerStart
+Answer: c) Rig Veda
+#AnswerEnd
+
+#QuestionStart
+Q53) Who was the last person to get enlightenment from Gautam Buddha? [U.P. P.C.S. (Pre) 2013]
+a) Anand
+b) Sariputta
+c) Mogglan
+d) Subhadda
+#QuestionEnd
+#AnswerStart
+Answer: d) Subhadda
+#AnswerEnd
+
+#QuestionStart
+Q54) The women of which Indian republic or kingdom had taken up arms against Alexander after a large number of its soldiers had been killed or wounded in the battlefield? [U.P.P.C.S. (Mains) 2013]
+a) Abhisara
+b) Glausai
+c) Katha
+d) Massaga
+#QuestionEnd
+#AnswerStart
+Answer: d) Massaga
+#AnswerEnd
+
+#QuestionStart
+Q55) ‘Sita’ in Mauryan period means: [U.P.P.C.S. (Pre) 2013]
+a) A goddess
+b) A religious sect
+c) Revenue from Crown land
+d) Barren land
+#QuestionEnd
+#AnswerStart
+Answer: c) Revenue from Crown land
+#AnswerEnd
+
+#QuestionStart
+Q56) The Arthashastra of Kautilya is a- [U.P.P.C.S. (Mains) 2012]
+a) Play about Chandragupta Maurya
+b) Biography
+c) History of Chandragupta Maurya
+d) Book on Principles of Government
+#QuestionEnd
+#AnswerStart
+Answer: d) Book on Principles of Government
+#AnswerEnd
+
+#QuestionStart
+Q57) The Harappan city represented by the archaeological site of Lothal was situated on the river- [U.P.P.C.S. (Mains) 2012]
+a) Narmada
+b) Mahi
+c) Bhogva
+d) Bhima
+#QuestionEnd
+#AnswerStart
+Answer: c) Bhogva
+#AnswerEnd
+
+#QuestionStart
+Q58) Match list-I with list-II and select the correct answer using the codes given below the lists: [U PPCS (Pre) 2012]
+| List-I (Vedic Rivers) | List-II (Modern Name) |
+|---|---|
+| A. Kubha | 1. Gandak |
+| B. Purushni | 2. Kabul |
+| C. Sadaneera | 3. Ravi |
+| D. Shutudri | 4. Sutlej |
+Code:
+a) A-1, B-2, C-4, D-3
+b) A-2, B-3, C-1, D-4
+c) A-3, B-4, C-2, D-1
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q59) Turamaya, a contemporary of Ashoka was the ruler of- [U.P.P.C.S. (Pre) 2012]
+a) Egypt
+b) Corinth
+c) Macedonia
+d) Syria
+#QuestionEnd
+#AnswerStart
+Answer: a) Egypt
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following Mauryan officers was in charge of weights and measures? [U.P.P.C.S. (Mains) 2012]
+a) Pautavadhyaksha
+b) Panyadhyaksha
+c) Sitadhyaksha
+d) Sunadhyaksha
+#QuestionEnd
+#AnswerStart
+Answer: a) Pautavadhyaksha
+#AnswerEnd
+
+#QuestionStart
+Q61) Who among the following is regarded as War-God in the Rig Veda? [U.P.P.C.S. (Mains) 2011]
+a) Agni
+b) Indra
+c) Surya
+d) Varuna
+#QuestionEnd
+#AnswerStart
+Answer: b) Indra
+#AnswerEnd
+
+#QuestionStart
+Q62) The evidence of pit dwelling has been obtained from- [U.P.P.C.S. (Mains) 2011]
+a) Burzahom
+b) Koldihwa
+c) Brahmagiri
+d) Sanganakallu
+#QuestionEnd
+#AnswerStart
+Answer: a) Burzahom
+#AnswerEnd
+
+#QuestionStart
+Q63) The inscription of which one of the following kings gives the information that Sakyamuni Buddha was born in Lumbini? [U.P.P.C.S. (Mains) 2011]
+a) Ashoka
+b) Kanishka
+c) Harsha
+d) Dharmapala
+#QuestionEnd
+#AnswerStart
+Answer: a) Ashoka
+#AnswerEnd
+
+#QuestionStart
+Q64) The three-age system, divided into stone, bronze and iron from the collection of Copenhagen Museum was coined by- [U.P.P.C.S. (Pre) 2010]
+a) Thomson
+b) Lubbock
+c) Taylor
+d) Childe
+#QuestionEnd
+#AnswerStart
+Answer: a) Thomson
+#AnswerEnd
+
+#QuestionStart
+Q65) The earliest evidence of agriculture in the Indian Subcontinent has been obtained from- [U.P.P.C.S. (Mains) 2010]
+a) Brahmagiri
+b) Burzahom
+c) Koldihwa
+d) Mehrgarh
+#QuestionEnd
+#AnswerStart
+Answer: d) Mehrgarh
+#AnswerEnd
+
+#QuestionStart
+Q66) ‘Trayi’ is a name for- [U.P.P.S.C. (GIC) 2010]
+a) Three Vedas
+b) Dharma, Sangha and Buddha
+c) Three Gods in Hindu Pantheon
+d) Three seasons
+#QuestionEnd
+#AnswerStart
+Answer: a) Three Vedas
+#AnswerEnd
+
+#QuestionStart
+Q67) Vedic River Askini is identified with which one of the following rivers? [U.P. P.S.C. (GIC) 2010]
+a) Beas
+b) Ravi
+c) Chenab
+d) Jhelum
+#QuestionEnd
+#AnswerStart
+Answer: c) Chenab
+#AnswerEnd
+
+#QuestionStart
+Q68) Which of the following rivers mentioned in the Rig Veda indicates the relations of Aryans with Afghanistan? [U.P.P.C.S. (Pre) 2010]
+a) Askini
+b) Parushni
+c) Kubha, Kramu
+d) Vipasha, Shutudri
+#QuestionEnd
+#AnswerStart
+Answer: c) Kubha, Kramu
+#AnswerEnd
+
+#QuestionStart
+Q69) The first Buddhist Council was held during the reign of- [U.P.P.C.S. (Mains) 2010]
+a) Aniruddha
+b) Ajatshatru
+c) Bimbisara
+d) Udayabhadra
+#QuestionEnd
+#AnswerStart
+Answer: b) Ajatshatru
+#AnswerEnd
+
+#QuestionStart
+Q70) In which state, Navdatoli is located? [U.P.P.C.S. (Mains) 2009]
+a) Gujarat
+b) Maharashtra
+c) Chhattisgarh
+d) Madhya Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: d) Madhya Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q71) Ash mound is associated with the Neolithic site at- [U.P.P.C.S. (Mains) 2009]
+a) Budihal
+b) Sangana Kallu
+c) Koldihwa
+d) Brahmagiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Sangana Kallu
+#AnswerEnd
+
+#QuestionStart
+Q72) Indus Valley Civilization was placed on the banks of the river, they were? [U.P.P.C.S. (Pre) 2009]
+1. Sindhu
+2. Chenab
+3. Jhelum
+4. Ganga
+Choose the correct answer from the code given below.
+a) 1 and 2
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q73) Which one of the following animals is not depicted on the Harappan seal? [U.P.P.C.S. (Spl) (Mains) 2009]
+a) Bull
+b) Elephant
+c) Horse
+d) Sheep
+#QuestionEnd
+#AnswerStart
+Answer: c) Horse
+#AnswerEnd
+
+#QuestionStart
+Q74) Give the name of the tribe which is not related to the ‘Panchjana’ of the Rig Veda Aryans: [U.P.P.C.S. (Mains) 2009]
+a) Yadu
+b) Puru
+c) Turvasa
+d) Kikat
+#QuestionEnd
+#AnswerStart
+Answer: d) Kikat
+#AnswerEnd
+
+#QuestionStart
+Q75) In which of the Vedas, Sabha and Samiti are called as two daughters of Prajapati? [U.P.P.C.S. (Mains) 2009]
+a) Rig Veda
+b) Samveda
+c) Yajurveda
+d) Atharvaveda
+#QuestionEnd
+#AnswerStart
+Answer: d) Atharvaveda
+#AnswerEnd
+
+#QuestionStart
+Q76) Which of the following sources gives a detailed account of the city administration of the Mauryas? [U.P.P.C.S. (Mains) 2009]
+a) Kautilya’s Arthashastra
+b) Megasthenes’ Indica
+c) Mudrarakashasa of Vishakha Datta
+d) Inscription of Ashoka
+#QuestionEnd
+#AnswerStart
+Answer: b) Megasthenes’ Indica
+#AnswerEnd
+
+#QuestionStart
+Q77) Bulandibagh was ancient site of: [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Kapilavastu
+b) Pataliputra
+c) Vaishali
+d) Varanasi
+#QuestionEnd
+#AnswerStart
+Answer: b) Pataliputra
+#AnswerEnd
+
+#QuestionStart
+Q78) In Mesolithic context, evidence of animal domestication has been found at: [U.P.P.C.S. (Spl) (Pre) 2008]
+a) Langhnaj
+b) Birbhanpur
+c) Adamgarh
+d) Chopani Mando
+#QuestionEnd
+#AnswerStart
+Answer: c) Adamgarh
+#AnswerEnd
+
+#QuestionStart
+Q79) Name the site which has revealed the earliest evidence of settled life? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Dholavira
+b) Kile Gul Mohammad
+c) Kalibangan
+d) Mehrgarh
+#QuestionEnd
+#AnswerStart
+Answer: d) Mehrgarh
+#AnswerEnd
+
+#QuestionStart
+Q80) The cultural remains from Stone Age to Harappan Civilization have been obtained from which one of the following ancient sites? [U.P.P.C.S. (Pre) 2008]
+a) Amri
+b) Mehrgarh
+c) Kotdiji
+d) Kalibangan
+#QuestionEnd
+#AnswerStart
+Answer: b) Mehrgarh
+#AnswerEnd
+
+#QuestionStart
+Q81) Match List-I with List-II and select the correct answer by using the codes given below the lists: [U.P.P.C.S. (Spl) (Mains) 2008]
+| List-I (Vedic River) | List-II (Modern Name) |
+|---|---|
+| A. Harappa | 1. Godavari |
+| B. Hastinapur | 2. Ravi |
+| C. Nagarjuna Konda | 3. Ganga |
+| D. Paithan | 4. Krishna |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-2, B-3, C-4, D-1
+c) A-4, B-3, C-2, D-1
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q82) Which of the following river among the following referred as ‘Matetama’, ‘Devitama’ and ‘Naditama’ in the Rig Veda? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Sindhu
+b) Saraswati
+c) Vitasta
+d) Yamuna
+#QuestionEnd
+#AnswerStart
+Answer: b) Saraswati
+#AnswerEnd
+
+#QuestionStart
+Q83) What was “Sarthwah”? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Brokers
+b) Convoy of Merchants
+c) Moneylender
+d) Pilgrims
+#QuestionEnd
+#AnswerStart
+Answer: b) Convoy of Merchants
+#AnswerEnd
+
+#QuestionStart
+Q84) Gautam Buddha’s Mother was from which clan? [U.P.P.C.S. (Pre) 2008]
+a) Shakya clan
+b) Maya clan
+c) Licchavis clan
+d) Koliyan clan
+#QuestionEnd
+#AnswerStart
+Answer: d) Koliyan clan
+#AnswerEnd
+
+#QuestionStart
+Q85) Svetambara Agama was finally edited at the Jain Council of- [U.P.P.C.S. (Mains) 2008]
+a) Vaishali
+b) Balabhi
+c) Pawa
+d) Pataliputra
+#QuestionEnd
+#AnswerStart
+Answer: d) Pataliputra
+#AnswerEnd
+
+#QuestionStart
+Q86) Prabhasgiri is a pilgrim spot of: [U.P.P.C.S. (Spl) (Pre) 2008]
+a) Buddhists
+b) Jains
+c) Saivites
+d) Vaishnavites
+#QuestionEnd
+#AnswerStart
+Answer: b) Jains
+#AnswerEnd
+
+#QuestionStart
+Q87) In the post-Vedic period which was considered as the axis of Aryan Culture- [U.P.P.C.S. (Mains) 2007]
+a) Anga, Magadha
+b) Kosai, Videha
+c) Kuru, Panchala
+d) Matsya, Shurasena
+#QuestionEnd
+#AnswerStart
+Answer: c) Kuru, Panchala
+#AnswerEnd
+
+#QuestionStart
+Q88) According to the excavated evidence, the domestication of animal began in- [U.P.P.C.S. (Mains) 2006]
+a) Lower Palaeolithic period
+b) Middle Palaeolithic period
+c) Upper Palaeolithic period
+d) Mesolithic period
+#QuestionEnd
+#AnswerStart
+Answer: d) Mesolithic period
+#AnswerEnd
+
+#QuestionStart
+Q89) Which one of the following is not correctly matched? [U.P.P.C.S. (Mains) 2006]
+a) Harappa - Daya Ram Sahni
+b) Lothal - S.R. Rao
+c) Surkotada - J.P. Joshi
+d) Dholavira - B.K. Thapar
+#QuestionEnd
+#AnswerStart
+Answer: d) Dholavira - B.K. Thapar
+#AnswerEnd
+
+#QuestionStart
+Q90) The first archaeologist who excavated Harappa, but could not recognize its significance, was: [U.P.P.C.S. (Mains) 2006]
+a) A. Cunningham
+b) Sir John Marshall
+c) Mortimer Wheeler
+d) George F. Dales
+#QuestionEnd
+#AnswerStart
+Answer: a) A. Cunningham
+#AnswerEnd
+
+#QuestionStart
+Q91) From where the evidence of rock-cut architecture was found, with reference to Harappa civilization? [U.P.P.C.S. (Pre) 2006]
+a) Kalibangan
+b) Dholavira
+c) Kot Diji
+d) Amri
+#QuestionEnd
+#AnswerStart
+Answer: b) Dholavira
+#AnswerEnd
+
+#QuestionStart
+Q92) For clothing, cotton cultivation was first introduced in- [UPPCS (Pre) 2006]
+a) Egypt
+b) Mesopotamia
+c) Central America
+d) India
+#QuestionEnd
+#AnswerStart
+Answer: d) India
+#AnswerEnd
+
+#QuestionStart
+Q93) In which one of the following languages was the earliest Jain literature compiled? [U.P.P.C.S. (Mains) 2006]
+a) Ardh-Magadhi
+b) Paali
+c) Prakrit
+d) Sanskrit
+#QuestionEnd
+#AnswerStart
+Answer: a) Ardh-Magadhi
+#AnswerEnd
+
+#QuestionStart
+Q94) The cultivation of cereals first started in- [U.P.P.C.S. (Mains) 2005]
+a) Neolithic Age
+b) Mesolithic Age
+c) Palaeolithic Age
+d) Proto-Historic Age
+#QuestionEnd
+#AnswerStart
+Answer: a) Neolithic Age
+#AnswerEnd
+
+#QuestionStart
+Q95) Megaliths have been identified as- [U.P.P.C.S. (Mains) 2005]
+a) Caves for hermits
+b) Burial sites
+c) Temple sites
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Burial sites
+#AnswerEnd
+
+#QuestionStart
+Q96) The word Gotra occurs for the first time in- [U.P.P.C.S. (Mains) 2005]
+a) Atharvaveda
+b) Rig Veda
+c) Samaveda
+d) Yajurveda
+#QuestionEnd
+#AnswerStart
+Answer: b) Rig Veda
+#AnswerEnd
+
+#QuestionStart
+Q97) The Indus Valley culture was different from the Vedic Civilization because [U.P.P.C.S. (Spl) (Mains) 2004]
+a) It had the amenities of developed city life
+b) It has a pictographic script
+c) It lacked knowledge of iron and defensive arrow
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q98) The largest site of Harappa in India is- [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Alamgirpur
+b) Kalibangan
+c) Lothal
+d) Rakhigarhi
+#QuestionEnd
+#AnswerStart
+Answer: d) Rakhigarhi
+#AnswerEnd
+
+#QuestionStart
+Q99) Which of the following civilizations flourished on the bank of River Nile? [U.P.P.C.S. (Mains) 2004]
+a) Roman Civilization
+b) Indus Valley Civilization
+c) Greek Civilization
+d) Egyptian Civilization
+#QuestionEnd
+#AnswerStart
+Answer: d) Egyptian Civilization
+#AnswerEnd
+
+#QuestionStart
+Q100) Upanishads are books on- [U.P.P.C.S. (Mains) 2004]
+a) Religion
+b) Yoga
+c) Law
+d) Philosophy
+#QuestionEnd
+#AnswerStart
+Answer: d) Philosophy
+#AnswerEnd
+
+#QuestionStart
+Q101) Fundamental or basic script of the ‘Rig Veda’ was- [U.P.P.C.S. (Spl) (Pre) 2004]
+a) Devnagri
+b) Kharoshthi
+c) Pali
+d) Brahmi
+#QuestionEnd
+#AnswerStart
+Answer: d) Brahmi
+#AnswerEnd
+
+#QuestionStart
+Q102) Consider the following statements: [U.P.P.C.S. (Spl) (Mains) 2004]
+Assertion (A): The Mauryan kings did not bestow land-grants on religious basis.
+Reason (R): The peasants revolted against land grants.
+Select the correct answer using the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q103) Which among of the following prohibits remarriage? [U.P.P.C.S. (Pre) 2003]
+a) Jataka
+b) Manusmiriti
+c) Yagyavalkya
+d) Arthshastra
+#QuestionEnd
+#AnswerStart
+Answer: b) Manusmiriti
+#AnswerEnd
+
+#QuestionStart
+Q104) Match list-I with list-H and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2003]
+| List-I | List-II |
+|---|---|
+| A. Rig Veda | 1. Musical hymns |
+| B. Yajurveda | 2. Hymns and rituals |
+| C. Samaveda | 3. Charms and spells |
+| D. Atharvaveda | 4. Hymns and prayers |
+Code:
+a) A-4, B-2, C-1, D-3
+b) A-3, B-2, C-4, D-1
+c) A-4, B-1, C-2, D-3
+d) A-2, B-3, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-2, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q105) Alexander’s success in India was due to the following: [U.P.P.C.S. (Pre) 2003]
+1. There was no central power in India at that time
+2. He had a superior army
+3. He was helped by the traitorous Indian rulers
+4. He was a good administrator
+Select the correct answer from the following code:
+a) 1 and 2
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q106) The largest number of Rigvedic hymns are devoted to- [U.P.P.C.S. (Mains) 2002]
+a) Agni
+b) Indra
+c) Rudra
+d) Vishnu
+#QuestionEnd
+#AnswerStart
+Answer: b) Indra
+#AnswerEnd
+
+#QuestionStart
+Q107) Kautilya was prime minister of- [U.P.P.C.S. (Pre) 2002]
+a) Chandragupta Vikramaditya
+b) Ashoka
+c) Chandragupta Maurya
+d) King Janak
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandragupta Maurya
+#AnswerEnd
+
+#QuestionStart
+Q108) First Buddhist Conference after the death of Buddha was presided over by: [U.P.P.C.S. (Pre) 2000]
+a) Mahakashyapa
+b) Dharmasen
+c) Ajatashatru
+d) Nagasen
+#QuestionEnd
+#AnswerStart
+Answer: a) Mahakashyapa
+#AnswerEnd
+
+#QuestionStart
+Q109) Karmapa Lama belongs to which of the following sects of Tibetan Buddhism? [U.P.P.C.S. (Pre) 2000]
+a) Gelugpa
+b) Kagyupa
+c) Sakyapa
+d) Lingamapa
+#QuestionEnd
+#AnswerStart
+Answer: b) Kagyupa
+#AnswerEnd
+
+#QuestionStart
+Q110) King Asvapati of the Upanishadic period was the ruler of: [U.P.P.C.S. (Pre) 1999]
+a) Kashi
+b) Kekaya
+c) Panchala
+d) Videha
+#QuestionEnd
+#AnswerStart
+Answer: b) Kekaya
+#AnswerEnd
+
+#QuestionStart
+Q111) Who among the following wanted to become the leader of the Sangha even during the lifetime of Buddha? [U.P.P.C.S. (Pre) 1999]
+a) Devadatta
+b) Mahakassapa
+c) Upali
+d) Ananda
+#QuestionEnd
+#AnswerStart
+Answer: a) Devadatta
+#AnswerEnd
+
+#QuestionStart
+Q112) Consider the following statements: [U.P.P.C.S. (Pre) 1998]
+Assertion (A): After campaigning for nearly two years, Alexander, the Great, left India in 325 B.C.
+Reason (R): He was defeated by Chandra Gupta Maurya.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q113) The earliest evidence of the use of iron in India has been discovered from: [U.P.P.C.S. (Pre) 1998]
+a) Taxila
+b) Atranjikhera
+c) Kaushambi
+d) Hastinapur
+#QuestionEnd
+#AnswerStart
+Answer: b) Atranjikhera
+#AnswerEnd
+
+#QuestionStart
+Q114) The first cereal used by man was: [U.P.P.C.S. (Pre) 1997]
+a) Wheat
+b) Rice
+c) Barley
+d) Sorghum
+#QuestionEnd
+#AnswerStart
+Answer: c) Barley
+#AnswerEnd
+
+#QuestionStart
+Q115) In the Chalcolithic period people of Maharashtra buried their dead under the floor of their houses in the following orientation: [U.P.P.C.S. (Pre) 1997]
+a) North to South position
+b) East to West position
+c) South to North position
+d) West to East position
+#QuestionEnd
+#AnswerStart
+Answer: a) North to South position
+#AnswerEnd
+
+#QuestionStart
+Q116) The compilation of which among the following is based upon the Rig Veda? [U.P.P.C.S. (Pre) 1997]
+a) Yajurveda
+b) Samaveda
+c) Atharvaveda
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Samaveda
+#AnswerEnd
+
+#QuestionStart
+Q117) Indus Civilization existed in- [U.P.P.C.S. (Pre) 1996]
+a) Prehistoric age
+b) Proto-historic age
+c) Historic age
+d) Post-Historic age
+#QuestionEnd
+#AnswerStart
+Answer: b) Proto-historic age
+#AnswerEnd
+
+#QuestionStart
+Q118) The source of knowledge about Harappan culture is: [U.P.P.C.S. (Pre) 1996]
+a) Rock edicts
+b) Writing in terracotta seals
+c) Archaeological excavations
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Archaeological excavations
+#AnswerEnd
+
+#QuestionStart
+Q119) Which of the following is not correctly matched- [U.P.P.C.S. (Pre) 1996]
+a) Alamgirpur - Uttar Pradesh
+b) Lothal - Gujarat
+c) Kalibangan - Haryana
+d) Ropar - Punjab
+#QuestionEnd
+#AnswerStart
+Answer: c) Kalibangan - Haryana
+#AnswerEnd
+
+#QuestionStart
+Q120) Boghaz-Koi is important because: [U.P.P.C.S. (Pre) 1996]
+a) It was an important trading centre between Central Asia and Tibet
+b) Inscriptions were found which mentioned the names of Vedic Gods and Goddesses
+c) Original Texts of the Vedas were composed here
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Inscriptions were found which mentioned the names of Vedic Gods and Goddesses
+#AnswerEnd
+
+#QuestionStart
+Q121) Who among the following wrote on the original homeland of the Aryans? [U.P.P.C.S. (Pre) 1996]
+a) Sankaracharya
+b) Annie Besant
+c) Vivekanand
+d) Bal Gangadhar Tilak
+#QuestionEnd
+#AnswerStart
+Answer: d) Bal Gangadhar Tilak
+#AnswerEnd
+
+#QuestionStart
+Q122) Rajjuka’s were: [U.P.P.C.S. (Pre) 1996]
+a) Traders in the Chola Kingdom
+b) Officers in the Mauryan administration
+c) Feudal Lords in the Gupta empire
+d) Soldiers in the Saka army
+#QuestionEnd
+#AnswerStart
+Answer: b) Officers in the Mauryan administration
+#AnswerEnd
+
+#QuestionStart
+Q123) ‘Bhaga’ and ‘Bali’ were: [U.P.P.C.S. (Pre) 1996]
+a) Military Departments
+b) Sources of Revenue
+c) Religious Ceremonies
+d) Administrative Divisions
+#QuestionEnd
+#AnswerStart
+Answer: b) Sources of Revenue
+#AnswerEnd
+
+#QuestionStart
+Q124) ‘Ajivaka’ sect was founded by: [U.P.P.C.S. (Pre) 1996]
+a) Anand
+b) Rahulabhadra
+c) Makkhali Gosala
+d) Upali
+#QuestionEnd
+#AnswerStart
+Answer: c) Makkhali Gosala
+#AnswerEnd
+
+#QuestionStart
+Q125) Which site of Indus Valley is now in Pakistan? [U.P.P.C.S. (Spl.) (Pre) 1994]
+a) Kalibangan
+b) Harappa
+c) Lothal
+d) Alamgirpur
+#QuestionEnd
+#AnswerStart
+Answer: b) Harappa
+#AnswerEnd
+
+#QuestionStart
+Q126) ‘Ayurveda’ that is ‘Science of Life’ appeared first in: [U.P.P.C.S. (Pre) 1994]
+a) Aranyaka
+b) Samveda
+c) Yajurveda
+d) Atharvaveda
+#QuestionEnd
+#AnswerStart
+Answer: d) Atharvaveda
+#AnswerEnd
+
+#QuestionStart
+Q127) Who established ‘Rajdharma’ on triplex bases of longanimity, liberty and compassion? [U.P.P.C.S. (Pre) 1993]
+a) Ashoka
+b) Akbar
+c) Ranjit Singh
+d) Shivaji
+#QuestionEnd
+#AnswerStart
+Answer: a) Ashoka
+#AnswerEnd
+
+#QuestionStart
+Q128) In the Rigvedic period, people believed mainly in- [U.P.P.C.S. (Pre) 1993]
+a) Idol worship
+b) One God belief
+c) Goddess worship
+d) Sacrifice and rituals
+#QuestionEnd
+#AnswerStart
+Answer: d) Sacrifice and rituals
+#AnswerEnd
+
+#QuestionStart
+Q129) In the ancient period chief-livelihood source of the Aryans was- [U.P.P.C.S. (Pre) 1993]
+a) Agriculture
+b) Hunting
+c) Artcraft
+d) Business
+#QuestionEnd
+#AnswerStart
+Answer: a) Agriculture
+#AnswerEnd
+
+#QuestionStart
+Q130) The beginning of idol worship is to be considered in- [U.P.P.C.S. (Pre) 1992]
+a) Pre-Aryan
+b) Vedic period
+c) Mauryan Period
+d) Kushan Period
+#QuestionEnd
+#AnswerStart
+Answer: a) Pre-Aryan
+#AnswerEnd
+
+#QuestionStart
+Q131) The Great Bath was found from the Indus Valley civilization at- [U.P.P.C.S. (Pre) 1992]
+a) Mohenjodaro
+b) Harappa
+c) Lothal
+d) Kalibangan
+#QuestionEnd
+#AnswerStart
+Answer: a) Mohenjodaro
+#AnswerEnd
+
+#QuestionStart
+Q132) The standing statue of Gautam Buddha was built in which period? [U.P.P.C.S. (Pre) 1992]
+a) Gupta period
+b) Kushana Period
+c) Maurya Period
+d) Guptotar Period
+#QuestionEnd
+#AnswerStart
+Answer: b) Kushana Period
+#AnswerEnd
+
+#QuestionStart
+Q133) The important reason to keep Indus-Valley civilization before Aryan civilization is- [U.P.P.C.S. (Pre) 1990]
+a) Script
+b) Town Planning
+c) Copper
+d) Potteries
+#QuestionEnd
+#AnswerStart
+Answer: d) Potteries
+#AnswerEnd
+
+#QuestionStart
+Q134) Deimachus came to India during the reign of- [U.P. Lower Sub. (Pre) 2015]
+a) Chandragupta Maurya
+b) Bindusara
+c) Ashoka
+d) Kanishka
+#QuestionEnd
+#AnswerStart
+Answer: b) Bindusara
+#AnswerEnd
+
+#QuestionStart
+Q135) The excavation at Chanhudaro was directed by- [U.P. Lower Sub. (Pre) 2015]
+a) J. H. Mackay
+b) Sir John Marshall
+c) R. E. M. Wheeler
+d) Sir Aurel Stein
+#QuestionEnd
+#AnswerStart
+Answer: a) J. H. Mackay
+#AnswerEnd
+
+#QuestionStart
+Q136) The priest associated with King Videgha Madhava referred in Shatapatha Brahmana was- [U.P. Lower Sub. (Pre) 2015]
+a) Rishi Bharadwaj
+b) Rishi Vashishta
+c) Rishi Vishwamitra
+d) Rishi Gautama Rahugana
+#QuestionEnd
+#AnswerStart
+Answer: d) Rishi Gautama Rahugana
+#AnswerEnd
+
+#QuestionStart
+Q137) Mahaparinirvana Temple is located at- [U.P. Lower Sub. (Mains) 2015]
+a) Kushinagar
+b) Sarnath
+c) Bodh Gaya
+d) Shravasti
+#QuestionEnd
+#AnswerStart
+Answer: a) Kushinagar
+#AnswerEnd
+
+#QuestionStart
+Q138) India’s first hospital and herbal gardens were built by? [U.P. Lower Sub. (Mains) 2015]
+a) Ashoka
+b) Chandragupta Maurya
+c) Lord Mahavir
+d) Dhanvantari
+#QuestionEnd
+#AnswerStart
+Answer: a) Ashoka
+#AnswerEnd
+
+#QuestionStart
+Q139) Which of the following sites has yielded skeleton of the dog along with human skeleton in burial? [U.P. Lower Sub. (Pre) 2008]
+a) Brahmagiri
+b) Burzahom
+c) Chirand
+d) Maski
+#QuestionEnd
+#AnswerStart
+Answer: b) Burzahom
+#AnswerEnd
+
+#QuestionStart
+Q140) A horned deity engraved on a terracotta cake has been recovered from- [U.P. Lower Spl. (Pre) 2008]
+a) Banawali
+b) Kalibangan
+c) Lothal
+d) Surkotada
+#QuestionEnd
+#AnswerStart
+Answer: b) Kalibangan
+#AnswerEnd
+
+#QuestionStart
+Q141) Kalsi is famous for- [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Buddhist Chaityas
+b) Persian Coins
+c) Rock edicts of Ashoka
+d) Temples of Gupta period
+#QuestionEnd
+#AnswerStart
+Answer: c) Rock edicts of Ashoka
+#AnswerEnd
+
+#QuestionStart
+Q142) Who of the following was associated with the collection of revenue in Mauryan Mantriparishad? [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Samaharta
+b) Vyabharika
+c) Antapala
+d) Pradeshtha
+#QuestionEnd
+#AnswerStart
+Answer: a) Samaharta
+#AnswerEnd
+
+#QuestionStart
+Q143) Recently, from excavations of Harappan site Sonauli what was found? [U.P. Lower Sub. (Pre) 2004]
+a) Human burials
+b) Animal burials
+c) Residential building
+d) Protecting wall
+#QuestionEnd
+#AnswerStart
+Answer: a) Human burials
+#AnswerEnd
+
+#QuestionStart
+Q144) There is a similarity in Avesta and the Rig Veda, from which region the Avesta is related to- [U.P. Lower Sub. (Spl) (Pre) 2004]
+a) India
+b) Iran
+c) Israel
+d) Egypt
+#QuestionEnd
+#AnswerStart
+Answer: b) Iran
+#AnswerEnd
+
+#QuestionStart
+Q145) Which of the following inscription mentioned Chandragupta and Ashoka both? [U.P. Lower Sub. (Pre).2004]
+a) Nasik inscription of Gautami putra Shatkarni
+b) Junagarh inscription of Mahakshatrapa Rudradaman
+c) Girnar inscription of Ashoka
+d) Junagarh inscription of Skandgupta
+#QuestionEnd
+#AnswerStart
+Answer: b) Junagarh inscription of Mahakshatrapa Rudradaman
+#AnswerEnd
+
+#QuestionStart
+Q146) Four Buddhist Councils were held in the following places. Arrange them in chronological order by using the code given below: [U.P. Lower Sub. (Pre) 2002]
+1. Vaishali
+2. Rajgriha
+3. Kundalavana
+4. Pataliputra
+Code:
+a) 1, 2, 3, 4
+b) 4, 3, 2, 1
+c) 2, 1, 3, 4
+d) 2, 1, 4, 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 1, 4, 3
+#AnswerEnd
+
+#QuestionStart
+Q147) Consider the following statements: [U.P. Lower Sub. (Pre) 2002]
+Assertion (A): Ashoka annexed Kalinga to the Mauryan Empire.
+Reason (R): Kalinga controlled the land and sea routes to South India.
+Select the correct answer using the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q148) Meaning of the term ‘Arya’ in classical Sanskrit is- [U.P. Lower Sub. (Pre) 1998]
+a) Believer of the God
+b) A hereditary cast
+c) A believer in particular religion
+d) A Noble man
+#QuestionEnd
+#AnswerStart
+Answer: d) A Noble man
+#AnswerEnd
+
+#QuestionStart
+Q149) Who attained enlightenment in Bodh Gaya? [67th BPSC (Pre) 2022]
+a) Mahavira Swami
+b) Gautama Buddha
+c) Simandhar Swami
+d) Parshvanath Swami
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Gautama Buddha
+#AnswerEnd
+
+#QuestionStart
+Q150) The first Empire was established by which ruler in India? [66th B.P.S.C. Re-Exam (Pre) 2020]
+a) Chandragupta Maurya
+b) Ashoka
+c) Kanishka
+d) Chandragupta II Vikramaditya
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Chandragupta Maurya
+#AnswerEnd
+
+#QuestionStart
+Q151) According to the report of IIT Kharagpur study group, continuous low rainfall for how many years was the cause of fall of the Indus valley civilization? [B.P.S.C. (Pre) 2018]
+a) 600 years
+b) 700 years
+c) 800 years
+d) 900 years
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) 900 years
+#AnswerEnd
+
+#QuestionStart
+Q152) What is the most significant feature of the Indus Valley Civilization? [63rd B.P.S.C (Pre.) 2017]
+a) Burnt brick buildings
+b) First true arches
+c) Buildings of worship
+d) Art and architecture
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Burnt brick buildings
+#AnswerEnd
+
+#QuestionStart
+Q153) The salvation place of Mahavirji, the originator of Jain religion, is located at: [63rd B.P.S.C (Pre.) 2017]
+a) Maner
+b) Rajgir
+c) Pavapuri
+d) Jalan Port
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Pavapuri
+#AnswerEnd
+
+#QuestionStart
+Q154) The division of Mauryan society into seven classes is particularly mentioned in: [63rd B.P.S.C (Pre.) 2017]
+a) Kautilya’s Arthashastra
+b) Ashokan edicts
+c) the Puranas
+d) the Indica of Megasthenes
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) the Indica of Megasthenes
+#AnswerEnd
+
+#QuestionStart
+Q155) Which among the following Harappan site terracotta of ‘plough’ was found? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Dholavira
+b) Banawali
+c) Kalibangan
+d) Lothal
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Banawali
+#AnswerEnd
+
+#QuestionStart
+Q156) Who was the founder of Nalanda University? [56th to 59th B.P.S.C. (Pre) 2015]
+a) Chandragupta Vikramaditya
+b) Kumargupta
+c) Dharmapal
+d) Pushyagupta
+#QuestionEnd
+#AnswerStart
+Answer: b) Kumargupta
+#AnswerEnd
+
+#QuestionStart
+Q157) Who recognized Sandrokottos as Chandra Gupta Maurya? [48th to 52nd B.P.S.C. (Pre) 2008]
+a) William Jones
+b) V. Smith
+c) R. K. Mukherjee
+d) D. R. Bhandarkar
+#QuestionEnd
+#AnswerStart
+Answer: a) William Jones
+#AnswerEnd
+
+#QuestionStart
+Q158) Where is the highest in the world ‘Vishwa Shanti Stupa’ located in Bihar- [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Vaishali
+b) Nalanda
+c) Rajgir
+d) Patna
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajgir
+#AnswerEnd
+
+#QuestionStart
+Q159) ‘Nav Nalanda Mahavihar’ is famous for- [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Hsuan-Tsang memorial
+b) Birthplace of Mahavir
+c) Pali Research Centre
+d) Museum
+#QuestionEnd
+#AnswerStart
+Answer: c) Pali Research Centre
+#AnswerEnd
+
+#QuestionStart
+Q160) Chandragupta Maurya figures prominently in the book of - [46th B.P.S.C. (Pre) 2004]
+a) Bhasa
+b) Sudraka
+c) Vishakhadatta
+d) Ashvaghosha
+#QuestionEnd
+#AnswerStart
+Answer: c) Vishakhadatta
+#AnswerEnd
+
+#QuestionStart
+Q161) Gautama Buddha was elevated to the position of God during the period of- [45th BPSC (Pre) 2001]
+a) Asoka
+b) Kanishka
+c) Chandragupta Vikramaditya
+d) Harsha
+#QuestionEnd
+#AnswerStart
+Answer: b) Kanishka
+#AnswerEnd
+
+#QuestionStart
+Q162) Which one of the following periods is also known as the Chalcolithic Age? [44th B.P.S.C. (Pre) 2000]
+a) Old Stone Age
+b) New Stone Age
+c) Copper Age
+d) Iron Age
+#QuestionEnd
+#AnswerStart
+Answer: c) Copper Age
+#AnswerEnd
+
+#QuestionStart
+Q163) Famous Battle of «Ten Kings’ was fought on the bank of the river- [42nd B.P.S.C. (Pre) 1997]
+a) The Ganges
+b) Brahmaputra
+c) Kaveri
+d) Parushni
+#QuestionEnd
+#AnswerStart
+Answer: d) Parushni
+#AnswerEnd
+
+#QuestionStart
+Q164) Why was Nalanda University famous in the world? [42nd B.P.S.C. (Pre) 1997]
+a) Medical Science
+b) Philosophy
+c) Buddhist Religious Philosophy
+d) Chemical Science
+#QuestionEnd
+#AnswerStart
+Answer: c) Buddhist Religious Philosophy
+#AnswerEnd
+
+#QuestionStart
+Q165) Which one territory of the following was not a part of Ashoka’s empire? [42nd B.P.S.C. (Pre) 1997]
+a) Afghanistan
+b) Bihar
+c) Sri Lanka
+d) Kalinga
+#QuestionEnd
+#AnswerStart
+Answer: c) Sri Lanka
+#AnswerEnd
+
+#QuestionStart
+Q166) Chandragupta’s palace situated at Patliputra is mainly made up of- [41st BPSC (Pre) 1996]
+a) Bricks
+b) Stones
+c) Woods
+d) Clays
+#QuestionEnd
+#AnswerStart
+Answer: c) Woods
+#AnswerEnd
+
+#QuestionStart
+Q167) Out of two statements below first is Assertion (A) and second is Reason (R), carefully read both statements [41st B.P.S.C. (Pre) 1996]
+Assertion (A): Till the end of twelfth century Nalanda Mahavihara lost its glory.
+Reason (R) : State protection ceased to be available to Mahavihara.
+With respect to the above-mentioned two statements, which of the following is true?
+a) (A) and (R) both are true, and (R) is the correct explanation of (A).
+b) (A) and (R) both are true, and (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) (A) and (R) both are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q168) The ninth mandala of the Rig Veda is devoted wholly to: [40th B.P.S.C. (Pre) 1995]
+a) Indra and his elephant
+b) Urvashi and the Heaven
+c) Gods related to plants and drugs
+d) ‘Soma’, the god who is named after the drink
+#QuestionEnd
+#AnswerStart
+Answer: d) ‘Soma’, the god who is named after the drink
+#AnswerEnd
+
+#QuestionStart
+Q169) Who used the caves of Barabar as their shelter-house? [40th B.P.S.C. (Pre) 1995]
+a) Ajivakas
+b) Tharus
+c) Jains
+d) Tantrikas
+#QuestionEnd
+#AnswerStart
+Answer: a) Ajivakas
+#AnswerEnd
+
+#QuestionStart
+Q170) In which phase, the concept of untouchability was put clearly? [39th B.P.S.C. (Pre) 1994]
+a) Rigvedic phase
+b) Later Vedic phase
+c) Later Gupta phase
+d) Dharmashastra phase
+#QuestionEnd
+#AnswerStart
+Answer: d) Dharmashastra phase
+#AnswerEnd
+
+#QuestionStart
+Q171) The shape of which tree is found in the seals from the Indus Civilization? [MPPCS (Pre) 2021]
+a) Mango
+b) Peepal
+c) Parijat
+d) Sal
+#QuestionEnd
+#AnswerStart
+Answer: b) Peepal
+#AnswerEnd
+
+#QuestionStart
+Q172) Ashoka won the Avanti Mahajapad and merged it in the Mauryan empire during Bindusara rule. What text does it refer to? [M.P.P.C.S. (Pre.) 2020]
+a) Samant Pasadika of Buddha Ghosh
+b) Arthashastra of Kautilya
+c) Ashtadhyayi of Panini
+d) Mahabhashya of Patanjali
+#QuestionEnd
+#AnswerStart
+Answer: a) Samant Pasadika of Buddha Ghosh
+#AnswerEnd
+
+#QuestionStart
+Q173) Who is called the ‘Father of Indian Archaeology’? [M.P.P.C.S. (Pre) 2017]
+a) Alexander Cunningham
+b) John Marshall
+c) Mortimer Wheeler
+d) James Prinsep
+#QuestionEnd
+#AnswerStart
+Answer: a) Alexander Cunningham
+#AnswerEnd
+
+#QuestionStart
+Q174) Which of the following Buddhist literature contains the Buddha’s sermons on matters of ethics and doctrine? [M.P.P.C.S. (Pre) 2014]
+a) Vinaya Pitaka
+b) Jataka Stories
+c) Abhidhamma Pitaka
+d) Sutta Pitaka
+#QuestionEnd
+#AnswerStart
+Answer: d) Sutta Pitaka
+#AnswerEnd
+
+#QuestionStart
+Q175) Which of the following is not an Indus Valley Civilization site? [M.P.P.C.S. (Pre) 2013]
+a) Kalibangan
+b) Ropar
+c) Patliputra
+d) Lothal
+#QuestionEnd
+#AnswerStart
+Answer: c) Patliputra
+#AnswerEnd
+
+#QuestionStart
+Q176) Which Indian king defeated Seleucus, the administrator of Sindh and Afghanistan appointed by Alexander- [M.P.P.C.S. (Pre) 2008]
+a) Samudragupta
+b) Ashok
+c) Bindusar
+d) Chandragupta
+#QuestionEnd
+#AnswerStart
+Answer: d) Chandragupta
+#AnswerEnd
+
+#QuestionStart
+Q177) Consider the following statements and select the correct answer from the given code: [M.P.P.C.S. (Pre) 2008]
+1. Mohenjodaro, Harappa, Ropar and Kalibangan are the main sites of Indus valley civilization.
+2. People of Harappa developed the road, proper housing and drainage system.
+3. People of Harappa were unknown about the use of metals.
+Code:
+a) 1 and 2 are correct
+b) 1 and 3 are correct
+c) 2 and 3 are correct
+d) 1, 2 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 are correct
+#AnswerEnd
+
+#QuestionStart
+Q178) Buddhist centre of learning is- [MPPCS (Pre) 2004]
+a) Vikramshila
+b) Varanasi
+c) Girnar
+d) Ujjain
+#QuestionEnd
+#AnswerStart
+Answer: a) Vikramshila
+#AnswerEnd
+
+#QuestionStart
+Q179) Match list-I with list-II and select the correct answer using the codes given below the lists [MPPCS (Pre) 1999]
+| List-I | List-II |
+|---|---|
+| A. Atharvaveda | 1. God Grace |
+| B. Rig Veda | 2. Sacrifice Process |
+| C. Yajurveda | 3. Medicine |
+| D. Samaveda | 4. Music |
+Code:
+a) A-3, B-1, C-2, D-4
+b) A-1, B-2, C-3, D-4
+c) A-2, B-3, C-4, D-1
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-1, C-2, D-4
+#AnswerEnd
+
+#QuestionStart
+Q180) Consider the following statements pertaining to the Ahar Civilization- [R.A.S./R.T.S. (Pre.) 2021]
+A. The natives of Ahar knew copper smelting
+B. Rice was unknown to them
+C. Metal work was one of the means of economy of the Ahar
+D. Black - Red coloured pottery have been found here, on which generally white coloured geometrical designs have been carved.
+Choose the correct option:
+a) A, C and D are correct
+b) A and B are correct
+c) A, B and C are correct
+d) C and D are correct
+#QuestionEnd
+#AnswerStart
+Answer: a) A, C and D are correct
+#AnswerEnd
+
+#QuestionStart
+Q181) Match list-I with list-II and select the correct answer using the codes given below the lists: [RAS/RTS (Pre) 2021]
+| List-I | List-II |
+|---|---|
+| A. Vrihi | 1. Sugarcane |
+| B. Mudga | 2. Rice |
+| C. Yava | 3. Mung bean |
+| D. Ikshu | 4. Millet |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-4, B-3, C-2, D-1
+c) A-3, B-4, C-1, D-2
+d) A-2, B-3, C-4, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q182) Match list-I with list-II and select the correct answer using the codes given below the lists: [RAS/RTS (Pre) 2013]
+| List-I | List-II |
+|---|---|
+| A. Rig Veda | 1. Gopatha |
+| B. Samaveda | 2. Shatpatha |
+| C. Atharvaveda | 3. Aitareya |
+| D. Yajurveda | 4. Panchvisha |
+Code:
+a) A-4, B-2, C-3, D-1
+b) A-2, B-4, C-3, D-1
+c) A-3, B-4, C-1, D-2
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q183) Which one of the following officials was not a part of the Mauryan administration? [R.A.S./R.T.S. (Re. Exam) (Pre) 2013]
+a) Agraharika
+b) Yukta
+c) Pradeshika
+d) Rajjuka
+#QuestionEnd
+#AnswerStart
+Answer: a) Agraharika
+#AnswerEnd
+
+#QuestionStart
+Q184) ‘Pankodakasannirodhe’ was the Penalty in Mauryan administration, charged, for- [R.A.S./R.T.S. (Re. Exam) (Pre) 2013]
+a) Filthy drinking water
+b) Slushing the road
+c) Throwing garbage
+d) Stenching temples
+#QuestionEnd
+#AnswerStart
+Answer: b) Slushing the road
+#AnswerEnd
+
+#QuestionStart
+Q185) The first metal used by man was: [R.A.S./R.T.S. (Pre) 2012]
+a) Gold
+b) Silver
+c) Copper
+d) Iron
+#QuestionEnd
+#AnswerStart
+Answer: c) Copper
+#AnswerEnd
+
+#QuestionStart
+Q186) Which one among the following sites is located in the valley of Ghaggar and its associated rivers? [R.A.S./R.T.S.(Pre) 2010]
+a) Alanigirpur
+b) Lothal
+c) Mohenjodaro
+d) Banawali
+#QuestionEnd
+#AnswerStart
+Answer: d) Banawali
+#AnswerEnd
+
+#QuestionStart
+Q187) One of the following sites from where the famous bull-seal of Indus Valley Civilization was found- [R.A.S./R.T.S. (Pre) 2008]
+a) Harappa
+b) Chanhudaro
+c) Lothal
+d) Mohenjodaro
+#QuestionEnd
+#AnswerStart
+Answer: d) Mohenjodaro
+#AnswerEnd
+
+#QuestionStart
+Q188) Rangpur, where the contemporary of Harappan civilization was found, is in- [R.A.S./R.T.S. (Pre) 1999]
+a) Punjab
+b) Eastern Uttar Pradesh
+c) Saurashtra
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: c) Saurashtra
+#AnswerEnd
+
+#QuestionStart
+Q189) Rites and Rituals related to Yajnas are mentioned in- [R.A.S./R.T.S. (Pre) 1999]
+a) Rig Veda
+b) Samaveda
+c) Brahmin Granthas
+d) Yajurveda
+#QuestionEnd
+#AnswerStart
+Answer: d) Yajurveda
+#AnswerEnd
+
+#QuestionStart
+Q190) Who was the director of the archaeological excavation that led to the discovery of Harappa and Mohenjodaro? [R.A.S./R.T.S. (Pre) 1997]
+a) Lord Macaulay
+b) Sir John Marshall
+c) Clive
+d) Colonel Tad
+#QuestionEnd
+#AnswerStart
+Answer: b) Sir John Marshall
+#AnswerEnd
+
+#QuestionStart
+Q191) Famous Greek ambassador Megasthenes came to the court of which emperor? [R.A.S./R.T.S. (Pre) 1997]
+a) Ashoka
+b) Harsha Vardhana
+c) Chandragupta Maurya
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandragupta Maurya
+#AnswerEnd
+
+#QuestionStart
+Q192) Second Buddhist- Council was organized by- [R.A.S./R.T.S. (Pre) 1994]
+a) Ajatashatru
+b) Kalasoka
+c) Ananda
+d) Ashoka
+#QuestionEnd
+#AnswerStart
+Answer: b) Kalasoka
+#AnswerEnd
+
+#QuestionStart
+Q193) ‘Sabha’ of Vedic-era- [R.A.S./R.T.S. (Pre) 1994]
+a) Was an institution of mercantile people of the villages
+b) Was a royal court
+c) Was council of ministers
+d) National Assembly of all the people of the state
+#QuestionEnd
+#AnswerStart
+Answer: c) Was council of ministers
+#AnswerEnd
+
+#QuestionStart
+Q194) The System of Governance prevalent in the Vedic era was- [R.A.S./R.T.S. (Pre) 1993]
+a) Autocratic
+b) Democratic
+c) Republic
+d) Descended monarchy
+#QuestionEnd
+#AnswerStart
+Answer: d) Descended monarchy
+#AnswerEnd
+
+#QuestionStart
+Q195) Which function of the present municipal administration has been continuous from the time of Mauryan period? [RAS/RTS (Pre) 1992]
+a) Inspection of weights and measures
+b) Fixing of the prices of goods
+c) Registration of births and deaths
+d) Patronage to artisans
+#QuestionEnd
+#AnswerStart
+Answer: c) Registration of births and deaths
+#AnswerEnd
+
+#QuestionStart
+Q196) The first ancient civilization to develop the art of writing in a proper system was? [R.A.S. / R.T.S. (Pre) 1992]
+a) Indus
+b) Egypt
+c) Sumerian
+d) China
+#QuestionEnd
+#AnswerStart
+Answer: c) Sumerian
+#AnswerEnd
+
+#QuestionStart
+Q197) Which one of the following rulers did not contribute towards the expansion of Buddhism? [Chhattisgarh P.C.S. (Pre) 2018]
+a) Harshavardhan
+b) Kanishka
+c) Ashoka
+d) Pushyamitra Shunga
+#QuestionEnd
+#AnswerStart
+Answer: d) Pushyamitra Shunga
+#AnswerEnd
+
+#QuestionStart
+Q198) In the period of Mahabharata, the name of Mahanadi was- [Chhattisgarh P.C.S. (Pre) 2016]
+a) Kaveri
+b) Tapti
+c) Mahananda
+d) Ganga
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: e) None of these
+#AnswerEnd
+
+#QuestionStart
+Q199) In context on Indian culture ‘Rit’ means- [Chhattisgarh P.C.S. (Pre) 2016]
+a) Natural law
+b) Artificial law
+c) Human law
+d) Social law
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Natural law
+#AnswerEnd
+
+#QuestionStart
+Q200) The Statement “Tamsoma Jyotirgamaya” was originally mentioned in- [Chhattisgarh P.C.S. (Pre) 2016]
+a) Upanishadas
+b) Mahakavyas
+c) Puranas
+d) Shaddarshanas
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Upanishadas
+#AnswerEnd
+
+#QuestionStart
+Q201) Where the word ‘Stupa’ has been used for the first time? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Rigveda
+b) Jatak Katha
+c) Artha Shastra
+d) Astadhyayee
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Rigveda
+#AnswerEnd
+
+#QuestionStart
+Q202) The ‘Purush Sukta’ related to Varna System is originally found in- [Chhattisgarh P.C.S. (Pre) 2014]
+a) Atharvaveda
+b) Samaveda
+c) Rig Veda
+d) Manusmriti
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Rig Veda
+#AnswerEnd
+
+#QuestionStart
+Q203) According to the ‘Arthashastra’ of Kautilya the following courts existed in the judicial system of Mauryan Age- [Chhattisgarh P.C.S. (Pre) 2014]
+1. Dharmamahamatra
+2. Dharmasthiya
+3. Rajjuka
+4. Kantakshodhana
+Code:
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 2 and 4
+e) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q204) The following Mauryan rulers were the followers of Buddhism: [Chhattisgarh P.C.S (Pre) 2013]
+1. Chandragupta
+2. Ashoka
+3. Bindusara
+4. Dasaratha
+Select the correct answer:
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 2 and 4
+e) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q205) Which metal has so far not been discovered in Harappan sites? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Copper
+b) Gold
+c) Silver
+d) Iron
+#QuestionEnd
+#AnswerStart
+Answer: d) Iron
+#AnswerEnd
+
+#QuestionStart
+Q206) Two Indians who were associated with discovery of Indus Valley Civilization, are: [Chhattisgarh P.C.S. (Pre) 2003]
+a) Rakhal Das Banerjee and Dayaram Sahni
+b) John Marshall and Ishwari Prasad
+c) Ashirwadi Lal Srivastava and Rangnath Rao
+d) Madhosarup Vats and V.B. Rao
+#QuestionEnd
+#AnswerStart
+Answer: a) Rakhal Das Banerjee and Dayaram Sahni
+#AnswerEnd
+
+#QuestionStart
+Q207) Ashokan inscriptions in north-western part of the Mauryan Empire near Peshawar were in: [Jharkhand P.C.S. (Pre.) 2021]
+a) Brahmi Script
+b) Aramaic Script
+c) Devanagari Script
+d) Kharoshthi Script
+#QuestionEnd
+#AnswerStart
+Answer: d) Kharoshthi Script
+#AnswerEnd
+
+#QuestionStart
+Q208) The Rigvedic tribal assembly associated with judicial function was- [Jharkhand P.C.S. (Pre) 2016]
+a) Sabha
+b) Samiti
+c) Vidhata
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Sabha
+#AnswerEnd
+
+#QuestionStart
+Q209) Which form of Buddhism was prominent during the Sultanate period? [Jharkhand P.C.S. (Pre) 2013]
+a) Theravada
+b) Hinayana
+c) Vajrayana
+d) Tantrayana
+#QuestionEnd
+#AnswerStart
+Answer: c) Vajrayana
+#AnswerEnd
+
+#QuestionStart
+Q210) In the Mauryan period, tax evasion was punished with- [Jharkhand P.C.S. (Pre) 2013]
+a) Death
+b) Confiscation of goods
+c) Imprisonment
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Death
+#AnswerEnd
+
+#QuestionStart
+Q211) In which of the following places was the first Jain Council held? [Uttarakhand PCS (Pre) 2021]
+a) Patliputra
+b) Vaishali
+c) Mathura
+d) Ujjam
+#QuestionEnd
+#AnswerStart
+Answer: a) Patliputra
+#AnswerEnd
+
+#QuestionStart
+Q212) In Mauryan period ‘Pranayam’ was: [Uttarakhand PCS (Pre) 2021]
+a) Emergency Tax
+b) Love Marriage
+c) Land Grant
+d) Land Tax
+#QuestionEnd
+#AnswerStart
+Answer: a) Emergency Tax
+#AnswerEnd
+
+#QuestionStart
+Q213) Who was called as ‘Sandrocottos’ by Justin, the Greek Writer? [Uttarakhand P.C.S. (Pre) 2016]
+a) Chandragupta Maurya
+b) Chandragupta I
+c) Chandragupta II
+d) Samudragupta
+#QuestionEnd
+#AnswerStart
+Answer: a) Chandragupta Maurya
+#AnswerEnd
+
+#QuestionStart
+Q214) Which one of the following is oldest Veda? [Uttarakhand P.C.S. (Pre) 2010]
+a) Yajurveda
+b) Rig Veda
+c) Samaveda
+d) Atharvaveda
+#QuestionEnd
+#AnswerStart
+Answer: b) Rig Veda
+#AnswerEnd
+
+#QuestionStart
+Q215) The most famous centre of learning during Mauryan period was- [Uttarakhand P.C.S. (Pre) 2010]
+a) Vaishali
+b) Nalanda
+c) Taxila
+d) Ujjain
+#QuestionEnd
+#AnswerStart
+Answer: c) Taxila
+#AnswerEnd
+
+#QuestionStart
+Q216) The earliest evidence of man in India is found in- [Uttarakhand P.C.S. (Pre) 2006]
+a) Nilgiri Hills
+b) Shiwalik Hills
+c) Nallamala Hills
+d) Narmada Valley
+#QuestionEnd
+#AnswerStart
+Answer: d) Narmada Valley
+#AnswerEnd
+
+#QuestionStart
+Q217) The Indus valley people worshipped- [Uttarakhand P.C.S. (Mains) 2006]
+a) Shiva
+b) Indra and Varun
+c) Brahma
+d) Vishnu
+#QuestionEnd
+#AnswerStart
+Answer: a) Shiva
+#AnswerEnd
+
+#QuestionStart
+Q218) Which Indian Buddhist monk had been sent to China in the first century. A.D.? [Uttarakhand P.C.S. (Pre) 2005]
+a) Tsang
+b) Ashvaghosha
+c) Vasumitra
+d) Nagarjuna
+#QuestionEnd
+#AnswerStart
+Answer: d) Nagarjuna
+#AnswerEnd
+
+#QuestionStart
+Q219) From among the following Mahajanapadas, identify the gana/sangha (oligarchy): [CDS 2022(1)]
+a) Magadha
+b) Vajji
+c) Avanti
+d) Kosala
+#QuestionEnd
+#AnswerStart
+Answer: b) Vajji
+#AnswerEnd
+
+#QuestionStart
+Q220) From which one of the following factory sites were limestone and chert blades mass produced and sent to various Harappan settlements in Sindh? [CDS 2020 (I)]
+a) Sukkur and Rohri Hills
+b) Khetri in Rajasthan
+c) Chagai Hills
+d) Hills of Baluchistan
+#QuestionEnd
+#AnswerStart
+Answer: a) Sukkur and Rohri Hills
+#AnswerEnd
+
+#QuestionStart
+Q221) Consider the following statements about Stone Age in India: [CDS 2020 (I)]
+1. Different periods are identified on the basis of the type and technology of stone tools.
+2. There are no regional variations in the type and technology of tools in different periods.
+3. Stone Age cultures of different periods evolved uniformly in a neat unilinear fashion all over the subcontinent.
+Which of the statements given above is/are correct?
+a) Only 1
+b) 1 and 2
+c) Only 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q222) The following item consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below: [CDS 2019 (II)]
+Statement I: The Greek travelers were most impressed by the fertility of India’s soil and the energy and ability of her cultivators.
+Statement II: Ancient India knew the use of manure.
+a) Both the statements are individually true, and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+c) Statement I is true, but Statement II is false.
+d) Statement I is false, but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+
+#QuestionStart
+Q223) The Harappan site at Kot Diji is close to which one of the following major sites of that civilisation? [CDS 2018 (II)]
+a) Harappa
+b) Mohenjo-daro
+c) Lothal
+d) Kalibangan
+#QuestionEnd
+#AnswerStart
+Answer: b) Mohenjo-daro
+#AnswerEnd
+
+#QuestionStart
+Q224) The story Gandatindu Jataka was written in which language? [CDS 2018 (II)]
+a) Sanskrit
+b) Telugu
+c) Tamil
+d) Pali
+#QuestionEnd
+#AnswerStart
+Answer: d) Pali
+#AnswerEnd
+
+#QuestionStart
+Q225) The dialogue on Varna between King Avantiputta and Kachchana, a disciple of Buddha, appears in which one of the following Buddhist texts? [CDS 2018 (II)]
+a) Majjhima Nikaya
+b) Samyutta Nikaya
+c) Anguttara Nikaya
+d) Ambattha Sutta
+#QuestionEnd
+#AnswerStart
+Answer: a) Majjhima Nikaya
+#AnswerEnd
+
+#QuestionStart
+Q226) In the 10th Mandala of the Rigveda, which one of the following hymns reflects upon the marriage ceremonies? [CDS 2018 (I)]
+a) Surya Sukta
+b) Purusha Sukta
+c) Dana Stutis
+d) Urna Sutra
+#QuestionEnd
+#AnswerStart
+Answer: a) Surya Sukta
+#AnswerEnd
+
+#QuestionStart
+Q227) The following item consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below: [CDS 2017 (II)]
+Statement I: The early Aryans, who were essentially pastoral, did not develop any political structure which could measure up to a state in either ancient or modern sense.
+Statement II: Kingship was the same as tribal chief ship; the term Rajan being used for tribal chief who was primarily a military leader and who ruled over his people and not over any specified area.
+a) Both the statements are individually true and statement II is the correct explanation of statement
+b) Both the statements are individually true, but statement II is not the correct explanation of statement
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement
+#AnswerEnd
+
+#QuestionStart
+Q228) Which one of the following statements about the Harappan Culture is not correct? [CDS 2017 (II)]
+a) It witnessed the first cities in the subcontinent
+b) It marks the first use of script, written from right to left
+c) It marks the earliest known use of iron as a medium for the art of sculpting
+d) It marks the earliest known use of stone as a medium for the art of sculpting
+#QuestionEnd
+#AnswerStart
+Answer: c) It marks the earliest known use of iron as a medium for the art of sculpting
+#AnswerEnd
+
+#QuestionStart
+Q229) Consider the following statement(s) about Harappan cities: [CDS 2016 (II)]
+1. Roads were not always absolutely straight and did not always cross one another at right angles.
+2. A striking feature is the uniformity in the average size of the bricks for houses and for city walls.
+Which of the statement(s) given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q230) The following item consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below: [CDS 2016 (II)]
+Statement I: King Ashoka abolished capital punishment and disbanded his army.
+Statement II: After Kalinga War, Ashoka was remorseful and became a Buddhist.
+Codes:
+a) Both the statements are individually true, and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement I is false, but statement II is true.
+#AnswerEnd
+
+#QuestionStart
+Q231) Which one of the following statements about ancient Indian Mahajanapadas is correct? [CDS 2014 (I)]
+a) All Mahajanapadas were oligarchies where power was exercised by a group of people
+b) All Mahajanapadas were located in Eastern India
+c) No army was maintained by the Mahajanapadas
+d) Buddhist and Jaina texts list sixteen Mahajanapadas
+#QuestionEnd
+#AnswerStart
+Answer: d) Buddhist and Jaina texts list sixteen Mahajanapadas
+#AnswerEnd
+
+#QuestionStart
+Q232) The Fourth Buddhist Council was held in Kashmir under the leadership of [CDS 2014 (I)]
+a) Bindusara
+b) Ashoka
+c) Kunal
+d) Kanishka
+#QuestionEnd
+#AnswerStart
+Answer: d) Kanishka
+#AnswerEnd
+
+#QuestionStart
+Q233) Which of the following is/are the most distinctive artefacts of the Harappan Civilisation? [CAPF 2020]
+1. Steatite seal
+2. Bricks of a standardised ratio
+3. Gold bangles
+4. Silver spittoon
+Select the correct answer using the codes given below:
+a) 1 only
+b) 1 and 2 only
+c) 2, 3 and 4
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q234) Which one of the following is NOT listed as one of the sixteen mahajanapadas in the pre-Mauryan period? [CAPF 2020]
+a) Kuru
+b) Vatsa
+c) Gandhara
+d) Kalinga
+#QuestionEnd
+#AnswerStart
+Answer: d) Kalinga
+#AnswerEnd
+
+#QuestionStart
+Q235) Which of the following are prescribed as the duties of Vaishyas according to the Dharmashastras? [CAPF 2020]
+1. Studying the Vedas
+2. Engaging in trade
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q236) Which of the following statements is/are correct? [CAPF 2020]
+1. The Satavahanas ruled over parts of western India and the Deccan.
+2. The Satavahanas repaired and rebuilt Sudarshana Lake.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd

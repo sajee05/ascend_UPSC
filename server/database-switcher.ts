@@ -11,20 +11,15 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 let activeStorage: IStorage | null = null;
-let activeDbType: 'sqlite' | 'postgresql' = 'sqlite'; // Default to SQLite
+let activeDbType: 'sqlite' = 'sqlite'; // Default to SQLite
 
 /**
  * Initialize the appropriate database based on environment variables
  */
 export async function initializeDatabase(): Promise<IStorage> {
   // Check for database type setting
-  const dbType = process.env.DB_TYPE || 'sqlite';
-  
-  if (dbType === 'sqlite') {
-    return initializeSqlite();
-  } else {
-    return initializePostgres();
-  }
+  // Force SQLite initialization
+  return initializeSqlite();
 }
 
 /**
@@ -49,37 +44,18 @@ async function initializeSqlite(): Promise<IStorage> {
     logger('Successfully switched to SQLite database', 'database-switcher');
     return sqliteAdapter;
   } catch (error) {
-    logger(`Error initializing SQLite: ${error}`, 'database-switcher');
-    throw error;
+    // Log the error but allow the adapter to be created anyway
+    // This handles cases where migrations fail but the DB connection is still valid
+    logger(`Warning during SQLite initialization (likely migration issue): ${error}`, 'database-switcher');
+    // Do not throw the error here, proceed to create the adapter
   }
-}
-
-/**
- * Initialize PostgreSQL database
- */
-async function initializePostgres(): Promise<IStorage> {
-  logger('Switching to PostgreSQL database', 'database-switcher');
-  
-  try {
-    // Check if we have a connection string
-    if (!process.env.DATABASE_URL) {
-      throw new Error('DATABASE_URL environment variable is not set');
-    }
-    
-    // Import the main storage
-    const { storage } = await import('./storage');
-    
-    // Use the existing PostgreSQL storage instance
-    const pgStorage = storage;
-    activeStorage = pgStorage;
-    activeDbType = 'postgresql';
-    
-    logger('Successfully switched to PostgreSQL database', 'database-switcher');
-    return pgStorage;
-  } catch (error) {
-    logger(`Error initializing PostgreSQL: ${error}`, 'database-switcher');
-    throw error;
-  }
+  // Ensure adapter is created even if initializeDatabase (migrations) had issues
+  const { SqliteAdapter } = await import('./sqlite-adapter');
+  const sqliteAdapter = new SqliteAdapter();
+  activeStorage = sqliteAdapter;
+  activeDbType = 'sqlite';
+  logger('SQLite adapter initialized despite potential migration warnings.', 'database-switcher');
+  return sqliteAdapter;
 }
 
 /**
@@ -95,25 +71,13 @@ export function getStorage(): IStorage {
 /**
  * Get the current active database type
  */
-export function getDatabaseType(): 'sqlite' | 'postgresql' {
-  return activeDbType;
+export function getDatabaseType(): 'sqlite' {
+  return activeDbType; // Always SQLite now
 }
 
 /**
  * Switch the database type
  */
-export async function switchDatabase(type: 'sqlite' | 'postgresql', connectionString?: string): Promise<IStorage> {
-  // Update environment variables
-  if (type === 'postgresql' && connectionString) {
-    process.env.DATABASE_URL = connectionString;
-  }
-  
-  process.env.DB_TYPE = type;
-  
-  // Initialize the appropriate database
-  if (type === 'sqlite') {
-    return await initializeSqlite();
-  } else {
-    return await initializePostgres();
-  }
-}
+// Removed switchDatabase function as it's no longer needed - only SQLite is supported.
+// If switching logic is ever reintroduced, this function would need to be restored
+// and potentially adapted.

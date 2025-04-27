@@ -3,11 +3,11 @@ import { useUIState } from "@/hooks/use-ui-state";
 import { Logo } from "@/components/ui/logo";
 import { Button } from "@/components/ui/button";
 import { Link, useLocation } from "wouter";
-import { Cog, Moon, Sun, BookOpen, LineChart } from "lucide-react";
+import { Cog, Moon, Sun, BookOpen, LineChart, History, ClipboardX } from "lucide-react"; // Added ClipboardX
 
 export function Header() {
   const { settings, updateSettings } = useSettings();
-  const { updateUIState } = useUIState();
+  const { uiState, updateUIState } = useUIState(); // Get uiState to potentially close modal
   const [location, navigate] = useLocation();
   
   // Toggle dark mode
@@ -19,6 +19,18 @@ export function Header() {
   // Open settings panel
   const openSettings = () => {
     updateUIState({ settingsPanelOpen: true });
+  };
+  
+  // Open history modal
+  const openHistoryModal = () => {
+    updateUIState({ historyModalOpen: true });
+  };
+
+  // Open wrongs modal (placeholder)
+  const openWrongsModal = () => {
+    // TODO: Update UI state to open the wrongs modal
+    console.log("Open Wrongs Modal clicked"); // Placeholder action
+    updateUIState({ wrongsModalOpen: true }); // Add wrongsModalOpen state later
   };
 
   return (
@@ -33,6 +45,26 @@ export function Header() {
         
         {/* Navigation and Controls */}
         <div className="flex items-center space-x-3">
+          {/* Wrongs Button */}
+          <Button
+            variant="ghost"
+            className="flex items-center gap-1"
+            onClick={openWrongsModal}
+          >
+            <ClipboardX className="h-4 w-4" />
+            <span className="hidden sm:inline">Wrongs</span>
+          </Button>
+
+          {/* History Button */}
+          <Button
+            variant="ghost"
+            className="flex items-center gap-1"
+            onClick={openHistoryModal}
+          >
+            <History className="h-4 w-4" />
+            <span className="hidden sm:inline">History</span>
+          </Button>
+          
           {/* Navigation Links - Only show if not on the respective page */}
           {location !== "/questions" && (
             <Link href="/questions">

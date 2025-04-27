@@ -1,0 +1,51 @@
+#QuestionStart
+Q1) In a given year in India, official poverty lines are higher in some States than in others because: (2019)
+a) poverty rates vary from State to State.
+b) price levels vary from State to State.
+c) Gross State Product varies from State to State.
+d) quality of public distribution varies from State.
+#QuestionEnd
+#AnswerStart
+Answer: b) price levels vary from State to State.
+#AnswerEnd
+
+#QuestionStart
+Q2) The Multi-dimensional Poverty Index developed by Oxford Poverty and Human Development Initiative with UNDP support covers which of the following? (2012)
+1. Deprivation of education, health, assets and services at household level
+2. Purchasing power parity at national level
+3. Extent of budget deficit and GDP growth rate at national level
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q3) How does the National Rural Livelihood Mission seek to improve livelihood options of rural poor? (2012)
+1. By setting up a large number of new manufacturing industries and agribusiness centres in rural areas
+2. By strengthening 'Self-Help Groups' and providing skill development
+3. By supplying seeds, fertilizers, diesel pump-sets and micro-irrigation equipment free of cost to farmers
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Among the following who are eligible to benefit from the “Mahatma Gandhi National Rural Employment Guarantee Act”? (2011)
+a) Adult members of only the scheduled caste and scheduled tribe households
+b) Adult members of below poverty line (BPL) households
+c) Adult members of households of all backward communities
+d) Adult members of any household
+#QuestionEnd
+#AnswerStart
+Answer: d) Adult members of any household
+#AnswerEnd

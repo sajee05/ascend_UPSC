@@ -1,0 +1,418 @@
+#QuestionStart
+Q1) Consider the following statements:
+1. If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid.
+2. Election for the post of the President of India can be postponed on the ground that some Legislative Assemblies have been dissolved and elections are yet to take place.
+3. When a Bill is presented to the President of India, the Constitution prescribes time limits he/she has to declare his/her assent.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements:
+1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.
+2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention.
+3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements in respect of election to the President of India:
+1. The members nominated to either House of the Parliament or the Legislative Assemblies of States are also eligible to be included in the Electoral College.
+2. Higher the number of elective Assembly seats, higher is the value of vote of each MLA of that State.
+3. The value of vote of each MLA of Madhya Pradesh is greater than that of Kerala.
+4. The value of vote of each MLA of Puducherry is higher than that of Arunachal Pradesh because the ratio of total population to total number of elective Puducherry is greater as compared to Arunachal Pradesh.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: [UPSC CSE Pre. 2022]
+1. The Constitution of India classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge, Minister of State and Deputy Minister.
+2. The total number of ministers in the Union Government, including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok Sabha.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: [UPSC CSE Pre. 2022]
+1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India.
+2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the Union Government, consider the following statements:
+1. N. Gopala Swamy Iyengar Committee suggested that a minister and a secretary be designated solely for pursuing the subject of administrative reform and promoting it.
+2. In 1970, the Department of Personnel was constituted on the recommendation of the Administrative Reforms Commission, 1966, and this was placed under the Prime Minister’s charge.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2021]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q7) At the national level, which ministry is the modal agency to ensure effective implementation of the scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006? [UPSC CSE Pre 2021]
+a) Ministry of Environment, Forest and Climate Change
+b) Ministry of Panchayati Rai
+c) Ministry of Rural Development
+d) Ministry of Tribal Affairs
+#QuestionEnd
+#AnswerStart
+Answer: d) Ministry of Tribal Affairs
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements: [UPSC CSE Pre. 2020]
+1. The President of India can summon a session of the Parliament at such place as he/she thinks fit.
+2. The Constitution of India provides for three sessions of the Parliament in a year, but it is not mandatory to conduct all three sessions.
+3. There is no minimum number of days that the Parliament is required to meet in a year.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to the Legislative Assembly of a State in India, consider the following statements: [UPSC CSE Pre. 2019]
+1. The Governor makes a customary address to Members of the state legislature at the commencement of the first session of the year.
+2. When a State Legislature does not have a rule on a particular matter, it follows the Lok Sabha rule on that matter.
+Vvhich of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: [UPSC CSE Pre. 2018]
+1. No criminal proceedings shall be instituted against the Governor of a State in any court during his term of office.
+2. The emoluments and allowances of the Governor of a State shall not be diminished during his term of office.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: [UPSC CSE Pre. 2016]
+1. The Chief Secretary in a State is appointed by the Governor of that State.
+2. The Chief Secretary in a State has a fixed tenure.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements: [UPSC CSE Pre. 2015]
+1. The Executive Power of the Union of India is vested in the Prime Minister.
+2. The Prime Minister is the ex Officio Chairman of the Civil Services Board.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q13) Which of the following is/are the function/ functions of the Cabinet Secretariat? [UPSC CSE Pre. 2014]
+1. Preparation of agenda for Cabinet Meetings
+2. Secretariat assistance to Cabinet Committees
+3. Allocation of financial resources to the Ministries
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 2 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following statements: [UPSC CSE Pre. 2014]
+1. The President shall make rules for the more convenient transaction of the business of the Government of India.
+2. All executive actions of the Government of India shall be expressed to be taken in the name of the Prime Minister.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Which of the following are the discretionary powers given to the Governor of a State? [UPSC CSE Pre. 2014]
+1. Sending a report to the President of India for imposing the President’s rule
+2. Appointing the Ministers
+3. Reserving certain bills passed by the State Legislature for consideration of the President of India
+4. Making the rules to conduct the business of the State Government
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to Union Government, consider the following statements:
+1. The Constitution of India provides that all Cabinet Ministers shall be compulsorily the sitting members of Lok Sabha only.
+2. The Union Cabinet Secretariat operates under the direction of the Ministry of Parliamentary Affairs.
+Which of the statement(s) given above is/are correct? [U.P.S.C (Pre) 2013]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q17) To whom does the President of India address his resignation? [UPSC CSE Pre 2009]
+a) Speaker of the Lok Sabha
+b) Vice-President of India
+c) Chief Justice of India
+d) Prime Minister of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Vice-President of India
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following statements:
+1. The Advocate General of a State in India is appointed by the President of India on the recommendation of the Governor of the concerned State.
+2. As provided in the Civil Procedure Code, High Courts have original, appellate and advisory jurisdiction at the State level.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither I nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither I nor 2
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to Union Government, consider the following statements:
+1. The Ministries/Departments of the Government of India are created by the Prime Minister on the advice of the Cabinet Secretary.
+2. Each of the Ministries is assigned to a Minister by the President of India on the advice of the Prime Minister.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q20) As per Indian Protocol, who among the following ranks highest in the order of precedence? [UPSC CSE Pre 2003]
+a) Deputy Prime Minister
+b) Former President
+c) Governor of a State within his State
+d) Speaker of Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: c) Governor of a State within his State
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements-Assertion(A): President of India is different from the British King.
+Reason (R): Office of Indian President is similar to that of America.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following statements about the Attorney General of India:
+1. He is appointed by the President of India.
+2. He must have the same qualifications as are required for a Judge of the Supreme Court.
+3. He must be a member of either House of Parliament.
+4. He can be removed by Impeachment by Parliament.
+Which of these statements are correct? [UPSC CSE Pre 2000]
+a) 1 and 2
+b) 1 and 3
+c) 2, 3 and 4
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following functionaries:
+1. Cabinet Secretary
+2. Chief Election Commissioner
+3. Union Cabinet Minister
+4. Chief Justice of India
+Their correct sequence in the Order of Precedence is: [UPSC CSE Pre 2000]
+a) 3, 4, 2, 1
+b) 4, 3, 1, 2
+c) 4, 3, 2, 1
+d) 3, 4, 1, 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 4, 3, 2, 1
+#AnswerEnd
+
+#QuestionStart
+Q24) If the Prime Minister of India belongs to the Upper House of Parliament [UPSC CSE Pre 1997]
+a) He will not be able to vote in his favour in the event of a no-confidence motion.
+b) He will not be able to speak on the budget in the Lower House.
+c) He can make statements only in the Upper House.
+d) He will have to become a member of the Lower House within six months after being sworn in as the Prime Minister.
+#QuestionEnd
+#AnswerStart
+Answer: a) He will not be able to vote in his favour in the event of a no-confidence motion.
+#AnswerEnd
+
+#QuestionStart
+Q25) Which one of the following statements is correct about the Prime Minister of India [UPSC CSE Pre 1996]
+a) He is free to choose his ministers only among those who are members of either House of Parliament.
+b) He can choose his cabinet colleagues after due counselling by the President of India in this regard.
+c) He has full discretion in the choice of persons who are to serve as ministers in his cabinet.
+d) He has only limited power in the choice of his cabinet colleagues because of the discretionary powers vested in the President of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) He has full discretion in the choice of persons who are to serve as ministers in his cabinet.
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following is a part of the electoral college of the President but not of the process of impeachment? [UPSC CSE Pre 1996]
+a) Lok Sabha
+b) Rajya Sabha
+c) State Legislative Councils
+d) State Legislative Assemblies
+#QuestionEnd
+#AnswerStart
+Answer: d) State Legislative Assemblies
+#AnswerEnd
+
+#QuestionStart
+Q27) Which one of the following is not explicitly stated in the Constitution of India but followed as a convention? [UPSC CSE Pre 1995]
+a) The finance minister is to be a Member of the Lower House.
+b) The Prime Minister has to resign if he loses the majority in the Lower House.
+c) All the parts of India are to be represented in the Council of Ministers.
+d) In the event of both the President and the Vice-President demitting office simultaneously before the end of the tenure, the Speaker of the Lower House of the Parliament will officiate as the President.
+#QuestionEnd
+#AnswerStart
+Answer: b) The Prime Minister has to resign if he loses the majority in the Lower House.
+#AnswerEnd
+
+#QuestionStart
+Q28) Article 156 of the Constitution of India provides that a Governor shall hold office for a term of five years from the date on which he enters upon his office. Which of the following can be deduced from this?
+1. No Governor can be removed from office till the completion of his term.
+2. No Governor can continue in office beyond the expiration of a period of five years.
+Code: [UPSC CSE Pre 1995]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q29) Which among the following is/are appointed by the President of India?
+1. Chairman of the Finance Commission
+2. Vice-Chairman of the Planning Commission
+3. Chief Ministers of the Union Territories
+Select the correct answer by using the following code: [UPSC CSE Pre 1994]
+a) 1 is correct
+b) 1 and 2 are correct
+c) 1 and 3 are correct
+d) 2 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 are correct
+#AnswerEnd
+
+#QuestionStart
+Q30) The Chief Minister of a State in India is not eligible to vote in the Presidential election if- [UPSC CSE Pre 1993]
+a) He is a candidate
+b) He is yet to prove his majority on the floor of the Lower House of the State Legislature.
+c) He is a member of the Upper House of the State Legislature.
+d) He is a member of the Lower House of the State Legislature.
+#QuestionEnd
+#AnswerStart
+Answer: c) He is a member of the Upper House of the State Legislature.
+#AnswerEnd
+
+#QuestionStart
+Q31) The only instance when the President of India exercised his power of veto, is related to- [UPSC CSE Pre 1993]
+a) The Hindu Code Bill
+b) The PEPSU Appropriation Bill
+c) The Indian Post Office (Amendment) Bill
+d) The Dowry Prohibition Bill
+#QuestionEnd
+#AnswerStart
+Answer: c) The Indian Post Office (Amendment) Bill
+#AnswerEnd

@@ -1,0 +1,247 @@
+#QuestionStart
+Q1) With reference to the sectors of the Indian economy, consider the following pairs: (2024)
+| Economic activity: | Sector |
+|---|---|
+| 1. Storage of agricultural produce: | Secondary |
+| 2. Dairy farm: | Primary |
+| 3. Mineral exploration: | Tertiary |
+| 4. Weaving cloth: | Secondary |
+How many of the pairs given above are correctly matched?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) Which of the following countries are well known as the two largest cocoa producers in the world? (2024)
+a) Algeria and Morocco
+b) Botswana and Namibia
+c) Côte d'Ivoire and Ghana
+d) Madagascar and Mozambique
+#QuestionEnd
+#AnswerStart
+Answer: c) Côte d'Ivoire and Ghana
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following best describes the concept of 'Small Farmer Large Field? (2023)
+a) Resettlement of a large number of people, uprooted from their countries due to war, by giving them a large cultivable land which they cultivate collectively and share the produce
+b) Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations
+c) Many marginal farmers in an area together make a contract with a corporate body and surrender their land to the corporate body for a fixed term for which the corporate body makes a payment of agreed amount to the farmers
+d) A company extends loans, technical knowledge and material inputs to a number of small farmers in an area so that they produce the agricultural commodity required by the company for its manufacturing process and commercial production
+#QuestionEnd
+#AnswerStart
+Answer: b) Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements : (2023)
+1. The Government of India provides Minimum Support Price for niger (Guizotia abyssinica) seeds.
+2. Niger is cultivated as a Kharif crop.
+3. Some tribal people in India use niger seed oil for cooking.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to WaterCredit’, consider the following statements : (2021)
+1. It puts microfinance tools to work in the water and sanitation sector.
+2. It is a global initiative launched under the aegis of the World Health Organization and the World Bank.
+3. It aims to enable the poor people to meet their water needs without depending on subsidies.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Find correct statement(s): (UPSC- Prelims-2020)
+1. 36% of India’s districts are classified as “overexploited” or “critical” by the CGWA.
+2. Central Ground Water Authority (CGWA) was formed under the Environment (Protection) Act.
+3. India has the largest area under groundwater irrigation in the world.
+Codes:
+a) 1 only
+b) 2 and 3 Only
+c) 2 only
+d) 1 and 3 Only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 Only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to chemical fertilisers in India, consider the following statements: (2020)
+1. At present, the retail price of chemical fertilisers is market-driven and not administered by the Government.
+2. Ammonia, which is an input of urea, is produced from natural gas.
+3. Sulphur, which is a raw material for phosphoric acid fertiliser, is a by- product of oil refineries.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements (2020)
+1. In the case of all cereals, pulses and oilseeds, the procurement at Minimum Support Price (MSP) is unlimited in any State/UT of India.
+2. In the case of cereals and pulses, the MSP is fixed in any State/UT at a level to which the market price will never rise.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following factors/policies were affecting the price of rice in India in the recent past? (2020)
+1. Minimum Support Price
+2. Government’s trading
+3. Government’s stockpiling
+4. Consumer subsidies
+Select the correct answer using the code given below:
+a) 1, 2 and 4 only
+b) 1, 3 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q10) In India, which of the following can be considered as public investment in agriculture? (2020)
+1. Fixing Minimum Support Price for agricultural produce of all crops.
+2. Computerization of Primary Agricultural Credit Societies.
+3. Social Capital development.
+4. Free Electricity supply to farmers.
+5. Waiver of agricultural loans by the banking system.
+6. Setting up of cold storage facilities by the government.
+Select the correct answer using the code given below:
+a) 1, 2 and 5 only
+b) 1, 3, 4 and 5 only
+c) 2, 3 and 6 only
+d) 1, 2 ,3, 4, 5 and 6
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 6 only
+#AnswerEnd
+
+#QuestionStart
+Q11) The economic cost of food grains to the Food Corporation of India is Minimum Support Price and bonus (if any) paid to the farmers plus: (2019)
+a) Transportation cost only
+b) Interest cost only
+c) Procurement incidentals and distribution cost
+d) Procurement incidentals and charges for godowns
+#QuestionEnd
+#AnswerStart
+Answer: c) Procurement incidentals and distribution cost
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to organic farming in India, consider the following statements: (2018)
+1. 'The National Programme for Organic Production' (NPOP) is operated under the guidelines and directions of the Union Ministry of Rural Development.
+2. 'The Agricultural and Processed Food Products Export Development Authority (APEDA) functions as the Secretariat for the implementation of NPOP.
+3. Sikkim has become India's first fully organic State.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) As per the NSSO 70th Round "Situation Assessment Survey of Agricultural Households", consider the following statements: (2018)
+1. Rajasthan has the highest percentage share of agricultural households among its rural households.
+2. Out of the total agricultural households in the country, a little over 60 percent belong to OBCs.
+3. In Kerala, a little over 60 percent of agricultural households reported to have received maximum income from sources other than agricultural activities.
+Which of the statements given above is/are correct?
+a) 2 and 3 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following: (2018)
+1. Areca nut
+2. Barley
+3. Coffee
+4. Finger millet
+5. Groundnut
+6. Sesamum
+7. Turmeric
+The Cabinet Committee on Economic Affairs has announced the Minimum Support Price for which of the above?
+a) 1, 2, 3 and 7 only
+b) 2, 4, 5 and 6 only
+c) 1, 3, 4, 5 and 6 only
+d) 1, 2, 3, 4, 5 and 7
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 4, 5 and 6 only
+#AnswerEnd
+
+#QuestionStart
+Q15) What is/are the advantages/advantages of implementing the 'National Agriculture Market' scheme? (2017)
+1. It is a pan-India electronic trading portal for agricultural commodities.
+2. It provides the farmers' access to a nationwide market, with prices commensurate with the quality of their produce.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q16) Why does the Govt promote the use of Neem-coated Urea’ in agriculture? (Prelims-2016)
+a) Release of Neem oil in the soil increases nitrogen fixation by the soil microorganisms.
+b) Neem coating slows down the rate of dissolution of urea in the soil.
+c) Nitrous oxide, a greenhouse gas, is not at all released into atmosphere by crop fields.
+d) It is a combination of a weedicide and a fertilizer for particular crops.
+#QuestionEnd
+#AnswerStart
+Answer: b) Neem coating slows down the rate of dissolution of urea in the soil.
+#AnswerEnd
+
+#QuestionStart
+Q17) Which of the following is/are the advantage/ advantages of practising drip irrigation? (2016)
+1. Reduction in weed
+2. Reduction in soil salinity
+3. Reduction in soil erosion
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) None of the above is an advantage of practising drip irrigation
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd

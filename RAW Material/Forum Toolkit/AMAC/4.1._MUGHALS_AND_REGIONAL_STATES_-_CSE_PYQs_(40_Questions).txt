@@ -1,0 +1,496 @@
+#QuestionStart
+Q1) Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city? [UPSC CSE Pre 2023]
+a) Devaraya I
+b) Mallikarjuna
+c) Vira Vijaya
+d) Virupaksha
+#QuestionEnd
+#AnswerStart
+Answer: a) Devaraya I
+#AnswerEnd
+
+#QuestionStart
+Q2) Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese? [UPSC CSE Pre 2023]
+a) Ahmad Shah
+b) Mahmud Begarha
+c) Bahadur Shah
+d) Muhammad Shah
+#QuestionEnd
+#AnswerStart
+Answer: c) Bahadur Shah
+#AnswerEnd
+
+#QuestionStart
+Q3) “Yogavasistha” was translated into Persian by Nizamuddin Panipati during the reign of: [UPSC CSE Pre 2022]
+a) Akbar
+b) Humayun
+c) Shajahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: a) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q4) According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas? [UPSC CSE Pre 2021]
+1. Wrestling
+2. Astrology
+3. Accounting
+4. Soothsaying
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size? [UPSC CSE Pre 2021]
+a) Paragana-Sarkar-Suba
+b) Sarkar—Paragana—Suba
+c) Suba-Sarkar-Paragana
+d) Paragana-Suba-Sarkar
+#QuestionEnd
+#AnswerStart
+Answer: a) Paragana-Sarkar-Suba
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to Indian history, which of the following statements is/are correct? [UPSC CSE Pre 2021]
+1. The Nizamat of Arcot emerged out of Hyderabad State.
+2. The Mysore Kingdom emerged out of Vijayanagara Empire.
+3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durrani.
+Select the correct answer using the code given below:
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the history of India, consider the following pairs: [UPSC CSE Pre. 2020]
+|   |   |
+|---|---|
+| 1. Aurang | In-charge of treasury of the State |
+| 2. Banian | Indian agent of the East India Company |
+| 3. Mirasidar | Designated revenue payer to the State |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to Mian Tansen, which one of the following statements is not correct? [UPSC CSE Pre. 2019]
+a) Tansen was the title given to him by Emperor Akbar.
+b) Tansen composed Dhrupads on Hindu gods and goddesses.
+c) Tansen composed songs on his patrons.
+d) Tansen invented many Ragas.
+#QuestionEnd
+#AnswerStart
+Answer: a) Tansen was the title given to him by Emperor Akbar.
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar? [UPSC CSE Pre. 2019]
+1. Jagirdars were holders of land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection.
+2. Land assignments to Jagirdars were hereditary and revenue rights of Zamindars were not hereditary.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q10) Who among the following Mughal Emperors Shifted emphasis from illustrated manuscripts to album and individual portrait? [UPSC CSE Pre. 2019]
+a) Humayun
+b) Akbar
+c) Jahangir
+d) Shah Jahan
+#QuestionEnd
+#AnswerStart
+Answer: c) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q11) Regarding the taxation system of Krishna Deva, the ruler of Vijayanagar, consider the following statements: [UPSC CSE Pre. 2016]
+1. The tax rate on land was fixed depending on the quality of the land.
+2. Private owners of workshops paid an industries tax.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q12) Banjaras during the medieval period of Indian history were generally [UPSC CSE Pre. 2016]
+a) agriculturists
+b) warriors
+c) weavers
+d) traders
+#QuestionEnd
+#AnswerStart
+Answer: d) traders
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to the economic history of medieval India, the term ‘Araghatta’ refers to [UPSC CSE Pre. 2016]
+a) bonded labour
+b) land grants made to military officers
+c) waterwheel used in the irrigation of land
+d) waste land converted to cultivated land
+#QuestionEnd
+#AnswerStart
+Answer: c) waterwheel used in the irrigation of land
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following pairs: [UPSC CSE Pre. 2015]
+| Medieval Indian State | Present Region |
+|---|---|
+| 1. Champaka | Central India |
+| 2. Durgara | Jammu |
+| 3. Kuluta | Malabar |
+Which of the above pairs is / are correctly matched?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong? [UPSC CSE Pre. 2015]
+a) Amoghavarsha I
+b) Ballala II
+c) Harihara I
+d) Prataparudra II
+#QuestionEnd
+#AnswerStart
+Answer: c) Harihara I
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following: [UPSC CSE Pre. 2015]
+The arrival of Babur into India led to the
+1. Introduction of gunpowder in the subcontinent
+2. Introduction of the arch and dome in the region’s architecture
+3. Establishment of Timurid dynasty in the region
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Ibadat Khana at Fatehpur Sikri was [UPSC CSE Pre. 2014]
+a) The mosque for the use of Royal Family
+b) Akbar’s private chamber prayer
+c) The hall in which Akbar held discussions with scholars of various religions.
+d) The room in which the nobles belonging to different religions gathered to discuss religious affairs.
+#QuestionEnd
+#AnswerStart
+Answer: c) The hall in which Akbar held discussions with scholars of various religions.
+#AnswerEnd
+
+#QuestionStart
+Q18) What was the immediate reason for Ahmad Shah Abdali to invade India and fight the Third Battle of Panipat? [UPSC CSE Pre 2010]
+a) He wanted to avenge the expulsion of his Viceroy Timur Shah from Lahore by Marathas
+b) The frustrated Governor of Jullundhar Adina Beg Khan invited him to invade Punjab
+c) He wanted to punish Mughal administration for non-payment of the revenues of the Chahar Mahal (Gujarat, Aurangabad, Sialkot, and Pasrur)
+d) He wanted to annex all the fertile plains of Punjab up to the borders of Delhi to his kingdom
+#QuestionEnd
+#AnswerStart
+Answer: a) He wanted to avenge the expulsion of his Viceroy Timur Shah from Lahore by Marathas
+#AnswerEnd
+
+#QuestionStart
+Q19) When Raja Wodeyar founded the Kingdom of Mysore who was the ruler of the Vijayanagara Empire? [UPSC CSE Pre 2006]
+a) Sadasiva
+b) Tirumala
+c) Ranga-II
+d) Venkata-II
+#QuestionEnd
+#AnswerStart
+Answer: d) Venkata-II
+#AnswerEnd
+
+#QuestionStart
+Q20) How did the dynasty of Nizam Shahi of Ahmadnagar come to an end? [UPSC CSE Pre 2004]
+a) Ahmadnagar was annexed to Mughal empire and Hussain Shah was consigned to life imprisonment
+b) Mughal troops destroyed Daulatabad fort and killed Nizam-ul-Mulk of Ahmadnagar
+c) Fateh Khan usurped the throne from Nizam-ul-Mulk
+d) Malik Ambar was defeated in a battle with Mughals in 1631 and the entire royal family was killed by the Mughal troops
+#QuestionEnd
+#AnswerStart
+Answer: a) Ahmadnagar was annexed to Mughal empire and Hussain Shah was consigned to life imprisonment
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following Statements: [UPSC CSE Pre 2004]
+1. Narasimha Saluva ended the Sangama dynasty and seized the throne for himself and started the Saluva dynasty
+2. Vira Narasimha deposed the last Saluva ruler and seized the throne for himself
+3. Vira Narasimha was succeeded by his younger brother, Krishnadeva Raya
+4. Krishnadeva Raya was succeeded by his half-brother, Achyuta Raya
+Which of the statements given above are correct?
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q22) How did the Mughal Emperor Jahandar Shah’s reign come to an early end? [UPSC CSE Pre 2003]
+a) He was deposed by his Wazir
+b) He died due to slip while climbing down steps
+c) He was defeated by his nephew in a battle
+d) He died of sickness due to too much consumption of wine.
+#QuestionEnd
+#AnswerStart
+Answer: c) He was defeated by his nephew in a battle
+#AnswerEnd
+
+#QuestionStart
+Q23) Alam Khan, one of those who invited Babur to invade India was: [UPSC CSE Pre 2003]
+a) An uncle of Ibrahim Lodi and a pretender to the throne of Delhi
+b) A cousin of Ibrahim Lodi who was ill-treated and expelled from the country
+c) The father of Dilawar Khan to whom cruel treatment was meted out by Ibrahim Lodi
+d) A high official in Punjab province who was very much discontented with Ibrahim Lodi’s treatment to his tribe
+#QuestionEnd
+#AnswerStart
+Answer: a) An uncle of Ibrahim Lodi and a pretender to the throne of Delhi
+#AnswerEnd
+
+#QuestionStart
+Q24) The battle of Dharmat was fought between: [UPSC CSE Pre 2003]
+a) Muhammad Ghori and jai Chand
+b) Babur and Afghans
+c) Aurangzeb and Dara Shukoh
+d) Ahmad Shah Durrani and the Marathas
+#QuestionEnd
+#AnswerStart
+Answer: c) Aurangzeb and Dara Shukoh
+#AnswerEnd
+
+#QuestionStart
+Q25) The motive behind Shah Jahan’s Balkh campaign was to: [UPSC CSE Pre 2002]
+a) Secure a friendly ruler in Balkh and Badakshan which bordered Kabul
+b) Conquer Samarqand and Ferghana, the Mughal homelands
+c) Fix the Mughal frontier on the ‘scientific line’ the Amu Daria
+d) Expand the Mughal Empire beyond the sub-continent
+#QuestionEnd
+#AnswerStart
+Answer: a) Secure a friendly ruler in Balkh and Badakshan which bordered Kabul
+#AnswerEnd
+
+#QuestionStart
+Q26) Which among the following ports was called Babul Mecca (Gate of Mecca) during the Mughal Period? [UPSC CSE Pre 2001]
+a) Calicut
+b) Bharuch
+c) Cambay
+d) Surat
+#QuestionEnd
+#AnswerStart
+Answer: d) Surat
+#AnswerEnd
+
+#QuestionStart
+Q27) Which one of the following Muslim rulers was hailed as the ‘Jagadguru’ by his Muslim subject because of his belief in secularism? [UPSC CSE Pre 2000]
+a) Hussain Shah
+b) Zain-ul-Abidin
+c) Ibrahim Adil Shah
+d) Mahmud II
+#QuestionEnd
+#AnswerStart
+Answer: c) Ibrahim Adil Shah
+#AnswerEnd
+
+#QuestionStart
+Q28) Who among the following streamlined the Maratha administration after Shambhaji? [UPSC CSE Pre 2000]
+a) Rajaram
+b) Balaji Viswanath
+c) Ganga Bai
+d) Nanaji Deshmukh
+#QuestionEnd
+#AnswerStart
+Answer: b) Balaji Viswanath
+#AnswerEnd
+
+#QuestionStart
+Q29) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre 2000]
+| List-I | List-II |
+|---|---|
+| A. Iqta | 1. Marathas |
+| B. Jagir | 2. Delhi Sultans |
+| C. Amaram | 3. Mughals |
+| D. Mokasa | 4. Vijayanagar |
+Code:
+a) A-3, B-2, C-1, D-4
+b) A-2, B-3, C-4, D-1
+c) A-2, B-3, C-1, D-4
+d) A-3, B-2, C-4, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the following statements: [UPSC CSE Pre 1999]
+Assertion (A): During the time of Akbar, for every ten cavalrymen, the mansabdars had to maintain twenty horses.
+Reason (R): Horses had to be rested while on March and replacements were necessary in times of war.
+Code:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following statements: [UPSC CSE Pre 1998]
+Ahadis were those troopers who:
+1. offered their services singly
+2. did not attach themselves to any chief
+3. had the emperor as their immediate colonel
+4. attached themselves to Mirzas
+Which of these statements is/are correct?
+a) 1, 3 and 4 are correct
+b) 1, 2 and 3 are correct
+c) 2 and 3 are correct
+d) 1 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3 are correct
+#AnswerEnd
+
+#QuestionStart
+Q32) The loss of Qandahar was a big blow to the Mughal empire from the viewpoint of: [UPSC CSE Pre 1998]
+a) Natural resources
+b) Buffer territory
+c) Communication
+d) Strategic stronghold
+#QuestionEnd
+#AnswerStart
+Answer: d) Strategic stronghold
+#AnswerEnd
+
+#QuestionStart
+Q33) The member of Shivaji’s Ashtapradhan who looked after foreign affairs was: [UPSC CSE Pre 1998]
+a) Peshwa
+b) Sachiv
+c) Pandit Rao
+d) Sumant
+#QuestionEnd
+#AnswerStart
+Answer: d) Sumant
+#AnswerEnd
+
+#QuestionStart
+Q34) In the given map, the shaded part represents Akbar’s empire at a certain juncture, CA’ stands for an independent state and ‘B’ marks the site of city. Which one of the following alternative gives all correct information? [UPSC CSE Pre 1998]
+(Image of a map showing Akbar's empire)
+a) Akbar in 1557 : Golconda, Lahore
+b) Akbar in 1557 : Khandesh, Multan
+c) Akbar in 1605 : Gondwana, Multan
+d) Akbar in 1605 : Gondwana, Lahore
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar in 1605 : Gondwana, Lahore
+#AnswerEnd
+
+#QuestionStart
+Q35) The head of the military department under the recognized central machinery of administration during Akbar’s reign was: [UPSC CSE Pre 1997]
+a) Diwan
+b) Mir Bakshi
+c) Mir Saman
+d) Bakshi
+#QuestionEnd
+#AnswerStart
+Answer: b) Mir Bakshi
+#AnswerEnd
+
+#QuestionStart
+Q36) The medieval Indian writer who refers to the discovery of America is: [UPSC CSE Pre 1997]
+a) Malik Muhammad Jaisi
+b) Amir Khusrau
+c) Raskhan
+d) Abul Fazl
+#QuestionEnd
+#AnswerStart
+Answer: d) Abul Fazl
+#AnswerEnd
+
+#QuestionStart
+Q37) The ‘Modi script’ was employed in the documents of the: [UPSC CSE Pre 1995]
+a) Wodeyars
+b) Zamorins
+c) Hoysalas
+d) Marathas
+#QuestionEnd
+#AnswerStart
+Answer: d) Marathas
+#AnswerEnd
+
+#QuestionStart
+Q38) The Mansabdari System introduced by Akbar was borrowed from the system followed in- [UPSC CSE Pre 1994]
+a) Afghanistan
+b) Turkey
+c) Mongolia
+d) Persia
+#QuestionEnd
+#AnswerStart
+Answer: c) Mongolia
+#AnswerEnd
+
+#QuestionStart
+Q39) Which one of the following is a monument constructed by Shershah? [UPSC CSE Pre 1993]
+a) Qila-i-Kuhna at Delhi
+b) Atala Masjid at Jaunpur
+c) Bara Sona Masjid at Gaur
+d) Quwwat-ul-Islam Mosque at Delhi
+#QuestionEnd
+#AnswerStart
+Answer: a) Qila-i-Kuhna at Delhi
+#AnswerEnd
+
+#QuestionStart
+Q40) Given below are two statements, one is labeled Assertion and other is labelled as Reason (R). [UPSC CSE Pre 1993]
+Assertion (A): Babur wrote his memoirs in Turki.
+Reason (R): Turki was the official language of the Mughal Court.
+In the context of the above two statements which one of the following is correct?
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd

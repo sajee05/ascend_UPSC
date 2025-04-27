@@ -1,0 +1,325 @@
+#QuestionStart
+Q1) Consider the following States: (2022)
+1. Andhra Pradesh
+2. Kerala
+3. Himachal Pradesh
+4. Tripura
+How many of the above are generally known as tea-producing States?
+a) Only one State
+b) Only two States
+c) Only three States
+d) All four States
+#QuestionEnd
+#AnswerStart
+Answer: d) All four States
+#AnswerEnd
+
+#QuestionStart
+Q2) "The crop is subtropical in nature. A hard frost is injurious to it. It requires at least 210 frost -free days and 50 to 100 centimetres of rainfall for its growth. A light well- drained soil capable of retaining moisture is ideally suited for the cultivation of the crop." Which one of the following is that crop? (2020)
+a) Cotton
+b) Jute
+c) Sugarcane
+d) Tea
+#QuestionEnd
+#AnswerStart
+Answer: a) Cotton
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to pulse production in India, consider the following statements: (2020)
+1. Black gram can be cultivated as both kharif and rabi crops.
+2. Green-gram alone accounts for nearly half of pulse production.
+3. In the last three decades, while the production of kharif pulses has increased the production of rabi pulses has decreased.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to the cultivation of Kharif crops in the last five years, consider the following statements: (2019)
+1. Area under rice cultivation is the highest.
+2. Area under cultivation of jowar is more than that of oilseeds.
+3. Area of cotton cultivation is more than that of sugarcane.
+4. Area under sugarcane cultivation has steadily decreased.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following pairs: (2014)
+| Region | Well-known for the production of |
+|---|---|
+| 1. Kinnaur | Areca nut |
+| 2. Mewat | Mango |
+| 3. Coromandel | Soya bean |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following pairs: (2014)
+| Programme/Project | Ministry |
+|---|---|
+| 1. Drought-Prone Area Programme | Ministry of Agriculture |
+| 2. Desert Development Programme | Ministry of Environment and Forests |
+| 3. National Watershed Development Project for Rainfed Areas | Ministry of Rural Development |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q7) In the context of food and nutritional security of India, enhancing the 'Seed Replacement Rates' of various crops helps in achieving the food production targets of the future. But what is/are the constraints/constraints in its wider/greater implementation? (2014)
+1. There is no National Seeds Policy in place.
+2. There is no participation of private sector seed companies in the supply of quality seeds of vegetables and planting materials of horticultural crops.
+3. There is a demand-supply gap regarding quality seeds in case of low value and high-volume crops.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Improper handling and storage of cereal grains and oilseeds result in the production of toxins known as aflatoxins which are not generally destroyed by normal cooking process. Aflatoxins are produced by (2013)
+a) bacteria
+b) protozoa
+c) moulds
+d) viruses
+#QuestionEnd
+#AnswerStart
+Answer: c) moulds
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following crops: (2013)
+1. Cotton
+2. Groundnut
+3. Rice
+4. Wheat
+Which of these are Kharif crops?
+a) 1 and 4
+b) 2 and 3 only
+c) 1, 2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following crops of India: (2012)
+1. Groundnut
+2. Sesamum
+3. Pearl millet
+Which of the above is / are predominantly rainfed crop/crops?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following crops of India: (2012)
+1. Cowpea
+2. Green gram
+3. Pigeon pea
+Which of the above is/are used as pulse, fodder and green manure?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Which of the following is the chief characteristic of ‘mixed farming’? (2012)
+a) Cultivation of both cash crops and food crops
+b) Cultivation of two or more crops in the same field
+c) Rearing of animals and cultivation of crops together
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Rearing of animals and cultivation of crops together
+#AnswerEnd
+
+#QuestionStart
+Q13) Among the following states, which one has the most suitable climatic conditions for the cultivation of a large variety of orchids with minimum cost of production, and can develop an export-oriented industry in this field? (2011)
+a) Andhra Pradesh
+b) Arunachal Pradesh
+c) Madhya Pradesh
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q14) A state in India has the following characteristics: (2011)
+1. Its northern part is arid and semi-arid.
+2. Its central part produces cotton.
+3. Cultivation of cash crops is predominant over food crops.
+Which one of the following states has all of the above characteristics?
+a) Andhra Pradesh
+b) Gujarat
+c) Karnataka
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b) Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to micro-irrigation, which of the following statements is/are correct? (2011)
+1. Fertiliser/nutrient loss can be reduced.
+2. It is the only means of irrigation in dry land farming.
+3. In some areas of farming, receding of the groundwater table can be checked.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) The lower Gangetic plain is characterised by a humid climate with high temperature throughout the year. Which one among the following pairs of crops is most suitable for this region? (2011)
+a) Paddy and cotton
+b) Wheat and Jute
+c) Paddy and Jute
+d) Wheat and cotton
+#QuestionEnd
+#AnswerStart
+Answer: c) Paddy and Jute
+#AnswerEnd
+
+#QuestionStart
+Q17) Salinization occurs when the irrigation water accumulated in the soil evaporates, leaving behind salts and minerals. What are the effects of Salinization on irrigated land? (2011)
+a) It greatly increases the crop production
+b) It makes some soils impermeable
+c) It raises the water table
+d) It fills the air spaces in the soil with water
+#QuestionEnd
+#AnswerStart
+Answer: b) It makes some soils impermeable
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following statements: (2015)
+1. The Accelerated Irrigation Benefits Program was launched during 1996- 97 to provide loan assistance to poor farmers.
+2. The Command Area Development Program was launched in 1974-75 for the development of water-use efficiency.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Which one of the following best describes the main objective of ‘Seed Village Concept? (2015)
+a) Encouraging the farmers to use their own farm seeds and discouraging them to buy the seeds from others.
+b) Involving the farmers for training in quality seed production and thereby to make available quality seeds to others at appropriate time and affordable cost.
+c) Earmarking some villages exclusively for the production of certified seeds.
+d) Identifying the entrepreneurs in the village and providing them technology and finance to set up seed companies.
+#QuestionEnd
+#AnswerStart
+Answer: b) Involving the farmers for training in quality seed production and thereby to make available quality seeds to others at appropriate time and affordable cost.
+#AnswerEnd
+
+#QuestionStart
+Q20) The substitution of steel for wooden ploughs in agricultural production is an example of (2015)
+a) labour-augmenting technological progress
+b) capital-augmenting technological progress
+c) capital-reducing technological progress
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) capital-augmenting technological progress
+#AnswerEnd
+
+#QuestionStart
+Q21) In India, markets in agricultural products are regulated under the (2015)
+a) Essential Commodities Act, 1955
+b) Agricultural Produce Market Committee Act enacted by States
+c) Agricultural Produce (Grading and Marking) Act, 1937
+d) Food Products Order, 1956 and Meat and Food Products Order, 1973
+#QuestionEnd
+#AnswerStart
+Answer: b) Agricultural Produce Market Committee Act enacted by States
+#AnswerEnd
+
+#QuestionStart
+Q22) The Fair and Remunerative Price of Sugarcane is approved by the (2015)
+a) Cabinet Committee on Economic Affairs
+b) Commission for Agricultural Costs and Prices
+c) Directorate of Marketing and Inspection, Ministry of Agriculture
+d) Agricultural Produce Marketing Committee
+#QuestionEnd
+#AnswerStart
+Answer: a) Cabinet Committee on Economic Affairs
+#AnswerEnd
+
+#QuestionStart
+Q23) India has experienced persistent and high food inflation in the recent past. What could be the reasons? (2011)
+1. Due to gradual switch over to the cultivation of commercial crops, the area under the cultivation of food grains has steadily decreased in the last five years by about 30%.
+2. As a consequence of increasing incomes, the consumption patterns of people have undergone a significant change.
+3. The food supply chain has structural constraints.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q24) With what purpose is the Government of India promoting the concept of "Mega Food Parks"? (2011)
+1. To provide good infrastructure facilities for the food processing industry.
+2. To increase the processing of perishable items and reduce wastage.
+3. To provide emerging and eco-friendly food processing technologies to entrepreneurs.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd

@@ -18,9 +18,10 @@ import {
 interface AdvancedChartsProps {
   overallStats: SubjectStats;
   subjectStats: SubjectStats[];
+  trendData: { date: string; accuracy: number; score: number }[]; // Add trendData prop
 }
 
-export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsProps) {
+export function AdvancedCharts({ overallStats, subjectStats, trendData }: AdvancedChartsProps) { // Receive trendData
   const [activeTab, setActiveTab] = useState<string>("tagwise");
 
   // COLORS for charts
@@ -106,44 +107,7 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
     };
   });
 
-  // Data for date-wise performance, create simulated data points based on attempt distribution
-  const dateWiseData = (() => {
-    const now = new Date();
-    const result = [];
-    
-    // Create date points based on attempt distribution
-    if (overallStats.attemptDistribution) {
-      const dates = Object.keys(overallStats.attemptDistribution).map(Number);
-      const maxDate = Math.max(...dates);
-      
-      for (let i = 1; i <= maxDate; i++) {
-        const date = new Date(now);
-        date.setDate(date.getDate() - (maxDate - i) * 3); // Space out dates
-        
-        result.push({
-          date: date.toISOString().split("T")[0],
-          accuracy: 60 + Math.random() * 30, // Random values between 60-90
-          score: 70 + Math.random() * 20,    // Random values between 70-90
-          attemptNumber: i
-        });
-      }
-    } else {
-      // If no distribution data, create sample points
-      for (let i = 0; i < 5; i++) {
-        const date = new Date(now);
-        date.setDate(date.getDate() - (4 - i) * 7);
-        
-        result.push({
-          date: date.toISOString().split("T")[0],
-          accuracy: 60 + Math.random() * 30,
-          score: 70 + Math.random() * 20,
-          attemptNumber: i + 1
-        });
-      }
-    }
-    
-    return result;
-  })();
+  // Removed simulated dateWiseData, will use trendData prop directly
   
   // Meta-cognitive data (knowledge vs guesswork)
   const metacognitiveData = [
@@ -184,20 +148,7 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
     };
   });
 
-  // Before and after comparison (if multiple attempts)
-  const beforeAfterData = overallStats.dataPoints && overallStats.dataPoints.length > 1 ? 
-    [
-      {
-        name: 'First Attempt',
-        score: overallStats.dataPoints[0].score || 0,
-        accuracy: overallStats.dataPoints[0].accuracy || 0
-      },
-      {
-        name: 'Latest Attempt',
-        score: overallStats.dataPoints[overallStats.dataPoints.length - 1].score || 0,
-        accuracy: overallStats.dataPoints[overallStats.dataPoints.length - 1].accuracy || 0
-      }
-    ] : null;
+  // Removed beforeAfterData as overallStats.dataPoints does not exist
 
   // Knowledge calibration data
   const knowledgeCalibrationData = [
@@ -354,7 +305,7 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
               <CardContent>
                 <div className="h-80">
                   <ResponsiveContainer width="100%" height="100%">
-                    <LineChart data={dateWiseData}>
+                    <LineChart data={trendData}> {/* Use trendData prop */}
                       <CartesianGrid strokeDasharray="3 3" />
                       <XAxis 
                         dataKey="date" 
@@ -394,29 +345,7 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
               </CardContent>
             </Card>
             
-            {beforeAfterData && (
-              <Card className="md:col-span-2">
-                <CardHeader className="pb-2">
-                  <CardTitle className="text-lg">Before vs After</CardTitle>
-                  <CardDescription>First attempt compared to latest attempt</CardDescription>
-                </CardHeader>
-                <CardContent>
-                  <div className="h-80">
-                    <ResponsiveContainer width="100%" height="100%">
-                      <BarChart data={beforeAfterData}>
-                        <CartesianGrid strokeDasharray="3 3" />
-                        <XAxis dataKey="name" />
-                        <YAxis domain={[0, 100]} />
-                        <Tooltip formatter={(value) => [`${value}%`, ""]} />
-                        <Legend />
-                        <Bar dataKey="accuracy" name="Accuracy %" fill="#30D158" />
-                        <Bar dataKey="score" name="Score %" fill="#0A84FF" />
-                      </BarChart>
-                    </ResponsiveContainer>
-                  </div>
-                </CardContent>
-              </Card>
-            )}
+            {/* Removed Before vs After chart */}
           </div>
         </TabsContent>
         
@@ -562,9 +491,10 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
                           `${parseFloat(value.toString()).toFixed(1)}%`, 
                           name === "confidenceRating" ? "Confidence" : "Accuracy"
                         ]}
-                        labelFormatter={(value, entry) => {
-                          const dataPoint = entry && entry[0] ? entry[0].payload : null;
-                          return dataPoint ? dataPoint.name : "";
+                        labelFormatter={(label) => { // Correct signature: receives label directly
+                          // Find the corresponding data point based on the label (confidenceRating)
+                          const dataPoint = confidenceAccuracyData.find(d => d.confidenceRating === label);
+                          return dataPoint ? dataPoint.name : ""; // Return subject name
                         }}
                       />
                       <ReferenceLine y={50} stroke="#FF453A" strokeDasharray="3 3" />
@@ -574,7 +504,7 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
                         name="Subject" 
                         data={confidenceAccuracyData} 
                         fill="#0A84FF"
-                        shape={(props) => {
+                        shape={(props: any) => { // Add type 'any' to props
                           const { cx, cy, r } = props;
                           const subject = props.payload;
                           const size = Math.max(5, Math.min(15, (subject.questions / 10) * 5));
@@ -676,16 +606,17 @@ export function AdvancedCharts({ overallStats, subjectStats }: AdvancedChartsPro
                           name === "avgTimeInSeconds" ? `${value} seconds` : `${value}%`, 
                           name === "avgTimeInSeconds" ? "Avg Time" : "Accuracy"
                         ]}
-                        labelFormatter={(value, entry) => {
-                          const dataPoint = entry && entry[0] ? entry[0].payload : null;
-                          return dataPoint ? dataPoint.name : "";
+                        labelFormatter={(label) => { // Correct signature: receives label directly
+                           // Find the corresponding data point based on the label (avgTimeInSeconds)
+                           const dataPoint = timeSensitivityData.find(d => d.avgTimeInSeconds === label);
+                           return dataPoint ? dataPoint.name : ""; // Return subject name
                         }}
                       />
                       <Scatter 
                         name="Subject" 
                         data={timeSensitivityData} 
                         fill="#0A84FF"
-                        shape={(props) => {
+                        shape={(props: any) => { // Add type 'any' to props
                           const { cx, cy, r } = props;
                           const subject = props.payload;
                           const size = Math.max(5, Math.min(15, (subject.questions / 10) * 5));

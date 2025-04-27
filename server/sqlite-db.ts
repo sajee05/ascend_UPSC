@@ -7,6 +7,9 @@ import path from 'path';
 import fs from 'fs';
 import { logger } from './logger';
 
+// Module-level variable to track if we are in portable mode
+let isPortable = false;
+
 /**
  * Get the database file path based on the environment
  */
@@ -14,9 +17,10 @@ export function getDbPath(): string {
   // If SQLite_DB_PATH is explicitly set, use it (portable mode)
   if (process.env.SQLITE_DB_PATH) {
     logger(`Using database path from environment: ${process.env.SQLITE_DB_PATH}`, 'sqlite');
+    isPortable = true; // Set the flag if using SQLITE_DB_PATH
     return process.env.SQLITE_DB_PATH;
   }
-  
+
   // When running in Electron, use the user's app data folder
   if (process.env.APP_DATA_PATH) {
     const dbDir = process.env.APP_DATA_PATH;
@@ -46,172 +50,64 @@ export function initializeDatabase() {
   logger('Initializing SQLite database...', 'sqlite');
   
   // Check if we're in portable mode and if the database exists
-  if (process.env.PORTABLE_MODE === 'true') {
+  // Check if we're in portable mode using the flag set by getDbPath
+  if (isPortable) {
     // In portable mode, the database should already exist
-    logger('Portable mode detected, using pre-installed database', 'sqlite');
+    logger('Portable mode detected (based on initial getDbPath), verifying existing migrations.', 'sqlite');
     
     try {
-      // Verify the database has the expected tables
-      const result = db.select({
+      // Check if migrations have already been applied by looking at Drizzle's internal table
+      const migrationTableCheck = db.select({
         count: sql`count(*)`
-      }).from(sql`sqlite_master WHERE type='table' AND name='subjects'`).all();
-      
-      if (result[0].count > 0) {
-        logger('Pre-installed database verified', 'sqlite');
-        return;
+      }).from(sql`sqlite_master WHERE type='table' AND name='__drizzle_migrations'`).all();
+
+      if (migrationTableCheck[0].count > 0) {
+        // Check if the migration table has any entries
+        const migrationEntries = db.select({ count: sql`count(*)` }).from(sql`__drizzle_migrations`).all();
+        if (migrationEntries[0].count > 0) {
+          // Migrations already applied, do nothing further in this path for portable mode.
+          logger('Migrations already applied (found entries in __drizzle_migrations), skipping.', 'sqlite');
+          // NOTE: We don't call applyMigrationsAndSeed() here
+        } else {
+           // __drizzle_migrations table exists but is empty, apply migrations.
+           logger('__drizzle_migrations table exists but is empty, applying migrations.', 'sqlite');
+           applyMigrationsAndSeed(); // Apply migrations and seed
+        }
       } else {
-        // No tables, need to create them
-        logger('Tables not found in pre-installed database, creating tables', 'sqlite');
+        // __drizzle_migrations table not found, apply migrations.
+        logger('__drizzle_migrations table not found, applying migrations.', 'sqlite');
+        applyMigrationsAndSeed(); // Apply migrations and seed
       }
     } catch (error) {
-      // If there's an error, we need to create the tables
-      logger('Error verifying pre-installed database, creating tables', 'sqlite');
+      // If there's an error checking the migration table (e.g., table doesn't exist yet), assume migrations need to run
+      logger(`Error checking migration status (${error}), proceeding with migrations.`, 'sqlite');
+      applyMigrationsAndSeed(); // Apply migrations and seed
     }
+  } else {
+    // Not in portable mode, always attempt migrations
+    logger('Not in portable mode (based on initial getDbPath), applying migrations.', 'sqlite');
+    applyMigrationsAndSeed(); // Apply migrations and seed
   }
-  
-  // Create tables through SQL statements
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS subjects (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      name TEXT NOT NULL UNIQUE,
-      description TEXT,
-      sort_order INTEGER DEFAULT 0,
-      is_active INTEGER DEFAULT 1,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS topics (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      subject_id INTEGER NOT NULL,
-      name TEXT NOT NULL,
-      description TEXT,
-      sort_order INTEGER DEFAULT 0,
-      is_active INTEGER DEFAULT 1,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      FOREIGN KEY (subject_id) REFERENCES subjects(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS tests (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      name TEXT NOT NULL,
-      description TEXT,
-      difficulty TEXT,
-      time_limit INTEGER,
-      total_questions INTEGER,
-      is_active INTEGER DEFAULT 1,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS questions (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      test_id INTEGER NOT NULL,
-      question_text TEXT NOT NULL,
-      option_a TEXT NOT NULL,
-      option_b TEXT NOT NULL,
-      option_c TEXT NOT NULL,
-      option_d TEXT NOT NULL,
-      correct_answer TEXT NOT NULL,
-      explanation TEXT,
-      is_active INTEGER DEFAULT 1,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      FOREIGN KEY (test_id) REFERENCES tests(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS question_subjects (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      question_id INTEGER NOT NULL,
-      subject_id INTEGER NOT NULL,
-      FOREIGN KEY (question_id) REFERENCES questions(id),
-      FOREIGN KEY (subject_id) REFERENCES subjects(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS question_topics (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      question_id INTEGER NOT NULL,
-      topic_id INTEGER NOT NULL,
-      FOREIGN KEY (question_id) REFERENCES questions(id),
-      FOREIGN KEY (topic_id) REFERENCES topics(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS tags (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      question_id INTEGER NOT NULL,
-      tag_name TEXT NOT NULL,
-      is_ai_generated INTEGER NOT NULL DEFAULT 0,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      FOREIGN KEY (question_id) REFERENCES questions(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS attempts (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      test_id INTEGER NOT NULL,
-      attempt_number INTEGER NOT NULL,
-      start_time TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      end_time TEXT,
-      total_time_seconds INTEGER,
-      completed INTEGER NOT NULL DEFAULT 0,
-      score REAL,
-      correct_count INTEGER,
-      incorrect_count INTEGER,
-      left_count INTEGER,
-      FOREIGN KEY (test_id) REFERENCES tests(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS user_answers (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      attempt_id INTEGER NOT NULL,
-      question_id INTEGER NOT NULL,
-      selected_option TEXT,
-      is_correct INTEGER,
-      is_left INTEGER,
-      answer_time INTEGER,
-      knowledge_flag INTEGER DEFAULT 0,
-      technique_flag INTEGER DEFAULT 0,
-      guesswork_flag INTEGER DEFAULT 0,
-      confidence INTEGER,
-      notes TEXT,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      FOREIGN KEY (attempt_id) REFERENCES attempts(id),
-      FOREIGN KEY (question_id) REFERENCES questions(id)
-    )
-  `);
-  
-  db.run(sql`
-    CREATE TABLE IF NOT EXISTS flashcards (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      question_id INTEGER NOT NULL,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      last_reviewed_at TEXT,
-      next_review_at TEXT,
-      ease_factor REAL NOT NULL DEFAULT 2.5,
-      interval INTEGER NOT NULL DEFAULT 1,
-      review_count INTEGER NOT NULL DEFAULT 0,
-      difficulty_rating INTEGER,
-      notes TEXT,
-      FOREIGN KEY (question_id) REFERENCES questions(id)
-    )
-  `);
-  
-  logger('SQLite database initialized', 'sqlite');
-  
-  // Seed data if needed (for first-time initialization)
-  seedInitialData();
+}
+
+/**
+ * Helper function to apply migrations and seed data
+ */
+function applyMigrationsAndSeed() {
+  try {
+    logger('Applying database migrations...', 'sqlite');
+    migrate(db, { migrationsFolder: 'migrations' });
+    logger('Database migrations applied successfully', 'sqlite');
+    // Seed data only after successful migration attempt (or if migrations were skipped but seeding is needed)
+    seedInitialData();
+  } catch (error) {
+    // Log the migration error but don't prevent startup
+    logger(`Warning: Error applying migrations: ${error}`, 'sqlite');
+    console.warn("Migration warning:", error);
+    // Allow initialization to continue even if migrations had an issue, but still try seeding
+    logger('Attempting to seed data even after migration warning.', 'sqlite');
+    seedInitialData();
+  }
 }
 
 /**

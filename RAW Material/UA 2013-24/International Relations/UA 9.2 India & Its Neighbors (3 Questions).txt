@@ -1,0 +1,32 @@
+#QuestionStart
+Q1) Recently, India signed a deal known as 'Action Plan for Prioritisation and Implementation of Cooperation Areas in the Nuclear Field' with which of the following countries? (2019)
+a) Japan
+b) Russia
+c) The United Kingdom
+d) The United States of America
+#QuestionEnd
+#AnswerStart
+Answer: b) Russia
+#AnswerEnd
+
+#QuestionStart
+Q2) What is the importance of developing Chabahar Port by India? (2017)
+a) India’s trade with African countries will enormously increase.
+b) India’s relations with oil-producing Arab countries will be strengthened.
+c) India will not depend on Pakistan for access to Afghanistan and Central Asia.
+d) Pakistan will facilitate and protect the installation of a gas pipeline between Iraq and India.
+#QuestionEnd
+#AnswerStart
+Answer: c) India will not depend on Pakistan for access to Afghanistan and Central Asia.
+#AnswerEnd
+
+#QuestionStart
+Q3) ‘Belt and Road Initiative’ is sometimes mentioned in the news in the context of the affairs of: (2016)
+a) African Union
+b) Brazil
+c) European Union
+d) China
+#QuestionEnd
+#AnswerStart
+Answer: d) China
+#AnswerEnd

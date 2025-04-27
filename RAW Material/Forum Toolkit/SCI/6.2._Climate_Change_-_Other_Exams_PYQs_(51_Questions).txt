@@ -1,0 +1,614 @@
+#QuestionStart
+Q22) Which of the following is not a greenhouse gas? [UPPCS (Pre) 2022]
+a) Chlorofluorocarbon
+b) Carbon dioxide
+c) Argon
+d) Methane
+#QuestionEnd
+#AnswerStart
+Answer: c) Argon
+#AnswerEnd
+
+#QuestionStart
+Q23) Which reference to ‘NET-ZERO’ GOAL FOR 2050, which of the following statements is/ are correct? [U.P.P.C.S (Pre) 2021]
+1. It means that a country will bring down its emissions to zero by 2050.
+2. It means that a country’s emissions will be compensated by absorption and removal of greenhouse gases from the atmosphere.
+Select the correct answer using the codes given below.
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following are the impacts of Global Warming? [U.P.P.C.S. (Pre) 2020]
+1. Rise in sea level
+2. Melting of glaciers
+3. Spread of diseases
+4. Bleaching of Coral reefs
+Select the correct answer using the codes given below.
+a) 1,2 and 3 only
+b) 2 and 3 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q25) Without green house, the average temperature of earth surface would be: [UPPCS (Pre) 2020]
+a) 0°C
+b) -18°C
+c) 5’C
+d) -20°C
+#QuestionEnd
+#AnswerStart
+Answer: b) -18°C
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following is not a greenhouse gas found naturally in the atmosphere? [U.P.P.C.S. (Pre) 2020]
+a) Nitrogen oxide
+b) Carbon dioxide
+c) Methane
+d) Ozone
+#QuestionEnd
+#AnswerStart
+Answer: a) Nitrogen oxide
+#AnswerEnd
+
+#QuestionStart
+Q27) The gas which is produced by Paddy fields and is involved in global warming is? [U.P.P.C.S. (Pre) 2019]
+a) Chlorine
+b) Methane
+c) Carbon dioxide
+d) Hydrogen sulphide
+#QuestionEnd
+#AnswerStart
+Answer: b) Methane
+#AnswerEnd
+
+#QuestionStart
+Q28) As a result of global warming, the frequency and severity of which of the following are increasing due to global warming? [UPPCS (Pre) 2018]
+a) Cyclones only
+b) Storms only
+c) Hurricanes only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q29) Today the largest contributor to carbon dioxide (CO2) emissions is- [U.P.P.C.S (Pre) 2018]
+a) China
+b) Japan
+c) Russia
+d) U.S.A.
+#QuestionEnd
+#AnswerStart
+Answer: a) China
+#AnswerEnd
+
+#QuestionStart
+Q30) Which of the following statements are true? [U.P.P.C.S. (Pre) 2018]
+1. Natural disasters cause maximum damage in developing countries.
+2. Bhopal gas tragedy was man-made.
+3. India is a disaster-free country.
+4. Mangroves reduce the impact of cyclones.
+Select the correct answer from codes given below:
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1, 2 and 4
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q31) Ultraviolet radiation from sunlight causes the reaction that produces which of the following? [U.P.P.C.S. (Pre) 2018]
+a) CO
+b) SO₂
+c) O₃
+d) Fluorides
+#QuestionEnd
+#AnswerStart
+Answer: c) O₃
+#AnswerEnd
+
+#QuestionStart
+Q32) The maximum concentration of ozone is found in which of the following? [U.P.P.C.S. (Pre) 2018]
+a) Troposphere
+b) Mesosphere
+c) Stratosphere
+d) Exosphere
+#QuestionEnd
+#AnswerStart
+Answer: c) Stratosphere
+#AnswerEnd
+
+#QuestionStart
+Q33) Which of the following are the primary causes of climate change?
+1. Excessive burning of fossil fuels.
+2. Exploding numbers of automobiles driven by oil
+3. Increasing solar flares
+4. Heavy deforestation
+Select the correct answer using codes given below: [U.P.P.C.S. (Pre) 2017]
+a) 2 and 3 only
+b) 1,2 and 4 only
+c) 1, 2, 3 and 4
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q34) Given below are two statements: [U.P.P.C.S. (Pre) 2017]
+Assertion (A): Climate change is leading to an increase in social tension in India.
+Reason (R): The frequency and intensity of extreme weather events will have serious repercussions on food security.
+Choose the correct answer from codes given below:
+a) Both (A) and (R) are true and (R) is the correct reason for (A).
+b) Both (A) and (R) are true but (R) is not the correct reason of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct reason for (A).
+#AnswerEnd
+
+#QuestionStart
+Q35) Which one of the following is not correctly matched? [UPPCS (Pre) 2017]
+| (Green House Gas) | (Source) |
+|---|---|
+| (a) Carbon dioxide | Thermal Power Stations |
+| (b) Chlorofluorocarbon | Automobile |
+| (c) Nitrous Oxide | Waterlogged Paddy Fields |
+| (d) Sulphur dioxide | Brick Kilns |
+#QuestionEnd
+#AnswerStart
+Answer: b) Chlorofluorocarbon - Automobile
+#AnswerEnd
+
+#QuestionStart
+Q36) In stratosphere, the level of ozone is naturally regulated by- [U.P.P.C.S. (Mains) 2016]
+a) Nitrous oxide
+b) Nitrogen dioxide
+c) CFC
+d) Water vapours
+#QuestionEnd
+#AnswerStart
+Answer: b) Nitrogen dioxide
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following is known as a ‘carbon negative country’ in the world? [U.P. Lower Sub. (Pre) 2015]
+a) Afghanistan
+b) Bahrain
+c) Bhutan
+d) Nepal
+#QuestionEnd
+#AnswerStart
+Answer: c) Bhutan
+#AnswerEnd
+
+#QuestionStart
+Q38) Which of the following is not related to the astronomical theories of climate change? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Eccentricity of earth’s orbit
+b) Obliquity of earth’s rotational axis
+c) Precession of Equinoxes
+d) Solar irradiance
+#QuestionEnd
+#AnswerStart
+Answer: d) Solar irradiance
+#AnswerEnd
+
+#QuestionStart
+Q39) Which one of the following provides the cryogenic indicator of climate change? [U.P.P.C.S. (Pre) (Re Exam.) 2015]
+a) Ice core
+b) Fossilized pollen
+c) Tree ring growth
+d) Evaporite Deposits
+#QuestionEnd
+#AnswerStart
+Answer: a) Ice core
+#AnswerEnd
+
+#QuestionStart
+Q40) Harmful ultraviolet radiation coming from the sun can cause- [U.P.P.C.S. (Pre) 2014]
+a) Liver cancer
+b) Brain cancer
+c) Oral cancer
+d) Skin cancer
+#QuestionEnd
+#AnswerStart
+Answer: d) Skin cancer
+#AnswerEnd
+
+#QuestionStart
+Q41) Which of the following group of gases contribute to the “Greenhouse Effect”? [U.P.P.C.S. (Pre) 2013]
+a) Ammonia and Ozone
+b) Carbon monoxide and Sulphur dioxide
+c) Carbon tetrafluoride and Nitrous oxide
+d) Carbon dioxide and Methane
+#QuestionEnd
+#AnswerStart
+Answer: d) Carbon dioxide and Methane
+#AnswerEnd
+
+#QuestionStart
+Q42) Climate change is caused by- [U.P.P.C.S. (Pre) 2013]
+a) Greenhouse gases
+b) Depletion of the ozone layer
+c) Pollution
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q43) Which one of the following gases is both harmful and beneficial to life on earth? [U.P. Lower Sub. (Mains) 2013]
+a) Oxygen
+b) Ozone
+c) Nitrogen
+d) Carbon dioxide
+#QuestionEnd
+#AnswerStart
+Answer: d) Carbon dioxide
+#AnswerEnd
+
+#QuestionStart
+Q44) The radiation that is absorbed by ozone present in the atmosphere is- [U.P.P.C.S. (Pre) 2013]
+a) Infrared
+b) Visible
+c) Ultraviolet
+d) Microwave
+#QuestionEnd
+#AnswerStart
+Answer: c) Ultraviolet
+#AnswerEnd
+
+#QuestionStart
+Q45) Which one among the following substances does not contribute to global warming directly? [U.P.P.C.S. (Pre) 2013]
+a) Oxides of Sulphur
+b) Methane
+c) Carbon dioxide
+d) Water vapour
+#QuestionEnd
+#AnswerStart
+Answer: a) Oxides of Sulphur
+#AnswerEnd
+
+#QuestionStart
+Q46) Which of the following substances is/are ozone depleting? [U.P.P.C.S. (Pre) 2012]
+1. Chlorofluorocarbons
+2. Halons
+3. Carbon tetrachloride
+Select the correct answer from codes given below:
+a) 1 only
+b) 1 and 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q47) Which one of the following naturally occurring greenhouse gases causes the highest percentage of the greenhouse effect? [U.P.P.C.S. (Mains) 2011]
+a) Carbon Dioxide
+b) Methane
+c) Ozone
+d) Water Vapour
+#QuestionEnd
+#AnswerStart
+Answer: d) Water Vapour
+#AnswerEnd
+
+#QuestionStart
+Q48) Consider the following statements: [U.P.P.C.S. (Mains) 2010]
+Assertion (A): Ozone is essential for biotic life.
+Reason (R): The ozone layer protects the earth’s surface from high energy radiation. Select the correct answer from codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+c) (A) is true but (R) is false
+d) (A) is false but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q49) Among the following greenhouse gases, which does not cause ozone depletion in the troposphere? [U.P.P.C.S. (Pre) 2008] (⭐ please re-check)
+a) Methane
+b) Carbon monoxide
+c) Nitrogen Oxides (NO)
+d) Water vapours
+#QuestionEnd
+#AnswerStart
+Answer: b) Carbon monoxide
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following areas of India does not come under the zone of high seismic intensity? [U.P.P.C.S. (Pre) 2006]
+a) Uttarakhand
+b) Karnataka Plateau
+c) Kutch
+d) Himachal Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Karnataka Plateau
+#AnswerEnd
+
+#QuestionStart
+Q51) Which of the following is not true about chlorofluorocarbon? [U.P. Lower Sub. (Pre) 2004]
+a) It is used as a refrigerant.
+b) Is not responsible for the greenhouse effect.
+c) It is responsible for reducing ozone in the stratosphere.
+d) It is inactive in the lower atmosphere.
+#QuestionEnd
+#AnswerStart
+Answer: b) Is not responsible for the greenhouse effect.
+#AnswerEnd
+
+#QuestionStart
+Q52) Consider the following statements: [U.P.P.C.S. (Pre) 2003]
+Assertion (A): East coast is more prone to cyclones than western coast.
+Reason (R): Easter coast of India lies in the zone of north-east trade winds.
+In the context of the above statements, which of the following is correct?
+a) (A) and (R) both are true, and (R) is correct explanation of (A).
+b) (A) and (R) both are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (R) is true, but (A) is false.
+#QuestionEnd
+#AnswerStart
+Answer: b) (A) and (R) both are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q53) Given below are two statements. One is labelled as Assertion and other as Reason: [U.P.P.C.S. (Mains) 2003]
+Assertion (A): The frequency of landslides has increased in the Himalayas.
+Reason (R): There has been large scale mining in the Himalayas in recent years.
+In the context of the above which one of the following is correct:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+c) (A) is true but (R) is false
+d) (A) is false but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q54) As a result of global warming, there has been: [U.P.P.C.S. (Pre) 2001]
+1. Better global communication
+2. Melting of glaciers
+3. Flowering of mango trees before times
+4. Adverse impact on health
+Select your answer from the code given below:
+a) 1,2 and 3 are correct
+b) 2, 3 and 4 are correct
+c) 1, 2 and 4 are correct
+d) 1,3 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4 are correct
+#AnswerEnd
+
+#QuestionStart
+Q55) Consider the following statements: [U.P.P.C.S. (Pre) 2001]
+Assertion (A): The Koyna region of Maharashtra is likely to become more earthquake-prone in near future.
+Reason (R): The Koyna dam is located on an old fault-plane which may get activated more frequently with changes in water-level in Koyna reservoir.
+Select the correct answer using the code given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q56) Which one of the following statements is true with regard to a greenhouse? [CDS 2022 (I)]
+a) The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass.
+b) The shorter wavelength infrared radiations from the Sun can enter into the greenhouse and the longer wavelength infrared radiations from the ground and the plants inside the greenhouse can also pass back out through the glass.
+c) The shorter wavelength infrared radiations from the Sun cannot enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse can pass back out through the glass.
+d) No infrared radiation can pass through the glass of the greenhouse.
+#QuestionEnd
+#AnswerStart
+Answer: a) The shorter wavelength infrared radiations from the Sun can enter into the greenhouse while longer wavelength infrared radiations from the ground and the plants inside the greenhouse cannot pass back out through the glass.
+#AnswerEnd
+
+#QuestionStart
+Q57) Which one of the following is most sensitive to environmental change? [CDS 2016 (II)]
+a) Amphibian
+b) Reptile
+c) Mammal
+d) Insect
+#QuestionEnd
+#AnswerStart
+Answer: a) Amphibian
+#AnswerEnd
+
+#QuestionStart
+Q58) The principle of ‘common but respective capabilities’, often talked differentiated responsibilities and about in media, refers to [CAPF 2022]
+a) WHOs COVID-19 Global Vaccination Drive
+b) Contributions to the International Monetary Fund
+c) Reduction of greenhouse gas emissions
+d) Contributions to the United Nations Peacekeeping Operations
+#QuestionEnd
+#AnswerStart
+Answer: c) Reduction of greenhouse gas emissions
+#AnswerEnd
+
+#QuestionStart
+Q59) Which of the following statement(s) is/are correct in respect of the ‘Ecoradicals’?
+1. They believe that human societies on Earth are moving dangerously closer to the limits of the Earth’s carrying capacity.
+2. They call for strict population control.
+3. They stress for less consumption-oriented and waste-producing way of life.
+Select the correct answer using the code given below: [CAPF 2019]
+a) 1 only
+b) 2 only
+c) 1, 2 and 3
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q60) Which one among the following substances is not a ‘green house’ gas? [CAPF 2015]
+a) Water vapour
+b) Chlorofluorocarbon
+c) Methane
+d) Nitrogen
+#QuestionEnd
+#AnswerStart
+Answer: d) Nitrogen
+#AnswerEnd
+
+#QuestionStart
+Q61) Methane is a very potent greenhouse gas. It is converted to carbon dioxide to ease its overall effect on global warming. This process is known as [CAPF 2014]
+a) blocking
+b) ceiling
+c) flaring
+d) stooping
+#QuestionEnd
+#AnswerStart
+Answer: c) flaring
+#AnswerEnd
+
+#QuestionStart
+Q62) Match iist-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Natural Hazards) | List-II (Regions) |
+|---|---|
+| A. Floods | 1. Himalayan Foothill Zone |
+| B. Earthquakes | 2. Jharkhand and Northern Odisha |
+| C. Droughts | 3. Plains of Uttar Pradesh and Bihar |
+| D. Cyclones | 4. Mid-Eastern India |
+Code: [47th BPSC (Pre) 2005]
+a) A3, B1, C2, D4
+b) A3, B1, C4, D2
+c) A2, B3, C1, D4
+d) A4, B2, C3, D1
+#QuestionEnd
+#AnswerStart
+Answer: b) A3, B1, C4, D2
+#AnswerEnd
+
+#QuestionStart
+Q63) What will be the decreasing order of the following which contribute to the ‘Greenhouse effect’? [Chhattisgarh P.C.S. (Pre.) 2020]
+a) CO₂ > CH₄ > CFCs : >N₂O
+b) CH₄: >CO₂> CFCs : > N₂O
+c) CO₂ : > CFCs > CH₄ >N₂O
+d) CO₂ : >CH₄> N₂O > CFCs
+#QuestionEnd
+#AnswerStart
+Answer: d) CO₂ : >CH₄> N₂O > CFCs
+#AnswerEnd
+
+#QuestionStart
+Q64) Which of the following gases has the highest contribution in global warming? [M.P.P.C.S. (Pre) 2019]
+a) Carbon-di-oxide
+b) Chlorofluorocarbon
+c) Nitrous oxide
+d) Methane
+#QuestionEnd
+#AnswerStart
+Answer: a) Carbon-di-oxide
+#AnswerEnd
+
+#QuestionStart
+Q65) ‘Ozone Layer Preservation Day’ is celebrated on- [M.P.P.C.S. (Pre) 2014]
+a) 16 September
+b) 5 June
+c) 23 March
+d) 21 April
+#QuestionEnd
+#AnswerStart
+Answer: a) 16 September
+#AnswerEnd
+
+#QuestionStart
+Q66) Formation of the ozone hole is maximum over- [M.P.P.C.S. (Pre) 2008]
+a) India
+b) Africa
+c) Antarctica
+d) Europe
+#QuestionEnd
+#AnswerStart
+Answer: c) Antarctica
+#AnswerEnd
+
+#QuestionStart
+Q67) Cyclones are more frequent in the coastal areas of Bay of Bengal, because: [M.P.P.C.S. (Pre) 1996]
+a) High temperatures in the Bay of Bengal
+b) Water in the Bay of Bengal has chemicals which help in the formation of cyclones
+c) Long chain of the island of Andaman and Nicobar acts as launching pad for cyclones
+d) The conical shape of Bay of Bengal funnels cyclones North wards when they are formed in the sea
+#QuestionEnd
+#AnswerStart
+Answer: a) High temperatures in the Bay of Bengal
+#AnswerEnd
+
+#QuestionStart
+Q68) Ozone layers is useful to humanity because-[M.P.P.C.S. (Pre) 1994]
+a) It supplies oxygen to the atmosphere
+b) It prevents the Suns ultraviolet rays from reaching the Earth
+c) It controls the temperature of the Earth
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) It prevents the Suns ultraviolet rays from reaching the Earth
+#AnswerEnd
+
+#QuestionStart
+Q69) Greenhouse effect is the process- [R.A.S./R.T.S. (Pre) 1992]
+a) To obtain suitable temperature for plantation
+b) Of heating the atmosphere by absorption of infrared radiations by atmospheric carbon dioxide
+c) By which barren mountains changes into the green
+d) In which deep water seems green
+#QuestionEnd
+#AnswerStart
+Answer: b) Of heating the atmosphere by absorption of infrared radiations by atmospheric carbon dioxide
+#AnswerEnd
+
+#QuestionStart
+Q70) Which one of the following is the most fragile ecosystem that will be first affected by global warming? [Uttarakhand P.C.S. (Pre) 2010]
+a) The Arctic and Greenland Ice sheet
+b) Amazon rain forest
+c) Taiga
+d) Indian Monsoon
+#QuestionEnd
+#AnswerStart
+Answer: a) The Arctic and Greenland Ice sheet
+#AnswerEnd
+
+#QuestionStart
+Q71) Which gas is filled in refrigerators? [Uttarakhand P.C.S. (Pre) 2010]
+a) Ammonia
+b) Mafron
+c) Methane
+d) Acetylene
+#QuestionEnd
+#AnswerStart
+Answer: b) Mafron
+#AnswerEnd
+
+#QuestionStart
+Q72) Montreal Protocol is related to the protection of: [Uttarakhand P.C.S. (Pre) 2010]
+a) Greenhouse gases
+b) Acid rain
+c) Ozone layer
+d) Endangered species
+#QuestionEnd
+#AnswerStart
+Answer: c) Ozone layer
+#AnswerEnd

@@ -1,0 +1,603 @@
+#QuestionStart
+Q1) Which of the following statements are correct about the Constitution of India? (2024)
+1. Powers of the Municipalities are given in Part IX A of the Constitution.
+2. Emergency provisions are given in Part XVIII of the Constitution.
+3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution.
+Select the answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following statements is correct as per the Constitution of India? (2024)
+a) Inter-State trade and commerce is a State subject under the State List.
+b) Inter-State migration is a State subject under the State List.
+c) Inter-State quarantine is a Union subject under the Union List.
+d) Corporation tax is a State subject under the State List.
+#QuestionEnd
+#AnswerStart
+Answer: c) Inter-State quarantine is a Union subject under the Union List.
+#AnswerEnd
+
+#QuestionStart
+Q3) Under which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy? (2024)
+a) Article 15
+b) Article 16
+c) Article 19
+d) Article 21
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 21
+#AnswerEnd
+
+#QuestionStart
+Q4) In essence, what does 'Due Process of Law' mean? (2023)
+a) The principle of natural justice
+b) The procedure established by law
+c) Fair application of law
+d) Equality before law
+#QuestionEnd
+#AnswerStart
+Answer: a) The principle of natural justice
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country? (2023)
+a) It determines the objective for the making of necessary laws.
+b) It enables the creation of political offices and a government.
+c) It defines and limits the powers of government.
+d) It secures social justice, social equality and social security
+#QuestionEnd
+#AnswerStart
+Answer: c) It defines and limits the powers of government.
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: (2023)
+1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances.
+2. The Constitution of India exempts the States from providing legal counsel to person being held for preventive detention
+3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q7) If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it ? (2022)
+a) This would prevent the transfer of land of tribal people to non-tribal people.
+b) This would create a local self-governing body in that area.
+c) This would convert that area into a Union Territory.
+d) The State having such areas would be declared a Special Category State.
+#QuestionEnd
+#AnswerStart
+Answer: a) This would prevent the transfer of land of tribal people to non-tribal people.
+#AnswerEnd
+
+#QuestionStart
+Q8) Under the Indian Constitution, concentration of wealth violates (2021)
+a) the Right to Equality
+b) the Directive Principles of State Policy
+c) the Right to Freedom
+d) the Concept of Welfare
+#QuestionEnd
+#AnswerStart
+Answer: b) the Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q9) What is the position of the Right to Property in India? (2021)
+a) Legal right available to citizens only
+b) Legal right available to any person
+c) Fundamental Right available to citizens only
+d) Neither Fundamental Right nor legal right
+#QuestionEnd
+#AnswerStart
+Answer: b) Legal right available to any person
+#AnswerEnd
+
+#QuestionStart
+Q10) ‘Right to Privacy’ is protected under which Article of the Constitution of India? (2021)
+a) Article 15
+b) Article 19
+c) Article 21
+d) Article 29
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 21
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to India, consider the following statements : (2021)
+1. There is only one citizenship and one domicile.
+2. A citizen by birth only can become the Head of State.
+3. A foreigner once granted citizenship cannot be deprived of it under any circumstances.
+Which of the statements given above is / are correct?
+a) 1 only
+b) 2 only
+c) 1 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following best defines the term ‘State’? (2021)
+a) A community of persons permanently occupying a definite territory independent of external control and possessing an organized government
+b) A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights and safeguard their means of sustenance
+c) A number of persons who have been living in a definite territory for a very long time with their own culture, tradition and government
+d) A society permanently living in a definite territory with a central authority, an executive responsible to the central authority and an independent judiciary
+#QuestionEnd
+#AnswerStart
+Answer: a) A community of persons permanently occupying a definite territory independent of external control and possessing an organized government
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following in Indian polity is an essential feature that indicates that it is federal in character? (2021)
+a) The independence of the judiciary is safeguarded.
+b) The Union Legislature has elected representatives from constituent units.
+c) The Union Cabinet can have elected representatives from regional parties.
+d) The Fundamental Rights are enforceable by Courts of Law.
+#QuestionEnd
+#AnswerStart
+Answer: a) The independence of the judiciary is safeguarded.
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following statements : (2021)
+1. ‘Right to the City’ is an agreed human right and the UN-Habitat monitors the commitments made by each country in this regard.
+2. ‘Right to the City’ gives every occupant of the city the right to reclaim public spaces and public participation in the city.
+3. ‘Right to the City’ means that the State cannot deny any public service or facility to the unauthorized colonies in the city.
+Which of the statements given above is / are correct?
+a) 1 only
+b) 3 only
+c) 1 and 2
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? (2021)
+a) Article 14
+b) Article 28
+c) Article 32
+d) Article 44
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 14
+#AnswerEnd
+
+#QuestionStart
+Q16) A Constitutional government by definition is a (2020)
+a) government by legislature
+b) popular government
+c) multi-party government
+d) limited government
+#QuestionEnd
+#AnswerStart
+Answer: d) limited government
+#AnswerEnd
+
+#QuestionStart
+Q17) Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)? (2020)
+1. Preamble
+2. Directive Principles of State Policy
+3. Fundamental Duties
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q18) Which one of the following categories of Fundamental Rights incorporates protection against untouchability as a form of discrimination? (2020)
+a) Right against Exploitation
+b) Right to Freedom
+c) Right to Constitutional Remedies
+d) Right to Equality
+#QuestionEnd
+#AnswerStart
+Answer: d) Right to Equality
+#AnswerEnd
+
+#QuestionStart
+Q19) Which part of the Constitution of India declares the ideal of a Welfare State? (2020)
+a) Directive Principles of State Policy
+b) Fundamental Rights
+c) Preamble
+d) Seventh Schedule
+#QuestionEnd
+#AnswerStart
+Answer: a) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q20) Consider the following statements: (2020)
+1. The Constitution of India defines its ‘basic structure’ in terms of federalism, secularism, fundamental rights and democracy.
+2. The Constitution of India provides for ‘judicial review’ to safeguard the ‘citizens’ liberties and to preserve the ideals on which the Constitution is based.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q21) One common agreement between Gandhism and Marxism is (2020)
+a) the final goal of a stateless society
+b) class struggle
+c) abolition of private property
+d) economic determinism
+#QuestionEnd
+#AnswerStart
+Answer: a) the final goal of a stateless society
+#AnswerEnd
+
+#QuestionStart
+Q22) The Preamble to the Constitution of India is (2020)
+a) a part of the Constitution but has no legal effect
+b) not a part of the Constitution and has no legal effect either
+c) a part of the Constitution and has the same legal effect as any other part
+d) a part of the Constitution but has no legal effect independently of other parts
+#QuestionEnd
+#AnswerStart
+Answer: d) a part of the Constitution but has no legal effect independently of other parts
+#AnswerEnd
+
+#QuestionStart
+Q23) With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct? (2020)
+1. They shall be enforceable by courts.
+2. They shall not be enforceable by any court.
+3. The principles laid down in this part are to influence the making of laws by the state.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q24) Under which Schedule of the Constitution of India can the transfer of tribal land to private parties for mining be declared null and void? (2019)
+a) Third Schedule
+b) Fifth Schedule
+c) Ninth Schedule
+d) Twelfth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Fifth Schedule
+#AnswerEnd
+
+#QuestionStart
+Q25) The Ninth Schedule was introduced in the Constitution of India during the prime ministership of: (2019)
+a) Jawaharlal Nehru
+b) Lal Bahadur Shastri
+c) Indira Gandhi
+d) Morarji Desai
+#QuestionEnd
+#AnswerStart
+Answer: a) Jawaharlal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q26) Which Article of the Constitution of India safeguards one’s right to marry the person of one’s choice? (2019)
+a) Article 19
+b) Article 21
+c) Article 25
+d) Article 29
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 21
+#AnswerEnd
+
+#QuestionStart
+Q27) Right to vote and to be elected in India is a (2017)
+a) Fundamental Right
+b) Natural Right
+c) Constitutional Right
+d) Legal Right
+#QuestionEnd
+#AnswerStart
+Answer: c) Constitutional Right
+#AnswerEnd
+
+#QuestionStart
+Q28) Which of the following are envisaged by the Right against Exploitation in the Constitution of India? (2017)
+1. Prohibition of traffic in human beings and forced labour
+2. Abolition of untouchability
+3. Protection of the interests of minorities
+4. Prohibition of employment of children in factories and mines
+Select the correct answer using the code given below:
+a) 1, 2 and 4 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Which one of the following is not a feature of Indian federalism? (2017)
+a) There is an independent judiciary in India.
+b) Powers have been clearly divided between the Centre and the States.
+c) The federating units have been given unequal representation in the Rajya Sabha.
+d) It is the result of an agreement among the federating units.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the result of an agreement among the federating units.
+#AnswerEnd
+
+#QuestionStart
+Q30) Which of the following statements is/are true of the Fundamental Duties of an Indian citizen? (2017)
+1. A legislative process has been provided to enforce these duties.
+2. They are correlative to legal duties.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q31) Which one of the following objectives is not embodied in the Preamble to the Constitution of India? (2017)
+a) Liberty of thought
+b) Economic liberty
+c) Liberty of expression
+d) Liberty of belief
+#QuestionEnd
+#AnswerStart
+Answer: b) Economic liberty
+#AnswerEnd
+
+#QuestionStart
+Q32) In the context of India, which one of the following is the correct relationship between Rights and Duties? (2017)
+a) Rights are correlative with Duties.
+b) Rights are personal and hence independent of society and Duties.
+c) Rights, not Duties, are important for the advancement of the personality of the citizen.
+d) Duties, not Rights, are important for the stability of the State.
+#QuestionEnd
+#AnswerStart
+Answer: a) Rights are correlative with Duties.
+#AnswerEnd
+
+#QuestionStart
+Q33) One of the implications of equality in society is the absence of (2017)
+a) Privileges
+b) Restraints
+c) Competition
+d) Ideology
+#QuestionEnd
+#AnswerStart
+Answer: a) Privileges
+#AnswerEnd
+
+#QuestionStart
+Q34) Which principle among the following was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution? (2017)
+a) Equal pay for equal work for both men and women
+b) Participation of workers in the management of industries
+c) Right to work, education and public assistance
+d) Securing living wage and human conditions of work to workers
+#QuestionEnd
+#AnswerStart
+Answer: b) Participation of workers in the management of industries
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following statements: (2017)
+With reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon
+1. legislative function.
+2. executive function.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following statements is correct? (2017)
+a) Rights are claims of the State against the citizens.
+b) Rights are privileges that are incorporated in the Constitution of a State.
+c) Rights are claims of the citizens against the State.
+d) Rights are privileges of a few citizens against the many.
+#QuestionEnd
+#AnswerStart
+Answer: c) Rights are claims of the citizens against the State.
+#AnswerEnd
+
+#QuestionStart
+Q37) The ideal of “Welfare State” in the Indian Constitution is enshrined in its (2015)
+a) Preamble
+b) Directive Principles of State Policy
+c) Fundamental Rights
+d) Seventh Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q38) “To uphold and protect the Sovereignty Unity and Integrity of India” is a provision made in the (2015)
+a) Preamble of the Constitute
+b) Directive Principles of State Policy
+c) Fundamental Rights
+d) Fundamental Duties
+#QuestionEnd
+#AnswerStart
+Answer: d) Fundamental Duties
+#AnswerEnd
+
+#QuestionStart
+Q39) The provisions in the Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to (2015)
+a) protect the interests of Scheduled Tribes
+b) determine the boundaries between states
+c) determine the powers, authorities, and responsibilities of Panchayats
+d) protect the interests of all the border States
+#QuestionEnd
+#AnswerStart
+Answer: a) protect the interests of Scheduled Tribes
+#AnswerEnd
+
+#QuestionStart
+Q40) Consider the following statements regarding the Directive Principles of State Policy: (2015)
+1. The Principles spell out the socio- economic democracy in the country.
+2. The provisions contained in these Principles are not enforceable by any court.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q41) Consider the following statements: A Constitutional Government is one which (2014)
+1. A Constitutional Government is one which places the effective restrictions on individual liberty in the interest of State Authority.
+2. Places effective restrictions on the Authority of the State in the interest of individual liberty.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q42) In the Constitution of India, promotion of international peace and security is included in the: (2014)
+a) Preamble of the Constitution
+b) Directive Principles of State Policy
+c) Fundamental Duties
+d) Ninth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q43) ‘Economic Justice’ as one of the objectives of Indian Constitution has been provided in (2013)
+a) The Preamble and Fundamental Rights
+b) The Preamble and the Directive Principles of State Policy
+c) The Fundamental Rights and the Directive Principles of State Policy
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) The Preamble and the Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q44) According to the Constitution of India, which of the following are fundamental for the governance of the country? (2013)
+a) Fundamental Rights
+b) Fundamental Duties
+c) Directive Principles of State Policy
+d) Fundamental Rights and Fundamental Duties
+#QuestionEnd
+#AnswerStart
+Answer: c) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q45) Consider the following provisions under the Directive Principles of State Policy as enshrined in the Constitution of India: (2012)
+1. Securing for citizens of India a uniform civil code
+2. Organising village Panchayats
+3. Promoting cottage industries in rural areas
+4. Securing for all the workers reasonable leisure and cultural opportunities
+Which of the above are the Gandhian Principles that are reflected in the Directive Principles of State Policy?
+a) 1, 2 and 4 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q46) Which of the following provisions of the Constitution of India have a bearing on Education? (2012)
+1. Directive Principles of State Policy
+2. Rural and Urban Local Bodies
+3. Fifth Schedule
+4. Sixth Schedule
+5. Seventh Schedule
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3, 4 and 5 only
+c) 1, 2 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3, 4 and 5
+#AnswerEnd
+
+#QuestionStart
+Q47) Which of the following is/are among the Fundamental Duties of citizens laid down in the Indian Constitution? (2012)
+1. To preserve the rich heritage of our composite culture
+2. To protect the weaker sections from social injustice
+3. To develop the scientific temper and spirit of inquiry
+4. To strive towards excellence in all spheres of individual and collective activity
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1, 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q48) Consider the following: (2011)
+1. Right to education
+2. Right to equal access to public service
+3. Right to food
+Which of the above is/are Human Right/ Human Rights under “Universal Declaration of Human Rights”?
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q49) Under the Constitution of India, which one of the following is not a Fundamental Duty? (2011)
+a) To vote in public elections
+b) To develop the scientific temper
+c) To safeguard public property
+d) To abide by the Constitution and respect its ideals
+#QuestionEnd
+#AnswerStart
+Answer: a) To vote in public elections
+#AnswerEnd

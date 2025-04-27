@@ -1,0 +1,315 @@
+#QuestionStart
+Q1) Consider the following statements regarding World Toilet Organization: (2024)
+1. It is one of the agencies of the United Nations.
+2. World Toilet Summit, World Toilet Day and World Toilet College are the initiatives of this organization, to inspire action to tackle the global sanitation crisis.
+3. The main focus of its function is to grant funds to the least developed countries and developing countries to achieve the end of open defecation.
+Which of the statements given above is/are correct?
+a) 2 only
+b) 3 only
+c) 1 and 2
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements about G-20: (2023)
+1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss international economic and financial issues.
+2. Digital public infrastructure is one of India’s G-20 priorities.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the United Nations Convention on the Law of Sea, consider the following statements: (2022)
+1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.
+2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.
+3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.
+Which of the statements given above are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to the “United Nations Credentials Committee”, consider the following statements: (2022)
+1. It is a committee set up by the UN Security Council and works under its supervision.
+2. It traditionally meets in March, June and September every year.
+3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.
+Which of the statements given above is/are correct?
+a) 3 only
+b) 1 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to the United Nations General Assembly, consider the following statements : (2022)
+1. The UN General Assembly can grant observer status to the non-member States.
+2. Inter-governmental organisations can seek observer status in the UN General Assembly.
+3. Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following : (2022)
+1. Asian Infrastructure Investment Bank
+2. Missile Technology Control Regime
+3. Shanghai Cooperation Organisation
+India is a member of which of the above?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the “G20 Common Framework”, consider the following statements: (2022)
+1. It is an initiative endorsed by the G20 together with the Paris Club.
+2. It is an initiative to support Low Income Countries with unsustainable debt.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q8) In which one of the following groups are all the four countries members of G20? (2020)
+a) Argentina, Mexico, South Africa, and Turkey
+b) Australia, Canada, Malaysia, and New Zealand
+c) Brazil, Saudi Arabia, and Vietnam
+d) Indonesia, Japan, Singapore, and South Korea
+#QuestionEnd
+#AnswerStart
+Answer: a) Argentina, Mexico, South Africa, and Turkey
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: (2019)
+1. The United Nations Convention against Corruption (UNCAC) has a 'Protocol against the Smuggling of Migrants by Land, Sea and Air'.
+2. The UNCAC is the ever-first legally binding global anti-corruption instrument.
+3. A highlight of the United Nations Convention against Transnational Organised Crime (UNTOC) is the inclusion of a specific chapter aimed at returning assets to their rightful owners from whom they had been taken illicitly.
+4. The United Nations Office on Drugs and Crime (UNODC) is mandated by its member States to assist in the implementation of both UNCAC and UNTOC.
+Which of the statements given above are correct?
+a) 1 and 3 only
+b) 2, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to Asian Infrastructure Investment Bank (AIIB), consider the following statements: (2019)
+1. AIIB has more than 80 member nations.
+2. India is the largest shareholder in AIIB.
+3. AIIB does not have any members from outside Asia.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Which is /are the consequence/ consequences of becoming a member of the ‘Nuclear Supplier Group’? (2018)
+1. It will have access to the latest and most effective nuclear technologies.
+2. It automatically becomes a member of “The Treaty of non-proliferation of Nuclear weapons (NPT)”.
+Which of the statements given below is/ are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q12) International Labour Organization's Conventions 138 and 182 are related to: (2018)
+a) Child Labour
+b) Adaptation of agricultural practices to global climate change
+c) Regulation of food prices and food security
+d) Gender parity at the workplace
+#QuestionEnd
+#AnswerStart
+Answer: a) Child Labour
+#AnswerEnd
+
+#QuestionStart
+Q13) In the Indian context, what is the implication of ratifying the ‘Additional Protocol’ with the ‘International Atomic Energy Agency (IAEA)’? (2018)
+a) The civilian nuclear reactors come under IAEA safeguards.
+b) The military nuclear installations come under the inspection of IAEA.
+c) The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).
+d) The country automatically becomes a member of the NSG.
+#QuestionEnd
+#AnswerStart
+Answer: a) The civilian nuclear reactors come under IAEA safeguards.
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following countries: (2018)
+1. Australia
+2. Canada
+3. China
+4. India
+5. Japan
+6. USA
+Which of the above are among the 'free- trade partners' of ASEAN?
+a) 1, 2, 4 and 5 only
+b) 3, 4, 5 and 6 only
+c) 1, 3, 4 and 5 only
+d) 2, 3, 4 and 6 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3, 4 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to ‘Asia Pacific Ministerial Conference on Housing and Urban Development (APMCHUD)’, consider the following statements: (2017)
+1. The first APMCHUD was held in India in 2006 on the theme ‘Emerging Urban Forms — Policy Responses and Governance Structure’.
+2. India hosts all the Annual Ministerial Conferences in partnership with ADB, APEC and ASEAN.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements: (2017)
+1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.
+2. TFA is a part of WTO's Bali Ministerial Package of 2013.
+3. TFA came into force in January 2016.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following in respect of the (IONS): (2017)
+1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.
+2. IONS is a voluntary initiative that seeks to increase maritime cooperation among navies of the littoral states of the Indian Ocean Region.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to ‘Indian Ocean Rim Association for Regional Cooperation (IOR- ARC)’, Consider the following statements: (2015)
+1. It was established very recently in response to incidents of piracy and accidents of oil spills.
+2. It is an alliance meant for maritime security only.
+Which of the following statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q19) India is a member of which of the following? (2015)
+1. Asia-Pacific Economic Cooperation
+2. Association of South-East Asian Nations
+3. East Asia Summit
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) India is a member of none of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q20) With reference to a grouping of countries known as BRICS, consider the following statements: (2014)
+1. The First Summit of BRICS was held in Rio de Janeiro in 2009.
+2. South Africa was the last to join the BRICS grouping.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following countries: (2014)
+1. Denmark
+2. Japan
+3. Russian Federation
+4. United Kingdom
+5. United States of America
+Which of the above are the members of the 'Arctic Council'?
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 4 and 5
+d) 1, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 and 5
+#AnswerEnd
+
+#QuestionStart
+Q22) Recently, the USA decided to support India's membership in multilateral export control regimes called the "Australia Group" and the "Wassenaar Arrangement". What is the difference between them? (2011)
+1. The Australia Group is an informal arrangement which aims to allow exporting countries to minimize the risk of assisting chemical and biological weapons proliferation, whereas the Wassenaar- Arrangement is a formal group under the OECD holding identical objectives.
+2. The Australia Group comprises predominantly of Asian, African, and North American countries, whereas the member countries of Wassenaar Arrangement are predominantly from the European Union and American continents.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd

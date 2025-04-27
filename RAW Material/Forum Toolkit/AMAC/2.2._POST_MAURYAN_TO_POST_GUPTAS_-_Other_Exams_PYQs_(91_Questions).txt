@@ -1,0 +1,1092 @@
+#QuestionStart
+Q29) Which one of the following pairs is not correctly matched? [UPPCS (Pre) 2022]
+a) Sarvaverman : Gaya Copper Plate
+b) Ishwarverman : Jaunpur Stone Inscription
+c) Ishanverman : Harha Stone Inscription
+d) Jivit Gupta II : Deva Barnark Inscription
+#QuestionEnd
+#AnswerStart
+Answer: a) Sarvaverman : Gaya Copper Plate
+#AnswerEnd
+
+#QuestionStart
+Q30) With reference to Chandragupta-II, which of the following is/are correct? [UPPCS (Pre) 2022]
+1. The strongest evidence in the context of Shaka Victory is the silver coins of this King.
+2. The weight of these coins used to be about 33 grains.
+Select the correct answer using the codes given below:
+a) Both 1 and 2
+b) Only 1
+c) Neither 1 nor 2
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q31) With reference to the Satavahana Rulers, which of the following statements is/are true? [U.P.P.C.S. (Pre.) 2021]
+1. The Satavahana Kings were the nurtures of Prakrit language.
+2. Public aspect of the arts got more encouragement during the Satavahana period.
+Select the correct answer using the codes given below:
+a) Only 1
+b) Both 1 and 2
+c) Only 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q32) Consider the following statements and select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2020]
+1. The Sun temple of Multan is mentioned by Hiuen Tsang, Abuzaiyid, AI-Masudi and Alberuni.
+2. The pilgrimage to Sambapur was associated with Sun worship.
+Codes:
+a) Only 1 is correct
+b) Only 2 is correct
+c) Both 1 and 2 are correct
+d) Neither 1 nor 2 is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2 are correct
+#AnswerEnd
+
+#QuestionStart
+Q33) The rulers of which of the following dynasty have been called as ‘Shriparvatiya’ in Puranas? [U.P.P.C.S (Pre) 2020]
+a) Vakatakas
+b) Ikshvakus
+c) Shaks
+d) Kharvelas
+#QuestionEnd
+#AnswerStart
+Answer: b) Ikshvakus
+#AnswerEnd
+
+#QuestionStart
+Q34) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Pre) 2018]
+| List-I (Samudra Gupta’s Contemporary Kings of South India) | List-II (Their Kingdoms) |
+|---|---|
+| A. Dhananjaya | 1. Avamukta |
+| B. Nilaraja | 2. Kanchi |
+| C. Ugrasena | 3. Kusthalpura |
+| D. Vishnugopa | 4. Palaka |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-2, B-1, C-4, D-3
+c) A-3, B-1, C-4, D-2
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-1, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q35) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2017]
+| List-I | List-II |
+|---|---|
+| A. Gandhar Art | 1. Menander |
+| B. Junagarh Rock inscription | 2. Patika |
+| C. Millindapanho | 3. Kushanas |
+| D. Taxila inscription | 4. Rudradaman I |
+Code:
+a) A-1, B-3, C-4, D-2
+b) A-2, B-4, C-3, D-1
+c) A-3, B-4, C-1, D-2
+d) A-2, B-1, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q36) Who amongst the following had defeated Huna ruler Mihirakula? [U.P.P.C.S. (Pre) 2016]
+a) Budhagupta
+b) Yashodharman
+c) Shashanka
+d) Prabhakaravardhana
+#QuestionEnd
+#AnswerStart
+Answer: b) Yashodharman
+#AnswerEnd
+
+#QuestionStart
+Q37) ‘Prithivyah Pratham Veer’ was the title of- [U.P.P.C.S. (Pre) 2016]
+a) Samudragupta
+b) Rajendra-I
+c) Amoghavarsha
+d) Gautamiputra Shatkarni
+#QuestionEnd
+#AnswerStart
+Answer: a) Samudragupta
+#AnswerEnd
+
+#QuestionStart
+Q38) The first Gupta ruler to assume the title of ‘Parama Bhagawat⁵ was- [U.P.P.C.S. (Pre) 2015]
+a) Chandragupta-I
+b) Samudragupta
+c) Chandragupta-II
+d) Ramagupta
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandragupta-II
+#AnswerEnd
+
+#QuestionStart
+Q39) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre, Re-Exam) 2015]
+| List-I (Emperor) | List-II (Titles) |
+|---|---|
+| A. Ashoka | 1. Parakramank |
+| B. Samudragupta | 2. Priyadarsin |
+| C. Chandragupta-II | 3. Kramaditya |
+| D. Skandgupta | 4. Vikramaditya |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-3, B-2, C-1, D-4
+c) A-2, B-1, C-4, D-3
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q40) Who renovated Sudarshan lake without using forced labour? [U.P.P.C.S. (Pre) 2014]
+a) Chandragupta Maurya
+b) Bindusar
+c) Ashoka
+d) Rudradaman-I
+#QuestionEnd
+#AnswerStart
+Answer: d) Rudradaman-I
+#AnswerEnd
+
+#QuestionStart
+Q41) Chinese writers mention India by the name of- [U.P.P.C.S. (Pre) 2013]
+a) Fo-Kwo-ki
+b) Yin-tu
+c) Si-Yu-Ki
+d) Sikia-Pono
+#QuestionEnd
+#AnswerStart
+Answer: b) Yin-tu
+#AnswerEnd
+
+#QuestionStart
+Q42) In whose reign-period the Chinese Traveller Hiuen-Tsang visited India? [U.P.P.C.S. (Mains) 2012]
+a) Chandragupta-II
+b) Harsh
+c) Chandragupta Maurya
+d) Chandragupta-I
+#QuestionEnd
+#AnswerStart
+Answer: b) Harsh
+#AnswerEnd
+
+#QuestionStart
+Q43) The writer of Mahabhashya ‘Patanjali’ was contemporary of- [U.P.P.C.S. (Pre) 2011]
+a) Chandragupta Maurya
+b) Ashoka
+c) Pushyamitra Shunga
+d) Chandragupta I
+#QuestionEnd
+#AnswerStart
+Answer: c) Pushyamitra Shunga
+#AnswerEnd
+
+#QuestionStart
+Q44) The first inscriptions! evidence of the Satipratha has been found from- [U.P.P.C.S. (Mains) 2010]
+a) Eran
+b) Junagarh
+c) Mandsaur
+d) Sanchi
+#QuestionEnd
+#AnswerStart
+Answer: a) Eran
+#AnswerEnd
+
+#QuestionStart
+Q45) According to Puranas, the prime place of Chandravansh’s ruler was- [U.P.P.C.S. (Pre) 2009]
+a) Kasi
+b) Ayodhya
+c) Pratishthanpur
+d) Shravasti
+#QuestionEnd
+#AnswerStart
+Answer: c) Pratishthanpur
+#AnswerEnd
+
+#QuestionStart
+Q46) In ancient India, the irrigation tax was called- [U.P.P.C.S. (Mains) 2009]
+a) Bidakabhagam
+b) Hiranya
+c) Udranga
+d) Uparnika
+#QuestionEnd
+#AnswerStart
+Answer: a) Bidakabhagam
+#AnswerEnd
+
+#QuestionStart
+Q47) Which God is found depicted on Yaudheya coins? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Vasudeva
+b) Shiva
+c) Indra
+d) Kartikeya
+#QuestionEnd
+#AnswerStart
+Answer: d) Kartikeya
+#AnswerEnd
+
+#QuestionStart
+Q48) The term ‘Kausheya’ has been used for- [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Cotton
+b) Flax
+c) Silk
+d) Wool
+#QuestionEnd
+#AnswerStart
+Answer: c) Silk
+#AnswerEnd
+
+#QuestionStart
+Q49) Simuka was the founder of which of the following dynasties? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Chera
+b) Chola
+c) Pandya
+d) Satavahana
+#QuestionEnd
+#AnswerStart
+Answer: d) Satavahana
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following statements is not true for Shankaracharya, Saint of the Sth century? [U.P.P.C.S. (Pre) 2005]
+a) He established four religious centres in different parts of India
+b) He countered the spread of Buddhism and Jainism.
+c) He named Prayag as Teerthraj
+d) He propagated Vedanta
+#QuestionEnd
+#AnswerStart
+Answer: c) He named Prayag as Teerthraj
+#AnswerEnd
+
+#QuestionStart
+Q51) In Ancient India, which dynasty’s rule is considered as the Golden Age? [U.P.P.C.S. (Spl) (Pre) 2004]
+a) Mauryan
+b) Shunga
+c) Gupta
+d) Magadha
+#QuestionEnd
+#AnswerStart
+Answer: c) Gupta
+#AnswerEnd
+
+#QuestionStart
+Q52) The Ashoka Pillar at Allahabad provides information about the reign of: [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Chandragupta Maurya
+b) Chandragupta-I
+c) Chandragupta-II
+d) Samudragupta
+#QuestionEnd
+#AnswerStart
+Answer: d) Samudragupta
+#AnswerEnd
+
+#QuestionStart
+Q53) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2003]
+| List-I (Courtier Poet) | List-II (King) |
+|---|---|
+| A. Amir Khusro | 1. Chandragupta II |
+| B. Kalidas | 2. Samudragupta |
+| C. Harisena | 3. Harshvardhan |
+| D. Banabhatta | 4. Alauddin Khalji |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-4, B-1, C-2, D-3
+c) A-4, B-3, C-2, D-1
+d) A-2, B-4, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q54) Who of the following rulers had performed four Ashwamedhas? [U.P.P.C.S. (Mains) 2003]
+a) Pushyamitra Shunga
+b) Pravarasena-I
+c) Samudragupta
+d) Chandragupta-II
+#QuestionEnd
+#AnswerStart
+Answer: b) Pravarasena-I
+#AnswerEnd
+
+#QuestionStart
+Q55) The iron column, located in the courtyard of Delhi’s Quwwat-ul-Islam Mosque is retention of- [U.P. P.C.S. (Pre) 2002]
+a) Ashok
+b) Chandra
+c) Harsha
+d) Anangapal
+#QuestionEnd
+#AnswerStart
+Answer: b) Chandra
+#AnswerEnd
+
+#QuestionStart
+Q56) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Pre) 1997]
+a) Ravi Kirti - Pulakeshin II
+b) Bhavabhuti - Yasovarman of Kannauj
+c) Harisena - Harsha
+d) Dandi - Narasimha Varman
+#QuestionEnd
+#AnswerStart
+Answer: c) Harisena - Harsha
+#AnswerEnd
+
+#QuestionStart
+Q57) The earliest specimen of ‘Kavya’ style is found in the inscription of: [U.P.P.C.S. (Pre) 1997]
+a) Rudradaman of Kathiawar
+b) Ashoka
+c) Rajendra I
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Rudradaman of Kathiawar
+#AnswerEnd
+
+#QuestionStart
+Q58) The Gandhara School of art is the synthesis of: [U.P.P.C.S. (Pre) 1996]
+a) Indian and Persian Art
+b) Indian and Chinese Art
+c) Indian and Turk-Afghan Art
+d) Indian and Greek Art
+#QuestionEnd
+#AnswerStart
+Answer: d) Indian and Greek Art
+#AnswerEnd
+
+#QuestionStart
+Q59) Information regarding time of Harsha is contained in the book of: [UPPCS (Pre) 1995]
+a) Harisena
+b) Kalhana
+c) Kalidasa
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Kalhana
+#AnswerEnd
+
+#QuestionStart
+Q60) Chinese traveller Hiuen Tsang studied at the University of- [U.P.P.C.S. (Pre) 1995]
+a) Taxila
+b) Vikramshila
+c) Magadh
+d) Nalanda
+#QuestionEnd
+#AnswerStart
+Answer: d) Nalanda
+#AnswerEnd
+
+#QuestionStart
+Q61) Consider the following name of contemporaries of Kanishka and select the correct answer from codes given below: [U.P.P.C.S. (Pre) 1994]
+(I) Ashvaghosha
+(II) Vasumitra
+(III) Kalidas
+(IV) Kamban
+Code:
+a) I and IV
+b) II and III
+c) I and II
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: c) I and II
+#AnswerEnd
+
+#QuestionStart
+Q62) During which age, did women enjoy equality with men? [U.P.P.C.S. (Pre) 1994]
+a) Gupta age
+b) Mauryan age
+c) Cholas
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: d) None of these
+#AnswerEnd
+
+#QuestionStart
+Q63) Which dynasty was most powerful after Maurya in Southern India? [U.P.P.C.S. (Pre) 1993]
+a) Satvahana
+b) Pallava
+c) Chola
+d) Chalukya
+#QuestionEnd
+#AnswerStart
+Answer: a) Satvahana
+#AnswerEnd
+
+#QuestionStart
+Q64) When was Vikram Samvat started? [U.P.P.C.S. (Pre) 1992]
+a) 78 A.D.
+b) 57 B.C.
+c) 72 B.C.
+d) 56 B.C.
+#QuestionEnd
+#AnswerStart
+Answer: b) 57 B.C.
+#AnswerEnd
+
+#QuestionStart
+Q65) Which (among these) are Gupta’s gold coins? [U.P.P.C.S. (Pre) 1992]
+a) Kaudi
+b) Dinara
+c) Nishka
+d) Pan
+#QuestionEnd
+#AnswerStart
+Answer: b) Dinara
+#AnswerEnd
+
+#QuestionStart
+Q66) Emperor Harsha had shifted his capital from Thaneshwar to- [U.P.P.C.S. (Pre) 1992]
+a) Prayaga
+b) Delhi
+c) Kannauj
+d) Rajgriha
+#QuestionEnd
+#AnswerStart
+Answer: c) Kannauj
+#AnswerEnd
+
+#QuestionStart
+Q67) Who of the following among the Nine Gems of Chandragupta was associated with Astrology? [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Vararuchi
+b) Sanku
+c) Kshapanak
+d) Amarsimba
+#QuestionEnd
+#AnswerStart
+Answer: c) Kshapanak
+#AnswerEnd
+
+#QuestionStart
+Q68) Which of the following places was the capital of Satvahanas? [U.P. Lower (Spl) (Pre) 2008]
+a) Pratisthan
+b) Nagarjuna Konda
+c) Shakal or Sialkot
+d) Pataliputra
+#QuestionEnd
+#AnswerStart
+Answer: a) Pratisthan
+#AnswerEnd
+
+#QuestionStart
+Q69) Who amongst the following issued gold coins regularly in ancient India? [U.P. Lower Sub. (Pre) 2004]
+a) Satavahana
+b) Saka
+c) Kushan
+d) Parthian
+#QuestionEnd
+#AnswerStart
+Answer: c) Kushan
+#AnswerEnd
+
+#QuestionStart
+Q70) The game of ‘Chess’ is said to have originated in- [U.P. Lower Sub. (Spl) (Pre) 2004]
+a) China
+b) Iran
+c) Indonesia
+d) India
+#QuestionEnd
+#AnswerStart
+Answer: d) India
+#AnswerEnd
+
+#QuestionStart
+Q71) Read these statements: [U.P. Lower Sub. (Pre) 1998]
+Assertion (A): Kushans traded through Gulf of Persian and Red Sea.
+Reason (R): Their well organised naval force base was highly qualified.
+In context to the above which is the correct answer:
+a) Both and (R) are true, and (R) is the correct explanation of (A).
+b) Both and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q72) Who laid the foundation of Vardhana dynasty? [67th BPSC (Pre) (Re-Exam) 2022]
+a) Pushyabhuti
+b) Rajyavardhana
+c) Adityavardhana
+d) Prabhakarvardhana
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Prabhakarvardhana
+#AnswerEnd
+
+#QuestionStart
+Q73) Which Gupta ruler assumed the throne after killing his elder brother? [67th BPSC (Pre) (Re-Exam) 2022]
+a) Shri Gupta
+b) Samudragupta
+c) Chandragupta II
+d) Skandagupta
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandragupta II
+#AnswerEnd
+
+#QuestionStart
+Q74) Who among the following was the first to explain that the rotation of the earth on its own axis accounts for the daily rising and setting of the sun? [64th BPSC (Pre) 2018]
+a) Aryabhatta
+b) Bhaskara
+c) Brahmagupta
+d) Varahmihira
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Aryabhatta
+#AnswerEnd
+
+#QuestionStart
+Q75) Chinese traveller ‘Sungyun’ was came to India in: [60th to 62nd B.P.S.C. (Pre) 2016]
+a) 515 AD to 520 AD
+b) 525 AD to 529 AD
+c) 545 AD to 552 AD
+d) 592 AD to 597 AD
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 515 AD to 520 AD
+#AnswerEnd
+
+#QuestionStart
+Q76) Which type of land was called Aprahat’? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Without cultivated forest land.
+b) Irrigated land.
+c) Dense forest land.
+d) Cultivated land.
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Without cultivated forest land.
+#AnswerEnd
+
+#QuestionStart
+Q77) Who is called ‘the Napoleon of Ancient India’? [56th to 59th B.P.S.C. (Pre) 2015]
+a) Chandragupta Maurya
+b) Pushyamitra
+c) Kanishka
+d) Samudragupta
+#QuestionEnd
+#AnswerStart
+Answer: d) Samudragupta
+#AnswerEnd
+
+#QuestionStart
+Q78) The Gupta emperor who defeated the ‘Hunas’ was: [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Samudragupta
+b) Chandragupta-II
+c) Skandagupta
+d) Ramagupta
+#QuestionEnd
+#AnswerStart
+Answer: c) Skandagupta
+#AnswerEnd
+
+#QuestionStart
+Q79) Who among the following kings had heavily leaned towards Jainism? [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Dashratha
+b) Brihadratha
+c) Kharavela
+d) Huvishka
+#QuestionEnd
+#AnswerStart
+Answer: c) Kharavela
+#AnswerEnd
+
+#QuestionStart
+Q80) Who has written the ‘Harshacharita’? [47th B.P.S.C. (Pre) 2005]
+a) Aryabhatta
+b) Banabhatta
+c) Vishnugupta
+d) Parimalgupta
+#QuestionEnd
+#AnswerStart
+Answer: b) Banabhatta
+#AnswerEnd
+
+#QuestionStart
+Q81) King Kharavela is related to - [43rd B.P.S.C. (Pre) 1999]
+a) Piller inscription of Girnar
+b) Piller inscription of Junagarh
+c) Hathigumpha inscription
+d) Sarnath inscription
+#QuestionEnd
+#AnswerStart
+Answer: c) Hathigumpha inscription
+#AnswerEnd
+
+#QuestionStart
+Q82) What was the land revenue rate in Gupta age? [42nd B.P.S.C. (Pre) 1997]
+a) Fourth part of the production
+b) Sixth part of the production
+c) Eighth part of the production
+d) Half part of the production
+#QuestionEnd
+#AnswerStart
+Answer: b) Sixth part of the production
+#AnswerEnd
+
+#QuestionStart
+Q83) During Hiuen Tsang tour in India most famous city for the production of cotton clothes was- [41st B.P.S.C. (Pre) 1996]
+a) Varanasi
+b) Mathura
+c) Pataliputra
+d) Kanchi
+#QuestionEnd
+#AnswerStart
+Answer: b) Mathura
+#AnswerEnd
+
+#QuestionStart
+Q84) The gradual decline of towns was an important feature of which period? [40th B.P.S.C. (Pre) 1995]
+a) Gupta period
+b) Pratihara era
+c) Rashtrakut
+d) Satavahana era
+#QuestionEnd
+#AnswerStart
+Answer: a) Gupta period
+#AnswerEnd
+
+#QuestionStart
+Q85) Which ruling dynasty donated maximum villages to temples and Brahmins? [39th B.P.S.C. (Pre) 1994]
+a) Gupta Dynasty
+b) Pala Dynasty
+c) Rashtrakuta
+d) Pratihara
+#QuestionEnd
+#AnswerStart
+Answer: a) Gupta Dynasty
+#AnswerEnd
+
+#QuestionStart
+Q86) What was the ratio of Gold-Silver coins in the Shaka-Kshatrapa period? [Uttarakhand PCS (Pre) 2021]
+a) 1 : 20
+b) 1 : 25
+c) 1 : 35
+d) 1 : 10
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 : 35
+#AnswerEnd
+
+#QuestionStart
+Q87) There were different causes for the downfall of the Gupta Empire. Which one among the statements given below was not the cause? [Uttarakhand P.C.S. (Pre) 2012]
+a) Huna invasion
+b) Feudal set-up of administration
+c) Acceptance of Buddhism by the later Guptas
+d) Arab invasion
+#QuestionEnd
+#AnswerStart
+Answer: d) Arab invasion
+#AnswerEnd
+
+#QuestionStart
+Q88) Arrange the following in chronological order: [Jharkhand P.C.S. (Pre.) 2021]
+A. Satvahanas
+B. Vakatakas
+C. Chalukyas
+Select the correct code from the following:
+a) B-C-A
+b) C-B-A
+c) C-A-B
+d) A-B-C
+#QuestionEnd
+#AnswerStart
+Answer: d) A-B-C
+#AnswerEnd
+
+#QuestionStart
+Q89) The Chinese Pilgrim who visited India in the early 6th century was- [Jharkhand P.C.S. (Pre) 2016]
+a) Ywan Chwang
+b) Fahien
+c) Sung Yun
+d) I-tsing
+#QuestionEnd
+#AnswerStart
+Answer: c) Sung Yun
+#AnswerEnd
+
+#QuestionStart
+Q90) Which Chinese general had defeated Kanishka? [Jharkhand P.C.S. (Pre) 2003]
+a) Pan Chao
+b) Ban Yong
+c) She Huang Ti
+d) Ho-Ti
+#QuestionEnd
+#AnswerStart
+Answer: a) Pan Chao
+#AnswerEnd
+
+#QuestionStart
+Q91) Match list-I with list-II and select the correct answer using the codes given below the lists: [RAS/RTS (Pre) 2018]
+| List-I | List-II |
+|---|---|
+| A. Shunga | 1. Mahoba |
+| B. Satavahana | 2. Banvasi |
+| C. Kadamb | 3. Paithan |
+| D. Chandel | 4. Pataliputra |
+Code:
+a) A-4, B-3, C-2, D-1
+b) A-4, B-2, C-3, D-1
+c) A-1, B-4, C-2, D-3
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q92) Centers located in Gujarat, Bengal, Deccan and Tamil Country during the Gupta period were associated with which of the following? [R.A.S./R.T,S.(Pre) 2010]
+a) Textile manufacture
+b) Gems and precious stones
+c) Handicrafts
+d) Opium cultivation
+#QuestionEnd
+#AnswerStart
+Answer: a) Textile manufacture
+#AnswerEnd
+
+#QuestionStart
+Q93) The institution of child marriage started in which period? [R.A.S./R.T.S. (Pre) (Re-exam.) 2000]
+a) Maurya period
+b) Kushan period
+c) Gupta period
+d) In the time of Harshavardhan
+#QuestionEnd
+#AnswerStart
+Answer: b) Kushan period
+#AnswerEnd
+
+#QuestionStart
+Q94) First Persian ruler who captured some part of India was- [R.A.S./R.T.S. (Pre) 1994]
+a) Cyrus
+b) Cambyses
+c) Darius-I
+d) Shaharsh
+#QuestionEnd
+#AnswerStart
+Answer: a) Cyrus
+#AnswerEnd
+
+#QuestionStart
+Q95) Which field was mostly contributed by Eastern Roman ruler Justinian? [R.A.S./R.T.S. (Pre) 1994]
+a) Law
+b) Architecture
+c) Science
+d) Literature
+#QuestionEnd
+#AnswerStart
+Answer: a) Law
+#AnswerEnd
+
+#QuestionStart
+Q96) During Post Gupta Period, main business centre was- [R.A.S./R.T.S. (Pre) 1993]
+a) Kannauj
+b) Ujjain
+c) Dhar
+d) Devgiri
+#QuestionEnd
+#AnswerStart
+Answer: a) Kannauj
+#AnswerEnd
+
+#QuestionStart
+Q97) Which of the following inscription known as the first advertisement of the world? [MPPCS (Pre) 2021]
+a) Dashpur inscription
+b) Sohgara inscription
+c) Supia inscription
+d) Eran inscription
+#QuestionEnd
+#AnswerStart
+Answer: a) Dashpur inscription
+#AnswerEnd
+
+#QuestionStart
+Q98) The Malaw Samvat was also known as: [MPPCS (Pre) 2021]
+a) Kalchuri Samvat
+b) Krit Samvat
+c) Saka Samvat
+d) Gupta Samvat
+#QuestionEnd
+#AnswerStart
+Answer: b) Krit Samvat
+#AnswerEnd
+
+#QuestionStart
+Q99) Which of the following inscription reveals information about Silk Weavers Guild? [M.P.P.C.S. (Pre) 2019]
+a) Dashpur Inscription
+b) Prayag Prashasti
+c) Eran Inscription
+d) Hathigumpha Inscription
+#QuestionEnd
+#AnswerStart
+Answer: a) Dashpur Inscription
+#AnswerEnd
+
+#QuestionStart
+Q100) In ancient period, which Varna was also called as ‘Sarthavaha’? [M.P.P.C.S. (Pre) 2018]
+a) Brahmana
+b) Kshatriya
+c) Vaishya
+d) Shudra
+#QuestionEnd
+#AnswerStart
+Answer: c) Vaishya
+#AnswerEnd
+
+#QuestionStart
+Q101) Match list-I with list-II and select the correct answer using the codes given below the lists: [MPPCS (Pre) 2008]
+| List-I | List-II |
+|---|---|
+| A. Bhoj | 1. Ujjain |
+| B. Durgawati | 2. Vidisha |
+| C. Samudragupta | 3. Dhar |
+| D. Ashoka | 4. Gondwana |
+Code:
+a) A-4, B-3, C-2, D-1
+b) A-3, B-4, C-1, D-2
+c) A-4, B-3, C-1, D-2
+d) A-3, B-4, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q102) Kalidasa was in the ruling period of- [M.P.P.C.S. (Pre) 1990]
+a) Samudragupta
+b) Ashoka
+c) Chandragupta-I
+d) Chandragupta-II
+#QuestionEnd
+#AnswerStart
+Answer: d) Chandragupta-II
+#AnswerEnd
+
+#QuestionStart
+Q103) Which of the following statements is/are true? [Chhattisgarh PCS (Pre) 2021]
+1. After weakening of power of Satavahana dynasty, Vakataka dynasty established its kingdom.
+2. First king of Vakataka dynasty was Pravar Sen I.
+3. Vindhya Shakti was son of Pravar Sen.
+Choose the correct option:
+a) 1, 2 and 3
+b) 1 and 2
+c) Only 1
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q104) What is/are correct in reference to Udayagiri and Khandagiri caves? [Chhattisgarh PCS (Pre) 2021]
+1. It has both natural and artificial caves.
+2. Udayagiri has 18 and Khandagiri has 15 caves.
+3. Khandagiri caves are famous for Hathigumpha inscription.
+Code:
+a) 1, 2 and 3
+b) 1 and 3
+c) 1 and 2
+d) Only 1
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q105) In travel through India, Fahhien has mentioned a hospital, it was located at- [Chhattisgarh P.C.S. (Pre) 2019]
+a) Ujjain
+b) Kaushambi
+c) Tamralipti
+d) Pataliputra
+#QuestionEnd
+#AnswerStart
+Answer: d) Pataliputra
+#AnswerEnd
+
+#QuestionStart
+Q106) Read the following statements: [Chhattisgarh P.C.S. (Pre) 2017]
+1. Harisena was the famous poet of Samudragupta’s Court.
+2. He composed the epic ‘Devichandraguptam’.
+3. He was also the author of ‘Prayagprashasti’
+Select the correct answer:
+a) 1, 2 and 3 are correct.
+b) 1 and 2 are correct
+c) 2 and 3 are correct
+d) 1 and 3 are correct
+e) Only 1 is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 are correct
+#AnswerEnd
+
+#QuestionStart
+Q107) Who among the following rulers is stated as protector of ‘Varna system’? [Chhattisgarh P.C.S (Pre) 2013]
+a) Pushyamitra Sunga
+b) Khar vela
+c) Gautamiputra Satkarni
+d) Vasudev
+e) Samudragupta
+#QuestionEnd
+#AnswerStart
+Answer: a) Pushyamitra Sunga
+#AnswerEnd
+
+#QuestionStart
+Q108) The Capital of Maukharri was. [Chhattisgarh P.C.S. (Pre) 2011]
+a) Thanesar
+b) Kannauj
+c) Purushpur
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Kannauj
+#AnswerEnd
+
+#QuestionStart
+Q109) Which one of the following pairs is correctly matched? [Chhattisgarh P.C.S. (Pre) 2008]
+a) Harappan Civilization : Painted Grey Ware
+b) The Kushans : Gandhara School of Art
+c) The Mughals : Ajanta Paintings
+d) The Marathas : Pahari School of Painting
+#QuestionEnd
+#AnswerStart
+Answer: b) The Kushans : Gandhara School of Art
+#AnswerEnd
+
+#QuestionStart
+Q110) Read the following statements carefully- [Chhattisgarh P.C.S. (Pre) 2008]
+1. Gupta Emperors claimed divine rights for themselves
+2. Their administration was highly centralized
+3. They extended the tradition of land grants.
+Answer on the basis of the following codes:
+a) 1, 2 and 3 are true
+b) 1 and 2 are true
+c) 1 and 3 are true
+d) 2 and 3 are true
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 are true
+#AnswerEnd
+
+#QuestionStart
+Q111) Who among the following usurped power in Kanyakubja after the death of Harshavardhana? [CDS 2022 (II)]
+a) Adityasena
+b) Arunashva
+c) Shashanka
+d) Lalitaditya
+#QuestionEnd
+#AnswerStart
+Answer: b) Arunashva
+#AnswerEnd
+
+#QuestionStart
+Q112) Who among the following ancient Indian kings was praised in glowing terms in the Prayaga Prashasti? [CDS 2021 (II)]
+a) Ashoka
+b) Harshavardhana
+c) Samudragupta
+d) Bindusara
+#QuestionEnd
+#AnswerStart
+Answer: c) Samudragupta
+#AnswerEnd
+
+#QuestionStart
+Q113) Which one of the following statements about the Gupta period in Indian history is not correct? [CDS 2017 (II)]
+a) Sanskrit language and literature, after centuries of evolution, reached what has been described as a level of classical excellence through royal patronage.
+b) The status of women was redefined. They were entitled to formal education and hence there were women teachers, philosophers and doctors. Early marriage was prohibited by law and they were given the right to property
+c) Decentralisation of administrative authority was impacted by increased grants of land and villages with fiscal and administrative immunities to priests and temples
+d) Land grants paved the way for feudal developments and emergence of selfdom in India, resulting in the depression of the peasantry
+#QuestionEnd
+#AnswerStart
+Answer: b) The status of women was redefined. They were entitled to formal education and hence there were women teachers, philosophers and doctors. Early marriage was prohibited by law and they were given the right to property
+#AnswerEnd
+
+#QuestionStart
+Q114) Which one among the following was not an attribute of Samudragupta described in Prayag Prashasti? [CDS 2016 (I)]
+a) Sharp and polished intellect
+b) Accomplished sculptor
+c) Fine musical performances
+d) Poetical talent of a genius
+#QuestionEnd
+#AnswerStart
+Answer: b) Accomplished sculptor
+#AnswerEnd
+
+#QuestionStart
+Q115) The Satavahanas are identified in the Puranas by which one of the following epithets? [CAPF 2021]
+a) Andhras
+b) Shakas
+c) Kshatrapas
+d) Sungas
+#QuestionEnd
+#AnswerStart
+Answer: a) Andhras
+#AnswerEnd
+
+#QuestionStart
+Q116) Consider the following statements pertaining to the Satavahanas: [CAPF 2019]
+1. Satavahana rulers were identified through metronymics.
+2. Satavahana succession to the throne was generally patrilineal.
+Which of the statements given above is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q117) Examine these two statements carefully and select the correct answer using the codes given below; [CAPF 2018]
+Statement I: For early societies, historians retrieve information about elite families mostly from inscriptions.
+Statement II: Satavahana inscriptions generally end with the term Putra, a Prakrit word meaning ‘son’.
+Codes:
+a) Both the statements are individually true and Statements II is the correct explanation of Statement I.
+b) Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c) Statement I is true but Statement II is false.
+d) Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement I is true but Statement II is false.
+#AnswerEnd
+
+#QuestionStart
+Q118) Which one of the following statements about Allahabad Prashasti is correct? [CAPF 2017]
+a) It clearly presents the Gupta empire as the epicenter of a complex web of varied political relationships.
+b) Line 15 of it refers to the capturing of a king of the Kota family.
+c) Line 23 refers to Samudragupta violently exterminating a number of kings of Aryavarta.
+d) Line 20 refers to rulers offering tribute, obeying the orders of the Gupta king.
+#QuestionEnd
+#AnswerStart
+Answer: a) It clearly presents the Gupta empire as the epicenter of a complex web of varied political relationships.
+#AnswerEnd
+
+#QuestionStart
+Q119) Which one of the following statements about the Gupta period is not correct? [CAPF 2017]
+a) Forced labour (Vishti) became more common than before in this period.
+b) A passage in the Vishnu Purana refers to the Guptas enjoying all the territories along the Ganga up to Prayaga.
+c) The Mehrauli inscription suggests that Chandragupta fought against a confederacy of enemies in Bengal and also led a campaign into the Punjab.
+d) Saurashtra was not a part of the Gupta empire.
+#QuestionEnd
+#AnswerStart
+Answer: d) Saurashtra was not a part of the Gupta empire.
+#AnswerEnd

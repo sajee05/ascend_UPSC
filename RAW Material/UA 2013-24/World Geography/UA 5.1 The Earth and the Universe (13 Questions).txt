@@ -1,0 +1,176 @@
+#QuestionStart
+Q1) On June 21 every year, which of the following latitude(s) experience(s) a sunlight of more than 12 hours? (2024)
+1. Equator
+2. Tropic of Cancer
+3. Tropic of Capricorn
+4. Arctic Circle
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 3 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2024)
+Statement- I: Thickness of the troposphere at the equator is much greater as compared to poles.
+Statement-II: At the equator heat is transported to great heights by strong convection currents.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I in correct, bot Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II in correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the Earth’s atmosphere, which one of the following statements is correct? (2023)
+a) The total amount of insolation received at the equator is roughly about 10 times that received at the poles.
+b) Infrared rays constitute roughly two- thirds of insolation.
+c) Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.
+d) Infrared waves are a part of the visible spectrum of electromagnetic waves of solar radiation.
+#QuestionEnd
+#AnswerStart
+Answer: c) Infrared waves are largely absorbed by water vapour that is concentrated in the lower atmosphere.
+#AnswerEnd
+
+#QuestionStart
+Q4) In the northern hemisphere, the longest day of the year normally occurs in the: (2022)
+a) First half of the month of June
+b) Second half of the month of June
+c) First half of the month of July
+d) Second half of the month of July
+#QuestionEnd
+#AnswerStart
+Answer: b) Second half of the month of June
+#AnswerEnd
+
+#QuestionStart
+Q5) If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth? (2022)
+1. GPS and navigation systems could fail.
+2. Tsunamis could occur at equatorial regions.
+3. Power grids could be damaged.
+4. Intense auroras could occur over much of the Earth.
+5. Forest fires could take place over much of the planet.
+6. Orbits of the satellites could be disturbed.
+7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.
+Select the correct answer using the code given below:
+a) 1, 2, 4 and 5 only
+b) 2, 3, 5, 6 and 7 only
+c) 1, 3, 4, 6 and 7 only
+d) 1, 2, 3, 4, 5, 6 and 7
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3, 4, 6 and 7 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following pairs: (2020)
+| Rivers | Flows into |
+|---|---|
+| 1. Mekong | Andaman Sea |
+| 2. Thames | Irish Sea |
+| 3. Volga | Caspian Sea |
+| 4. Zambezi | Indian Ocean |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 3 and 4 only
+d) 1, 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q7) On 21st June, the Sun: (2019)
+a) does not set below the horizon at the Arctic Circle.
+b) does not set below the horizon at the Antarctic Circle.
+c) shines vertically overhead at noon on the Equator.
+d) shines vertically overhead at the Tropic of Capricorn.
+#QuestionEnd
+#AnswerStart
+Answer: a) does not set below the horizon at the Arctic Circle.
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements: (2018)
+1. The Earth's magnetic field has reversed every few hundred thousand years.
+2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide.
+3. When living organisms originated, they modified the early atmosphere of the Earth.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following phenomena might have influenced the evolution of organisms? (2014)
+1. Continental drift
+2. Glacial cycles
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q10) Variations in the length of daytime and night-time from season to season are due to (2013)
+a) the earth’s rotation on its axis
+b) the earth’s revolution around the sun in an elliptical manner
+c) latitudinal position of the place
+d) revolution of the earth on a tilted axis
+#QuestionEnd
+#AnswerStart
+Answer: d) revolution of the earth on a tilted axis
+#AnswerEnd
+
+#QuestionStart
+Q11) Which one of the following sets of elements was primarily responsible for the origin of life on the Earth? (2012)
+a) Hydrogen, Oxygen, Sodium
+b) Carbon, Hydrogen, Nitrogen
+c) Oxygen, Calcium, Phosphorus
+d) Carbon, Hydrogen, Potassium
+#QuestionEnd
+#AnswerStart
+Answer: b) Carbon, Hydrogen, Nitrogen
+#AnswerEnd
+
+#QuestionStart
+Q12) A person stood alone in a desert on a dark night and wanted to reach his village which was situated 5 km east of the point where he was standing. He had no instruments to find the direction, but he located the polestar. The most convenient way now to reach his village is to walk in the: (2012)
+a) direction facing the polestar
+b) direction opposite to the polestar
+c) direction keeping the polestar to his left
+d) direction keeping the polestar to his right
+#QuestionEnd
+#AnswerStart
+Answer: c) direction keeping the polestar to his left
+#AnswerEnd
+
+#QuestionStart
+Q13) What is the difference between asteroids and comets? (2011)
+1. Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.
+2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and mercury.
+3. Comets show perceptible glowing tails, while asteroids do not.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd

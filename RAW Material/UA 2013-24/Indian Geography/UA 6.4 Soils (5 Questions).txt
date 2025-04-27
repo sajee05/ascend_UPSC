@@ -1,0 +1,66 @@
+#QuestionStart
+Q1) Consider the following statements (2023)
+Statement-I: The soil in tropical rain forests is rich in nutrients.
+Statement-II: The high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement- II is correct
+#AnswerEnd
+
+#QuestionStart
+Q2) The black cotton soil of India has been formed due to the weathering of (2021)
+a) brown forest soil
+b) fissure volcanic rock
+c) granite and schist
+d) shale and limestone
+#QuestionEnd
+#AnswerStart
+Answer: b) fissure volcanic rock
+#AnswerEnd
+
+#QuestionStart
+Q3) In India, the problem of soil erosion is associated with which of the following? (2014)
+1. Terrace cultivation
+2. Deforestation
+3. Tropical climate
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Contour bunding is a method of soil conservation used in (2013)
+a) desert margins, liable to strong wind action
+b) low flat plains, close to stream courses, liable to flooding
+c) scrublands, liable to spread of weed growth
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following statements regarding laterite soils of India are correct? (2013)
+1. They are generally red in colour.
+2. They are rich in nitrogen and potash.
+3. They are well-developed in Rajasthan and UP.
+4. Tapioca and cashew nuts grow well on these soils.
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1 and 4
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd

@@ -1,0 +1,188 @@
+#QuestionStart
+Q1) Consider the following statements: (2024)
+1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India.
+2. In India, Foreign Institutional Investors can hold the Government Securities (G-Secs).
+3. In India, Stock Exchanges can offer separate trading platforms for debts.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the Indian economy, "Collateral Borrowing and Lending Obligations" are the instruments of: (2024)
+a) Bond market
+b) Forex market
+c) Money market
+d) Stock market
+#QuestionEnd
+#AnswerStart
+Answer: c) Money market
+#AnswerEnd
+
+#QuestionStart
+Q3) In the context of finance, the term ‘beta’ refers to (2023)
+a) the process of simultaneous buying and selling of an asset from different platforms
+b) an investment strategy of a portfolio manager to balance risk versus reward
+c) a type of systemic risk that arises where perfect hedging is not possible
+d) a numeric value that measures the fluctuations of a stock to changes in the overall stock market
+#QuestionEnd
+#AnswerStart
+Answer: d) a numeric value that measures the fluctuations of a stock to changes in the overall stock market
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)” ? (2022)
+1. Government can reduce the coupon rates on its borrowing by way of IIBs.
+2. IIBs provide protection to the investors from uncertainty regarding inflation.
+3. The interest received as well as capital gains on IIBs are not taxable.
+Which of the statements given above are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to Convertible Bonds, consider the following statements: (2022)
+1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.
+2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.
+Which of the statements given above is/are correct ?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to India, consider the following statements : (2021)
+1. Retail investors through demat accounts can invest in ‘Treasury Bills’ and ‘Government of India Debt Bonds’ in the primary market.
+2. The ‘Negotiated Dealing System- Order Matching’ is a government securities trading platform of the Reserve Bank of India.
+3. The ‘Central Depository Services Ltd.’ is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q7) In the context of the Indian economy, non-financial debt includes which of the following? (2020)
+1. Housing loans owned by household
+2. Amounts outstanding on credit cards
+3. Treasury Bills
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) Which of the following phrases defines the nature of the ‘Hundi’ generally referred to in the sources of the post-Harsha period? [2020]
+a) An advisory issued by the king to his subordinates
+b) A diary to be maintained for daily accounts
+c) A bill of exchange
+d) An order from the feudal lord to his subordinates
+#QuestionEnd
+#AnswerStart
+Answer: c) A bill of exchange
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to the Indian Economy, consider the following statements: (2020)
+1. ’Commercial Paper’ is a short term unsecured promissory note.
+2. ‘Certificate of Deposit’ is a long-term instrument issued by the Reserve Bank of India to a corporation.
+3. ‘Call Money’ is a short-term finance used for interbank transactions.
+4. ‘Zero-Coupon Bonds’ are the interest- bearing short-term bonds issued by the Scheduled Commercial Banks to corporations.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 4 only
+c) 1 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of the Indian stock market without registering themselves directly? (2019)
+a) Certificate of Deposit
+b) Commercial Paper
+c) Promissory Note
+d) Participatory Note
+#QuestionEnd
+#AnswerStart
+Answer: d) Participatory Note
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: (2018)
+1. The Reserve Bank of India manages and services Government of India Securities but not any State Government Securities.
+2. Treasury bills are issued by the Government of India and there are no treasury bills issued by the State Governments.
+3. Treasury bills are issued at a discount from the par value.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to ‘IFC Masala Bonds’, sometimes seen in the news, which of the statements given below is/are correct? (2016)
+1. The International Finance Corporation, which offers these bonds, is an arm of the World Bank.
+2. They are the rupee-denominated bonds and are a source of debt financing for the public and private sectors.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to ‘Financial Stability and Development Council’, consider the following statements: (2016)
+1. It is an organ of NITI Aayog.
+2. It is headed by the Union Finance Minister.
+3. It monitors macroprudential supervision of the economy.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) What does venture capital mean? (2014)
+a) A short-term capital provided to industries
+b) A long-term start-up capital provided to new entrepreneurs
+c) Funds provided to industries at times of incurring losses
+d) Funds provided for replacement and renovation of industries
+#QuestionEnd
+#AnswerStart
+Answer: b) A long-term start-up capital provided to new entrepreneurs
+#AnswerEnd

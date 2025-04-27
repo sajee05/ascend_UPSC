@@ -1,0 +1,1596 @@
+#QuestionStart
+Q50) Given below are two statements, one is labelled as Assertion and the other as Reason (R).
+Assertion (A): Rainfall occurs in the winter season in Mediterranean climate.
+Reason (R): In summer these regions remain under the influence of dry terrestrial winds.
+Select the correct answer from the codes given below. [U.P.P.C.S. (Pre) 2022]
+a) (A) is true but (R) is false.
+b) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+c) (A) is false but (R) is true.
+d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#QuestionEnd
+#AnswerStart
+Answer: d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q51) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Pre) 2021]
+| Name of local winds | Places |
+|---|---|
+| (a)Leveche | Spain |
+| (b) Brick fielder | Australia |
+| (c) Black roller | North America |
+| (d)Shamal | Austria |
+#QuestionEnd
+#AnswerStart
+Answer: d)Shamal | Austria
+#AnswerEnd
+
+#QuestionStart
+Q52) Which one of the following is associated with ‘Albedo’? [U.P.P.C.S. (Pre) 2019]
+a) Transmitting power
+b) Absorbing power
+c) Emissive power
+d) Reflecting power
+#QuestionEnd
+#AnswerStart
+Answer: d) Reflecting power
+#AnswerEnd
+
+#QuestionStart
+Q53) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Vegetation Type) | List-II (Region) |
+|---|---|
+| A. Maquis | 1. California |
+| B. Fynbos | 2. Mediterranean Sea Coastal Region |
+| C. Chaparral | 3. South Africa |
+| D. Matorral | 4. Chile |
+Code: [U.P.P.C.S. (Pre) 2019]
+a) A-2, B-3, C-1, D-4
+b) A-4, B-3, C-2, D-1
+c) A-3, B-4, C-1, D-2
+d) A-4, B-2, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q54) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Natural Vegetation) | List-II (Region) |
+|---|---|
+| A. Epiphytes | 1. Mediterranean |
+| B. Acacia | 2. Equatorial |
+| C. Baobab | 3. Sahara |
+| D. Cedars | 4. Savanna |
+Code: [U.P.P.C.S. (Pre) 2019]
+a) A-2, B-3, C-4, D-1
+b) A-2, B-3, C-1, D-4
+c) A-2, B-4, C-3, D-1
+d) A-2, B-4, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: c) A-2, B-4, C-3, D-1
+#AnswerEnd
+
+#QuestionStart
+Q55) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Different name of Tropical cyclone) | List-II (Country) |
+|---|---|
+| A. Willy-Willies | 1. Philippines |
+| B. Taifu | 2. Australia |
+| C. Baguio | 3. Japan |
+| D. Hurricanes | 4. USA |
+Code: [U.P.P.C.S. (Pre) 2019]
+a) A-3, B-4, C-1, D-2
+b) A-2, B-3, C-4, D-1
+c) A-1, B-3, C-2, D-4
+d) A-2, B-3, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: d) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q56) Which of the following is not correctly matched? [U.P.P.C.S. (Pre) 2019]
+| Wind / | Country |
+|---|---|
+| (a) Santa Ana | California |
+| (b) Haboob | Sudan |
+| (c) Yamo | Japan |
+| (d) Mistral | Australia |
+#QuestionEnd
+#AnswerStart
+Answer: d) Mistral | Australia
+#AnswerEnd
+
+#QuestionStart
+Q57) Which of the following is concerned with soil? [U.P.P.C.S. (Pre) 2018]
+a) Edaphic
+b) Climatic
+c) Biotic
+d) Topography
+#QuestionEnd
+#AnswerStart
+Answer: a) Edaphic
+#AnswerEnd
+
+#QuestionStart
+Q58) As a result of global warming the frequency and severity of which of the following are increasing due to global warming? [U.P.P.C.S (Pre) 2018]
+a) Cyclones only
+b) Storms only
+c) Hurricanes only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q59) Arrange in chronological order:
+
+1. Patpara formation
+2. Khetaunhi formation
+3. Baghor formation
+4. Sihawal formation
+  Code: [U.P.P.C.S. (Mains) 2017]
+  a) 1, 4, 2, 3
+  b) 4, 1, 3, 2
+  c) 1,2, 3, 4
+  d) 4, 3, 2, 1
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 4, 1, 3, 2
+  #AnswerEnd
+
+#QuestionStart
+Q60) Which of the following continents has all types of climatic zones? [U.P.P.C.S. (Mains) 2016]
+a) South America
+b) North America
+c) Australia
+d) Asia
+#QuestionEnd
+#AnswerStart
+Answer: d) Asia
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Pre) 2016]
+a) Foehn - Alps Mountain
+b) Bora - Poland
+c) Mistral - Rhine Valley
+d) Khamsin - Egypt
+#QuestionEnd
+#AnswerStart
+Answer: b) Bora - Poland
+#AnswerEnd
+
+#QuestionStart
+Q62) Which of the following countries has a constitutional provision for maintaining 70% of its geographical area under forest? [U.P.P.C.S. (Mains) 2016]
+a) Maldives
+b) Nepal
+c) Bhutan
+d) Afghanistan
+#QuestionEnd
+#AnswerStart
+Answer: c) Bhutan
+#AnswerEnd
+
+#QuestionStart
+Q63) Which of the following scales is used to measure the damage by a hurricane? [U.P.P.C.S. (Mains) 2016]
+a) Saffir-Simpson Scale
+b) Mercalli Scale
+c) Fujita Scale
+d) Richter scale
+#QuestionEnd
+#AnswerStart
+Answer: a) Saffir-Simpson Scale
+#AnswerEnd
+
+#QuestionStart
+Q64) Taiga forests are characteristics of- [U.P.P.C.S. (Mains) 2016]
+a) Equatorial region
+b) Tropical region
+c) Sub-tropical region
+d) Temperate region
+#QuestionEnd
+#AnswerStart
+Answer: d) Temperate region
+#AnswerEnd
+
+#QuestionStart
+Q65) Consider the following statements:
+Assertion (A): Of the soil species, clay holds maximum water.
+Reason (R): Porosity is found to be of large size in clay
+Code: [U.P.P.C.S. (Pre) 2015]
+a) (A) and (R) both are correct, and (R) is the correct explanation of (A).
+b) (A) is correct, but (R) is wrong.
+c) (A) and (R) both are correct, but (R) is not the correct explanation of (A).
+d) (A) is wrong, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) and (R) both are correct, but (R) is not the correct explanation of (A). (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q66) Air pressure is lowest in: [U.P.P.C.S. (Pre) 2014]
+a) Winter season
+b) Spring season
+c) Autumn season
+d) Summer season
+#QuestionEnd
+#AnswerStart
+Answer: d) Summer season
+#AnswerEnd
+
+#QuestionStart
+Q67) Which one of the following climates are associated with the shifting of the pressure belts? Select the correct answer from the code given below:
+
+1. Equatorial climate
+2. Mediterranean climate
+3. Monsoon climate
+4. Western European climate
+  Code: [U.P.P.C.S. (Mains) 2010]
+  a) 1 and 2 only
+  b) 1 and 3 only
+  c) 2 and 3 only
+  d) 2 and 4 only
+  #QuestionEnd
+  #AnswerStart
+  Answer: c) 2 and 3 only
+  #AnswerEnd
+
+#QuestionStart
+Q68) Which layer of atmosphere is responsible for Aurora Borealis? [U.P.P.C.S (Pre) 2010]
+a) Troposphere
+b) Thermosphere
+c) Ionosphere
+d) Exosphere
+#QuestionEnd
+#AnswerStart
+Answer: c) Ionosphere
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following layers of the atmosphere is responsible for the deflection of radio waves? [U.P.P.C.S. (Mains) 2005]
+a) Troposphere
+b) Stratosphere
+c) Mesosphere
+d) Ionosphere
+#QuestionEnd
+#AnswerStart
+Answer: d) Ionosphere
+#AnswerEnd
+
+#QuestionStart
+Q70) Match Iist-I with list-II and select the correct answer using the codes given below the lists:
+| List-1 | List-II |
+|---|---|
+| A. Australia | Hurricanes |
+| B. China | Willy-Willy |
+| C. India | Typhoons |
+| D. USA | Cyclones |
+Code: [U.P.P.C.S. (Mains) 2005]
+a) A-1, B-2, C-3, D-4
+b) A-2, B-3, C-4, D-1
+c) A-3, B-2, C-1, D-4
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one of the following regions of the U.S.A, is known as ‘Tornado Alley’? [U.P.P.C.S. (Pre) 2005]
+a) Atlantic Seaboard
+b) Pacific Coast
+c) Mississippi Plains
+d) Alaska
+#QuestionEnd
+#AnswerStart
+Answer: c) Mississippi Plains
+#AnswerEnd
+
+#QuestionStart
+Q72) Which one of the following is not correctly matched? [U.P.P.C.S. (Pre) 2005]
+a) Chinook - U.S.A.
+b) Sirocco - Sicily
+c) Blizzard - Chile
+d) Norwesters - India
+#QuestionEnd
+#AnswerStart
+Answer: c) Blizzard - Chile
+#AnswerEnd
+
+#QuestionStart
+Q73) Consider the following statements: [U.P.P.C.S. (Mains) 2004]
+Assertion (A): The Mediterranean regions have rainy winters.
+Reason (R): During winter, they lie in the belt of the Westerlies.
+Select the correct answer from the code given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q74) Which of the following statements is not true? [U.P.P.C.S. (Pre) 2002]
+a) Presence of water vapour is highly variable in the lower atmosphere.
+b) The zone of maximum temperature is located along the equator.
+c) Frigid zones are located in both the hemispheres between the polar circles and the poles.
+d) Jet streams are high altitude winds affecting the surface weather conditions,
+#QuestionEnd
+#AnswerStart
+Answer: b) The zone of maximum temperature is located along the equator.
+#AnswerEnd
+
+#QuestionStart
+Q75) Consider the following statements: [U.P.P.C.S. (Mains) 2002]
+Assertion (A): The ports of north-west Europe are open throughout the year.
+Reason (R): The south-westerly winds blow over north-west Europe throughout the year.
+Select the correct answer using the code given below.
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q76) Which one of the following is the correct sequence of the climatic regions while going from Zaire to the Netherlands?
+
+1. Equatorial climate
+2. Mediterranean climate
+3. Hot desert climate
+4. West European climate
+  Code: [U.P.P.C.S. (Pre) 2002]
+  a) 1, 3, 2, 4
+  b) 1,4, 2, 3
+  c) 2, 3, 4, 1
+  d) 3, 2, 1, 4
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) 1, 3, 2, 4
+  #AnswerEnd
+
+#QuestionStart
+Q77) The coniferous forests are not found in: [U.P.P.C.S. (Pre) 2001]
+a) Amazonia
+b) Scandinavia
+c) Canada
+d) Finland
+#QuestionEnd
+#AnswerStart
+Answer: a) Amazonia
+#AnswerEnd
+
+#QuestionStart
+Q78) Consider the following statements:
+Assertion (A): The atmosphere receives most of the heat only indirectly from the sun and directly from the earth’s surface.
+Reason (R): The conversion from shortwave solar to long wave terrestrial energy takes place at the earth’s surface.
+Code: [U.P.P.C.S. (Pre) 1997]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q79) The Tornadoes are very strong tropical cyclones originating in: [U.P.P.C.S. (Pre) 1996]
+a) Caribbean Sea
+b) China Sea
+c) Arabian Sea
+d) Black Sea
+#QuestionEnd
+#AnswerStart
+Answer: a) Caribbean Sea
+#AnswerEnd
+
+#QuestionStart
+Q80) Spring Tide occurs [U.P.P.C.S. (Pre) 1999]
+a) When the Sun the Earth and Moon are in a straight line.
+b) When the Sun and Moon make a right angle.
+c) When a strong wind blows.
+d) When the night is very cold.
+#QuestionEnd
+#AnswerStart
+Answer: a) When the Sun the Earth and Moon are in a straight line.
+#AnswerEnd
+
+#QuestionStart
+Q81) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Region) | List-II (Type of Climate) |
+|---|---|
+| A. California | 1. Mediterranean |
+| B. West Australia | 2. Tropical Monsoon |
+| C. Bangladesh | 3. Cold Temperate |
+| D. Siberia | 4. Hot Desert |
+Code: [U.P.P.C.S. (Pre) 1999]
+a) A-1, B-2, C-3, D-4
+b) A-1, B-4, C-2, D-3
+c) A-2, B-3, C-4, D-1
+d) A-2, B-4, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-1, B-4, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q82) In which of the following countries of Africa, dense, hot and humid forests are found? [U.P.P.C.S. (Pre) 1998]
+a) Ivory Coast
+b) Kenya
+c) Zimbabwe
+d) South Africa
+#QuestionEnd
+#AnswerStart
+Answer: a) Ivory Coast
+#AnswerEnd
+
+#QuestionStart
+Q83) Soil leaching is a major problem [U.P.P.C.S. (Pre) 1998]
+a) In tropical rainforests
+b) In African savanna
+c) In Mediterranean regions
+d) In Australian Dawns
+#QuestionEnd
+#AnswerStart
+Answer: a) In tropical rainforests
+#AnswerEnd
+
+#QuestionStart
+Q84) The winds flowing from high -pressure area toward the Mediterranean Sea are- [U.P.P.C.S. (Pre) 1992]
+a) Westerly
+b) Trade wind
+c) Monsoonal wind
+d) Sea wind
+#QuestionEnd
+#AnswerStart
+Answer: a) Westerly
+#AnswerEnd
+
+#QuestionStart
+Q85) What are the causes of high-tide low tide formation in the oceans? [U.P.P.C.S. (Pre) 1991]
+a) Due to the effect of the sun.
+b) Due to the rotation of the Earth.
+c) Due to the combined effect of sun and the moon.
+d) Due to Gravitation, Centripetal force and the centrifugal force.
+#QuestionEnd
+#AnswerStart
+Answer: d) Due to Gravitation, Centripetal force and the centrifugal force.
+#AnswerEnd
+
+#QuestionStart
+Q86) Hekistotherms are plants growing in- [U.P. Lower Sub. (Pre) 2013]
+a) bright light
+b) high temperature
+c) very low temperature
+d) very low light
+#QuestionEnd
+#AnswerStart
+Answer: c) very low temperature
+#AnswerEnd
+
+#QuestionStart
+Q87) To measure the intensity of Tornadoes we use- [U.P. Lower Sub. (Pre) 2009]
+a) Mercalli scale
+b) Fujita Scale
+c) Saffir-samson scale
+d) Richter scale
+#QuestionEnd
+#AnswerStart
+Answer: b) Fujita Scale
+#AnswerEnd
+
+#QuestionStart
+Q88) Highest altitude clouds are- [U.P. Lower Sub. (Pre) 2009]
+a) Altocumulus
+b) Altostratus
+c) Cumulus
+d) Cirrostratus
+#QuestionEnd
+#AnswerStart
+Answer: d) Cirrostratus
+#AnswerEnd
+
+#QuestionStart
+Q89) By which of the following is the maximum percentage of Earth covered? [U.P. Lower Sub. (Pre) 2002]
+a) Arid Region
+b) Semi-arid Region
+c) Sub-humid land
+d) Humid Region
+#QuestionEnd
+#AnswerStart
+Answer: b) Semi-arid Region
+#AnswerEnd
+
+#QuestionStart
+Q90) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Monsoon Forest | 1. Plum and Olive |
+| B. Equatorial Forest | 2. Pine and Spruce |
+| C. Mediterranean Forest | 3. Teak and Sal |
+| D. Coniferous Forest | 4. Mahogany and Rosewood |
+Code: [UP RO/ARO (Mains) 2013]
+a) A-3, B-4, C-1, D-2
+b) A-2, B-3, C-4, D-1
+c) A-4, B-2, C-3, D-1
+d) A-1, B-3, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q91) Coniferous forests are mainly found in- [Uttarakhand Lower (Sub.) (Pre) 2010]
+a) Tropical region
+b) Temperate region
+c) Coastal region
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Temperate region
+#AnswerEnd
+
+#QuestionStart
+Q92) Clouds are the result of- [Uttarakhand P.C.S. (Pre) 2016]
+a) Evaporation
+b) Normal temp, lapse rate
+c) Catabatic lapse rate
+d) Condensation
+#QuestionEnd
+#AnswerStart
+Answer: d) Condensation
+#AnswerEnd
+
+#QuestionStart
+Q93) The function of the ozone layer in the stratosphere is- [Uttarakhand P.C.S. (Pre) 2002]
+a) To stabilize the global temperature.
+b) To reduce the frequency of earthquake.
+c) To avoid failure of monsoons.
+d) To prevent ultra-violet radiation effect on the ground.
+#QuestionEnd
+#AnswerStart
+Answer: d) To prevent ultra-violet radiation effect on the ground.
+#AnswerEnd
+
+#QuestionStart
+Q94) A sudden fall of Mercury in Barometer indicates: [Uttarakhand P.C.S. (Mains) 2002]
+a) Fair weather
+b) Stormy weather
+c) Cold weather
+d) Hot weather
+#QuestionEnd
+#AnswerStart
+Answer: b) Stormy weather
+#AnswerEnd
+
+#QuestionStart
+Q95) The evergreen rainforests are found in: [Uttarakhand P.C.S. (Pre) 2002]
+a) Australia
+b) Brazil
+c) Canada
+d) France
+#QuestionEnd
+#AnswerStart
+Answer: b) Brazil
+#AnswerEnd
+
+#QuestionStart
+Q96) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Soils) | List-II (Climate region) |
+|---|---|
+| A. Podzol | 1. Temperate cold steppe |
+| B. Chernozem | 2. Cold temperate |
+| C. Spodosols | 3. Hot and humid |
+| D. Laterite | 4. Humid cold temperate |
+Code: [R.A.S./RTS (Pre) (Re-Exam) 2013]
+a) A-2, B-1, C-4, D-3
+b) A-3, B-4, C-2, D-1
+c) A-2, B-3, C-4, D-1
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q97) Which continent is known as ‘the Cradle of Mankind’? [R.A.S./R.T.S. (Pre) 2012]
+a) Asia
+b) Africa
+c) Europe
+d) South America
+#QuestionEnd
+#AnswerStart
+Answer: b) Africa
+#AnswerEnd
+
+#QuestionStart
+Q98) In which atmospheric layer are communication satellites located? [Uttarakhand P.C.S. (Pre) 2005, R.A.S./ R.T.S. (Pre) 1997]
+a) Exosphere
+b) Stratosphere
+c) Ionosphere
+d) Troposphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Exosphere
+#AnswerEnd
+
+#QuestionStart
+Q99) The cause of producing indirect high tide is- [R.A.S./R.T.S. (Pre) 1999]
+a) Gravitational force of the Moon.
+b) Gravitational force of the Sun.
+c) Centrifugal force of the Earth.
+d) Gravitational force of the Earth.
+#QuestionEnd
+#AnswerStart
+Answer: c) Centrifugal force of the Earth.
+#AnswerEnd
+
+#QuestionStart
+Q100) Most weather activity occurs in which atmospheric layer: [R.A.S./R.T.S. (Pre) 1999]
+a) Ozonosphere
+b) Ionosphere
+c) Troposphere
+d) Exosphere
+#QuestionEnd
+#AnswerStart
+Answer: c) Troposphere
+#AnswerEnd
+
+#QuestionStart
+Q101) Intertropical Convergence Zone (ITCZ), a low-pressure zone, is located: [M.P.P.C.S. (Pre) 2018]
+a) between trade winds and westerlies belt
+b) between westerlies and polar winds belt
+c) nearby the poles
+d) at the equator
+#QuestionEnd
+#AnswerStart
+Answer: d) at the equator
+#AnswerEnd
+
+#QuestionStart
+Q102) What are roaring forties, furious fifties and shrieking sixties? [M.P.P.C.S. (Pre) 2015]
+a) Oceanic storms
+b) Westerlies in Southern hemisphere
+c) Westerlies in Northern hemisphere
+d) Pacific Ocean currents
+#QuestionEnd
+#AnswerStart
+Answer: b) Westerlies in Southern hemisphere
+#AnswerEnd
+
+#QuestionStart
+Q103) Halophytes grow well in- [M.P.P.C.S. (Pre) 2014]
+a) Acidic soils
+b) Cold soils
+c) soil containing calcium
+d) Saline soils
+#QuestionEnd
+#AnswerStart
+Answer: d) Saline soils
+#AnswerEnd
+
+#QuestionStart
+Q104) What is the effect of Chinook winds in the central plains in the USA? [Jharkhand P.C.S. (Pre) 2013]
+a) Temperature of winter rises
+b) Temperature of summer reduces
+c) Uniform temperature
+d) No effect on temperature
+#QuestionEnd
+#AnswerStart
+Answer: a) Temperature of winter rises
+#AnswerEnd
+
+#QuestionStart
+Q105) Consider the following statements:
+Assertion (A): Earthworms are not good for agriculture.
+Reason (R): Earthworms break down the soil into fine particles and make it soft.
+Code: [Jharkhand P.C.S. (Pre) 2013]
+a) (A) and (R) both are correct, and (R) is the correct explanation of (A).
+b) (A) is correct, and (R) is wrong.
+c) (A) and (R) both are correct, but (R) is not the correct explanation of (A).
+d) (A) is wrong, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is wrong, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q106) The stratosphere is said to be ideal for flying jet aircraft. This is because- [Jharkhand P.C.S. (Pre) 2010]
+a) This layer is rich in ozone which reduces fuel consumption.
+b) The temperature is constant and ideal for aircraft engine efficiency.
+c) This layer is out of the firing range of antiaircraft guns.
+d) The absence of clouds and other weather phenomena.
+#QuestionEnd
+#AnswerStart
+Answer: d) The absence of clouds and other weather phenomena.
+#AnswerEnd
+
+#QuestionStart
+Q107) Which of the following clouds is responsible for highly intense rain? [Jharkhand P.C.S. (Pre) 2003]
+a) Cumulus
+b) Cumulonimbus
+c) Nimbostratus
+d) Cirrostratus
+#QuestionEnd
+#AnswerStart
+Answer: b) Cumulonimbus
+#AnswerEnd
+
+#QuestionStart
+Q108) The ozone layer lies in the: [Chhattisgarh P.C.S. (Pre) 2011]
+a) Troposphere
+b) Tropopause
+c) Stratosphere
+d) Photosphere
+#QuestionEnd
+#AnswerStart
+Answer: c) Stratosphere
+#AnswerEnd
+
+#QuestionStart
+Q109) Consider the following characteristics of a cloud type: [CDS-2023(I)]
+
+1. They are born through convection.
+2. Only cloud type that can produce hail, thunder and lightning.
+3. They are large cauliflower-shaped towers, often anvil tops’.
+  Identify the type of cloud on the basis of the given characteristics.
+  a) Stratocumulus
+  b) Cumulonimbus
+  c) Cirrocumulus
+  d) Nimbostratus
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) Cumulonimbus
+  #AnswerEnd
+
+#QuestionStart
+Q110) Which one of the following is not a resultant of the El Nino effect? [CDS-2022(I)]
+a) Distortion of equatorial atmospheric circulation.
+b) Flow of the South-East Trade Winds towards the Indian Ocean.
+c) Irregularities in the evaporation of sea water.
+d) Reduction in the amount of planktons which reduces the number of fish in the sea.
+#QuestionEnd
+#AnswerStart
+Answer: b) Flow of the South-East Trade Winds towards the Indian Ocean.
+#AnswerEnd
+
+#QuestionStart
+Q111) Which one of following is the most important factor for the formulation of smog? [CDS-2022(I)]
+a) Long winter nights
+b) Formation of an ‘inversion lid’
+c) Presence of many air pollutant resources
+d) Rapid fall in temperature with increasing height above the sea level
+#QuestionEnd
+#AnswerStart
+Answer: b) Formation of an ‘inversion lid’
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one of the following land surfaces has the highest albedo? [CDS-2022(I)]
+a) A snow covered mountain
+b) A barren rocky piedmont surface
+c) A sandy desert
+d) A mangrove forest
+#QuestionEnd
+#AnswerStart
+Answer: a) A snow covered mountain
+#AnswerEnd
+
+#QuestionStart
+Q113) Which of the following statements about inversion of temperature is/are correct? [CDS-2022(II)]
+
+1. Temperature increases with increasing altitude.
+2. A long winter night with clear skies is an ideal situation.
+3. It is a short term phenomenon and is common all over the globe except at the poles.
+  Select the correct answer using the code given below:
+  a) 1 and 2 only
+  b) 2 and 3 only
+  c) 1 only
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) 1 and 2 only
+  #AnswerEnd
+
+#QuestionStart
+Q114) Match List I with List II and select the correct answer using the code given below the lists:
+| List I (Cloud Form) | List II (Characteristic) |
+|---|---|
+| A. Cirrus | 1. Storm Clouds |
+| B. Cumulus | 2. High fog “Low Ceiling” |
+| C. Nimbostratus | 3. Fair-weather clouds |
+| D. Stratus | 4. Entirely of ice particles |
+Code : [CDS-2022(II)]
+a) A-2, B-1, C-3, D-4
+b) A-2, B-3, C-1, D-4
+c) A-4, B-3, C-1, D-2
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q115) Which one of the following statements about the Coriolis force is not correct? [CDS 2021 (I)]
+a) It is maximum at the Poles.
+b) It is absent at the Equator.
+c) It deflects the wind to the right direction in the southern hemisphere.
+d) It deflects the wind to the right direction in the northern hemisphere.
+#QuestionEnd
+#AnswerStart
+Answer: c) It deflects the wind to the right direction in the southern hemisphere.
+#AnswerEnd
+
+#QuestionStart
+Q116) Match List J with List II and select the correct answer using the codes given below the lists:
+| List Í : ;s n | List II |
+|---|---|
+| A. Cyclones | 1. Western Australia |
+| B. Hurricanes | 2. South China Sea |
+| C. Typhoons | 3. Indian Ocean |
+| D. Willy-willies | 4. Atlantic Ocean |
+Codes [CDS 2021 (I)]
+a) A-3, B-2, C-4, D-1
+b) A-3, B-4, C-2, D-1
+c) A-1, B-4, C-2, D-3
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q117) In the region of Eastern shore of Adriatic Sea, a cold and dry wind blowing down from the mountain is known as [CDS 2020 (I)]
+a) Mistral
+b) Bora
+c) Bise
+d) Blizzard
+#QuestionEnd
+#AnswerStart
+Answer: b) Bora
+#AnswerEnd
+
+#QuestionStart
+Q118) In the Hadley cell thermal circulation, air rises up and finally descends at [CDS 2020 (I)]
+a) intertropical convergence zone
+b) doldrums
+c) sub-tropical high-pressure cells
+d) equatorial troughs
+#QuestionEnd
+#AnswerStart
+Answer: c) sub-tropical high-pressure cells
+#AnswerEnd
+
+#QuestionStart
+Q119) Timber vegetation is generally not found in which of the following regions? [CDS 2020 (II)]
+a) Subtropical region
+b) Temperate region
+c) Alpine region
+d) Tundra region
+#QuestionEnd
+#AnswerStart
+Answer: d) Tundra region
+#AnswerEnd
+
+#QuestionStart
+Q120) Which one of the following indicates the Tropical Savannah climate? [CDS 2020 (II)]
+a) Aw
+b) Dfc
+c) Cwg
+d) Am
+#QuestionEnd
+#AnswerStart
+Answer: a) Aw
+#AnswerEnd
+
+#QuestionStart
+Q121) Which one of the following countries does not have Tundra vegetation? [CDS 2020 (II)]
+a) Belarus
+b) USA
+c) Russia
+d) Canada
+#QuestionEnd
+#AnswerStart
+Answer: a) Belarus
+#AnswerEnd
+
+#QuestionStart
+Q122) Which one of the following is the most noticeable characteristic of the Mediterranean climate? [CDS 2019 (II)]
+a) Limited geographical extent
+b) Dry summer
+c) Dry winter
+d) Moderate temperature
+#QuestionEnd
+#AnswerStart
+Answer: b) Dry summer
+#AnswerEnd
+
+#QuestionStart
+Q123) Which one of the following regions is an important supplier of citrus fruits? [CDS 2019 (II)]
+a) Equatorial region
+b) Mediterranean region
+c) Desert region
+d) Sub-humid region
+#QuestionEnd
+#AnswerStart
+Answer: b) Mediterranean region
+#AnswerEnd
+
+#QuestionStart
+Q124) Which one of the following may be the true characteristic of cyclones? [CDS 2019 (I)]
+a) Temperate cyclones move from West to East with Westerlies whereas tropical cyclones follow trade winds.
+b) The front side of cyclone is known as the ‘eye of cyclone’.
+c) Cyclones possess a centre of high pressure surrounded by closed isobars.
+d) Hurricanes are well-known tropical cyclones which develop over midlatitudes.
+#QuestionEnd
+#AnswerStart
+Answer: a) Temperate cyclones move from West to East with Westerlies whereas tropical cyclones follow trade winds.
+#AnswerEnd
+
+#QuestionStart
+Q125) Statement I: In Tundra climate, biodiversity is comparatively less.
+Statement II: Tundra climate has less reproductive warm period.
+Codes [CDS 2018 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement I is false.
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I.
+#AnswerEnd
+
+#QuestionStart
+Q126) Statement I: Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon, Sun and the rotation of the Earth.
+Statement II: The Earth rotates from West to East.
+Codes: [CDS 2018 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement I is false,
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+#AnswerEnd
+
+#QuestionStart
+Q127) Tropical evergreen rainforest biome provides optimum environmental conditions for the growth of plants and animals. Which one among the following statements regarding this is not correct? [CDS 2017 (I)]
+a) It has heavy rainfall and high temperature throughout the year.
+b) This biome is also called mega-thermal biome.
+c) The evergreen rain forest biome extends between 10° N and 10° S latitudes.
+d) The maximum development of this biome has taken place in central and Southern California and North-Western coastal lands of Africa.
+#QuestionEnd
+#AnswerStart
+Answer: d) The maximum development of this biome has taken place in central and Southern California and North-Western coastal lands of Africa.
+#AnswerEnd
+
+#QuestionStart
+Q128) Tsunami waves are the undersea occurrence of earthquake exceeding 7.5 on Richter scale. Which one of the following statements regarding this is not correct? [CDS 2017 (I)]
+a) It often generates strong waves.
+b) The Pacific coasts are most vulnerable to Tsunami waves.
+c) Tsunami waves are also called high-energy tidal waves or seismic sea waves.
+d) Tsunami is a Latin word
+#QuestionEnd
+#AnswerStart
+Answer: d) Tsunami is a Latin word
+#AnswerEnd
+
+#QuestionStart
+Q129) Which of the following statements with regard to cloudburst is/are correct? [CDS 2017 (I)]
+
+1. It is defined as sudden localised very heavy downpour with cloud thunder and lightning.
+2. It mostly occurs in the hilly areas.
+3. It results into very high intensity of rainfall, i.e. 250 mm-300 mm in a couple of hours.
+4. It occurs only during daytime.
+  Select the correct answer using the code given below
+  a) 1, 2 and 3
+  b) 1, 3 and 4
+  c) 2 and 3
+  d) Only 2
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) 1, 2 and 3
+  #AnswerEnd
+
+#QuestionStart
+Q130) Which one of the following statements with regard to Jet stream, an upper-level tropospheric wave, is not correct? [CDS 2017 (I)]
+a) It is narrow band of high-velocity wind.
+b) It follows the wave path near the tropopause at elevations of 8 km to 15 km.
+c) Jet streams are typically continuous over long distances.
+d) In summer, the polar front jet achieves its maximum force.
+#QuestionEnd
+#AnswerStart
+Answer: d) In summer, the polar front jet achieves its maximum force.
+#AnswerEnd
+
+#QuestionStart
+Q131) Which of the following statements regarding Mediterranean and Monsoon climate is/are correct?
+
+1. Precipitation in Mediterranean climate is in winter while in Monsoon climate it is mostly in summer.
+2. The annual range of temperature in Mediterranean climate is higher than the Monsoon climate.
+3. Rainy and dry seasons are found in both the climates.
+  Select the correct answer using the codes given below: [CDS 2016 (I)]
+  a) Only 1
+  b) 2 and 3
+  c) 1 and 3
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: c) 1 and 3
+  #AnswerEnd
+
+#QuestionStart
+Q132) Which one of the following is the reason due to which the wind in the Southern hemisphere is deflected towards its left? [CDS 2016 (I)]
+a) Difference in the water masses of Northern and Southern hemisphere.
+b) Temperature and pressure variations.
+c) Inclined axis of the Earth.
+d) Rotation of the Earth.
+#QuestionEnd
+#AnswerStart
+Answer: d) Rotation of the Earth.
+#AnswerEnd
+
+#QuestionStart
+Q133) The‘eye’of the cyclone has [CDS 2016 (I)]
+a) abnormally high temperature and lowest pressure.
+b) abnormally low temperature and pressure
+c) clear sky and lowest temperature.
+d) dense cloud cover and low pressure.
+#QuestionEnd
+#AnswerStart
+Answer: a) abnormally high temperature and lowest pressure.
+#AnswerEnd
+
+#QuestionStart
+Q134) Which one of the following is the pattern of circulation around a low-pressure area in the Northern hemisphere? [CDS 2015 (II)]
+a) Counter-clockwise and away from the centre.
+b) Clockwise and away from the centre.
+c) Counter-clockwise and towards the centre.
+d) Clockwise and towards the centre.
+#QuestionEnd
+#AnswerStart
+Answer: c) Counter-clockwise and towards the centre.
+#AnswerEnd
+
+#QuestionStart
+Q135) Which one of the following statement is correct? [CDS 2015 (II)]
+a) Cold fronts move at slower rate than warm fronts and therefore, cannot overtake the warm fronts.
+b) Cold fronts normally move faster than warm fronts and therefore, frequently overtake the warm fronts.
+c) Cold fronts move at slower rate and eventually, they are overtaken by the warm fronts.
+d) Cold fronts move faster than warm fronts, but they cannot overtake the warm fronts.
+#QuestionEnd
+#AnswerStart
+Answer: b) Cold fronts normally move faster than warm fronts and therefore, frequently overtake the warm fronts.
+#AnswerEnd
+
+#QuestionStart
+Q136) Match List I with List II and and select the correct answer using the codes given below the lists.
+| List I (Plant) | List II (Natural Vegetation Type) |
+|---|---|
+| A. Ebony | Moist deciduous |
+| B. Shisham | Himalayan moist |
+| C. Walnut | Alpine |
+| D. Birch | Tropical evergreen |
+Codes : [CDS 2015 (II)]
+a) A-4, B-1, C-2, D-3
+b) A-4, B-2, C-1, D-3
+c) A-3, B-2, C-1, D-4
+d) A-3, B-1, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q137) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I (Climate) | List II (Characteristic) |
+|---|---|
+| A. Mediterranean | 1. Temperature cycle is moderated by marine influence. |
+| B. Marine West Coast | 2. Warm summers and cold winters with 3 months below freezing very large annual temperature range. |
+| C. Dry Mid-Latitude | 3. S t r o n g temperature cycle with large annual range. Warm summers to hot and cold winters to very cold. |
+| D. Moist Continental | 4. Temperature range is moderate with warm to hot summers and mild winters. |
+Codes : [CDS 2015 (II)]
+a) A-2, B-1, C-3, D-4
+b) A-2, B-3, C-1, D-4
+c) A-4, B-3, C-1, D-2
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-1, C-3, D-2
+#AnswerEnd
+
+#QuestionStart
+Q138) Match list-I with list II and select the correct answer using the codes given below the lists:
+| List I (Type of Grass) | List II (Country) |
+|---|---|
+| A. Lianos | 1. Australia |
+| B. Prairies | 2. Venezuela |
+| C. Pampas | 3. USA |
+| D. Downs | 4. Argentina |
+Codes [CDS 2015 (I)]
+a) A-1, B-4, C-3, D-2
+b) A-1, B-3, C-4, D-2
+c) A-2, B-4, C-3, D-1
+d) A-2, B-3, C-4, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q139) The following item consist of two statements, Statement I and Statement II. You have to examine these two statements carefully and select the answers from these items using the codes given below:
+Statement I: Tides are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun and the rotation of the Earth.
+Statement II: The Earth rotates from the West towards the East once in 24 hours with respect to the Sun.
+Codes: [CDS 2015 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement II is false.
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+#AnswerEnd
+
+#QuestionStart
+Q140) Collision-Coalescence process of precipitation is applicable to [CDS 2014 (II)]
+a) clouds which extend beyond freezing level.
+b) those clouds which do not extend beyond the freezing level.
+c) all types of clouds.
+d) cumulonimbus cloud.
+#QuestionEnd
+#AnswerStart
+Answer: b) those clouds which do not extend beyond the freezing level.
+#AnswerEnd
+
+#QuestionStart
+Q141) The Equatorial region has no other season except summer. What could be the reason?
+
+1. The length of day and night is more or less equal over the year.
+2. The Earth’s rotational velocity is maximum at the Equator.
+3. The Coriolis force is zero at the Equator.
+  Select the correct answer using Dir the codes given below: [CDS 2014 (II)]
+  a) Only 1
+  b) 1 and 2
+  c) 2 and 3
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) Only 1
+  #AnswerEnd
+
+#QuestionStart
+Q142) Statement I: A tsunami is a series of waves in a water body caused by displacement of a large volume of water, generally an ocean or a large lake.
+Statement II: A tsunami can be generated when thrust faults associated with convergent or destructive plate boundaries move abruptly.
+Codes: [CDS 2014 (II)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement II is false.
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I.
+#AnswerEnd
+
+#QuestionStart
+Q143) Statement I: The Atacama is the driest among the deserts of the World.
+Statement II: The aridity of the Atacama is explained by its location between two mountain chains of sufficient height to prevent moisture advection from either the Pacific or the Atlantic Ocean.
+Codes: [CDS 2014 (II)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement II is false.
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I.
+#AnswerEnd
+
+#QuestionStart
+Q144) The vegetation type characterized by
+(i) a large expanse of grassland with scattered trees and shrubs,
+(ii) lying between tropical rain forest and tropical steppes and deserts and
+(iii) flat-topped trees.
+is called: [CDS 2014 (I)]
+a) Mid-latitude broad-leaf mixed forest
+b) Temperate rain forest
+c) Tropical savanna
+d) Mid-latitude grassland
+#QuestionEnd
+#AnswerStart
+Answer: c) Tropical savanna
+#AnswerEnd
+
+#QuestionStart
+Q145) Which of the following statements is/are correct?
+
+1. The jet streams are high altitude easterly winds.
+2. El Niño is a warm ocean current.
+3. El Niño appears along the Peru coast.
+  Select the correct answer using the code given below. [(CAPF 2022)]
+  a) 1 only
+  b) 2 and 3 only
+  c) 1 and 3 only
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 2 and 3 only
+  #AnswerEnd
+
+#QuestionStart
+Q146) Which of the following statements about tropical rain forests are correct?
+
+1. The soils of tropical rain forests are quite infertile.
+2. The vegetation is evergreen, enabling photosynthesis to take place year around.
+3. They have been described as ‘deserts covered by trees’.
+4. They are most productive land-based ecosystem.
+  Select the correct answer using the codes given below. [CAPF 2021]
+  a) 2 and 4
+  b) 1,3 and 4
+  c) 1,2 and 3
+  d) 1, 2, 3 and 4
+  #QuestionEnd
+  #AnswerStart
+  Answer: d) 1, 2, 3 and 4
+  #AnswerEnd
+
+#QuestionStart
+Q147) Which one of the following statements is NOT correct? [CAPF 2020]
+a) Mahogany is a timber species of tropical rainforest.
+b) Chaparral vegetation is found in taiga climate.
+c) Lichens are predominantly found in tundra region.
+d) Sal is a representative species of moist deciduous forest.
+#QuestionEnd
+#AnswerStart
+Answer: b) Chaparral vegetation is found in taiga climate.
+#AnswerEnd
+
+#QuestionStart
+Q148) Which one of the following does not fall in the areas of tropical deciduous forest biomes? [CAPF 2019]
+a) The Neotropics mainly West Indies.
+b) Indo-Malaysian zone mainly in South and South-East Asia, except equatorial evergreen rainforest areas.
+c) Eastern Africa and Northern Australia.
+d) North America mainly South-West America.
+#QuestionEnd
+#AnswerStart
+Answer: d) North America mainly South-West America.
+#AnswerEnd
+
+#QuestionStart
+Q149) Doldrum are
+
+1. equatorial calms
+2. calm and light winds
+3. roaring forties
+4. variable both in position and in extent Select the correct answer using the code given below: [CAPF 2019]
+  a) 1,2 and 4
+  b) 2 and 3
+  c) 1 and 3
+  d) 2, 3 and 4
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) 1,2 and 4
+  #AnswerEnd
+
+#QuestionStart
+Q150) In mid-latitude regions, the diurnal variation in weather is due to [CAPF 2018]
+a) raising air /convection
+b) sinking air/conduction
+c) advection
+d) radiation
+#QuestionEnd
+#AnswerStart
+Answer: c) advection
+#AnswerEnd
+
+#QuestionStart
+Q151) Which of the following statements are appropriate to Mangrove Sites?
+
+1. Mangrove plants require an appropriate mix of saline water and freshwater.
+2. Mangrove plants require mudflats to enable them to grow and develop.
+3. Mangrove plants are found in the Intertidal zones of sheltered coasts.
+4. Mangrove vegetation has been reported in all the coastal States including Andaman and Nicobar Islands.
+  Select the correct answer using the codes given below. [CAPF 2018]
+  a) 1 and 2 only
+  b) 2, 3 and 4 only
+  c) 1,3 and 4 only
+  d) 1, 2, 3 and 4
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 2, 3 and 4 only
+  #AnswerEnd
+
+#QuestionStart
+Q152) The tides whose height is 20 percent more than normal tide are called [CAPF 2018]
+a) Spring tides
+b) neap tides
+c) apogean and perigean tides
+d) daily and semi-diurnal tides
+#QuestionEnd
+#AnswerStart
+Answer: a) Spring tides
+#AnswerEnd
+
+#QuestionStart
+Q153) Which of the following statements about tropical cyclone are correct?
+
+1. It originates and develops over warm oceanic surfaces.
+2. Presence of Coriolis force is necessary for it.
+3. It occurs in the middle latitudinal region.
+4. It develops eye’ with calm and descending air condition.
+  Select the correct answer using the codes given below. [CAPF 2018]
+  a) 1 and 2 only
+  b) 1,2 and 4
+  c) 3 and 4 only
+  d) 2, 3 and 4
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 1,2 and 4
+  #AnswerEnd
+
+#QuestionStart
+Q154) Match List I with List II and select the correct answer using the code given blow the Lists:
+| List I (Vegetation) | List II (Region) |
+|---|---|
+| A. Chaparrals | North America |
+| B. Maquis | Southern Europe |
+| C. Eynbos | South Africa |
+| D. Malle scrubs | Australia |
+Codes: [CAPF 2017]
+a) A-1, B-2, C-3, D-4
+b) A-1, B-3, C-2, D-4
+c) A-4, B-3, C-2, D-1
+d) A-4, B-2, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: a) A-1, B-2, C-3, D-4
+#AnswerEnd
+
+#QuestionStart
+Q155) Which of the following statements about the Equatorial region are correct?
+
+1. It is a mega thermal region.
+2. It is a sclerophyll region.
+3. It is a region of high development.
+4. It is a region of aerial streamlets.
+  Select the correct answer using the code given below: [CAPF2017]
+  a) 1 and 4
+  b) 1 and 2 only
+  c) 2, 3 and 4
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) 1 and 4
+  #AnswerEnd
+
+#QuestionStart
+Q156) Which one of the following is not a favourable condition for occurrence of a thunderstorm? [CAPF 2017]
+a) Conditional and convective instability.
+b) Adequate supply of moisture in the lower atmosphere.
+c) Advection of cold dry air in the lower troposphere and warm moist air in the upper troposphere.
+d) A synoptic situation of low level convergence and upper level divergence.
+#QuestionEnd
+#AnswerStart
+Answer: c) Advection of cold dry air in the lower troposphere and warm moist air in the upper troposphere.
+#AnswerEnd
+
+#QuestionStart
+Q157) Consider the following statements:
+
+1. Areas where rainfall exceeds 250 cm.
+2. Annual temperature 25-27o C.
+3. Average humidity exceeds 75%.
+4. Trees do not shed the leaves.
+  To which one of the following types of vegetation does the above represent? [CAPF 2017]
+  a) Tropical wet evergreen
+  b) Tropical semi-evergreen
+  c) Tropical moist deciduous
+  d) Tropical dry evergreen
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) Tropical wet evergreen
+  #AnswerEnd
+
+#QuestionStart
+Q158) Under which of the following condition(s) are the occluded fronts created?
+
+1. When the front remains stationary.
+2. When cold air mass moves to warm air mass.
+3. When warm air mass moves to cold air mass.
+4. When an air mass is fully lifted above the land surface.
+  Select the correct answer using the code given below. [CAPF 2015]
+  a) 1 and 2
+  b) 2 and 3
+  c) 3 and 4
+  d) 4 only
+  #QuestionEnd
+  #AnswerStart
+  Answer: d) 4 only
+  #AnswerEnd
+
+#QuestionStart
+Q159) Which one of the following factors is NOT connected with planetary wind system? [CAPF 2015]
+a) Latitudinal variation of the atmospheric heating.
+b) Emergence of the pressure belt.
+c) Earths revolution around the Sun.
+d) Migration of the pressure belts due to apparent path of the Sun.
+#QuestionEnd
+#AnswerStart
+Answer: c) Earths revolution around the Sun.
+#AnswerEnd
+
+#QuestionStart
+Q160) The trees of tropical rainforest have buttress roots because [CAPF 2015]
+a) they help to provide aeration to soils,
+b) the organisms found in the buttresses have a symbiotic relationship.
+c) the trees belong to gramineae family.
+d) the buttresses have to bear the mechanical load of hardwoods.
+#QuestionEnd
+#AnswerStart
+Answer: d) the buttresses have to bear the mechanical load of hardwoods.
+#AnswerEnd
+
+#QuestionStart
+Q161) Consider the following statements relating to cyclone, anti-cyclone and trade wind.
+
+1. The wind direction is clockwise in the cyclone of Northern hemisphere.
+2. The planetary wind that blows from North-East to North-West is known as North-East trade wind.
+3. The wind direction is anti-clockwise in the anti-cyclone of Southern hemisphere.
+4. Both westerlies and trade winds originate from sub-tropical highs.
+  Which of the statements given above is/are correct? [CAPF 2015]
+  a) 3 and 4 only
+  b) 1, 3 and 4
+  c) 4 only
+  d) 1,2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: a) 3 and 4 only
+  #AnswerEnd
+
+#QuestionStart
+Q162) The following item consists of two Statements I and II. You are to examine these two statements carefully and select the answer to these items using the code given below.
+Statements:
+I. The Doldrums is a low-pressure area around the Equator where the prevailing winds are calm.
+II. Low pressure is caused by the heat at the Equator which makes the air rise and travel both Northwards and Southwards.
+Codes: [CAPF 2014]
+a) Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c) Statement I is true and Statement II is false.
+d) Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+
+#QuestionStart
+Q163) The following item consists of two Statements I and IL You are to examine these two statements carefully and select the answer to these items using the code given below.
+Statements I: Roaring Forties are strong Westerly winds found in the Southern Hemisphere, generally between the latitudes of 40° and 50°.
+Statements II: The strong East to West air currents are caused by the combination of air being displaced from the Equator towards the South Pole and the Earth’s rotation and there are few landmasses to serve as wind breaks.
+Codes: [CAPF 2014]
+a) Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c) Statement I is true and Statement II is false.
+d) Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement I is true and Statement II is false.
+#AnswerEnd
+
+#QuestionStart
+Q164) The Kuroshio is a North flowing Ocean current on the West side of the North Pacific Ocean. Which one among the following statements regarding this is not correct? [CAPF 2014]
+a) It is similar to the Gulf Stream in the North Atlantic ocean.
+b) It transports warm, tropical water northward towards the Polar region.
+c) The warm water of the Kuroshio current sustains the coral reefs of Japan.
+d) It begins off the coast of Japan and flows Northward.
+#QuestionEnd
+#AnswerStart
+Answer: d) It begins off the coast of Japan and flows Northward.
+#AnswerEnd
+
+#QuestionStart
+Q165) The inner most region of a hurricane is known as hurricane-eye where [CAPF 2014]
+a) temperature is highest and pressure is the lowest.
+b) temperature is lowest and pressure is the lowest.
+c) sky is clear and temperature is the lowest.
+d) sky is under dense cloud cover and pressure is the lowest.
+#QuestionEnd
+#AnswerStart
+Answer: a) temperature is highest and pressure is the lowest.
+#AnswerEnd
+
+#QuestionStart
+Q166) The Saragasso Sea is a vast patch of Atlantic Ocean characterized by an abundance of floating brown seaweed called ‘Sargassum’. This is formed due to the deposit of marine plants and refuse carried by the
+
+1. North Atlantic current.
+2. Canary current.
+3. North Atlantic Equatorial current.
+  Select the correct answer using the codes given below: [CAPF 2014]
+  Codes
+  a) 1 only
+  b) 2 and 3 only
+  c) 1 and 3 only
+  d) 1,2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: d) 1,2 and 3
+  #AnswerEnd
+
+#QuestionStart
+Q167) Capillaries are most effective in- [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Clayey soil
+b) Silt soil
+c) Sandy soil
+d) Loamy soil
+#QuestionEnd
+#AnswerStart
+Answer: a) Clayey soil
+#AnswerEnd
+
+#QuestionStart
+Q168) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-1 | List-n |
+|---|---|
+| A. The hottest | 1. Chile |
+| B. The coldest | 2. Cherrapunji |
+| C. The wettest | 3. Antarctica |
+| D. The driest | 4. Sahara |
+Code: [48th to 52nd B.P.S.C. (Pre) 2008]
+a) A-1, B-2, C-3, D-4
+b) A-4, B-3, C-2, D-1
+c) A-2, B-3, C-1, D-4
+d) A-3, B-2, C-4, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q169) Dense-forests on the earth are mostly found- [41st B.P.S.C. (Pre) 1996]
+a) Nearby Equator
+b) Nearby tropic of Cancer
+c) Nearby tropic of Capricorn
+d) Nearby Poles
+#QuestionEnd
+#AnswerStart
+Answer: a) Nearby Equator
+#AnswerEnd
+
+#QuestionStart
+Q170) Clear sky nights are cooler than cloudy sky nights due to- [39th B.P.S.C. (Pre) 1994]
+a) condensation
+b) radiation
+c) induction
+d) conduction
+#QuestionEnd
+#AnswerStart
+Answer: b) radiation
+#AnswerEnd
+
+#QuestionStart
+Q171) Which of the following pair matchings is correct? [39th B.P.S.C. (Pre) 1994]
+a) Mediterranean Sea Zone - Summer rain,
+b) Equatorial Zone - Rain with thunder in the noon.
+c) Monsoon Zone - Heavy rain throughout the year.
+d) Desert zone - Winter rain.
+#QuestionEnd
+#AnswerStart
+Answer: b) Equatorial Zone - Rain with thunder in the noon.
+#AnswerEnd
+
+#QuestionStart
+Q172) The formal development of Terra Rossa takes place in that part of land which consists of- [39th B.P.S.C. (Pre) 1994]
+a) Limestone
+b) Cynite
+c) Granite
+d) Sandstone
+#QuestionEnd
+#AnswerStart
+Answer: a) Limestone
+#AnswerEnd

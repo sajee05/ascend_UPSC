@@ -1,0 +1,318 @@
+#QuestionStart
+Q1) With reference to Indian history, consider the following statements: [UPSC CSE Pre. 2022]
+1. The Dutch established their factories/ warehouses on the east coast on lands granted to them by Gajapati rulers.
+2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate.
+3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) In the first quarter of seventeenth century, in which of the following was/were the factory/factories of the English East India Company located? [UPSC CSE Pre. 2021]
+1. Broach
+2. Chicacole
+3. Trichinopoly
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the history of India, consider the following pairs: [UPSC CSE Pre. 2020]
+| 1. Aurang | In-charge of treasury of the State |
+|---|---|
+| 2. Banian | Indian agent of the East India Company |
+| 3. Mirasidar | Designated revenue payer to the State |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following statements correctly explain the impact of Industrial Revolution on India during the first half of the nineteenth century? [UPSC CSE Pre. 2020]
+a) Indian handicrafts were ruined.
+b) Machines were introduced in the Indian textile industry in large numbers.
+c) Railway lines were laid in many parts of the country
+d) Heavy duties were imposed on the imports of British manufactures
+#QuestionEnd
+#AnswerStart
+Answer: a) Indian handicrafts were ruined.
+#AnswerEnd
+
+#QuestionStart
+Q5) The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were: [UPSC CSE Pre. 2018]
+a) Raw cotton, oil-seeds and opium
+b) Sugar, salt, zinc and lead.
+c) Copper, silver, gold, spices and tea
+d) Cotton, silk, saltpetre and opium
+#QuestionEnd
+#AnswerStart
+Answer: d) Cotton, silk, saltpetre and opium
+#AnswerEnd
+
+#QuestionStart
+Q6) Economically, one of the results of the British rule in India in the 19th century was the [UPSC CSE Pre. 2018]
+a) increase in the export of Indian handicrafts
+b) growth in the number of Indian owned factories
+c) commercialization of Indian agriculture
+d) rapid increase in the urban population
+#QuestionEnd
+#AnswerStart
+Answer: c) commercialization of Indian agriculture
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following: [UPSC CSE Pre. 2012]
+1. Assessment of land revenue on the basis of nature of the soil and the quality of crops.
+2. Use of mobile cannons in warfare.
+3. Cultivation of tobacco and red chillies.
+Which of the above was/were introduced into India by the English?
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q8) During the time of which Mughal Emperor did the English East India Company establish its first factory in India? [UPSC CSE Pre. 2009]
+a) Akbar
+b) Jahangir
+c) Shahjahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: b) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q9) In the year 1613, where was the English East India Company given permission to set up a factory (trading post)? [UPSC CSE Pre. 2006]
+a) Bangalore
+b) Madras
+c) Masulipattam
+d) Surat
+#QuestionEnd
+#AnswerStart
+Answer: d) Surat
+#AnswerEnd
+
+#QuestionStart
+Q10) Which one of the following is the correct statement? [UPSC CSE Pre. 2005]
+a) The modern Kochi was a Dutch colony till India’s Independence.
+b) The Dutch defeated the Portuguese and built Fort Williams in the modern Kochi.
+c) The modern Kochi was first a Dutch Colony before the Portuguese took over from them.
+d) The modern Kochi never became a part of the British colony.
+#QuestionEnd
+#AnswerStart
+Answer: b) The Dutch defeated the Portuguese and built Fort Williams in the modern Kochi.
+#AnswerEnd
+
+#QuestionStart
+Q11) Which of the following shifted his capital from Murshidabad to Munger? [UPSC CSE Pre. 2005]
+a) Alivardi Khan
+b) Siraj ud-Daula
+c) Mir Jafar
+d) Mir Qasim
+#QuestionEnd
+#AnswerStart
+Answer: d) Mir Qasim
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following is the correct chronological order of the battles fought in India in the 18th Century? [UPSC CSE Pre. 2005]
+a) Battle of Wandiwash-Battle of Buxar-Battle of Ambur-Battle of Plassey
+b) Battle of Ambur-Battle of Plassey-Battle of Wandiwash-Battle of Buxar
+c) Battle of Wandiwash-Battle of Plassey- Battle of Ambur-Battle of Buxar
+d) Battle of Ambur-Battle of Buxar-Battle of Wandiwash-Battle of Plassey
+#QuestionEnd
+#AnswerStart
+Answer: b) Battle of Ambur-Battle of Plassey-Battle of Wandiwash-Battle of Buxar
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: [UPSC CSE Pre. 2004]
+1. In the Third Battle of Panipat, Ahmad Shah Abdali defeated Ibrahim Lodi
+2. Tipu Sultan was killed in the Third Anglo-Mysore War
+3. Mir Jafar entered in conspiracy with the English for the defeat of Nawab Siraj-ud-daulah in the Battle of Plassey
+Which of the statements given above is/are correct?
+a) 1,2 and 3
+b) 3 only
+c) 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Which one of the statements is not correct? [UPSC CSE Pre. 2003]
+a) Ali Mardan Khan introduced the system of revenue farming in Bengal.
+b) Maharaja Ranjit Singh set up modern foundries to manufacture cannons at Lahore.
+c) Sawai Jai Singh of Amber had Euclid’s ‘Elements of Geometry’ translated into Sanskrit.
+d) Sultan Tipu of Mysore gave money for the construction of the idol of Goddess Sharda in the Sringeri temple.
+#QuestionEnd
+#AnswerStart
+Answer: a) Ali Mardan Khan introduced the system of revenue farming in Bengal.
+#AnswerEnd
+
+#QuestionStart
+Q15) In India, among the following locations, the French established their earliest factory at: [UPSC CSE Pre. 2003]
+a) Surat
+b) Pulicat
+c) Cochin
+d) Qasim Bazar
+#QuestionEnd
+#AnswerStart
+Answer: a) Surat
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to the entry of European powers into India, which one of the following statements is NOT correct? [UPSC CSE Pre. 2003]
+a) The Portuguese captured Goa in 1499
+b) The English opened their first factory in South India at Masulipatnam
+c) In Eastern India, the English company opened its first factory in Orissa in 1633
+d) Under the leadership of Dupleix, the French occupied Madras in 1746
+#QuestionEnd
+#AnswerStart
+Answer: a) The Portuguese captured Goa in 1499
+#AnswerEnd
+
+#QuestionStart
+Q17) Which of the following pairs are correctly matched? [UPSC CSE Pre. 2004]
+| List-I (Period) | List-II (War) |
+|---|---|
+| A. AD 1767-69 | 1. First Anglo-Maratha War |
+| B. AD 1790-92 | 2. Third Mysore War |
+| C. AD 1824-26 | 3. First Anglo-Burmese War |
+| D. AD 1845-46 | 4. Second Anglo-Sikh War |
+Code:
+a) 2 and 4
+b) 3 and 4
+c) 1 and 2
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q18) With which one of the following mountain tribes did the British first come into contact with after the grant of Diwani in the year 1765? [UPSC CSE Pre. 2002]
+a) Garo
+b) Khasi
+c) Kuki
+d) Tipperah
+#QuestionEnd
+#AnswerStart
+Answer: b) Khasi
+#AnswerEnd
+
+#QuestionStart
+Q19) Who among the following Indian rulers established embassies in foreign countries on modern lines? [UPSC CSE Pre. 2001]
+a) Haider Ali
+b) Mir Qasim
+c) Shah Alam-II
+d) Tipu Sultan
+#QuestionEnd
+#AnswerStart
+Answer: d) Tipu Sultan
+#AnswerEnd
+
+#QuestionStart
+Q20) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 2000]
+| List-I (Voyagers) | List-II (Countries) |
+|---|---|
+| A. Vasco da Gama | 1. Spain |
+| B. Christopher Columbus | 2. Portugal |
+| C. Captain Cook | 3. Holland |
+| D. Tasman | 4. Great Britain |
+Code:
+a) 3A, 2B, 1C, 4D
+b) 2A, 1B, 4C, 3D
+c) 1A, 4B, 3C, 2D
+d) 4A, 3B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: b) 2A, 1B, 4C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q21) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 1999]
+| List-I (Year) | List-II (Event) |
+|---|---|
+| A. 1775 | 1. First Anglo-Burmese War |
+| B. 1780 | 2. First Anglo-Afghan War |
+| C. 1824 | 3. First Anglo-Maratha War |
+| D. 1838 | 4. Second Anglo-Mysore War |
+Code:
+a) 4A, 3B, 2C, 1D
+b) 4A, 3B, 1C, 2D
+c) 3A, 4B, 1C, 2D
+d) 3A, 4B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: c) 3A, 4B, 1C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q22) Who among the following was the first European to initiate the policy of taking part in the quarrels of Indian Princess with a view to acquire territories? [UPSC CSE Pre. 1996]
+a) Clive
+b) Dupleix
+c) Albuquerque
+d) Warren Hastings
+#QuestionEnd
+#AnswerStart
+Answer: b) Dupleix
+#AnswerEnd
+
+#QuestionStart
+Q23) Hooghly was used as a base for piracy in the Bay of Bengal by: [UPSC CSE Pre. 1995]
+a) Portuguese
+b) French
+c) Danish
+d) British
+#QuestionEnd
+#AnswerStart
+Answer: a) Portuguese
+#AnswerEnd
+
+#QuestionStart
+Q24) Which one of the following pairs is correctly matched? [UPSC CSE Pre. 1995]
+| List-I | List-II |
+|---|---|
+| (a) Battle of Buxar | Mir Jafar Vs. Clive |
+| (b) Battle of Wandiwash | French Vs. East India Company |
+| (c) Battle of Chilianwala | Dalhousie Vs. Marathas |
+| (d) Battle of Khurda | Nizam Vs. East India Company |
+#QuestionEnd
+#AnswerStart
+Answer: b) Battle of Wandiwash French Vs. East India Company
+#AnswerEnd
+
+#QuestionStart
+Q25) The first to start a joint stock company to trade with India were: [UPSC CSE Pre. 1994]
+a) Portuguese
+b) Dutch
+c) French
+d) Danish
+#QuestionEnd
+#AnswerStart
+Answer: b) Dutch
+#AnswerEnd

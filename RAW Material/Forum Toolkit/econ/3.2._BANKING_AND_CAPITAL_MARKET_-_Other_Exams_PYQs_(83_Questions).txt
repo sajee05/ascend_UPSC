@@ -1,0 +1,982 @@
+#QuestionStart
+Q102) Which of the following Institution/Office bring out the Wholesale Price Index (WPI) data in India? [U.P.P.C.S. (Pre) 2021]
+a) The Reserve Bank of India
+b) The Ministry of Commerce and Industry
+c) The Ministry of Finance
+d) The Ministry of Consumer Affairs Food and Public Distribution.
+#QuestionEnd
+#AnswerStart
+Answer: b) The Ministry of Commerce and Industry
+#AnswerEnd
+
+#QuestionStart
+Q103) Given below are two statements one is labelled as Assertion (A) and other as Reason (R) :
+Assertion (A): The government faces a tough time tackling the bottleneck inflation.
+Reason (R) : The situation is due to deficiencies existing in the economy such as supply bottleneck and. inefficient distribution. Select the correct answer from the codes given below. [U.P.P.C.S. (Pre) 2021]
+Codes :
+a) Both (A) and (R) are true and (R) is correct explanation of (A)
+b) Both (A) and (R) are true, but (R) is not correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q104) Consider the following events and arrange them in chronological order :
+1. Establishment of NABARD
+2. Self Help Group Bank Linkage Programme
+3. Kisan Credit Card Plan
+4. Establishment of Regional Rural Bank
+Select the correct answer from the codes given below : [U.P.P.C.S. (Pre) 2020]
+Codes :
+a) 4, 1, 2, 3
+b) 4, 2, 3, 1
+c) 1, 2, 3, 4
+d) 4, 3,2, 1
+#QuestionEnd
+#AnswerStart
+Answer: a) 4, 1, 2, 3
+#AnswerEnd
+
+#QuestionStart
+Q105) Which of the following is/are definite implication(s) of a fall in inflation rate :
+I. Prices have fallen.
+II. Prices are increasing more slowly than before.
+III. Food supply has increased.
+IV. There is industrial stagnation.
+Select the correct answer from the codes given below : [U.P.P.C.S. (Mains) 2017]
+Codes :
+a) I and III
+b) I only
+c) II only
+d) I, III and IV
+#QuestionEnd
+#AnswerStart
+Answer: c) II only
+#AnswerEnd
+
+#QuestionStart
+Q106) Which of the following was not the stated objective of demonetization in India? [U.P.P.C.S. (Mains) 2017]
+a) Reduction in the use of cash in the economy.
+b) Increasing in the use of digital modes of transaction.
+c) Expanding the tax base.
+d) Increasing the growth rate of G.D.P.
+#QuestionEnd
+#AnswerStart
+Answer: d) Increasing the growth rate of G.D.P.
+#AnswerEnd
+
+#QuestionStart
+Q107) Core inflation is defined as : [U.P.P.C.S. (Mains) 2017]
+a) Headline inflation excluding only fuel inflation.
+b) Food inflation and fuel inflation.
+c) Headline inflation excluding only food inflation.
+d) Headline inflation excluding both food inflation and fuel inflation.
+#QuestionEnd
+#AnswerStart
+Answer: d) Headline inflation excluding both food inflation and fuel inflation.
+#AnswerEnd
+
+#QuestionStart
+Q108) Open market operations are included in : [U.P.P.C.S. (Mains) 2017]
+a) Qualitative techniques of credit control
+b) Quantitati ve techniques of credit control
+c) Fiscal policy control
+d) Labour policy control
+#QuestionEnd
+#AnswerStart
+Answer: b) Quantitati ve techniques of credit control
+#AnswerEnd
+
+#QuestionStart
+Q109) With fixed demand and increase in supply» the price of the commodity is likely to: [U.P. RC.S (Mains) 2016]
+a) remain constant
+b) increase
+c) decrease
+d) no definite pattern can be predicted
+#QuestionEnd
+#AnswerStart
+Answer: c) decrease
+#AnswerEnd
+
+#QuestionStart
+Q110) Which of the following does not implement the Self Help Groups (SHGs) - Bank Linkage Programme ? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) NABARD
+b) Commercial Banks
+c) RRBs
+d) Cooperative Banks
+#QuestionEnd
+#AnswerStart
+Answer: a) NABARD
+#AnswerEnd
+
+#QuestionStart
+Q111) According to new RBI Governor, which among the following factors determines the exchange value of money?
+1. High inflation rate
+2. High fiscal deficit
+3. High crude oil prices
+Choose the correct answer from the code below: [U.P.P.C.S. (Mains) 2013]
+Code :
+a) All the three above factors
+b) Only 1 and 2
+c) Only 3
+d) Only 1
+#QuestionEnd
+#AnswerStart
+Answer: a) All the three above factors
+#AnswerEnd
+
+#QuestionStart
+Q112) Which among the following agency regulate the mutual funds in India? [U.P.P.C.S. (Mains) 2013]
+a) SEBI
+b) National Stock Exchange
+c) Reserve Bank of India
+d) Indian Bank Association
+#QuestionEnd
+#AnswerStart
+Answer: a) SEBI
+#AnswerEnd
+
+#QuestionStart
+Q113) Who maintains the foreign exchange reserves in India? [U.P.P.C.S. (Pre) 2012]
+a) Reserve Bank of India
+b) State Bank of India
+c) Ministry of Finance, Government of India
+d) Export-Import Bank of India
+#QuestionEnd
+#AnswerStart
+Answer: a) Reserve Bank of India
+#AnswerEnd
+
+#QuestionStart
+Q114) Which one of the following is not an objective of Monetary Policy? [U.P.P.C.S. (Mains) 2011]
+a) Price Stability
+b) Economic Stability
+c) Equitable Distribution of Income and Assets
+d) Foreign Exchange Rate Stability
+#QuestionEnd
+#AnswerStart
+Answer: c) Equitable Distribution of Income and Assets
+#AnswerEnd
+
+#QuestionStart
+Q115) Which one of the following is different from the others from the point of view of ownership? [U.P.P.C.S (Pre) 2011]
+a) LIC Policy
+b) Bank Fixed Deposit
+c) Kisan Vikas Patra
+d) Debenture of a Company
+#QuestionEnd
+#AnswerStart
+Answer: d) Debenture of a Company
+#AnswerEnd
+
+#QuestionStart
+Q116) The buyer’s market is known where : [U.P.P.C.S. (Mains) 2010]
+a) supply is more than the demand,
+b) demand is more than the supply
+c) demand is equal to the supply
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) supply is more than the demand,
+#AnswerEnd
+
+#QuestionStart
+Q117) Insider trading is related to : [U.P.P.C.S. (Mains) 2009]
+a) Share market
+b) Horse racing
+c) Taxation
+d) International trade
+#QuestionEnd
+#AnswerStart
+Answer: a) Share market
+#AnswerEnd
+
+#QuestionStart
+Q118) Non-performing assets in commercial banks mean: [U.P.P.C.S. (Pre) 2009]
+a) Bank deposits which are not invested
+b) Capital assets not in use
+c) Loans in which interest or principal amount is not recovered
+d) Low-interest rate loans
+#QuestionEnd
+#AnswerStart
+Answer: c) Loans in which interest or principal amount is not recovered
+#AnswerEnd
+
+#QuestionStart
+Q119) Money multiplier in India is defined as : [UPPCS. (Mains) 2009]
+a) Broad Money / Base Money
+b) Broad Money / Reserve Money
+c) Reserve Money / Base Money
+d) Base Money / Reserve Money
+#QuestionEnd
+#AnswerStart
+Answer: b) Broad Money / Reserve Money
+#AnswerEnd
+
+#QuestionStart
+Q120) ‘Principle of Indemnity’ does not apply to : [U.P.P.C.S. (Mains) 2009]
+a) Life Insurance
+b) Marine Insurance
+c) Fire Insurance
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Life Insurance
+#AnswerEnd
+
+#QuestionStart
+Q121) Treasury bills are sold in India by : [U.P.P.C.S. (Mains) 2009]
+a) Reserve Bank of India
+b) State Governments
+c) Commercial Banks
+d) SEBI
+#QuestionEnd
+#AnswerStart
+Answer: a) Reserve Bank of India
+#AnswerEnd
+
+#QuestionStart
+Q122) The basis of determining dearness allowances to employees of India is : [U.P.P.C.S. (Mains) 2008]
+a) National Income
+b) Consumer Price Index
+c) Standard of Living
+d) Per Capita Income
+#QuestionEnd
+#AnswerStart
+Answer: b) Consumer Price Index
+#AnswerEnd
+
+#QuestionStart
+Q123) Blue Chip means: [U.P.P.C.S. (Mains) 2008]
+a) Shares guaranteed by the governments,
+b) Shares listed in the Stock Exchange.
+c) Shares giving consistent high rate of return.
+d) None of these.
+#QuestionEnd
+#AnswerStart
+Answer: c) Shares giving consistent high rate of return.
+#AnswerEnd
+
+#QuestionStart
+Q124) Which of the following is the ' most important component of the liabilities of commercial banks in India ? [U.P.P.C.S. (Mains) 2008]
+a) Demand deposits
+b) Time deposits
+c) Inter-bank liabilities
+d) Other borrowings
+#QuestionEnd
+#AnswerStart
+Answer: b) Time deposits
+#AnswerEnd
+
+#QuestionStart
+Q125) In calculation of Index of wholesale prices which one of the following sectors is assigned maximum weightage? [U.P.P.C.S. (Mains) 2008]
+a) Food articles
+b) Non-food articles
+c) Fuel, power, light and Lubricants
+d) Manufactured products
+#QuestionEnd
+#AnswerStart
+Answer: d) Manufactured products
+#AnswerEnd
+
+#QuestionStart
+Q126) ‘Financial Inclusion’ can be encouraged : [U.P.P.C.S. (Spl.) (Mains) 2008]
+a) by issuing a ‘specific letter of credit’ to the deserving beneficiaries.
+b) by providing banking services to people of lower income group with ‘zero’ or minimum balance’.
+c) by providing financial services to low income group.
+d) by all of the above.
+#QuestionEnd
+#AnswerStart
+Answer: d) by all of the above.
+#AnswerEnd
+
+#QuestionStart
+Q127) Which one of the following is not a function of Reserve Bank of India? [U.P.P.C.S. (Mains) 2008]
+a) Credit control
+b) As apex body of Scheduled Commercial Banks
+c) Formulation of monetary policy
+d) Credit creation
+#QuestionEnd
+#AnswerStart
+Answer: d) Credit creation
+#AnswerEnd
+
+#QuestionStart
+Q128) The rate at which banks lend to Reserve Bank of India is known as : [U.P.P.C.S. (Spl.) (Mains) 2008]
+a) Bank Rate
+b) Repo Rate
+c) Reverse Repo Rate
+d) Interest Rate
+#QuestionEnd
+#AnswerStart
+Answer: c) Reverse Repo Rate
+#AnswerEnd
+
+#QuestionStart
+Q129) The word ‘Actuaries’ is related to; [U.P.P.C.S. (Pre) 2008]
+a) Banking
+b) Insurance
+c) Share market
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Insurance
+#AnswerEnd
+
+#QuestionStart
+Q130) Which among the following is an asset for a Commercial Bank? [U.P.P.C.S. (Mains) 2007]
+a) Credit to farmers
+b) Deposit of public
+c) Borrowings from R.B.I.
+d) Demand deposits of Industries
+#QuestionEnd
+#AnswerStart
+Answer: a) Credit to farmers
+#AnswerEnd
+
+#QuestionStart
+Q131) Which of the following statements is not correct regarding the Reserve Bank of India? [U.P.P.C.S. (Pre) 2007]
+a) It issues all types of currency notes.
+b) It functions as a branch bank of the Government of India.
+c) It is banker’s bank.
+d) It exchanges foreign currency.
+#QuestionEnd
+#AnswerStart
+Answer: a) It issues all types of currency notes.
+#AnswerEnd
+
+#QuestionStart
+Q132) The term ‘plastic money’ applies to : [U.P.P.C.S. (Mains) 2006]
+a) Bank draft made of plastic coated paper
+b) Currency notes printed on plastic coated paper
+c) Currency notes impregnated with plastic thread
+d) Credit cards mainly issued by the banks
+#QuestionEnd
+#AnswerStart
+Answer: d) Credit cards mainly issued by the banks
+#AnswerEnd
+
+#QuestionStart
+Q133) Which one of the following is not the function of Regional Rural Banks? [U.P.P.C.S. (Mains) 2005]
+a) To provide credit to small and marginal farmers.
+b) To provide credit to common people in rural areas.
+c) To supplement Scheduled Commercial Banks
+d) To take over the functions of Agricultural Refinance Corporation of India.
+#QuestionEnd
+#AnswerStart
+Answer: d) To take over the functions of Agricultural Refinance Corporation of India.
+#AnswerEnd
+
+#QuestionStart
+Q134) In India ‘Currency Notes issue system’ is based on : [U.P.P.C.S. (Mains) 2004]
+a) Proportional reserve system
+b) Minimum reserve system
+c) Fixed exchange rate system
+d) Full convertibility system
+#QuestionEnd
+#AnswerStart
+Answer: b) Minimum reserve system
+#AnswerEnd
+
+#QuestionStart
+Q135) Which among the following is not a speculator in the stock exchange? [U.P.P.C.S. (Mains) 2004]
+a) Broker
+b) Bull
+c) Bear
+d) Stag
+#QuestionEnd
+#AnswerStart
+Answer: a) Broker
+#AnswerEnd
+
+#QuestionStart
+Q136) Central Cooperative Banks work at; [U.P.P.C.S. (Mains) 2004]
+a) District level
+b) State level
+c) National level
+d) Block level
+#QuestionEnd
+#AnswerStart
+Answer: a) District level
+#AnswerEnd
+
+#QuestionStart
+Q137) Consider the following statements :
+1. Gorewala Committees recommendation led to the establishment of State Bank of India.
+2. Six Commercial Banks were nationalized on Aprill5, 1980.
+Which one of the statements given above is/ are correct? [U.P.P.C.S. (Spl.) (Mains) 2004]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q138) Assertion (A) : All businessmen make profit due to price-hike.
+Reason (R) : The customer has to curtail his needs due to price-hike.
+In the context of the above statements, which of the following is correct : [U.P.P.C.S. (Pre) 2003]
+a) Both A and R are true and R is the correct explanation of A.
+b) Both A and R are true, but R is not the correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) A is false, but R is true.
+#AnswerEnd
+
+#QuestionStart
+Q139) Provident Fund in India is : [U.P.P.C.S. (Pre) 1998]
+a) Contractual savings
+b) Residual Savings
+c) Voluntary Savings
+d) Employer’s savings
+#QuestionEnd
+#AnswerStart
+Answer: a) Contractual savings
+#AnswerEnd
+
+#QuestionStart
+Q140) A company declares dividend on: [U.P.P.C.S. (Pre) 1996]
+a) Issued Capital
+b) Authorized Capital
+c) Subscribed Capital
+d) Total Employed Capital
+#QuestionEnd
+#AnswerStart
+Answer: c) Subscribed Capital
+#AnswerEnd
+
+#QuestionStart
+Q141) When the total product remains constant, the marginal product will be : [U.P. Lower Sub. (Pre) 2013]
+a) Zero
+b) Negative
+c) Positive
+d) Constant
+#QuestionEnd
+#AnswerStart
+Answer: a) Zero
+#AnswerEnd
+
+#QuestionStart
+Q142) District Credit Planning is done : [U.P. Lower Sub. (Pre) 2002, 2003]
+a) Under the Lead bank
+b) Under the NABARD
+c) Under the District Magistrate
+d) Under the SBI
+#QuestionEnd
+#AnswerStart
+Answer: a) Under the Lead bank
+#AnswerEnd
+
+#QuestionStart
+Q143) Bhandari Committee is related to: [67th B.P.S.C. (Pre) (Re. Exam) 2022]
+a) Direct taxation
+b) Indirect taxation
+c) Agriculture credit
+d) Regional Rural Bank’s restructuring
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Regional Rural Bank’s restructuring
+#AnswerEnd
+
+#QuestionStart
+Q144) Which of the following is a bond through which Indian entities can raise money from foreign markets in rupees, and not in foreign currency? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Corporate Bonds
+b) Masala Bonds
+c) Municipal Bonds
+d) Zero-coupon Bonds
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Masala Bonds
+#AnswerEnd
+
+#QuestionStart
+Q145) Financial sector reforms in India consist of: [56th to 59th B. P. S.C. (Pre) 2015]
+a) Lowering down of CRR and SLR
+b) Entry of private firms in insurance sector
+c) Deregulation of interest rates
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q146) Consider the following statements : [56th to 59th B.P.S.C. (Pre) 2015]
+1. Bank Rate is the rate of interest which RBI charges its clients on their shortterm borrowing.
+2. Repo Rate is the rate of interest which RBI charges its clients on their long-term borrowing.
+Which of the statements given above is / are incorrect?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q147) Consumers fix the prices on their own, which the business accepts or decline, comes under model. [M.P.P.C.S. (Pre) 2021]
+a) B2B
+b) B2C
+c) C2B
+d) C2C
+#QuestionEnd
+#AnswerStart
+Answer: c) C2B
+#AnswerEnd
+
+#QuestionStart
+Q148) The Committee on Financial Sector Assessment is Co-chaired by whom? [M.P. P.C.S. (Pre) 2020]
+a) Governor of Reserve Bank of India and Finance Minister of India
+b) Deputy Governor of Reserve Bank of India and Finance Secretary, Government of India
+c) Governor and Deputy Governor of Reserve Bank of India
+d) Prime Minister of India and Governor of Reserve Bank of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Deputy Governor of Reserve Bank of India and Finance Secretary, Government of India
+#AnswerEnd
+
+#QuestionStart
+Q149) Reserve Bank of India issues currency notes against which of the following? [M.P.P.C.S. (Pre) 2012]
+a) Gold
+b) Foreign security
+c) Govt, of India security
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q150) Meaning of company limited by shares is : [M.P.P.C.S. (Pre) 1991]
+a) Limited Investment
+b) Limited holders
+c) Restricted liability of holders
+d) AH the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Restricted liability of holders
+#AnswerEnd
+
+#QuestionStart
+Q151) Assertion (A) : Cost push inflation is caused by shift in aggregate supply curve.
+Reason (R) : Shift in aggregate supply curve takes place because of increase in wages. [R.A.S./R.T.S. (Pre) 2018]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q152) The most volatile part of the Organized Money Market in India is: [R.A.S./R.T.S. (Pre) 2018]
+a) Government Security Market
+b) Commercial Bill Market
+c) Call Money Market
+d) Certificate of Deposit Market
+#QuestionEnd
+#AnswerStart
+Answer: c) Call Money Market
+#AnswerEnd
+
+#QuestionStart
+Q153) The volatility in the Indian share market is due to:
+A. Inflow and outflow of foreign funds
+B. Fluctuations in foreign capital markets
+C. Changes in the monetary policy
+Which of the above-mentioned causes are correct? [R.A.S./R.T.S.(Pre) 2013]
+a) A and B
+b) A and C
+c) A, B and C
+d) B and C
+#QuestionEnd
+#AnswerStart
+Answer: c) A, B and C
+#AnswerEnd
+
+#QuestionStart
+Q154) Tick mark which is incorrect about inflation: [R.A.S./R.T.S.(Pre) 2008]
+a) Inflation indicates the rise in the price of a basket of commodities on a point-to-point basis.
+b) The inflation rate in India is calculated on the basis of the wholesale price index.
+c) For some commodities retail price are also considered for measurement of inflation.
+d) Inflation rate going down does not mean prices are declining.
+#QuestionEnd
+#AnswerStart
+Answer: b) The inflation rate in India is calculated on the basis of the wholesale price index.
+#AnswerEnd
+
+#QuestionStart
+Q155) Land Development Bank provides Ioan to farmers for: [R.A.S./R.T.S.(Pre) 1999]
+a) Short term
+b) Medium term
+c) Long term
+d) Only for land improvement
+#QuestionEnd
+#AnswerStart
+Answer: c) Long term
+#AnswerEnd
+
+#QuestionStart
+Q156) Currency expansion can be best described -[R.A.S./R.T.S. (Pre) 1996]
+a) Higher prices
+b) Increase in price coordinates
+c) Increase in purchasing power of currency
+d) Increase in prices of specific commodities
+#QuestionEnd
+#AnswerStart
+Answer: a) Higher prices
+#AnswerEnd
+
+#QuestionStart
+Q157) Structure of Co-operative credit societies is: [R.A.S./R.T.S. (Pre) 1994]
+a) Single tiered
+b) Double tiered
+c) Three tiered
+d) Four tiered
+#QuestionEnd
+#AnswerStart
+Answer: c) Three tiered
+#AnswerEnd
+
+#QuestionStart
+Q158) Sweat Equity shares are issued to which of the following? [Uttarakhand P.C.S. (Pre) 2021]
+a) Ordinary Shareholders
+b) Preference Shareholders
+c) Both (a) and (b)
+d) Employees of the company
+#QuestionEnd
+#AnswerStart
+Answer: d) Employees of the company
+#AnswerEnd
+
+#QuestionStart
+Q159) The Phillips Curve represents relationship between : [Uttarakhand P.C.S. (Pre) 2012]
+a) Deflation and Unemployment
+b) Inflation and Unemployment
+c) Inflation and Disguised Unemployment
+d) Deflation and Cyclical Unemployment
+#QuestionEnd
+#AnswerStart
+Answer: b) Inflation and Unemployment
+#AnswerEnd
+
+#QuestionStart
+Q160) Arrange the following in chronological order : [Chhattisgarh P.C.S. (Pre) 2017]
+1. Nationalization of 14 major banks
+2. Nationalization of SBI
+3. Nationalization of RBI
+4. Nationalization of LIC
+Codes :
+a) 3, 2, 4, 1
+b) 2, 3, 4, 1
+c) 3, 4, 2, 1
+d) 4, 3, 2, 1
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) 3, 2, 4, 1
+#AnswerEnd
+
+#QuestionStart
+Q161) Due to inflation: [Chhattisgarh P.C.S. (Pre) 2013]
+a) Prices of goods increase
+b) The value of money falls
+c) The exchange rate improves
+d) Above (a) and (b)
+e) Above (a), (b) and (c)
+#QuestionEnd
+#AnswerStart
+Answer: d) Above (a) and (b)
+#AnswerEnd
+
+#QuestionStart
+Q162) In India, headline inflation is based on : [Jharkhand P.C.S. (Pre) 2021]
+a) Consumer Price Index-Combined (CPI-C)
+b) Consumer Food Price Index (CFPI)
+c) Consumer Price Index - Rural Labourers (CPI-RL)
+d) Wholesale Price Index (WPI)
+#QuestionEnd
+#AnswerStart
+Answer: a) Consumer Price Index-Combined (CPI-C)
+#AnswerEnd
+
+#QuestionStart
+Q163) Money received by the Government under the ‘State Provident Funds’ is credited to the : [Jharkhand P.C.S. (Pre) 2013]
+a) Contingency Fund
+b) Consolidated Fund
+c) General Development Fund
+d) Public Accounts Fund
+#QuestionEnd
+#AnswerStart
+Answer: d) Public Accounts Fund
+#AnswerEnd
+
+#QuestionStart
+Q164) Which one of the following situations can lead to inflation? [CDS 2023 (I)]
+a) Rapid growth of aggregate demand outweighing supply
+b) Sluggish growth of aggregate demand
+c) Reduction in the money supply
+d) Higher levels of unemployment
+#QuestionEnd
+#AnswerStart
+Answer: a) Rapid growth of aggregate demand outweighing supply
+#AnswerEnd
+
+#QuestionStart
+Q165) Which of the following policies help to raise interest rates unambiguously and thereby lead to appreciation of currency? [CDS 2023 (I)]
+a) Expansionary fiscal and monetary policy
+b) Contractionary fiscal and monetary policy
+c) Contractionary fiscal policy and expansionary monetary policy
+d) Contractionary monetary policy and expansionary fiscal policy
+#QuestionEnd
+#AnswerStart
+Answer: d) Contractionary monetary policy and expansionary fiscal policy
+#AnswerEnd
+
+#QuestionStart
+Q166) Which one of the following is a measure that can be used by the Government for combatting inflation? [CDS 2023 (I)]
+a) Increasing the non-planned expenditure on defence, police, etc.
+b) Providing more subsidies on exports
+c) Increasing the rate of interest on savings and fixed deposits
+d) Reduction in the cash reserve ratio (CRR)
+#QuestionEnd
+#AnswerStart
+Answer: c) Increasing the rate of interest on savings and fixed deposits
+#AnswerEnd
+
+#QuestionStart
+Q167) Which one of the following statements about Non-Banking Financial Companies (NBFCs) is not correct? [CDS 2022 (II)]
+a) NBFCs cannot accept demand deposits,
+b) NBFCs cannot give loans.
+c) NBFCs cannot issue cheques drawn on themselves.
+d) NBFCs cannot offer deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation.
+#QuestionEnd
+#AnswerStart
+Answer: b) NBFCs cannot give loans.
+#AnswerEnd
+
+#QuestionStart
+Q168) Consider the following statements regarding e-RUPI prepaid digital vouchers:
+1. The maximum amount of e-RUPI is rupees one lakh.
+2. Beneficiaries can receive e-RUPI without having a bank account.
+3. To receive e-RUPI on mobile phones, beneficiaries need a smart phone with an Internet connection.
+Which of the statements given above is/are correct? [CDS 2022 (II)]
+a) 1 and 2
+b) 3 only
+c) 1 and 3
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q169) Which one of the following forms of money supply is considered as the most widely used in the Indian monetary system? [CDS 2022 (II)]
+a) Ml
+b) M2
+c) M3
+d) M4
+#QuestionEnd
+#AnswerStart
+Answer: c) M3
+#AnswerEnd
+
+#QuestionStart
+Q170) Which one of the following is considered as an agency function of commercial banks in India? [CDS 2022 (II)]
+a) Acceptance of deposits
+b) Investment of surplus funds
+c) Acceptance of income tax payments
+d) Providing overdraft facilities
+#QuestionEnd
+#AnswerStart
+Answer: a) Acceptance of deposits
+#AnswerEnd
+
+#QuestionStart
+Q171) The percentage by which the money the borrower pays back exceeds the money that was borrowed is called as [CDS 2021 (I)]
+a) Bank rate
+b) Nominal interest rate
+c) Real interest rate
+d) Terms of credit
+#QuestionEnd
+#AnswerStart
+Answer: b) Nominal interest rate
+#AnswerEnd
+
+#QuestionStart
+Q172) The Cash Reserve Ratio refers to [CDS 2020 (I)]
+a) the share of Net Demand and Time Liabilities that banks have to hold as liquid assets
+b) the share of Net Demand and Time Liabilities that banks have to hold as balances with the RBI
+c) the share of Net Demand and Time Liabilities that banks have to hold as part of their cash reserves
+d) the ratio of cash holding to reserves of banks
+#QuestionEnd
+#AnswerStart
+Answer: b) the share of Net Demand and Time Liabilities that banks have to hold as balances with the RBI
+#AnswerEnd
+
+#QuestionStart
+Q173) Consider the following statements about a joint-stock company.
+1. It has a legal existence.
+2. There is limited liability of shareholders.
+3. It has a democratic management.
+4. It has collective ownership.
+Which of the statements given above are correct? [CDS 2019 (I)]
+a) 1 and 2
+b) 1, 2 and 3
+c) 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q174) Which one of the following statements about Exchange-Traded Fund (ETF) is not correct? [CDS 2018 (I)]
+a) it is a marketable security
+b) it experiences price changes throughout the day
+c) It typically has lower daily liquidity and higher fees than mutual fund share
+d) An ETF does not have its Net Assest Value calculated once at the end of every day
+#QuestionEnd
+#AnswerStart
+Answer: c) It typically has lower daily liquidity and higher fees than mutual fund share
+#AnswerEnd
+
+#QuestionStart
+Q175) The monetary policy in India uses which of the following tools?
+1. Bankrate
+2. Open market operations
+3. Public debt
+4. Public revenue
+Select the correct answer using the codes given below: [CDS 2017 (II)]
+a) 1 and 2
+b) 1 and 4
+c) 2 and 3
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q176) Which one of the following indices is now used by the Reserve Bank of India (RBI) to measure the rate of inflation in India? [CDS 2017 (I)]
+a) NASDAQ Index
+b) BSE Index
+c) Consumer Price Index
+d) Wholesale Price Index
+#QuestionEnd
+#AnswerStart
+Answer: c) Consumer Price Index
+#AnswerEnd
+
+#QuestionStart
+Q177) Which of the following with regard to the term ‘bank run’ is correct? [CDS 2016 (II)]
+a) The net balance of money a bank has in its chest at the end of the day’s business
+b) The ratio of bank’s total deposits and total liabilities
+c) A panic situation when the deposit holders start withdrawing cash from the banks
+d) The period in which a bank creates highest credit in the market
+#QuestionEnd
+#AnswerStart
+Answer: c) A panic situation when the deposit holders start withdrawing cash from the banks
+#AnswerEnd
+
+#QuestionStart
+Q178) Which of the following will be the outcome if an economy is under inflationary pressure?
+1. Domestic currency heads depreciation.
+2. Exports become less competitive imports become costlier.
+3. Cost of borrowing decreases
+4. Bondholders benefit.
+Which of the statement(s) given above is/are correct? [CDS 2016 (II)]
+a) 1 and 2
+b) 2 and
+c) 1 and 3
+d) 1,3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q179) Which of the following is/are credit rating agency/agencies in India? [CDS 2016 (II)]
+a) CRISIL
+b) CARE
+c) ICRA
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q180) Which of the following statements is/are true with respect to Phillips Curve?
+1. It shows the trade-off between unemployment and inflation
+2. The downward sloping curve of Phillips Curve is generally held to be valid only in the short run
+3. In the long run, Phillips Curve is usually thought to be horizontal at the Non-Accelerating Inflation Rate of Unemployment (NAIRU).
+Select the correct answer using the codes given below [CDS 2016 (I)]
+a) 2 and 3
+b) Only 1
+c) 1 and 2
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q181) Which one of the following terms is used in Economics to denote a technique for avoiding a risk by making a counteracting transaction? [CDS 2016 (I)]
+a) Dumping
+b) Hedging
+c) Discounting
+d) Deflating
+#QuestionEnd
+#AnswerStart
+Answer: b) Hedging
+#AnswerEnd
+
+#QuestionStart
+Q182) In India, contribution of food inflation to overall inflation is around l/3rd to 2/5th. Within food inflation, contribution of food articles is higher because price rise in food articles is [CDS 2014 (I)]
+a) higher and their weight is also higher compared to food products
+b) higher but their weight is lower compared to food products
+c) lower but their weight is higher compared to food products
+d) lower and their weight is also lower compared to food products
+#QuestionEnd
+#AnswerStart
+Answer: a) higher and their weight is also higher compared to food products
+#AnswerEnd
+
+#QuestionStart
+Q183) The amount by which the equilibrium level of real GDP exceeds the full employment level of GDP is called? [CAPF 2021]
+a) recessionary gap
+b) inflationary gap
+c) income multiplier
+d) automatic stabiliser
+#QuestionEnd
+#AnswerStart
+Answer: b) inflationary gap
+#AnswerEnd
+
+#QuestionStart
+Q184) Which of the following goods are included to estimate food inflation in India?
+1. Wheat
+2. Paddy
+3. Tobacco
+4. Sugar
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1,3 and 4
+d) 1,2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 4
+#AnswerEnd

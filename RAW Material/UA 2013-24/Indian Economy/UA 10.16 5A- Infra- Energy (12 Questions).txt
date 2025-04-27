@@ -1,0 +1,176 @@
+#QuestionStart
+Q1) With reference to India's projects on connectivity, consider the following statements : (2023)
+1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.
+2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.
+3. Bangladesh-China -India -Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements : (2023)
+Statement-I : India, despite having uranium deposits, depends on coal for most of its electricity production.
+Statement-II : Uranium, enriched to the extent of at least 60%, is required for the production of electricity.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-1
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q3) In India, what is the role of the Coal Controller's Organization (CCO)? (2022)
+1. CCO is the major source of Coal Statistics in Government of India.
+2. It monitors progress of development of Captive Coal/Lignite blocks.
+3. It hears any objection to the Government's notification relating to acquisition of coal - bearing areas.
+4. It ensures that coal mining companies deliver the coal to end users in the prescribed time.
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 3 and 4 only
+c) 1 and 2 only
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following minerals: [2020]
+1. Bentonite
+2. Chromite
+3. Kyanite
+4. Sillimanite
+In India, which of the above is/are officially designated as major minerals?
+a) 1 and 2 only
+b) 4 only
+c) 1 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: (2019)
+1. Coal sector was nationalized by the Government of India under Indira Gandhi.
+2. Now, coal blocks are allocated on lottery basis.
+3. Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal production.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the management of minor minerals in India, consider the following statements : [2019]
+1. Sand is a 'minor mineral' according to the prevailing law in the country.
+2. State Governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Centre Government.
+3. State Governments have the power to frame rules to prevent illegal mining of minor minerals.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements : (2019)
+1. Petroleum and Natural Gas Regulatory Board (PNGRB) is the first regulatory body set up by the Government of India.
+2. One of the tasks of PNGRB is to ensure competitive markets for gas.
+3. Appeals against the decisions of PNGRB go before the Appellate Tribunals of Electricity.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to solar power production in India, consider the following statements: (2018)
+1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units.
+2. The solar power tariffs are determined by the Solar Energy Corporation of India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q9) Which one of the following is the purpose of ‘UDAY’, a scheme of the Government? (2016)
+a) Providing technical and financial assistance to start-up entrepreneurs in the field of renewable sources of energy
+b) Providing electricity to every household in the country by 2018
+c) Replacing the coal-based power plants with natural gas, nuclear, solar, wind and tidal power plants over a period of time
+d) Providing for financial turnaround and revival of power distribution companies
+#QuestionEnd
+#AnswerStart
+Answer: d) Providing for financial turnaround and revival of power distribution companies
+#AnswerEnd
+
+#QuestionStart
+Q10) What is/are the purpose/purposes of District Mineral Foundations in India? (2016)
+1. Promoting mineral exploration activities in mineral-rich districts
+2. Protecting the interests of the persons affected by mining operations
+3. Authorising State Governments to issue licences for mineral exploration
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Despite having large reserves of coal, why does India import millions of tonnes of coal? (2012)
+1. It is the policy of India to save its own coal reserves for future and import it from other countries for the present use.
+2. most of the power plants in India are coal based and they are not able to get sufficient supplies of coal from within the country?
+3. Steel companies need large quantity of coking coal which has to be imported
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) If the National Water Mission is properly and completely implemented, how will it impact the country? (2012)
+1. Part of the water needs of urban areas will be met through recycling of waste water.
+2. The water requirements of coastal cities with inadequate alternative sources of water will be met by adopting appropriate technologies that allow for the use of ocean water.
+3. All the rivers of Himalayan origin will be linked to the rivers of peninsular India
+4. The expenses incurred by farmers for digging bore wells and for installing motors and pump sets to draw groundwater will be completely reimbursed by the Government.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd

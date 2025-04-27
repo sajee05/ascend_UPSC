@@ -1,0 +1,685 @@
+#QuestionStart
+Q1) Which of the following countries has been suffering from decades of civil strife and food shortages and was in news in the recent past for its very severe famine? (2023)
+a) Angola
+b) Costa Rica
+c) Ecuador
+d) Somalia
+#QuestionEnd
+#AnswerStart
+Answer: d) Somalia
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2023)
+Statement-I: Switzerland is one of the leading exporters of gold in terms of value.
+Statement-II: Switzerland has the second largest gold reserves in the world.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2023)
+Statement-I: Recently, the United States of America (USA) and the European Union (EU) have launched the ‘Trade and Technology Council’.
+Statement-II: The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: (2023)
+The ‘Stability and Growth Pact’ of the European Union is a treaty that
+1. limits the levels of the budgetary deficit of the countries of the European Union
+2. makes the countries of the European Union to share their infrastructure facilities
+3. enables the countries of the European Union to share their technologies
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None`
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: (2023)
+1. Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the ‘Global Compact for Safe, Orderly and Regular Migration (GCM)’.
+2. The objectives and commitments stated in the GCM are binding on the UN member countries.
+3. The GCM addresses internal migration or internally displaced people also in its objectives and commitments.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: (2023)
+Statement-I: Israel has established diplomatic relations with some Arab States.
+Statement-II: The ‘Arab Peace Initiative’ mediated by Saudi Arabia was signed by Israel and Arab League.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements : (2022)
+1. Bidibidi is a large refugee settlement in north-western Kenya.
+2. Some people who fled from South Sudan civil war live in Bidibidi.
+3. Some people who fled from civil war in Somalia live in Dadaab refugee complex in Kenya.
+Which of the statements given above is/are correct?
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) "Which one of the following best describes the term “greenwashing” ? (2022)
+a) Conveying a false impression that a company’s products are eco-friendly and environmentally sound
+b) Non-inclusion of ecological/ environmental costs in the Annual Financial Statements of a country
+c) Ignoring the disastrous ecological consequences while undertaking infrastructure development
+d) Making mandatory provisions for environmental costs in a government project/programme
+#QuestionEnd
+#AnswerStart
+Answer: a) Conveying a false impression that a company’s products are eco-friendly and environmentally sound
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements : (2022)
+1. Vietnam has been one of the fastest growing economies in the world in the recent years.
+2. Vietnam is led by a multi-party political system.
+3. Vietnam’s economic growth is linked to its integration with global supply chains and focus on exports.
+4. For a long time Vietnam’s low labour costs and stable exchange rates have attracted global manufacturers.
+5. Vietnam has the most productive e-service sector in the Indo-Pacific region.
+Which of the statements given above are correct ?
+a) 2 and 4
+b) 3 and 5
+c) 1, 3 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements in respect of the ICC Word Test Championship: (2021)
+1. The finalists were decided by the number of matches they won.
+2. New Zealand was ranked ahead of England because it won more matches than England.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements in respect of the 32nd Summer Olympics: (2021)
+1. The official motto for this Olympics is ‘A New World’.
+2. Sport Climbing, Surfing, Skateboarding, Karate and Baseball are included in this Olympics.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements in respect of the Laureus World Sports Award which was instituted in the year 2000: (2021)
+1. American golfer Tiger Woods was the first winner of this award.
+2. The award was received mostly by ‘Formula One’ players so far.
+3. Roger Federer received this award the maximum number of times compared to others.
+Which of the above statements are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: (2020)
+1. The value of Indo-Sri Lanka trade has consistently increased in the last decade.
+2. “Textile and Textile articles” constitute an important item of trade between India and Bangladesh.
+3. In the last five years, Nepal has been the largest trading partner of India in South Asia.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q14) International agreement/set-up Subject (2020)
+| 1. Alma-Ata Declaration | Healthcare of the people |
+|---|---|
+| 2. Hague Convention | Biological and chemical weapons |
+| 3. Talanoa Dialogue | Global climate change |
+| 4. Under2 Coalition | Child rights |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 4 only
+c) 1 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q15) The Global Competitiveness Report is published by the: (2019)
+a) International Monetary Fund
+b) United Nations Conference on Trade and Development
+c) World Economic Forum
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: c) World Economic Forum
+#AnswerEnd
+
+#QuestionStart
+Q16) Which one of the following is not a sub- index of the World Bank’s 'Ease of Doing Business Index'? (2019)
+a) Maintenance of law and order
+b) Paying taxes
+c) Registering property
+d) Dealing with construction permits
+#QuestionEnd
+#AnswerStart
+Answer: a) Maintenance of law and order
+#AnswerEnd
+
+#QuestionStart
+Q17) “Rule of Law Index” is released by which of the following? (2018)
+a) Amnesty International
+b) International Court of Justice
+c) The Office of UN Commissioner for Human Rights
+d) World Justice Project
+#QuestionEnd
+#AnswerStart
+Answer: d) World Justice Project
+#AnswerEnd
+
+#QuestionStart
+Q18) Recently, in which of the following countries having lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts? (2018)
+a) Angola and Zambia
+b) Morocco and Tunisia
+c) Venezuela and Colombia
+d) Yemen and South Sudan
+#QuestionEnd
+#AnswerStart
+Answer: d) Yemen and South Sudan
+#AnswerEnd
+
+#QuestionStart
+Q19) The term “Two state Solution” is sometimes mentioned in the new in the context of the affairs of: (2018)
+a) China
+b) Israel
+c) Iraq
+d) Yemen
+#QuestionEnd
+#AnswerStart
+Answer: b) Israel
+#AnswerEnd
+
+#QuestionStart
+Q20) What is "Terminal High Altitude Area Defense (THAAD)", sometimes seen in the news? (2018)
+a) An Israeli radar system
+b) India's indigenous anti-missile program
+c) An American anti-missile system
+d) A defence collaboration between Japan and South Korea
+#QuestionEnd
+#AnswerStart
+Answer: c) An American anti-missile system
+#AnswerEnd
+
+#QuestionStart
+Q21) The Global Infrastructure Facility is a/an: (2017)
+a) ASEAN initiative to upgrade infrastructure in Asia and financed by credit from the Asian Development Bank.
+b) World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public- Private Partnerships (PPPs) to enable mobilization of the private sector and institutional investor capital.
+c) Collaboration among the major banks of the world working with the OECD and focused on expanding the set of infrastructure projects that have the potential to mobilize private vestment.
+d) UNCTAD funded an initiative that seeks to finance and facilitate infrastructure development in the world.
+#QuestionEnd
+#AnswerStart
+Answer: b) World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public- Private Partnerships (PPPs) to enable mobilization of the private sector and institutional investor capital.
+#AnswerEnd
+
+#QuestionStart
+Q22) With reference to the role of UN-Habitat in the United Nations Programme working towards a better urban future, which of the statements is/are correct? (2017)
+1. UN-Habitat has been mandated by the United Nations General Assembly to promote socially and environmentally sustainable towns and cities to provide adequate shelter for all.
+2. Its partners are either governments or local urban authorities only.
+3. UN-Habitat contributed to the overall objective of the United Nations system to reduce poverty and to promote access to safe drinking water and basic sanitation.
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) 'Broad-based Trade and Investment Agreement (BTIA)' is sometimes seen in the news in the context of negotiations held between India and: (2017)
+a) European Union
+b) Gulf Cooperation Council
+c) Organization for Economic Cooperation and Development
+d) Shanghai Cooperation Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) European Union
+#AnswerEnd
+
+#QuestionStart
+Q24) Consider the following statements: (2017)
+1. The Nuclear Security Summits are periodically held under the aegis of the United Nations.
+2. The International Panel on Fissile Materials is an organ of the International Atomic Energy Agency.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following gives 'Global Gender Gap Index' ranking to the countries of the world? (2017)
+a) World Economic Forum
+b) UN Human Rights Council
+c) UN Women
+d) World Health Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) World Economic Forum
+#AnswerEnd
+
+#QuestionStart
+Q26) The term 'Digital Single Market Strategy' seen in the news refers to: (2017)
+a) ASEAN
+b) BRICS
+c) EU
+d) G20
+#QuestionEnd
+#AnswerStart
+Answer: c) EU
+#AnswerEnd
+
+#QuestionStart
+Q27) The term ‘Regional Comprehensive Economic Partnership’ often appears in the news in the context of the affairs of a group of countries known as: (2016)
+a) G20
+b) ASEAN
+c) SCO
+d) SAARC
+#QuestionEnd
+#AnswerStart
+Answer: b) ASEAN
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements: (2016)
+1. The International Solar Alliance was launched at the United Nations Climate Change Conference in 2015.
+2. The Alliance includes all the member countries of the United Nations.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q29) ‘European Stability Mechanism’, sometimes seen in the news, is an: (2016)
+a) Agency created by the EU to deal with the impact of millions of refugees arriving from the Middle East.
+b) Agency of the EU that provides financial assistance to eurozone countries.
+c) Agency of the EU to deal with all the bilateral and multilateral agreements on trade.
+d) Agency of the EU to deal with the conflicts arising among the member countries.
+#QuestionEnd
+#AnswerStart
+Answer: b) Agency of the EU that provides financial assistance to eurozone countries.
+#AnswerEnd
+
+#QuestionStart
+Q30) Which of the following is/are the indicator/ indicators used by IFPRI to compute the Global Hunger Index Report? (2016)
+1. Undernourishment
+2. Child stunting
+3. Child mortality
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following pairs: (2016)
+| Community sometimes mentioned in the news: | In the affairs of |
+|---|---|
+| 1. Kurd | Bangladesh |
+| 2. Madhesi | Nepal |
+| 3. Rohingya | Myanmar |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q32) With reference to ‘Organisation for the Prohibition of Chemical Weapons (OPCW)’, consider the following statements: (2016)
+1. It is an organisation of the European Union in working relation with NATO and WHO.
+2. It monitors the chemical industry to prevent new weapons from emerging.
+3. It provides assistance and protection to States (Parties) against chemical weapons threats.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q33) With reference to the ‘Trans-Pacific Partnership’, consider the following statements: (2016)
+1. It is an agreement among all the Pacific Rim countries except China and Russia.
+2. It is a strategic alliance for the purpose of maritime security only.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q34) Consider the following statements: (2016)
+The India-Africa Summit
+1. held in 2015 was the third such Summit.
+2. was actually initiated by Jawaharlal Nehru in 1951.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following statements: (2016)
+1. The New Development Bank has been set up by Asia-Pacific Economic Cooperation (APEC).
+2. The headquarters of New Development Bank is in Shanghai.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Which of the following is not a member of ‘Gulf Cooperation Council’? (2016)
+a) Iran
+b) Saudi Arabia
+c) Oman
+d) Kuwait
+#QuestionEnd
+#AnswerStart
+Answer: a) Iran
+#AnswerEnd
+
+#QuestionStart
+Q37) ‘Global Financial Stability Report’ is prepared by the: (2016)
+a) European Central Bank
+b) International Monetary Fund
+c) International Bank for Reconstruction and Development
+d) Organisation for Economic Cooperation and Development
+#QuestionEnd
+#AnswerStart
+Answer: b) International Monetary Fund
+#AnswerEnd
+
+#QuestionStart
+Q38) ‘Beijing Declaration and Platform for Action’ often seen in the news, is: (2015)
+a) a strategy to tackle the regional terrorism, an outcome of a meeting of the Shanghai Cooperation Organization.
+b) a plan of action for sustainable economic growth in the Asia-Pacific Region, an outcome of deliberations of the Asia-Pacific Economic Forum.
+c) an agenda for women’s empowerment, an outcome of a World Conference convened by the United Nations.
+d) a strategy to combat wildlife trafficking, a declaration of the East Asia Summit.
+#QuestionEnd
+#AnswerStart
+Answer: c) an agenda for women’s empowerment, an outcome of a World Conference convened by the United Nations.
+#AnswerEnd
+
+#QuestionStart
+Q39) With reference to 'Forest Carbon Partnership Facility', which of the following statements is/are correct? (2015)
+1. It is a global partnership of governments, businesses, civil society and indigenous peoples.
+2. It provides financial aid to universities, individual scientists and institutions involved in scientific forestry research to develop eco-friendly and climate adaptation technologies for sustainable forest management.
+3. It assists the countries in their 'REDD+ (Reducing Emissions from Deforestation +)' efforts by providing them with financial and technical assistance.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q40) In the Mekong-Ganga Cooperation, an initiative of six countries, which of the following is/are not a participant/ participants? (2015)
+1. Bangladesh
+2. Cambodia
+3. China
+4. Myanmar
+5. Thailand
+Select the correct answer using the code given below:
+a) 1 only
+b) 2, 3 and 4 only
+c) 1 and 3 only
+d) 1, 2 and 5 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q41) ‘BioCarbon Fund Initiative for Sustainable Forest Landscapes’ is managed by the: (2015)
+a) Asian Development Bank
+b) International Monetary Fund
+c) United Nations Environment Program
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: d) World Bank
+#AnswerEnd
+
+#QuestionStart
+Q42) Amnesty International is: (2015)
+a) an agency of the United Nations to help refugees of civil wars.
+b) a global Human Rights Movement.
+c) a non-governmental voluntary organisation to help very poor people.
+d) an inter-governmental agency to cater to medical emergencies in war-ravaged regions.
+#QuestionEnd
+#AnswerStart
+Answer: b) a global Human Rights Movement.
+#AnswerEnd
+
+#QuestionStart
+Q43) The area known as 'Golan Heights' sometimes appears in the news in the context of the events related to: (2015)
+a) Central Asia
+b) Middle East
+c) South-East Asia
+d) Central Africa
+#QuestionEnd
+#AnswerStart
+Answer: b) Middle East
+#AnswerEnd
+
+#QuestionStart
+Q44) The terms ‘Agreement on Agriculture’, ‘Agreement on the Application of Sanitary and Phytosanitary Measures’ and Peace Clause’ appear in the news frequently in the context of the affairs of the: (2015)
+a) Food and Agriculture Organisation
+b) United Nations Framework Conference on Climate Change
+c) World Trade Organisation
+d) United Nations Environment Programme
+#QuestionEnd
+#AnswerStart
+Answer: c) World Trade Organisation
+#AnswerEnd
+
+#QuestionStart
+Q45) Which one of the following issues the ‘Global Economic Prospects’ report periodically? (2015)
+a) The Asian Development Bank
+b) The European Bank for Reconstruction and Development
+c) The US Federal Reserve Bank
+d) The World Bank
+#QuestionEnd
+#AnswerStart
+Answer: d) The World Bank
+#AnswerEnd
+
+#QuestionStart
+Q46) Among the following which were frequently mentioned in the news for the outbreak of Ebola virus recently? (2015)
+a) Syria and Jordan
+b) Guinea, Sierra Leone and Liberia
+c) Philippines and Papua New Guinea
+d) Jamaica, Haiti and Surinam
+#QuestionEnd
+#AnswerStart
+Answer: b) Guinea, Sierra Leone and Liberia
+#AnswerEnd
+
+#QuestionStart
+Q47) Which of the following statements is/ are correct regarding National Innovation Foundation-India (NIF)? (2015)
+1. NIF is an autonomous body of the Department of Science and Technology under the Central Government
+2. NIF is an initiative to strengthen the highly advanced scientific research in India’s premier scientific institutions in collaboration with highly advanced foreign scientific institutions.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q48) The ‘Fortaleza Declaration’ recently in the news, is related to the affairs of: (2015)
+a) ASEAN
+b) BRICS
+c) OECD
+d) WTO
+#QuestionEnd
+#AnswerStart
+Answer: b) BRICS
+#AnswerEnd
+
+#QuestionStart
+Q49) Recently, a series of uprisings of people referred to as 'Arab Spring' originally started from: (2014)
+a) Egypt
+b) Lebanon
+c) Syria
+d) Tunisia
+#QuestionEnd
+#AnswerStart
+Answer: d) Tunisia
+#AnswerEnd
+
+#QuestionStart
+Q50) Recently there has been a concern over the short supply of a group of elements called rare earth metals. Why? (2012)
+1. China, which is the largest producer of these elements, has imposed some restrictions on their export.
+2. Other than China, Australia, Canada, Chile, these elements are not found in any country.
+3. Rare earth metals are essential for the manufacture of various kinds of electronic items and there is growing demand for these elements.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q51) In the context of global oil prices, "Brent crude oil" is frequently referred to in the news. What does this term imply? (2011)
+1. It is a major classification of crude oil.
+2. It is sourced from the North Sea.
+3. It does not contain sulphur.
+Which of the statements given above is/are correct?
+a) 2 only
+b) 1 and 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q52) Southeast Asia has captivated the attention of the global community over space and time as a geo strategically significant region. Which among the following is the most convincing explanation for this global perspective? (2011)
+a) It was the hot theatre during the Second World War.
+b) Its location is between the Asian powers of China and India.
+c) It was the arena of superpower confrontation during the Cold War period.
+d) Its location between the Pacific and Indian Oceans and its preeminent maritime character.
+#QuestionEnd
+#AnswerStart
+Answer: d) Its location between the Pacific and Indian Oceans and its preeminent maritime character.
+#AnswerEnd
+
+#QuestionStart
+Q53) The "New START" treaty was in the news. What is this treaty? (2011)
+a) It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation.
+b) It is a multilateral energy security cooperation treaty among the members of the East Asia Summit.
+c) It is a treaty between the Russian Federation and the European Union for energy security cooperation.
+d) It is a multilateral cooperation treaty among the BRICS countries for the promotion of trade.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation.
+#AnswerEnd

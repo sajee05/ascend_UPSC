@@ -1,0 +1,209 @@
+#QuestionStart
+Q1) With reference to "water vapour”, which of the following statements is/are correct? (2024)
+1. It is a gas, the amount of which decreases with altitude.
+2. Its percentage is maximum at the poles.
+Select the answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following description: (2024)
+1. Annual and daily range of temperatures is low
+2. Precipitation occurs throughout the year.
+3. Precipitation varies between 50 cm-250 cm.
+What is this type of climate?
+a) Equatorial climate
+b) China type climate
+c) Humid subtropical climate
+d) Marine West coast climate
+#QuestionEnd
+#AnswerStart
+Answer: d) Marine West coast climate
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2024)
+Statement-I: The atmosphere is heated more by incoming solar radiation than by terrestrial radiation.
+Statement-II: Carbon dioxide and other greenhouse gasses in the atmosphere are good absorbers of long wave radiation.
+Which one of the following is correct in respect of the above statements ?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect, but Statement- II is correct
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following is/are correct inference/inferences from isothermal maps in the month of January? (2024)
+1. The isotherms deviate to the north over the ocean and to the south over the continent.
+2. The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north.
+Select the answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: (2023)
+Statement-I: The temperature contrast between continents and oceans is greater during summer than in winter.
+Statement-II: The specific heat of water is more than that of land surface.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement- II is correct
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: (2022)
+1. High clouds primarily reflect solar radiation and cool the surface of the Earth.
+2. Low clouds have a high absorption of infrared radiation emanating from the Earth’s surface and thus cause a warming effect.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements: (2020)
+1. Jet streams occur in the Northern Hemisphere only.
+2. Only some cyclones develop an eye.
+3. The temperature inside the eye of a cyclone is nearly 10°C less than that of the surroundings.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Why are dewdrops not formed on a cloudy night? (2019)
+a) Clouds absorb the radiation released from the Earth’s surface.
+b) Clouds reflect back the Earth’s radiation.
+c) The Earth’s surface would have low temperatures on cloudy nights.
+d) Clouds deflect the blowing wind to ground level.
+#QuestionEnd
+#AnswerStart
+Answer: b) Clouds reflect back the Earth’s radiation.
+#AnswerEnd
+
+#QuestionStart
+Q9) During a thunderstorm, the thunder in the skies is produced by the (2013)
+1. Meeting of cumulonimbus clouds in the sky.
+2. Lightning that separates the nimbus clouds.
+3. Violent upward movement of air and water particles.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) None of the above produces the thunder
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above produces the thunder
+#AnswerEnd
+
+#QuestionStart
+Q10) The annual range of temperature in the interior of the continents is high as compared to coastal areas. What is/are the reason/reasons? (2013)
+1. Thermal difference between land and water
+2. Variation in altitude between continents and oceans
+3. Presence of strong winds in the interior
+4. Heavy rains in the interior as compared to coasts
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Normally, the temperature decreases with the increase in height from the Earth’s surface, because: (2012)
+1. The atmosphere can be heated upwards only from the Earth’s surface.
+2. There is more moisture in the upper atmosphere.
+3. The air is less dense in the upper atmosphere.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Electrically charged particles from space travelling at speeds of several hundred km/sec can severely harm living beings if they reach the surface of the Earth. What prevents them from reaching the surface of the Earth? (2012)
+a) The Earth’s magnetic field diverts them towards its poles
+b) Ozone layer around the Earth reflects them back to outer space
+c) Moisture in the upper layers of atmosphere prevents them from reaching the surface of the Earth
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) The Earth’s magnetic field diverts them towards its poles
+#AnswerEnd
+
+#QuestionStart
+Q13) The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation? (2011)
+1. There are no clouds or water vapour in the lower stratosphere.
+2. There are no vertical winds in the lower stratosphere.
+Which of the statements given above is/are correct in this context?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q14) Westerlies in the southern hemisphere are stronger and persistent than in the northern hemisphere. Why? (2011)
+1. The Southern Hemisphere has less landmass as compared to the Northern Hemisphere.
+2. Coriolis force is higher in the Southern Hemisphere as compared to the Northern Hemisphere.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q15) La Nina is suspected to have caused recent floods in Australia. How is La Nina different from EI Nino? (2011)
+1. La Nina is characterised by unusually cold ocean temperature in the equatorial Indian ocean whereas EI Nino is characterised by unusually warm ocean temperature in the equatorial Pacific Ocean.
+2. EI Nino has an adverse effect on the southwest monsoon of India, but La Nina has no effect on monsoon climate.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd

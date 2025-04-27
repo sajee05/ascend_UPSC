@@ -1,4 +1,5 @@
 import { useState } from "react";
+import AttemptHeatmap from "@/components/AttemptHeatmap"; // Import the heatmap component
 import { FileUploader } from "@/components/file-uploader";
 import { TestList } from "@/components/test-list";
 import { FormatInfo } from "@/components/format-info";
@@ -38,7 +39,17 @@ export default function Home() {
             >
               <FileUploader />
             </motion.div>
-            
+
+            {/* Attempt Heatmap */}
+            <motion.div
+              initial={{ y: 20, opacity: 0 }}
+              animate={{ y: 0, opacity: 1 }}
+              transition={{ delay: 0.25 }} // Adjust delay as needed
+              className="mb-8"
+            >
+              <AttemptHeatmap />
+            </motion.div>
+
             {/* Recently Parsed Tests */}
             <motion.div
               initial={{ y: 20, opacity: 0 }}

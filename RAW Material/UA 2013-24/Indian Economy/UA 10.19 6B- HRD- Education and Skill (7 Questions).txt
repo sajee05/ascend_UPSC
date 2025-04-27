@@ -1,0 +1,90 @@
+#QuestionStart
+Q1) With reference to the 'Pradhan Mantri Surakshit Matritva Abhiyan', consider the following statements: (2024)
+1. This scheme guarantees a minimum package of antenatal care services to women in their second and third trimesters of pregnancy and six months post-delivery health care service in any government health facility.
+2. Under this scheme, private sector health care providers of certain specialities can volunteer to provide services at nearby government health facilities.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to Pradhan Mantri Kaushal Vikas Yojana, consider the following statements [2018]
+1. It is the flagship scheme of the Ministry of Labour and Employment.
+2. It, among other things, will also impart training in soft skills, entrepreneurship, financial and digital literacy.
+3. It aims to align the competencies of the unregulated workforce of the country to the National Skill Qualification Framework.
+Which of the statements given above is/are correct ?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following in respect of 'National Career Service': [2017]
+1. National Career Service is an initiative of the Department of Personnel and Training, Government of India.
+2. National Career Service has been launched in a Mission Mode to improve the employment opportunities to uneducated youth of the country.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q4) What is the purpose of Vidyanjali Yojana'? [2017]
+1. To enable the famous foreign educational institutions to open their campuses in India.
+2. To increase the quality of education provided in government schools by taking help from the private sector and the community.
+3. To encourage voluntary monetary contributions from private individuals and organizations so as to improve the infrastructure facilities for primary and secondary schools.
+Select the correct answer using the code given below:
+a) 2 only
+b) 3 only
+c) 1 and 2 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) What is the aim of the programme 'Unnat Bharat Abhiyan'? [2017]
+a) Achieving 100% literacy by promoting collaboration between voluntary organizations and government's education system and local communities.
+b) Connecting institutions of higher education with local communities to address development challenges through appropriate technologies.
+c) Strengthening India's scientific research institutions in order to make India a scientific and technological power.
+d) Developing human capital by allocating special funds for health care and education of rural and urban poor, and organizing skill development programmes and vocational training for them.
+#QuestionEnd
+#AnswerStart
+Answer: b) Connecting institutions of higher education with local communities to address development challenges through appropriate technologies.
+#AnswerEnd
+
+#QuestionStart
+Q6) ‘SWAYAM’, an initiative of the Government of India, aims at [2016]
+a) promoting the Self Help Groups in rural areas
+b) providing financial and technical assistance to young start-up entrepreneurs
+c) promoting the education and health of adolescent girls
+d) providing affordable and quality education to the citizens for free
+#QuestionEnd
+#AnswerStart
+Answer: d) providing affordable and quality education to the citizens for free
+#AnswerEnd
+
+#QuestionStart
+Q7) To obtain the full benefits of demographic dividend, what should India do? (2013)
+a) Promoting skill development
+b) Introducing more social security schemes
+c) Reducing infant mortality rate
+d) Privatisation of higher education
+#QuestionEnd
+#AnswerStart
+Answer: a) Promoting skill development
+#AnswerEnd

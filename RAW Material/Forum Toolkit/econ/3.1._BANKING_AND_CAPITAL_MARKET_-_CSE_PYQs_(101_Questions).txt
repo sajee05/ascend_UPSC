@@ -1,0 +1,1327 @@
+#QuestionStart
+Q1) Consider the following statements:
+Statements -1:
+Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.
+Statements - II:
+InvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement - I and Statement - II are correct and Statement - II is the correct explanation for Statement - I
+b) Both Statement - I and Statement - II are correct and Statement - II is not the correct explanation for Statement - I
+c) Statement -I is correct but Statement - II is incorrect
+d) Statement - I is incorrect but Statement ~ II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement - I is incorrect but Statement ~ II is correct
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements:
+Statement - I:
+In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hike.
+Statement - II:
+Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statements-II is are correct and Statement-II is not the correct cexplanation for Statement-II
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following activities of the Reserve Bank of India is considered to be part of‘sterilization’? [UPSC CSE Pre 2023]
+a) Conducting ‘Open Market Operations’
+b) Oversight of settlement and payment systems
+c) Debt and cash management for the Central and State Governments
+d) Regulating the functions of Non-banking Financial Institutions
+#QuestionEnd
+#AnswerStart
+Answer: a) Conducting ‘Open Market Operations’
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following markets;
+1. Government Bond Market
+2. Call Money Market
+3. Treasury Bill Market
+4. Stock Market
+How many of the above are included in capital markets? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to Central Bank digital currencies, consider the following statements:
+1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.
+2. A digital currency can be distributed with condition programmed into it such as a time- frame for spending it.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2023]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q6) In the context of finance, the term “beta” ' refers to: [UPSC CSE Pre 2023]
+a) the process of simultaneous buying and selling of an asset from different platforms
+b) an investment strategy of portfolio manager to balance risk versus reward
+c) a type of systemic risk that arises where perfect hedging is not possible
+d) a numeric value that measures the fluctuations of a stock to change in the overall stock market
+#QuestionEnd
+#AnswerStart
+Answer: d) a numeric value that measures the fluctuations of a stock to change in the overall stock market
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements:
+1. In India credit rating agencies are regulated by the Reserve Bank of India.
+2. The rating agency popularly known as ICRA is a public limited company.
+3. Brickwork Ratings is an Indian credit rating agency.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the ‘Banks Board Bureau (BBB) which of the following statements are correct?
+1. The Governor of the RBI is the Chairman of BBB.
+2. BBB recommends for the selection of head for Public Sector Banks.
+3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.
+Select the correct answer using the code given below: [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to Convertible Bonds, consider the following statements:
+1. As there is an option to exchange the bond for equity, Convertible Bonds pay a lower rate of interest.
+2. The option to convert to equity affords the bondholder a degree of indexation to rising consumer prices.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to the Indian economy, consider the following statements:
+1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities.
+2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market.
+3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.
+Which of the statements given above are correct? [UPSC CSE Pre. 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”?
+1. Government can reduce the coupon rates on its borrowing by way of IIBs.
+2. IIBs provide protection to the investors from uncertainty regarding inflation.
+3. The interest received as well as capital gains on IIBs are not taxable.
+Which of the statements given above are correct? [UPSC CSE Pre. 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) In India which one of the following is responsible for maintaining for prices stability by controlling inflation? [UPSC CSE Pre. 2022]
+a) Department of Consumer Affairs
+b) Expenditure Management Commission
+c) Financial Stability and Development Council
+d) Reserve Bank of India
+#QuestionEnd
+#AnswerStart
+Answer: d) Reserve Bank of India
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following is likely to be the most inflationary in its effects? [UPSC CSE Pre 2021, Also in CSE 2013]
+a) Repayment of public debt
+b) Borrowing from the public to finance budget deficit
+c) Borrowing from the banks to finance a budget deficit
+d) Creation of new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creation of new money to finance a budget deficit
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to India, consider the following statements:
+1. Retail investors through demat account can invest in ‘Treasury Bills’ and ‘Government of India Debt Bonds’ in primary market.
+2. The ‘Negotiated Dealing System Order Matching’ is a government securities trading platform of the Reserve Bank of India.
+3. The ‘Central Depository Services Ltd.’ is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2021]
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following statements:
+1. The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.
+2. Certain Provisions in the Constitution of India give the Central Government the right to Issue directions to the RBI in public interest.
+3. The Governor of the RBI draws his power from the RBI Act.
+Which of the above statements are correct? [UPSC CSE Pre. 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to ‘Urban Cooperative Banks’ in India, consider the following statements:
+1. They are supervised and regulated by local boards set up by the state Governments.
+2. They can issue equity shares and preference shares.
+3. They were brought under the purview of the Banking Regulation act, 1949 through an amendment in 1966.
+Which of the statement given above is/are correct? [UPSC CSE Pre. 2021]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) In India, the. central bank’s function as the Tender of last resort’ usually refers to which of the following?
+1. Lending to trade and industry bodies when they fail to borrow from other sources
+2. Providing liquidity to the banks having a temporary crisis
+3. Lending to governments to finance budgetary deficits
+Select the correct answer using the code given below. [UPSC CSE Pre. 2021]
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to Indian economy, demandpull inflation can be caused/ increased by which of the following?
+1. Expansionary policies
+2. Fiscal stimulus
+3. Inflation-indexing wages
+4. Higher purchasing power
+5. Rising interest rates
+Select the correct answer using the code given below. [UPSC CSE Pre. 2021]
+a) 1,2 and 4 only
+b) 3, 4 and 5 only
+c) 1, 2, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Indian Government bond yields are influenced by which of the following?
+1. Action of the United States Federal Reserve.
+2. Action of the Reserve Bank of India.
+3. Inflation and short-term interest rates.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2021]
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q20) Consider the following:
+1. Foreign currency convertible bonds.
+2. Foreign institutional investment with certain conditions,
+3. Global depository receipts.
+4. Non-resident external deposits.
+Which of the above can be included in Foreign Direct Investments? [UPSC CSE Pre. 2021]
+a) 1, 2 and 3
+b) 3 only
+c) 2 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements:
+1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).
+2. The WPI does not capture changes in the prices of services, which CPI does.
+3. Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2020]
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q22) If you withdraw Rs. 1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be [UPSC CSE Pre. 2020]
+a) to reduce it by Rs. 1,00,000
+b) to increase it by Rs. 1,00,000
+c) to increase it by more than Rs. 1,00,000
+d) to leave it unchanged
+#QuestionEnd
+#AnswerStart
+Answer: d) to leave it unchanged
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following statements:
+1. In terms of short -term credit delivery to the agriculture sector, District Central Cooperative Banks (DCCBs) deliver more credit in comparison to Scheduled Commercial Banks and Regional Rural Banks.
+2. One of the most important functions of DCCBs is to provide funds to the Primary Agriculture Credit Societies.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2020]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q24) What is the importance of the term “Interest Coverage Ratio” of a firm in India?
+1. It helps in understanding the present risk of a firm that a bank is going to give loan to.
+2. It helps in evaluating the emerging risk of a firm that a bank is going to give loan to.
+3. The higher a borrowing firm’s level of Interest Coverage Ratio, the worse is its ability to service its debt,
+Select the correct answer using the code given below. [UPSC CSE Pre. 2020]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q25) With reference to the Indian economy, consider the following statements:
+1. ‘Commercial Paper’ is a short-term unsecured promissory note.
+2. ‘Certificate of Deposit’ is a long-term instrument issued by the Reserve Bank of India to a corporation.
+3. ‘Call Money’ is a short-term finance used for interbank transactions.
+4. ‘Zero-Coupon Bonds are the interest bearing short-term bond issued by the Scheduled Commercial Banks to corporations.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2020]
+a) 1 and 2 only
+b) 4 only
+c) 1 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q26) In the context of the Indian economy, non-financial debt includes which of the following?
+1. Housing loans owed by households
+2. Amounts outstanding on credit cards
+3. Treasury bills
+Select the correct answer using the code given below: [UPSC CSE Pre. 2020]
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q27) If the RBI decides to adopt an expansionist monetary policy, which of the following would it not do?
+1. Cut and optimize the Statutory Liquidity Ratio
+2. Increase the Marginal Standing Facility Rate
+3. Cut the Bank Rate and Repo Rate
+Select the correct answer using the code given below: [UPSC CSE Pre. 2020]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q28) Which of the following factors/policies were affecting the price of rice in India in the recent past?
+1. Minimum Support Price
+2. Government’s trading
+3. Government’s stockpiling
+4. Consumer subsidies
+Select the correct answer using the code given below: [UPSC CSE Pre. 2020]
+a) 1, 2 and 4 only
+b) 1, 3 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q29) Which of the following is issued by registered foreign portfolio investors to overseas investors who want to be part of Indian stock market without registering themselves directly? [UPSC CSE Pre. 2019]
+a) Certificate of Deposits
+b) Commercial Paper
+c) Promissory Note
+d) Participatory Note
+#QuestionEnd
+#AnswerStart
+Answer: d) Participatory Note
+#AnswerEnd
+
+#QuestionStart
+Q30) The Chairmen of public sector banks are selected by the [UPSC CSE Pre. 2019]
+a) Banks Board Bureau
+b) Reserve Bank of India
+c) Union Ministry of Finance
+d) Management of concerned bank
+#QuestionEnd
+#AnswerStart
+Answer: a) Banks Board Bureau
+#AnswerEnd
+
+#QuestionStart
+Q31) The Service Area Approach was implemented under the purview of [UPSC CSE Pre. 2019]
+a) Integrated Rural Development Programme
+b) Lead Bank Scheme
+c) Mahatma Gandhi National Rural Employment Guarantee Scheme
+d) National Skill Development Mission
+#QuestionEnd
+#AnswerStart
+Answer: b) Lead Bank Scheme
+#AnswerEnd
+
+#QuestionStart
+Q32) Which of the following is not included in the assets of a commercial bank in India? [UPSC CSE Pre. 2019]
+a) Advances
+b) Deposits
+c) Investments
+d) Money at call and short notice
+#QuestionEnd
+#AnswerStart
+Answer: b) Deposits
+#AnswerEnd
+
+#QuestionStart
+Q33) Which one of the following is not the most likely measure the Government/ RBI takes to stop the slide of Indian rupee? [UPSC CSE Pre. 2019]
+a) Curbing imports of nonessential goodsand promoting exports
+b) Encouraging Indian borrowers to issue rupee denominated Masala Bonds
+c) Easing conditions relating to external commercial borrowing
+d) Following an expansionary monetary policy
+#QuestionEnd
+#AnswerStart
+Answer: d) Following an expansionary monetary policy
+#AnswerEnd
+
+#QuestionStart
+Q34) Which one of the following statements correctly describes the meaning of legal tender money? [UPSC CSE Pre. 2018]
+a) The money which is tendered in courts of law to defray the fee of legal cases
+b) The money which a creditor is under compulsion to accept in settlement of his claims
+c) The bank money in the form of cheques, drafts, bills of exchange etc.
+d) The metallic money in circulation in a country
+#QuestionEnd
+#AnswerStart
+Answer: b) The money which a creditor is under compulsion to accept in settlement of his claims
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following statements:
+1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the accountholders fail to repay dues.
+2. CAR is decided by each individual bank.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2018]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following best describes the term “Merchant Discount Rate” sometimes seen in news? [UPSC CSE Pre. 2018]
+a) The incentive given by a bank to a merchant for accepting payments through debit cards pertaining to that bank.
+b) The amount paid back by banks to their customers when they use debit cards for financial transactions for purchasing goods or services.
+c) The charge to a merchant by a bank for accepting payments from his customers through the bank’s debit cards.
+d) The incentive given by the Government to merchants for promoting digital payments by their customers through Point of Sale (PoS) machines and debit cards.
+#QuestionEnd
+#AnswerStart
+Answer: c) The charge to a merchant by a bank for accepting payments from his customers through the bank’s debit cards.
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following statements:
+1. The Reserve Bank of India manages and services Government of India Securities but not any State Government Securities.
+2. Treasury bills are issued by the Government of India and there are no treasury bills issued by the state Governments.
+3. Treasury bills offer are issued at a discount from the par value.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2018]
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q38) With reference to the governance of public sector banking in India, consider the following statements:
+1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.
+2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2018]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q39) What is the purpose of setting up of Small Finance Banks (SFBs) in India?
+1. To supply credit to small business units.
+2, To supply credit to small and marginal farmers.
+3. To encourage young entrepreneurs to set up business particularly in rural areas.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2017]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q40) Which of the following statements is/are correct regarding the ‘Monetary Policy Committee (MPC)?
+1. It decides the RBI’s benchmark interest rates.
+2. It is a 12-member body including the Governor of RBI and is reconstituted every year.
+3. It functions under the chairmanship of the Union Finance Minister.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2017]
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q41) What is/are the purpose/purposes of Government’s ‘Sovereign Gold Bond Scheme’ and ‘Gold Monetization Scheme’?
+1. To bring the idle gold lying with Indian households into the economy.
+2. To promote FDI in the gold and jewellery sector.
+3. To reduce India’s dependence on gold imports.
+Select the correct answer using the code given below. [UPSC CSE Pre, 2016]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q42) The establishment of ‘Payment Banks’ is being allowed in India to promote financial inclusion. Which of the following statements is/are correct in this context?
+1. Mobile telephone companies and supermarket chains that are owned and controlled by residents are eligible to be promoters of Payment Banks.
+2. Payment Banks can issue both credit cards and debit cards.
+3. Payment Banks cannot undertake lending activities.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2016]
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q43) With reference to ‘Bitcoins’, sometimes seen in the news, which of the following statements is/are correct?
+1. Bitcoins are tracked by the Central Banks of the countries.
+2. Anyone with a Bitcoin address can send and receive Bitcoins from anyone else with a Bitcoin address.
+3. Online payments can be sent without either side knowing the identity of the other.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2016]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q44) The term ‘Core Banking Solution’ is sometimes seen in the news. Which of the following statements best describes/ describe this term?
+1. It is a networking of a banks branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts.
+2. It is an effort to increase RBI’s control over commercial banks through computerization.
+3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2016]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q45) When the Reserve Bank of India reduces the Statutory Liquidity Ratio by 50 basis points, which of the following is likely to happen? [UPSC CSE Pre. 2015]
+a) India’s GDP growth rate increases drastically
+b) Foreign Institutional Investors may bring more capital into our country
+c) Scheduled Commercial Banks may cut their lending rates.
+d) It may drastically reduce the liquidity to the banking system
+#QuestionEnd
+#AnswerStart
+Answer: c) Scheduled Commercial Banks may cut their lending rates.
+#AnswerEnd
+
+#QuestionStart
+Q46) With reference to Indian economy, consider the following:
+1. Bankrate
+2. Open market operations
+3. Public debt
+4. Public Revenue
+Which of the above is/are component/ components of Monetary Policy? [UPSC CSE Pre. 2015]
+a) 1 only
+b) 2, 3 and 4 only
+c) 1 and 2 only
+d) 1,3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q47) ‘Basel III Accord” or simply ‘Basel OF often seen in the new, seeks to [UPSC CSE Pre. 2015]
+a) develop national strategies for the conservation and sustainable use of biological diversity
+b) improve banking sector’s ability to deal with financial and economic stress and improve risk management
+c) reduce the greenhouse gas emissions but places a heavier burden on developed countries
+d) transfer technology from developed countries to poor countries to enable them to replace the use of chlorofluorocarbons in refrigeration with harmless chemicals
+#QuestionEnd
+#AnswerStart
+Answer: b) improve banking sector’s ability to deal with financial and economic stress and improve risk management
+#AnswerEnd
+
+#QuestionStart
+Q48) With reference to inflation in India, which of the following statements is correct? [UPSC CSE Pre. 2015]
+a) Controlling the inflation in India is the responsibility of the Government of India only
+b) The Reserve Bank of India has no role in controlling the inflation
+c) Decreased money circulation helps in controlling the inflation
+d) Increased money circulation helps in controlling the inflation
+#QuestionEnd
+#AnswerStart
+Answer: c) Decreased money circulation helps in controlling the inflation
+#AnswerEnd
+
+#QuestionStart
+Q49) The terms ‘Marginal Standing Facility Rate’ and ‘Net Demand and Time Liabilities’, sometimes appearing in news, are used in relation to [UPSC CSE Pre. 2014]
+a) banking operations
+b) communications networking
+c) military strategies
+d) supply and demand of agricultural products
+#QuestionEnd
+#AnswerStart
+Answer: a) banking operations
+#AnswerEnd
+
+#QuestionStart
+Q50) In the context of Indian economy which of the following is/are the purpose/purposes of ‘Statutory Reserve Requirements’?
+1. To enable the Central Bank to control the amount of advances the banks can create.
+2. To make the people’s deposits with banks safe and liquid.
+3. To prevent the commercial banks from making excessive profits.
+4. To force the banks to have sufficientvault cash to meet their day-to-day requirements.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2014]
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q51) If the interest rate is decreased in an economy, it will [UPSC CSE Pre. 2014]
+a) decrease the consumption expenditure in - the economy
+b) increase the tax collection of the Government.
+c) Increase the investment expenditure in the economy
+d) increase the total savings in the economy.
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase the investment expenditure in the economy
+#AnswerEnd
+
+#QuestionStart
+Q52) What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?
+1. It enables the beneficiaries to draw their subsidies and social security benefits in their villages.
+2. It enables the beneficiaries in the rural areas to make deposits and withdrawals.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2014]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q53) What does venture capital mean? [UPSC CSE Pre. 2014]
+a) A short-term capital provided to industries
+b) A long-term start-up capital provided to new entrepreneurs
+c) Funds provided to industries at times of incurring losses.
+d) Funds provided for replacement and renovation of industries.
+#QuestionEnd
+#AnswerStart
+Answer: b) A long-term start-up capital provided to new entrepreneurs
+#AnswerEnd
+
+#QuestionStart
+Q54) Priority Sector Lending by banks in India constitutes the lending to [UPSC CSE Pre. 2013]
+a) agriculture
+b) micro and small enterprises
+c) weaker sections
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q55) Which of the following grants/ grant direct credit assistance to rural households?
+1. Regional Rural Banks
+2. National Bank for Agriculture and Rural Development
+3. Land Development Banks
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2013]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q56) The Reserve Bank of India regulates the commercial banks in matters of
+1. liquidity of assets
+2. branch expansion
+3. merger of banks
+4. winding-up of banks
+Select the correct answer using the codes given below. [UPSC CSE Pre. 2013]
+a) 1 and 4 only
+b) 2, 3 and 4 only
+c) 1, 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q57) An increase in the Bank Rate generally indicates that the [UPSC CSE Pre. 2013]
+a) Market rate of interest is likely to fall
+b) Central Bank is no longer making loans to commercial banks
+c) Central Bank is following an easy money policy
+d) Central Bank is following a tight money policy
+#QuestionEnd
+#AnswerStart
+Answer: d) Central Bank is following a tight money policy
+#AnswerEnd
+
+#QuestionStart
+Q58) Consider the following liquid assets:
+1. Demand deposits with the banks
+2. Time deposits with the banks
+3. Savings deposits with the banks
+4. Currency
+The correct sequence of these decreasing orders of Liquidity is: [UPSC CSE Pre. 2013]
+a) 1-4-3-2
+b) 4-3-2-1
+c) 2-3-1-4
+d) 4-1-3-2
+#QuestionEnd
+#AnswerStart
+Answer: d) 4-1-3-2
+#AnswerEnd
+
+#QuestionStart
+Q59) In the context of Indian economy, ‘Open Market Operations’ refers to [UPSC CSE Pre. 2013]
+a) borrowing by scheduled banks from the RBI
+b) lending by commercial banks to industry and trade
+c) purchase and sale of government securities by the RBI
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) purchase and sale of government securities by the RBI
+#AnswerEnd
+
+#QuestionStart
+Q60) Consider the following statements:
+1. Inflation benefits the debtors.
+2. Inflation benefits the bond-holders.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2013]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following is likely to be the most inflationary in its effect? [UPSC CSE Pre. 2013, Also in CSE 2021]
+a) Repayment of public debt
+b) Borrowing from the public to finance a budget deficit
+c) Borrowing from banks to finance a budget deficit
+d) Creating new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creating new money to finance a budget deficit
+#AnswerEnd
+
+#QuestionStart
+Q62) Supply of money remaining the same when there is an increase in demand for money, there will be [UPSC CSE Pre. 2013]
+a) a fall in the level of prices
+b) an increase in the rate of interest
+c) a decrease in the rate of interest
+d) an increase in the level of income and employment
+#QuestionEnd
+#AnswerStart
+Answer: b) an increase in the rate of interest
+#AnswerEnd
+
+#QuestionStart
+Q63) The basic aim of Lead Bank Scheme is that: [UPSC CSE Pre. 2012]
+a) big banks should try to open offices in each district
+b) there should be stiff competition among the various nationalized banks
+c) individual banks should adopt particular districts for intensive development
+d) all the banks should make intensive efforts to mobilize deposits.
+#QuestionEnd
+#AnswerStart
+Answer: c) individual banks should adopt particular districts for intensive development
+#AnswerEnd
+
+#QuestionStart
+Q64) The Reserve Bank of India (RBI) acts as a bankers’ bank. This would imply which of the following?
+1. Other bank retains their deposits with the RBI.
+2. The RBI lends funds to the commercial banks in times of need.
+3. The RBI advises the commercial banks on monetary matters.
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 2 and 3 only
+b) 1 and 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q65) Which of the following measures would result in an increase in the money supply in the economy?
+1. Purchase of govt securities from the public by the central bank
+2. Deposit of currency in commercial banks by the public
+3. Borrowing by the govt, from the central bank
+4. Sale of govt. secs, to the public by the central bank
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q66) Under which of the following circumstances may ‘capital gains ‘arise?
+1. when there is an increase in the sales of a product.
+2. when there is a natural increase in the value of the property owned.
+3. when you purchase a painting and there is a growth in its value due to increase in its popularity.
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q67) The lowering of Bank Rate by the Reserve Bank of India leads to [UPSC CSE Pre. 2011]
+a) More liquidity in the market
+b) Less liquidity in the market
+c) No change in the liquidity in the market
+d) Mobilization of more deposits by commercial banks
+#QuestionEnd
+#AnswerStart
+Answer: a) More liquidity in the market
+#AnswerEnd
+
+#QuestionStart
+Q68) Why is the offering of “teaser loans” by commercial banks a cause of economic concern?
+1. The teaser loans are considered to be an aspect of sub-prime lending and banks may be exposed to the risk of defaulters in future.
+2. In India, the teaser loans are mostly given to inexperienced entrepreneurs to set up manufacturing or export units.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2011]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q69) Microfinance is the provision of financial services to people of low-income groups. This includes both the consumers and the self-employed. The service/services rendered under micro-finance is/are:
+1. Credit facilities
+2. Savings facilities
+3. Insurance facilities
+4. Fund Transfer facilities
+Select the correct answer using the codes given below the lists: [UPSC CSE Pre. 2011]
+a) 1 only
+b) 1 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q70) A rapid increase in the rate of inflation is sometimes attributed to the “base effect”. What is “base effect”? [UPSC CSE Pre. 2011]
+a) It is the impact of drastic deficiency in supply due to failure of crops
+b) It is the impact of the surge in demand due to rapid economic growth
+c) It is the impact of the price levels of previous year on the calculation of inflation rate
+d) None of the statements (a), (b) and (c) given above is correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: c) It is the impact of the price levels of previous year on the calculation of inflation rate
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one of the following statements is an appropriate description of deflation? [UPSC CSE Pre. 2010]
+a) It is a sudden fall in the value of a currency against other currencies.
+b) It is persistent recession in both the financial and real sectors of economy.
+c) It is a persistent fall in the general price level of goods and services.
+d) It is a fall in the rate of inflation over a period of time.
+#QuestionEnd
+#AnswerStart
+Answer: c) It is a persistent fall in the general price level of goods and services.
+#AnswerEnd
+
+#QuestionStart
+Q72) In India, the interest rate on savings accounts in all the Nationalized Commercial Banks is fixed by: [UPSC CSE Pre. 2010]
+a) Union Ministry of Finance
+b) Union Finance Commission
+c) Indian Bank’s Association
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q73) With reference to India, consider the following statements:
+1. The Wholesale Price Index (WPI) in India is available on a monthly basis only.
+2. As compared to Consumer Price Index for Industrial Workers [CPI (IW)] the WPI gives less weight to food articles.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q74) With reference to India, consider the following :
+1. Nationalization of Banks
+2. Formation of Regional Rural Banks
+3. Adoption of villages by Bank Branches
+Which of the above can be considered as steps taken to achieve the ‘financial inclusion in India? [UPSC CSE Pre. 2010]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q75) Which of the following brings out the ‘Consumer Price Index Number for Industrial Workers’? [UPSC CSE Pre 2010]
+a) The Reserve Bank of India
+b) The Department of Economic Affairs
+c) The Labour Bureau
+d) The Department of Personnel and Training
+#QuestionEnd
+#AnswerStart
+Answer: c) The Labour Bureau
+#AnswerEnd
+
+#QuestionStart
+Q76) Consider the following statements:
+The functions of commercial banks in India include:
+1. Purchase and sale of shares and securities on behalf of customers.
+2. Acting as executors and trustees of wills.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q77) With reference to the Non-Banking Financial Companies (NBFCs) in India, consider the following statements :
+1. They cannot engage in the acquisition of securities issued by the government.
+2. They cannot accept demand deposits like Savings Account.
+Which of the statements given above is / are correct? [UPSC CSE Pre. 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q78) When the Reserve Bank of India announces an increase of the Cash Reserve Ratio, what does it mean? [UPSC CSE Pre. 2010]
+a) The commercial banks will have less money to lend
+b) The Reserve Bank of India will have less money to lend
+c) The Union Government will have less money to lend
+d) The commercial banks will have more money to lend
+#QuestionEnd
+#AnswerStart
+Answer: a) The commercial banks will have less money to lend
+#AnswerEnd
+
+#QuestionStart
+Q79) Which one of the following is not a feature of Limited Liability Partnership firm? [UPSC CSE Pre. 2010]
+a) Partners should be less than 20
+b) Partnership and management need not be separate
+c) Internal governance may be decided by mutual agreement among partners
+d) It is corporate body with perpetual succession
+#QuestionEnd
+#AnswerStart
+Answer: a) Partners should be less than 20
+#AnswerEnd
+
+#QuestionStart
+Q80) In the parlance of financial investments, the term bear denotes: [UPSC CSE Pre. 2010]
+a) An investor who feels that the price of a particular security is going to fall
+b) An investor who expects the price of particular shares to rise
+c) A shareholder or a bondholder who has an interest in a company, financial or otherwise
+d) Any lender whether by making a loan or buying a bond
+#QuestionEnd
+#AnswerStart
+Answer: a) An investor who feels that the price of a particular security is going to fall
+#AnswerEnd
+
+#QuestionStart
+Q81) With reference io the institution of Banking Ombudsman in India, which one of the following statements is not correct? [UPSC CSE Pre. 2010]
+a) The Banking Ombudsman is appointed by the Reserve Bank of India.
+b) The Banking Ombudsman can consider complaints from Non-Resident Indians, having accounts in India.
+c) The orders passed by the Banking Ombudsman are final and binding on the parties concerned.
+d) The service provided by the Banking Ombudsman is free of any fee.
+#QuestionEnd
+#AnswerStart
+Answer: c) The orders passed by the Banking Ombudsman are final and binding on the parties concerned.
+#AnswerEnd
+
+#QuestionStart
+Q82) Which of the following terms indicates a mechanism used by commercial banks for providing credit to the government? [UPSC CSE Pre. 2010]
+a) Cash Credit Ratio
+b) Debt Service Obligation
+c) Liquidity Adjustment Facility
+d) Statutory Liquidity Ratio
+#QuestionEnd
+#AnswerStart
+Answer: d) Statutory Liquidity Ratio
+#AnswerEnd
+
+#QuestionStart
+Q83) In the context of independent India’s economy, which one of the following was the earliest event to take place? [UPSC CSE Pre. 2009]
+a) Nationalization of insurance companies
+b) Nationalization of State Bank of India
+c) Enactment of Banking Regulation Act
+d) Introduction of first Five Year Plan
+#QuestionEnd
+#AnswerStart
+Answer: c) Enactment of Banking Regulation Act
+#AnswerEnd
+
+#QuestionStart
+Q84) Which one of the following pairs is not correctly matched? [UPSC CSE Pre. 2009]
+a) Japan: Nikkei
+b) Singapore : Shcomp
+c) U.K. : FTSE
+d) U.S.A. : Nasdaq
+#QuestionEnd
+#AnswerStart
+Answer: b) Singapore : Shcomp
+#AnswerEnd
+
+#QuestionStart
+Q85) What does S & P 500 relate to? [UPSC CSE Pre. 2008]
+a) Supercomputer
+b) A new technique in e-business
+c) A new technique in bridge building
+d) An index of stocks of large companies
+#QuestionEnd
+#AnswerStart
+Answer: d) An index of stocks of large companies
+#AnswerEnd
+
+#QuestionStart
+Q86) The National Housing Bank was set up in India as a wholly owned subsidiary of which one of the following? [UPSC CSE Pre. 2007]
+a) State Bank of India
+b) Reserve Bank of India
+c) ICICI Bank
+d) Government of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Reserve Bank of India
+#AnswerEnd
+
+#QuestionStart
+Q87) Consider the following statements:
+1. The repo rate is the rate at which other banks borrow from the Reserve Bank of India.
+2. A value of 1 for Gini Coefficient in a country implies that there is perfectly equal income for everyone in its population.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2007]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q88) Consider the following statements:
+1. Sensex is based on 50 of the most important stocks available on the Bombay Stock Exchange (BSE).
+2. For calculating the Sensex, all the stocks are assigned proportional weightage.
+3. New York Stock Exchange is the oldest stock exchange in the world.
+Which of the statement/s given above is/are correct? [UPSC CSE Pre. 2005]
+a) 2 only
+b) 1 and 3
+c) 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q89) In India, the first Bank of limited liability managed by Indians and founded in 1881 was: [UPSC CSE Pre. 2003]
+a) Hindustan Commercial Bank
+b) Oudh Commercial Bank
+c) Punjab National Bank
+d) Punjab and Sind Bank
+#QuestionEnd
+#AnswerStart
+Answer: b) Oudh Commercial Bank
+#AnswerEnd
+
+#QuestionStart
+Q90) Debenture holders of a company are its: [UPSC CSE Pre. 2003]
+a) shareholders
+b) creditors
+c) debtors
+d) directors
+#QuestionEnd
+#AnswerStart
+Answer: b) creditors
+#AnswerEnd
+
+#QuestionStart
+Q91) Consider the following:
+1. Market borrowing
+2. Treasury bills
+3. Special securities issued to RBI
+Which of these is/are component(s) of internal debt? [UPSC CSE Pre. 2001]
+a) 1 only
+b) 1 and 2 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q92) Consider the following statements regarding Reserve Bank of India:
+1. It is a banker to the Central Government.
+2. It formulates and administers monetary policy.
+3. It acts as an agent of the Government in respect of India’s membership of IMF.
+4. It handles the borrowing programme of Government of India.
+Which of these statements are correct? [UPSC CSE Pre. 2001]
+a) 1 and 2
+b) 2, 3 and 4
+c) 1,2, 3 and 4
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q93) A rise in ‘SENSEX’ means: [UPSC CSE Pre. 2000]
+a) a rise in prices of shares of all companies registered with Bombay Stock Exchange
+b) a rise in prices of shares of all companies registered with National Stock Exchange
+c) an overall rise in prices of shares of group of companies registered with Bombay Stock Exchange
+d) a rise in prices of shares of all companies belonging to a group of companies registered with Bombay Stock Exchange
+#QuestionEnd
+#AnswerStart
+Answer: c) an overall rise in prices of shares of group of companies registered with Bombay Stock Exchange
+#AnswerEnd
+
+#QuestionStart
+Q94) Gilt-edged market means: [UPSC CSE Pre. 2000]
+a) bullion market
+b) market of Government securities
+c) market of guns
+d) market of pure metals
+#QuestionEnd
+#AnswerStart
+Answer: b) market of Government securities
+#AnswerEnd
+
+#QuestionStart
+Q95) From the balance sheet of a company, it is possible to: [UPSC CSE Pre. 1999]
+a) judge the extent of profitability of the company
+b) assess the profitability and size of the company
+c) determine the size and composition of the assets and liabilities of the company
+d) determine the market share, debts and assets of a company
+#QuestionEnd
+#AnswerStart
+Answer: c) determine the size and composition of the assets and liabilities of the company
+#AnswerEnd
+
+#QuestionStart
+Q96) The accounting year of the Reserve Bank of India is: [UPSC CSE Pre. 1998] (⭐ Please Re-check)
+a) April - March
+b) July - June
+c) October - September
+d) January - December
+#QuestionEnd
+#AnswerStart
+Answer: b) July - June
+#AnswerEnd
+
+#QuestionStart
+Q97) The supply-side economics lays greater emphasis on the point of view of: [UPSC CSE Pre. 1998]
+a) producer
+b) global economy
+c) consumer
+d) middle-man
+#QuestionEnd
+#AnswerStart
+Answer: a) producer
+#AnswerEnd
+
+#QuestionStart
+Q98) A consumer is said to be in equilibrium, if: [UPSC CSE Pre. 1998]
+a) he is able to fulfil his need with a given level of income.
+b) he is able to live in full comforts with a given level of income.
+c) he can fulfil his needs without consumption of certain items.
+d) he is able to locate new sources of income.
+#QuestionEnd
+#AnswerStart
+Answer: a) he is able to fulfil his need with a given level of income.
+#AnswerEnd
+
+#QuestionStart
+Q99) The sum of which of the following constitutes Broad Money in India?
+1. Currency with the public
+2. Demand deposits with banks
+3. Time deposits with banks
+4. Other deposits with RBI
+Choose the correct answer using the codes given below: [UPSC CSE Pre. 1997]
+a) 1 and 2
+b) 1, 2 and 3
+c) 1,2, 3 and 4
+d) 1, 2, and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q100) Which one of the following is not an instrument of selective credit control in India? [UPSC CSE Pre. 1995]
+a) Regulation of consumer credit
+b) Rationing of credit
+c) Margin requirements
+d) Variable cost reserve ratios
+#QuestionEnd
+#AnswerStart
+Answer: d) Variable cost reserve ratios
+#AnswerEnd
+
+#QuestionStart
+Q101) Bank Rate implies the rate of interest: [UPSC CSE Pre. 1995]
+a) paid by the Reserve Bank of India on the deposits of commercial banks
+b) charged by banks on loans and advances
+c) payable on bonds
+d) at which the Reserve Bank of India discounts the Bills of Exchange
+#QuestionEnd
+#AnswerStart
+Answer: d) at which the Reserve Bank of India discounts the Bills of Exchange
+#AnswerEnd

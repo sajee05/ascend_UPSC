@@ -1,0 +1,136 @@
+#QuestionStart
+Q1) Consider the following statements: (2024)
+1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.
+2. A community declared as a Scheduled Tribe in a State need not be so in another State.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Local self-government can be best explained as an exercise in (2017)
+a) Federalism
+b) Democratic decentralisation
+c) Administrative delegation
+d) Direct democracy
+#QuestionEnd
+#AnswerStart
+Answer: b) Democratic decentralisation
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2016)
+1. The minimum age prescribed for any person to be a member of a panchayat is 25 years.
+2. A panchayat reconstituted after premature dissolution continues only for the remainder period.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to “Gram Nyayalayas Acts”, which of the following statements is/are correct? (2016)
+1. As per the Act, Gram Nyayalayas can hear only civil cases and not criminal cases.
+2. The Act allows local social activists as mediators/conciliators.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) The fundamental object of the Panchayati Raj system is to ensure which among the following? (2015)
+1. People’s participation in development
+2. Political accountability
+3. Democratic decentralisation
+4. Financial mobilisation
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) The Government enacted the Panchayat Extension to Scheduled Areas (PESA) Act in 1996. Which one of the following is not identified as its objective? (2013)
+a) To provide self-governance
+b) To recognize traditional rights
+c) To create autonomous regions in tribal areas
+d) To free tribal people from exploitation
+#QuestionEnd
+#AnswerStart
+Answer: c) To create autonomous regions in tribal areas
+#AnswerEnd
+
+#QuestionStart
+Q7) Under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Rights) Act, 2006, who shall be the authority to initiate the process of determining the nature and extent of individual or community forest rights or both? (2013)
+a) State Forest Department
+b) District Collector/ Deputy Commissioner
+c) Tahsildar/ Block Development Officer/ Mandal Revenue Officer
+d) Gram Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d) Gram Sabha
+#AnswerEnd
+
+#QuestionStart
+Q8) In the areas covered under the Panchayat (Extension to the Scheduled Areas) Act, 1996, what is the role/power of Gram Sabha? (2012)
+1. Gram Sabha has the power to prevent alienation of land in the Scheduled Areas.
+2. Gram Sabha has the ownership of minor forest produce.
+3. Recommendation of Gram Sabha is required for granting prospecting licence or mining lease for any mineral in the Scheduled Areas.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q9) The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following? (2011)
+1. Constitution of District Planning Committees.
+2. State Election Commissions to conduct all Panchayat elections.
+3. Establishment of State Finance Commissions.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: (2011)
+In India, a Metropolitan Planning Committee
+1. is constituted under the provisions of the Constitution of India.
+2. prepares the draft development plans for the metropolitan area.
+3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd

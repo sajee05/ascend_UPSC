@@ -604,8 +604,9 @@ export default function OverallAnalyticsPage() {
                 Advanced analysis of your learning patterns, knowledge calibration, and cognitive processes.
               </p>
               <AdvancedCharts 
-                overallStats={overallStats} 
-                subjectStats={filteredStats} 
+                overallStats={overallStats}
+                subjectStats={filteredStats}
+                trendData={analytics.trendData} // Pass actual trend data
               />
             </div>
           )}

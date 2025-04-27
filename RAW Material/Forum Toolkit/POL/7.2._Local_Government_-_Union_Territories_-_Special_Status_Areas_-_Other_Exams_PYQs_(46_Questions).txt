@@ -1,0 +1,600 @@
+#QuestionStart
+Q11) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): The 73rd Amendment of the Constitution is considered to be a watershed in the history of local self-government in India.
+Reason (R): The 73rd Constitution Amendment conferred the much-coveted Constitutional status on Panchayats.
+Select the correct answer from the code given below. [U.P.P.C.S. (Pre) 2022]
+a) (A) is true, but (R) is false
+b) Both (A) and (R) are true and (R) is the correct explanation of (A)
+c) (A) is false, but (R) is true
+d) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q12) When was the Panchayats (Extension to the Scheduled Areas) Act passed by Indian Parliament? [U.P.P.C.S. (Pre) 2022]
+a) 1996
+b) 1993
+c) 1998
+d) 1995
+#QuestionEnd
+#AnswerStart
+Answer: a) 1996
+#AnswerEnd
+
+#QuestionStart
+Q13) Which region of the country conferred special status under Article 371-J of the Constitution of India? [U.P.P.C.S. (Pre) 2020]
+a) Nagaland
+b) Hyderabad and Karnataka
+c) Maharashtra and Gujarat
+d) Ladakh
+#QuestionEnd
+#AnswerStart
+Answer: b) Hyderabad and Karnataka
+#AnswerEnd
+
+#QuestionStart
+Q14) Reservation of seats in Panchayat elections for Scheduled Castes shall not apply to the State of- [U.P.P.C.S. (Pre) 2016]
+a) Uttar Pradesh
+b) Assam
+c) Arunachal Pradesh
+d) Haryana
+#QuestionEnd
+#AnswerStart
+Answer: c) Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q15) Who among the following constitutes ‘Finance Commission’ to review the financial position of Panchayats? [U.P.P.C.S. (Pre) 2015]
+a) Chief Minister of the concerned State
+b) Finance Minister of the concerned State
+c) The Governor of the concerned State
+d) Panchayati Raj Minister of the concerned State
+#QuestionEnd
+#AnswerStart
+Answer: c) The Governor of the concerned State
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following are Constitutional Authorities? Select the correct answer using code given below:
+1. State Election Commission
+2. State Finance Commission
+3. District Panchayat
+4. State Electoral Officer
+Code: [U.P.P.C.S. (Pre) 2012]
+a) 1 and 2 Only
+b) 1,2 and 3 Only
+c) 2, 3 and 4 Only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 Only
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements and select the correct answer using the code given below:
+Assertion (A): The Union Finance Commission does not have any role in considering measures for providing financial assistance to local bodies.
+Reason (R): In spite of the 73rd and 74th Constitutional Amendments, local government continues to be a state subject in the Seventh Schedule of the Constitution.
+Code: [U.P.P.C.S. (Mains) 2011]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q18) Article 371 of the Constitution makes special provisions for which of the following States? [U.P.P.C.S. (Mains) 2011]
+a) Jammu and Kashmir
+b) Maharashtra and Gujarat
+c) Nagaland
+d) Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Maharashtra and Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q19) Article 371 B of the Constitution of India makes special provisions for which of the following State/s? [U.P.P.C.S. (Mains) 2010]
+a) Maharashtra and Gujarat
+b) Assam
+c) Nagaland
+d) Manipur
+#QuestionEnd
+#AnswerStart
+Answer: b) Assam
+#AnswerEnd
+
+#QuestionStart
+Q20) Which of the following States does not have any Panchayati Raj Institution? [U.P.P.C.S. (Mains) 2005]
+a) Assam
+b) Kerala
+c) Nagaland
+d) Tripura
+#QuestionEnd
+#AnswerStart
+Answer: c) Nagaland
+#AnswerEnd
+
+#QuestionStart
+Q21) Which Article of the Indian Constitution deals with special provisions with respect to different States? [U.P.P.C.S. (Pre) 1997]
+a) Art. 369
+b) Art. 370
+c) Art. 371
+d) Art. 372
+#QuestionEnd
+#AnswerStart
+Answer: c) Art. 371
+#AnswerEnd
+
+#QuestionStart
+Q22) In which of the following group of the States, PESA [Panchayats (Extension to Scheduled Areas) Act], 1996 is not enforceable? [R.A.S./R.T.S. (Pre) 2016]
+a) Rajasthan-Telangana-Maharashtra
+b) Andhra Pradesh-Jharkhand-Odisha
+c) Assam-Meghalaya-Tamil Nadu
+d) Himachal Pradesh-Gujarat-Chhattisgarh
+#QuestionEnd
+#AnswerStart
+Answer: c) Assam-Meghalaya-Tamil Nadu
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following functions of State Election Commission and select the correct answer using the code given below?
+1. Prepares the electoral rolls for Panchayats and Municipalities elections in the State.
+2. Conducts elections for Panchayats and Municipalities of the State.
+3. Conducts elections for other bodies in addition to Panchayats and Municipalities in accordance with the directions given by the Governor.
+4. Prepares the electoral rolls and conducts elections as assigned by Election Commission of India.
+Code: [R.A.S./R.T.S.(Pre) 2013]
+a) (1) and (2)
+b) (3) and (4)
+c) (1), (2) and (4)
+d) (4) only
+#QuestionEnd
+#AnswerStart
+Answer: a) (1) and (2)
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following bears the responsibility of planning, execution and implementation of MNREGA schemes? [R.A.S./R.T.S.(Pre) 2012]
+a) Gram Sabha
+b) Gram Panchayat
+c) State Government
+d) DRDA
+#QuestionEnd
+#AnswerStart
+Answer: b) Gram Panchayat
+#AnswerEnd
+
+#QuestionStart
+Q25) Who speaks of India’s self-reliant social system ‘The rural system in India is a tiny Republic’? [M.P.P.C.S. (Pre) 2020]
+a) Charles Metcalfe
+b) Burke
+c) Mill
+d) Cunningham
+#QuestionEnd
+#AnswerStart
+Answer: a) Charles Metcalfe
+#AnswerEnd
+
+#QuestionStart
+Q26) The Committee which recommended a three-tier Panchayati Raj System in India was: [M.P.P.C.S. (Pre) 2014]
+a) Ashok Mehta Committee
+b) Balwant Rai Mehta Committee
+c) G.K.V. Rao Committee
+d) L.M. Singhvi Committee
+#QuestionEnd
+#AnswerStart
+Answer: b) Balwant Rai Mehta Committee
+#AnswerEnd
+
+#QuestionStart
+Q27) The State Government controls over urban local bodies:
+(A) in legislative matters
+(B) in financial matters
+(C) in personnel matters
+(D) in respect of citizens’ grievances
+Select the correct answer from the codes given below. [Chhattisgarh P.C.S. (Pre) 2021]
+a) (A) and (B)
+b) (B)and(C)
+c) (B), (C) and (D)
+d) (A), (B) and (C)
+#QuestionEnd
+#AnswerStart
+Answer: d) (A), (B) and (C)
+#AnswerEnd
+
+#QuestionStart
+Q28) Which of the following pairs is/are correctly matched?
+A. Rationalization of Panchayat Statistics : V.R. Rao
+B. Panchayat Raj Training : A.S. Trivedi
+C. Working Group on Panchayats and Cooperative : S.D. Mishra
+D. Administrative Arrangement for Rural Development and Poverty Alleviation Programmes : G.V.K. Rao
+Code: [Chhattisgarh P.C.S. (Pre) 2021]
+a) (A), (C) and (D)
+b) Only (B)
+c) (A), (B) and (C)
+d) (A) and (B)
+#QuestionEnd
+#AnswerStart
+Answer: a) (A), (C) and (D)
+#AnswerEnd
+
+#QuestionStart
+Q29) Which of the following has been provided in the 74th Amendment Act, 1992 of the Constitution?
+(i) Municipal Committees
+(ii ) Ward Committees
+(ii i) Metropolitan Planning Committee
+(iv ) District Planning
+Select the correct answer from the codes given below. [Chhattisgarh P.C.S. (Pre) 2021]
+a) (i) and (iv)
+b) (i), (ii), (iii) and (iv)
+c) (i), (ii) and (iv)
+d) (ii), (iii) and (iv)
+#QuestionEnd
+#AnswerStart
+Answer: d) (ii), (iii) and (iv)
+#AnswerEnd
+
+#QuestionStart
+Q30) In the following questions, there are two statements. One is labelled as Assertion (A) and other is labelled as Reason (R):
+Assertion (A): Municipal corporations are formed in big cities having a definite area and population.
+Reason (R): Urban administrations of big cities are very complex in nature.
+In the context of the above two statements which of the following is correct? [Chhattisgarh P.C.S. (Pre) 2021]
+a) Both Assertion (A) and Reason (R) are true, and Reason (R) is correct explanation of Assertion (A)
+b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not correct explanation of Assertion (A)
+c) Assertion (A) is true, but Reason (R) is false
+d) Assertion (A) is false, but Reason (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Assertion (A) and Reason (R) are true, and Reason (R) is correct explanation of Assertion (A)
+#AnswerEnd
+
+#QuestionStart
+Q31) What is correct?
+(i) In a Gram Panchayat there can be more than one village.
+(ii ) Meeting of Gram Sabha held in each village.
+(ii i) Meeting of Gram Sabha held in the headquarter of Gram Panchayat.
+(iv ) Meeting of Gram Panchayat held in each village.
+(v) Meeting of Gram Panchayat held in the headquarter of Gram Panchayat.
+Code: [Chhattisgarh P.C.S. (Pre) 2018]
+a) (i), (iii), (iv)
+b) (ii), (iv), (v)
+c) (ii), (iii), (iv)
+d) (i), (ii), (v)
+#QuestionEnd
+#AnswerStart
+Answer: d) (i), (ii), (v)
+#AnswerEnd
+
+#QuestionStart
+Q32) If a candidate expired before polling in Panchayat election, then what shall happen?
+i. Polling shall be postponed.
+ii. Polling shall not be postponed.
+iii . If only one candidate remains, then polling will be postponed.
+iv. If more than one candidate remains, then polling will not be postponed.
+Code: [Chhattisgarh P.C.S. (Pre) 2017]
+a) i, ii
+b) ii, iii
+c) iii, iv
+d) ii, iv
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) iii, iv
+#AnswerEnd
+
+#QuestionStart
+Q33) What is correct about the tenure of municipal council?
+i. The tenure of municipal council is counted from the date of declaration of election result.
+ii. The tenure of the municipal council is counted from the date of its first meeting.
+iii . The tenure of municipal council is 5 years.
+iv. If the municipal council is dissolved in two years, then a new municipal council will be organised for three years.
+v. If the municipal council is dissolved in two years, then a new municipal council will be organised for 5 years.
+Code: [Chhattisgarh P.C.S. (Pre) 2017]
+a) i, iii, v
+b) ii, iii, iv
+c) i, iii, iv
+d) ii, iii, v
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) ii, iii, iv
+#AnswerEnd
+
+#QuestionStart
+Q34) What is correct about the wards committee of Nagar Panchayat?
+i. The Wards committee is formed with some wards of nagar Panchayat.
+ii. Councillor elected from the wards become its member.
+iii . Two persons are nominated in the committee residing in the ward.
+iv. Chairman of the wards committee is nominated by the President of nagar Panchayat.
+Code: [Chhattisgarh P.C.S. (Pre) 2017]
+a) i only
+b) i, ii only
+c) i, ii, iii only
+d) i, ii, iii, iv
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) i, ii, iii only
+#AnswerEnd
+
+#QuestionStart
+Q35) Who notify the alteration in limits of Block and Zila Panchayat? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Governor
+b) State Election Commission
+c) Divisional Commissioner
+d) Collector and District Returning Officer
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Governor
+#AnswerEnd
+
+#QuestionStart
+Q36) If there is dispute between Panchayat and Cantonment Board, who will decide finally? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Collector, subject to approval of Divisional Commissioner
+b) Divisional Commissioner, subject to approval of Panchayat and Rural Development Department
+c) Panchayat and Rural Development Department subject to approval of State Government
+d) State Government, subject to approval of Central Government
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) State Government, subject to approval of Central Government
+#AnswerEnd
+
+#QuestionStart
+Q37) What is correct about the powers of Zila Panchayats of Scheduled Areas? [Chhattisgarh P.C.S. (Pre) 2016]
+a) To plan minor water bodies
+b) To control over institutions in all social sectors
+c) To control on tribal sub plans
+d) To exercise other functions as conferred by the State Govt.
+e) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q38) Who presides over the meeting of Gram Sabha in Scheduled Areas? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Sarpanch
+b) Deputy Sarpanch
+c) Sarpanch or Deputy Sarpanch
+d) Schedule Tribe member present who is elected by Gram Sabha
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Schedule Tribe member present who is elected by Gram Sabha
+#AnswerEnd
+
+#QuestionStart
+Q39) Which of the following statements about the Panchayati Raj System are correct?
+1. All seats in a Panchayat are filled by persons chosen by direct election.
+2. The ‘Gram Sabha’ consists of persons registered in the village electoral rolls.
+3. The Chairperson of a Panchayat is elected in accordance with a law passed by each state.
+4. All states in India have a three-tier system of Panchayats.
+Select the correct answer using the codes given below: [CDS 2021(1)]
+a) 1 and 4
+b) 1, 2 and 3
+c) 2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q40) Which of the following statements is/are correct?
+1. The elections to the Panchayat are conducted by the State Election Commission.
+2. The State Election Commissioner is appointed by the Chief Election Commissioner of India.
+3. The State Legislatures have the power to make laws on all matters relating to Panchayat elections.
+Select the correct answer using the codes given below: [CDS 2021(1)]
+a) 2 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q41) Which one of the following is not an objective of MGNREGA?- [CDS 2020 (I)]
+a) Providing up to 100 days of skilled labour in a financial year
+b) Creation of productive assets
+c) Enhancing livelihood security
+d) Ensuring empowerment to women
+#QuestionEnd
+#AnswerStart
+Answer: a) Providing up to 100 days of skilled labour in a financial year
+#AnswerEnd
+
+#QuestionStart
+Q42) Which one of the following statements with regard to the functioning of the Panchayats is not correct? - [CDS 2020 (I)]
+a) Panchayats may levy, collect and appropriate taxes, duties, tolls, etc.
+b) A person who has attained the age of 25 years will be eligible to be a member of a Panchayat.
+c) Every Panchayat shall ordinarily continue for five years from the date of its first meeting.
+d) A Panchayat reconstituted after premature dissolution shall continue only for the remainder of the full period.
+#QuestionEnd
+#AnswerStart
+Answer: b) A person who has attained the age of 25 years will be eligible to be a member of a Panchayat.
+#AnswerEnd
+
+#QuestionStart
+Q43) The power to legislate on all matters relating to elections to Panchayats lies with- [CDS 2020 (I)]
+a) the Parliament of India
+b) the State Legislatures
+c) the State Election Commission
+d) the Election Commission of India
+#QuestionEnd
+#AnswerStart
+Answer: b) the State Legislatures
+#AnswerEnd
+
+#QuestionStart
+Q44) The 11th Schedule of the Constitution of India distributes powers between- [CDS 2020 (I)]
+a) the Union and the State Legislatures
+b) the State Legislatures and the Panchayat
+c) the Municipal Corporation and the Panchayat
+d) the Gram Sabha and the Panchayat
+#QuestionEnd
+#AnswerStart
+Answer: b) the State Legislatures and the Panchayat
+#AnswerEnd
+
+#QuestionStart
+Q45) Which one of the following regarding the tenure of the elected members of the Autonomous District Council is correct [CDS Pre.2018 II]
+a) Five years from the date of election
+b) Five years from the date appointed for the first meeting of the council after the election
+c) Six years from the date of administration of oath
+d) Six years from the date of election
+#QuestionEnd
+#AnswerStart
+Answer: b) Five years from the date appointed for the first meeting of the council after the election
+#AnswerEnd
+
+#QuestionStart
+Q46) Which of the following statements about the 73rd and 74th Constitution Amendment Act is/are correct?
+1. It makes it mandatory for all states to establish a three-tier system of Government.
+2. Representatives should be directly elected for five years.
+3. There should be mandatory reservation of one-third of all seats in all Panchayats at all levels for women.
+Select the correct answer using the codes given below: [CDS Pre.2017 II]
+a) 1 and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) Only 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q47) Which of the following statements with regard to Panchayats in India are correct?
+1. Seats in a Panchayat are filled by direct election from the territorial constituencies in the Panchayat area.
+2. The Gram Sabha is the body of persons registered in the electoral rolls relating to a village within the Panchayat area.
+3. The Panchayats work on the principle of constitutional autonomy.
+4. The State Legislature may by law endow the Panchayats with the power and authority to enable them to function.
+Select the correct answer using the codes given below: [CDS Pre.2017 I]
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1, 2 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q48) The Constitution of India contains no provision for the Constitution of municipalities in every state for [CAPF 2021]
+a) a Nagar Panchayat
+b) a Municipal Council
+c) a Municipal Corporation
+d) an Urban Panchayat
+#QuestionEnd
+#AnswerStart
+Answer: d) an Urban Panchayat
+#AnswerEnd
+
+#QuestionStart
+Q49) Which of the following is/are correct in relation to the Panchayats?
+1. Only the Parliament may endow Panchayats with powers and authority.
+2. A state may devolve powers to Panchayats in preparation of plans for economic development and social justice.
+3. A state may devolve powers to Panchayats in implementation of schemes for economic development and social justice.
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1 only
+b) 1 and 3
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following States does not find a mention in Article 371 of the Constitution of India? [CAPF 2018]
+a) Maharashtra
+b) Madhya Pradesh
+c) Gujarat
+d) Karnataka
+#QuestionEnd
+#AnswerStart
+Answer: b) Madhya Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q51) Which one of the following statements with regard to Panchayats is not correct? [CAPF 2018]
+a) Members of Panchayats are elected directly by the Gram Sabha
+b) The elections to Panchayats are conducted by the State Election Commission
+c) The Central Government may by law authorise a Panchayat to levy taxes
+d) Every Panchayat continues for five years from the date of convening of its first meeting
+#QuestionEnd
+#AnswerStart
+Answer: c) The Central Government may by law authorise a Panchayat to levy taxes
+#AnswerEnd
+
+#QuestionStart
+Q52) Who among the following may be the Chairman of the Zila Parishad? [CAPF 2016]
+a) Chief Minister
+b) District Collector
+c) Member of Parliament in the District
+d) Elected from its own members
+#QuestionEnd
+#AnswerStart
+Answer: d) Elected from its own members
+#AnswerEnd
+
+#QuestionStart
+Q53) Which of the following reasons were cited by the Ashok Mehta Committee for the decline of the Panchayati Raj Institutions in India? [CAPF 2015]
+1. Role of Bureaucracy
+2. Lack of Political Will
+3. Lack of conceptual clarity
+4. Lack of gender parity
+Select the correct answer using the code given below.
+a) 1 and 4
+b) 2 and 3
+c) 1, 2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q54) Which of the following statements is true? [CAPF 2014]
+a) The Panchayat system exists in all states of India except Nagaland, Meghalaya and Mizoram. It also exists in all Union Territories except Delhi.
+b) The Panchayat system is introduced in India by the Constitution 74th Amendment Act and envisages a three-tier system of Local Governance.
+c) Panchayat system is not provided for states having less than 2 million population.
+d) Gram Panchayat can continue for 3 years from the date of election.
+#QuestionEnd
+#AnswerStart
+Answer: a) The Panchayat system exists in all states of India except Nagaland, Meghalaya and Mizoram. It also exists in all Union Territories except Delhi.
+#AnswerEnd
+
+#QuestionStart
+Q55) Which of the following is/are true regarding Urban Local Bodies in India?
+1. The Constitution 74th Amendment Act envisages three types of urban local bodies, namely Municipal Corporation, Municipality and City Council.
+2. Municipal Corporations are established in cities with population greater than 1 million.
+3. Bombay and Calcutta Corporations were the first Municipal Corporations that were established during British time.
+Select the correct answer using the codes given below. [CAPF 2014]
+Codes:
+a) 1 and 2
+b) Only 2
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 ( ⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q56) The Members of Panchayat Samiti are- [Jharkhand P.C.S. (Pre) 2011]
+a) Directly elected by the public
+b) Elected by the members of Panchayat
+c) Nominated by District Magistrate
+d) Recruited on the basis of open competition
+#QuestionEnd
+#AnswerStart
+Answer: a) Directly elected by the public
+#AnswerEnd

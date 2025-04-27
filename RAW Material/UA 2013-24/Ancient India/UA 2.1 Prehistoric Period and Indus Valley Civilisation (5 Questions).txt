@@ -1,0 +1,68 @@
+#QuestionStart
+Q1) Consider the following information: (2024)
+| Archaeological Site | State | Description |
+|---|---|---|
+| 1. Chandraketugarh | Odisha | Trading Port Town |
+| 2. Inamgaon | Maharashtra | Chalcolithic site |
+| 3. Mangadu | Kerala | Megalithic site |
+| 4. Salihundam | Andhra Pradesh | Rock-cut cave Shrines |
+In which of the above rows is the given information correctly matched?
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs? (2021)
+a) Dholavira
+b) Kalibangan
+c) Rakhigarhi
+d) Ropar
+#QuestionEnd
+#AnswerStart
+Answer: a) Dholavira
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following is not a Harappan site? (2019)
+a) Chanhudaro
+b) Kot Diji
+c) Sohgaura
+d) Desalpur
+#QuestionEnd
+#AnswerStart
+Answer: c) Sohgaura
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following characterises/ characterise the people of the Indus Civilization? (2013)
+1. They possessed great palaces and temples.
+2. They worshipped both male and female deities.
+3. They employed horse-drawn chariots in warfare.
+Select the correct statement/statements using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1, 2 and 3
+d) None of the statements given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Regarding the Indus Valley Civilization, consider the following statements:(2011)
+1. It was predominantly a secular civilization and the religious element, though present, did not dominate the scene.
+2. During this period, cotton was used for manufacturing textiles in India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd

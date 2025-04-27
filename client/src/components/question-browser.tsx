@@ -1,6 +1,8 @@
 import { useCallback, useEffect, useState, useMemo } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { Question, QuestionWithTags, Test, TestWithStats, Tag } from "@shared/schema";
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -355,7 +357,8 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
   }
   
   // Safely access question properties with fallbacks
-  const questionNumber = question.questionNumber || '?';
+  // Handle 0 as a valid question number, show '?' only if null/undefined
+  const questionNumber = (question.questionNumber !== null && question.questionNumber !== undefined) ? question.questionNumber : '?';
   const questionText = question.questionText || 'No question text available';
   const testId = question.testId || 0;
   const questionId = question.id || 0;
@@ -396,7 +399,9 @@ function QuestionCard({ question }: { question: QuestionWithTags }) {
           Q{questionNumber})
         </div>
         
-        <div className="line-clamp-3 mb-2 text-sm">{questionText}</div>
+        <div className="line-clamp-3 mb-2 text-sm prose dark:prose-invert max-w-none">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{questionText}</ReactMarkdown>
+        </div>
         
         <div className="flex flex-wrap mt-2 gap-2">
           {renderTags()}

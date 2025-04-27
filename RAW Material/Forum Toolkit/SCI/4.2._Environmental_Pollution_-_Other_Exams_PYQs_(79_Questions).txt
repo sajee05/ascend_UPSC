@@ -1,0 +1,1164 @@
+#QuestionStart
+Q21) It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry? [UPSC CSE Pre. 2017]
+1. Production of algae based biofuels is possible in seas only and not on continents.
+2. Setting up and engineering the algae based biofuels production requires high level of expertise/ technology until the construction is complete.
+3. Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q22) In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique? [UPSC CSE Pre. 2017]
+1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.
+2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.
+3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why? [UPSC CSE Pre. 2014]
+1. They can accumulate in the environment and contaminate water and soil.
+2. They can enter the food chains.
+3. They can trigger the production of free radicals.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q24) Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use? [UPSC CSE Pre. 2014]
+1. They are highly resistant to degradation in the environment.
+2. They are able to accumulate in humans and animals.
+Select the correct answer using thp code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q25) With reference to Neem tree, consider the following statements: [UPSC CSE Pre. 2014]
+1. Neem oil can be used as a pesticide to control the proliferation of some species of insects and mites.
+2. Neem seeds are used in the manufacture of biofuels and hospital detergents.
+3. Neem oil has applications in pharmaceutical industry.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q26) With reference to the usefulness of the byproducts of sugar industry, which of the following statements is/are correct? [UPSC CSE Pre. 2013]
+1. Bagasse can be used as biomass fuel for the generation of energy.
+2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers.
+3. Molasses can be used for the production of ethanol.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q27) Which of the following can be found as pollutants in the drinking water in some parts of India? [UPSC CSE Pre. 2013]
+1. Arsenic
+2. Sorbitol
+3. Fluoride
+4. Formaldehyde
+5. Uranium
+Select the correct answer using the codes given below:
+a) 1 and 3 only
+b) 2, 4 and 5 only
+c) 1, 3 and 5 only
+d) 1,2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q28) Due to improper/indiscriminate disposal of hold and used computers or their parts, which of the following are released into the environment as e-waste? [UPSC CSE Pre. 2013]
+1. Beryllium
+2. Cadmium
+3. Chromium
+4. Heptachlor
+5. Mercury
+6. Lead
+7. Plutonium
+Select the correct answer using the codes given below:
+a) 1, 3, 4, 6 and 7 only
+b) 1, 2, 3, 5 and 6 only
+c) 2, 4, 5 and 7 only
+d) 1, 2, 3, 4, 5, 6 and 7
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2, 3, 5 and 6 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning? [UPSC CSE Pre. 2012]
+1. Smelting units
+2. Pens and pencils
+3. Paints
+4. Hair oils and cosmetics
+Select the correct answer using the codes given below:
+a) 1,2 and 3 only
+b) 1 and 3 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q30) Vultures which used to be very common in Indian countryside some years ago are rarely seen nowadays. This is attributed to [UPSC CSE Pre. 2012]
+a) The destruction of their nesting sites by new invasive species.
+b) A drug used by cattle owners for treating their diseased cattle.
+c) Scarcity of food available to them.
+d) A widespread, persistent and fatal disease among them.
+#QuestionEnd
+#AnswerStart
+Answer: b) A drug used by cattle owners for treating their diseased cattle.
+#AnswerEnd
+
+#QuestionStart
+Q31) Biomass gasification is considered to be one of the sustainable solutions to the power crisis in India. In this context, which of the following statements is/are correct? [UPSC CSE Pre. 2012]
+1. Coconut shells, groundnut shells and rice husk can be used in biomass gasification.
+2. The combustible gases generated consist of hydrogen and carbon dioxide only.
+3. The combustible gases generated from biomass gasification can be used for direct heat generation but not in internal combustion engines.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q32) There is a concern over the increase in harmful algal blooms in the seawaters of India. What could be the causative factors for this phenomenon? [UPSC CSE Pre. 2011]
+1. Discharge of nutrients from the estuaries.
+2. Run-off from the land during the monsoon.
+3. Upwelling in the seas.
+Select the correct answer from the codes given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q33) Consider the following: [UPSC CSE Pre. 2011]
+1. Carbon dioxide
+2. Oxides of Nitrogen
+3. Oxides of Sulphur
+Which of the above is/are the emission/ emissions from coal combustion at thermal power plants?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q34) Recently, “oilzapper” was in the news. What is it? [UPSC CSE Pre. 2011]
+a) It is an eco-friendly technology for the remediation of oily sludge and oil spills.
+b) It is the latest technology developed for under-sea oil exploration.
+c) It is a genetically engineered high biofuelyielding maize variety.
+d) It is the latest technology to control the accidentally caused flames from oil wells.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is an eco-friendly technology for the remediation of oily sludge and oil spills.
+#AnswerEnd
+
+#QuestionStart
+Q35) Given below are the names of four energy crops. Which one of them can be cultivated for ethanol? [UPSC CSE Pre 2010]
+a) Jatropha
+b) Maize
+c) Pongamia
+d) Sunflower
+#QuestionEnd
+#AnswerStart
+Answer: b) Maize
+#AnswerEnd
+
+#QuestionStart
+Q36) Other than Jatropha curcas, why is Pongamia pinnata also considered a good option for the production of biodiesel in India?
+1. Pongamia pinnata grows naturally in most of the arid regions of India.
+2. The seeds of Pongamia pinnata are rich in lipid content of which nearly half is oleic acid.
+Which of the statements given above are/is correct? [UPSC CSE Pre 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following statements:
+1. Assertion (A): Coal-based thermal power stations contribute to acid rain.
+2. Reason (R): Oxides of carbon are emitted when coal burns.
+Code: [UPSC CSE Pre 2003]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is false, but (R) is true.
+d) (A) is true, but (R) is false.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q38) Which of the following is produced during the formation of photochemical smog? [UPSC CSE Pre 2003]
+a) Hydrocarbons
+b) Nitrogen Oxides
+c) Ozone
+d) Methane
+#QuestionEnd
+#AnswerStart
+Answer: b) Nitrogen Oxides
+#AnswerEnd
+
+#QuestionStart
+Q39) Consider the following statements:
+1. Gujarat has the largest solar park in India.
+2. Kerala has a fully solar powered International Airport.
+3. Goa has the largest floating solar photovoltaic project in India.
+Which of the statements given above is/are correct? [U.P.P.C.S. (Pre) 2022]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q40) Which one of the following Watershed Development Projects sponsored by the Central Government of India which aims at enabling the rural population to conserve the water? [U.P.P.C.S. (Pre) 2022]
+a) Pani Sansad
+b) Hariyali
+c) Jal Kranti
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Hariyali
+#AnswerEnd
+
+#QuestionStart
+Q41) Which country has natural arsenic water contamination? [U.P.P.C.S. (Pre) 2022]
+a) Bangladesh
+b) Pakistan
+c) Sri Lanka
+d) Bhutan
+#QuestionEnd
+#AnswerStart
+Answer: a) Bangladesh
+#AnswerEnd
+
+#QuestionStart
+Q42) ‘Ringelmann scale’ is used to measure density of- [U.P.P.C.S. (Pre) 2021]
+a) Smoke
+b) Polluted water
+c) Fog
+d) Noise
+#QuestionEnd
+#AnswerStart
+Answer: a) Smoke
+#AnswerEnd
+
+#QuestionStart
+Q43) At which of the following places is the Secretariat of the International Solar Alliance (I.S.A.) located at present? [U.P.P.C.S. (Pre) 2019]
+a) Paris
+b) New Delhi
+c) Gurugram
+d) New York
+#QuestionEnd
+#AnswerStart
+Answer: c) Gurugram
+#AnswerEnd
+
+#QuestionStart
+Q44) With reference to Eutrophication, which of the following statements is/are correct?
+1. It is a phenomenon of nutrient enrichment of a water body.
+2. It depletes dissolved oxygen of the water.
+Select the correct answer using codes given below: [U.P.P.C.S. (Pre) 2019]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q45) Smog is essentially caused by the atmospheric presence of: [U.P.P.C.S. (Pre) 2019]
+a) Oxygen and ozone
+b) Ozone and nitrogen
+c) Oxygen and nitrogen
+d) Oxide of nitrogen and Sulphur
+#QuestionEnd
+#AnswerStart
+Answer: d) Oxide of nitrogen and Sulphur
+#AnswerEnd
+
+#QuestionStart
+Q46) Which among the following places was the first 100 percent Organic State in the world? [U.P.P.C.S. (Pre) 2019]
+a) Queensland (Australia)
+b) California (United States of America)
+c) Sikkim (India)
+d) Quebec (Canada)
+#QuestionEnd
+#AnswerStart
+Answer: c) Sikkim (India)
+#AnswerEnd
+
+#QuestionStart
+Q47) Incinerators are used for which of the following? [U.P.P.C.S. (Pre) 2018]
+a) Burning wastes
+b) Putting wastes into them
+c) For cutting green trees
+d) For making fertilizers
+#QuestionEnd
+#AnswerStart
+Answer: a) Burning wastes
+#AnswerEnd
+
+#QuestionStart
+Q48) Which of the following represents the decibel level of rusting of tree leaves in normal circumstance? [U.P.P.C.S. (Pre) 2018]
+a) 10 db
+b) 20 db
+c) 60 db
+d) 100 db
+#QuestionEnd
+#AnswerStart
+Answer: b) 20 db
+#AnswerEnd
+
+#QuestionStart
+Q49) A powerful eye irritant in the smoke is-[U.P.P.C.S. (Pre) 2018]
+a) Ozone
+b) Sulphur dioxide
+c) Carbon dioxide
+d) Peroxyacetyl nitrate
+#QuestionEnd
+#AnswerStart
+Answer: d) Peroxyacetyl nitrate
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following fuels creates the least pollution? [U.P.P.C.S. (Pre) 2017]
+a) Diesel
+b) Coal
+c) Hydrogen
+d) Kerosene
+#QuestionEnd
+#AnswerStart
+Answer: c) Hydrogen
+#AnswerEnd
+
+#QuestionStart
+Q51) The size of the Respirable suspended Particulate Matter (RSPM) in air is: [U.P.P.C.S. (Pre) 2017]
+a) more than 7 pm (microne)
+b) more than 6 pm (microne)
+c) more than 5 pm (microne)
+d) less than 5 pm (microne)
+#QuestionEnd
+#AnswerStart
+Answer: d) less than 5 pm (microne)
+#AnswerEnd
+
+#QuestionStart
+Q52) Which of the following is NOT correctly matched? [U.P.P.C.S. (Pre) 2017]
+| (Pollutant) : | (Disease caused) |
+|---|---|
+| (a) Mercury : | Minamata disease |
+| (b) Cadmium : | Itai-Itai disease |
+| (c) Nitrate Ion : | Blue baby syndrome |
+| (d) Fluoride Ion : | Indigestion |
+#QuestionEnd
+#AnswerStart
+Answer: d) Fluoride Ion : Indigestion
+#AnswerEnd
+
+#QuestionStart
+Q53) In which of the following areas of India geothermal energy sources have NOT been found? [U.P.P.C.S. (Mains) 2016]
+a) Godavari Delta
+b) Ganga Delta
+c) Himalayas
+d) West Coast
+#QuestionEnd
+#AnswerStart
+Answer: b) Ganga Delta
+#AnswerEnd
+
+#QuestionStart
+Q54) Which of the following is a biodegradable pollutant? [U.P.P.C.S. (Mains) 2016]
+a) Sewage
+b) Asbestos
+c) Plastic
+d) Polythene
+#QuestionEnd
+#AnswerStart
+Answer: a) Sewage
+#AnswerEnd
+
+#QuestionStart
+Q55) Indiscriminate use of fertilizers has led to: [U.P.P.C.S. (Pre) 2016]
+a) Soil Pollution
+b) Water pollution
+c) Air pollution
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q56) Which of the following is/are used as a disinfectant of water? [U.P.P.C.S. (Pre) 2016]
+a) Ozone
+b) Chlorine dioxide
+c) Chloramine
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q57) Cigarette smoke contains- [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Carbon monoxide dioxycine
+b) Carbon monoxide and nicotine
+c) Carbon monoxide and Benzene
+d) Dioxycine and Benzene
+#QuestionEnd
+#AnswerStart
+Answer: c) Carbon monoxide and Benzene
+#AnswerEnd
+
+#QuestionStart
+Q58) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | o«n |
+|---|---|
+| A. Minerals | 1. Rainfall |
+| B. Solar Energy | 2. Methane and Carbon dioxide |
+| C. Biogas | 3. Exhaustible |
+| D. Deforestation | 4. Inexhaustible |
+Code: [U.P.P.C.S. (Pre) 2015]
+a) A3, B4, C2, D1
+b) A3, B4, C1, D2
+c) A2, B1, C3, D4
+d) A1, B2, C3, D4
+#QuestionEnd
+#AnswerStart
+Answer: a) A3, B4, C2, D1
+#AnswerEnd
+
+#QuestionStart
+Q59) The problem of water pollution with Arsenic is maximum in- [U.P.P.C.S. (Pre) (Re. Exam.) 2015]
+a) Haryana
+b) Rajasthan
+c) Madhya Pradesh
+d) West Bengal
+#QuestionEnd
+#AnswerStart
+Answer: d) West Bengal
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following energy sources is most eco-friendly? [U.P.P.C.S. (Pre) 2015]
+a) Petroleum Product
+b) Forest Product
+c) Nuclear Fission
+d) Solar Cell
+#QuestionEnd
+#AnswerStart
+Answer: d) Solar Cell
+#AnswerEnd
+
+#QuestionStart
+Q61) Which of the following statements about biofuel is NOT correct? [U.P.P.C.S. (Mains) 2014]
+a) Biofuel is eco-friendly.
+b) Biofuel is cost-effective,
+c) Biofuel can contribute to remedy energy crisis.
+d) Biofuel is also made from corn.
+#QuestionEnd
+#AnswerStart
+Answer: b) Biofuel is cost-effective,
+#AnswerEnd
+
+#QuestionStart
+Q62) Green Muffler is related to- [U.P.P.C.S. (Pre) 2014]
+a) Soil pollution
+b) Air pollution
+c) Noise pollution
+d) Water pollution
+#QuestionEnd
+#AnswerStart
+Answer: c) Noise pollution
+#AnswerEnd
+
+#QuestionStart
+Q63) Which one of the following is NOT a secondary pollutant? [U.P.P.C.S. (Pre) 2014]
+a) PAN (Peroxyacetyl Nitrates)
+b) Smog
+c) Sulphur dioxide
+d) Ozone
+#QuestionEnd
+#AnswerStart
+Answer: c) Sulphur dioxide
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following air pollutants can affect bloodstream leading to death? [U.P.P.C.S. (Pre) 2013]
+a) Asbestos dust
+b) Cadmium
+c) Nitrogen oxides
+d) Carbon monoxide
+#QuestionEnd
+#AnswerStart
+Answer: d) Carbon monoxide
+#AnswerEnd
+
+#QuestionStart
+Q65) Which one of the following is NOT an instrumental device to check air pollution? [U.P.P.C.S. (Mains) 2013]
+a) Bag Filter
+b) Cyclone Collector
+c) Cyclone Separator
+d) Cyclone Divider
+#QuestionEnd
+#AnswerStart
+Answer: d) Cyclone Divider
+#AnswerEnd
+
+#QuestionStart
+Q66) Which one of the following is NOT related to air pollution? [U.P.P.C.S. (Mains) 2013]
+a) Smog
+b) Acid Rain
+c) Eutrophication
+d) Asbestosis
+#QuestionEnd
+#AnswerStart
+Answer: c) Eutrophication
+#AnswerEnd
+
+#QuestionStart
+Q67) Which one of the following is a bioindicator of air pollution? [U.P.P.C.S. (Pre) 2013]
+a) Lichen
+b) Fern
+c) Money plant
+d) Dodder
+#QuestionEnd
+#AnswerStart
+Answer: a) Lichen
+#AnswerEnd
+
+#QuestionStart
+Q68) Which one of the following gases is used for the purification of drinking water? [U.P.P.C.S. (Pre) 2013]
+a) Sulphur dioxide
+b) Chlorine
+c) Fluorine
+d) Carbon dioxide
+#QuestionEnd
+#AnswerStart
+Answer: b) Chlorine
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following is the best source of generating electricity in India from the viewpoint of sustainable development? [U.P.P.C.S. (Pre) 2012]
+a) Coal
+b) Mineral oil and gas
+c) Hydroelectricity
+d) Atomic energy
+#QuestionEnd
+#AnswerStart
+Answer: c) Hydroelectricity
+#AnswerEnd
+
+#QuestionStart
+Q70) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Air Pollutant) | List-II (Part affected) |
+|---|---|
+| A. Asbestos Dust | 1. Brain |
+| B. Lead | 2. Stomach |
+| C. Mercury | 3. Lung |
+| D. Carbon Monoxide | 4. Bloodstream |
+Code: [U.P.P.C.S. (Pre) 2012]
+a) A1, B2, C3, D4
+b) A3, B1, C2, D4
+c) A3, B2, C4, D1
+d) A2, B3, C1, D4
+#QuestionEnd
+#AnswerStart
+Answer: b) A3, B1, C2, D4
+#AnswerEnd
+
+#QuestionStart
+Q71) The non-biotic pollutant in underground water is- [U.P.P.C.S. (Pre) 2012]
+a) Bacteria
+b) Algae
+c) Arsenic
+d) Viruses
+#QuestionEnd
+#AnswerStart
+Answer: c) Arsenic
+#AnswerEnd
+
+#QuestionStart
+Q72) Which of the following rivers is called ‘biological desert’ on account of its pollutants? [U.P.P.C.S. (Pre) 2012]
+a) Yamuna
+b) Periyar
+c) Damodar
+d) Mahanadi
+#QuestionEnd
+#AnswerStart
+Answer: c) Damodar
+#AnswerEnd
+
+#QuestionStart
+Q73) The combustion of coal, petrol and diesel etc. is the basic source of- [U.P.P.C.S. (Mains) 2011]
+a) Water pollution
+b) Land pollution
+c) Air pollution
+d) Noise pollution
+#QuestionEnd
+#AnswerStart
+Answer: c) Air pollution
+#AnswerEnd
+
+#QuestionStart
+Q74) Which one of the following is an air pollutant gas and is released by burning fossil fuel? [U.P.P.C.S. (Mains) 2011]
+a) Hydrogen
+b) Nitrogen
+c) Oxygen
+d) Sulphur dioxide
+#QuestionEnd
+#AnswerStart
+Answer: d) Sulphur dioxide
+#AnswerEnd
+
+#QuestionStart
+Q75) Which of the following is not a water pollutant? [U.P.P.C.S. (Mains) 2011]
+a) Zinc
+b) Copper
+c) Nickel
+d) Sulphur Dioxide
+#QuestionEnd
+#AnswerStart
+Answer: d) Sulphur Dioxide
+#AnswerEnd
+
+#QuestionStart
+Q76) The ‘World Water Day’ is celebrated on: [U.P.P.C.S. (Pre) 2011]
+a) 28 February
+b) 22 March
+c) 5 June
+d) 11 July
+#QuestionEnd
+#AnswerStart
+Answer: b) 22 March
+#AnswerEnd
+
+#QuestionStart
+Q77) Which one of the following sources of renewable energy has the greatest potential in India? [U.P.P.C.S. (Mains) 2011]
+a) Solar power
+b) Biomass power
+c) Small hydel power
+d) Energy recovery from waste
+#QuestionEnd
+#AnswerStart
+Answer: a) Solar power
+#AnswerEnd
+
+#QuestionStart
+Q78) Which of the following statements about Radioactive pollution are correct?
+1. It causes a hereditary change in the animals.
+2. It causes disbalance among different minerals in the soil.
+3. It hinders blood circulation.
+4. It causes carcinogenesis.
+Select the correct answer from codes given below: [U.P.P.C.S. (Pre) 2009]
+a) 1 and 2 only
+b) 1 and 4 only
+c) 1,3 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q79) The most toxic metal pollutant of automobile exhaust is- [U.P.P.C.S. (Mains) 2009]
+a) Copper
+b) Lead
+c) Cadmium
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Lead
+#AnswerEnd
+
+#QuestionStart
+Q80) Bhopal Gas Tragedy was caused due to the leakage of: [UP Lower Sub. (Pre) 2002, U.P.P.C.S. (Pre) 2008]
+a) Methyl Isocyanate
+b) Nitrogen
+c) Sulphur dioxide
+d) Carbon monoxide
+#QuestionEnd
+#AnswerStart
+Answer: a) Methyl Isocyanate
+#AnswerEnd
+
+#QuestionStart
+Q81) Match list-I with list-II and select the correct answer using the codes given below the lists
+| List-I | List-II |
+|---|---|
+| A. Carbon Monoxide | 1. Damage to liver and kidney |
+| B. Oxides of Nitrogen | 2. Cancer |
+| C. Soil Particles | 3. Ailment related to breathing |
+| D. Lead | 4. Central nervous system |
+Code: [U.P.P.C.S. (Pre) 2008] (⭐ please re-check)
+a) A2, B3, C4, D1
+b) A4, B3, C2, D1
+c) A1, B2, C3, D4
+d) A4, B3, C1, D2
+#QuestionEnd
+#AnswerStart
+Answer: c) A1, B2, C3, D4
+#AnswerEnd
+
+#QuestionStart
+Q82) Tree useful for prevention of dust pollution [U.P.P.C.S. (Pre) 2007]
+a) Sita Ashok
+b) Mahua
+c) Poplar
+d) Neem
+#QuestionEnd
+#AnswerStart
+Answer: a) Sita Ashok
+#AnswerEnd
+
+#QuestionStart
+Q83) Polythene bags cannot be destroyed because they are made of- [U.P.P.C.S. (Pre) 2007]
+a) Unbreakable molecules
+b) Inorganic compounds
+c) Polymers
+d) Proteins
+#QuestionEnd
+#AnswerStart
+Answer: c) Polymers
+#AnswerEnd
+
+#QuestionStart
+Q84) A water body having high B.O.D. indicates that its water is- [U.P.P.C.S. (Pre) 2007]
+a) Receiving minerals
+b) Being aerated
+c) Being contaminated by sewage
+d) Atrophic
+#QuestionEnd
+#AnswerStart
+Answer: c) Being contaminated by sewage
+#AnswerEnd
+
+#QuestionStart
+Q85) The highest chemical pollution is caused by the industrial effluents of: [U.P.P.C.S. (Pre) 2005]
+a) Leather industry
+b) Paper industry
+c) Rayon industry
+d) Textile industry
+#QuestionEnd
+#AnswerStart
+Answer: a) Leather industry
+#AnswerEnd
+
+#QuestionStart
+Q86) The arsenic contamination of drinking water is highest in- [U.P.P.C.S. (Pre) 2005]
+a) Chennai
+b) Kanpur
+c) Kolkata
+d) Mumbai
+#QuestionEnd
+#AnswerStart
+Answer: c) Kolkata
+#AnswerEnd
+
+#QuestionStart
+Q87) ‘Fly-Ash’, a well-known pollutant is produced by- [U.P.P.C.S. (Mains) 2004]
+a) Oil refinery
+b) Fertilizer Plant
+c) Cement Plant
+d) Thermal Power Plant
+#QuestionEnd
+#AnswerStart
+Answer: d) Thermal Power Plant
+#AnswerEnd
+
+#QuestionStart
+Q88) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Skin Cancer | 1. Chlorofluorocarbon |
+| B. Noise Pollution | 2. Ultraviolet Light |
+| C. Global Warming | 3. Decibel |
+| D. Ozone Hole | 4. Carbon dioxide |
+Code: [U.R Lower Sub. (Pre) 2015]
+a) A1, B2, C3, D4
+b) A2, B3, C4, D1
+c) A2, B3, C1, D4
+d) A4, B3, C2, D1
+#QuestionEnd
+#AnswerStart
+Answer: b) A2, B3, C4, D1
+#AnswerEnd
+
+#QuestionStart
+Q89) Under the Nuclear Power Projects, Environmental Effects that have to be studied and resolved are- [U.P. Lower Sub. (Pre) 2013]
+a) Radioactive contamination of air, soil and water.
+b) Deforestation and loss of flora and fauna.
+c) Radioactive waste disposal.
+d) All of the above.
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above.
+#AnswerEnd
+
+#QuestionStart
+Q90) Consider the following statements:
+1. Assertion (A): During winter, air pollution in Delhi reaches to the maximum level.
+2. Reason (R): Combustion process in motor vehicles increases during winter.
+Code: [U.P. Lower Sub. (Pre) 2004]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q91) Which of the following is the reason behind the maximum noise pollution? [U.P. Lower Sub. (Pre) 2003]
+a) Heavy Traffic
+b) Election Meetings
+c) Rock Music
+d) Jet Flight
+#QuestionEnd
+#AnswerStart
+Answer: d) Jet Flight
+#AnswerEnd
+
+#QuestionStart
+Q92) Which of the following statements is incorrect in reference to compost? [R.A.S./R.T.S. (Pre) 2018]
+a) In this, biodegradable waste is decomposed in pits.
+b) It is rich in organic matter and nutrients.
+c) The process of decomposition in pits is slowed down by earthworms.
+d) The waste material decomposed is farm waste material like livestock excreta, vegetable waste etc.
+#QuestionEnd
+#AnswerStart
+Answer: c) The process of decomposition in pits is slowed down by earthworms.
+#AnswerEnd
+
+#QuestionStart
+Q93) Bioremediation means: [R.A.S./R.T.S. (Pre) 2007]
+a) Elimination of toxic pollutant from the environment by organisms
+b) Biocontrol of pathogens and pests
+c) Transplantation of organs in the body
+d) Diagnosis of diseases by the help of microorganisms
+#QuestionEnd
+#AnswerStart
+Answer: a) Elimination of toxic pollutant from the environment by organisms
+#AnswerEnd
+
+#QuestionStart
+Q94) ‘Knock-Knee Syndrome’ is caused by the pollution of- [M.P.P.C.S. (Pre) 2019]
+a) Mercury
+b) Lead
+c) Arsenic
+d) Fluoride
+#QuestionEnd
+#AnswerStart
+Answer: d) Fluoride
+#AnswerEnd
+
+#QuestionStart
+Q95) Which one of the following is a renewable source of energy? [M.P.P.C.S. (Pre) 2016]
+a) Coal
+b) Nuclear energy
+c) Petrol
+d) Solar energy
+#QuestionEnd
+#AnswerStart
+Answer: d) Solar energy
+#AnswerEnd
+
+#QuestionStart
+Q96) Which one of the following is not fossil fuel? [M.P.P.C.S. (Pre) 2016]
+a) Coal
+b) Petroleum
+c) Natural gas
+d) Uranium
+#QuestionEnd
+#AnswerStart
+Answer: d) Uranium
+#AnswerEnd
+
+#QuestionStart
+Q97) Combustion of petrol in automobiles pollutes the air by producing the following metal: [Chhattisgarh P.C.S. (Pre) 2015]
+a) Mercury
+b) Cadmium
+c) Lead
+d) Carbon Dioxide
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Lead
+#AnswerEnd
+
+#QuestionStart
+Q98) The most important indoor air pollutant is-[Chhattisgarh P.C.S. (Pre) 2015]
+a) Sulphur Dioxide
+b) Carbon Dioxide
+c) Nitrogen Dioxide
+d) Radon gas
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: d) Radon gas
+#AnswerEnd
+
+#QuestionStart
+Q99) Chernobyl accident is related with-[Chhattisgarh P.C.S. (Pre) 2015]
+a) Nuclear accident
+b) Earthquake
+c) Flood
+d) Acid rain
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Nuclear accident
+#AnswerEnd
+
+#QuestionStart
+Q100) Which of the following is a renewable source of energy? [CGPSC (Pre) 2018]
+a) Coal
+b) Petroleum
+c) Biomass
+d) Kerosene
+#QuestionEnd
+#AnswerStart
+Answer: c) Biomass
+#AnswerEnd
+
+#QuestionStart
+Q101) The major component of CNG is: [66th BPSC (Re-Exam) (Pre) 2020]
+a) CO₂
+b) N₂
+c) H₂
+d) CH₄
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) CH₄
+#AnswerEnd
+
+#QuestionStart
+Q102) In- which year ‘The Air (Prevention and Control of Pollution) Act’ was enacted? [Uttarakhand PCS (Pre) 2021]
+a) 1980
+b) 1974
+c) 1981
+d) 1986
+#QuestionEnd
+#AnswerStart
+Answer: c) 1981
+#AnswerEnd
+
+#QuestionStart
+Q103) Pollutant emission gas in vehicle exhaust is mainly— [Uttarakhand P.C.S. (Pre) 2002, 44th B.P.S.C. (Pre) 2000]
+a) Carbon dioxide
+b) Carbon monoxide
+c) Marsh gas
+d) Nitrogen oxide
+#QuestionEnd
+#AnswerStart
+Answer: b) Carbon monoxide
+#AnswerEnd
+
+#QuestionStart
+Q104) Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen carrying capacity, leading to suffocation and may cause even death? [CDS 2016 (II)]
+a) Chlorofluorocarbon
+b) Fly ash
+c) Carbon monoxide
+d) Sulphur dioxide
+#QuestionEnd
+#AnswerStart
+Answer: c) Carbon monoxide
+#AnswerEnd
+
+#QuestionStart
+Q105) Excessive use of which of the following fertilisers may be responsible for the presence of a toxic substance in groundwater? [CDS 2016 (II)]
+a) Nitrogen
+b) Only phosphate
+c) Only potassium
+d) Phosphate and potassium
+#QuestionEnd
+#AnswerStart
+Answer: a) Nitrogen
+#AnswerEnd
+
+#QuestionStart
+Q106) Which of the following is no gaseous air pollutant? [CDS 2015 (II) ]
+a) Oxides of sulphur
+b) Oxides of nitrogen
+c) Hydrocarbon
+d) Smoke
+#QuestionEnd
+#AnswerStart
+Answer: d) Smoke
+#AnswerEnd
+
+#QuestionStart
+Q107) Which one of the following is NOT component of photochemical smog? [CAPF 2020]
+a) Ozone
+b) Peroxyacetyl nitrate
+c) Polyaromatic hydrocarbons
+d) Nitric oxide
+#QuestionEnd
+#AnswerStart
+Answer: c) Polyaromatic hydrocarbons
+#AnswerEnd
+
+#QuestionStart
+Q108) Which of the following diseases are caused by the consumption of water contaminated by mercury and nitrate? [CAPF 2017]
+a) Minamata disease and Osteoporosis
+b) Osteoporosis and Blue baby syndrome
+c) Minamata disease and blue baby Syndrome
+d) Osteoporosis and Minamata disease
+#QuestionEnd
+#AnswerStart
+Answer: c) Minamata disease and blue baby Syndrome
+#AnswerEnd
+
+#QuestionStart
+Q109) Which one of the following diseases is caused by cadmium pollution? [CAPF 2017]
+a) Minamata
+b) Itai-itai
+c) Fluorosis
+d) Blue baby syndrome
+#QuestionEnd
+#AnswerStart
+Answer: b) Itai-itai
+#AnswerEnd
+
+#QuestionStart
+Q110) Which one of the following statements about air pollution caused by diesel engines is correct? [CAPF 2017]
+a) It produces large quantity of carbon monoxide at lower and high temperatures.
+b) It produces large quantity of nitrogen oxides at lower and high temperatures.
+c) It produces large quantity of carbon monoxide at lower temperature and nitrogen oxides at high temperature.
+d) It produces large quantity of nitrogen oxides at lower temperature and carbon monoxide at high temperature.
+#QuestionEnd
+#AnswerStart
+Answer: c) It produces large quantity of carbon monoxide at lower temperature and nitrogen oxides at high temperature.
+#AnswerEnd
+
+#QuestionStart
+Q111) Which one of the following is a major effect of long-term consumption of drinking water containing little (less than 0.5 ppm) or no fluoride? [CAPF 2017]
+a) Cavity of tooth
+b) Erosion of nail
+c) Deformation of bone
+d) Mottling of tooth
+#QuestionEnd
+#AnswerStart
+Answer: a) Cavity of tooth
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one of the following is not decomposed by bacterial action? [CAPF 2017]
+a) Vegetable remains
+b) Plastic materials
+c) Animal carcasses
+d) Wastes of flowers
+#QuestionEnd
+#AnswerStart
+Answer: b) Plastic materials
+#AnswerEnd
+
+#QuestionStart
+Q113) The process of using microbes to treat areas of land or sea that have been contaminated by pesticides, oil or solvents is known as [CAPF 2016]
+a) Eutrophication
+b) Nitrification
+c) Ammonification
+d) Bioremediation
+#QuestionEnd
+#AnswerStart
+Answer: d) Bioremediation
+#AnswerEnd
+
+#QuestionStart
+Q114) Arrange the following fuels in the decreasing order of air pollution caused by burning a kilogram of each of them. [ CAPF 2014]
+a) CNG, Petrol, Diesel
+b) Diesel, Petrol, CNG
+c) Petrol, Diesel, CNG
+d) Diesel, CNG, Petrol
+#QuestionEnd
+#AnswerStart
+Answer: b) Diesel, Petrol, CNG
+#AnswerEnd
+
+#QuestionStart
+Q115) Which of the following ions present in low concentration in drinking water is essential for normal growth of teeth but harmful to teeth at high concentration? [ CAPF 2014]
+a) Aluminum
+b) Calcium
+c) Fluoride
+d) Chloride
+#QuestionEnd
+#AnswerStart
+Answer: c) Fluoride
+#AnswerEnd
+
+#QuestionStart
+Q116) Which of the following lamps contains a poisonous gas and therefore should be disposed of safely? [CAPF 2014]
+a) Compact fluorescent lamp
+b) Light emitting diode
+c) Neon lamp
+d) Halogen lamp
+#QuestionEnd
+#AnswerStart
+Answer: a) Compact fluorescent lamp
+#AnswerEnd

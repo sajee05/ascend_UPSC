@@ -1,0 +1,1339 @@
+#QuestionStart
+Q1) In the areas covered under the Panchayat (Extension to the Scheduled Areas) Act, 1996, what is the role/power of Gram Sabha?
+(i) Gram Sabha has the power to prevent alienation of land in the Scheduled Areas.
+(ii) Gram Sabha has the ownership of minor forest produce.
+(iii) Recommendation of Gram Sabha is required for granting prospecting licence or mining lease for any mineral in the Scheduled Areas.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q2) In the Parliament of India, the purpose of an adjournment motion is - 2012
+a) to allow a discussion on a definite matter of urgent public importance
+b) to let opposition members collect information from the ministers
+c) to allow a reduction of specific amount in demand for grant
+d) to postpone the proceedings to check the inappropriate or violent behaviour on the part of some members
+#QuestionEnd
+#AnswerStart
+Answer: a) to allow a discussion on a definite matter of urgent public importance
+#AnswerEnd
+#QuestionStart
+Q3) How does National Biodiversity Authority (NBA) help in protecting the Indian agriculture?
+(i) NBA checks the biopiracy and protects the indigenous and traditional genetic resources.
+(ii) NBA directly monitors and supervises the scientific research on genetic modification of crop plants.
+(iii) Application for Intellectual Property Rights related to genetic/biological resources cannot be made without the approval of NBA.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q4) The National Green Tribunal Act, 2010 was enacted in consonance with which of the following provisions of the Constitution of India?
+(i) Right to healthy environment, construed as a part of Right to life under Article 21
+(ii) Provision of grants for raising the level of administration in the Scheduled Areas for the welfare of Scheduled Tribes under Article 275(1)
+(iii) Powers and functions of Gram Sabhas as mentioned under Article 243(A)
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q5) If National Water Mission is properly and completely implemented, how will it impact the country?
+(i) Part of the water needs of urban areas will be met through recycling of waste-water.
+(ii) The water requirements of coastal cities with inadequate alternative sources of water will be met by adopting appropriate technologies that allow for the use of ocean water.
+(iii) All the rivers of Himalayan origin will be linked to the rivers of peninsular India.
+(iv) The expenses incurred by farmers for digging bore-wells and for installing motors and pump-sets to draw groundwater will be completely reimbursed by the Government.
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 1 and 2 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following provisions under the Directive Principles of State Policy as enshrined in the Constitution of India :
+(i) Securing for citizens of India a uniform civil code
+(ii) Organizing village Panchayats
+(iii) Promoting cottage industries in rural areas
+(iv) Securing for all the workers reasonable leisure and cultural opportunities
+Which of the above are the Gandhian Principles that are reflected in the Directive Principles of State Policy? - 2012
+a) 1, 2 and 4 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q7) Consider the following statements :
+(i) Union Territories are not represented in the Rajya Sabha.
+(ii) It is within the purview of the Chief Election Commissioner to adjudicate the election disputes.
+(iii) According to the Constitution of India, the Parliament consists of the Lok Sabha and the Rajya Sabha only.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q8) With reference to consumers’ rights/privileges under the provisions of law in India, which of the following statements is/are correct?
+(i) Consumers are empowered to take samples for food testing.
+(ii) When a consumer files a complaint in any consumer forum, no fee is required to be paid.
+(iii) In case of death of a consumer, his/her legal heir can file a complaint in the consumer forum on his/her behalf.
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q9) Regarding the office of the Lok Sabha Speaker, consider the following statements :
+(i) He/She holds the office during the pleasure of the President.
+(ii) He/She need not be a member of the House at the time of his/her election but has to become a member of the House within six months from the date of his/her election.
+(iii) If he/she intends to resign, the letter of his/her resignation has to be addressed to the Deputy Speaker.
+Which of the statements given above is/are correct? - 2012
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following are included in the original jurisdiction of the Supreme Court?
+(i) A dispute between the Government of India and one or more States
+(ii) A dispute regarding elections to either House of the Parliament or that of Legislature of a State
+(iii) A dispute between the Government of India and a Union Territory
+(iv) A dispute between two or more States
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2
+b) 2 and 3
+c) 1 and 4
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following kinds of organisms :
+(i) Bacteria
+(ii) Fungi
+(iii) Flowering plants
+Some species of which of the above kinds of organisms are employed as biopesticides? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q12) Biomass gasification is considered to be one of the sustainable solutions to the power crisis in India. In this context, which of the following statements is/are correct?
+(i) Coconut shells, groundnut shells and rice husk can be used in biomass gasification.
+(ii) The combustible gases generated from biomass gasification consist of hydrogen and carbon dioxide only.
+(iii) The combustible gases generated from biomass gasification can be used for direct heat generation but not in internal combustion engines.
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q13) What is the role of ultraviolet (UV) radiation in the water purification systems?
+(i) It inactivates/kills the harmful microorganisms in water.
+(ii) It removes all the undesirable odours from the water.
+(iii) It quickens the sedimentation of solid particles, removes turbidity and improves the clarity of water.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q14) Graphene is frequently in news recently. What is its importance?
+(i) It is a two-dimensional material and has good electrical conductivity.
+(ii) It is one of the thinnest but strongest materials tested so far.
+(iii) It is entirely made of silicon and has high optical transparency.
+(iv) It can be used as ‘conducting electrodes’ required for touch screens, LCDs and organic LEDs.
+Which of the statements given above are correct? - 2012
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q15) Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning?
+(i) Smelting units
+(ii) Pens and pencils
+(iii) Paints
+(iv) Hair oils and cosmetics
+Select the correct answer using the codes given below : - 2012
+a) 1, 2 and 3 only
+b) 1 and 3 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q16) With reference to ‘stem cells’, frequently in the news, which of the following statements is/are correct?
+(i) Stem cells can be derived from mammals only.
+(ii) Stem cells can be used for screening new drugs.
+(iii) Stem cells can be used for medical therapies.
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements :
+Chlorofluorocarbons, known as ozone-depleting substances, are used
+(i) in the production of plastic foams
+(ii) in the production of tubeless tyres
+(iii) in cleaning certain electronic components
+(iv) as pressurizing agents in aerosol cans
+Which of the statements given above is/are correct? - 2012
+a) 1, 2 and 3 only
+b) 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q18) A team of scientists at Brookhaven National Laboratory including those from India created the heaviest anti-matter (anti-helium nucleus). What is/are the implication/implications of the creation of anti-matter?
+(i) It will make mineral prospecting and oil exploration easier and cheaper.
+(ii) It will help probe the possibility of the existence of stars and galaxies made of anti-matter.
+(iii) It will help understand the evolution of the universe.
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q19) Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of universe?
+(i) Detection of microwaves in space
+(ii) Observation of redshift phenomenon in space
+(iii) Movement of asteroids in space
+(iv) Occurrence of supernova explosions in space
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2
+b) 2 only
+c) 1, 3 and 4
+d) None of the above can be cited as evidence
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+#QuestionStart
+Q20) Electrically charged particles from space travelling at speeds of several hundred km/sec can severely harm living beings if they reach the surface of the Earth. What prevents them from reaching the surface of the Earth? - 2012
+a) The Earth’s magnetic field diverts them towards its poles
+b) Ozone layer around the Earth reflects them back to outer space
+c) Moisture in the upper layers of atmosphere prevents them from reaching the surface of the Earth
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) The Earth’s magnetic field diverts them towards its poles
+#AnswerEnd
+#QuestionStart
+Q21) With reference to the scientific progress of ancient India, which of the statements given below are correct?
+(i) Different kinds of specialized surgical instruments were in common use by 1st century AD.
+(ii) Transplant of internal organs in the human body had begun by the beginning of 3rd century AD.
+(iii) The concept of sine of an angle was known in 5th century AD.
+(iv) The concept of cyclic quadrilaterals was known in 7th century AD.
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q22) With reference to the history of ancient India, which of the following was/were common to both Buddhism and Jainism?
+(i) Avoidance of extremities of penance and enjoyment
+(ii) Indifference to the authority of the Vedas
+(iii) Denial of efficacy of rituals
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q23) Which of the following can be said to be essentially the parts of Inclusive Governance?
+(i) Permitting the Non-Banking Financial Companies to do banking
+(ii) Establishing effective District Planning Committees in all the districts
+(iii) Increasing the government spending on public health
+(iv) Strengthening the Mid-day Meal Scheme
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 3 and 4 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q24) The Nagara, the Dravida and the Vesara are the - 2012
+a) three main racial groups of the Indian subcontinent
+b) three main linguistic divisions into which the languages of India can be classified
+c) three main styles of Indian temple architecture
+d) three main musical Gharanas prevalent in India
+#QuestionEnd
+#AnswerStart
+Answer: c) three main styles of Indian temple architecture
+#AnswerEnd
+#QuestionStart
+Q25) The Congress ministries resigned in the seven provinces in 1939, because - 2012
+a) the Congress could not form ministries in the other four provinces
+b) emergence of a ‘left wing’ in the Congress made the working of the ministries impossible
+c) there were widespread communal disturbances in their provinces
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the statements (a), (b) and (c) given above is correct
+#AnswerEnd
+#QuestionStart
+Q26) With reference to National Rural Health Mission, which of the following are the jobs of ‘ASHA’, a trained community health worker?
+(i) Accompanying women to the health facility for antenatal care checkup
+(ii) Using pregnancy test kits for early detection of pregnancy
+(iii) Providing information on nutrition and immunization
+(iv) Conducting the delivery of baby
+Select the correct answer using the codes given below : - 2012
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q27) Which of the following is/are the principal feature(s) of the Government of India Act, 1919?
+(i) Introduction of dyarchy in the executive government of the provinces
+(ii) Introduction of separate communal electorates for Muslims
+(iii) Devolution of legislative authority by the centre to the provinces
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q28) During Indian freedom struggle, the National Social Conference was formed. What was the reason for its formation? - 2012
+a) Different social reform groups or organizations of Bengal region united to form a single body to discuss the issues of larger interest and to prepare appropriate petitions/representations to the government
+b) Indian National Congress did not want to include social reforms in its deliberations and decided to form a separate body for such a purpose
+c) Behramji Malabari and M. G. Ranade decided to bring together all the social reform groups of the country under one organization
+d) None of the statements (a), (b) and (c) given above is correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the statements (a), (b) and (c) given above is correct in this context
+#AnswerEnd
+#QuestionStart
+Q29) Which of the following parties were established by Dr. B. R. Ambedkar?
+(i) The Peasants and Workers Party of India
+(ii) All India Scheduled Castes Federation
+(iii) The Independent Labour Party
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q30) Which of the following special powers have been conferred on the Rajya Sabha by the Constitution of India? - 2012
+a) To change the existing territory of a State and to change the name of a State
+b) To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services
+c) To amend the election procedure of the President and to determine the pension of the President after his/her retirement
+d) To determine the functions of the Election Commission and to determine the number of Election Commissioners
+#QuestionEnd
+#AnswerStart
+Answer: b) To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services
+#AnswerEnd
+#QuestionStart
+Q31) How does the National Rural Livelihood Mission seek to improve livelihood options of rural poor?
+(i) By setting up a large number of new manufacturing industries and agribusiness centres in rural areas
+(ii) By strengthening ‘self-help groups’ and providing skill development
+(iii) By supplying seeds, fertilizers, diesel pump-sets and micro-irrigation equipment free of cost to farmers
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q32) The Multi-dimensional Poverty Index developed by Oxford Poverty and Human Development Initiative with UNDP support covers which of the following?
+(i) Deprivation of education, health, assets and services at household level
+(ii) Purchasing power parity at national level
+(iii) Extent of budget deficit and GDP growth rate at national level
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q33) Which of the following is/are among the noticeable features of the recommendations of the Thirteenth Finance Commission?
+(i) A design for the Goods and Services Tax, and a compensation package linked to adherence to the proposed design
+(ii) A design for the creation of lakhs of jobs in the next ten years in consonance with India’s demographic dividend
+(iii) Devolution of a specified share of central taxes to local bodies as grants
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q34) What is/are the recent policy initiative(s) of Government of India to promote the growth of manufacturing sector?
+(i) Setting up of National Investment and Manufacturing Zones
+(ii) Providing the benefit of ‘single window clearance’
+(iii) Establishing the Technology Acquisition and Development Fund
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q35) Which of the following are the methods of Parliamentary control over public finance in India?
+(i) Placing Annual Financial Statement before the Parliament
+(ii) Withdrawal of moneys from Consolidated Fund of India only after passing the Appropriation Bill
+(iii) Provisions of supplementary grants and vote-on-account
+(iv) A periodic or at least a mid-year review of programme of the Government against macroeconomic forecasts and expenditure by a Parliamentary Budget Office
+(v) Introducing Finance Bill in the Parliament
+Select the correct answer using the codes given below : - 2012
+a) 1, 2, 3 and 5 only
+b) 1, 2 and 4 only
+c) 3, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3, 4 and 5
+#AnswerEnd
+#QuestionStart
+Q36) Mahatma Gandhi undertook fast unto death in 1932, mainly because - 2012
+a) Round Table Conference failed to satisfy Indian political aspirations
+b) Congress and Muslim League had differences of opinion
+c) Ramsay Macdonald announced the Communal Award
+d) None of the statements (a), (b) and (c) given above is correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: c) Ramsay Macdonald announced the Communal Award
+#AnswerEnd
+#QuestionStart
+Q37) With reference to Ryotwari Settlement, consider the following statements :
+(i) The rent was paid directly by the peasants to the Government.
+(ii) The Government gave Pattas to the Ryots.
+(iii) The lands were surveyed and assessed before being taxed.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q38) Consider the following specific stages of demographic transition associated with economic development :
+(i) Low birthrate with low death rate
+(ii) High birthrate with high death rate
+(iii) High birthrate with low death rate
+Select the correct order of the above stages using the codes given below : - 2012
+a) 1, 2, 3
+b) 2, 1, 3
+c) 2, 3, 1
+d) 3, 2, 1
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3, 1
+#AnswerEnd
+#QuestionStart
+Q39) In India, in the overall Index of Industrial Production, the Indices of Eight Core Industries have a combined weight of 37.90%. Which of the following are among those Eight Core Industries?
+(i) Cement
+(ii) Fertilizers
+(iii) Natural gas
+(iv) Refinery products
+(v) Textiles
+Select the correct answer using the codes given below : - 2012
+a) 1 and 5 only
+b) 2, 3 and 4 only
+c) 1, 2, 3 and 4 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q40) Which of the following provisions of the Constitution of India have a bearing on Education?
+(i) Directive Principles of State Policy
+(ii) Rural and Urban Local Bodies
+(iii) Fifth Schedule
+(iv) Sixth Schedule
+(v) Seventh Schedule
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 3, 4 and 5 only
+c) 1, 2 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 5 only
+#AnswerEnd
+#QuestionStart
+Q41) Government of India encourages the cultivation of ‘sea buckthorn’. What is the importance of this plant?
+(i) It helps in controlling soil erosion and in preventing desertification.
+(ii) It is a rich source of biodiesel.
+(iii) It has nutritional value and is well-adapted to live in cold areas of high altitudes.
+(iv) Its timber is of great commercial value.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2, 3 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q42) Which of the following is the chief characteristic of ‘mixed farming’? - 2012
+a) Cultivation of both cash crops and food crops
+b) Cultivation of two or more crops in the same field
+c) Rearing of animals and cultivation of crops together
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Rearing of animals and cultivation of crops together
+#AnswerEnd
+#QuestionStart
+Q43) A particular State in India has the following characteristics :
+(i) It is located on the same latitude which passes through northern Rajasthan.
+(ii) It has over 80% of its area under forest cover.
+(iii) Over 12% of forest cover constitutes Protected Area Network in this State.
+Which one among the following States has all the above characteristics? - 2012
+a) Arunachal Pradesh
+b) Assam
+c) Himachal Pradesh
+d) Uttarakhand
+#QuestionEnd
+#AnswerStart
+Answer: a) Arunachal Pradesh
+#AnswerEnd
+#QuestionStart
+Q44) Consider the following crops of India :
+(i) Cowpea
+(ii) Green gram
+(iii) Pigeon pea
+Which of the above is/are used as pulse, fodder and green manure? - 2012
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q45) Consider the following factors :
+(i) Rotation of the Earth
+(ii) Air pressure and wind
+(iii) Density of ocean water
+(iv) Revolution of the Earth
+Which of the above factors influence the ocean currents? - 2012
+a) 1 and 2 only
+b) 1, 2 and 3
+c) 1 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q46) With reference to the wetlands of India, consider the following statements :
+(i) The country’s total geographical area under the category of wetlands is recorded more in Gujarat as compared to other States.
+(ii) In India, the total geographical area of coastal wetlands is larger than that of inland wetlands.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q47) Consider the following crops of India :
+(i) Groundnut
+(ii) Sesamum
+(iii) Pearl millet
+Which of the above is/are predominantly rainfed crop/crops? - 2012
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q48) When you travel in Himalayas, you will see the following :
+(i) Deep gorges
+(ii) U-turn river courses
+(iii) Parallel mountain ranges
+(iv) Steep gradients causing landsliding
+Which of the above can be said to be the evidences for Himalayas being young fold mountains? - 2012
+a) 1 and 2 only
+b) 1, 2 and 4 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q49) Normally, the temperature decreases with the increase in height from the Earth’s surface, because
+(i) the atmosphere can be heated upwards only from the Earth’s surface
+(ii) there is more moisture in the upper atmosphere
+(iii) the air is less dense in the upper atmosphere
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q50) The acidification of oceans is increasing. Why is this phenomenon a cause of concern?
+(i) The growth and survival of calcareous phytoplankton will be adversely affected.
+(ii) The growth and survival of coral reefs will be adversely affected.
+(iii) The survival of some animals that have phytoplanktonic larvae will be adversely affected.
+(iv) The cloud seeding and formation of clouds will be adversely affected.
+Which of the statements given above is/are correct? - 2012
+a) 1, 2 and 3 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q51) In India, other than ensuring that public funds are used efficiently and for intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)?
+(i) CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency.
+(ii) CAG reports on the execution of projects or programmes by the ministries are discussed by the Public Accounts Committee.
+(iii) Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances.
+(iv) While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law.
+Which of the statements given above is/are correct? - 2012
+a) 1, 3 and 4 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q52) The endeavour of ‘Janani Suraksha Yojana’ Programme is - 2012
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q53) The Prime Minister of India, at the time of his/her appointment - 2012
+a) need not necessarily be a member of one of the Houses of the Parliament but must become a member of one of the Houses within six months
+b) need not necessarily be a member of one of the Houses of the Parliament but must become a member of the Lok Sabha within six months
+c) must be a member of one of the Houses of the Parliament
+d) must be a member of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a) need not necessarily be a member of one of the Houses of the Parliament but must become a member of one of the Houses within six months
+#AnswerEnd
+#QuestionStart
+Q54) With reference to the Delimitation Commission, consider the following statements :
+(i) The orders of the Delimitation Commission cannot be challenged in a Court of Law.
+(ii) When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, they cannot effect any modifications in the orders.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q55) Consider the following :
+(i) Hotels and restaurants
+(ii) Motor transport undertakings
+(iii) Newspaper establishments
+(iv) Private medical institutions
+The employees of which of the above can have the ‘Social Security’ coverage under Employees’ State Insurance Scheme? - 2012
+a) 1, 2 and 3 only
+b) 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q56) According to the Constitution of India, it is the duty of the President of India to cause to be laid before the Parliament which of the following?
+(i) The Recommendations of the Union Finance Commission
+(ii) The Report of the Public Accounts Committee
+(iii) The Report of the Comptroller and Auditor General
+(iv) The Report of the National Commission for Scheduled Castes
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q57) A deadlock between the Lok Sabha and the Rajya Sabha calls for a joint sitting of the Parliament during the passage of
+(i) Ordinary Legislation
+(ii) Money Bill
+(iii) Constitution Amendment Bill
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q58) How do District Rural Development Agencies (DRDAs) help in the reduction of rural poverty in India?
+(i) DRDAs act as Panchayati Raj Institutions in certain specified backward regions of the country.
+(ii) DRDAs undertake area-specific scientific study of the causes of poverty and malnutrition and prepare detailed remedial measures.
+(iii) DRDAs secure inter-sectoral and inter-departmental coordination and cooperation for effective implementation of anti-poverty programmes.
+(iv) DRDAs watch over and ensure effective utilization of the funds intended for anti-poverty programmes.
+Which of the statements given above is/are correct? - 2012
+a) 1, 2 and 3 only
+b) 3 and 4 only
+c) 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q59) Which of the following is/are among the Fundamental Duties of citizens laid down in the Indian Constitution?
+(i) To preserve the rich heritage of our composite culture
+(ii) To protect the weaker sections from social injustice
+(iii) To develop the scientific temper and spirit of inquiry
+(iv) To strive towards excellence in all spheres of individual and collective activity
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q60) What is the provision to safeguard the autonomy of the Supreme Court of India?
+(i) While appointing the Supreme Court Judges, the President of India has to consult the Chief Justice of India.
+(ii) The Supreme Court Judges can be removed by the Chief Justice of India only.
+(iii) The salaries of the Judges are charged on the Consolidated Fund of India to which the legislature does not have to vote.
+(iv) All appointments of officers and staffs of the Supreme Court of India are made by the Government only after consulting the Chief Justice of India.
+Which of the statements given above is/are correct? - 2012
+a) 1 and 3 only
+b) 3 and 4 only
+c) 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q61) To meet its rapidly growing energy demand, some opine that India should pursue research and development on thorium as the future fuel of nuclear energy. In this context, what advantage does thorium hold over uranium?
+(i) Thorium is far more abundant in nature than uranium.
+(ii) On the basis of per unit mass of mined mineral, thorium can generate more energy compared to natural uranium.
+(iii) Thorium produces less harmful waste compared to uranium.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q62) The increasing amount of carbon dioxide in the air is slowly raising the temperature of the atmosphere, because it absorbs - 2012
+a) the water vapour of the air and retains its heat
+b) the ultraviolet part of the solar radiation
+c) all the solar radiations
+d) the infrared part of the solar radiation
+#QuestionEnd
+#AnswerStart
+Answer: d) the infrared part of the solar radiation
+#AnswerEnd
+#QuestionStart
+Q63) Which one of the following sets of elements was primarily responsible for the origin of life on the Earth? - 2012
+a) Hydrogen, Oxygen, Sodium
+b) Carbon, Hydrogen, Nitrogen
+c) Oxygen, Calcium, Phosphorus
+d) Carbon, Hydrogen, Potassium
+#QuestionEnd
+#AnswerStart
+Answer: b) Carbon, Hydrogen, Nitrogen
+#AnswerEnd
+#QuestionStart
+Q64) What are the reasons for the people’s resistance to the introduction of Bt brinjal in India?
+(i) Bt brinjal has been created by inserting a gene from a soil fungus into its genome.
+(ii) The seeds of Bt brinjal are terminator seeds and therefore, the farmers have to buy the seeds before every season from the seed companies.
+(iii) There is an apprehension that the consumption of Bt brinjal may have adverse impact on health.
+(iv) There is some concern that the introduction of Bt brinjal may have adverse effect on the biodiversity.
+Select the correct answer using the codes given below : - 2012
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q65) Other than resistance to pests, what are the prospects for which genetically engineered plants have been created?
+(i) To enable them to withstand drought
+(ii) To increase the nutritive value of the produce
+(iii) To enable them to grow and do photosynthesis in spaceships and space stations.
+(iv) To increase their shelf life
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q66) Consider the following statements :
+The most effective contribution made by Dadabhai Naoroji to the cause of Indian National Movement was that he
+(i) exposed the economic exploitation of India by the British
+(ii) interpreted the ancient Indian texts and restored the self-confidence of Indians
+(iii) stressed the need for eradication of all the social evils before anything else
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q67) With reference to Dhrupad, one of the major traditions of India that has been kept alive for centuries, which of the following statements are correct?
+(i) Dhrupad originated and developed in the Rajput kingdoms during the Mughal period.
+(ii) Dhrupad is primarily a devotional and spiritual music.
+(iii) Dhrupad Alap uses Sanskrit syllables from Mantras.
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) None of the above is correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q68) How do you distinguish between Kuchipudi and Bharatanatyam dances?
+(i) Dancers occasionally speaking dialogues is found in Kuchipudi dance but not in Bharatanatyam.
+(ii) Dancing on the brass plate by keeping the feet on its edges is a feature of Bharatanatyam but Kuchipudi dance does not have such a form of movements.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q69) With reference to the religious history of medieval India, the Sufi mystics were known to pursue which of the following practices?
+(i) Meditation and control of breath
+(ii) Severe ascetic exercises in a lonely place
+(iii) Recitation of holy songs to arouse a state of ecstasy in their audience
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q70) The Rowlatt Act aimed at - 2012
+a) compulsory economic support to war efforts
+b) imprisonment without trial and summary procedures for trial
+c) suppression of the Khilafat Movement
+d) imposition of restrictions on freedom of the press
+#QuestionEnd
+#AnswerStart
+Answer: b) imprisonment without trial and summary procedures for trial
+#AnswerEnd
+#QuestionStart
+Q71) The Lahore Session of the Indian National Congress (1929) is very important in history, because
+(i) the Congress passed a resolution demanding complete independence
+(ii) the rift between the extremists and moderates was resolved in that Session
+(iii) a resolution was passed rejecting the two-nation theory in that Session
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q72) Lord Buddha’s image is sometimes shown with the hand gesture called ‘Bhumisparsha Mudra’. It symbolizes - 2012
+a) Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation
+b) Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara
+c) Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus life is transitory
+d) Both the statements (a) and (b) are correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: b) Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara
+#AnswerEnd
+#QuestionStart
+Q73) The religion of early Vedic Aryans was primarily of - 2012
+a) Bhakti
+b) image worship and Yajnas
+c) worship of nature and Yajnas
+d) worship of nature and Bhakti
+#QuestionEnd
+#AnswerStart
+Answer: c) worship of nature and Yajnas
+#AnswerEnd
+#QuestionStart
+Q74) Which of the following statements is/are correct regarding Brahmo Samaj?
+(i) It opposed idolatry.
+(ii) It denied the need for a priestly class for interpreting the religious texts.
+(iii) It popularized the doctrine that the Vedas are infallible.
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q75) The Reserve Bank of India (RBI) acts as a bankers’ bank. This would imply which of the following?
+(i) Other banks retain their deposits with the RBI.
+(ii) The RBI lends funds to the commercial banks in times of need.
+(iii) The RBI advises the commercial banks on monetary matters.
+Select the correct answer using the codes given below : - 2012
+a) 2 and 3 only
+b) 1 and 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q76) Under which of the following circumstances may ‘capital gains’ arise?
+(i) When there is an increase in the sales of a product
+(ii) When there is a natural increase in the value of the property owned
+(iii) When you purchase a painting and there is a growth in its value due to increase in its popularity
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q77) Which of the following measures would result in an increase in the money supply in the economy?
+(i) Purchase of government securities from the public by the Central Bank
+(ii) Deposit of currency in commercial banks by the public
+(iii) Borrowing by the government from the Central Bank
+(iv) Sale of government securities to the public by the Central Bank
+Select the correct answer using the codes given below : - 2012
+a) 1 only
+b) 2 and 4 only
+c) 1 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q78) Which of the following would include Foreign Direct Investment in India?
+(i) Subsidiaries of foreign companies in India
+(ii) Majority foreign equity holding in Indian companies
+(iii) Companies exclusively financed by foreign companies
+(iv) Portfolio investment
+Select the correct answer using the codes given below : - 2012
+a) 1, 2, 3 and 4
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q79) Consider the following statements :
+The price of any currency in international market is decided by the
+(i) World Bank
+(ii) demand for goods/services provided by the country concerned
+(iii) stability of the government of the concerned country
+(iv) economic potential of the country in question
+Which of the statements given above are correct? - 2012
+a) 1, 2, 3 and 4
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q80) The basic aim of Lead Bank Scheme is that - 2012
+a) big banks should try to open offices in each district
+b) there should be stiff competition among the various nationalized banks
+c) individual banks should adopt particular districts for intensive development
+d) all the banks should make intensive efforts to mobilize deposits
+#QuestionEnd
+#AnswerStart
+Answer: c) individual banks should adopt particular districts for intensive development
+#AnswerEnd
+#QuestionStart
+Q81) Consider the following :
+(i) Assessment of land revenue on the basis of nature of the soil and the quality of crops
+(ii) Use of mobile cannons in warfare
+(iii) Cultivation of tobacco and red chillies
+Which of the above was/were introduced into India by the English? - 2012
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q82) With reference to the guilds (Shreni) of ancient India that played a very important role in the country’s economy, which of the following statements is/are correct?
+(i) Every guild was registered with the central authority of the State and the king was the chief administrative authority on them.
+(ii) The wages, rules of work, standards and prices were fixed by the guild.
+(iii) The guild had judicial powers over its own members.
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q83) The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the - 2012
+a) Morley-Minto Reforms, 1909
+b) Montagu-Chelmsford Act, 1919
+c) Government of India Act, 1935
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) Government of India Act, 1935
+#AnswerEnd
+#QuestionStart
+Q84) Despite having large reserves of coal, why does India import millions of tonnes of coal?
+(i) It is the policy of India to save its own coal reserves for future, and import it from other countries for the present use.
+(ii) Most of the power plants in India are coal-based and they are not able to get sufficient supplies of coal from within the country.
+(iii) Steel companies need large quantity of coking coal which has to be imported.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q85) A person stood alone in a desert on a dark night and wanted to reach his village which was situated 5 km east of the point where he was standing. He had no instruments to find the direction but he located the polestar. The most convenient way now to reach his village is to walk in the - 2012
+a) direction facing the polestar
+b) direction opposite to the polestar
+c) direction keeping the polestar to his left
+d) direction keeping the polestar to his right
+#QuestionEnd
+#AnswerStart
+Answer: c) direction keeping the polestar to his left
+#AnswerEnd
+#QuestionStart
+Q86) Recently, there has been a concern over the short supply of a group of elements called ‘rare earth metals’. Why?
+(i) China, which is the largest producer of these elements, has imposed some restrictions on their export.
+(ii) Other than China, Australia, Canada and Chile, these elements are not found in any country.
+(iii) Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q87) Consider the following protected areas :
+(i) Bandipur
+(ii) Bhitarkanika
+(iii) Manas
+(iv) Sunderbans
+Which of the above are declared Tiger Reserves? - 2012
+a) 1 and 2 only
+b) 1, 3 and 4 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q88) Consider the following statements :
+(i) The duration of the monsoon decreases from southern India to northern India.
+(ii) The amount of annual rainfall in the northern plains of India decreases from east to west.
+Which of the statements given above is/are correct? - 2012
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q89) Which one of the following is the characteristic climate of the Tropical Savannah Region? - 2012
+a) Rainfall throughout the year
+b) Rainfall in winter only
+c) An extremely short dry season
+d) A definite dry and wet season
+#QuestionEnd
+#AnswerStart
+Answer: d) A definite dry and wet season
+#AnswerEnd
+#QuestionStart
+Q90) In which one among the following categories of protected areas in India are local people not allowed to collect and use the biomass? - 2012
+a) Biosphere Reserves
+b) National Parks
+c) Wetlands declared under Ramsar Convention
+d) Wildlife Sanctuaries
+#QuestionEnd
+#AnswerStart
+Answer: b) National Parks
+#AnswerEnd
+#QuestionStart
+Q91) Consider the following kinds of organisms :
+(i) Bat
+(ii) Bee
+(iii) Bird
+Which of the above is/are pollinating agent/agents? - 2012
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q92) Which one of the following groups of animals belongs to the category of endangered species? - 2012
+a) Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass
+b) Kashmir Stag, Cheetal, Blue Bull and Great Indian Bustard
+c) Snow Leopard, Swamp Deer, Rhesus Monkey and Saras (Crane)
+d) Lion-tailed Macaque, Blue Bull, Hanuman Langur and Cheetal
+#QuestionEnd
+#AnswerStart
+Answer: a) Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass
+#AnswerEnd
+#QuestionStart
+Q93) Consider the following statements :
+If there were no phenomenon of capillarity
+(i) it would be difficult to use a kerosene lamp
+(ii) one would not be able to use a straw to consume a soft drink
+(iii) the blotting paper would fail to function
+(iv) the big trees that we see around would not have grown on the Earth
+Which of the statements given above are correct? - 2012
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q94) The Millennium Ecosystem Assessment describes the following major categories of ecosystem services—provisioning, supporting, regulating, preserving and cultural. Which one of the following is supporting service? - 2012
+a) Production of food and water
+b) Control of climate and disease
+c) Nutrient cycling and crop pollination
+d) Maintenance of diversity
+#QuestionEnd
+#AnswerStart
+Answer: c) Nutrient cycling and crop pollination
+#AnswerEnd
+#QuestionStart
+Q95) What is the difference between the antelopes Oryx and Chiru? - 2012
+a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains
+b) Oryx is poached for its antlers whereas Chiru is poached for its musk
+c) Oryx exists in western India only whereas Chiru exists in north-east India only
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains
+#AnswerEnd
+#QuestionStart
+Q96) Which of the following can be threats to the biodiversity of a geographical area?
+(i) Global warming
+(ii) Fragmentation of habitat
+(iii) Invasion of alien species
+(iv) Promotion of vegetarianism
+Select the correct answer using the codes given below : - 2012
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q97) Consider the following :
+(i) Black-necked crane
+(ii) Cheetah
+(iii) Flying squirrel
+(iv) Snow leopard
+Which of the above are naturally found in India? - 2012
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q98) Consider the following agricultural practices :
+(i) Contour bunding
+(ii) Relay cropping
+(iii) Zero tillage
+In the context of global climate change, which of the above helps/help in carbon sequestration/storage in the soil? - 2012
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q99) What would happen if phytoplankton of an ocean is completely destroyed for some reason?
+(i) The ocean as a carbon sink would be adversely affected.
+(ii) The food chains in the ocean would be adversely affected.
+(iii) The density of ocean water would drastically decrease.
+Select the correct answer using the codes given below : - 2012
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q100) Vultures which used to be very common in Indian countryside some years ago are rarely seen nowadays. This is attributed to - 2012
+a) the destruction of their nesting sites by new invasive species
+b) a drug used by cattle owners for treating their diseased cattle
+c) scarcity of food available to them
+d) a widespread, persistent and fatal disease among them
+#QuestionEnd
+#AnswerStart
+Answer: b) a drug used by cattle owners for treating their diseased cattle
+#AnswerEnd

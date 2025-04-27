@@ -1,0 +1,513 @@
+#QuestionStart
+Q36) The primary duty of the Finance Commission of India is: [U.P.P.C.S. (Pre) 2021]
+a) To give the recommendations on distribution of tax revenue between the Union and States
+b) To prepare the Union Annual Budget
+c) To advise the President on financial matters
+d) To allocate funds to various Ministries/ Departments of the Union and State Government
+#QuestionEnd
+#AnswerStart
+Answer: a) To give the recommendations on distribution of tax revenue between the Union and States
+#AnswerEnd
+
+#QuestionStart
+Q37) Excise Duty on liquor is imposed by: [U.P.P.C.S. (Mains) 2014]
+a) Central Government
+b) State Governments
+c) Nagar Nigams
+d) District Boards
+#QuestionEnd
+#AnswerStart
+Answer: b) State Governments
+#AnswerEnd
+
+#QuestionStart
+Q38) Consider the following statements and select the correct answer from the codes given below the statements:
+Statement (A): Zero-Base Budget has been introduced in India.
+Reason (R): Zero-Base Budget technique involves a critical review of every scheme before a budgetary provision is made.
+Select the correct answer from the codes given below: [U.P.P.C.S (Mains) 2011]
+a) Both (A) and (R) are correct and (R) is the correct explanation of (A).
+b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are correct and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q39) Which of the following is not eligible for any income tax rebate? [U.P.P.C.S. (Mains) 2008]
+a) Kisan Vikas Patra
+b) National Savings Certificate
+c) Public Provident Fund
+d) Unit-Linked Insurance Plan
+#QuestionEnd
+#AnswerStart
+Answer: a) Kisan Vikas Patra
+#AnswerEnd
+
+#QuestionStart
+Q40) As compared to revenue deficit, fiscal deficit will always remain: [U.P.P.C.S. (Mains) 2008]
+a) Higher
+b) Lower
+c) Same
+d) All the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Higher
+#AnswerEnd
+
+#QuestionStart
+Q41) The Finance Ministry (Government of India) has introduced the concept of ‘Outcome-Budget’ from 2005. Under this, the monitoring of the outcomes will be the responsibility of: [U.P.P.C.S. (Mains) 2009]
+a) Union Cabinet
+b) Planning Commission
+c) Finance Ministry and Planning Commission jointly
+d) Ministry of Programme Implementation
+#QuestionEnd
+#AnswerStart
+Answer: c) Finance Ministry and Planning Commission jointly
+#AnswerEnd
+
+#QuestionStart
+Q42) Which one of the following is not an objective of fiscal policy of Government of India? [U.P.P.C.S. (Pre) 2006]
+a) Full employment
+b) Price stability
+c) Regulation of inter-state trade
+d) Equitable distribution of wealth and income
+#QuestionEnd
+#AnswerStart
+Answer: c) Regulation of inter-state trade
+#AnswerEnd
+
+#QuestionStart
+Q43) Which one of the following sets of sources of revenue belongs to the Union Government alone? [U.P.P.C.S. (Mains) 2005]
+a) Gift tax, Holding tax
+b) Sales tax, Income tax
+c) Customs duties, Corporation tax
+d) Wealth tax, Land revenue
+#QuestionEnd
+#AnswerStart
+Answer: c) Customs duties, Corporation tax
+#AnswerEnd
+
+#QuestionStart
+Q44) Which of the following statements are true for the Income Tax in. India?
+1. It is a progressive tax
+2. It is a direct tax
+3. It is collected by the State Governments
+4. It is a proportional tax
+Code: [U.P.P.C.S. (Mains) 2004]
+a) only 1 is correct
+b) only 1 and 2 are correct
+c) 1, 2 and 3 are correct
+d) 2, 3 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) only 1 and 2 are correct
+#AnswerEnd
+
+#QuestionStart
+Q45) Assertion (A): Deficit financing leads to inflation.
+Reason (R): It increases money supply as compared to goods and services.
+In the context of the above which one of the following is correct? [U.P.P.C.S. (Mains) 2003]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+b) Both (A) and (R) r e true, but (R) is not the correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q46) Which of the following taxes does not directly increase the price of a commodity to buyers: [U.P.P.C.S. (Pre) 1995]
+a) Income tax
+b) Trade Tax
+c) Import Duty
+d) Excise Duty
+#QuestionEnd
+#AnswerStart
+Answer: a) Income tax
+#AnswerEnd
+
+#QuestionStart
+Q47) Which of the following taxes is not levied by the Union Government? [U.P. RC.S. (Pre) 1992]
+a) Gift tax
+b) Entertainment Tax
+c) Personal Income Tax
+d) Corporation Tax
+#QuestionEnd
+#AnswerStart
+Answer: b) Entertainment Tax
+#AnswerEnd
+
+#QuestionStart
+Q48) Which among the following are the sources of income in the current account of the Central Government?
+1. Corporation Tax
+2. Profit from Public Enterprises
+3. Sale of National Savings Certificates
+4. Loans received from the World Bank
+5. Excise duties
+Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 1998]
+a) 1,2 and 3
+b) 1,3 and 4
+c) 3, 4 and 5
+d) 1, 2 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 5
+#AnswerEnd
+
+#QuestionStart
+Q49) Why the indirect taxes are termed regressive taxing mechanism? [U.P.B.E.O. (Pre) 2019]
+a) They are charged at higher' rate than direct taxes
+b) They are charged the same rates for all income groups
+c) They are not charged the same for all income groups
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) They are charged the same rates for all income groups
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following is not included in the revenue account of Union Budget? [R.A.S./R.T.S. (Pre) 2018]
+a) Interest Receipts
+b) Tax Receipts
+c) Profits and Dividends of Government Departments and Public Undertakings
+d) Small Savings
+#QuestionEnd
+#AnswerStart
+Answer: d) Small Savings
+#AnswerEnd
+
+#QuestionStart
+Q51) What has been kept under the purview of Goods and Services Tax (GST)? [R.A.S./R.T.S. (Pre) 2018]
+a) Alcohol for human consumption
+b) Electricity
+c) Petroleum Products
+d) Ghee
+#QuestionEnd
+#AnswerStart
+Answer: d) Ghee
+#AnswerEnd
+
+#QuestionStart
+Q52) ‘Tobin Tax’ is levied on: [Uttarakhand P.C.S (Pre) 2021]
+a) on bodies creating externalities
+b) on the basis of weight
+c) On foreign exchange transactions
+d) on the basis of value
+#QuestionEnd
+#AnswerStart
+Answer: c) On foreign exchange transactions
+#AnswerEnd
+
+#QuestionStart
+Q53) Which of the following taxes are abolished by the Goods and Service Tax? [Uttarakhand P.C.S. (Pre) 2021]
+a) Property Tax
+b) Corporation Tax
+c) Value Added Tax
+d) Income Tax
+#QuestionEnd
+#AnswerStart
+Answer: c) Value Added Tax
+#AnswerEnd
+
+#QuestionStart
+Q54) Which Ministry of Government of India is related for India’s Foreign Trade Policy? [M.P.P.C.S. (Pre) 2019]
+a) Ministry of Defence
+b) Ministry of External Affairs
+c) Ministry of Commerce and Industry
+d) Ministry of Home Affairs
+#QuestionEnd
+#AnswerStart
+Answer: c) Ministry of Commerce and Industry
+#AnswerEnd
+
+#QuestionStart
+Q55) Fiscal policy is concerned with which of the following? [M.P.P.C.S. (Pre) 1996]
+a) The volume of currency that banks put in the economic system
+b) The policy regarding taxation and government expenditure
+c) The policy for regulation of stock markets
+d) The policy for country’s relations with IMF
+#QuestionEnd
+#AnswerStart
+Answer: b) The policy regarding taxation and government expenditure
+#AnswerEnd
+
+#QuestionStart
+Q56) Tax on sale of inherited property is: [Jharkhand P.C.S. (Pre) 2021]
+a) Capital Gain Tax
+b) Land Tax
+c) Wealth Tax
+d) Income Tax
+#QuestionEnd
+#AnswerStart
+Answer: a) Capital Gain Tax
+#AnswerEnd
+
+#QuestionStart
+Q57) Which one of the following is not a department in the Ministry of Finance? [Jharkhand P.C.S. (Pre) 2013] (⭐ Please Re-check)
+a) Expenditure
+b) Revenue
+c) Banking Division
+d) Economic Affairs
+#QuestionEnd
+#AnswerStart
+Answer: c) Banking Division
+#AnswerEnd
+
+#QuestionStart
+Q58) The Indian Parliament exercises control on the audit of the Budget through its [Jharkhand P.C.S. (Pre) 2013]
+a) Estimates Committee
+b) Public Accounts Committee
+c) Privileges Committee
+d) Audit Review Committee
+#QuestionEnd
+#AnswerStart
+Answer: b) Public Accounts Committee
+#AnswerEnd
+
+#QuestionStart
+Q59) Which of the following tax is not included in Goods and Services Tax (GST)? [Chhattisgarh P.C.S. (Pre) 2019]
+a) Excise Duty
+b) Custom Duty
+c) Value Added Tax
+d) Service Tax
+#QuestionEnd
+#AnswerStart
+Answer: b) Custom Duty
+#AnswerEnd
+
+#QuestionStart
+Q60) What is Current Account Deficit (CAD)? [Chhattisgarh P.C.S. (Pre) 2017]
+a) Excess amount drawn over the total deposit amount in Current Accounts of the Banks
+b) Deficit due to excess of Govt, expenditure over Govt. Revenue in current year
+c) Deficit caused due to excess of total imports over total exports during the year
+d) Loss due to highest cost of production over market price of the commodity
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Deficit caused due to excess of total imports over total exports during the year
+#AnswerEnd
+
+#QuestionStart
+Q61) The increases in private investment spending induced by the increase in Government spending is known as [CDS 2021 (I)]
+a) Crowding in
+b) Deficit financing
+c) Crowding out
+d) Pumping out
+#QuestionEnd
+#AnswerStart
+Answer: a) Crowding in
+#AnswerEnd
+
+#QuestionStart
+Q62) The excess of total expenditure of Government over its total receipts, excluding borrowings, is known as [CDS 2021(1)]
+a) Primary deficit
+b) Fiscal deficit
+c) Current delict
+d) Capital deficit
+#QuestionEnd
+#AnswerStart
+Answer: b) Fiscal deficit
+#AnswerEnd
+
+#QuestionStart
+Q63) Consider the following statements about the impact of tax.
+1. A tax is shifted forward to consumers if the demand is inelastic relative to supply,
+2. A tax is shifted backward to producers if the supply is relatively more inelastic than demand.
+Which of the statement(s) given above is/are correct? [CDS 2018 (I)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q64) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I | List II (Explanation) |
+|---|---|
+| A. Fiscal Déficit | 1. Total Expenditure-Revenue Receipts and Non-debt Capital Receipts |
+| B. Revenue Déficit | 2, Revenue Expenditure- Revenue Receipts |
+| C. Effective Revenue Déficit | 3. Revenue Deficit- Grants for Creation of Capital Assets |
+| D. Primary Déficit | 4. Fiscal Deficit- Interest Payments |
+Codes: [CDS 2017 (II)]
+a) A1, B2, C3, D4
+b) A1, B3, C2, D4
+c) A4, B2, C3, D1
+d) A4, B3, C2, D1
+#QuestionEnd
+#AnswerStart
+Answer: a) A1, B2, C3, D4
+#AnswerEnd
+
+#QuestionStart
+Q65) Which one of the following is not a component of Revenue Receipts of the Union Government? [CDS 2017 (I)]
+a) Corporate tax receipts
+b) Dividends and profits
+c) Disinvestment receipts
+d) Interest receipts
+#QuestionEnd
+#AnswerStart
+Answer: c) Disinvestment receipts
+#AnswerEnd
+
+#QuestionStart
+Q66) Which of the following statements are correct?
+1. Ability to pay the principle of taxation holds that the amount of taxes people pay should relate to their income or wealth
+2. The Benefit Principle of taxation states that individuals should be taxed in proportion to the benefit they receive from government programmes.
+3. A progressive tax takes a larger share of tax from poor families than it does from rich families.
+4. Indirect taxes have the advantage of being cheaper and easier to collect.
+Select the correct answer using the-codes given below [CDS 2016 (I)]
+a) 1 and 3
+b) 2 and 3
+c) i, 2 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) i, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q67) Which one of the following represents a progressive tax structure? [CDS 2015 (II)]
+a) Tax rate is the same across all incomes
+b) Tax rate increases as income increases
+c) Tax rate decreases as income increases
+d) Each household pays equal amount of tax
+#QuestionEnd
+#AnswerStart
+Answer: b) Tax rate increases as income increases
+#AnswerEnd
+
+#QuestionStart
+Q68) Which one of the following is not provided regular budgetary support by the Ministry of Defence? [CDS 2015 (II)]
+a) Himalayan Mountaineering Institute, Darjeeling
+b) Institute for Defence Studies and Analysis, New Delhi
+c) Armed Forces Tribunal
+d) United Service Institution of India, New Delhi
+#QuestionEnd
+#AnswerStart
+Answer: d) United Service Institution of India, New Delhi
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one among the following is not a source of tax revenue for the Central Government in India? [CDS 2014 (II)]
+a) Income tax
+b) Customs duties
+c) Service tax
+d) Motor vehicle tax
+#QuestionEnd
+#AnswerStart
+Answer: d) Motor vehicle tax
+#AnswerEnd
+
+#QuestionStart
+Q70) Which of the following does not form part of current account of Balance of Payments? [CDS 2014 (II)]
+a) Export and import of goods
+b) Export and import of services
+c) Income receipts and payments
+d) Capital receipts and payments
+#QuestionEnd
+#AnswerStart
+Answer: d) Capital receipts and payments
+#AnswerEnd
+
+#QuestionStart
+Q71) Corporation tax in India is levied on income of a company. Which one of the following does not include Corporation tax? [CDS 2014 (I)]
+a) Profit from business
+b) Capital gain
+c) Interest on securities
+d) Sale proceed of assets
+#QuestionEnd
+#AnswerStart
+Answer: d) Sale proceed of assets
+#AnswerEnd
+
+#QuestionStart
+Q72) The proceeds from disinvestment are included as? [CAPF 2022]
+a) non-tax revenue
+b) revenue receipts
+c) capital receipts
+d) tax revenue
+#QuestionEnd
+#AnswerStart
+Answer: c) capital receipts
+#AnswerEnd
+
+#QuestionStart
+Q73) GST is a/an? [CAPF 2022]
+a) destination-based consumption tax
+b) origin-based production tax
+c) destination-based sales tax on transaction
+d) origin-based transaction tax on sales
+#QuestionEnd
+#AnswerStart
+Answer: a) destination-based consumption tax
+#AnswerEnd
+
+#QuestionStart
+Q74) Which one of the following functions as an automatic stabilizer in the context of fiscal and monetary policies of an economy? [CAPF 2021]
+a) Personal income tax
+b) Reverse repo rate of bank
+c) Open market operation
+d) Bond price
+#QuestionEnd
+#AnswerStart
+Answer: a) Personal income tax
+#AnswerEnd
+
+#QuestionStart
+Q75) Match List I with List II and select the correct answer using the code given below the Lists:
+| List I (Committee) | List II (Subject) |
+|---|---|
+| A. Rangarajan Committee | 1. Tax Reform |
+| B. Narsimhan Committee | 2. Insurance Reform |
+| C. Kelkar Committee | 3. Disinvestment of shares in PSEs |
+| D. Malhotra Committee | 4. Banking Sector Reform |
+Codes: [CAPF 2017]
+a) A2, B1, C4, D3
+b) A2, B4, C1, D3
+c) A3, B4, C1, D2
+d) A3, B1, C4, D2
+#QuestionEnd
+#AnswerStart
+Answer: c) A3, B4, C1, D2
+#AnswerEnd
+
+#QuestionStart
+Q76) The Government of India announced a new scheme ‘NIRVIK’ in the Budget for 2020-21. Which of the following sectors of economy will take the benefit from this scheme? [66th B.P.S.C. (Pre) 2020]
+a) Agricultural sector
+b) Industrial sector
+c) Health sector
+d) Export sector
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Export sector
+#AnswerEnd
+
+#QuestionStart
+Q77) Which of the following Tax is levied by Union and collected and appropriated by States? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Stamp Duties
+b) Passengers & Goods Tax
+c) Estate Duty
+d) Taxes on Newspapers
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Stamp Duties
+#AnswerEnd
+
+#QuestionStart
+Q78) Interest payment is an item of: [56th to 59th B.P.S.C. (Pre) 2015]
+a) Revenue expenditure
+b) Capital expenditure
+c) Plan expenditure
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Revenue expenditure
+#AnswerEnd

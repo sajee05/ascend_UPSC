@@ -1,0 +1,1999 @@
+#QuestionStart
+Q30) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2022]
+| List-I (Persons) | List-II (Associated works/ Posts) |
+|---|---|
+| A. D.K. Karve | 1. Establishment of Girls School in Calcutta |
+| B. J.E.D. Bethune | 2. Secretary, Widow Re-marriage Association |
+| C. Ishwar Chandra Vidyasagar | 3. Starting a crusade against child marriage |
+| D. B.M. Malabari | 4. Principal of Sanskrit College in Calcutta |
+Code:
+a) 2A, 1B, 4C, 3D
+b) 1A, 2B, 3C, 4D
+c) 1A, 2B, 4C, 3D
+d) 2A, 1B, 3C, 4D
+#QuestionEnd
+#AnswerStart
+Answer: a) 2A, 1B, 4C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q31) Which one of the following is correctly matched? [UPPCS (Pre) 2022]
+a) Bharat Dharma Mahamandal - Delhi
+b) Deva Samaj - Banaras
+c) Radhaswami Satsang - Lahore
+d) Sanatan Dharma Rakshini Sabha - Calcutta
+#QuestionEnd
+#AnswerStart
+Answer: d) Sanatan Dharma Rakshini Sabha - Calcutta
+#AnswerEnd
+
+#QuestionStart
+Q32) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2019]
+| List-I (Movement) | List-II (Year) |
+|---|---|
+| A. Pabna rebellion | 1. 1855-56 |
+| B. Eka Movement | 2. 1873-85 |
+| C. Santhal Rebellion | 3. 1922 |
+| D. Tana Bhagat Movement | 4. 1914 |
+Code:
+a) 1A, 2B, 4C, 3D
+b) 2A, 3B, 1C, 4D
+c) 3A, 1B, 4C, 2D
+d) 4A, 3B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: b) 2A, 3B, 1C, 4D
+#AnswerEnd
+
+#QuestionStart
+Q33) Which of the followings pairs is NOT correctly matched? [UPPCS (Pre) 2018]
+| Place | Leadership |
+|---|---|
+| (a) Sambhalpur | Surender Sahi |
+| (b) Ganjam | Radhakrishna Dandsena |
+| (c) Kashmir | Gulab Singh |
+| (d) Lucknow | Liyaqat Ali |
+#QuestionEnd
+#AnswerStart
+Answer: d) Lucknow Liyaqat Ali
+#AnswerEnd
+
+#QuestionStart
+Q34) Which of the above pairs is NOT correctly matched? [UPPCS (Pre) 2018]
+| Rebellion | Year |
+|---|---|
+| (a) Santhal | 1855 |
+| (b) Koi | 1831 |
+| (c) Khasi | 1829 |
+| (d) Ahom | 1815 |
+#QuestionEnd
+#AnswerStart
+Answer: d) Ahom 1815
+#AnswerEnd
+
+#QuestionStart
+Q35) Which one the following social reformers strongly opposed Jury Act of 1826? [U.P.P.C.S. (Pre) 2017]
+a) Ishwar Chandra Vidyasagar
+b) Raja Ram Mohan Roy
+c) Mahadev Govind Ranade
+d) Rajnarayan Basu
+#QuestionEnd
+#AnswerStart
+Answer: b) Raja Ram Mohan Roy
+#AnswerEnd
+
+#QuestionStart
+Q36) Who has written ‘Satyarth Prakash’? [U.P.P.C.S. (Mains) 2017]
+a) Raja Ram Mohan Roy
+b) Bal Gangadhar Tilak
+c) Swami Vivekananda
+d) Dayanand Saraswati
+#QuestionEnd
+#AnswerStart
+Answer: d) Dayanand Saraswati
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the above following was started in opposition to the religious/social ideas of Ram Mohan Roy? [U.P.P.C.S. (Mains) 2017]
+a) Digdarshan
+b) Samachar Chandrika
+c) Samvad Kaumudi
+d) Bengal Gazette
+#QuestionEnd
+#AnswerStart
+Answer: b) Samachar Chandrika
+#AnswerEnd
+
+#QuestionStart
+Q38) With reference to “Santhal Hool” of 1855, which of the following statement/s is/are correct? Select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2017]
+1. Major Burrough lost the battle with Santhals near Bhagalpur.
+2. Gokko was an important leader of Godda.
+3. Mahajan Deen Dayal Rai is also an important name in this context.
+4. There was a time when Santhals enjoyed full sovereignty over the area of Ganga valley near Muzaffarpur.
+Codes:
+a) 1 only
+b) 1,3 and 4 only
+c) 1,2 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q39) Whose name, amongst the following is not associated with the Revolt of 1857? [U.P.P.C.S. (Mains) 2017]
+a) Col. St. Legar
+b) Lt. Col. Gibbs
+c) Col. Wallace
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q40) Who amongst the following was the leader of the 1857 uprising at Allahabad? [U.P.P.C.S. (Mains) 2015]
+a) Nana Saheb
+b) Azimullah
+c) Tatya Tope
+d) Maulvi Liyaqat Ali
+#QuestionEnd
+#AnswerStart
+Answer: d) Maulvi Liyaqat Ali
+#AnswerEnd
+
+#QuestionStart
+Q41) The Tarkeshwar Movement of 1924 in Bengal was against: [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Corruption in temples
+b) Violence
+c) Arrest of political leaders
+d) Communalism
+#QuestionEnd
+#AnswerStart
+Answer: a) Corruption in temples
+#AnswerEnd
+
+#QuestionStart
+Q42) ‘Hali System’ concerned: [U.P.P.C.S. (Pre) 2015]
+a) Bonded labour
+b) Exploitation of peasants
+c) Untouchability
+d) Illiteracy
+#QuestionEnd
+#AnswerStart
+Answer: a) Bonded labour
+#AnswerEnd
+
+#QuestionStart
+Q43) Dar-ul-Ulum was established by- [U.P.P.C.S. (Mains) 2014]
+a) Maulana Shibli Numani
+b) Maulavi Hussain Ahmad
+c) Maulavi Abdullah Chakralavi
+d) Maulana Ahmad Riza Khan
+#QuestionEnd
+#AnswerStart
+Answer: a) Maulana Shibli Numani
+#AnswerEnd
+
+#QuestionStart
+Q44) Who among the following social reformers was known for proficiency in the Sanskrit language? [U.P.P.C.S. (Mains) 2013]
+a) Dayanand Saraswati
+b) Iswar Chandra Vidyasagar
+c) Raja Rammohan Roy
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q45) Who among the following had presided over the All-India Trade Union Congress held at Nagpur in 1929? [U.P.P.C.S. (Mains) 2013]
+a) Jawaharlal Nehru
+b) Acharya Narendra Dev
+c) Subhas Chandra Bose
+d) Yusuf Meherally
+#QuestionEnd
+#AnswerStart
+Answer: a) Jawaharlal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q46) In which State was the Bhoodan Movement first started? [UPPCS (Mains) 2013]
+a) In Andhra Pradesh
+b) In Karnataka
+c) In Tamil Nadu
+d) In Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: a) In Andhra Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q47) Who among the following prominently fought for and got widow remarriage legalized? [U.P.P.C.S. (Mains) 2012]
+a) Annie Besant
+b) Ishwar Chandra Vidyasagar
+c) M.G. Ranade
+d) Raja Ram Mohan Roy
+#QuestionEnd
+#AnswerStart
+Answer: b) Ishwar Chandra Vidyasagar
+#AnswerEnd
+
+#QuestionStart
+Q48) Who among the following had played an important role in passing the Native Marriage Act of 1872? [U.P.P.C.S. (Mains) 2011]
+a) Devendra Nath Tagore
+b) Ishwar Chandra Vidyasagar
+c) Keshav Chandra Sen
+d) Shyam Chandra Das
+#QuestionEnd
+#AnswerStart
+Answer: c) Keshav Chandra Sen
+#AnswerEnd
+
+#QuestionStart
+Q49) The statement “the so-called first national war of independence was neither first, nor national, nor a war of independence’ is associated with- [U.P.P.C.S. (Mains) 2010]
+a) R.C. Majumdar
+b) S. N. Sen
+c) Tarachand
+d) V.D. Savarkar
+#QuestionEnd
+#AnswerStart
+Answer: a) R.C. Majumdar
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following conceptions is true about the Revolt of 1857? [U.P.P.C.S. (Mains) 2010]
+a) Indian historians have described it as an Indian mutiny
+b) British historians have described it as a war of independence
+c) It gave a death blow to the system of East India Company’s rule in India
+d) It was for the improvement of the administrative machinery in India
+#QuestionEnd
+#AnswerStart
+Answer: c) It gave a death blow to the system of East India Company’s rule in India
+#AnswerEnd
+
+#QuestionStart
+Q51) The official historian of Indian Freedom struggle was- [UPPCS (Pre) 2010]
+a) R.C. Mazumdar
+b) Tarachandra
+c) V.D. Savarkar
+d) S.N. Sen
+#QuestionEnd
+#AnswerStart
+Answer: d) S.N. Sen
+#AnswerEnd
+
+#QuestionStart
+Q52) Which among the following organizations supported Shuddhi movement? [U.P.P.C.S (Pre) 2010]
+a) Arya Samaj
+b) Brahmo Samaj
+c) Dev Samaj
+d) Prarthana Samaj
+#QuestionEnd
+#AnswerStart
+Answer: a) Arya Samaj
+#AnswerEnd
+
+#QuestionStart
+Q53) Match these former revolts in 19th century with these related areas: [U.P.P.C.S. (Pre) 2010]
+| List-I | List-II |
+|---|---|
+| A. Kuki revolt | 1. Punjab |
+| B. Kuka revolt | 2. Bengal |
+| C. Pabna revolt | 3. Bihar |
+| D. Birsa Munda revolt | 4. Tripura |
+Code:
+a) 4A, 2B, 1C, 3D
+b) 2A, 3B, 1C, 4D
+c) 4A, 1B, 3C, 2D
+d) 4A, 1B, 2C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: d) 4A, 1B, 2C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q54) The First Society founded by Raja Ram Mohan Roy was: [U.P.P.C.S. (Mains) 2009]
+a) Brahma Sama]
+b) Atmiya Sabha
+c) Brahma Sabha
+d) Tatvabodhini Sabha
+#QuestionEnd
+#AnswerStart
+Answer: b) Atmiya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q55) The founder of ‘Bhartiya Brahmo Samaj’ was: [U.P. P.C.S. (Spl.) (Mains) 2008]
+a) Devendranath Tagore
+b) Ishwar Chandra Vidyasagar
+c) Keshav Chandra Sen
+d) Raja Ram Mohan Roy
+#QuestionEnd
+#AnswerStart
+Answer: c) Keshav Chandra Sen
+#AnswerEnd
+
+#QuestionStart
+Q56) The first event relating to the war of Independence of 1857 was- [U.P.P.C.S. (Mains) 2008]
+a) Kanpur’s Revolt and taking over the leadership by Nana Saheb
+b) Begum Hazrat Mahals leadership of Oudh
+c) Marching of Sepoys to Delhi’s Red Fort
+d) Revolt by Rani of Jhansi
+#QuestionEnd
+#AnswerStart
+Answer: c) Marching of Sepoys to Delhi’s Red Fort
+#AnswerEnd
+
+#QuestionStart
+Q57) Who among the following was the leader of the revolution of 1857 in Assam? [U.P.P.C.S. (Mains) 2007]
+a) Diwan Maniram Dutta
+b) Kandarpeshwar Singh
+c) Purandar Singh
+d) Piali Barua
+#QuestionEnd
+#AnswerStart
+Answer: a) Diwan Maniram Dutta
+#AnswerEnd
+
+#QuestionStart
+Q58) What did the Act V of 1843 make illegal? [U.P.P.C.S. (Mains) 2007]
+a) Child marriage
+b) Infanticide
+c) Sati
+d) Slavery
+#QuestionEnd
+#AnswerStart
+Answer: d) Slavery
+#AnswerEnd
+
+#QuestionStart
+Q59) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2006]
+| List-I | List-II |
+|---|---|
+| A. Bardoli Satyagraha | 1. Swami Shraddhananda Saraswati |
+| B. Bhartiya Kisan Vidyalaya | 2. Sardar Vallabhbhai Patel |
+| C. Bengal Praja Party | 3. Fazlul Haq |
+| D. Bakashat Agitation | 4. N.G. Ranga |
+Code:
+a) 2A, 3B, 4C, 1D
+b) 2A, 4B, 3C, 1D
+c) 1A, 4B, 2C, 3D
+d) 4A, 1B, 3C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: b) 2A, 4B, 3C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q60) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2006]
+| List-I (Events) | List-11 (Dates) |
+|---|---|
+| A. Barrackpur Mutiny | 1. July, 1806 |
+| B. Berhampur Revolt | 2. November, 1824 |
+| C. Santhal Revolt | 3. 1855-56 |
+| D. Vellore Mutiny | 4. February, 1857 |
+Code:
+a) 2A, 4B, 3C, 1D
+b) 2A, 1B, 4C, 3D
+c) 3A, 4B, 2C, 1D
+d) 1A, 2B, 3C, 4D
+#QuestionEnd
+#AnswerStart
+Answer: a) 2A, 4B, 3C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q61) Who among the following is known as ‘Martin Luther of India’? [U.P. P.C.S. (Mains) 2005]
+a) Swami Dayanand Saraswati
+b) Raja Ram Mohan Roy
+c) Swami Vivekanand
+d) Swami Shraddhanand
+#QuestionEnd
+#AnswerStart
+Answer: a) Swami Dayanand Saraswati
+#AnswerEnd
+
+#QuestionStart
+Q62) Who among the following represented India at the World Parliament of Religions at Chicago in 1893? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Swami Dayanand Saraswati
+b) Ram Krishna Paramhans
+c) Swami Vivekanand
+d) Raja Ram Mohan Roy
+#QuestionEnd
+#AnswerStart
+Answer: c) Swami Vivekanand
+#AnswerEnd
+
+#QuestionStart
+Q63) Who was the founder of Ram Krishna Mission? [U.P.P.C.S. (Mains) 2004]
+a) Ramkrishna Paramhansa
+b) M.N. Das Gupta
+c) Swami Vivekananda
+d) Swami Rangnath Nanda
+#QuestionEnd
+#AnswerStart
+Answer: c) Swami Vivekananda
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following is correctly matched? [UPPCS (Spl) (Mains) 2004]
+a) Brahmo Samaj of India - Raja Ram Mohan Roy
+b) Tatvabodhini Sabha - Keshav Chandra Sen
+c) The Satyashodhak Samaj - Devendranath Tagore
+d) The Servants of India Society - Gopal Krishna Gokhle
+#QuestionEnd
+#AnswerStart
+Answer: d) The Servants of India Society - Gopal Krishna Gokhle
+#AnswerEnd
+
+#QuestionStart
+Q65) Who said that “If God were to tolerate untouchability, I would not recognize him as God at all”? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) B.R. Ambedkar
+b) Bal Gangadhar Tilak
+c) Lala Lajpat Rai
+d) Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: b) Bal Gangadhar Tilak
+#AnswerEnd
+
+#QuestionStart
+Q66) Match iist-i with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2003]
+| List-1 | List-II |
+|---|---|
+| A. Brahmo Samaj | 1. Mumbai |
+| B. Manav Dharma Sabha | 2. Surat |
+| C. Arya Samaj | 3. Kolkata |
+| D. Nadwah-ul-Ulama | 4. Lucknow |
+Code:
+a) 4A, 1B, 3C, 2D
+b) 1A, 4B, 3C, 2D
+c) 3A, 1B, 4C, 2D
+d) 3A, 2B, 1C, 4D
+#QuestionEnd
+#AnswerStart
+Answer: d) 3A, 2B, 1C, 4D
+#AnswerEnd
+
+#QuestionStart
+Q67) Veiu Thampi led a rebellion against the British in- [U.P.P.C.S. (Mains) 2002]
+a) Kerala
+b) Maharashtra
+c) Mysore
+d) Telangana
+#QuestionEnd
+#AnswerStart
+Answer: a) Kerala
+#AnswerEnd
+
+#QuestionStart
+Q68) Who was the founder of Radha Swami Satsang? [U.P.P.C.S. (Pre) 2002]
+a) Haridas Swami
+b) Shiv dayal Sahab
+c) Shiv Narayan Agnihotri
+d) Swami Shraddhananda
+#QuestionEnd
+#AnswerStart
+Answer: b) Shiv dayal Sahab
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following was the author of ‘Gulamgiri’? [U.P.P.C.S. (Pre) 2000]
+a) B.R. Ambedkar
+b) Jyotiba Phule
+c) Mahatma Gandhi
+d) Periyar
+#QuestionEnd
+#AnswerStart
+Answer: b) Jyotiba Phule
+#AnswerEnd
+
+#QuestionStart
+Q70) Which of the following places was the Centre of the Gadakari rebellion? [U.P.P.C.S. (Pre) 1999]
+a) Bihar Sharif
+b) Kolhapur
+c) Surat
+d) Sylhet
+#QuestionEnd
+#AnswerStart
+Answer: b) Kolhapur
+#AnswerEnd
+
+#QuestionStart
+Q71) The Pagalpanthi rebellion was indeed a rebellion of: [U.P.P.C.S. (Pre) 1999]
+a) Bhils
+b) Garos
+c) Gonds
+d) Koliyas
+#QuestionEnd
+#AnswerStart
+Answer: b) Garos
+#AnswerEnd
+
+#QuestionStart
+Q72) Who among the following was the leader of the Farazi rebellion? [U.P.P.C.S. (Pre) 1999]
+a) Aga Muhammad Raza
+b) Dadu Miyan
+c) Shamsher Gazi
+d) Wazir Ali
+#QuestionEnd
+#AnswerStart
+Answer: b) Dadu Miyan
+#AnswerEnd
+
+#QuestionStart
+Q73) In the 1930s, peasant movements were started in different parts of the country at the instance of various leaders. Match them with their respective areas of influence: [UPPCS (Pre) 1998]
+| List-I | List-II |
+|---|---|
+| A. Sahjanand Saraswati | 1. Hyderabad |
+| B. Khudai Khidmatgars | 2. Southern Assam |
+| C. Swami Ramanand | 3. Bihar |
+| D. Abdul Hamid Khan | 4. NWFP |
+Code:
+a) 1A, 2B, 3C, 4D
+b) 3A, 4B, 1C, 2D
+c) 4A, 3B, 2C, 1D
+d) 2A, 3B, 1C, 3D (⭐ Please Re-check)
+#QuestionEnd
+#AnswerStart
+Answer: b) 3A, 4B, 1C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q74) Who among the following was the leader of the revolt during 1857 at Bareilly? [U.P.P.C.S. (Pre) 1998]
+a) Khan Bahadur
+b) Kunwar Singh
+c) Maulvi Ahmad Shah
+d) Birzis Kadir
+#QuestionEnd
+#AnswerStart
+Answer: a) Khan Bahadur
+#AnswerEnd
+
+#QuestionStart
+Q75) Which one of the following uprisings occurred in Maharashtra? [U.P.P.C.S. (Pre) 1998]
+a) Bhil uprising
+b) Koi Uprising
+c) Rampa uprising
+d) Santhal uprising
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhil uprising
+#AnswerEnd
+
+#QuestionStart
+Q76) Who among the following was not related to the Revolt of 1857? [U.P.P.C.S. (Pre) 1996]
+a) Begum Hazrat Mahal
+b) Kunwar Singh
+c) Uddham Singh
+d) Maulavi Ahmadullah
+#QuestionEnd
+#AnswerStart
+Answer: c) Uddham Singh
+#AnswerEnd
+
+#QuestionStart
+Q77) Who of the following is responsible for the revival of Vedas: [U.P.P.C.S. (Pre) 1995]
+a) Rama Krishna Paramhans
+b) Ramanuja
+c) Swami Dayanand Saraswati
+d) Swami Vivekanand
+#QuestionEnd
+#AnswerStart
+Answer: c) Swami Dayanand Saraswati
+#AnswerEnd
+
+#QuestionStart
+Q78) Indians were assured of many things in the declaration by Queen Victoria in 1858. Which among the following assurances was fulfilled by the British Government: [U.P.P.C.S. (Pre) 1994]
+a) Policy of annexation will be abandoned
+b) ‘Status quo’ of the native rulers would be maintained
+c) Equal treatment would be given to all subjects, Indians, and Europeans
+d) There would be no interference in the social and religious beliefs of the Indians
+#QuestionEnd
+#AnswerStart
+Answer: a) Policy of annexation will be abandoned
+#AnswerEnd
+
+#QuestionStart
+Q79) Who among the following great men is called the ‘Father of Indian Renaissance’? [U.P.P.C.S. (Pre) 1994]
+a) Vivekananda
+b) Raja Ram Mohan Roy
+c) Rabindra Nath Tagore
+d) Dayanand Saraswati
+#QuestionEnd
+#AnswerStart
+Answer: b) Raja Ram Mohan Roy
+#AnswerEnd
+
+#QuestionStart
+Q80) Chief centre of Wahabi Movement during 19th century was: [U.P.P.C.S. (Pre) 1994]
+a) Lahore
+b) Patna
+c) Amritsar
+d) Pune
+#QuestionEnd
+#AnswerStart
+Answer: b) Patna
+#AnswerEnd
+
+#QuestionStart
+Q81) Which of the following were not protested by Raja Ram Mohan Roy? [U.P. P.C.S. (Pre) 1992]
+a) Child marriage
+b) Sati system
+c) Western education
+d) Idolatry
+#QuestionEnd
+#AnswerStart
+Answer: c) Western education
+#AnswerEnd
+
+#QuestionStart
+Q82) Who was the British Prime minister during the revolt of 1857? [U.P.P.C.S. (Pre) 1991]
+a) Churchill
+b) Palmerston
+c) Attlee
+d) Gladstone
+#QuestionEnd
+#AnswerStart
+Answer: b) Palmerston
+#AnswerEnd
+
+#QuestionStart
+Q83) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 1990]
+| List-I | List-II |
+|---|---|
+| A. Child Marriage | 1. Ishwarchand Vidyasagar |
+| B. Suppression of Thuggee | 2. Colonel Sleimen |
+| C. Widows’ Remarriage | 3. M.G. Ranade |
+| D. Suppression of Pindaris | 4. Lord Hastings |
+Code:
+a) 3A, 2B, 1C, 4D
+b) 4A, 2B, 1C, 3D
+c) 1A, 4B, 3C, 2D
+d) 2A, 3B, 1C, 4D
+#QuestionEnd
+#AnswerStart
+Answer: a) 3A, 2B, 1C, 4D
+#AnswerEnd
+
+#QuestionStart
+Q84) What was the main cause of 1857 revolt? [U.P.P.C.S. (Pre) 1990]
+a) Public Outrage
+b) Military discontent
+c) Management of Christian Missionaries
+d) Policy of the British Empire
+#QuestionEnd
+#AnswerStart
+Answer: d) Policy of the British Empire
+#AnswerEnd
+
+#QuestionStart
+Q85) The Rajamundri Social Reform Association to encourage widow re-marriage was founded in 1878 by- [R.A.S./R.T.S. (Pre.) 2021]
+a) Veeresalingam
+b) K. Ramakrishan Pillai
+c) K.T. Telang
+d) Gopalachariar
+#QuestionEnd
+#AnswerStart
+Answer: a) Veeresalingam
+#AnswerEnd
+
+#QuestionStart
+Q86) Which of the following pairs is NOT correctly matched? [RAS/RTS (Pre) 2018]
+| Institution | Founder |
+|---|---|
+| (a) Servants of India Society | G.K. Gokhale |
+| (b) Social Service League | N.M. Joshi |
+| (c) Seva Samiti | H.N. Kunzru |
+| (d) Social Reform Association | Shri Ram Bajpai |
+#QuestionEnd
+#AnswerStart
+Answer: d) Social Reform Association Shri Ram Bajpai
+#AnswerEnd
+
+#QuestionStart
+Q87) Consider the following statements: [R.A.S./R.T.S. (Pre) 2016]
+Assertion (A): Socio-religious movements of the 19th century resulted in the modernization of India.
+Reason (R): Rationalism, scientific temper and other such ideas which are the basis of modernization were at the core of the socioreligious movements.
+Select the correct answer from the code given below;
+a) (R) is true, but (A) is false.
+b) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q88) Arrange the following uprisings against the British colonial power in India prior to 1857 in the various parts of the country in the correct order: [R.A.S./R.T.S. (Pre) 2013]
+(i) Sepoy mutiny in Bengal
+(ii) Kutch Rebellion
+(iii) Sepoy mutiny at Vellore
+(iv) Santhal uprising
+(v) Koi uprising
+Code:
+a) (i), (iii), (ii), (v), (iv)
+b) (ii), (iii), (i), (v), (iv)
+c) (iv), (i), (iii), (ii), (v)
+d) (iii), (1), (ii), (iv), (v) (⭐ Please Re-check)
+#QuestionEnd
+#AnswerStart
+Answer: a) (i), (iii), (ii), (v), (iv)
+#AnswerEnd
+
+#QuestionStart
+Q89) Who is considered as the first ‘Modern Man’ of India? [R.A.S./R.T.S.(Pre) 2012]
+a) Nana Saheb
+b) A. O. Hume
+c) Raja Ram Mohan Roy
+d) Swami Vivekanand
+#QuestionEnd
+#AnswerStart
+Answer: c) Raja Ram Mohan Roy
+#AnswerEnd
+
+#QuestionStart
+Q90) The Greatest Parsi Social reformer of the 19th century was: [R.A.S./R.T.S.(Pre) 2010]
+a) Sir Jamshedji
+b) Sir Rustom Behramji
+c) Navalji Tata
+d) Behramji M. Mallabari
+#QuestionEnd
+#AnswerStart
+Answer: d) Behramji M. Mallabari
+#AnswerEnd
+
+#QuestionStart
+Q91) Who launched the ‘Lasodia Movement’ for social reforms amongst the Bhils of Mewar, Bagar and nearby regions? [R.A.S./R.T.S.(Pre) 2008]
+a) Mavji
+b) Govind Giri
+c) Surmal Das
+d) Moti Lal Tejawat
+#QuestionEnd
+#AnswerStart
+Answer: b) Govind Giri
+#AnswerEnd
+
+#QuestionStart
+Q92) What was common among Brahma Samaj, Ram Krishna Mission, and Arya Samaj? [R.A.S./R.T.S.(Pre) 2008]
+a) None of these three had a political mission but they helped to develop a spirit of patriotism
+b) All the three originated from Bengal
+c) Founder of all the three was educated in England
+d) Founder of all the three took active part in politics
+#QuestionEnd
+#AnswerStart
+Answer: a) None of these three had a political mission but they helped to develop a spirit of patriotism
+#AnswerEnd
+
+#QuestionStart
+Q93) Who amongst the following first used the word ‘Swaraj’ and accepted Hindi as the national language? [R.A.S./R.T.S.(Pre) 1999]
+a) Raja Ram Mohan Roy
+b) Swami Dayanand
+c) Swami Vivekanand
+d) Bal Gangadhar Tilak
+#QuestionEnd
+#AnswerStart
+Answer: b) Swami Dayanand
+#AnswerEnd
+
+#QuestionStart
+Q94) Who gave Vallabhbhai Patel the title of ‘Sardar’? [R.A.S./R.T.S. (Pre) 1997]
+a) Mahatma Gandhi
+b) Pandit Nehru
+c) Maulana Azad
+d) Kasturba
+#QuestionEnd
+#AnswerStart
+Answer: a) Mahatma Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q95) The British were able to suppress the uprising of 1857 in Rajput states because: [R.A.S./R.T.S. (Pre) 1996]
+a) The local Rajput rulers did not support revolutionaries.
+b) The educated middle class supported the British.
+c) The soldiers in cantonments were not prepared to accept leadership of revolution from outside Rajasthan.
+d) The newspaper could not project the true aim of the revolution.
+#QuestionEnd
+#AnswerStart
+Answer: a) The local Rajput rulers did not support revolutionaries.
+#AnswerEnd
+
+#QuestionStart
+Q96) The immediate cause of India’s first war of independence was: [R.A.S./R.T.S. (Pre) 1993]
+a) Doctrine of Lapse by Lord Dalhousie
+b) Suspicion about British interference in religion
+c) Military discontent
+d) Economic exploitation of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Suspicion about British interference in religion
+#AnswerEnd
+
+#QuestionStart
+Q97) The first peasant movement of India was: [R.A.S./R.T.S. (Pre) 1992]
+a) Champaran
+b) Bardoli
+c) Begu
+d) Bijolia
+#QuestionEnd
+#AnswerStart
+Answer: d) Bijolia
+#AnswerEnd
+
+#QuestionStart
+Q98) The largest number of soldiers participated in the Struggle of 1857 came from- [U.P. Lower Sub. (Pre) 2015]
+a) Bengal
+b) Oudh
+c) Bihar
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: b) Oudh
+#AnswerEnd
+
+#QuestionStart
+Q99) Who among the following famous reformers wrote the books Jnyana Yoga, Karma Yoga, and Raja Yoga? [U.P. Lower Sub. (Pre) 2015]
+a) Swami Vivekananda
+b) Ranade
+c) Raja Ram Mohan Roy
+d) Ramakrishna Paramahansa
+#QuestionEnd
+#AnswerStart
+Answer: a) Swami Vivekananda
+#AnswerEnd
+
+#QuestionStart
+Q100) The campaign for widow remarriage in Maharashtra was led by: [U.P. Lower Sub. (Pre) 2013]
+a) Vishnu Parashuram Pandit
+b) B.M. Malabari
+c) Gopal Hari Deshmukh
+d) Dadabhai Naoroji
+#QuestionEnd
+#AnswerStart
+Answer: a) Vishnu Parashuram Pandit
+#AnswerEnd
+
+#QuestionStart
+Q101) Who was the founder of Bahujan Samaj? [U.P. Lower Sub. (Spl) (Pre) 2010]
+a) Sri Narayan Guru
+b) Mukund Rao Patil
+c) Dr. B.R. Ambedkar
+d) B.R. Shinde
+#QuestionEnd
+#AnswerStart
+Answer: b) Mukund Rao Patil
+#AnswerEnd
+
+#QuestionStart
+Q102) The first Indian to write in Indian language on the causes of the uprising of 1857 was: [U.P. Lower Sub. (Pre) 2009]
+a) Syed Ahmed Khan
+b) V. D. Savarkar
+c) Bankim Chandra Chatterjee
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Syed Ahmed Khan
+#AnswerEnd
+
+#QuestionStart
+Q103) Who was ‘commander-in-chief’ of Nana saheb? [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Azimullah
+b) Birjis Qadir
+c) Tatya Tope
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Tatya Tope
+#AnswerEnd
+
+#QuestionStart
+Q104) The Bengali leader who opposed socioreligious reforms and supported orthodoxy was- [U.P. Lower Sub. (Pre) 2008]
+a) Radhakant Deb
+b) Nemisadhan Bose
+c) Hemchandra Biswas
+d) Hemchandra De
+#QuestionEnd
+#AnswerStart
+Answer: a) Radhakant Deb
+#AnswerEnd
+
+#QuestionStart
+Q105) Who was the chief director of Prarthana Samaj in Maharashtra? [U.P. Lower Sub. (Pre) 2004]
+a) R.G. Bhandarkar
+b) M.G. Ranade
+c) Pandit Ramabai
+d) Gopal Ganesh Agarkar
+#QuestionEnd
+#AnswerStart
+Answer: b) M.G. Ranade
+#AnswerEnd
+
+#QuestionStart
+Q106) Who among the following was the founder of‘Dev Samaj’? [U.P. Lower Sub. (Pre) 2003]
+a) Vallabhbhai Patel
+b) Dadabhai Naoroji
+c) Shiv Narayan Agnihotri
+d) Ramakrishna Paramhansa
+#QuestionEnd
+#AnswerStart
+Answer: c) Shiv Narayan Agnihotri
+#AnswerEnd
+
+#QuestionStart
+Q107) The first freedom struggle of 1857 failed because- [U.P. Lower Sub. (Pre) 1998]
+a) There was lack of the unity of purpose in Indian sepoys
+b) Generally, Native Kings supported British
+c) British Soldiers were better equipped and organised rather than Indians
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q108) Match list-I with list-II and select the correct answer using the codes given below the lists: [UP Lower Sub. (Pre) 1998]
+| List-I | List-II |
+|---|---|
+| A. Raja Ram Mohan Roy | 1. Said that Brahmovad should be made the religion of the world |
+| B. Keshav Chandra Sen | 2. Identified Hinduism with religion instituted in Vedas |
+| C. Dayan and Saraswati | 3. Emphasized that there are several ways to reach God |
+| D. Ramakrishna Paramhansa | 4. Purest form of Hinduism is contained in Upanishads |
+Code:
+a) 1A, 4B, 2C, 3D
+b) 1A, 4B, 3C, 2D
+c) 4A, 1B, 3C, 2D
+d) 4A, 1B, 2C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: d) 4A, 1B, 2C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q109) The Tebhaga Movement was started in 1946 from bengal under the leadership of: [66th B.P.S.C. Re-Exam (Pre) 2020]
+a) Muslim League
+b) Kisan Sabha
+c) Indian National Congress
+d) Trade Union
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Kisan Sabha
+#AnswerEnd
+
+#QuestionStart
+Q110) Who wrote the famous play, Neel Darpan in which oppression of Indigo farmers was displayed? [66th B.P.S.C. (Pre) 2020]
+a) Sharat Chandra Chatterjee
+b) Rabindranath Tagore
+c) Barindra Ghosh
+d) Dinabandhu Mitra
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Dinabandhu Mitra
+#AnswerEnd
+
+#QuestionStart
+Q111) Poona Sarvajanik Sabha was founded in: [66th B.P.S.C. Re-Exam (Pre) 2020]
+a) 1858 by Mahadev Govind Ranade
+b) 1870 by Mahadev Govind Ranade
+c) 1870 by Pandita Ramabai Ranade
+d) 1870 by Surendranath Banerjee
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1870 by Mahadev Govind Ranade
+#AnswerEnd
+
+#QuestionStart
+Q112) Which of the following was not a reason for making the sepoys of the East India Company rebellious? [B.P.S.C. (Pre) 2018]
+a) The efforts of the officers of the company to spread Christianity
+b) The order to the sepoys to travel on ships
+c) The stoppage of Bhatta
+d) The inefficiency of the officers
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) The inefficiency of the officers
+#AnswerEnd
+
+#QuestionStart
+Q113) Identify the correct combination from the options given below for Prathana Samaj, Young India, Lokahitavadi, Satyashodhak Samaj, Rehnumai Mazdayasan Sabha: [BPSC (Pre) 2018]
+a) Gopal Hari Deshmukh, Atmaram Pandurang, Mohandas Karamchand Gandhi, Jyotiba Phule, Naoroji Furdonji
+b) Atmaram Pandurang, Mohandas Karamchand Gandhi, Gopal Hari Deshmukh, Jyotiba Phule, Naoroji Furdonji
+c) Atmaram Pandurang, Jyotiba Phule, Mohandas Karamchand Gandhi, Gopal Hari Deshmukh, Naoroji Furdonji
+d) Naoroji Furdonji, Atmaram Pandurang, Mohandas Karamchand Gandhi, Gopal Hari Deshmukh, Jyotiba Phule
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Atmaram Pandurang, Mohandas Karamchand Gandhi, Gopal Hari Deshmukh, Jyotiba Phule, Naoroji Furdonji
+#AnswerEnd
+
+#QuestionStart
+Q114) Who began the Faraizi Movement? [BPSC (Pre) 2018]
+a) Haji Shariatullah
+b) Syed Ahmed
+c) Salimullah
+d) M.A. Jinnah
+#QuestionEnd
+#AnswerStart
+Answer: a) Haji Shariatullah
+#AnswerEnd
+
+#QuestionStart
+Q115) The Indigo Rebellion was about- [BPSC (Pre) 2018]
+a) the peasant not wanting to grow indigo but being forced
+b) the peasant wanting to grow indigo but being forced not to
+c) the peasant not wanting to grow indigo but being forced to grow at a price that was unacceptable
+d) a protest movement that carried and indigo-coloured flag
+#QuestionEnd
+#AnswerStart
+Answer: c) the peasant not wanting to grow indigo but being forced to grow at a price that was unacceptable
+#AnswerEnd
+
+#QuestionStart
+Q116) Who among the following did not rebel against the British East India Company’s control over them? [B.P.S.C. (Pre) 2018]
+a) Raja of Vijayanagar
+b) Nizam of Hyderabad
+c) Polygar of Tamil Nadu
+d) Dewan Velu Thampi of Travancore
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Nizam of Hyderabad
+#AnswerEnd
+
+#QuestionStart
+Q117) Swami Sahajanand Saraswati published a journal named: [63rd B.P.S.C (Pre.) 2017]
+a) Jankranti
+b) Hunkar
+c) Krishak Samachar
+d) Vidrohi
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Hunkar
+#AnswerEnd
+
+#QuestionStart
+Q118) Who was elected the first President of All India Kisan Sabha at Lucknow in 1936? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) N.G. Ranga
+b) E.M.S. Namboodripad
+c) Swami Sahajanand Saraswati
+d) Acharya Narendra Dev
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Swami Sahajanand Saraswati
+#AnswerEnd
+
+#QuestionStart
+Q119) The Waghera Uprising happened in- [56th to 59th B.P.S.C. (Pre) 2015]
+a) Surat
+b) Poona
+c) Calicut
+d) Baroda
+#QuestionEnd
+#AnswerStart
+Answer: d) Baroda
+#AnswerEnd
+
+#QuestionStart
+Q120) Who was the founder of ‘Prarthana Samaj’? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Atmaram Panduranga
+b) Tilak
+c) Annie Besant
+d) Rasbihari Ghose
+#QuestionEnd
+#AnswerStart
+Answer: a) Atmaram Panduranga
+#AnswerEnd
+
+#QuestionStart
+Q121) Who founded the ‘Theosophical Sc [53rd to 55th B.P.S.C./ (⭐ Please Re-check)
+a) Madame H.P. Blavatsky
+b) Raja Ram Mohan Roy
+c) Mahatma Gandhi
+d) Swami Vivekananda
+#QuestionEnd
+#AnswerStart
+Answer: a) Madame H.P. Blavatsky
+#AnswerEnd
+
+#QuestionStart
+Q122) Koi Mutiny of 1831 under Buddho Bhagat took place in which of the following regions? [66th B.P.S.C. (Pre) 2010] (⭐ Please Re-check)
+a) Kutch
+b) Singhbhum
+c) Western Ghats
+d) Satara
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Singhbhum
+#AnswerEnd
+
+#QuestionStart
+Q123) The revolt of 1857 at Lucknow was led by. [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Begum of Oudh
+b) Tatya Tope
+c) Rani Lakshmibai
+d) Nana Saheb
+#QuestionEnd
+#AnswerStart
+Answer: a) Begum of Oudh
+#AnswerEnd
+
+#QuestionStart
+Q124) After the revolt of 1857, the British recruited the Soldiers from the- [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Brahmins of U.P. & Bihar
+b) Bengalis and Orria’s from the East
+c) Gurkhas, Sikhs, and Punjabis in the North
+d) Madras presidency and Marathas
+#QuestionEnd
+#AnswerStart
+Answer: c) Gurkhas, Sikhs, and Punjabis in the North
+#AnswerEnd
+
+#QuestionStart
+Q125) Which one of the following commissions is associated with the Army Reorganization after the suppression of the Revolt of 1857? [45th B.P.S.C. (Pre) 2001]
+a) Public Service Commission
+b) Peel Commission
+c) Hunter Commission
+d) Simon Commission
+#QuestionEnd
+#AnswerStart
+Answer: b) Peel Commission
+#AnswerEnd
+
+#QuestionStart
+Q126) The Revolt of 1857 was witnessed by the poet- [45th B.P.S.C. (Pre) 2001]
+a) Mir Taqi Mir
+b) Zauq
+c) Ghalib
+d) Iqbal
+#QuestionEnd
+#AnswerStart
+Answer: c) Ghalib
+#AnswerEnd
+
+#QuestionStart
+Q127) Kuka Movement was organized by- [45th B.P.S.C. (Pre) 2001]
+a) Guru Ram Das
+b) Guru Nanak
+c) Guru Ram Singh
+d) Guru Gobind Singh
+#QuestionEnd
+#AnswerStart
+Answer: c) Guru Ram Singh
+#AnswerEnd
+
+#QuestionStart
+Q128) The best representative of Neo-Hindustan in the second half of the nineteenth century was- [41st B.P.S.C. (Pre) 1996]
+a) Ramkrishna Paramhans
+b) Swami Vivekanand
+c) Bankim Chandra Chatterji
+d) Raja Rammohan Roy
+#QuestionEnd
+#AnswerStart
+Answer: b) Swami Vivekanand
+#AnswerEnd
+
+#QuestionStart
+Q129) Which of the following groups did not participate in the revolt of 1857? [40th B.P.S.C. (Pre) 1995]
+1. Agricultural Labour
+2. Sahukar
+3. Farmers
+4. Landlords
+Select your answer from the following codes:
+a) Only 1
+b) 1 and 2
+c) Only 2
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q130) Who called the revolt of 1857 a conspiracy? [40th B.P.S.C. (Pre) 1995]
+a) Sir James Outram and W. Taylor
+b) Sir John K.
+c) Sir John Lawrence
+d) T.R. Homes
+#QuestionEnd
+#AnswerStart
+Answer: a) Sir James Outram and W. Taylor
+#AnswerEnd
+
+#QuestionStart
+Q131) Trace the tribe that rebelled against Britishers because human sacrifice system was banned- [40th B.P.S.C. (Pre) 1995]
+a) Kuki
+b) Khond
+c) Oraon
+d) Nackda
+#QuestionEnd
+#AnswerStart
+Answer: b) Khond
+#AnswerEnd
+
+#QuestionStart
+Q132) Who demanded the right to enter temples that caused a terrible riot in Tirunevali in 1899? [40th B.P.S.C. (Pre) 1995]
+a) Okalinga
+b) Nadars
+c) Mahar
+d) Pali
+#QuestionEnd
+#AnswerStart
+Answer: b) Nadars
+#AnswerEnd
+
+#QuestionStart
+Q133) Consider the following statements: [39th B.P.S.C. (Pre) 1994]
+Assertion (A): The first war of Independence in 1857 failed to secure freedom from the British Government.
+Reason (R): The leadership of Bahadur Shah Zafar did not have popular support and most of the Indian rulers of important States shied away from the struggle.
+Select the correct answer from the code given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, and (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q134) What was the purpose of Barhiyataal resistance in Munger? [39th B.P.S.C. (Pre) 1994]
+a) Demand of Bakast land restoration
+b) Muslim peasants may not be exploited
+c) Abolishment of Zamindari custom
+d) Beginning of class struggle
+#QuestionEnd
+#AnswerStart
+Answer: a) Demand of Bakast land restoration
+#AnswerEnd
+
+#QuestionStart
+Q135) Who founded Ramosi Krishak Jatha in Maharashtra? [39th B.P.S.C. (Pre) 1994]
+a) Justice Ranade
+b) Gopal Krishna Gokhale
+c) Vasudeo Balwant Phadke
+d) Jyotiba Phule
+#QuestionEnd
+#AnswerStart
+Answer: c) Vasudeo Balwant Phadke
+#AnswerEnd
+
+#QuestionStart
+Q136) ‘Nai-Dhobi Band’ was a form of social boycott in 1919 which- [39th B.P.S.C. (Pre) 1994]
+a) was started by the farmers of Pratapgarh district
+b) was a movement started by saints for the emancipation of the people lower classes
+c) was a step against contractors of lower castes by landlords
+d) was a movement against contractors by lower castes
+#QuestionEnd
+#AnswerStart
+Answer: a) was started by the farmers of Pratapgarh district
+#AnswerEnd
+
+#QuestionStart
+Q137) Which of the following statement(s) is/are correct? [CAPF 2020]
+1. Parmahansa Mandali was founded in Bengal by Swami Vivekananda.
+2. Prarthana Samaj was started in Maharashtra with the aim of reforming Hindu religious thought and practice.
+Select the correct answer using the codes given below
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q138) Which of the following statements about the Arya Samaj, which emerged in the late 19th century are correct? [CAPF 2019]
+1. Had a very strong support base amongst the trading castes.
+2. Introduced ‘Shuddh i’ or mass purification.
+3. The moderates in the Arya Samaj were headed by Hans Raj and Lajpat Rai and set up a chain of Dayanand Anglo-Vedic colleges.
+4. The Arya Samaj had fewer members than the Brahmo Samaj.
+Select the correct answer using the code given below:
+a) 1 and 2
+b) 1,2 and 3
+c) 3 and 4
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q139) Which of the following statements about Prarthana Samaj are correct? [CAPF 2019]
+1. Its aim was to reform the Hindu society.
+2. It was based in Maharashtra.
+3. It believed in Monotheism.
+4. It had greatly influenced the Brahmo Samaj.
+Select the correct answer using the code given below:
+a) 1 and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q140) Consider the following events: [CAPF 2019]
+1. Foundation of the Ramakrishna Mission
+2. Foundation of the Arya Samaj
+3. Foundation of the Brahmo Samaj
+4. Foundation of the Paramhans Mandali
+Which one of the following is the correct chronological order of the above?
+a) 1, 2, 3, 4
+b) 2, 3, 4, 1
+c) 3, 4, 1, 2
+d) 3, 4, 2, 1
+#QuestionEnd
+#AnswerStart
+Answer: d) 3, 4, 2, 1
+#AnswerEnd
+
+#QuestionStart
+Q141) Which one of the following statements about the Indigo Revolt of 1859 is correct? [CAPF 2017]
+a) It broke out at Poona and Ahmadnagar.
+b) It was directed against moneylenders.
+c) It was supported by the intelligentsia of Bengal.
+d) It was directed against the petty Zamindars and ex-employees of the planters.
+#QuestionEnd
+#AnswerStart
+Answer: c) It was supported by the intelligentsia of Bengal.
+#AnswerEnd
+
+#QuestionStart
+Q142) Which of the following is/are characteristic(s) of the Ryotwari system? [CAPF 2016]
+1. It was the brainchild of Thomas Munro.
+2. It was meant to reduce intermediaries.
+3. Cultivating peasants were gradually impoverished by the system.
+4. It was introduced in parts of Madras and Bengal Presidency.
+Select the correct answer using the code give below.
+a) 1 only
+b) 1, 2 and 3
+c) 2 and 4 only
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q143) Who among the following founded the Atmiya Sabha in 1815? [CAPF 2016]
+a) Keshab Chandra Sen
+b) Debendranath Tagore
+c) Ram Mohan Roy
+d) Bijoy Krishna Goswami
+#QuestionEnd
+#AnswerStart
+Answer: c) Ram Mohan Roy
+#AnswerEnd
+
+#QuestionStart
+Q144) Consider the following statements about the Santhal Hool of 1855-56. [CAPF 2016]
+1. The Santhals were in a desperate situation as tribal lands were leased out.
+2. The Santhal rebels were treated very leniently by British officials.
+3. Santhal inhabited areas were eventually constituted into separate administrative units called Santhal parganas.
+4. The Santhal rebellion was the only major rebellion in mid 19th century India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3
+c) 1,3 and 4
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q145) Match List I with List II and select the correct answer using the code given below the lists. [CAPF 2015]
+| List I (Peasant Movement) | List II (Leader/ Follower) |
+|---|---|
+| A. Bakasht Land Movement | 1. Baba Ramchandra |
+| B. Eka Movement | 2. Kunhammed Haji |
+| C. Mappila Rebellion | 3. Madari Pasi |
+| D. Avadh Kisan Sabha Movement | 4. Karyanand Sharma |
+Codes:
+a) 4A, 3B, 2C, 1D
+b) 4A, 2B, 3C, 1D
+c) 1A, 2B, 3C, 4D
+d) 1A, 3B, 2C, 4D
+#QuestionEnd
+#AnswerStart
+Answer: a) 4A, 3B, 2C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q146) Match List I with List II and select the correct answer using the code given below the lists. [CAPF 2015]
+| List I (Movement) | List II (Mass base/ Following) |
+|---|---|
+| A. Bardoli Satyagraha | 1. Bargadars |
+| B. Tebhaga | 2. Kaliparaj |
+| C. Satyasodhak Samaj | 3. Mundas |
+| D. Ulgulan | 4. Kunbi peasantry |
+Codes:
+a) 2A, 4B, 1C, 3D
+b) 2A, 1B, 4C, 3D
+c) 3A, 4B, 1C, 2D
+d) 3A, 1B, 4C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: b) 2A, 1B, 4C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q147) In 1893, there occurred a split in the Arya Samaj on the issue(s) of [CAPF 2015]
+1. Meat-eating vs vegetarianism.
+2. Caste system and widow remarriage.
+3. Shuddhi of converts.
+4. Anglicised vs Sanskrit-based education.
+Select the correct answer using the code given below.
+a) 1,3 and 4
+b) 2 and 4 only
+c) 1 and 4 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q148) Who among the following were well known as champions of women’s education in colonial India? [CAPF 2015]
+1. Sister Subbalaksmi
+2. Begum Rokeya Sakhawat Hossain
+3. Keshub Chandra Sen
+4. Ananda Coomaraswamy
+Select the correct answer using the code given below.
+a) 1, 2, 3 and 4
+b) 1,2 and 3 only
+c) 3 and 4 only
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q149) Which one among the following is not true for the Brahmo Samaj? [CAPF 2014]
+a) It considered Vedic scriptures as infallible
+b) It opposed idolatry
+c) It emphasized the worship of one God
+d) It emphasized the worship of God without the mediation of priests
+#QuestionEnd
+#AnswerStart
+Answer: a) It considered Vedic scriptures as infallible
+#AnswerEnd
+
+#QuestionStart
+Q150) Which one among the following is not true for the Theosophical Society of Madam H P Blavatsky? [CAPF 2014]
+a) It was founded outside India
+b) It advocated the revival of ancient religions
+c) It recognized the doctrine of transmigration of soul
+d) It was silent on the idea of Universal Brotherhood
+#QuestionEnd
+#AnswerStart
+Answer: d) It was silent on the idea of Universal Brotherhood
+#AnswerEnd
+
+#QuestionStart
+Q151) Who among the following founded the Hindu Dharma Sabha in the 19th century? [CDS 2023 (I)]
+a) Radhakanta Deb
+b) Ram Mohan Roy
+c) Dwarkanath Tagore
+d) Keshab Chandra Sen
+#QuestionEnd
+#AnswerStart
+Answer: a) Radhakanta Deb
+#AnswerEnd
+
+#QuestionStart
+Q152) The ‘Tattvabodhini Sabha’ was established by [CDS 2020 (I)]
+a) Devendranath Tagore in 1839
+b) Keshab Chandra Sen in 1857
+c) Akshay Kumar Datta in 1850
+d) Dwarakanath Tagore in 1840
+#QuestionEnd
+#AnswerStart
+Answer: a) Devendranath Tagore in 1839
+#AnswerEnd
+
+#QuestionStart
+Q153) Which one of the following towns was not a centre of the Revolt of 1857? [CDS 2020 (II)]
+a) Ayodhya
+b) Agra
+c) Delhi
+d) Kanpur
+#QuestionEnd
+#AnswerStart
+Answer: a) Ayodhya
+#AnswerEnd
+
+#QuestionStart
+Q154) Consider the following statements: The Azamgarh Proclamation refers to [CDS 2020 (II)]
+1. the declaration by the rebels of 1857.
+2. the statement by the leader of the underground movement in the Revolt of 1942.
+Which of the statements given above is/are not correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q155) The following item consist of two statements, Statement I and Statement IL Examine these two statements carefully and select the correct answer using the code given below: [CDS 2019 (II)]
+Statement I: The Oudh Kisan Sabha established in 1920 failed to bring under its wing any Kisan Sabhas.
+Statement II: The Oudh Kisan Sabha asked the Kisans to refuse to till Bedakhli land, not to offer hari and began
+a) Both the statements are individually true, and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+c) Statement I is true, but Statement II is false.
+d) Statement I is false, but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement I is false, but Statement II is true.
+#AnswerEnd
+
+#QuestionStart
+Q156) The elected President of the All-India Kisan Sabha, which met in Vijayawada (1944), was [CDS 2018 (II)]
+a) Sahajananda Saraswati
+b) Vinoba Bhave
+c) Achyut Rao Patwardhan
+d) Narendra Dev
+#QuestionEnd
+#AnswerStart
+Answer: a) Sahajananda Saraswati
+#AnswerEnd
+
+#QuestionStart
+Q157) Which one of the following peasant struggles was an outcome of British opium policy? [CDS 2017 (II)]
+a) Phulaguri Dhawa [1861]
+b) Birsaite Ulgulan [1899-1900]
+c) Pabna Revolt [1873]
+d) Maratha Peasant Uprising [1875]
+#QuestionEnd
+#AnswerStart
+Answer: a) Phulaguri Dhawa [1861]
+#AnswerEnd
+
+#QuestionStart
+Q158) Which of the following statements about the Shiromani Gurudwara Prabandhak Committee (SGPC) are correct? [CDS 2017 (I)]
+1. It began as the political wing of the Singh Sabhas in the late 19th century.
+2. It was formed in 1920 as part of the upcoming Akali movement.
+3. It was founded to reclaim control of the Sikh shrines from the government manipulated loyalist committees.
+4. It formed the Akali Dal to coordinate groups (Jathas) to reclaim control of the shrines.
+Select the correct answer using the codes given below
+a) 1, 3 and 4
+b) 2, 3 and 4
+c) 2 and 4 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q159) Which of the following statement(s) about the social base of the Arya Samaj in British India is/are correct? [CDS 2017 (I)]
+1. It was located mainly in Punjab and Western Uttar Pradesh.
+2. It mainly comprised the trading castes.
+3. It was much more limited than that of the Brahmo Samaj.
+Select the correct answer using the codes given below
+a) 1 and 2
+b) 2 and 3
+c) 1 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q160) Which of the following statement(s) about Jyotirao Phule’s Satyashodhak Sama] Movement in Maharashtra is/are true? [CDS 2015 (II)]
+1. The Satyashodhak Samaj was set-up in 1873.
+2. Phule argued that Brahmins were the progeny of ‘alien’ Aryans.
+3. Phule’s focus on the Kunbi peasantry in the 1880s and 1890s led to a privileging of Maratha identity.
+Select the correct answer using the codes given below:
+a) 1 and 2
+b) Only 2
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q161) Which of the following statement(s) about Maulvi Ahmadullah Shah, who played an important part in the Revolt of 1857 is/are correct? [CDS 2015 (II)]
+1. He was popularly known as Danka Shah or the Maulvi with a drum.
+2. He fought in the famous Battle of Chinhat.
+3. He was killed by British troops under the command of Henry Lawrence.
+Select the correct answer using the codes given below:
+a) Only 1
+b) 1 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q162) Which of the following is/are the characteristic(s) of the Sannyasi and Fakir uprisings? [CDS 2015 (I)]
+1. These uprisings refer to a series of skirmishes between the English East India Company and a group of Sannyasis and Fakirs.
+2. One reason for the uprising was the ban on free movement of the Sannyasis along pilgrimage routes.
+3. In the course of the uprisings in 1773, Warren Hastings issued a proclamation banishing all Sannyasis from Bengal and Bihar.
+4. Are contemporaneous with the NonCooperation Movement.
+Select the correct answer using the codes given below:
+a) 1 Only
+b) 1 and 3 Only
+c) 1, 2 and 3
+d) 2 and 4 Only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q163) The following item consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below: [CDS 2014 (II)]
+Statement I: Ram Mohan Roy in his famous work Gift to Monotheism put forward weighty arguments against belief in many Gods and for the worship of a single God.
+Statement II: Ram Mohan Roy in his Precepts of Jesus tried to separate the moral and philosophic message of the New Testament.
+a) Both the statements are individually true, and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+c) Statement I is true, but Statement II is false.
+d) Statement I is false, but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+
+#QuestionStart
+Q164) The following item consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below: [CDS 2014 (II)]
+Statement I: The Bethune School, founded in Calcutta in 1849 was the first fruit of the powerful movement for women’s education that arose in the 1840s and 1850s.
+Statement II: The first step in giving modern education to girls was undertaken by Vidyasagar in 1800.
+a) Both the statements are individually true, and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+c) Statement I is true, but Statement II is false.
+d) Statement I is false, but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement I is true, but Statement II is false.
+#AnswerEnd
+
+#QuestionStart
+Q165) The following item consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below: [CDS 2014 (II)]
+Statement I: The annexation of Awadh by Lord Dalhousie in 1856 adversely affected the financial conditions of the sepoys.
+Statement II: The sepoys had to pay higher taxes on the land where their family members stayed in Awadh.
+a) Both the statements are individually true, and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+c) Statement I is true, but Statement II is false.
+d) Statement I is false, but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true, and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+
+#QuestionStart
+Q166) Who among the following was not associated with the activities of the Theosophical Society? [CDS 2014 (I)]
+a) Madame HP Blavatsky
+b) Mr AO Hume
+c) Col HS Olcott
+d) Mrs Annie Besant
+#QuestionEnd
+#AnswerStart
+Answer: b) Mr AO Hume
+#AnswerEnd
+
+#QuestionStart
+Q167) Azimullah Khan was an advisor to [Uttarakhand P.C.S. (Pre) 2012]
+a) Nana Saheb
+b) Tatya Tope
+c) Rani Laxmi Bai
+d) Kunwar Singh
+#QuestionEnd
+#AnswerStart
+Answer: a) Nana Saheb
+#AnswerEnd
+
+#QuestionStart
+Q168) Which tribal leader is known as ‘Dharti Aaba’ (Father of World)? [Uttarakhand P.C.S. (Mains) 2002]
+a) Jiriya Bhagat
+b) Kanu Sanyal
+c) Roop Nayak
+d) Birsa Munda
+#QuestionEnd
+#AnswerStart
+Answer: d) Birsa Munda
+#AnswerEnd
+
+#QuestionStart
+Q169) Mangai Pandey incident took place at: [Uttarakhand P.C.S. (Mains) 2002]
+a) Meerut
+b) Barrackpore
+c) Ambala
+d) Lucknow
+#QuestionEnd
+#AnswerStart
+Answer: b) Barrackpore
+#AnswerEnd
+
+#QuestionStart
+Q170) Sharda Act related to- [Uttarakhand P.C.S. (Mains) 2002]
+a) Prevention of child marriage
+b) Prevention of inter-caste marriage
+c) Prevention of widow marriage
+d) Prevention of tribal marriage
+#QuestionEnd
+#AnswerStart
+Answer: a) Prevention of child marriage
+#AnswerEnd
+
+#QuestionStart
+Q171) Who was the Correspondent of the Newspaper ‘Times’ published from London in 1857 wrote that “Nobody in the North India looks at white man’s car with friendly view”? [M.P.P.C.S. (Pre.) 2020]
+a) W.H. Russel
+b) Robert Peel
+c) Gladoston
+d) Palmerston
+#QuestionEnd
+#AnswerStart
+Answer: a) W.H. Russel
+#AnswerEnd
+
+#QuestionStart
+Q172) ‘Indian nationalism in the middle of the 19th century was in Embryonic stage’. Which historians are related to this fact? [M.P.P.C.S. (Pre.) 2020]
+a) Dr. R.C. Majumdar and Dr. S.N. Sen
+b) Sir James Outram and W. Tailor
+c) T.R. Homes and L.E.R. Reas
+d) Sir John Lawrence and Seale
+#QuestionEnd
+#AnswerStart
+Answer: a) Dr. R.C. Majumdar and Dr. S.N. Sen
+#AnswerEnd
+
+#QuestionStart
+Q173) Who founded the Adi Brahma Samaj? [M.P.P.C.S. (Pre.) 2020]
+a) Devendranath Tagore
+b) Keshav Chandra Sen
+c) Raja Ram Mohan Roy
+d) Ravindranath Tagore
+#QuestionEnd
+#AnswerStart
+Answer: a) Devendranath Tagore
+#AnswerEnd
+
+#QuestionStart
+Q174) Which of the following brave from Bhopal led the main movement and sacrificed his life during the first struggle for Independence in 1857? [MPPCS (Pre) 2019]
+a) Fazil Mohammad Khan
+b) Sheikh Ramzan
+c) Dost Mohammad Khan
+d) Habibulla Khan
+#QuestionEnd
+#AnswerStart
+Answer: a) Fazil Mohammad Khan
+#AnswerEnd
+
+#QuestionStart
+Q175) “The British empire is rotten to the core, corrupt in every direction and tyrannical and mean.” This statement was made by- [M.P.P.C.S. (Pre) 2018]
+a) Sister Nivedita
+b) Savitribai Phule
+c) Annie Besant
+d) Bal Gangadhar Tilak
+#QuestionEnd
+#AnswerStart
+Answer: a) Sister Nivedita
+#AnswerEnd
+
+#QuestionStart
+Q176) Who adorned Ram Mohan Roy with the title of‘Raja’? [M.P.P.C.S. (Pre) 2017]
+a) Aurangzeb
+b) Robert Clive
+c) Mahatma Gandhi
+d) Mughal Emperor Akbar-II
+#QuestionEnd
+#AnswerStart
+Answer: d) Mughal Emperor Akbar-II
+#AnswerEnd
+
+#QuestionStart
+Q177) Who among the following was the first leader to organize labour movement in India? [M.P.P.C.S (Pre) 2017]
+a) B.P. Walia
+b) Lala Lajpat Rai
+c) N.M. Lokhande
+d) N.G. Ranga
+#QuestionEnd
+#AnswerStart
+Answer: c) N.M. Lokhande
+#AnswerEnd
+
+#QuestionStart
+Q178) Modern Historian, who called the revolt of 1857 as the first Independence War was- [M.P.P.C.S. (Pre) 2008]
+a) Dr. R.C. Mazumdar
+b) Dr. S.N. Sen
+c) V. D. Savarkar
+d) Ashok Mehta
+#QuestionEnd
+#AnswerStart
+Answer: c) V. D. Savarkar
+#AnswerEnd
+
+#QuestionStart
+Q179) Who of the following had struggled against Britishers in 1857? [M.P.P.C.S. (Pre) 2000]
+a) Chandrasekhar Azad
+b) Ramprasad Bilsmil
+c) Saadat Khan
+d) Makhan Lal Chaturvedi
+#QuestionEnd
+#AnswerStart
+Answer: c) Saadat Khan
+#AnswerEnd
+
+#QuestionStart
+Q180) Which reformer of Maharashtra is also known as ‘Lokahitvadi’? [M.P.P.C.S. (Pre) 1995]
+a) M.G. Ranade
+b) Gopal Krishna Gokhale
+c) Pandit Ramabai
+d) Gopal Hari Deshmukh
+#QuestionEnd
+#AnswerStart
+Answer: d) Gopal Hari Deshmukh
+#AnswerEnd
+
+#QuestionStart
+Q181) Which of the following statement is not correct? [M.P.P.C.S. (Pre) 1995]
+a) Dr. Annie Besant was a Theosophist
+b) The International headquarter of Theosophical society is in Madras
+c) Swami Dayanand founded Arya Samaj
+d) Mahatma Gandhi was born in Gandhinagar
+#QuestionEnd
+#AnswerStart
+Answer: d) Mahatma Gandhi was born in Gandhinagar
+#AnswerEnd
+
+#QuestionStart
+Q182) Which of the following statements is not correct? [M.P.P.C.S. (Pre) 1994]
+a) In 1829, William Bentinck declared Sati System an offence by law.
+b) The Government had passed an Act in 1856 under which Hindu widows could remarry.
+c) Swami Dayanand Saraswati founded Arya Samaj in 1875.
+d) Raja Ram Mohan Roy was the supporter of Sati System.
+#QuestionEnd
+#AnswerStart
+Answer: d) Raja Ram Mohan Roy was the supporter of Sati System.
+#AnswerEnd
+
+#QuestionStart
+Q183) Maharani Laxmibai had combated in last battle against- [M.P.P.C.S. (Pre) 1992]
+a) Hugh Rose
+b) Guff
+c) Niel
+d) Havlock
+#QuestionEnd
+#AnswerStart
+Answer: a) Hugh Rose
+#AnswerEnd
+
+#QuestionStart
+Q184) The symbol of 1857 independence struggle was- [M.P.P.C.S. (Pre) 1990]
+a) Lotus and Chapatis
+b) Eagle
+c) Scarf
+d) Two sword
+#QuestionEnd
+#AnswerStart
+Answer: a) Lotus and Chapatis
+#AnswerEnd
+
+#QuestionStart
+Q185) Read the following statements and choose the correct option: [Chhattisgarh PCS (Pre) 2021]
+1. Ganjam Revolt occurred during AD 1800 to 1805
+2. Ganjam Revolt was led by Dhananjay
+3. Revolt of Gumsur was led by Shrikar Bhanja
+4. Dhananjay was father of Shrikar Bhanja
+Which of the above statements is/are true?
+a) 1, 2 and 3
+b) 1, 2 and 4
+c) 1 and 2
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q186) Who has advocated ‘Practical Vedanta’? [Chhattisagarh P.C.S. (Pre) 2019]
+a) Dayanad
+b) Raja Ram Mohan Roy
+c) Gandhi
+d) Vivekananda
+#QuestionEnd
+#AnswerStart
+Answer: d) Vivekananda
+#AnswerEnd
+
+#QuestionStart
+Q187) The following popular movements occurred after 1857: [Chhattisgarh P.C.S. (Pre) 2017]
+1. Santhal Rebellion
+2. Indigo Revolt
+3. Deccan Agriculturists Riots
+4. Birsa Munda Uprising
+Select the correct answer:
+a) 1,2,3
+b) 2, 3, 4
+c) 1,2,4
+d) 1, 3, 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q188) The revolt of Vellore occur during the regime of which Governor? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Wellesley
+b) Lord Minto
+c) Lord Cornwallis
+d) Sir George Barlow
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Sir George Barlow
+#AnswerEnd
+
+#QuestionStart
+Q189) Who was the composer of the song ‘Vande Mataram’? [Chhattisgarh P.C.S. (Pre) 2005]
+a) Rabindra Nath Tagore
+b) Ramdhari Singh Dinkar
+c) Sarojini Naidu
+d) Bankimchandra Chatterjee
+#QuestionEnd
+#AnswerStart
+Answer: d) Bankimchandra Chatterjee
+#AnswerEnd
+
+#QuestionStart
+Q190) Who was the leader of Bhumij Revolt? [Jharkhand P.C.S. (Pre.) 2021]
+a) Bhagirath
+b) Dubia Gosain
+c) Jatra Bhagat
+d) Ganga Narain
+#QuestionEnd
+#AnswerStart
+Answer: d) Ganga Narain
+#AnswerEnd
+
+#QuestionStart
+Q191) The first tribal leader who was inspired by Mahatma Gandhi and his ideology was- [Jharkhand PCS (Pre) 2013]
+a) Alluri Sitaram Raju
+b) Jodanang
+c) Jhabkar Bapa
+d) Rani Gaidinliu
+#QuestionEnd
+#AnswerStart
+Answer: b) Jodanang
+#AnswerEnd
+
+#QuestionStart
+Q192) Who led the revolt of Santhals? [Jharkhand P.C.S. (Pre) 2003]
+a) Siddhu-Kanhu
+b) Bhairav Chand
+c) Both (a) and (b)
+d) None of (a) and (b)
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (a) and (b)
+#AnswerEnd
+
+#QuestionStart
+Q193) Who of the following said, ‘good Government is no substitute for SelfGovernment’? [Uttaranchal P.C.S. (Pre) 2005]
+a) Lokmanya Tilak
+b) Swami Vivekananda
+c) Swami Dayanand
+d) Ravindranath Tagore
+#QuestionEnd
+#AnswerStart
+Answer: c) Swami Dayanand
+#AnswerEnd

@@ -1,0 +1,150 @@
+#QuestionStart
+Q1) Consider the following materials: (2024)
+1. Agricultural residues
+2. Corn grain
+3. Wastewater treatment sludge
+4. Wood mill waste
+Which of the above can be used as feedstock for producing Sustainable Aviation Fuel?
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 2, 3 and 4
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to radioisotope thermoelectric generators (RTGs), consider the following statements: (2024)
+1. RTGs are miniature fission reactors.
+2. RTGs are used for powering the onboard systems of spacecraft.
+3. RTGs can use Plutonium-238, which is a by-product of weapons development.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following is the exhaust pipe emission from Fuel Cell Electric Vehicles, powered by hydrogen? (2024)
+a) Hydrogen peroxide
+b) Hydronium
+c) Oxygen
+d) Water vapour
+#QuestionEnd
+#AnswerStart
+Answer: d) Water vapour
+#AnswerEnd
+
+#QuestionStart
+Q4) Recently, the term"pumped-storage hydropower" is actually and appropriately discussed in the context of which one of the following? (2024)
+a) Irrigation of terraced crop fields
+b) Lift irrigation of cereal crops
+c) Long duration energy storage
+d) Rainwater harvesting system
+#QuestionEnd
+#AnswerStart
+Answer: c) Long duration energy storage
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following: (2024)
+1. Battery storage
+2. Biomass generators
+3. Fuel cells
+4. Rooftop solar photovoltaic units
+How many of the above are considered “Distributed Energy Resources"?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: d) All four
+#AnswerEnd
+
+#QuestionStart
+Q6) India is an important member of the ‘International Thermonuclear Experimental Reactor’. If this experiment succeeds, what is the immediate advantage for India? (2016)
+a) It can use thorium in place of uranium for power generation
+b) It can attain a global role in satellite navigation
+c) It can drastically improve the efficiency of its fission reactors in power generation
+d) It can build fusion reactors for power generation
+#QuestionEnd
+#AnswerStart
+Answer: d) It can build fusion reactors for power generation
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to ‘fuel cells’ in which hydrogen-rich fuel and oxygen are used to generate electricity. Consider the following statements: (2015)
+1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by- products.
+2. Fuel cells can be used for powering buildings and not for small devices like laptop computers.
+3. Fuel cells produce electricity in the form of Alternating Current (AC).
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to technology for solar power production, consider the following statements: (2014)
+1. 'Photovoltaics' is a technology that generates electricity by direct conversion of light into electricity, while 'Solar Thermal' is a technology that utilises the Sun's rays to generate heat which is further used in the electricity generation process.
+2. Photovoltaics generates Alternating Current (AC), while Solar Thermal generates Direct Current (DC).
+3. India has a manufacturing base for Solar Thermal Technology but not for photovoltaics.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q9) To meet its rapidly growing energy demand, some opine that India should pursue research and development on thorium as the future fuel of nuclear energy. In this context, what advantage does thorium hold over uranium? (2012)
+1. Thorium is far more abundant in nature than uranium.
+2. On the basis of per unit mass of mined mineral, thorium can generate more energy compared to natural uranium.
+3. Thorium produces less harmful waste compared to uranium.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q10) Microbial fuel cells are considered a source of sustainable energy. Why? (2011)
+1. They use living organisms as catalysts to generate electricity from certain substrates.
+2. They use a variety of inorganic materials as substrates.
+3. They can be installed in wastewater treatment plants to cleanse water and produce electricity.
+Which of the following statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q11) The function of heavy water in a nuclear reactor is to? (2011)
+a) Slow down the speed of neutrons.
+b) Increase the speed of neutrons.
+c) Cooldown the reactor.
+d) Stop the nuclear reaction.
+#QuestionEnd
+#AnswerStart
+Answer: a) Slow down the speed of neutrons.
+#AnswerEnd

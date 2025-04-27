@@ -1,0 +1,710 @@
+#QuestionStart
+Q36) Black-hole is: [UPPCS (Pre) 2019]
+a) a flight recorder in aeroplane
+b) a spot on the sun
+c) a place in Antarctica
+d) a collapsed star
+#QuestionEnd
+#AnswerStart
+Answer: d) a collapsed star
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following events:
+1. First reptiles
+2. First insects
+3. Shelled animals
+4. First mammals
+Arrange the above events in Chronological order of their origin on the earth and select the correct answer from the codes given below: [U.P. P.C.S. (Pre) 2018]
+a) 2, 1, 3, 4
+b) 2, 3, 1, 4
+c) 3, 2, 1, 4
+d) 2, 4, 1, 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3, 2, 1, 4
+#AnswerEnd
+
+#QuestionStart
+Q38) Which of the following pairs is not properly matched? [U.P.PC.S. (Mains) 2011]
+a) The largest planet of the Solar System -Jupiter
+b) The smallest planet of the Solar System -Mercury
+c) The brightest planet of the Solar System - Venus
+d) The slowest moving planet of Solar System - Mars
+#QuestionEnd
+#AnswerStart
+Answer: d) The slowest moving planet of Solar System - Mars
+#AnswerEnd
+
+#QuestionStart
+Q39) The ‘blue moon’ phenomenon occurs when- [U.P.P.C.S. (Mains) 2009]
+a) Two full moons occur in the same month,
+b) Four full moons appear in two consecutive months of the same calendar year.
+c) Two full moons appear in the same month, thrice in a calendar.
+d) None of the above.
+#QuestionEnd
+#AnswerStart
+Answer: a) Two full moons occur in the same month,
+#AnswerEnd
+
+#QuestionStart
+Q40) Solar energy is due to- [U.P.P.C.S. (Pre) 2006]
+a) Ionization
+b) Nuclear Fusion
+c) Nuclear Fission
+d) Oxidation
+#QuestionEnd
+#AnswerStart
+Answer: b) Nuclear Fusion
+#AnswerEnd
+
+#QuestionStart
+Q41) When any object is taken from the Earth to the Moon? [U.P.P.C.S. (Pre) 2006]
+a) Its weight increases
+b) Its weight decreases
+c) There is no change in its weight
+d) It becomes totally weightless
+#QuestionEnd
+#AnswerStart
+Answer: b) Its weight decreases
+#AnswerEnd
+
+#QuestionStart
+Q42) On the surface of the moon, two persons cannot listen to each other as- [U.P.P.C.S. (Pre) 2003]
+a) Their ears stop working at the Moon.
+b) There is no atmosphere on the Moon.
+c) They wear special types of space suits on the Moon.
+d) Sound travels very slowly on the Moon.
+#QuestionEnd
+#AnswerStart
+Answer: b) There is no atmosphere on the Moon.
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following statements: [U.P.P.C.S. (Pre) 2003]
+Assertion (A): A black hole is an astronomical entity that cannot be seen by telescope.
+Reason (R): The gravitational field on a black hole is so strong that it does not allow even light to escape.
+In the context of the above statements, which one of the following is correct:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but R is false.
+d) (A) is false, but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q44) Which of the following planets takes the least time to orbit the sun? [U.P.P.C.S. (Pre) 2002]
+a) Pluto
+b) Mercury
+c) Earth
+d) Saturn
+#QuestionEnd
+#AnswerStart
+Answer: b) Mercury
+#AnswerEnd
+
+#QuestionStart
+Q45) The milky way is classified as- [U.P.P.C.S. (Pre) 2001]
+a) Spiral Galaxy
+b) Elliptical Galaxy
+c) Irregular Galaxy
+d) Round Galaxy
+#QuestionEnd
+#AnswerStart
+Answer: a) Spiral Galaxy
+#AnswerEnd
+
+#QuestionStart
+Q46) Which one of the following longitudes along with the Prime Meridian forms a great circle on the globe? [U.P.P.C.S. (Pre) 2000]
+a) 0°
+b) 90° E
+c) 90° W
+d) 180°
+#QuestionEnd
+#AnswerStart
+Answer: d) 180°
+#AnswerEnd
+
+#QuestionStart
+Q47) The limit beyond which stars suffer internal collapse is called: [U.P.P.C.S. (Pre) 1997]
+a) Chandrashekhar limit
+b) Eddington limit
+c) Hoyle limit
+d) Fowler limit
+#QuestionEnd
+#AnswerStart
+Answer: a) Chandrashekhar limit
+#AnswerEnd
+
+#QuestionStart
+Q48) A Ball thrown outside from an artificial satellite revolving around the Earth will- [U.P.P.C.S. (Pre) 1995]
+a) Go to the Sun
+b) Go to the Moon
+c) Fall on the Earth
+d) Revolve around the Earth in the same orbit with the same time period as satellite
+#QuestionEnd
+#AnswerStart
+Answer: d) Revolve around the Earth in the same orbit with the same time period as satellite
+#AnswerEnd
+
+#QuestionStart
+Q49) Which is true about planets? [U.P.P.C.S. (Pre) 1992]
+a) Planets are non-luminous bodies and don’t shine
+b) Planets shine though they are non-luminous bodies
+c) Planets do not shine though they are the luminous body
+d) Planets are the luminous body and also shine
+#QuestionEnd
+#AnswerStart
+Answer: b) Planets shine though they are non-luminous bodies
+#AnswerEnd
+
+#QuestionStart
+Q50) The solar eclipse occurs on- [U.P.P.C.S. (Pre) 1991]
+a) Quarter Moon Day
+b) New Moon Day
+c) Any day
+d) Full Moon Day (Poornima)
+#QuestionEnd
+#AnswerStart
+Answer: b) New Moon Day
+#AnswerEnd
+
+#QuestionStart
+Q51) Which of the following groups of planets is termed as ‘gas planets’ as they are composed primarily of lighter ice, liquids and gases? [CDS 2023 (I)]
+a) Mars, Jupiter, Neptune, Uranus
+b) Jupiter, Uranus, Neptune, Saturn
+c) Saturn, Mars, Jupiter, Neptune
+d) Neptune, Saturn, Mars, Uranus
+#QuestionEnd
+#AnswerStart
+Answer: b) Jupiter, Uranus, Neptune, Saturn
+#AnswerEnd
+
+#QuestionStart
+Q52) Ozone layer, which absorbs the ultra-violet radiation, is found in which one of the following layers of the atmosphere? [CDS 2021 (I)]
+a) Ionosphere
+b) Troposphere.
+c) Mesosphere
+d) Stratosphere
+#QuestionEnd
+#AnswerStart
+Answer: d) Stratosphere
+#AnswerEnd
+
+#QuestionStart
+Q53) The four planets closest to the Sun are called [CDS 2020 (II)]
+a) Terrestrial planets
+b) Giant planets
+c) Dwarf planets
+d) Gas planets
+#QuestionEnd
+#AnswerStart
+Answer: a) Terrestrial planets
+#AnswerEnd
+
+#QuestionStart
+Q54) Which one among the following stars is nearest to the Earth? [CDS 2019 (I)]
+a) Sirius
+b) Arcturus
+c) Spica
+d) Proxima Centauri
+#QuestionEnd
+#AnswerStart
+Answer: d) Proxima Centauri
+#AnswerEnd
+
+#QuestionStart
+Q55) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I (Hypothesis) | List II (Propounder) |
+|---|---|
+| A. Planetesimal Hypothesis | 1. Kober |
+| B. Thermal Contraction Theory | 2. Chamberline |
+| C. Grosynclinal Orogen theory | 3. Daly |
+| D. Hypothesis of Sliding Continent | 4. Jeffrey |
+Code: [CDS 2018 (I)]
+a) A-2, B-4, C-1, D-3
+b) A-2, B-1, C-4, D-3
+c) A-3, B-1, C-4, D-2
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-4, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q56) Which one of the following statements with regard to the winter solstice is correct? [CDS 2017 (I)]
+a) The South Pole experiences 24 hours of darkness.
+b) It occurs on 21st June.
+c) The North Pole experiences 24 hours of darkness.
+d) The Sun is at aphelion.
+#QuestionEnd
+#AnswerStart
+Answer: c) The North Pole experiences 24 hours of darkness.
+#AnswerEnd
+
+#QuestionStart
+Q57) Which of the following statements concerning atmosphere of the Earth are correct? [CDS 2016 (II)]
+1. In stratosphere, temperature increases with altitude.
+2. In mesosphere, temperature decreases with altitude.
+3. The lowest temperature of the atmosphere is recorded in the upper part of mesosphere.
+4. Tropopause is an isothermal zone.
+Which of the statements given above are correct?
+a) 1 and 2
+b) 1,2 and 3
+c) 3 and 4
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: d) All of these
+#AnswerEnd
+
+#QuestionStart
+Q58) Which one of the following statement are not correct? [CDS 2016 (II)]
+a) Position of the Sun, Earth and Moon in a straight line of 180° angle is known as syzygy
+b) Syzygy conjunction causes solar eclipse
+c) Syzygy opposition causes lunar eclipse
+d) Syzygy conjunction occurs at the time of perihelion only
+#QuestionEnd
+#AnswerStart
+Answer: d) Syzygy conjunction occurs at the time of perihelion only
+#AnswerEnd
+
+#QuestionStart
+Q59) Which of the following statement(s) is/are correct? [CDS 2016 (I)]
+1. The Earth is nearest to the Sun at Perihelion, which generally occurs on 3rd January.
+2. The Earth is farthest away from the Sun at Perihelion, which generally occurs on 4th July.
+3. The Earth is farthest away from the Sun at Aphelion, which generally occurs on 4th July.
+4. The Earth is nearest to the Sun at Aphelion, which generally occurs on 3rd January.
+Select the correct answer using the codes given below:
+a) Only 1
+b) 2 and 4
+c) 1 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q60) Which one of the following statements about the atmosphere is correct? [CDS 2015 (II)]
+a) The atmosphere has definite upper limits, but gradually thins until it becomes imperceptible
+b) The atmosphere has no definite upper limits, but gradually thins until it becomes imperceptible
+c) The atmosphere has no definite upper limits, but gradually thickens until it becomes imperceptible
+d) The atmosphere has definite upper limits, but gradually thickens until it becomes imperceptible
+#QuestionEnd
+#AnswerStart
+Answer: b) The atmosphere has no definite upper limits, but gradually thins until it becomes imperceptible
+#AnswerEnd
+
+#QuestionStart
+Q61) If 82° 30’ East longitude (Allahabad) shows 6:00 am of Sunday (local time), what would be the local time of Florida (USA) located at 82° West longitude? [CDS 2015 (I)]
+a) 6:58 pm of Saturday
+b) 7:02 pm of Sunday
+c) 6:58 am of Sunday
+d) 7:02 am of Saturday
+#QuestionEnd
+#AnswerStart
+Answer: a) 6:58 pm of Saturday
+#AnswerEnd
+
+#QuestionStart
+Q62) The following item consist of two statements. Statement I and Statement II. You have to examine these two statements carefully and select the answers from these items using the codes given below:
+Statement I: Sidereal day is shorter than Solar day.
+Statement II: The motion of the Earth in its orbit around the Sun is termed as revolution.
+Codes [CDS 2015 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q63) The Earth without rotational movement would result into [CDS 2015 (I)]
+1. no Sun-rise and Sun-set.
+2. no occurrence of day and night cycle.
+3. only one season.
+Select the correct answer using the codes given below:
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q64) Match List I with List II and select the correct answer using the codes given below the lists :
+| List I (Phenomenon) | List II (Date) |
+|---|---|
+| A. Summer Solstice | 1. 21st June |
+| B. Winter Solstice | 2. 22nd December |
+| C. Vernal Equinox | 3. 23rd September |
+| D. Autumnal Equinox | 4. 21st march |
+Code: [CDS 2014 (II)]
+a) A-1, B-4, C-2, D-3
+b) A-1, B-2, C-4, D-3
+c) A-3, B-2, C-4, D-1
+d) A-3, B-4, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-1, B-2, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q65) Which of the following statements regarding the duration of day and night is correct? [CDS 2014 (I)]
+a) Difference is least near the Equator and progressively increases away from it
+b) Difference is maximum at the Equator and progressively decreases away from it
+c) Difference is least at the Tropics and progressively increases towards the Equator and Poles
+d) Difference is maximum at the Tropics and progressively decreases towards the Equator and Poles
+#QuestionEnd
+#AnswerStart
+Answer: a) Difference is least near the Equator and progressively increases away from it
+#AnswerEnd
+
+#QuestionStart
+Q66) Which one of the following statements is correct with reference to normal lapse rate? [(CAPF 2022)]
+a) Temperature is highest at ground level and decreases with increasing altitude.
+b) Temperature is lowest at ground level and increases with increasing altitude.
+c) Temperature remains stable with increasing altitude.
+d) Temperature first increases with increasing altitude and gradually starts decreasing.
+#QuestionEnd
+#AnswerStart
+Answer: a) Temperature is highest at ground level and decreases with increasing altitude.
+#AnswerEnd
+
+#QuestionStart
+Q67) Which one of the following geologic time periods is associated with the first appearance of the marsupials? [(CAPF 2022)]
+a) Lower Cretaceous
+b) Upper Cretaceous
+c) Early Jurassic
+d) Middle Jurassic
+#QuestionEnd
+#AnswerStart
+Answer: a) Lower Cretaceous
+#AnswerEnd
+
+#QuestionStart
+Q68) In order to find out the absolute location of a place on the map, which of the following will be required? [CAPF 2021]
+a) Latitude of the place alone
+b) Longitude of the place alone
+c) Both latitude and longitude of the place
+d) Neither latitude nor longitude of the place
+#QuestionEnd
+#AnswerStart
+Answer: c) Both latitude and longitude of the place
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following represents an inner planet? [CAPF 2019]
+a) Planets between the Sun and the Earth
+b) Planets between the Sun and the belt of asteroids
+c) Planets near the Earth
+d) Planets around the Sun
+#QuestionEnd
+#AnswerStart
+Answer: b) Planets between the Sun and the belt of asteroids
+#AnswerEnd
+
+#QuestionStart
+Q70) If the equatorial plane of Earth is not inclined to its orbit, then [CAPF 2019]
+a) duration of the year would be longer
+b) summer would be warmer
+c) there would be no change of seasons
+d) winter would be longer
+#QuestionEnd
+#AnswerStart
+Answer: c) there would be no change of seasons
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one of the following processes is not a part of long-wave radiation? [CAPF 2018]
+a) Conduction
+b) Scattering
+c) Convection
+d) Radiation
+#QuestionEnd
+#AnswerStart
+Answer: b) Scattering
+#AnswerEnd
+
+#QuestionStart
+Q72) The lowest temperature is observed/ recorded in which one of the following layers of the atmosphere? [CAPF 2018]
+a) Stratosphere
+b) Mesosphere
+c) Thermosphere
+d) Troposphere
+#QuestionEnd
+#AnswerStart
+Answer: b) Mesosphere
+#AnswerEnd
+
+#QuestionStart
+Q73) Presence of ozone in the atmosphere is important because it absorbs [CAPF 2017]
+a) ultraviolet-A and ultraviolet-B radiations
+b) ultraviolet-B radiations only
+c) infrared B radiations only
+d) outgoing ultraviolet-B radiations and incoming ultraviolet-A radiations
+#QuestionEnd
+#AnswerStart
+Answer: b) ultraviolet-B radiations only
+#AnswerEnd
+
+#QuestionStart
+Q74) Which one of the following layers of atmosphere has a high concentration of ions? [CAPF 2016]
+a) Stratosphere
+b) Exosphere
+c) Thermosphere
+d) Troposphere
+#QuestionEnd
+#AnswerStart
+Answer: c) Thermosphere
+#AnswerEnd
+
+#QuestionStart
+Q75) Which of the following statements relating to the solar system is/are correct?
+1. Venus and Uranus rotate opposite to the direction of rotation of Earth.
+2. Venus is the nearest planet to EarthSelect the correct answer using the code given below. [CAPF 2016]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q76) Intertropical Convergence Zone (ITCZ), a low-pressure zone, is located: [M.P.P.C.S. (Pre) 2018]
+a) between trade winds and westerlies belt
+b) between westerlies and polar winds belt
+c) nearby the poles
+d) at the equator
+#QuestionEnd
+#AnswerStart
+Answer: d) at the equator
+#AnswerEnd
+
+#QuestionStart
+Q77) India was the part of ancient Gondwana land Supercontinent. It includes the following landmass of the present: [M.P.P.C.S. (Pre) 2008]
+a) South America
+b) Africa
+c) Australia
+d) All of above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of above
+#AnswerEnd
+
+#QuestionStart
+Q78) The “Sea of Tranquility” lies on- [M.P.P.C.S. (Pre) 1995]
+a) Earth
+b) Sun
+c) Jupiter
+d) Moon
+#QuestionEnd
+#AnswerStart
+Answer: d) Moon
+#AnswerEnd
+
+#QuestionStart
+Q79) “Light Year” is the unit of- [M.P.P.C.S. (Pre) 1994]
+a) Time
+b) Distance
+c) Luminosity
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Distance
+#AnswerEnd
+
+#QuestionStart
+Q80) The earth is nearest to the sun on- [Uttarakhand P.C.S. (Mains) 2006]
+a) 3rd January
+b) 4th July
+c) 22nd March
+d) 21st September
+#QuestionEnd
+#AnswerStart
+Answer: a) 3rd January
+#AnswerEnd
+
+#QuestionStart
+Q81) Zero-degree latitude and zero-degree longitude lies in the- [Uttarakhand P.C.S. (Pre) 2005]
+a) Atlantic Ocean
+b) Arctic Ocean
+c) Indian Ocean
+d) Pacific Ocean
+#QuestionEnd
+#AnswerStart
+Answer: a) Atlantic Ocean
+#AnswerEnd
+
+#QuestionStart
+Q82) When the length of day and night is equal the Sunrays falls perpendicular at- [Uttarakhand P.C.S. (Pre) 2002]
+a) North pole
+b) Equator
+c) South pole
+d) Tropic of cancer
+#QuestionEnd
+#AnswerStart
+Answer: b) Equator
+#AnswerEnd
+
+#QuestionStart
+Q83) The causes of Day and Night is- [R.A.S./R.T.S. (Pre) 2000]
+a) Earth-rotation
+b) Rotation of Earth on its axis
+c) Tilt of Earth’s axis
+d) Moon’s rotation
+#QuestionEnd
+#AnswerStart
+Answer: b) Rotation of Earth on its axis
+#AnswerEnd
+
+#QuestionStart
+Q84) The latitude at which ‘Annual Range of Temperature’ remains minimum is- [R.A.S./R.T.S. (Pre) 1999]
+a) Equator
+b) Tropic of Cancer
+c) Tropic of Capricorn
+d) North Pole Circle
+#QuestionEnd
+#AnswerStart
+Answer: a) Equator
+#AnswerEnd
+
+#QuestionStart
+Q85) If the distance between the sun and the earth is reduced by quarter to present distance, then probability of which one will increase- [R.A.S./R.T.S. (Pre) 1993]
+a) Earth would fall into the Sun.
+b) Earth shall be burned.
+c) The duration of our year will be decreased,
+d) Earth will fly into space.
+#QuestionEnd
+#AnswerStart
+Answer: c) The duration of our year will be decreased,
+#AnswerEnd
+
+#QuestionStart
+Q86) Seasonal changes are caused by which one of the special characteristics of Earth’s motion? [R.A.S./R.T.S. (Pre) 1992]
+a) Revolution around Sun
+b) Axial tilt by 2316 degree
+c) Both (a) and (b)
+d) Rotation on its axis
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (a) and (b)
+#AnswerEnd
+
+#QuestionStart
+Q87) The country which has the longest northsouth (latitudinal) extension of its territory is: [65th B.P.S.C. (Pre) 2019]
+a) Russia
+b) Chile
+c) China
+d) Brazil
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Chile
+#AnswerEnd
+
+#QuestionStart
+Q88) Which of the following does not belong to the solar system? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Asteroids
+b) Comets
+c) Planets
+d) Nebula
+#QuestionEnd
+#AnswerStart
+Answer: d) Nebula
+#AnswerEnd
+
+#QuestionStart
+Q89) Continents have drifted apart because of- [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Volcanic eruptions
+b) Tectonic activities
+c) Folding and faulting of rocks
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Tectonic activities
+#AnswerEnd
+
+#QuestionStart
+Q90) Which planet is known as the ‘Evening Star’? [44th B.P.S.C. (Pre) 2000]
+a) Mars
+b) Jupiter
+c) Venus
+d) Saturn
+#QuestionEnd
+#AnswerStart
+Answer: c) Venus
+#AnswerEnd
+
+#QuestionStart
+Q91) The possibility of a desert on earth is more- [41st B.P.S.C. (Pre) 1996]
+a) Nearby 0° latitude
+b) Nearby 23° latitude
+c) Nearby 50° latitude
+d) Nearby 70° latitude
+#QuestionEnd
+#AnswerStart
+Answer: b) Nearby 23° latitude
+#AnswerEnd
+
+#QuestionStart
+Q92) Which of the following statements are correct regarding the solar system?
+I. Mercury is the hottest planet in the solar system
+II. Ganymede, satellite of Saturn, is the largest satellite in the solar system
+III. Neptune is surrounded by methane gas rings of sub-zero temperature
+IV. Phobos and Deimos are two satellites of Mars
+Code: [Chhattisgarh P.C.S. (Pre) 2020]
+a) Only I and II are correct
+b) Only II and III are correct
+c) Only III and IV are correct
+d) I, II, III and IV all are correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Only III and IV are correct
+#AnswerEnd
+
+#QuestionStart
+Q93) Which of the following phenomenon happens in India when the sun-shines vertically over the Tropic of Capricorn? [Chhattisgarh P.C.S. (Pre) 2015]
+a) High pressure develops over North-West India
+b) Low pressure develops over North-West India
+c) No change in pressure occurs over North-West India
+d) Temperature increases in North-West India
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) High pressure develops over North-West India
+#AnswerEnd
+
+#QuestionStart
+Q94) Which of the following statements is true regarding earth movement?
+1. Earth rotates on its axis from west to east resulting in seasonal changes.
+2. Earth revolution around sun results in occurrence of day and night on earth.
+Code: [Jharkhand P.C.S. (Pre) 2021]
+a) Both 1 and 2 are true
+b) Only 2 is true
+c) Both 1 and 2 are false
+d) Only 1 is true
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2 are false
+#AnswerEnd
+
+#QuestionStart
+Q95) Equinox, the two periods in the year when day and night are equal, occurs on: [U.P. Lower Sub. (Spl) (Pre) 2004]
+a) 21 March and 23 September
+b) 22 February and 23 August
+c) 15 October and 23 April
+d) 22 July and 22 December
+#QuestionEnd
+#AnswerStart
+Answer: a) 21 March and 23 September
+#AnswerEnd

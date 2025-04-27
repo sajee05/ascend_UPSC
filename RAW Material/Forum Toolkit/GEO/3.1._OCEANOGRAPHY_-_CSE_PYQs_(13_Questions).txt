@@ -1,0 +1,180 @@
+#QuestionStart
+Q1) Consider the following statements
+Statement-!: The temperature contrast between continents and oceans is greater during summer than in winter.
+Statement-II: The specific heat of water is more than that of land surface.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-! and Statement- are correct and Statement- is the correct explanation for Statement-!.
+b) Both Statement-1 and Statement- are correct and Statement-! is not the correct explanation for Statement-I.
+c) Statement-1 is correct but Statement-II is incorrect.
+d) Statement-! is incorrect but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-! is incorrect but Statement-II is correct.
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct? [UPSC CSE Pre. 2020]
+1. OMT is measured up to a depth of 26°C isotherm which is 129 meters in the south -western Indian Ocean during January-March.
+2. OMT collected during January -March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long -term mean.
+Select the correct using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: [UPSC CSE Pre. 2018]
+,1. Most of the world’s coral reefs are in tropical waters.
+2. More than one-third of the world’s coral reefs are located in the territories of Australia, Indonesia and Philippines.
+3. Coral reefs host far a greater number of animal phyla than those hosted by tropical rainforests.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) Tides occur in the oceans and seas due to which among the following? [UPSC CSE Pre. 2015]
+1. Gravitational force of the Sun
+2. Gravitational force of the Moon
+3. Centrifugal force of the Earth
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following have coral reefs? [UPSC CSE Pre. 2014]
+1. Andaman and Nicobar Islands
+2. Gulf of Kachchh
+3. Gulf of Mannar
+4. Sunderbans
+Select the correct answer using the code given below.
+a) 1,2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) The most important fishing grounds of the world are found in the regions where [UPSC CSE Pre. 2013]
+a) warm and cold atmospheric currents meet
+b) rivers drain out large amounts of fresh water into the sea
+c) warm and cold oceanic currents meet
+d) continental shelf is undulating
+#QuestionEnd
+#AnswerStart
+Answer: c) warm and cold oceanic currents meet
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following factors: [UPSC CSE Pre. 2012]
+1. Rotation of the Earth
+2. Air pressure and wind
+3. Density of ocean water
+4. Revolution of the Earth
+Which of the above factors influence the ocean currents?
+a) 1 and 2 only
+b) 1, 2 and 3 only
+c) 1 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Between India and East Asia, the navigationtime and distance can be greatly reduced by which of the following? [UPSCCSE Pre. 2011]
+1. Deepening the Malacca straits between Malaysia and Indonesia.
+2. Opening a new canal across the Kra isthmus between the Gulf of Siam and Andaman Sea.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements:
+1. On the planet Earth, the fresh water available for use amounts to about less than 1% of the total water found.
+2. Of the total freshwater found on the planet Earth, 95% is bound up in polar ice caps and glaciers.
+Which of the statements given above is/are correct? [UPSCCSE Pre 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: [UPSC CSE Pre. 2007]
+1, The annual range of temperature is greater in the Pacific Ocean than that in the Atlantic Ocean
+2. The annual range of temperature is greater in the Northern Hemisphere than that in the Southern Hemisphere.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements:
+1. Ocean currents are the slow-surface movement of water in the ocean.
+2. Ocean currents assist in maintaining the Earth’s heat balance.
+3. Ocean currents are set in motion primarily by prevailing winds.
+4. Ocean currents are affected by the configuration of the ocean.
+Which of these statements are correct? [UPSC CSE Pre 2002]
+a) 1 and 2
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following factors is responsible for the change in the regular direction of the ocean currents in the Indian Ocean? [UPSC CSE Pre 1997]
+a) Indian Ocean is half an Ocean
+b) Indian Ocean has Monsoon drift
+c) Indian Ocean is a land-locked ocean
+d) Indian Ocean has greater variation in salinity
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian Ocean has Monsoon drift
+#AnswerEnd
+
+#QuestionStart
+Q13) Which of the following pair of oceanic currents is shown in the given map: [UPSC CSE Pre 1999]
+a) Benguela and Falkland
+b) Canary and Humboldt
+c) Agulhas and Guinea
+d) Benguela and Guinea
+#QuestionEnd
+#AnswerStart
+Answer: d) Benguela and Guinea
+#AnswerEnd

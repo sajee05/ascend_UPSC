@@ -1,0 +1,1422 @@
+#QuestionStart
+Q32) Which one of the following did not serve as Vice-President before assuming the office of the President of India? [UPPCS (Pre) 2022]
+a) Neelam Sanjiva Reddy
+b) R. Venkatraman
+c) Dr. Shankar Dayal Sharma
+d) Dr. Zakir Hussain
+#QuestionEnd
+#AnswerStart
+Answer: a) Neelam Sanjiva Reddy
+#AnswerEnd
+
+#QuestionStart
+Q33) The National Disaster Management Division in India is the nodal division in the Ministry of Home Affairs for disaster management. Who is the Ex-officio Chairman of the National Disaster Management Authority? [U.P.P.C.S. (Pre) 2021]
+a) The Prime Minister
+b) The Home Minister
+c) The Defence Minister
+d) The Health and Family Welfare Minister
+#QuestionEnd
+#AnswerStart
+Answer: a) The Prime Minister
+#AnswerEnd
+
+#QuestionStart
+Q34) Which of the following gave legal basis to extraordinary powers exercised by the Government of India during Lockdown? [U.P.P.C.S. (Pre) 2020]
+1. Mental Health Care Act, 2017
+2. Disaster Management Act, 2005
+3. Enemy Property Act, 1968
+4. Epidemic Diseases Act, 1897
+Select the correct answer from the codes given below.
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 2 and 4
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following statements in the context of Attorney General of India:
+1. The President shall appoint such a person as Attorney General of India who is qualified as to be appointed a Judge of Supreme Court.
+2. The Attorney General shall receive such remuneration as the Parliament may determine.
+Select the correct answer using the codes given below. [U.P.P.C.S. (Pre) 2020]
+a) Only 1 is correct
+b) Only 2 is correct
+c) Both 1 and 2 are correct
+d) Neither 1 nor 2 is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1 is correct
+#AnswerEnd
+
+#QuestionStart
+Q36) Consider the following statements and select your answer from the codes given below:
+1. The Governor does not have the power to appoint a judge of a state High Court.
+2. He is not a part of the Legislature.
+3. He has the power to nominate some members of the Legislative Council.
+4. He has no judicial powers.
+Code: [U.P.P.C.S. (Pre) 2017]
+a) 1 and 2 are correct
+b) 1 and 3 are correct
+c) 2 and 4 are correct
+d) All are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 are correct
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following is not true? [U.P.P.C.S. (Mains) 2016]
+a) The President or Governor is immune from legal action for officials acts.
+b) No Court can compel a Governor to perform any duty.
+c) A two months’ notice in writing must be delivered to the Governor for bringing civil proceedings in respect of their personal acts.
+d) Courts are empowered to enquire the advice tendered by the Ministers to the President or Governor.
+#QuestionEnd
+#AnswerStart
+Answer: d) Courts are empowered to enquire the advice tendered by the Ministers to the President or Governor.
+#AnswerEnd
+
+#QuestionStart
+Q38) When the same person is appointed as a Governor of two or more States, the emoluments and allowances payable to the Governor shall be- [U.P.P.C.S. (Mains) 2016]
+a) As expressed, wish of the Governor
+b) As decided by the President
+c) As decided by the Home Ministry
+d) It shall be allocated among the States in such proportion as the President may by order determine
+#QuestionEnd
+#AnswerStart
+Answer: d) It shall be allocated among the States in such proportion as the President may by order determine
+#AnswerEnd
+
+#QuestionStart
+Q39) Which one of the following is not correct regarding the Presidential election? [U.P.P.C.S. (Mains) 2016]
+a) Election of the successor must be held before the expiry of the term of the incumbent President.
+b) The President shall hold office for a term of five years from the date on which he enters upon his office.
+c) On the expiration of his term, he continues to hold office until his successor enters upon his office.
+d) President’s election may be postponed on the ground that the electoral college is incomplete.
+#QuestionEnd
+#AnswerStart
+Answer: d) President’s election may be postponed on the ground that the electoral college is incomplete.
+#AnswerEnd
+
+#QuestionStart
+Q40) Who among the following holds his/her office during the pleasure of the President? [U.P.P.C.S. (Pre) 2016]
+a) Comptroller and Auditor General of India
+b) Chief Election Commissioner
+c) Speaker of Lok Sabha
+d) Attorney General of India
+#QuestionEnd
+#AnswerStart
+Answer: d) Attorney General of India
+#AnswerEnd
+
+#QuestionStart
+Q41) Given below are two statements: [U.P.P.C.S. (Mains) 2015]
+Assertion (A): The President of India is elected by indirect election.
+Reason (R): There is a provision of Electoral College consisting of the elected members of both Houses of Parliament and elected members of the Legislative Assemblies of the States.
+In the context of above statements select the correct answer.
+a) (A) is true, but (R) is false.
+b) (A) is false, but (R) is true.
+c) Both (A) and (R) are individually true and (R) is the correct explanation of (A).
+d) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (A) and (R) are individually true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q42) In case the post of President of India falls vacant, and there is no Vice-President also, who among the following would be the acting President? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Vice-Chairman of Rajya Sabha
+b) Attorney-General of India
+c) Lok Sabha Speaker
+d) Chief Justice of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: d) Chief Justice of the Supreme Court
+#AnswerEnd
+
+#QuestionStart
+Q43) Under which one of the following Articles, the procedure for removal of the President of India through the process of impeachment has been laid down? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Article-53
+b) Article-61
+c) Article-74
+d) Article-13
+#QuestionEnd
+#AnswerStart
+Answer: b) Article-61
+#AnswerEnd
+
+#QuestionStart
+Q44) Who among the following is the legal adviser of a State Government? [U.P. Lower Sub. (Pre) 2015]
+a) The Advocate-General
+b) The Attorney-General
+c) The Solicitor-General
+d) The Comptroller and Auditor General
+#QuestionEnd
+#AnswerStart
+Answer: a) The Advocate-General
+#AnswerEnd
+
+#QuestionStart
+Q45) The Vice-President may be removed from his office by a resolution of - [U.P.P.C.S. (Mains) 2013]
+a) Council of States
+b) Lok Sabha
+c) Cabinet
+d) Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: a) Council of States
+#AnswerEnd
+
+#QuestionStart
+Q46) Which of the following statements is correct about Prime Minister of India [U.P.P.C.S. (Mains) 2013]
+a) Prime Minister is the nominal head of the Council of Ministers.
+b) He is not responsible to Parliament.
+c) He cannot dismiss any of his ministers.
+d) Prime Minister is the real head of the Council of Ministers.
+#QuestionEnd
+#AnswerStart
+Answer: d) Prime Minister is the real head of the Council of Ministers.
+#AnswerEnd
+
+#QuestionStart
+Q47) The number of Lok Sabha members required to table a ‘No Confidence Motion’ against the Council of Ministers is- [U.P.P.C.S. (Mains) 2013]
+a) 30
+b) 40
+c) 50
+d) 60
+#QuestionEnd
+#AnswerStart
+Answer: c) 50
+#AnswerEnd
+
+#QuestionStart
+Q48) The Policy of Liberalisation, Privatisation, and Globalisation was announced as New Economic Policy by Prime Minister- [U.P. Lower Sub. (Pre) 2013]
+a) Rajeev Gandhi
+b) Vishwanath Pratap Singh
+c) P.V. Narsimha Rao
+d) Atal Bihari Vajpayee
+#QuestionEnd
+#AnswerStart
+Answer: c) P.V. Narsimha Rao
+#AnswerEnd
+
+#QuestionStart
+Q49) Given below are two statements: [U.P.P.C.S. (Mains) 2012]
+Assertion (A): The Union Executive is headed by the President of India.
+Reason (R): There is no limitation on the power of the President.
+In the context of the above which of the following is correct?
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q50) Who among the following Presidents of India was associated with Trade Union Movement? [U.P.P.C.S.(Pre) 2012]
+a) V. V. Giri
+b) N. Sanjiva Reddy
+c) K.R. Narayanan
+d) Zakir Hussain
+#QuestionEnd
+#AnswerStart
+Answer: a) V. V. Giri
+#AnswerEnd
+
+#QuestionStart
+Q51) The Vice-President of India is elected by the members of an electoral college comprising - [U.P.P.C.S. (Mains) 2012]
+a) Only elected members of both the Houses of Parliament.
+b) All the members of both the Houses of Parliament.
+c) Only elected members of Rajya Sabha and State Assemblies.
+d) Only elected members of State Assemblies.
+#QuestionEnd
+#AnswerStart
+Answer: b) All the members of both the Houses of Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q52) Consider the following statements and select the correct answer from the code given below:
+1. The executive power of the Union is vested in the Prime Minister.
+2. The Prime Minister is appointed by the President.
+3. The Prime Minister is the head of the Council of Ministers.
+4. The Prime Minister, at the time of his appointment, needs not be a member of either House of Parliament.
+Code: [U.P.P.C.S. (Mains) 2011]
+a) Only 1, 2 and 4 are correct.
+b) Only 1, 2 and 3 are correct.
+c) Only 2, 3 and 4 are correct.
+d) Only 1, 3 and 4 are correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 2, 3 and 4 are correct.
+#AnswerEnd
+
+#QuestionStart
+Q53) Which of the following statements is not true regarding the Parliament of India? [U.P.P.C.S. (Pre) 2011]
+a) The Constitution provides for a Parliamentary form of Government.
+b) The function of Parliament is to provide for a Cabinet.
+c) The membership of the cabinet is restricted to the Lower House.
+d) The cabinet enjoys the confidence of the majority in the popular chamber of the house.
+#QuestionEnd
+#AnswerStart
+Answer: c) The membership of the cabinet is restricted to the Lower House.
+#AnswerEnd
+
+#QuestionStart
+Q54) Who amongst the following is considered to be the first law officer of the Govt, of India? [U.P.P.S.C. (Spl) (Pre) 2010]
+a) Chief Justice of India
+b) Solicitor-General
+c) Attorney-General
+d) Advocate-General
+#QuestionEnd
+#AnswerStart
+Answer: c) Attorney-General
+#AnswerEnd
+
+#QuestionStart
+Q55) Which one of the following statements about the President of India is not correct? [U.P.P.C.S. (Mains) 2010]
+a) He is a constituent part of Parliament.
+b) He participates in the discussions in the both Houses.
+c) He addresses the joint meeting of both the Houses every year.
+d) He can promulgate ordinances in certain situations.
+#QuestionEnd
+#AnswerStart
+Answer: b) He participates in the discussions in the both Houses.
+#AnswerEnd
+
+#QuestionStart
+Q56) Which one of the following motions, the Council of Ministers in India can move? [U.P.P.C.S. (Mains) 2010]
+a) No-Confidence Motion
+b) Censure Motion
+c) Adjournment Motion
+d) Confidence Motion
+#QuestionEnd
+#AnswerStart
+Answer: d) Confidence Motion
+#AnswerEnd
+
+#QuestionStart
+Q57) The Office of the Deputy Prime Minister [U.P.P.C.S. (Mains) 2009]
+a) Was created under the original Constitution.
+b) Is an extra-Constitutional growth.
+c) Was created by 44th Amendment.
+d) Was created by the 85th Amendment.
+#QuestionEnd
+#AnswerStart
+Answer: b) Is an extra-Constitutional growth.
+#AnswerEnd
+
+#QuestionStart
+Q58) The approval of ordinance promulgated by Governor is necessary- [U.P.P.C.S. (Spl) (Mains) 2008]
+a) By President
+b) By the State Legislature
+c) By the Ministers of Council of State
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) By the State Legislature
+#AnswerEnd
+
+#QuestionStart
+Q59) A Member of Parliament or a State Legislature can be elected as President but [U.P.P.C.S. (Spl) (Mains) 2008]
+a) He will have to resign from his seat before contesting the election
+b) He will have to relinquish his seat within 6 months of his election
+c) He will have to relinquish his seat as soon as he is elected
+d) An MP can contest but an MLA can not
+#QuestionEnd
+#AnswerStart
+Answer: c) He will have to relinquish his seat as soon as he is elected
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following is incorrect about the powers of the President of India? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) The President should accept the advice of Supreme Court
+b) Emergency powers
+c) Power of extension of President’s Rule in States
+d) President can accept or reject the advice of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: a) The President should accept the advice of Supreme Court
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following has the power to initiate the Motion of Impeachment of the President of India? [U.P.P.C.S. (Mains) 2007]
+a) Both the Houses of the Parliament
+b) Lok Sabha
+c) Rajya Sabha
+d) Speaker of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the Houses of the Parliament
+#AnswerEnd
+
+#QuestionStart
+Q62) Given below are two statements:
+Assertion (A): The President is the part of the Parliament.
+Reason (R): A Bill passed by the two Houses of Parliament cannot become law without the assent of the President.
+In the context of the above, which one of the following is correct? [U.P.P.C.S. (Mains) 2007]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q63) The Constitution authorizes the President to make provisions for discharge of duties of Governors in extraordinary circumstances under [U.P.P.C.S. (Mains) 2007]
+a) Article 160
+b) Article 162
+c) Article 165
+d) Article 310
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 160
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following is not Constitutional Prerogative of the President of India? [U.P.P.C.S. (Mains) 2007]
+a) Returning an ordinary Bill for reconsideration
+b) Returning a financial bill for reconsideration
+c) Dissolving the Lok Sabha
+d) Appointing the Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: b) Returning a financial bill for reconsideration
+#AnswerEnd
+
+#QuestionStart
+Q65) Which of the following types of authority are attributed to the President of the India?
+1. Real and Popular
+2. Titular (formal) and De jure
+3. Political and Nominal
+4. Constitutional and Nominal
+Select the correct answer from the code given below: [U.P.P.C.S. (Mains) 2006]
+a) 1 and 3
+b) 2 and 3
+c) 1 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q66) Who has the Constitutional Power to declare a geographical area as a ‘Scheduled Area’? [U.P.P.C.S. (Pre) 2006]
+a) Governor
+b) Chief Minister
+c) Prime Minister
+d) President
+#QuestionEnd
+#AnswerStart
+Answer: d) President
+#AnswerEnd
+
+#QuestionStart
+Q67) Given below are two statements:
+Assertion (A): The Supreme Command of the Defence Forces is vested in the President.
+Reason (R): The President’s powers as Commander-in-Chief are independent of Legislative Control.
+In the context of the above, select the correct answer using the code given below: [U.P.P.C.S. (Mains) 2005] "
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q68) Which of the following statements about the Vice-President of India are not correct?
+1. In order to be the Vice-President, a person must be qualified for election as a member of the House of the People.
+2. A member of the State Legislature can be a candidate for this office.
+3. The term of the Office of the VicePresident is the same as that of the President.
+4. He can be removed through a formal impeachment.
+Select the correct answer using the code given below: [U.P.P.C.S. (Mains) 2005]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following is presided over by one who is not its member? [U.P.P.C.S. (Mains) 2004]
+a) Lok Sabha
+b) Vidhan Sabha
+c) Rajya Sabha
+d) Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q70) The Governor of a State-
+1. Is appointed by the President.
+2. Holds office during the pleasure of the President.
+3. Is the head of the State’s Executive Power.
+4. Normally holds office for five years.
+Select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2004]
+a) 1 and 2
+b) 1, 2 and 3
+c) 2 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one of the following statements about the Governor of an Indian State is not true? [U.P. Lower Sub. (Pre) 2004]
+a) He is appointed by the President of India
+b) He can be Governor of more than one Stale
+c) He holds office for a term of five years
+d) He can be removed earlier if the Legislature of the concerned State passes a resolution for his removal
+#QuestionEnd
+#AnswerStart
+Answer: d) He can be removed earlier if the Legislature of the concerned State passes a resolution for his removal
+#AnswerEnd
+
+#QuestionStart
+Q72) Under which of the following Article of Indian Constitution the Governor may reserve a Bill for the consideration of the President? [U.P. Lower Sub. (Pre) 2004]
+a) Article 169
+b) Article 200
+c) Article 201
+d) Article 202
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 200
+#AnswerEnd
+
+#QuestionStart
+Q73) Who among the following Chief Justices of India also acted as the President of India? [U.P.P.C.S. (Mains) 2003]
+a) Justice M. C. Mahajan
+b) Justice M. Hidayatullah
+c) Justice P.N. Bhagwati
+d) Justice B.K. Mukherjee
+#QuestionEnd
+#AnswerStart
+Answer: b) Justice M. Hidayatullah
+#AnswerEnd
+
+#QuestionStart
+Q74) The original plan in the draft Constitution for having elected Governors was dropped because-
+1. It would have meant another election.
+2. The election would have been fought on major political issues.
+3. The elected Governor might have considered himself superior to the Chief Minister.
+4. The Governor had to function under the Parliamentary System.
+Select the correct answer from the code given below: [U.P.U.D.A./L.D.A. (Pre) 2002]
+a) 1 and 2
+b) 2 and 3
+c) 1,3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q75) Who of the following was elected President of India unanimously? [U.P.P.C.S. (Pre) 1998]
+a) S. Radhakrishnan
+b) V. V. Giri
+c) N. Sanjiva Reddy
+d) Gyani Zail Singh
+#QuestionEnd
+#AnswerStart
+Answer: c) N. Sanjiva Reddy
+#AnswerEnd
+
+#QuestionStart
+Q76) Consider the following statements in relation to Governor of a State in India-
+1. He must be a citizen of India by birth.
+2. Must have completed the age of 35 years.
+3. He must be eligible to be a member of the Lok Sabha.
+4. He may be appointed as Governor for two or more states.
+Which of these is/are correct? [U.P. Lower Sub. (Pre) 1996]
+a) 1 and 2 are correct
+b) 1,2 and 3 are correct
+c) 3 and 4 are correct
+d) 2 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4 are correct
+#AnswerEnd
+
+#QuestionStart
+Q77) The Solicitor General of India is: [U.P.P.C.S. (Pre) 1994]
+a) An Administrative Officer
+b) A Legal Adviser
+c) An adviser to Prime Minister
+d) A law officer for giving advice to the President of India
+#QuestionEnd
+#AnswerStart
+Answer: b) A Legal Adviser
+#AnswerEnd
+
+#QuestionStart
+Q78) Consider the following statements and choose the correct answer from the code given below:
+Assertion(A): Ministers make policy and civil servants adhere to that policy.
+Reason(R): Parliamentary form of government works on the principle of ‘Cabinet Collective Responsibility’.
+Code: [U.P.P.C.S. (Pre) 1993]
+a) Both (A) and (R) are true, and (A) is correct explanation of (R).
+b) Both (A) and (R) are true, and (A) is not the correct explanation of (R).
+c) (A) is true, (R) is false.
+d) (A) is false, (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, and (A) is not the correct explanation of (R).
+#AnswerEnd
+
+#QuestionStart
+Q79) To whom is the Governor of a State responsible? [U.P.P.C.S. (Pre) 1992]
+a) Prime Minister
+b) President
+c) Legislative Assembly
+d) Chief Minister
+#QuestionEnd
+#AnswerStart
+Answer: b) President
+#AnswerEnd
+
+#QuestionStart
+Q80) The procedure of Impeachment of the President of India is - [R.A.S./R.T.S. (Pre) 2016]
+a) Quasi-Judicial Procedure
+b) Executive Procedure
+c) Judicial Procedure
+d) Legislative Procedure
+#QuestionEnd
+#AnswerStart
+Answer: a) Quasi-Judicial Procedure
+#AnswerEnd
+
+#QuestionStart
+Q81) According to the Constitution, which among the following is literally not a ‘Power’ of the President of India? [R.A.S./R.T.S.(Pre) 2013]
+a) Promulgation of Ordinances
+b) To consult the Supreme Court
+c) To send messages to Houses of Parliament
+d) To grant Pardon
+#QuestionEnd
+#AnswerStart
+Answer: c) To send messages to Houses of Parliament
+#AnswerEnd
+
+#QuestionStart
+Q82) Consider the following and select the correct answer by using the code given below:
+1. The Governor shall take oath or affirmation before entering upon his office.
+2. The format of oath or affirmation is given in the Third Schedule of Indian Constitution.
+3. The Governor shall make and subscribe to the oath or affirmation in the presence of Chief Justice of the High Court or in his absence senior most Judge of that Court.
+4. The process of oath and affirmation is given in Article 159 of Indian Constitution.
+Code: [R.A.S./R.T.S.(Pre) 2013]
+a) (1), (2) and (3)
+b) (1), (3) and (4)
+c) (1) (2) and (4)
+d) (1), (2), (3) and (4)
+#QuestionEnd
+#AnswerStart
+Answer: b) (1), (3) and (4)
+#AnswerEnd
+
+#QuestionStart
+Q83) Which Indian state had the first woman Chief Minister? [R.A.S./R.T.S. (Pre) 2003]
+a) U.P.
+b) Bihar
+c) Tamil Nadu
+d) Delhi
+#QuestionEnd
+#AnswerStart
+Answer: a) U.P.
+#AnswerEnd
+
+#QuestionStart
+Q84) In the order of precedence of the government of India which of the following come/comes above the Chief Justice of India? [R.A.S./R.T.S.(Pre) 1997]
+a) Attorney General of India
+b) Former President
+c) Chief of Staffs
+d) Speaker of Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: b) Former President
+#AnswerEnd
+
+#QuestionStart
+Q85) The President holds office for a term of 5 years from date on - [R.A.S./R.T.S. (Pre) 1996]
+a) Which he/she is elected
+b) Which is decided by Parliament
+c) Which he enters upon his office/hold his office
+d) Which is decided by Election Commission
+#QuestionEnd
+#AnswerStart
+Answer: c) Which he enters upon his office/hold his office
+#AnswerEnd
+
+#QuestionStart
+Q86) Which of the following is required under Article 108 of the Constitution of India to summon a joint sitting of the t wo houses of Parliament? [M.P.P.C.S. (Pre) 2021]
+a) Intention of the President
+b) Satisfaction of the President
+c) Instruction of the President
+d) Consent of the President
+#QuestionEnd
+#AnswerStart
+Answer: a) Intention of the President
+#AnswerEnd
+
+#QuestionStart
+Q87) Match the following States and their respective Chief Ministers, who became Prime Minister of India:
+| List-I (Schedule) | List-II (Subject) |
+|---|---|
+| A. P.V. Narasimha Rao | 1. Undivided Uttar Pradesh |
+| B. Morarji Desai | 2. Undivided Andhra Pradesh |
+| C. H.D. Devegowda | 3. Gujarat |
+| D. Charan Singh | 4. Karnataka |
+| E. Narendra Modi | 5. Bombay |
+Code: [M.P.P.C.S. (Pre) 2020]
+a) A4 B5 C2 D1 E3
+b) A4 B2 C5 D1 E3
+c) A2 B1 C4 D5 E3
+d) A2 B5 C4 D1 E3
+#QuestionEnd
+#AnswerStart
+Answer: d) A2 B5 C4 D1 E3
+#AnswerEnd
+
+#QuestionStart
+Q88) The President can dissolve Lok Sabha on-[M.P.P.C.S. (Pre) 1999]
+a) Recommendation of Chief Justice of India
+b) Lok Sabha’s recommendation
+c) Recommendation of the Union Cabinet
+d) Rajya Sabha’s recommendation
+#QuestionEnd
+#AnswerStart
+Answer: c) Recommendation of the Union Cabinet
+#AnswerEnd
+
+#QuestionStart
+Q89) Who prepares the President’s address to Parliament? [M.P.P.C.S. (Pre) 1998]
+a) President himself
+b) Speaker of Lok Sabha
+c) Chairman of Rajya Sabha
+d) Central Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: d) Central Cabinet
+#AnswerEnd
+
+#QuestionStart
+Q90) Who is the topmost civilian officer in Government of India? [M.P.P.C.S. (Pre) 1998]
+a) Home Secretary
+b) Defence Secretary
+c) Cabinet Secretary
+d) Lt. Governor of Delhi
+#QuestionEnd
+#AnswerStart
+Answer: c) Cabinet Secretary
+#AnswerEnd
+
+#QuestionStart
+Q91) For how long can the Vice-President act as President when the President cannot perform his duties for reasons of death resignation, removal or otherwise? [Jharkhand P.C.S. (Pre) 2013]
+a) 5 years
+b) DA years
+c) 1 year
+d) 6 months
+#QuestionEnd
+#AnswerStart
+Answer: d) 6 months
+#AnswerEnd
+
+#QuestionStart
+Q92) Governor’s salary and allowances are given by- [Jharkhand P.C.S. (Pre) 2003]
+a) Consolidated Fund of the State
+b) Consolidated Fund of India
+c) Contingency Fund of the State
+d) Both (a) and (b)
+#QuestionEnd
+#AnswerStart
+Answer: a) Consolidated Fund of the State
+#AnswerEnd
+
+#QuestionStart
+Q93) If Vice-President of India has to discharge the duties of President of India is his absence due to some reasons, then what is/ are true for such duration?
+1. In this duration, Vice-President holds the post of Chairman of Council of States
+2. In this duration, Vice-President will get the emolument of President
+3. If in this duration, Vice-President resigns, then Chief Justice of India will perform the duties of President of India.
+Code: [Chhattisgarh PCS (Pre) 2021]
+a) 1, 2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q94) Read the following statements related to Cabinet Committees and choose the correct option:
+Statement I: Cabinet Committees are not mentioned in the constitution.
+Statement II: Cabinet Committees are set up by the Prime Minister according to the exigencies of the time and requirements of the situation.
+Statement III: If Prime Minister is the member of Committee, he may not necessarily be the Chairman of Committee.
+Statement IV: Parliamentary Affairs Committee is chaired by the Prime Minister.
+Code: [Chhattisgarh P.C.S. (Pre) 2020]
+a) All statements are true
+b) Statements I, II and III are true, but Statement IV is false
+c) Statements II, III and IV are true but Statement I is false
+d) Statements I and II are true, but Statement III and IV are false
+#QuestionEnd
+#AnswerStart
+Answer: d) Statements I and II are true, but Statement III and IV are false
+#AnswerEnd
+
+#QuestionStart
+Q95) Which of the following doesn’t consists in the power ‘To Pardon’ of President?
+i. Pardon
+ii. Commutation
+iii . Remission
+iv. Respite
+v. Reprieve
+vi. Detention
+vii. Continuation
+Code: [Chhattisgarh P.C.S. (Pre) 2016]
+a) i
+b) ii, iii
+c) iv, V
+d) i, ii, iii, iv, v
+e) vi, vii
+#QuestionEnd
+#AnswerStart
+Answer: e) vi, vii
+#AnswerEnd
+
+#QuestionStart
+Q96) On which matter, it is not essential for the President to take advice from the Council of Ministers? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Appointment of Ambassadors
+b) To assent to Bills
+c) To assent to Bills referred by Governors
+d) To dissolve Lok Sabha
+e) To assent on constitutional amendment bill
+#QuestionEnd
+#AnswerStart
+Answer: b) To assent to Bills
+#AnswerEnd
+
+#QuestionStart
+Q97) Who advises the Government of India on legal matters? [49th B.P.S.C. (Pre) 2000]
+a) Attorney General
+b) Chief Justice of the Supreme Court
+c) Chairman, Law Commission
+d) None of them
+#QuestionEnd
+#AnswerStart
+Answer: a) Attorney General
+#AnswerEnd
+
+#QuestionStart
+Q98) After resigning, whose permission does a minister require to give a statement in Lok Sabha? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Prime Minister
+b) Speaker
+c) President
+d) Supreme Court
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Speaker
+#AnswerEnd
+
+#QuestionStart
+Q99) Which of the following are the d iscretionary powers of the President?
+(i) Appointment of Council of Ministers
+(ii) To return a Bill with objections
+(iii) To withhold a Bill
+(iv) To pardon
+(v) To summon Joint sessions
+(vi) To send message to Parliament
+(vii) Appointment of Judges
+Code: [Chhattisgarh P.C.S. (Pre) 2014]
+a) (i), (iii), (iv)
+b) (ii), (v), (vii)
+c) (iii), (vi), (vii)
+d) (ii), (iv), (vi)
+e) (ii), (iii), (vi)
+#QuestionEnd
+#AnswerStart
+Answer: e) (ii), (iii), (vi)
+#AnswerEnd
+
+#QuestionStart
+Q100) Which of the following is/are the function/ functions of the Cabinet Secretariat?
+1. Preparation of agenda for Cabinet Meetings
+2. Secretariat assistance to Cabinet Committees
+3. Allocation of financial resources to the Ministries
+Select the correct answer using the code given below. [Chhattisgarh P.C.S. (Pre) 2013]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 2 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q101) Which article of the Indian Constitution prescribes eligibility conditions for reelection to the post of the President of India? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Article 52
+b) Article 54
+c) Article 55
+d) Article 57
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 57
+#AnswerEnd
+
+#QuestionStart
+Q102) Which of the following Constitutional Amendment Acts restricted the size of the Council of Ministers to 15 percent of the total members of the Lok Sabha? [66th B.P.S.C. (Pre) (Re-Exam), 2020]
+a) 95th Constitutional Amendment Act, 2009
+b) 93rd Constitutional Amendment Act, 2005
+c) 91st Constitutional Amendment Act, 2003
+d) 90th Constitutional Amendment Act, 2003
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 91st Constitutional Amendment Act, 2003
+#AnswerEnd
+
+#QuestionStart
+Q103) In the Indian Order of Precedence, who amongst the following comes first? [65th B.P.S.C. (Pre) 2019]
+a) The Chairman of UPSC
+b) The Chief Election Commissioner
+c) The Comptroller and Auditor General
+d) The Chief Justice of High Court
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) None of the above/More than one of the above
+#AnswerEnd
+
+#QuestionStart
+Q104) The Prime Minister of India is responsible to whom? [63rd B.P.S.C. (Pre) 2017]
+a) The Cabinet
+b) The President
+c) The Lok Sabha
+d) The Rajya Sabha
+e) More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) The Lok Sabha
+#AnswerEnd
+
+#QuestionStart
+Q105) Who is the highest Civil Services Officers of the Central Government? [63rd B.P.S.C. (Pre) 2017]
+a) The Attorney General of India
+b) The Cabinet Secretary
+c) The Home Secretary
+d) The Finance Secretary
+e) None of the above / more than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) The Cabinet Secretary
+#AnswerEnd
+
+#QuestionStart
+Q106) President of India exercises his powers [60th to 62nd B.P.S.C. (Pre) 2016]
+a) either directly or through officer’s subordinate to him
+b) through Ministers
+c) through Prime Minister
+d) through Cabinet
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) either directly or through officer’s subordinate to him
+#AnswerEnd
+
+#QuestionStart
+Q107) The President of India does not have the right to - [41st B.P.S.C. (Pre) 1996]
+a) Give pardon
+b) Remove a judge of Supreme Court
+c) Declare emergency
+d) Pass ordinances
+#QuestionEnd
+#AnswerStart
+Answer: b) Remove a judge of Supreme Court
+#AnswerEnd
+
+#QuestionStart
+Q108) The word ‘mantrimandal’ (cabinet) is mentioned only once in Constitution, and that is in- [41st B.P.S.C. (Pre) 1996]
+a) Article 352
+b) Article 74
+c) Article 356
+d) Article 76
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 352
+#AnswerEnd
+
+#QuestionStart
+Q109) The President of India can be removed from his post by - [39th B.P.S.C. (Pre) 1994]
+a) The Prime Minister of India
+b) Lok Sabha
+c) Chief Justice of India
+d) Parliament
+#QuestionEnd
+#AnswerStart
+Answer: d) Parliament
+#AnswerEnd
+
+#QuestionStart
+Q110) If there is any dispute regarding the Presidential election, it can be referred to -[38th B.P.S.C. (Pre) 1992]
+a) Attorney General of India
+b) Parliament
+c) Supreme Court of India
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Supreme Court of India
+#AnswerEnd
+
+#QuestionStart
+Q111) Which of the following statements is not correct? [38th B.P.S.C. (Pre) 1992]
+a) To hold the office of President, candidate should have the minimum age of 35 years
+b) Vice-President is Chairman of Rajya Sabha
+c) Vice-President is appointed by the President of India
+d) First President of India was Dr. Rajendra Prasad
+#QuestionEnd
+#AnswerStart
+Answer: c) Vice-President is appointed by the President of India
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one among among the following Departments/Authorities is not under the Ministry of Home Affairs? [CDS 2023 (I)]
+a) The Department of States
+b) The Department of Language Official
+c) The National Authority Chemical Weapons Convention
+d) The Department of Jammu, Kashmir and Ladakh Affairs
+#QuestionEnd
+#AnswerStart
+Answer: c) The National Authority Chemical Weapons Convention
+#AnswerEnd
+
+#QuestionStart
+Q113) Which one of the following statements about the Solicitor General of India (SGI) is not correct? [CDS 2023 (I)]
+a) The SGI is the Government’s chief legal advisor.
+b) The SGI is the secondary law officer of the country.
+c) The post of the SGI is a constitutional post.
+d) The SGI is appointed by the Appointments Committee of the Cabinet.
+#QuestionEnd
+#AnswerStart
+Answer: c) The post of the SGI is a constitutional post.
+#AnswerEnd
+
+#QuestionStart
+Q114) Which one of the following committees does not have members from the Rajya Sabha? [CDS 2023 (I)]
+a) The Public Accounts Committee
+b) The Committee Undertakings on Public
+c) The Estimates Committee
+d) The Committee on the Welfare of Scheduled Castes and Scheduled Tribes
+#QuestionEnd
+#AnswerStart
+Answer: c) The Estimates Committee
+#AnswerEnd
+
+#QuestionStart
+Q115) Which one of the following statements about the election of the President of India is not correct? [CDS 2023 (I)]
+a) A Union Minister shall not be eligible for election as the President.
+b) The President is elected by the elected members of the Parliament and the Legislative Assemblies of States and Union Territories.
+c) The Electoral College does not include elected members of the Legislative Councils.
+d) The system of proportional representation by means of single transferable vote is followed.
+#QuestionEnd
+#AnswerStart
+Answer: a) A Union Minister shall not be eligible for election as the President.
+#AnswerEnd
+
+#QuestionStart
+Q116) According to the Constitution of India, which one of the following statements is not correct? [CDS 2022 (I)]
+a) The executive powers of the Union shall be vested in the President of India.
+b) Parliament, by law, can confer functions on authorities other than the President of India.
+c) The President of India is elected by an electoral college consisting of all Members of Parliament and all Members of all State Legislatures.
+d) A person, having held office as the President, shall be eligible for election to that office for the second term.
+#QuestionEnd
+#AnswerStart
+Answer: c) The President of India is elected by an electoral college consisting of all Members of Parliament and all Members of all State Legislatures.
+#AnswerEnd
+
+#QuestionStart
+Q117) Which one of the following Articles of the Constitution of India requires the Prime Minister of India to furnish information related to decisions of the Council of Ministers to the President of India? [CDS 2022 (I)]
+a) Article 78
+b) Article 74
+c) Article 75
+d) Article 81
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 78
+#AnswerEnd
+
+#QuestionStart
+Q118) Which one of the following statements is not correct? [CDS 2022 (I)]
+a) All executive actions of the Government of India are taken in the name of the President of India.
+b) The President of India appoints a person as Attorney General of India provided she/he is qualified to be a Judge of the Supreme Court or a High Court.
+c) The total number of Ministers in the Council of Ministers cannot exceed ten percent of the total number of members of the House of People.
+d) The President of India is bound to act as per the advice tendered by the Council of Ministers.
+#QuestionEnd
+#AnswerStart
+Answer: c) The total number of Ministers in the Council of Ministers cannot exceed ten percent of the total number of members of the House of People.
+#AnswerEnd
+
+#QuestionStart
+Q119) Which one of the following methods is followed in electing the President of India? [CDS 2022 (I)]
+a) Proportional Representation only
+b) First-Past-the-Post System only
+c) Proportional Representation and the Single Transferable Vote System
+d) Proportional Representation and the First-Past-the-Post System
+#QuestionEnd
+#AnswerStart
+Answer: c) Proportional Representation and the Single Transferable Vote System
+#AnswerEnd
+
+#QuestionStart
+Q120) National Disaster Management Authority is headed by [CDS 2021(1)]
+a) the Prime Minister
+b) the Home Minister
+c) the President
+d) the Health Minister
+#QuestionEnd
+#AnswerStart
+Answer: a) the Prime Minister
+#AnswerEnd
+
+#QuestionStart
+Q121) Which one of the following is not a correct description of the Union Cabinet? [CDS 2021(1)]
+a) It is part of the Parliament.
+b) It is responsible to the Parliament.
+c) It remains in power till it enjoys the confidence of the Parliament.
+d) A person from outside the Parliament can never be appointed a member of the Cabinet.
+#QuestionEnd
+#AnswerStart
+Answer: d) A person from outside the Parliament can never be appointed a member of the Cabinet.
+#AnswerEnd
+
+#QuestionStart
+Q122) Which one of the following statements about the Vice-President of India is not correct? [CDS 2021(1)]
+a) He is not eligible for re-election.
+b) He must not be less than 35 years of age.
+c) He is elected by members of an electoral college consisting of the members of both Houses of the Parliament.
+d) His term of office is five years.
+#QuestionEnd
+#AnswerStart
+Answer: a) He is not eligible for re-election.
+#AnswerEnd
+
+#QuestionStart
+Q123) Which one among the following statements pertaining to the President’s term of Office is not correct? [CDS 2020 (II)]
+a) The President holds Office for a term of five years.
+b) The President may be removed from the Office by way of impeachment.
+c) The President may resign before the expiration of his/her term by writing to the Speaker of the Lok Sabha.
+d) The President shall, notwithstanding the expiration of his/her term, continue to hold Office unitl his/her successor enters upon his/her Office.
+#QuestionEnd
+#AnswerStart
+Answer: c) The President may resign before the expiration of his/her term by writing to the Speaker of the Lok Sabha.
+#AnswerEnd
+
+#QuestionStart
+Q124) A special address by the Governor refers to the address delivered by the Governor [CDS 2020 (II)]
+a) when President’s Rule is called for
+b) when a national emergency necessitates dissolution of Legislative Assembly
+c) at the commencement of the first session after general election and at the first session of each year
+d) whenever he/she has concluded that such is necessary
+#QuestionEnd
+#AnswerStart
+Answer: c) at the commencement of the first session after general election and at the first session of each year
+#AnswerEnd
+
+#QuestionStart
+Q125) Which of the following is not related to the powers of the Governor? [CDS Pre.2018 II]
+a) Diplomatic and Military powers
+b) Power of appoint Advocate General
+c) Summoning, proroguing and dissolving State Legislature
+d) Power to grant pardons, reprieves, respites or remission of punishments
+#QuestionEnd
+#AnswerStart
+Answer: a) Diplomatic and Military powers
+#AnswerEnd
+
+#QuestionStart
+Q126) Which one of the following regarding the ordinance making power of the Governor is not correct? [CDS Pre.2018 (II)]
+a) It is not a discretionary power
+b) The Governor may withdraw the ordinance anytime
+c) The ordinance power can be exercised when the Legislature is not in session
+d) The aid and advice of Ministers is not required for declaring the ordinance
+#QuestionEnd
+#AnswerStart
+Answer: d) The aid and advice of Ministers is not required for declaring the ordinance
+#AnswerEnd
+
+#QuestionStart
+Q127) Which of the following statements about the ordinance making power of the Governor is/are Correct?
+1. It is a discretionary power
+2. The Governor himself is not competent to withdraw the ordinance at any time.
+Select the correct answer using the codes given below [CDS Pre.2018 (I)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q128) Which of the following statements relating to the duties of the Governor is/are correct?
+1. The duties of the Governor as a Constitutional Head of the State do not become the subject matter of questions or debate in the Parliament.
+2. Where the Governor takes a decision independently of his Council of Ministers or where he acts as the Chief Executive of the State under President’s rule, his actions are subject to scrutiny by the Parliament.
+Select the correct answer using the codes given below: [CDS Pre.2018 (II)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q129) Who among the following Prime Ministers of India were defeated by a vote of No Confidence?
+1. Morarji Desai
+2. Vishwanath Pratap Singh
+3. HD Deve Gowda
+4. Atal Bihari Vajpayee
+Select the correct answer using the codes given below : [CDS Pre.2016 (I)]
+a) 1, 2, 3 and 4
+b) 1.2 and 3
+c) 2, 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q130) The Electoral College for electing the President of India does not include which of the following?
+1. All elected members of the Rajya Sabha.
+2. All elected members of the Legislative Assemblies of States.
+3. All members of the Legislative Councils of States.
+Select the correct answer using the codes given below. [CAPF 2021]
+a) 1 and 2
+b) 2 and 3
+c) 3 only
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q131) Which one of the following powers has not been conferred on the President of India? [CAPF 2021]
+a) Appointment of Prime Minister.
+b) To decide at his/her discretion any question regarding disqualification of a member of the Parliament.
+c) To grant pardon to a person who has been punished by a court-martial.
+d) To remove a Judge of the High Court.
+#QuestionEnd
+#AnswerStart
+Answer: b) To decide at his/her discretion any question regarding disqualification of a member of the Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q132) The Governor of a state may exercise discretionary powers when
+1. he or she is not convinced by the advice of the Council of Ministers.
+2. the Constitution requires him/her to act in his/her discretion in certain matters.
+3. he or she is appointed as the administrator of an adjoining Union Territory.
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1, 2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q133) Which one of the following statements about the Attorney-General of India is NOT correct? [CAPF 2020]
+a) The person must be qualified to be appointed as a judge of the Supreme Court
+b) He/she enjoys right of audience only in the Supreme Court and High Courts in India
+c) He/she holds office during the pleasure of the President
+d) He/she receives remuneration as determined by the President
+#QuestionEnd
+#AnswerStart
+Answer: b) He/she enjoys right of audience only in the Supreme Court and High Courts in India
+#AnswerEnd
+
+#QuestionStart
+Q134) In relation to the powers of the Union Government of India, which one of the following statements is NOT correct? [CAPF 2020]
+a) The Government of India may undertake legislative functions of a territory outside of India by agreement with the Government of that territory.
+b) The Union Government may not entrust a State Government with functions over matters where executive power of the Union extends.
+c) The Union Government may direct States for construction and maintenance of means of communication of military importance.
+d) The Governor may, with consent of Government of India, entrust its officers with functions on matters which fall within the executive power of the State
+#QuestionEnd
+#AnswerStart
+Answer: b) The Union Government may not entrust a State Government with functions over matters where executive power of the Union extends.
+#AnswerEnd
+
+#QuestionStart
+Q135) Which of the following statement(s) regarding promulgation of ordinance is/are correct?
+1. President can promulgate ordinances which are of temporary duration.
+2. An ordinance promulgated by the President has to be ratified by Parliament within six weeks of its re-assembly
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q136) Who was the President of the Constituent Assembly? [CAPF 2020]
+a) B R Ambedkar
+b) Rajendra Prasad
+c) Alladi Krishaswami Ayyar
+d) Sarvepalli Radhakrishnan
+#QuestionEnd
+#AnswerStart
+Answer: b) Rajendra Prasad
+#AnswerEnd
+
+#QuestionStart
+Q137) Which one of the following statements about the Attorney-General of India is NOT correct? [CAPF 2019]
+a) He shall have the right to speak in the Houses of Parliament.
+b) He shall have a right of audience in all courts in the territory of India in the performance of his official duties.
+c) He must have the same qualifications as are required to be a Judge of the Supreme Court.
+d) He is a whole-time counsel for the government.
+#QuestionEnd
+#AnswerStart
+Answer: d) He is a whole-time counsel for the government.
+#AnswerEnd
+
+#QuestionStart
+Q138) Which one of the following Commissions has not examined the issue of removal of the Governor of a State? [CAPF 2018]
+a) Sarkaria Commission
+b) Thakkar Commission
+c) Venkatachaliah Commission
+d) Punchhi Commission
+#QuestionEnd
+#AnswerStart
+Answer: b) Thakkar Commission
+#AnswerEnd
+
+#QuestionStart
+Q139) Which one of the following statements relating the power of the President of India to grant pardon is not correct? [CAPF 2018]
+a) The President has the power to grant pardon where punishment or sentence is by a Court Martial
+b) The President can grant pardon in all cases where the sentence is a sentence of death
+c) The Court’s power of judicial review is very limited in relation to the decision of the President on mercy petition
+d) The power to grant pardon by the President is the power that the sovereign never exercises against its own judicial mandate
+#QuestionEnd
+#AnswerStart
+Answer: d) The power to grant pardon by the President is the power that the sovereign never exercises against its own judicial mandate
+#AnswerEnd
+
+#QuestionStart
+Q140) Under Article 355 of the Constitution of India, it is the duty of the Union to [CAPF 2015]
+a) protect Sates against external aggression and internal disturbance
+b) allow the extension of executive powers of the Union to any Sate
+c) declare that the powers of the Legislature of a State shall be exercisable by or under the authority of the Parliament
+d) allow the Parliament to include or exclude any caste, race or tribe into the list of the Scheduled Castes or Scheduled Tribes
+#QuestionEnd
+#AnswerStart
+Answer: a) protect Sates against external aggression and internal disturbance
+#AnswerEnd
+
+#QuestionStart
+Q141) The 2nd Administrative Reforms Commission has produced Reports on.
+1. Ethics in Governance.
+2. Local Governance.
+3. Combating Terrorism.
+4. Eradication of Corruption.
+Select the correct answer using the code given below. [CAPF 2015]
+a) 1, 3 and 4
+b) 2, 3 and 4
+c) 1 and 2
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q142) Who is the Supreme Commander of the Indian Armed Forces? [CAPF 2015]
+a) President
+b) Prime Minister
+c) Defence Minister
+d) Longest serving Chief of Staff
+#QuestionEnd
+#AnswerStart
+Answer: a) President
+#AnswerEnd
+
+#QuestionStart
+Q143) Which of the following are true regarding the Preamble of the Constitution of India?
+1. The Objective Resolution was proposed by Jawaharlal Nehru and passed by the Constituent Assembly which ultimately became the preamble.
+2. The idea of the preamble was borrowed from the Constitution of the USA.
+3. The words Socialist and Secular were adopted by the 42nd Amendment in 1976.
+4. The preamble incorporates the Fundamental Rights of the citizens of India.
+Select the correct answer using the codes given below.
+Codes: [CAPF 2014]
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 3 and 4
+d) 1,2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q144) Which of the following statements are correct regarding the election of the President of India?
+1. He is elected indirectly.
+2. He is elected through an electoral college consisting of all elected MPs and MLAs.
+3. He is elected directly.
+4. Members of the Legislative Council have no right to vote in the Presidential election.
+Select the correct answer using the codes given below.
+Codes: [CAPF 2014]
+a) 1 and 2
+b) 1,2 and 4
+c) 1 and 4
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q145) Which of the following is/are correct regarding the office of Governor in India?
+1. One Governor can act as Governor of more than one state.
+2. The Governor has the power to grant pardons, reprieves, remission of Punishment to persons convicted under The State Law.
+3. The Governor is appointed by the President on the recommendation of the Chief Minister of the respective state.
+Select the correct answer using the codes given below.
+Codes: [CAPF 2014]
+a) 1 and 2
+b) 1,2 and 3
+c) 2 and 3
+d) Only 1
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q146) Consider the following statements about Constitutional Government.
+1. It is a form of limited government.
+2. One where the Constitution is the basis of public authority.
+3. One where the Monarch is the formal head of the state.
+4. One where there is always a universal adult franchise.
+Which of the statements given above are correct? [CAPF 2014]
+a) 1 and 2
+b) 2 and 4
+c) 2 and 4
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd

@@ -1,0 +1,522 @@
+#QuestionStart
+Q1) In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of the Fundamental Rights? [UPSC CSE Pre 2023]
+a) 1st Amendment
+b) 42nd Amendment
+c) 44th Amendment
+d) 86th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: a) 1st Amendment
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following Statements: [UPSC CSE Pre. 2022]
+1. A bill amending the Constitution requires a prior recommendation of the Président of India.
+2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.
+3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q3) ‘Right to Privacy’ is protected under which Article of the Constitution of India? [UPSC CSE Pre 2021]
+a) Article 15
+b) Article 19
+c) Article 21
+d) Article 29
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 21
+#AnswerEnd
+
+#QuestionStart
+Q4) A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [UPSC CSE Pre 2021]
+a) Article 14
+b) Article 28
+c) Article 32
+d) Article 44
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 14
+#AnswerEnd
+
+#QuestionStart
+Q5) Under the Indian constitution, concentration of wealth violates [UPSC CSE Pre 2021]
+a) The Right to equality
+b) The Directive principles of state policy
+c) The right to freedom
+d) The concept of welfare
+#QuestionEnd
+#AnswerStart
+Answer: b) The Directive principles of state policy
+#AnswerEnd
+
+#QuestionStart
+Q6) What is the position of the right to property in India? [UPSC CSE Pre 2021]
+a) Legal right available to citizens only
+b) Legal right available to any person
+c) Fundamental Right available to citizens only
+d) Neither Fundamental Right nor legal right
+#QuestionEnd
+#AnswerStart
+Answer: b) Legal right available to any person
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following categories of Fundamental Rights incorporate protection against untouchability as a form of discrimination? [UPSC CSE Pre. 2020]
+a) Right against Exploitation
+b) Right to Freedom
+c) Right to Constitutional Remedies
+d) Right to Equality
+#QuestionEnd
+#AnswerStart
+Answer: d) Right to Equality
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct? [UPSC CSE Pre. 2020]
+1. They shall be enforceable by courts.
+2. They shall not be enforceable by any court.
+3. The principles laid down in this part are to influence the making of laws by the State.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Which Article of the Constitution of India safeguards one’s right to marry the person of one’s choice? [UPSC CSE Pre. 2019]
+a) Article 19
+b) Article 21
+c) Article 25
+d) Article 29
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 21
+#AnswerEnd
+
+#QuestionStart
+Q10) In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? [UPSC CSE Pre. 2019]
+a) Protection against the tyranny of political rulers
+b) Absence of restraint
+c) Opportunity to do whatever one likes
+d) Opportunity to develop oneself fully
+#QuestionEnd
+#AnswerStart
+Answer: d) Opportunity to develop oneself fully
+#AnswerEnd
+
+#QuestionStart
+Q11) Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? [UPSC CSE Pre. 2018]
+a) Article 14 and the provisions under the 42nd Amendment to the Constitution
+b) Article 17 and the Directive Principles of State Policy in Part IV
+c) Article 21 and the freedoms guaranteed in Part III
+d) Article 24 and the provisions under the 44th Amendment to the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 21 and the freedoms guaranteed in Part III
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following reflects the most appropriate relationship between law and liberty? [UPSC CSE Pre. 2018]
+a) If there are more laws, there is less liberty,
+b) If there are no laws, there is no liberty.
+c) If there is liberty, laws have to be made by the people.
+d) If laws are changed too often, liberty is in danger.
+#QuestionEnd
+#AnswerStart
+Answer: b) If there are no laws, there is no liberty.
+#AnswerEnd
+
+#QuestionStart
+Q13) Which of the following statements is/are true of the Fundamental Duties of an Indian citizen? [UPSC CSE Pre. 2017]
+1. A legislative process has been provided to enforce these duties.
+2. They are correlative to legal duties.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q14) Which of the following are not necessarily the consequences of the proclamation of the President’s rule in a State? [UPSC CSE Pre. 2017]
+1. Dissolution of the State Legislative Assembly
+2. Removal of the Council of Ministers in the State
+3. Dissolution of the local bodies
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Right to vote and to be elected in India is a: [UPSC CSE Pre. 2017]
+a) Fundamental Right
+b) Natural Right
+c) Constitutional Right
+d) Legal Right
+#QuestionEnd
+#AnswerStart
+Answer: c) Constitutional Right
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following are envisaged by the Right against Exploitation in the Constitution of India? [UPSC CSE Pre. 2017]
+1. Prohibition of traffic in human beings and forced labour
+2. Abolition of untouchability
+3. Protection of the interests of minorities
+4. Prohibition of employment of children in factories and mines
+Select the correct answer using the code given below:
+a) 1,2 and 4 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: [UPSC CSE Pre. 2017]
+With reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon:
+1. legislative function.
+2. executive function.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q18) Which principle among the following was added to the Directive Principles of State Policy by the 42nd Amendment to the Constitution? [UPSC CSE Pre. 2017]
+a) Equal pay for equal work for both men and women
+b) Participation of workers in the management of industries
+c) Right to work, education and public assistance
+d) Securing living wage and human conditions of work to workers
+#QuestionEnd
+#AnswerStart
+Answer: b) Participation of workers in the management of industries
+#AnswerEnd
+
+#QuestionStart
+Q19) In the context of India, which one of the following is the correct relationship between Rights and Duties? [UPSC CSE Pre. 2017]
+a) Rights are correlative with Duties.
+b) Rights are personal and hence independent of society and Duties.
+c) Rights, not Duties, are important for the advancement of the personality of the citizen.
+d) Duties, not Rights, are important for the stability of the State.
+#QuestionEnd
+#AnswerStart
+Answer: a) Rights are correlative with Duties.
+#AnswerEnd
+
+#QuestionStart
+Q20) The ideal of ‘Welfare State’ in the Indian Constitution is enshrined in its [UPSC CSE Pre. 2015]
+a) Preamble
+b) Directive Principles of State Policy
+c) Fundamental Rights
+d) Seventh Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q21) Which of the following is/are among the Fundamental Duties of citizens laid down in the Indian Constitution? [UPSC CSE Pre. 2012]
+1. To preserve the rich heritage of our composite culture.
+2. To protect the weaker sections from social injustice.
+3. To develop the scientific temper and spirit of inquiry.
+4. To strive towards excellence in all spheres of individual and collective activity.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 2 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following provisions under the Directive Principles of State Policy as enshrined in the Constitution of India: [UPSC CSE Pre. 2012]
+1. Securing for citizens of India a uniform civil code.
+2. Organizing village Panchayats.
+3. Promoting cottage industries in rural areas.
+4. Securing for all the workers reasonable leisure and cultural opportunities.
+Which of the above Directive Principles of State Policy reflect Gandhian principles?
+a) 1, 2 and 4 only
+b) 2 and 3 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) With reference to the Constitution of India, consider the following:
+1. Fundamental Rights
+2. Fundamental Duties
+3. Directive Principles of State Policy
+Which of the above provisions of the Constitution of India fulfilled the National Social Assistance Programme launched by the Government of India? [UPSC CSE Pre 2010]
+a) Only 1
+b) Only 3
+c) Only 1 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 3
+#AnswerEnd
+
+#QuestionStart
+Q24) How are the Directive Principles of State Policy different from Fundamental Rights? [UPSC CSE (Pre) 2009]
+a) Former is for Union Government and later is for state Government.
+b) Former is a part of Constitution whereas later is not.
+c) Directive Principles are not enforceable whereas Fundamental Right can be enforced.
+d) None of these.
+#QuestionEnd
+#AnswerStart
+Answer: c) Directive Principles are not enforceable whereas Fundamental Right can be enforced.
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following is/are included in the Directive Principles of State Policy
+1. Prohibition of Trafficking in human beings and forced labour.
+2. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health.
+Select the correct answer using the code given below? [UPSC CSE (Pre) 2008]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q26) Consider the following statements in respect of financial emergency under Article 360 of the Constitution of India:
+1. A Proclamation of financial emergency issued shall cease to operate at the expiration of two months, unless, before the expiration of that period, it has been approved by the resolutions of both Houses of Parliament.
+2. IfanyProclamation of financial emergency is in operation, it is competent for the President of India to issue directions for the reduction of salaries and allowances of all or any class of persons, serving in connection with the affairs of the Union but excluding the Judges of the Supreme Court and the High Courts.
+Which of the statements given above is/are correct? [UPSC CSE (Pre) 2007]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following statements -
+1. Article 301 is related to Right to Property.
+2. Right to Property is a legal right but not a Fundamental Right.
+3. Article 300-A was inserted in Indian Constitution by 44th Amendment during the period of Congress Government.
+Which of aforesaid statements is/are correct? [UPSC CSE (Pre) 2005]
+a) Only 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q28) Which one of following Articles of the Indian constitution provide that it shall be the duty of the Union to protect every state against external aggression and internal disturbance? [UPSC CSE (Pre) 2003]
+a) Article 215
+b) Article 275
+c) Article 325
+d) Article 355
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 355
+#AnswerEnd
+
+#QuestionStart
+Q29) The purpose of the inclusion of Directive Principles of State Policy in the Indian Constitution is to establish [UPSC CSE (Pre) 2002]
+a) Political Democracy
+b) Social Democracy
+c) Gandhian Democracy
+d) Social and Economic Democracy
+#QuestionEnd
+#AnswerStart
+Answer: d) Social and Economic Democracy
+#AnswerEnd
+
+#QuestionStart
+Q30) Which one of the following Articles of the Directive Principles of State Policy deals with the promotion of international peace and security? [UPSC CSE (Pre) 2002]
+a) 51
+b) 48 A
+c) 43 A
+d) 41
+#QuestionEnd
+#AnswerStart
+Answer: a) 51
+#AnswerEnd
+
+#QuestionStart
+Q31) Which one of the following amendments to the Indian Constitution empowers the President to send back any matter for reconsideration by the Council of Ministers? [UPSC CSE (Pre) 2002]
+a) 39lh
+b) 40th
+c) 42ⁿd
+d) 44th
+#QuestionEnd
+#AnswerStart
+Answer: d) 44th
+#AnswerEnd
+
+#QuestionStart
+Q32) The 93rd Constitution Amendment Bill deals with the: [UPSC CSE (Pre) 2002]
+a) Continuation of reservation for backward classes in government jobs
+b) Free and compulsory education for all children between the age of 6 and 14 years
+c) Reservation of 30 percent posts for women in government recruitments
+d) Allocation of more number of Parliamentary seats for recently formed States
+#QuestionEnd
+#AnswerStart
+Answer: b) Free and compulsory education for all children between the age of 6 and 14 years
+#AnswerEnd
+
+#QuestionStart
+Q33) In the Indian Constitution, the right to equality is granted by five Articles. They are: [UPSC. CSE (Pre) 2002]
+a) Article 16 to Article 20
+b) Article 15 to Article 19
+c) Article 14 to Article 18
+d) Article 13 to Article 17
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 14 to Article 18
+#AnswerEnd
+
+#QuestionStart
+Q34) Match List-1 (Article of Indian Constitution) with List-II (Provisions) and select the correct answer using the code given, below the lists:
+| List-I (Article of Indian Constitution) | List-II (Provisions) |
+|---|---|
+| A. Article 16 (2) | 1. No person shall be deprived of his property by the authority of law. |
+| B. Article 29 (2) | 2. No person can be discriminated against in the matter of public appointment on the grounds of race, religion or caste. |
+| C. Article 30 (1) | 3. All minorities whether based on religion or language shall have the right to establish and administer educational institutions of their choice. |
+| D. Article 31 (1) | 4. No citizen shall be denied admission into any educational institution maintained by the State, or receiving State aid, on the grounds of religion, race, caste, language or any of them. |
+Code: [UPSC CSE (Pre) 2002]
+a) A2 B4 C3 D1
+b) A3 B1 C2 D4
+c) A2 B1 C3 D4
+d) A3 B4 C2 D1
+#QuestionEnd
+#AnswerStart
+Answer: a) A2 B4 C3 D1
+#AnswerEnd
+
+#QuestionStart
+Q35) A British citizen staying in India cannot claim right to- [UPSC CSE (Pre) 1999]
+a) Freedom of Trade and Profession
+b) Equality before the Law
+c) Protection of life and Personal Liberty
+d) Freedom of Religion
+#QuestionEnd
+#AnswerStart
+Answer: a) Freedom of Trade and Profession
+#AnswerEnd
+
+#QuestionStart
+Q36) An amendment to the Constitution of India can be initiated by the:
+1. Lok Sabha
+2. Rajya Sabha
+3. State Legislatures
+4. President
+Select the correct answer using the codes given below: [UPSC CSE (Pre) 1999]
+a) 1 only
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following are the matters on which a constitutional amendment is possible only with the ratification of the legislatures of not less than one-half of the states?
+1. Election of the President
+2. Representation of the States in Parliament
+3. Any of the Lists in the 7th Schedule
+4. Abolition of the Legislature Council of a State
+Code: [UPSC CSE (Pre) 1995]
+a) 1, 2 and 3
+b) 1,2 and 4
+c) 1,3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q38) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | Lisi-Il |
+|---|---|
+| A. 13th Amendment | 1. Nagaland |
+| B. 18th Amendment | 2. Anti-Defection Law |
+| C. 39th Amendment | 3. Clarified the ‘state’ |
+| D.52nd Amendment | 4. The election of President Speaker and Prime Minister cannot be challenged |
+Code [UPSC CSE (Pre) 1995]
+a) A2 B4 C1 D3
+b) A4 B3 C2 D1
+c) A1 B3 C4 D2
+d) A1 B3 C2 D4
+#QuestionEnd
+#AnswerStart
+Answer: d) A1 B3 C2 D4 ( ⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q39) Prohibition of discrimination on the ground of religion etc. (Article 15 of the Constitution of India) is a Fundamental Right classifiable under: [UPSC CSE (Pre) 1995]
+a) The Right to Freedom of Religion
+b) The Right against Exploitation
+c) The Cultural and Educational Rights
+d) The Right to Equality
+#QuestionEnd
+#AnswerStart
+Answer: d) The Right to Equality
+#AnswerEnd
+
+#QuestionStart
+Q40) The basic structure theory of the Constitution of India Implies that- [UPSC CSE (Pre) 1994]
+a) Certain features of the Constitution are so essential to it that they cannot be abrogated.
+b) Fundamental rights cannot be abridged or taken away.
+c) The Constitution cannot be amended except in accordance with the procedure laid down in Article 368.
+d) The Preamble of the Constitution cannot be amended for it is not a part of the Constitution and at the same time represents its real spirit.
+#QuestionEnd
+#AnswerStart
+Answer: a) Certain features of the Constitution are so essential to it that they cannot be abrogated.
+#AnswerEnd
+
+#QuestionStart
+Q41) Freedom of News Papers in India- [UPSC CSE (Pre) 1994]
+a) is specifically provided in Article 19 (1) (a) of the Constitution
+b) is implied in the wider freedom of expression guaranteed by Article 19(l)(a) of the Constitution
+c) is guaranteed under the provisions of Article 361 A of the Constitution
+d) emanates from the operation of the Rule of Law In the country
+#QuestionEnd
+#AnswerStart
+Answer: b) is implied in the wider freedom of expression guaranteed by Article 19(l)(a) of the Constitution
+#AnswerEnd

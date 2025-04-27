@@ -1,0 +1,1040 @@
+#QuestionStart
+Q26) Which one of the following natural regions is known as ‘Land of Big Games’? [U.P.P.C.S. (Pre) 2019]
+a) Temperate Grassland
+b) Tropical Monsoon Region
+c) Hot Desert Region
+d) Tropical Savanna Region
+#QuestionEnd
+#AnswerStart
+Answer: d) Tropical Savanna Region
+#AnswerEnd
+
+#QuestionStart
+Q27) Which of the following instruments is used to record seismic waves? [UPPCS (Mains) 2017]
+a) Seismogram
+b) Seismograph
+c) Seismoscope
+d) Seismometer
+#QuestionEnd
+#AnswerStart
+Answer: b) Seismograph
+#AnswerEnd
+
+#QuestionStart
+Q28) Which one of the following is the highest volcanic mountain in the world? [U.P.P.C.S. (Pre) 2015]
+a) Mount Pinatubo
+b) Mount Kilimanjaro
+c) Mount Tall
+d) Mount Cotopaxi
+#QuestionEnd
+#AnswerStart
+Answer: c) Mount Tall (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q29) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Mount Kinabalu | 1. Argentina |
+| B. Elburz | 2. Malaysia |
+| C. Aconcagua | 3. Tanzania |
+| D. Kilimanjaro | 4. Iran |
+Code: [UPPCS (Mains) 2015]
+a) A-1, B-4, C-2, D-3
+b) A-3, B-2, C-1, D-4
+c) A-2, B-4, C-3, D-1
+d) A-2, B-4, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: d) A-2, B-4, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q30) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Volcano) | List-II (Country) |
+|---|---|
+| A. Sabankaya | 1. Italy |
+| B. Mount Etna | 2. Peru |
+| C. Colima | 3. Indonesia |
+| D. Merapi | 4. Mexico |
+Code: [UPPCS (Pre) 2015]
+a) A-3, B-1, C-4, D-2
+b) A-3, B-2, C-1, D-4
+c) A-2, B-1, C-4, D-3
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q31) Mauna Loa is an active volcano in- [U.P.P.C.S. (Mains) 2014]
+a) Alaska
+b) Hawaii
+c) Italy
+d) Japan
+#QuestionEnd
+#AnswerStart
+Answer: b) Hawaii
+#AnswerEnd
+
+#QuestionStart
+Q32) Consider the following statements:
+Statement (A): Deserts can be effective sources for the production of perennial energy.
+Reason (R): As much energy is consumed by mankind in one year, Desert can receive more energy than that in only 6 hours from the Sun.
+Choose the correct answer from the following code. [UPPCS (Pre) 2013]
+a) (A) and (R), both are correct and (R) is the correct explanation of (A).
+b) (A) and (R), both are correct, but (R) is not the correct explanation of (A).
+c) (A) is correct, but (R) is false.
+d) (A) is false but (R) is correct.
+#QuestionEnd
+#AnswerStart
+Answer: a) (A) and (R), both are correct and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q33) Which of the following is not a temperate grassland? [U.P.P.C.S. (Pre) 2012]
+a) Pampas
+b) Veld
+c) Downs
+d) Savanna
+#QuestionEnd
+#AnswerStart
+Answer: d) Savanna
+#AnswerEnd
+
+#QuestionStart
+Q34) ‘Death Valley’ situated in South California in the U.S.A is an example of which of the following? [U.P.P.C.S. (Pre) 2012]
+a) Anticlinal Valley
+b) Indian Valley
+c) Pristiclinal Valley
+d) Rift Valley
+#QuestionEnd
+#AnswerStart
+Answer: d) Rift Valley
+#AnswerEnd
+
+#QuestionStart
+Q35) The Savannas are most widespread in- [U.P.P.C.S. (Mains) 2011]
+a) Africa
+b) Asia
+c) North America
+d) South America
+#QuestionEnd
+#AnswerStart
+Answer: a) Africa
+#AnswerEnd
+
+#QuestionStart
+Q36) The ‘Ring of Fire’ is associated with-
+1. Earthquake
+2. Volcanoes
+3. Pacific Ocean
+4. Forest Fires
+Choose your answer with the help of the codes given below. [U.P.P.C.S. (Pre) 2008]
+a) 1, 2 and 3
+b) 2 and 3
+c) 2 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following are active volcanoes?
+1. Aconcagua
+2. Cotopaxi
+3. Etna
+4. Fujiyama
+Select the correct answer from the code given below: [U.P.P.C.S. (Mains) 2007]
+a) 1 and 2
+b) 3 and 4
+c) 1,2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q38) The North-Western Region of the Indian Sub-continent is susceptible to earthquake activity because of- [U.P.P.C.S. (Mains) 2005]
+a) Volcanic activity
+b) Plate tectonic activity
+c) Coral formation activity
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Plate tectonic activity
+#AnswerEnd
+
+#QuestionStart
+Q39) Which Volcano is called ‘the lighthouse’ of Mediterranean Sea? [U.P.P.C.S. (Mains) 2004]
+a) Etna
+b) Pele
+c) Stromboli
+d) Vesuvius
+#QuestionEnd
+#AnswerStart
+Answer: c) Stromboli
+#AnswerEnd
+
+#QuestionStart
+Q40) Which one of the following is not correctly matched? [U.P.P.C.S. (Mains) 2002]
+a) Downs - Tropical grassland
+b) Steppes - Temperate grassland
+c) Selva - Tropical Forest
+d) Taiga - Temperate Forest
+#QuestionEnd
+#AnswerStart
+Answer: a) Downs - Tropical grassland
+#AnswerEnd
+
+#QuestionStart
+Q41) Desert is defined as the area where- [U.P. Lower Sub. (Pre) 2009]
+a) Temperature remains more than 42° C
+b) No plants are found
+c) Annual rain occurs less than 25 cm
+d) Prominence of sand barrows
+#QuestionEnd
+#AnswerStart
+Answer: c) Annual rain occurs less than 25 cm
+#AnswerEnd
+
+#QuestionStart
+Q42) Highest peaks of the world are mostly found in which type of Mountains? [45th B.P.S.C. (Pre) 2001]
+a) Old folded mountains
+b) Young folded mountains
+c) Residual mountains
+d) Block mountains
+#QuestionEnd
+#AnswerStart
+Answer: b) Young folded mountains
+#AnswerEnd
+
+#QuestionStart
+Q43) The probability of having a desert on the earth is more- [41st BPSC (Pre) 1996]
+a) Near Zero-degree latitude
+b) Near 23° latitude
+c) Near 50° latitude
+d) Near 70° latitudes
+#QuestionEnd
+#AnswerStart
+Answer: b) Near 23° latitude
+#AnswerEnd
+
+#QuestionStart
+Q44) The greatest delta of the world is formed by- [41st B.P.S.C. (Pre) 1996]
+a) Ganga and Brahmaputra
+b) Mississippi-Missouri
+c) Yangtze-Kiang
+d) Huang-He
+#QuestionEnd
+#AnswerStart
+Answer: a) Ganga and Brahmaputra
+#AnswerEnd
+
+#QuestionStart
+Q45) Which statement of the following is true for igneous rocks? [40th B.P.S.C. (Pre) 1995]
+a) These have little fossils
+b) They have porous for water
+c) They are both crystal and non-crystal
+d) These rocks have no silicas
+#QuestionEnd
+#AnswerStart
+Answer: c) They are both crystal and non-crystal
+#AnswerEnd
+
+#QuestionStart
+Q46) Based on following statements choose the correct option:
+Statement I: Theory of Plate tectonics was given by H.H. Hess in 1967.
+Statement II: Theory of Plate Tectonics is based on Theory of Sea Floor Spreading.
+Code: [Chhattisgarh PCS (Pre) 2021]
+a) Statement I and Statement II both are true
+b) Statement I and Statement II both are false
+c) Statement I is true, but Statement II is false
+d) Statement I is false, but Statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement I is false, but Statement II is true
+#AnswerEnd
+
+#QuestionStart
+Q47) Read the following statement related to ‘Earthquake shadow zone’ and choose the correct option:
+Statement I: The shadow zone of one earthquake is totally different from the shadow zone of another earthquake.
+Statement II: Seismometers record both ‘P’ and ‘S’ waves at any distance out of 105° from earthquake’s epicenter.
+Code: [Chhattisgarh P.C.S. (Pre) 2020]
+a) Statement I and Statement II both are true
+b) Statement I is true, but Statement II is false
+c) Statement I is false, but Statement II is true
+d) Statement I and Statement II both are false
+#QuestionEnd
+#AnswerStart
+Answer: b) Statement I is true, but Statement II is false
+#AnswerEnd
+
+#QuestionStart
+Q48) Which of the following landforms is found in Karst region? [Jharkhand PCS (Mains) 2016]
+a) Pothole
+b) Sink hole
+c) Blow hole
+d) Playa
+#QuestionEnd
+#AnswerStart
+Answer: b) Sink hole
+#AnswerEnd
+
+#QuestionStart
+Q49) The most abundant gas emitted from volcanoes is- [Jharkhand P.C.S. (Pre) 2013]
+a) Water Vapor
+b) Helium
+c) Sulphur Dioxide
+d) Carbon Dioxide
+#QuestionEnd
+#AnswerStart
+Answer: a) Water Vapor
+#AnswerEnd
+
+#QuestionStart
+Q50) Origin of Metamorphic rocks occurs from ...........rock? [Jharkhand P.C.S. (Pre) 2011]
+a) Igneous
+b) Sedimentary
+c) Both Igneous and Sedimentary
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Both Igneous and Sedimentary
+#AnswerEnd
+
+#QuestionStart
+Q51) In which belt, the volcanic eruption is maximum? [MPPCS (Pre) 2021]
+a) Mid Continental
+b) Circumpacific
+c) Mid Atlantic
+d) Intraplates Volcanoes
+#QuestionEnd
+#AnswerStart
+Answer: b) Circumpacific
+#AnswerEnd
+
+#QuestionStart
+Q52) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Grasslands) | List-II (Country/Continent) |
+|---|---|
+| A. Steppes | 1. United States of America |
+| B. Prairies | 2. South Africa |
+| C. Velds | 3. Russia |
+| D. Downs | 4. Australia |
+Code: [MPPCS Pre) 2020]
+a) A-2, B-1, C-3, D-4
+b) A-1, B-4, C-2, D-3
+c) A-3, B-1, C-2, D-4
+d) A-4, B-2, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-1, C-2, D-4
+#AnswerEnd
+
+#QuestionStart
+Q53) Which of the following pairs is not correctly matched? [M.P.P.C.S. (Pre) 2017]
+a) Canyon - River
+b) Zeugen - Wind
+c) Inselberg - Glacier
+d) Moraine - Glacier
+#QuestionEnd
+#AnswerStart
+Answer: c) Inselberg - Glacier
+#AnswerEnd
+
+#QuestionStart
+Q54) The Peneplain is related to: [M.P.P.C.S. (Pre) 2017]
+a) wind
+b) underground water
+c) glacier
+d) river
+#QuestionEnd
+#AnswerStart
+Answer: d) river
+#AnswerEnd
+
+#QuestionStart
+Q55) Formation of delta is affected by: [M.P.P.C.S. (Pre) 1993]
+a) Rocks
+b) Tide-ebb
+c) Strong winds
+d) Deep sea
+#QuestionEnd
+#AnswerStart
+Answer: b) Tide-ebb
+#AnswerEnd
+
+#QuestionStart
+Q56) Sandstone is flaky rock, because- [M.P.P.C.S. (Pre) 1993]
+a) It is formed in the desert
+b) It is formed due to Heat
+c) It is formed underwater
+d) It is formed on the mountain
+#QuestionEnd
+#AnswerStart
+Answer: c) It is formed underwater
+#AnswerEnd
+
+#QuestionStart
+Q57) Which of the following is a basic landform? [Uttarakhand P.C.S. (Pre) 2016]
+a) Volcanic cone
+b) Residual mountain
+c) Monadnock
+d) Erosional waterfall
+#QuestionEnd
+#AnswerStart
+Answer: a) Volcanic cone
+#AnswerEnd
+
+#QuestionStart
+Q58) Which one of the following is not an example of Metamorphic rock? [Uttarakhand P.C.S. (Pre) 2006]
+a) Marble
+b) Quartzite
+c) Slate
+d) Granite
+#QuestionEnd
+#AnswerStart
+Answer: d) Granite
+#AnswerEnd
+
+#QuestionStart
+Q59) The molten material found inside the earth is called- [Uttarakhand P.C.S. (Pre) 2006]
+a) Lava
+b) Basalt
+c) Obsidian
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following statements about volcanoes are correct? [CDS-2023(I)]
+1. The strength of a volcano is measured by the Volcanic Explosive Index.
+2. Iceland and Philippines were created by volcanic activity.
+3. Volcanic soils are rich, deep and fertile and allow intensive agriculture to take place.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q61) A peripediment in a desert or semi-desert region is also known as: [CDS-2022(I)]
+a) Inselberg
+b) Zeugen
+c) Bajada
+d) Playa
+#QuestionEnd
+#AnswerStart
+Answer: c) Bajada
+#AnswerEnd
+
+#QuestionStart
+Q62) Individual lava flows are normally only a few feet thick, but over a long period of time, repeated flows may build up a volcano. Such volcanoes are termed as: [CDS-2022(I)]
+a) Shield volcano.
+b) Composite volcano.
+c) Strato-volcano.
+d) Cinder-cone volcano.
+#QuestionEnd
+#AnswerStart
+Answer: a) Shield volcano.
+#AnswerEnd
+
+#QuestionStart
+Q63) Which one of the following sedimentary rocks has not been formed mechanically? [CDS-2022(II)]
+a) Sandstone
+b) Conglomerate
+c) Loess
+d) Geyserites
+#QuestionEnd
+#AnswerStart
+Answer: d) Geyserites
+#AnswerEnd
+
+#QuestionStart
+Q64) Match List I with List II Match List I with List II and select the correct answer using the code given below the Lists:
+| List I Drainage | List IIFeatutc) |
+|---|---|
+| A. Insequent | 1. Whose direction of flow is controlled by the rock structure |
+| B. Consequent | 2. No apparent reason why it follows the path it takes |
+| C. Subsequent | 3. Flow in the same direction as the consequent stream but at a lower level |
+| D. Resequent | 4. Whose course is determined by the original slope of the land |
+Code : [CDS-2022(II)]
+a) A-2, B-1, C-4, D-3
+b) A-2, B-4, C-1, D-3
+c) A-3, B-4, C-1, D-2
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-4, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q65) Which one of the following processes leads to expansion of certain minerals as they take up water, causing additional stress in the rock? [CDS-2022(II)]
+a) Hydrolysis
+b) Hydration
+c) Oxidation
+d) Carbonation
+#QuestionEnd
+#AnswerStart
+Answer: b) Hydration
+#AnswerEnd
+
+#QuestionStart
+Q66) When the rivers discharge their waters from all directions into a lake or depression, the pattern is known as: [CDS 2021(1)]
+a) Trellis
+b) Dendritic
+c) Radial
+d) Centripetal
+#QuestionEnd
+#AnswerStart
+Answer: d) Centripetal
+#AnswerEnd
+
+#QuestionStart
+Q67) Which one of the following is a type of igneous rock? [CDS 2021 (I)]
+a) Marble
+b) Halite
+c) Granite
+d) Shale
+#QuestionEnd
+#AnswerStart
+Answer: c) Granite
+#AnswerEnd
+
+#QuestionStart
+Q68) Which one of the following statements about primary waves of earthquakes is not correct? [CDS 2021 (I)]
+a) They are similar to sound waves.
+b) They can travel only through solid materials.
+c) They travel through gaseous, liquid and solid materials.
+d) They move faster and are the first to arrive at the surface.
+#QuestionEnd
+#AnswerStart
+Answer: b) They can travel only through solid materials.
+#AnswerEnd
+
+#QuestionStart
+Q69) The extent of damage caused by earthquake is not influenced by which one of the following? [CDS 2021 (II)]
+a) Strength of earthquake
+b) Population density
+c) Type of building
+d) Climate of the area
+#QuestionEnd
+#AnswerStart
+Answer: d) Climate of the area
+#AnswerEnd
+
+#QuestionStart
+Q70) Geomorphic factors influencing plant and animal distributions are [CDS 2020(1)]
+a) slope angle and relief only
+b) slope aspect and relative relief
+c) slope angle, slope aspect and relief
+d) slope angle, slope aspect and relative relief
+#QuestionEnd
+#AnswerStart
+Answer: d) slope angle, slope aspect and relative relief
+#AnswerEnd
+
+#QuestionStart
+Q71) Match List-I with List-II and select the correct answer using the codes given below the Lists.
+| l ist-1 (Active Volcano) | List-H (Location) |
+|---|---|
+| A. Mount Merapi | 1. Hawaii |
+| B. Sakurajima | 2. Italy |
+| C. Mount Vesuvius | 3. Japan |
+| D. Mauna Loa | 4. Indonesia |
+Codes: [CDS 2020 (II)]
+a) A-1, B-2, C-3, D-4
+b) A-1, B-3, C-2, D-4
+c) A-4, B-2, C-3, D-1
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q72) Which one of the following is not a major tectonic plate? [CDS 2020 (II)]
+a) Saudi Arabian plate
+b) Antarctica and the surrounding oceanic plate
+c) India-Australia-New Zealand plate
+d) Pacific plate
+#QuestionEnd
+#AnswerStart
+Answer: a) Saudi Arabian plate
+#AnswerEnd
+
+#QuestionStart
+Q73) Which one of the following is not a fluvial landform? [CDS 2020 (II)]
+a) Cirque
+b) Gorge
+c) Braids
+d) Canyon
+#QuestionEnd
+#AnswerStart
+Answer: a) Cirque
+#AnswerEnd
+
+#QuestionStart
+Q74) Statement I: By far the most common topographic form in a Karst terrain is the sinkhole.
+Statement II: Topographically, a sinkhole is a depression that varies in depth from less than a meter to few hundred meters.
+Codes: [CDS 2018 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement I is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q75) Extrusive volcanoes are not found in, which one of the following mountains? [CDS 2018 (I)]
+a) Alaska
+b) Rocky
+c) Andes
+d) Himalayas
+#QuestionEnd
+#AnswerStart
+Answer: d) Himalayas
+#AnswerEnd
+
+#QuestionStart
+Q76) Statement I: Portions of glacial troughs may exhibit remarkably flat floors.
+Statement II: The fait floor in a glacial trough is produced by uniform glacial erosion.
+Codes: [CDS 2018 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement I is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q77) Statement I: Incised meanders are formed in the mature stage of a river.
+Statement II: Incised meanders are characterised by rejuvenation and upliftment of land.
+Codes: [CDS 2018 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement I is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q78) Which one of the following statements with regard to volcanoes is not correct? [CDS 2017 (I)]
+a) Stratovolcanoes produce lava flows that initially follow valleys but are highly resistant to erosion.
+b) The surrounding areas can remain highlands, lava ridges or mesas.
+c) Hawaiian shield volcanoes are eroded by streams that form deeply carved valleys with steeply sloping heads.
+d) The system of streams on a dissected volcano cone is not a radial drainage pattern.
+#QuestionEnd
+#AnswerStart
+Answer: d) The system of streams on a dissected volcano cone is not a radial drainage pattern.
+#AnswerEnd
+
+#QuestionStart
+Q79) With reference to earthquakes, which of the following statements are correct?
+1. Earthquakes largely occur along the converging plate boundaries.
+2. Point of origin of earthquake in lithosphere is known as focus/hypocentre.
+3. Intensity of earthquake decreases with distance from the epicentre.
+4. Epicentre of earthquake always remains over continents only.
+Select the correct answer using the code given below: [CDS 2016 (II)]
+a) 1 and 2
+b) 1,2 and 3
+c) 2 and 3
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q80) Which one of the following is not related to wind erosion? [CDS 2016 (II)]
+a) Wind gap
+b) Zeugen
+c) Dreikanter
+d) Demoiselle
+#QuestionEnd
+#AnswerStart
+Answer: a) Wind gap
+#AnswerEnd
+
+#QuestionStart
+Q81) Stalactites and stalagmites are features of [CDS 2016 (I)]
+a) glacial topography
+b) volcanic topography
+c) karst topography
+d) fluvial topography
+#QuestionEnd
+#AnswerStart
+Answer: c) karst topography
+#AnswerEnd
+
+#QuestionStart
+Q82) Which of the following elements are found in highest and lowest quantities respectively in the crust of the Earth? [CDS 2015 (II)]
+a) Oxygen and silicon
+b) Calcium and sodium
+c) Sodium and magnesium
+d) Oxygen and magnesium
+#QuestionEnd
+#AnswerStart
+Answer: d) Oxygen and magnesium
+#AnswerEnd
+
+#QuestionStart
+Q83) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I (Weathering Type) | List II (Landform/ Process) |
+|---|---|
+| A. Chemical weathering | 1. Till |
+| B. Mechanical weathering | 2. Oxidation |
+| C. Glacial deposits | 3. Plant roots |
+| D. Deposition by ground water | 4. Stalactite |
+Codes: [CDS 2015 1(H)]
+a) A-2, B-3, C-1, D-4
+b) A-2, B-1, C-3, D-4
+c) A-4, B-1, C-3, D-2
+d) A-4, B-3, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q84) Seismic gaps are [CDS 2015 I)]
+a) parts of plate boundaries in oceans where tsunamis occur frequently
+b) sections of plate boundaries that have ruptured repeatedly in the recent past
+c) sections of plate boundaries that have not ruptured in the recent past
+d) plate boundaries having no volcanic activity.
+#QuestionEnd
+#AnswerStart
+Answer: c) sections of plate boundaries that have not ruptured in the recent past
+#AnswerEnd
+
+#QuestionStart
+Q85) Plate tectonics is a scientific theory that describes the large scale motions of Earth’s lithosphere. Which one among the following statements regarding plate tectonics is not correct? [CDS 2014 (II)]
+a) Tectonic plates are composed of oceanic lithosphere and thicker Continental lithosphere.
+b) Tectonic plates are able to move because the Earth’s lithosphere has a higher strength than the underlying asthenosphere.
+c) The Earth’s lithosphere is broken up into tectonic plates.
+d) Along divergent plate boundaries, subduction carries plates into the mantle.
+#QuestionEnd
+#AnswerStart
+Answer: d) Along divergent plate boundaries, subduction carries plates into the mantle.
+#AnswerEnd
+
+#QuestionStart
+Q86) Arrange the following features formed by rivers in its course starting from upstream:
+1. Meanders
+2. Falls
+3. Delta
+4. Oxbow Lake
+Select the correct answer using the codes given below: [CDS 2014 (II)]
+a) 2, 1, 3, 4
+b) 2, 1, 4, 3
+c) 1,2, 3,4
+d) 1, 4, 2, 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 1, 4, 3
+#AnswerEnd
+
+#QuestionStart
+Q87) Which of the following statement(s) relating to Earthquakes is/are correct?
+1. The point of origin of Earthquake is called epicenter.
+2. The lines joining the places which were affected Earthquake at the same point of time are called homoseismal lines.
+Select the correct answer using the codes given below: [CDS 2014 (I)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q88) Trough and ridge are [CAPE 2022]
+a) elongated area of low pressure and of high pressure respectively
+b) elongated areas of low pressure
+c) elongated areas of high pressure
+d) elongated area of high pressure and of low pressure respectively
+#QuestionEnd
+#AnswerStart
+Answer: a) elongated area of low pressure and of high pressure respectively
+#AnswerEnd
+
+#QuestionStart
+Q89) Solifluction is a geomorphic process involving a special type of soil flow that is noticed in [CAPE 2022]
+a) desert regions
+b) karst regions
+c) permafrost regions
+d) savanna regions
+#QuestionEnd
+#AnswerStart
+Answer: c) permafrost regions
+#AnswerEnd
+
+#QuestionStart
+Q90) What is the depression at the top of a volcano following a volcanic eruption called? [CAPF 2021]
+a) Chamber
+b) Vent
+c) Cinder
+d) Crater
+#QuestionEnd
+#AnswerStart
+Answer: d) Crater
+#AnswerEnd
+
+#QuestionStart
+Q91) Caves, arches, stacks and stumps are the landscape features of which one of the following? [CAPF 2021]
+a) River
+b) Wave
+c) Limestone
+d) Wind
+#QuestionEnd
+#AnswerStart
+Answer: b) Wave
+#AnswerEnd
+
+#QuestionStart
+Q92) The heaviest rocks, which are rolled along the riverbed in river transport, come under which type of load? [CAPF 2021]
+a) Solution load
+b) Suspension load
+c) Saltation load
+d) Traction load
+#QuestionEnd
+#AnswerStart
+Answer: d) Traction load
+#AnswerEnd
+
+#QuestionStart
+Q93) Convection currents, which move the tectonic plates, are found in which layer of the Earth? [CAPF 2021]
+a) Crust
+b) Mantle
+c) Outer core
+d) Inner core
+#QuestionEnd
+#AnswerStart
+Answer: b) Mantle
+#AnswerEnd
+
+#QuestionStart
+Q94) In India, Cardamom Hills are regarded as a continuation of the [CAPF 2021]
+a) Eastern Ghats
+b) Mizo Hills
+c) Naga Hills
+d) Western Ghats
+#QuestionEnd
+#AnswerStart
+Answer: d) Western Ghats
+#AnswerEnd
+
+#QuestionStart
+Q95) A long narrow stretch of sand and/or shingle with one end attached to the mainland is called [CAPF 2020]
+a) Sand spit
+b) Sand bar
+c) Sand dune
+d) Tombolo
+#QuestionEnd
+#AnswerStart
+Answer: a) Sand spit
+#AnswerEnd
+
+#QuestionStart
+Q96) Which one of the following karst landforms is the largest in size? [CAPF 2020]
+a) Polje
+b) Uvala
+c) Swallow Hole
+d) Sink Hole
+#QuestionEnd
+#AnswerStart
+Answer: a) Polje
+#AnswerEnd
+
+#QuestionStart
+Q97) Match List I with List II and select the correct answer using the code given below the lists.
+| List I (Landform) | List II (Agent) |
+|---|---|
+| A. Loess | 1. Wind deposited |
+| B. Tombolo | 2. Glacier deposited |
+| C. Point bars | 3. River Deposited |
+| D. Moraines | 4. Sea deposited |
+Codes: [CAPF 2019]
+a) A-1, B-4, C-3, D-2
+b) A-1, B-3, C-4, D-2
+c) A-2, B-3, C-4, D-1
+d) A-2, B-4, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: a) A-1, B-4, C-3, D-2
+#AnswerEnd
+
+#QuestionStart
+Q98) The gently sloping accumulation of coarse alluvium deposits by a braided stream is known as [CAPF 2019]
+a) sand bar
+b) alluvial fan
+c) bajada
+d) diaras
+#QuestionEnd
+#AnswerStart
+Answer: b) alluvial fan
+#AnswerEnd
+
+#QuestionStart
+Q99) Springs are common in which of the following areas?
+1. Well jointed rocks
+2. Arid areas with underlying rocks
+3. Karst topography
+4. Tilted strata
+Select the correct answer using the codes given below. [CAPF 2018]
+a) 1 and 3 only
+b) 1,3 and 4
+c) 2 and 4 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q100) Which one of the following is not an igneous rock? [CAPF 2018]
+a) Granite
+b) Gneiss
+c) Pumice
+d) Basalt
+#QuestionEnd
+#AnswerStart
+Answer: b) Gneiss
+#AnswerEnd
+
+#QuestionStart
+Q101) Consider the following statements about ‘Ring of Fire’:
+1. It is also known as Circum-Pacific belt of volcanoes
+2. It is an active seismic zone
+3. It is a zone of divergent place margin Select the correct answer using the code given below: [CAPF 2017]
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q102) Which of the following statements concerning circum-pacific belt are correct? 1. It is an active volcanic realm.
+2. It is an active seismic realm.
+3. It is a divergent plate boundary.
+4. It is prone to Tsunami.
+Select the correct answer using the code given below. [CAPF 2016]
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1,2 and 4 only
+d) 1,2, 3,4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q103) Various landforms observed on the surface of the Earth are due to the
+1. differences in the type and structure of the crustal material.
+2. differences in the land forming processes.
+3. differential rates of the processes at different places on the Earth’s surface.
+Select the correct answer using the code given below. [CAPF 2015]
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q104) Match List I with List II and select the correct answer using the code given below the lists.
+| List I | List II |
+|---|---|
+| A. Shield Volcano | 1. Indonesia |
+| B. Composite Volcano | 2. India |
+| C. Caldera | 3. Hawaii |
+| D. Flood Basalt Provinces | 4. Philippines |
+Codes: [CAPF 2015]
+a) A-2, B-4, C-1, D-3
+b) A-2, B-1, C-4, D-3
+c) A-3, B-1, C-4, D-2
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q105) Match List I with List II and select the correct answer using the code given below the lists.
+| List I (Landlorm feature) | List II |
+|---|---|
+| A. Alluvial fans | 1. Mountainous areas |
+| B. ‘V’-shaped valleys | 2. Coasts |
+| C. Deltas | 3. Lower reaches of the river |
+| D. Ox-bow lakes | 4. Mountain foothills |
+Codes: [CAPF 2015]
+a) A-4, B-1, C-2, D-3
+b) A-4, B-2, C-1, D-3
+c) A-3, B-2, C-1, D-4
+d) A-3, B-1, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q106) Match List I with List II and select the correct answer using the code given below the lists.
+| List I (Tropical cyclone) | List II (Lotion) |
+|---|---|
+| A. Cyclones | 1. USA |
+| B. Hurricanes | 2. East Asia |
+| C. Typhoons | 3. Australia |
+| D. Willy-willies | 4. India |
+Codes: [CAPF 2015]
+a) A-4, B-2, C-1, D-3
+b) A-4, B-1, C-2, D-3
+c) A-3, B-1, C-2, D-4
+d) A-3, B-2, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q107) Which one among the following is NOT a minor plate? [CAPF 2015]
+a) Nazca
+b) Arabia
+c) Philippines
+d) Antarctica
+#QuestionEnd
+#AnswerStart
+Answer: d) Antarctica
+#AnswerEnd
+
+#QuestionStart
+Q108) Which one among the following plains is associated with Limestone Topography? [CAPF 2015]
+a) Bajada plain
+b) Alluvial plain
+c) Karst plain
+d) Pene plain
+#QuestionEnd
+#AnswerStart
+Answer: c) Karst plain
+#AnswerEnd

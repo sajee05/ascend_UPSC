@@ -1,0 +1,346 @@
+#QuestionStart
+Q1) Consider the following statements:
+Statement-I:
+India accounts for 3.2% of global export of goods.
+Statement-II:
+Many local companies and some foreign companies operating in India have taken advantage of India’s Production-linked Incentive’ scheme.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-11 is the correct explanation for Statement-I.
+b) Both Statement-I and Statement-II are correct and Statement-1 is not the correct explanation for Statement-I.
+c) Statement-1 is correct but Statement-II is incorrect.
+d) Statement-I is incorrect but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement-II is correct.
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements with reference to India:
+1. According to the Micro, Small and Medium Enterprises Development (MSMED) Act, 2006, the ‘medium enterprises are those with investment in plants and machinery between Rs. 15 crore and 25 crore.
+2. All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2023]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference io foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?
+1. They can sell their own goods in addition to offering their platforms as marketplaces.
+2. The degree to which they can own big sellers on their platforms is limited.
+Select the correct answer using the code given below: [UPSC CSE Pre 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following activities constitute real sector in the economy? [UPSC CSE Pre. 2022]
+1. Farmers harvesting their crops
+2. Textile mills converting raw cotton into fabrics
+3. A commercial bank lending money to a trading company
+4. A corporate body issuing Rupee Denominated Bonds overseas
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) In India, which one of the following Compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers? [UPSC CSE Pre. 2022]
+a) Central Statistics Office
+b) Department for Promotion of Industry and Internal Trade
+c) Labour Bureau
+d) National Technical Manpower Information System
+#QuestionEnd
+#AnswerStart
+Answer: c) Labour Bureau
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements:
+1. Coal sector was nationalized by the Government of India under Indira Gandhi.
+2. Now, coal blocks are allocated on lottery basis.
+3. Till recently, India imported coal to meet the shortages of domestic supply, but now India is self-sufficient in coal product.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2019]
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q7) What is/are the purpose/purposes of ‘District Mineral Foundations’ in India? [UPSC CSE Pre. 2016]
+1. Promoting mineral exploration activities in mineral-rich districts.
+2. Protecting the interests of the persons affected by mining operations.
+3. Authorizing State Governments to issue licenses for mineral exploration.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Which of the following has/have occurred in India after its liberalization of economic policies in 1991? [UPSC CSE Pre. 2016]
+1. Share of agriculture in GDP increased enormously.
+2, Share of India’s exports in world trade increased.
+2. FDI inflows increased.
+3. India’s foreign exchange reserves increased enormously.
+Select the correct answer using the codes given below.
+a) 1 and 4 only
+b) 2, 3 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q9) In the ‘Index of Eight Core Industries’, which one of the following is given the highest weight? [UPSC CSE Pre. 2015]
+a) Coal production
+b) Electricity generation
+c) Fertilizer production
+d) Steel production
+#QuestionEnd
+#AnswerStart
+Answer: b) Electricity generation (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q10) In India the overall Index of Industrial Production, the Indices of Eighth Core Industries have combined weight of 37.90%. Which of the following are among those Eight Core Industries? [UPSC CSE Pre. 2012]
+1. Cement
+2. Fertilizers
+3. Natural Gas
+4. Refinery products
+5. Textiles
+Select the correct answer using the codes given below:
+a) 1 and 5 only
+b) 2, 3 and 4 only
+c) 1, 2, 3 and 4 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q11) The SEZ Act, 2005 which came into effect in February 2006 has certain objectives. In this context, consider the following:
+1. Development of infrastructure facilities.
+2. Promotion of investment from foreign sources.
+3. Promotion of exports of services only.
+Which of the above are the objectives of this Act? [UPSC CSE Pre. 2010]
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to the National Investment Fund to which the disinvestment proceeds are routed, consider the following statements:
+1. The assets in the National Investment Fund are managed by the Union Ministry of Finance.
+2. The National Investment Fund is to be maintained within the Consolidated Fund of India.
+3. Certain Asset Management Companies are appointed as the fund managers.
+4. A certain proportion of annual income is used for financing select social sectors.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2010]
+a) 1 and 2
+b) 2 only
+c) 3 and 4
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements:
+1. MMTC Limited is Indias largest international trading organization.
+2. Neelanchal Ispat Nigam Limited has been set-up by MMTC jointly with the Government of Odisha.
+Which of the statement given above is/are correct? [UPSC CSE Pre. 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q14) Which of the following are the public sector undertakings of the Government of India?
+1. Balmer Lawrie and Company Ltd.
+2. Dredging Corporation of India
+3. Educational Consultants of India Ltd.
+Codes : [UPSC CSE Pre. 2008]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) Which one of the following statements is not correct? [UPSC CSE Pre. 2005]
+a) Rourkela Steel Plant, the first integrated steel plant in the Public Sector of India was set up with the Soviet Union Collaboration.
+b) Salem Steel Plant is a premier producer of stainless steel in India.
+c) Maharashtra Electros melt Ltd. is a subsidiary of the Steel Authority of India Ltd.
+d) Visakhapatnam Steel Plant is a unit of Rashtriya Ispat Nigam Ltd,
+#QuestionEnd
+#AnswerStart
+Answer: a) Rourkela Steel Plant, the first integrated steel plant in the Public Sector of India was set up with the Soviet Union Collaboration.
+#AnswerEnd
+
+#QuestionStart
+Q16) HINDALCO, an aluminum factory located at Renukoot owes its site basically to: [UPSC CSE Pre. 2002]
+a) proximity to raw material
+b) abundant supply of electricity
+c) efficient transport network
+d) proximity to the market
+#QuestionEnd
+#AnswerStart
+Answer: b) abundant supply of electricity
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following committees recommended the abolition of reservation of items for the small scale sector in industry? [UPSC CSE Pre. 2002]
+a) Abid Russian Committee
+b) Narasimham Committee
+c) Nayak Committee
+d) Rakesh Mohan Committee
+#QuestionEnd
+#AnswerStart
+Answer: a) Abid Russian Committee
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following factors regarding an industry:
+1. Capital investments
+2. Business turnover
+3. Labour force
+4. Power consumption
+Which of these determine the nature and size of the industry? [UPSC CSE Pre. 2001]
+a) 1, 3 and 4
+b) 1,2 and 4
+c) 2, 3 and 4
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: Small-scale industries are, in most cases, not as efficient and competitive as the large-scale ones. Yet the Government provides preferential treatment and reservations in a range of products to the small firms because small-scale industries :
+1. provide higher employment on a per unit capital deployment basis.
+2. promote a regional dispersion of industries and economic activities.
+3. have performed better in export of manufactured products than the large scale ones.
+4. provide jobs to low-skill workers, who otherwise may not find employment avenues elsewhere.
+Which of the above statements are correct? [UPSC CSE Pre. 1999]
+a) 1 and 4
+b) 1 and 2
+c) 2 and 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q20) Tourism industry in India is quite small compared to many other countries in terms of India’s potential and size. Which one of the following statements is correct in this regard? [UPSC CSE Pre. 1999]
+a) Distances in India are too far apart and its luxury hotels are too expensive for western tourists
+b) For most of the months India is too hot for western tourists to feel comfortable
+c) Most of the picturesque resorts in India such as in the North-East and Kashmir are, for all practical purposes, out of bounds
+d) In India, the infrastructure required for attracting tourists is inadequate
+#QuestionEnd
+#AnswerStart
+Answer: d) In India, the infrastructure required for attracting tourists is inadequate
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements:
+Industrial development in India, to an extent, is constrained by
+1. lack of adequate entrepreneurship and leadership in business.
+2. lack of savings to invest.
+3. lack of technology, skills and infrastructure.
+4. limited purchasing power among the larger masses.
+Which of the above statements are correct? [UPSC CSE Pre. 1999]
+a) 1,2 and 3
+b) 1,3 and 4
+c) 2, 3 and 4
+d) 1,2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q22) ‘Eco mark’ is given to the Indian products that are: [UPSC CSE Pre. 1998]
+a) pure and unadulterated
+b) rich in proteins
+c) environment friendly
+d) economically viable
+#QuestionEnd
+#AnswerStart
+Answer: c) environment friendly
+#AnswerEnd
+
+#QuestionStart
+Q23) Some time back, the Government of India, decided to delicense ‘white goods’ industry. ‘White goods’ include: [UPSC CSE Pre. 1998]
+a) stainless steel and aluminum utensils
+b) milk and milk products
+c) items purchased for conspicuous consumption
+d) soaps, detergents and other mass consumption goods
+#QuestionEnd
+#AnswerStart
+Answer: c) items purchased for conspicuous consumption
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following places are known for paper manufacturing industry?
+1. Yamunanagar
+2. Guwahati
+3. Shahabad
+4. Ballarpur
+Choose the correct answer using the codes given below: [UPSC CSE Pre. 1997]
+a) 1, 2 and 3
+b) 1, 2 and 4
+c) 1,3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q25) Which one of the following modes of privatization is the most comprehensive and complete? [UPSC CSE Pre. 1993]
+a) Introduction of private capital in the public sector.
+b) Contracting out management of public enterprises to the private sector.
+c) Transferring ownership and management to the workers.
+d) Transferring ownership and management to the private sector.
+#QuestionEnd
+#AnswerStart
+Answer: d) Transferring ownership and management to the private sector.
+#AnswerEnd

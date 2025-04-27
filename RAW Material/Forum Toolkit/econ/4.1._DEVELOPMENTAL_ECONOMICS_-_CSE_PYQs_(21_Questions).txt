@@ -1,0 +1,288 @@
+#QuestionStart
+Q1) Consider the following statements in relation to Janani Suraksha Yojana :
+
+1. It is a safe motherhood intervention of the State Health Departments.
+2. Its objective is to reduce maternal and neonatal mortality among poor pregnant women.
+3. It aims to promote institutional delivery among poor pregnant women.
+4. Its objective includes providing public health facilities to sick infants up to one year of age.
+  How many of the statements given above are correct? [UPSC CSE Pre 2023]
+  a) Only one
+  b) Only two
+  c) Only three
+  d) Ail four
+  #QuestionEnd
+  #AnswerStart
+  Answer: c) Only three
+  #AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements in the context of inter vent ions being undertaken under Anaemia Mukt Bharat Strategy:
+I. It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women.
+2. It runs a campaign for delayed cord clamping at the time of child- birth.
+3. It provides for periodic deworming to children and adolescents.
+4. It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis.
+How many of the statements given above are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements:
+
+1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived.
+2. In an SHG, all members of a group take responsibility for a loan that an individual member takes.
+3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.
+  How many of the above statements are correct? [UPSC CSE Pre 2023]
+  a) Only one
+  b) Only two
+  c) All three
+  d) None
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) Only two
+  #AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements:
+Statement-I:
+India’s public sector health care system largely focuses on curative care with limited preventive, promotive and rehabilitative care. Statement-II:
+Under India’s decentralized approach to health care delivery, the States are primarily responsible for organizing health services.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-1 are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-is not the correct explanation for Statement-1
+c) Statement-1 is correct but Statement-11 is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: b) Both Statement-I and Statement-II are correct and Statement-is not the correct explanation for Statement-1
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to casual workers employed in India, consider the following statements:
+
+1. All casual workers are entitled for Employees Provident Fund Coverage.
+2. All casual workers are entitled for regular working hours and overtime payment.
+3. The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.
+  Which of the above statement are correct? [UPSC CSE Pre 2022]
+  a) 1 and 2 only
+  b) 2 and 3 only
+  c) 1 and 3 only
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 2 and 3 only
+  #AnswerEnd
+
+#QuestionStart
+Q6) With reference to Ayushman Bharat Digital Mission, consider the following statements:
+
+1. Private and public hospitals must adopt it.
+2. As it aims to achieve universal health coverage, every citizen of India should be part of it ultimately.
+3. It has seamless portability across the country.
+  Which of the statements given above is/are correct? [UPSC CSE Pre 2022]
+  a) 1 and 2 only
+  b) 3 only
+  c) 1 and 3 only
+  d) 1,2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 3 only
+  #AnswerEnd
+
+#QuestionStart
+Q7) With reference to the Indian economy after the 1991 economic liberalization, consider the following statements:
+
+1. Worker productivity (Rs. per worker at 2004 -05 prices) increased in urban areas while it decreased in rural areas.
+2. The percentage share of rural areas in the workforce steadily increased.
+3. In rural areas, the growth in non -farm economy increased.
+4. The growth rate in rural employment decreased
+  Which of the statements given above is/are correct? [UPSC CSE Pre. 2020]
+  a) 1 and 2 only
+  b) 3 and 4 only
+  c) 3 only
+  d) 1, 2 and 4 only
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) 3 and 4 only
+  #AnswerEnd
+
+#QuestionStart
+Q8) In a given year in India, official poverty lines are higher in some States than in others because [UPSC CSE Pre. 2019]
+a) poverty rates vary from State to State
+b) price levels vary from State to State
+c) Gross State Product varies from State to State
+d) quality of public distribution varies from State to State
+#QuestionEnd
+#AnswerStart
+Answer: b) price levels vary from State to State
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: Human capital formation as a concept is better explained in terms of a process which enables
+
+1. individuals of a country to accumulate more capital.
+2. increasing the knowledge, skill levels and capacities of the people of the country.
+3. accumulation of tangible wealth.
+4. accumulation of intangible wealth.
+  Which of the statements given above is/are correct? [UPSC CSE Pre. 2018]
+  a) 1 and 2 only
+  b) 2 only
+  c) 2 and 4 only
+  d) 1, 3 and 4 only
+  #QuestionEnd
+  #AnswerStart
+  Answer: c) 2 and 4 only
+  #AnswerEnd
+
+#QuestionStart
+Q10) What is/are the purpose/purposes of Government’s ‘Sovereign Gold Bond Scheme’ and ‘Gold Monetization Scheme’?
+
+1. To bring the idle gold lying with Indian households into the economy.
+2. To promote FDI in the gold and jewellery sector.
+3. To reduce Indias dependence on gold imports.
+  Select the correct answer using the code given below. [UPSC CSE Pre. 2016]
+  a) 1 only
+  b) 2 and 3 only
+  c) 1 and 3 only
+  d) 1, 2 and 3
+  #QuestionEnd
+  #AnswerStart
+  Answer: c) 1 and 3 only
+  #AnswerEnd
+
+#QuestionStart
+Q11) Which one of the following is a purpose of ‘UDAY’, a scheme of the Government? [UPSC CSE Pre. 2016]
+a) Providing technical and financial assistance to start-up entrepreneurs in the field of renewable sources of energy
+b) Providing electricity to every household in the countries by 2018
+c) Replacing the coal-based power plants with natural gas, nuclear, solar, wind and tidal power plants over a period of time
+d) Providing for financial turnaround and revival of power distribution companies
+#QuestionEnd
+#AnswerStart
+Answer: d) Providing for financial turnaround and revival of power distribution companies
+#AnswerEnd
+
+#QuestionStart
+Q12) ‘Pradhan Mantri Jan-Dhan Yojana’ has been launched for [UPSC CSE Pre. 2015]
+a) providing housing loan to poor people at cheaper interest rates.
+b) promoting women’s Self-Help Groups in backward areas
+c) promoting financial inclusion in the country
+d) providing financial help to the marginalized communities.
+#QuestionEnd
+#AnswerStart
+Answer: c) promoting financial inclusion in the country
+#AnswerEnd
+
+#QuestionStart
+Q13) Disguised unemployment generally means [UPSC CSE Pre. 2013]
+a) large number of people remain unemployed
+b) alternative employment is not available
+c) marginal productivity of labour is zero
+d) productivity of workers is low
+#QuestionEnd
+#AnswerStart
+Answer: c) marginal productivity of labour is zero
+#AnswerEnd
+
+#QuestionStart
+Q14) To obtain full benefits of demographic dividend, what should India do? [UPSC CSE Pre. 2013]
+a) Promoting skill development
+b) Introducing more social security schemes
+c) Reducing infant mortality rate
+d) Privatization of higher education
+#QuestionEnd
+#AnswerStart
+Answer: a) Promoting skill development
+#AnswerEnd
+
+#QuestionStart
+Q15) The Multi-dimensional Poverty Index developed by Oxford Poverty and Human Development Initiative with UNDP support covers which of the following?
+1. Deprivation of education, health, assets and services at household level
+2. Purchasing power parity at national level
+3. Extent of budget deficit and GDP growth rate at national level
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a ) 1 only
+b ) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a ) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to the National Rehabilitation and Resettlement Policy, 2007, consider the following statements:
+1. This policy is applicable only to the persons affected by the acquisition of land for projects and not to involuntary displacement due to any other reason.
+2. This policy has been formulated by the Ministry of Social Justice and Empowerment.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q17) ‘World Development Report’ is an annual publication of; [UPSC CSE Pre 2002]
+a) United Nations Development Programme
+b) International Bank for Reconstruction and Development
+c) World Trade Organisation
+d) International Monetary Fund
+#QuestionEnd
+#AnswerStart
+Answer: b) International Bank for Reconstruction and Development
+#AnswerEnd
+
+#QuestionStart
+Q18) Indian Human Development Report does not give for each sample village: [UPSC CSE Pre 2000]
+a) Infrastructure and Amenities Index
+b) Education Related Index
+c) Health Related Index
+d) Unemployment Related Index
+#QuestionEnd
+#AnswerStart
+Answer: d) Unemployment Related Index
+#AnswerEnd
+
+#QuestionStart
+Q19) In India, rural incomes are generally lower than the urban incomes. Which of the following reasons account for this? [UPSC CSE Pre 1996]
+1. A large number of farmers are illiterate and know little about scientific agriculture.
+2. Prices of primary products are lower than those of manufactured products.
+3. Investment in agriculture has been low when compared to investment in industry.
+Select the correct answer by using the codes given below:
+a) 1, 2 and 3
+b) 1 and 2
+c) 1 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q20) To know whether the rich are getting richer and the poor getting poorer, it is necessary to compare: [UPSC CSE Pre 1994]
+a) the wholesale price index over different periods of time for different regions
+b) the distribution of income of an identical set of income recipients in different periods of time
+c) the distribution of income of different sets of income recipients at a point of time
+d) the availability of food grains among two sets of people, one rich and the other poor, over different periods of time
+#QuestionEnd
+#AnswerStart
+Answer: b) the distribution of income of an identical set of income recipients in different periods of time
+#AnswerEnd
+
+#QuestionStart
+Q21) The growth rate of which one of the following sectors has very low employment elasticity? [UPSC CSE Pre 1993]
+a) Manufacturing
+b) Construction
+c) Financial Services
+d) Mixed Farming
+#QuestionEnd
+#AnswerStart
+Answer: d) Mixed Farming
+#AnswerEnd

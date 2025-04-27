@@ -1,0 +1,1387 @@
+#QuestionStart
+Q1) Consider the following statements:
+1. Jhelum River passes through Wular Lake.
+2. Krishna River directly feeds Kolleru Lake.
+3. Meadering of Gandak River formed Kanwar Lake.
+How many of the statements given above are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland? [UPSC CSE Pre 2023]
+a) Bhitarkanika Mangroves
+b) Marakkanam Salt Pans
+c) Naupada Swamp
+d) Rann of Kutch
+#QuestionEnd
+#AnswerStart
+Answer: d) Rann of Kutch
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: [UPSC CSE Pre 2023]
+1. Amakantak Hills are at the confluence of Vindhya and Sahyadri Ranges.
+2. Biligirirangan Hills constitute the easternmost part of Satpura Range.
+3. Seshachalam Hills constitute the southernmost part of Western Ghats.
+How many of the statements given above are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q4) Gandikota canyon of South India was created by which one of the following rivers? [UPSC CSE Pre 2022]
+a) Manjira
+b) Pennar
+c) Cauvery
+d) Tungabhadra
+#QuestionEnd
+#AnswerStart
+Answer: b) Pennar (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following pairs:
+| Peak | Mountains |
+|---|---|
+| 1. Namcha Barwa | Garhwal Himalaya |
+| 2. Nanda Devi | Kumaon Himalaya |
+| 3. Nokrek | Sikkim Himalaya |
+Which of the pairs given above is/are correctly matched? [UPSC CSE Pre 2022]
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the Indus River system, of the following four rivers, three of them pour into one of them which joins the Indus direct. Among the following which is one is such river that joins the Indus direct? [UPSC CSE Pre 2021]
+a) Chenab
+b) Jhelum
+c) Ravi
+d) Sutlej
+#QuestionEnd
+#AnswerStart
+Answer: d) Sutlej
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to India, Didwana Kuchaman, Sargol and Khatu are the names of [UPSC CSE Pre 2021]
+a) glaciers
+b) mangrove areas
+c) Ramsar sites
+d) saline lakes
+#QuestionEnd
+#AnswerStart
+Answer: d) saline lakes
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following rivers:
+1. Brahmani
+2. Nagawali
+3. Subarnarekha
+4. Vamsadhara
+Which of the above rise from the Eastern Ghats? [UPSC CSE Pre 2021]
+a) 1 and 2
+b) 2 and 4
+c) 3 and 4
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q9) The black cotton soil of India has been formed due to the weathering of [UPSCCSE Pre 2021]
+a) brown forest soil
+b) fissure volcanic rock
+c) granite and schist
+d) shale and limestone
+#QuestionEnd
+#AnswerStart
+Answer: b) fissure volcanic rock
+#AnswerEnd
+
+#QuestionStart
+Q10) Siachen Glacier is situated to the: [UPSC CSE Pre 2020]
+a) East of Aksai Chin
+b) East of Leh
+c) North of Gilgit
+d) North of Nubra Valley
+#QuestionEnd
+#AnswerStart
+Answer: d) North of Nubra Valley
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to Ocean Mean Temperature (OMT), which of the following statements is/are correct? [UPSC CSE Pre. 2020]
+1. OMT is measured up to a depth of 26°C isotherm which is 129 meters in the south -western Indian Ocean during January-March.
+2. OMT collected during January -March can be used in assessing whether the amount of rainfall in monsoon will be less or more than a certain long -term mean.
+Select the correct using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the foliowing pairs: [UPSC CSE Pre. 2019]
+| Famous Place | River |
+|---|---|
+| 1. Pandharpur | Chandrabhaga |
+| 2. Tiruchirappalli | Cauvery |
+| 3. Hampi | Malaprabha |
+Which of the pairs given above are correctly matched?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q13) What is common to the places known as Aliyar, Isapur and Kangsabati? [UPSC CSE Pre. 2019]
+a) Recently discovered uranium deposits
+b) Tropical rain forests
+c) Underground cave systems
+d) Water reservoirs
+#QuestionEnd
+#AnswerStart
+Answer: d) Water reservoirs
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following pairs: [UPSC CSE Pre. 2019]
+| Glacier | River |
+|---|---|
+| 1. Bandarpunch | Yamuna |
+| 2. Bara Shigri | Chenab |
+| 3. Milam | Mandakini |
+| 4. Siachen | Nubra |
+| 5. Zemu | Manas |
+Which of the pairs given above are correctly matched?
+a) 1, 2 and 4 only
+b) 1,3 and 4 only
+c) 2 and 5 only
+d) 3 and 5 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Which one of the following is an artificial lake? [UPSC CSE Pre. 2018]
+a) Kodaikanal (Tamil Nadu)
+b) Kolleru (Andhra Pradesh)
+c) Nainital (Uttarakhand)
+d) Renuka (Himachal Pradesh)
+#QuestionEnd
+#AnswerStart
+Answer: a) Kodaikanal (Tamil Nadu)
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements: [UPSC CSE Pre. 2018]
+1. The Barren Island volcano is an active volcano located in the Indian territory.
+2. Barren Island lies about 140 km east of Great Nicobar.
+3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Among the following cities, which one lies on a longitude closest to that of Delhi? [UPSC CSE Pre. 2018]
+a) Bengaluru
+b) Hyderabad
+c) Nagpur
+d) Pune
+#QuestionEnd
+#AnswerStart
+Answer: a) Bengaluru
+#AnswerEnd
+
+#QuestionStart
+Q18) At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shoreline a few kilometres and comes back to the shore, twice a day, and you can actually walk on the sea floor when the water recedes. This unique phenomenon is seen at- [UPSC CSE Pre 2017]
+a) Bhavnagar
+b) Bheemunipatnam
+c) Chandipur
+d) Nagapattinam
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandipur
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: [UPSC CSE Pre. 2017]
+1. In India, the Himalayas are spread over five states only.
+2. Western Ghats are spread over five states only.
+3. Pulicat Lake is spread over two States only.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q20) If you travel by road from Kohima to Kottayam, what is the minimum number of States within India through which you can travel, including the origin and the destination? [UPSC CSE Pre. 2017]
+a) 6
+b) 7
+c) 8
+d) 9
+#QuestionEnd
+#AnswerStart
+Answer: b) 7
+#AnswerEnd
+
+#QuestionStart
+Q21) With reference to river Teesta, consider the following statements: [UPSC CSE Pre. 2017]
+1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.
+2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.
+3. River Teesta flows into Bay of Bengal on the border of India and Bangladesh.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q22) With reference to ‘Indian Ocean Dipole (IOD)’ sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct? [UPSC CSE Pre. 2017]
+1. IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean.
+2. An IOD phenomenon can influence an El Nino’s impact on the monsoon.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q23) In which of the following regions of India are shale gas resources found? [UPSC CSE Pre. 2016]
+1. Cambay Basin
+2. Cauvery Basin
+3. Krishna-Godavari Basin
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q24) Recently, which of the following States has explored the possibility of constructing an artificial inland port to be connected to sea by a long navigational channel? [UPSC CSE Pre. 2016]
+a) Andhra Pradesh
+b) Chhattisgarh
+c) Karnataka
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: d) Rajasthan
+#AnswerEnd
+
+#QuestionStart
+Q25) Recently, linking of which of the following rivers was undertaken? [UPSC CSE Pre. 2016]
+a) Cauvery and Tungabhadra
+b) Godavari and Krishna
+c) Mahanadi and Son
+d) Narmada and Tapti
+#QuestionEnd
+#AnswerStart
+Answer: b) Godavari and Krishna
+#AnswerEnd
+
+#QuestionStart
+Q26) Which of the following is/are tributary/ tributaries of Brahmaputra? [UPSC CSE Pre. 2016]
+1. Dibang
+2. Kameng
+3. Lohit
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q27) In India, in which one of the following types of forests is teak a dominant tree species? [UPSC CSE Pre. 2015]
+a) Tropical moist deciduous forest
+b) Tropical rain forest
+c) Tropical thorn scrub forest
+d) Temperate forest with grasslands
+#QuestionEnd
+#AnswerStart
+Answer: a) Tropical moist deciduous forest
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following rivers: [UPSC CSE Pre. 2015]
+1. Vamsadhara
+2. Indravati
+3. Pranahita
+4. Pennar
+Which of the above are tributaries of Godavari?
+a) 1,2 and 3 only
+b) 2, 3 and 4 only
+c) 1,2 and 4 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Consider the following States: [UPSC CSE Pre. 2015]
+1. Arunachal Pradesh
+2. Himachal Pradesh
+3. Mizoram
+In which of the above States do ‘Tropical Wet Evergreen Forests’ occur?
+a) T only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q30) Which one of the following pairs of States of India indicates the easternmost and westernmost State [UPSC CSE Pre. 2015]
+a) Assam and Rajasthan
+b) Arunachal Pradesh and Rajasthan
+c) Assam and Gujarat
+d) Arunachal Pradesh and Gujarat
+#QuestionEnd
+#AnswerStart
+Answer: d) Arunachal Pradesh and Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following pairs: [UPSC CSE Pre. 2015]
+| Place of Pilgrimage | Location |
+|---|---|
+| 1. Srisailam | Nallamala Hills |
+| 2. Omakareshwar | Satmala Hills |
+| 3. Pushkar | Mahadeo Hills |
+Which of the above pairs is/are correctly matched ?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q32) In a particular region in India, the local people train the roots of living trees into robust bridges across the streams. As the time passes, these bridges become stronger. These unique ‘living root bridges’ are found in [UPSC CSE Pre. 2015]
+a) Meghalaya
+b) Himachal Pradesh
+c) Jharkhand
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: a) Meghalaya
+#AnswerEnd
+
+#QuestionStart
+Q33) Consider the following pairs:
+| Hills | Region |
+|---|---|
+| 1. Cardamom Hills | Coromandel Coast |
+| 2. Kaimur Hills | Konkan Coast |
+| 3. Mahadeo Hills | Central India |
+| 4. Mikir Hills | North-East India |
+Which of the above pairs are correctly matched? [UPSC CSE Pre 2014]
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q34) Which one of the following pairs of islands is separated from each other by the ‘Ten Degree Channel’? [UPSC CSE Pre. 2014]
+a) Andaman and Nicobar
+b) Nicobar and Sumatra
+c) Maldives and Lakshadweep
+d) Sumatra and Java
+#QuestionEnd
+#AnswerStart
+Answer: a) Andaman and Nicobar
+#AnswerEnd
+
+#QuestionStart
+Q35) The seasonal reversal of winds is the typical characteristic of [UPSC CSE Pre. 2014]
+a) Equatorial climate
+b) Mediterranean climate
+c) Monsoon climate
+d) All of the above climates
+#QuestionEnd
+#AnswerStart
+Answer: c) Monsoon climate
+#AnswerEnd
+
+#QuestionStart
+Q36) If you travel through the Himalayas, you are likely to see which of the following plants naturally growing there? [UPSC CSE Pre. 2014]
+1. Oak
+2. Rhododendron
+3. Sandalwood
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following rivers: [UPSC CSE Pre. 2014]
+1. Barak
+2. Lohit
+3. Subansiri
+Which of the above flows/flow through Arunachal Pradesh?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q38) With reference to ‘Changpa’ community of India, consider the following statements: [UPSC CSE Pre. 2014]
+1. They live mainly in the State of Uttarakhand
+2. They rear the Pashmina goats that yield a fine wool.
+3. They are kept in the category of Scheduled Tribes.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q39) The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why? [UPSC CSE Pre. 2013]
+1. It occupies a linear rift valley.
+2. It flows between the Vindhyas and the Satpuras.
+3. The land slopes to the west from Central India.
+Select the correct answer using the codes given below.
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q40) Consider the following pairs: [UPSC CSE Pre. 2013]
+| Tribe | State |
+|---|---|
+| 1. Limboo (Limbu) | Sikkim |
+| 2. Karbi | Elimachal Pradesh |
+| 3. Dongaria | Odisha |
+| 4. Bonda | Tamil Nadu |
+Which of the above pairs are correctly matched?
+a) 1 and 3 only
+b) 2 and 4 only
+c) 1,3 and 4 only
+d) 1,2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q41) Which of the following statements regarding laterite soils of India are correct? [UPSC CSE Pre. 2013]
+1. They are generally red in colour.
+2. They are rich in nitrogen and potash.
+3. They are well-developed in Rajasthan and UP.
+4. Tapioca and cashew nuts grow well on these soils.
+Select the correct answer using the codes given below.
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1 and 4
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q42) Consider the following statements: [UPSC CSE Pre. 2012]
+1. The duration of the monsoon decreases from southern India to northern India.
+2. The amount of annual rainfall in the northern plains of India decreases from east to west.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q43) When you travel in Himalayas, you will see the following: [UPSC CSE Pre. 2012]
+1. Deep gorges
+2. U-turn river courses
+3. Parallel mountain ranges
+4. Steep gradients causing land-sliding
+Which of the above can be said to be the evidences for the Himalayas being young fold mountains?
+a) 1 and 2 only
+b) 1,2 and 4 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q44) A particular State in India has the following characteristics: [UPSC CSE Pre. 2012]
+1. It is located on the same latitude which passes through northern Rajasthan.
+2. It has over 80% of its area under forest cover.
+3. Over 12% of the forest over constitutes Protected Area Network in this State.
+Which one among the following States has all the above characteristics?
+a) Arunachal Pradesh
+b) Assam
+c) Himachal Pradesh
+d) Uttarakhand
+#QuestionEnd
+#AnswerStart
+Answer: a) Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q45) The Brahmaputra, Irrawady and Mekong rivers originate in Tibet and flow through narrow and parallel mountain ranges in their upper reaches. Of these rivers, Brahmaputra makes a “U” turn in its course to flow into India. This “U” turn is due to [UPSC CSE Pre. 2011]
+a) Uplift of folded Himalayan series
+b) Syntaxial bending of geologically young Himalayas
+c) Geo-Tectonic disturbance in the tertiary folded mountain chains
+d) Both (a) and (b) above
+#QuestionEnd
+#AnswerStart
+Answer: b) Syntaxial bending of geologically young Himalayas
+#AnswerEnd
+
+#QuestionStart
+Q46) A state in India has the following characteristics: [UPSC CSE Pre. 2011]
+1. Its northern part is arid and semi-arid.
+2. Its central part produces cotton.
+3. Cultivation of cash crops is predominant over food crops.
+Which one of the following states has all of the above characteristics?
+a) Andhra Pradesh
+b) Gujarat
+c) Karnataka
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b) Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q47) Two important rivers- one with its source in Jharkhand (and known by a different name in Odisha), and another, with its source in Odisha-merge at a place only a short distance from the coast of Bay of Bengal before flowing into the sea. This is an important site of wildlife and biodiversity and a protected area. Which one of the following could be this site? [UPSC CSE Pre. 2011]
+a) Bhitarkanika
+b) Chandipur-on-sea
+c) Gopalpur-on-sea
+d) Simlipal
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhitarkanika
+#AnswerEnd
+
+#QuestionStart
+Q48) Among the following States, which one has the most suitable climatic conditions for the cultivation of a large variety of orchids with minimum cost of production, and can develop an export-oriented industry in this field? [UPSC CSE Pre. 2011]
+a) Andhra Pradesh
+b) Arunachal Pradesh
+c) Madhya Pradesh
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q49) If there were no Himalayan ranges, what would have been the most likely geographical impact on India?
+1. Much of the country would experience the cold waves from Siberia.
+2. Indo-Gangetic plain would be devoid of such extensive alluvial soils.
+3. The pattern of monsoons would be different from what it is at present.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2010]
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q50) With reference to soil conservation, consider the following practices: [UPSC CSE Pre 2010]
+1. Crop rotation
+2. Sand fences
+3. Terracing
+4. Windbreaks
+Which of the above are considered appropriate methods for soil conservation in India?
+a) 1, 2 and 3
+b) 2 and 4
+c) 1, 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q51) When you travel in certain parts of India, you will notice red soil. What is the main reason for this colour? [UPSC CSE Pre 2010]
+a) Abundance of magnesium
+b) Accumulated humus
+c) Presence of ferric oxides
+d) Abundance of phosphates
+#QuestionEnd
+#AnswerStart
+Answer: c) Presence of ferric oxides
+#AnswerEnd
+
+#QuestionStart
+Q52) In India, which type of forest among the following occupies the largest area? [UPSC CSE Pre 2010]
+a) Montane Wet Temperate Forest
+b) Sub-tropical Dry Evergreen Forest
+c) Tropical Moist Deciduous Forest
+d) Tropical Wet Evergreen Forest
+#QuestionEnd
+#AnswerStart
+Answer: c) Tropical Moist Deciduous Forest
+#AnswerEnd
+
+#QuestionStart
+Q53) With reference to the river Luni, which one of the following statements is correct? [UPSC CSE Pre 2010]
+a) It flows into the Gulf of Khambhat
+b) It flows into the Gulf of Kutch
+c) It flows into Pakistan and merges with a tributary of Indus
+d) It is lost in the marshy land of the Rann of Kutch
+#QuestionEnd
+#AnswerStart
+Answer: d) It is lost in the marshy land of the Rann of Kutch
+#AnswerEnd
+
+#QuestionStart
+Q54) Which one of the following rivers does not originate in India? [UPSC CSE Pre 2009]
+a) Beas
+b) Chenab
+c) Ravi
+d) Sutlej
+#QuestionEnd
+#AnswerStart
+Answer: d) Sutlej
+#AnswerEnd
+
+#QuestionStart
+Q55) At which one of the following places do two important rivers of India originate; while one of them flows towards north and merges with another important river flowing towards the Bay of Bengal, the other one flows towards the Arabian Sea? [UPSC CSE Pre 2009]
+a) Amarkantak
+b) Badrinath
+c) Mahabaleshwar
+d) Nasik
+#QuestionEnd
+#AnswerStart
+Answer: a) Amarkantak
+#AnswerEnd
+
+#QuestionStart
+Q56) Consider the following statements:
+1. There are no east flowing rivers in Kerala.
+2. There is no west flowing river in Madhya Pradesh.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q57) Consider the following pairs:
+| Tributary River | Wain Riveï |
+|---|---|
+| 1. Chambal | Narmada |
+| 2. Son | Yamuna |
+| 3. Manas | Brahmaputra |
+Which of the pairs given above is/are correctly matched? [UPSC CSE Pre 2008]
+a) 1,2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q58) Which of the following hills are found where the Eastern Ghats and the Western Ghats meet? [UPSC CSE Pre 2008]
+a) Nilgiri Hills
+b) Cardamom Hills
+c) Annamalai Hills
+d) Sahyadri Hills
+#QuestionEnd
+#AnswerStart
+Answer: a) Nilgiri Hills
+#AnswerEnd
+
+#QuestionStart
+Q59) In India, how many States share the coastline? [UPSC CSE Pre 2008]
+a) 7
+b) 8
+c) 9
+d) 10
+#QuestionEnd
+#AnswerStart
+Answer: c) 9
+#AnswerEnd
+
+#QuestionStart
+Q60) In which state is the Guru Shikhar Peak located? [UPSC CSE Pre 2007]
+a) Rajasthan
+b) Gujarat
+c) Madhya Pradesh
+d) Maharashtra
+#QuestionEnd
+#AnswerStart
+Answer: a) Rajasthan
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one among the following major Indian cities is most eastward located? [UPSC CSE Pre 2007]
+a) Hyderabad
+b) Bhopal
+c) Lucknow
+d) Bangalore
+#QuestionEnd
+#AnswerStart
+Answer: c) Lucknow
+#AnswerEnd
+
+#QuestionStart
+Q62) Consider the following statements: Assertion (A): River Kalinadi is an eastflowing river in the southern part of India.
+Reason (R): The Deccan Plateau is higher along its western edge and gently slopes towards the Bay of Bengal in the east.
+Code: [UPSC CSE Pre 2007]
+a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A)
+b) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true
+#AnswerEnd
+
+#QuestionStart
+Q63) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List I (Town) | List-II (River nearby) |
+|---|---|
+| A. Betul | 1. Indravati |
+| B. Jagdalpur | 2. Narmada |
+| C. Jabalpur | 3. Kshipra |
+| D. Ujjain | 4. Tapti |
+Code: [UPSC CSE Pre 2007]
+a) A-1, B-4, C-2, D-3
+b) A-4, B-1, C-2, D-3
+c) A-4, B-1, C-3, D-2
+d) A-1, B-4, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following statements is not correct? [UPSC CSE Pre 2006]
+a) Mahanadi River rises from the Chhattisgarh plateau.
+b) Godavari River rises in Maharashtra.
+c) Cauvery River rises in Andhra Pradesh.
+d) Tapti River rises in Madhya Pradesh.
+#QuestionEnd
+#AnswerStart
+Answer: c) Cauvery River rises in Andhra Pradesh.
+#AnswerEnd
+
+#QuestionStart
+Q65) Consider the following statements:
+Assertion (A): The percentage of net sown area in the total area of Andhra Pradesh is less as compared to that of West Bengal.
+Reason (R): The soil of most of Andhra Pradesh is laterite.
+Code: [UPSC CSE Pre 2006]
+a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q66) Consider the following statements:
+1. Assam shares border with Bhutan and Bangladesh.
+2. West Bengal shares border with Bhutan and Nepal.
+3. Mizoram shares border with Bangladesh and Myanmar.
+Which of the statements given above are correct? [UPSC CSE Pre 2006]
+a) 1, 2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q67) From north towards south, which one of the following is the correct sequence of the given rivers in India? [UPSC CSE Pre 2006]
+a) Shyok - Spiti - Zaskar - Satluj
+b) Shyok - Zaskar - Spiti - Satluj
+c) Zaskar - Shyok - Satluj - Spiti
+d) Zaskar - Satluj - Shyok - Spiti
+#QuestionEnd
+#AnswerStart
+Answer: b) Shyok - Zaskar - Spiti - Satluj
+#AnswerEnd
+
+#QuestionStart
+Q68) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Valley) | List-II (State) |
+|---|---|
+| A. Markha Valley | Sikkim |
+| B. Dzukou Valley | Himachal Pradesh |
+| C. Sangla Valley | Jammu and Kashmir |
+| D. Yumthang Valley | Nagaland |
+Code: [UPSC CSE Pre 2006]
+a) A-2, B-4, C-3, D-1
+b) A-3, B-1, C-2, D-4
+c) A-2, B-1, C-3, D-4
+d) A-3, B-4, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following is the correct sequence of the given Indian cities in the decreasing order of their normal annual rainfall? [UPSC CSE Pre 2005]
+a) Kochi - Kolkata - Delhi - Patna
+b) Kolkata - Kochi - Patna - Delhi
+c) Kochi - Kolkata - Patna - Delhi
+d) Kolkata - Kochi - Delhi - Patna
+#QuestionEnd
+#AnswerStart
+Answer: c) Kochi - Kolkata - Patna - Delhi
+#AnswerEnd
+
+#QuestionStart
+Q70) Which one of the following statements is not correct? [UPSC CSE Pre 2005]
+a) The Western Ghats are relatively high in their Northern region.
+b) The Anamudi is the highest peak in the Western Ghats.
+c) Tapti river lies to the south of Satpura.
+d) The Narmada and the Tapti River valleys are said to be old rift valleys.
+#QuestionEnd
+#AnswerStart
+Answer: a) The Western Ghats are relatively high in their Northern region.
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one of the following is the correct sequence of the given hills starting from the north and going towards the south? [UPSC CSE Pre 2005]
+a) Nallamalai Hills - Nilgiri Hills - Javadi Hills - Anaimalai Hills
+b) Anaimalai Hills - Javadi Hills - Nilgiri Hills - Nallamalai Hills
+c) Nallamalai Hills - Javadi Hills - Nilgiri Hills - Anaimalai Hills
+d) Anaimalai Hills - Nilgiri Hills - Javadi Hills - Nallamalai Hills
+#QuestionEnd
+#AnswerStart
+Answer: c) Nallamalai Hills - Javadi Hills - Nilgiri Hills - Anaimalai Hills
+#AnswerEnd
+
+#QuestionStart
+Q72) Consider the following statements:
+1. Silent Valley National Park is in the Nallamalla range.
+2. Pathrakkadavu Hydroelectric project is proposed to be built near the Silent Valley National Park.
+3. The Kunthi river originates in Silent Valley’s rainforests.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2005]
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q73) Nanda Devi peak forms a part of: [UPSC CSE Pre 2003]
+a) Assam Himalayas
+b) Garhwal Himalayas
+c) Nepal Himalayas
+d) Punjab Himalayas
+#QuestionEnd
+#AnswerStart
+Answer: b) Garhwal Himalayas
+#AnswerEnd
+
+#QuestionStart
+Q74) Consider the following statements
+1. Longitude of Jabalpur’s location is between those of Indore and Bhopal.
+2. Latitude of Aurangabad’s location is between those of Vadodara and Pune.
+3. Bengaluru is situated more southward than Chennai.
+Which of these statements is/are correct?: [UPSC CSE Pre 2003]
+a) 1 and 3
+b) Only 2
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q75) Among the following cities, which one is nearest to the Tropic of Cancer? [UPSC CSE Pre 2003]
+a) Delhi
+b) Kolkata
+c) Jodhpur
+d) Nagpur
+#QuestionEnd
+#AnswerStart
+Answer: b) Kolkata
+#AnswerEnd
+
+#QuestionStart
+Q76) Which one of the following is not a lagoon? [UPSC CSE Pre 2002]
+a) Ashtamudi lake
+b) Chilika lake
+c) Periyar lake
+d) Pulicat lake
+#QuestionEnd
+#AnswerStart
+Answer: c) Periyar lake
+#AnswerEnd
+
+#QuestionStart
+Q77) The average annual temperature of a meteorological station is 26 °C, its average annual rainfall is 63 cm, and the annual range temperature is 9 °C. The station in question is: [UPSC CSE Pre 2002]
+a) Allahabad
+b) Chennai
+c) Cherrapunji
+d) Kolkata
+#QuestionEnd
+#AnswerStart
+Answer: b) Chennai
+#AnswerEnd
+
+#QuestionStart
+Q78) Open stunted forests with bushes and small trees having long roots and sharp thorns repeated spines are commonly found in: [UPSC CSE Pre 2002]
+a) Eastern Odisha
+b) North-Eastern Tamil Nadu
+c) Siwaliks and Terai region
+d) Western Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: d) Western Andhra Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q79) Match list-I with list II and select the correct answer using the codes given below the lists:
+| List-I (Mangroves) | List-II (State) |
+|---|---|
+| A. Achra Ratnagiri | 1. Karnataka |
+| B. Coondapur | 2. Kerala |
+| C. Pichavaram | 3. Andhra Pradesh |
+| D. Vembanad | 4. Maharashtra |
+| | 5. Tamil Nadu |
+Code: [UPSC CSE Pre 2002]
+a) A-2, B-1, C-5, D-4
+b) A-4, B-5, C-3, D-2
+c) A-2, B-5, C-3, D-4
+d) A-4, B-1, C-5, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-1, C-5, D-2
+#AnswerEnd
+
+#QuestionStart
+Q80) Identify the correct order of the process of soil-erosion form the following: [UPSC CSE Pre 2001]
+a) Splash erosion, Sheet erosion, Rill erosion, Gully erosion
+b) Sheet erosion, Splash erosion, Gully erosion, Rill erosion
+c) Rill erosion, Gully erosion, Sheet erosion, Splash erosion
+d) Gully erosion, Rill erosion, Sheet erosion, Splash erosion
+#QuestionEnd
+#AnswerStart
+Answer: a) Splash erosion, Sheet erosion, Rill erosion, Gully erosion
+#AnswerEnd
+
+#QuestionStart
+Q81) Consider the climate diagram given below:
+In the shaded area of the above map, the mean temperature for the month of July varies between:
+a) 22.5°C - 25.0°C
+b) 25.0°C - 27.5°C
+c) 27.5°C - 30.0°C
+d) 30.0°C - 32.5°C
+#QuestionEnd
+#AnswerStart
+Answer: b) 25.0°C - 27.5°C
+#AnswerEnd
+
+#QuestionStart
+Q82) Which one of the following east flowing rivers of India has rift valley due to down warping? [UPSC CSE Pre 1998]
+a) Damodar
+b) Mahanadi
+c) Son
+d) Yamuna
+#QuestionEnd
+#AnswerStart
+Answer: a) Damodar
+#AnswerEnd
+
+#QuestionStart
+Q83) Some people in Manipur live in houses built on floating islands of weeds and decaying vegetation held together by suspended silt. These islands are called- [UPSC CSE Pre 1998]
+a) Tipis
+b) Burkhans
+c) Phumdi
+d) Izba
+#QuestionEnd
+#AnswerStart
+Answer: c) Phumdi
+#AnswerEnd
+
+#QuestionStart
+Q84) In the map shown in the given figure, rivers labelled 1, 2, 3 and 4 respectively are: [UPSC CSE Pre 1997]
+a) Kosi, Gomati, Ghaghara and Gandak
+b) Kosi, Ganga, Gomati and Ghaghara
+c) Gandak, Ganga, Gomati and Ghaghara
+d) Teesta, Gomati, Ghaghara and Kosi
+#QuestionEnd
+#AnswerStart
+Answer: a) Kosi, Gomati, Ghaghara and Gandak
+#AnswerEnd
+
+#QuestionStart
+Q85) Consider the map given below:
+The place marked A, B, C and D in the map are respectively: [UPSC CSE Pre 1997]
+a) Rift valley region, Chhattisgarh plain, Rain shadow region and Chhota Nagpur plateau
+b) Chhattisgarh plain, Chhota Nagpur plateau, Rift valley region and Rain shadow region
+c) Rift valley region, Chhattisgarh plain, Chhota Nagpur plateau and Rain shadow region
+d) Chhattisgarh plain, Rain shadow region, Chhota Nagpur plateau and Rift valley region
+#QuestionEnd
+#AnswerStart
+Answer: c) Rift valley region, Chhattisgarh plain, Chhota Nagpur plateau and Rain shadow region
+#AnswerEnd
+
+#QuestionStart
+Q86) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Deccan Traps | 1. Late Cenozoic |
+| B. Western Ghats | 2. Pre-Cambrian |
+| C. Aravalli | 3. Cretaceous Eocene |
+| D. Narmada-Tapti alluvial deposits | 4. Cambrian |
+| | 5. Pleistocene |
+Code: [UPSC CSE Pre 1997]
+a) A-3, B-5, C-1, D-4
+b) A-3, B-1, C-2, D-5
+c) A-2, B-1, C-3, D-4
+d) A-1, B-4, C-2, D-5
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-1, C-2, D-5
+#AnswerEnd
+
+#QuestionStart
+Q87) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Climatic condition) | List-II (Reasons) |
+|---|---|
+| A. Chennai is warmer than Kolkata | 1. North-East Monsoon |
+| B. Snowfall in Himalaya | 2. Altitude |
+| C. Rainfall decreases from West Bengal to Punjab | 3. Western depressions |
+| D. Sutlej-Ganga plain gets some rain in winter | 4. Distance from sea |
+| | 5. Latitude |
+Code: [UPSC CSE Pre 1997]
+a) A-1, B-2, C-4, D-5
+b) A-4, B-5, C-1, D-3
+c) A-5, B-2, C-4, D-3
+d) A-5, B-1, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-5, B-2, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q88) “You might see a few curious Danes around, but that is because.......used to be Danish out post. This quaint town with its fort and a beautiful church, the New Jerusalem, empty streets and deserted beach front is a quaint gem.” The place referred to in this quotation lies on the- [UPSC CSE Pre 1996]
+a) Tamil Nadu Coast
+b) Kerala Coast
+c) Karnataka Coast
+d) Goa Coast
+#QuestionEnd
+#AnswerStart
+Answer: a) Tamil Nadu Coast
+#AnswerEnd
+
+#QuestionStart
+Q89) “Saddle peak” the highest peak of Andaman & Nicobar is located in- [UPSC CSE Pre 1996]
+a) Great Nicobar
+b) Middle Andaman
+c) Little Andaman
+d) North Andaman
+#QuestionEnd
+#AnswerStart
+Answer: d) North Andaman
+#AnswerEnd
+
+#QuestionStart
+Q90) Which one of the following rivers thrice forks into two streams and reunites a few miles farther on, thus forming the islands of Srirangappattanam, Sivasamudram, and Srirangam? [UPSC CSE Pre 1996]
+a) Cauvery
+b) Tungabhadra
+c) Krishna
+d) Godavari
+#QuestionEnd
+#AnswerStart
+Answer: a) Cauvery
+#AnswerEnd
+
+#QuestionStart
+Q91) Consider the following rivers:
+1. Kishan Ganga
+2. Ganga
+3. Wain Ganga
+4. Pen Ganga
+The correct sequence of these rivers when arranged in the north-south direction is- [UPSC CSE Pre 1996]
+a) 1,2, 3, 4
+b) 2, 1, 3, 4
+c) 2, 1, 4, 3
+d) 1,2, 4, 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q92) High temperature and low pressure over the Indian Subcontinent during the summer season draws air from the Indian Ocean leading to the in-blowing of the: [UPSC CSE Pre 1996]
+a) South-East monsoon
+b) South-West monsoon
+c) Trade winds
+d) Westerlies
+#QuestionEnd
+#AnswerStart
+Answer: b) South-West monsoon
+#AnswerEnd
+
+#QuestionStart
+Q93) Consider the map given below:
+The divisions along India’s coastal region indicate? [UPSC CSE Pre 1995]
+a) Coastal pollution zones
+b) Salinity density isopleths
+c) The areas upto which sovereignty extends
+d) Underwater relief contours
+#QuestionEnd
+#AnswerStart
+Answer: d) Underwater relief contours
+#AnswerEnd
+
+#QuestionStart
+Q94) Examine the map of Jammu and Kashmir given below: [UPSC CSE Pre 1995]
+The mountains ranges marked 1, 2, 3 and 4 respectively:
+a) Ladakh, Zanskar, Karakoram and Pir Panjal
+b) Karakoram, Pir Panjal, Zanskar and Ladakh
+c) Karakoram, Ladakh, Zanskar and Pir Panjal
+d) Ladakh, Pir Panjal, Karakoram and Zanskar
+#QuestionEnd
+#AnswerStart
+Answer: c) Karakoram, Ladakh, Zanskar and Pir Panjal
+#AnswerEnd
+
+#QuestionStart
+Q95) During ancient Indian historical geography, the term ‘Ratnakara’ denoted- [UPSC CSE Pre 1994]
+a) The Arabian Sea
+b) The Bay of Bengal
+c) The Indian Ocean
+d) The Confluence of the Ganga, the Jamuna and the mythical Saraswati in Prayag
+#QuestionEnd
+#AnswerStart
+Answer: c) The Indian Ocean
+#AnswerEnd
+
+#QuestionStart
+Q96) The Himalayas are formed of parallel fold ranges, of which the oldest range is- [UPSC CSE Pre 1994]
+a) The Shiwalik Range
+b) The Lesser Himalayas
+c) The Great Himalayan Range
+d) The Dhauladhar Range
+#QuestionEnd
+#AnswerStart
+Answer: c) The Great Himalayan Range
+#AnswerEnd
+
+#QuestionStart
+Q97) Consider the following statements: [UPSC CSE Pre 1994] Assertion (A): The Monsoonal rainfall decreases as one goes toward the West and North-West in the Ganga plain.
+Reason (R): The moisture bearing Monsoonal winds go higher as one moves up in the Ganga plain.
+In the context of the above two statements, which one of the following is correct?
+a) Both (A) and (R) are true, and (R) is correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q98) Consider the map of India given below: [UPSC CSE Pre 1994]
+The map shows:
+a) An Isohyet
+b) All India water divide
+c) A combination of national highways
+d) A combination of major highway route
+#QuestionEnd
+#AnswerStart
+Answer: b) All India water divide
+#AnswerEnd
+
+#QuestionStart
+Q99) Which one of the following soil types of India is rendered infertile by the presence of excess iron? [UPSC CSE Pre 1994]
+a) Desert sand
+b) Alluvial
+c) Podzolic
+d) Lateritic
+#QuestionEnd
+#AnswerStart
+Answer: d) Lateritic
+#AnswerEnd
+
+#QuestionStart
+Q100) Which one of the following crops enriches the Nitrogen content in soil? [UPSC CSE Pre 1994]
+a) Potato
+b) Sorghum
+c) Sunflower
+d) Pea
+#QuestionEnd
+#AnswerStart
+Answer: d) Pea
+#AnswerEnd
+
+#QuestionStart
+Q101) Which one of the following types of erosion is responsible for the formation of Chambal Ravines? [UPSC CSE Pre 1994]
+a) Splash
+b) Sheet
+c) Rill
+d) Gully
+#QuestionEnd
+#AnswerStart
+Answer: d) Gully
+#AnswerEnd
+
+#QuestionStart
+Q102) Farmland tends to erode most rapidly when planted with: [UPSC CSE Pre 1994]
+a) Sorghum
+b) Potato
+c) Wheat
+d) Clover
+#QuestionEnd
+#AnswerStart
+Answer: a) Sorghum
+#AnswerEnd
+
+#QuestionStart
+Q103) Consider the climate diagram given below: [UPSC CSE Pre 1993]
+The above diagram is related to the climate of which of the following regions?
+a) North-West region of India
+b) South region of India
+c) Central region of India
+d) North-East region of India
+#QuestionEnd
+#AnswerStart
+Answer: d) North-East region of India
+#AnswerEnd
+
+#QuestionStart
+Q104) Which among the following pairs of places have most marked differences in total annual rainfalls even though located approximately along the same latitude? [UPSC CSE Pre 1993]
+a) Bengaluru and Chennai
+b) Mumbai and Vishakhapatnam
+c) Ajmer and Shillong
+d) Nagpur and Kolkata
+#QuestionEnd
+#AnswerStart
+Answer: c) Ajmer and Shillong
+#AnswerEnd
+
+#QuestionStart
+Q105) A rainy day as defined by the Indian meteorological department is a day when the rainfall at a point received is: [UPSC CSE Pre 1993]
+a) 0.5 mm to 1 mm in 24 hours.
+b) 1.1 mm to 1.5 mm in 24 hours.
+c) 1.6 mm to 2 mm in 24 hours.
+d) Above 2.5 mm in 24 hours.
+#QuestionEnd
+#AnswerStart
+Answer: d) Above 2.5 mm in 24 hours.
+#AnswerEnd
+
+#QuestionStart
+Q106) Soils of western content of: [UPSC CSE Pre 1993]
+a) Aluminum
+b) Calcium
+c) Nitrogen
+d) Phosphorus
+#QuestionEnd
+#AnswerStart
+Answer: b) Calcium
+#AnswerEnd
+
+#QuestionStart
+Q107) A fertile soil, suitable for growing common crops is likely to have a pH value of: [UPSC CSE Pre 1993]
+a) Three
+b) Four
+c) Six to seven
+d) Nine to ten
+#QuestionEnd
+#AnswerStart
+Answer: c) Six to seven
+#AnswerEnd

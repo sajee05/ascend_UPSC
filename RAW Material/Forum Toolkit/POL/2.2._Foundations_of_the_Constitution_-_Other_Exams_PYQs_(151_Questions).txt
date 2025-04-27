@@ -1,0 +1,1869 @@
+#QuestionStart
+Q42) Which of the following is not a fundamental duty? [UPPCS (Pre) 2022]
+a) To protect and improve the natural environment
+b) To respect the National Anthem
+c) To protect monuments and places of national importance
+d) To safeguard public property
+#QuestionEnd
+#AnswerStart
+Answer: c) To protect monuments and places of national importance
+#AnswerEnd
+
+#QuestionStart
+Q43) Right to Education has been included into the Fundamental Rights by the- [U.P.P.C.S. (Pre) 2022]
+a) Constitution (93rd Amendment) Act, 2005
+b) Constitution (71st Amendment) Act, 1992
+c) Constitution (103rd Amendment) Act, 2019
+d) Constitution (86th Amendment) Act, 2002
+#QuestionEnd
+#AnswerStart
+Answer: d) Constitution (86th Amendment) Act, 2002
+#AnswerEnd
+
+#QuestionStart
+Q44) The concept of ‘Basic Structure of the Constitution’ was propounded by the Supreme Court in the case of- [U.P.P.C.S. (Pre) 2022]
+| Case | Year |
+|---|---|
+| A. Golaknath vs State of Punjab | 1. 1967 |
+| B. Yusuf vs State of Bombay | 2. 1954 |
+| C. Keshvanand Bharti vs State of Kerala | 3. 1973 |
+| D. Chitralekha vs State of Mysore | 4. 1964 |
+#QuestionEnd
+#AnswerStart
+Answer: c) Keshvanand Bharti vs State of Kerala 3. 1973
+#AnswerEnd
+
+#QuestionStart
+Q45) Which one of the following is not correctly matched? [U.P.P.C.S. (Pre) 2021]
+| (Subject) | (Related Article) |
+|---|---|
+| (a) The separation of judiciary from executive | 1. Article 50 |
+| (b) The promotion of educational and economic interests of Scheduled Castes and Scheduled Tribes | 2. Article 46 |
+| (c) The promotion of Co- operative Societies | 3. Article 43A |
+| (d) The organization of village panchayat and enable them to function as the units of self-governace | 4. Article 40 |
+#QuestionEnd
+#AnswerStart
+Answer: c) The promotion of Co- operative Societies 3. Article 43A
+#AnswerEnd
+
+#QuestionStart
+Q46) Which Constitution Amendment Act reduced the voting age from 21 years to 18 years? [U.P.P.C.S. (Pre) 2021]
+a) 66th Amendment
+b) 62nd Amendment
+c) 61st Amendment
+d) 63rd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c) 61st Amendment
+#AnswerEnd
+
+#QuestionStart
+Q47) Consider the following and arrange these in chronological order:
+I. Golak Nath Case
+II. Keshavanand Bharti Case
+III. 24th Constitution Amendment Act
+IV. 42nd Constitution Amendment Act
+Select the correct answer from the codes given below. [U.P.P.C.S. (Pre) 2021]
+a) I, III, II, IV
+b) I, II, III, IV
+c) III, I, II, IV
+d) III, I, IV, II
+#QuestionEnd
+#AnswerStart
+Answer: a) I, III, II, IV
+#AnswerEnd
+
+#QuestionStart
+Q48) Which of the following Article was inserted by the 42ⁿd Constitution Amendment to provide for participation of workers in management? [UPPCS (Pre) 2019]
+a) Article 38
+b) Article 39A
+c) Article 45
+d) Article 43A
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 43A
+#AnswerEnd
+
+#QuestionStart
+Q49) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): Article 30 of the Constitution of India does not define the term’ minorities.
+Reason (R): The Constitution recognizes only linguistic and religious minorities.
+Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q50) In which of the following ‘the provisions for the protection and improvement of environment and safeguarding of forests and wildlife’ are found in the Constitution of India? [U.P.P.C.S. (Pre) 2019]
+a) Only in the Directive Principles of State Policy
+b) Only in the Fundamental Duties
+c) Both (a) and (b)
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (a) and (b)
+#AnswerEnd
+
+#QuestionStart
+Q51) The Directive principles of State Policy may be classified into which of the following parts for the sake of convenient study? [U.P.P.C.S. (Pre) 2018]
+a) Socialist
+b) Liberal intellectualistic
+c) Gandhian
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q52) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-1 (Article) | List-II (Provision) |
+|---|---|
+| A. Curtailment of the power of judicial review | 1. 61st Amendment |
+| B. Abolition of Right to property as a fundamental right | 2. 42nd Amendment |
+| C. Lowering the voting age from 21 to 18 | 3. 38th Amendment |
+| D. Addition of the word ‘Secular’ in the Preamble | 4. 44th Amendment |
+Code: [UPPCS (Pre) 2017]
+a) A1 B2 C4 D3
+b) A2 B4 C1 D3
+c) A3 B4 C1 D2
+d) A4 B1 C3 D2
+#QuestionEnd
+#AnswerStart
+Answer: c) A3 B4 C1 D2
+#AnswerEnd
+
+#QuestionStart
+Q53) Which one of the following does not fall within the purview of article 21 of the Constitution? [U.P.P.C.S. (Pre) 2017]
+a) Medical aid to injure by a doctor
+b) Sexual Harassment of Women at workplace.
+c) Pollution of the quality of water.
+d) Capital punishment
+#QuestionEnd
+#AnswerStart
+Answer: d) Capital punishment
+#AnswerEnd
+
+#QuestionStart
+Q54) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): The State can treat unequal differently with the objective of creating a level playing field in the social, economic and political spheres.
+Reason (R): Among equals the law should be equal and equally administered.
+In the context of the above statements select the correct answer [U.P.P.C.S. (Mains) 2016]
+a) (A) is true, but (R) is false.
+b) (A) is false, but (R) is true.
+c) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#QuestionEnd
+#AnswerStart
+Answer: d) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q55) In the Indian Constitution the ‘Right to Freedom’ is granted by four Articles which are- [U.P.P.C.S. (Mains) 2016]
+a) Article - 19 to Article - 22
+b) Article - 16 to Article - 19
+c) Article - 17 to Article - 20
+d) Article - 18 to Article - 21
+#QuestionEnd
+#AnswerStart
+Answer: a) Article - 19 to Article - 22
+#AnswerEnd
+
+#QuestionStart
+Q56) Given below are two statements, one is labelled as Assertion and the other as Reason (R):
+Assertion (A): The state shall provide free and compulsory education to all children of the age group of six to fourteen years.
+Reason (R): In a democratic society, the right to education is indispensable in the interpretation of the right to development as a human right.
+In the context of the above statements select the correct answer. [U.P.P.C.S. (Mains) 2016]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (R) is true, but (A) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q57) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): Dr, Ambedkar had described Article 32 of the Constitution as the very soul of it.
+Reason (R): Article 32 provides an effective remedy against the violation of fundamental rights.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2016]
+a) (A) and (R) both are true, and (R) is the correct explanation of (A)
+b) (A) and (R) both are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) (A) and (R) both are true, and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q58) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Mains) 2015]
+| Provisions | Sources |
+|---|---|
+| (a) Prohibition of traffic in human beings and forced labour | Article 23 |
+| (b) Protection of interests of minorities | Article 29 |
+| (c) Right to constitutional remedies | Article 32 |
+| (d) Right of minorities to establish and administer educational institutions | Article 31 |
+#QuestionEnd
+#AnswerStart
+Answer: d) Right of minorities to establish and administer educational institutions Article 31
+#AnswerEnd
+
+#QuestionStart
+Q59) Under which Articles of Indian Constitution, provision for Fundamental Duties has been made by the 42nd Constitutional Amendment Act? [U.P.P.C.S. (Pre) 2015]
+a) Article 50
+b) Article 51A
+c) Article 52
+d) Article 53
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 51A
+#AnswerEnd
+
+#QuestionStart
+Q60) Which one of the following is not a part of Fundamental Duties under Indian Constitution? [U.P.P.C.S. (Pre) 2015]
+a) To defend the country and render national service
+b) To value and preserve the rich heritage of our composite culture
+c) To help in organizing Village Panchayats
+d) To safeguard public property and to abjure violence
+#QuestionEnd
+#AnswerStart
+Answer: c) To help in organizing Village Panchayats
+#AnswerEnd
+
+#QuestionStart
+Q61) Consider the following:
+Assertion (A): Under Article 368, the Parliament can amend any part of the Constitution.
+Reason (R): The Parliament is the Supreme Legislative body elected by the People of India.
+Code: [U.P.P.C.S. (Pre) 2015]
+a) Both (A) and (R) are correct, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are correct, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q62) The word ‘Hindu’ in Article 25 of the Constitution of India does not include- [U.P.P.C.S. (Mains) 2014]
+a) Buddhists
+b) Jains
+c) Parsis
+d) Sikhs
+#QuestionEnd
+#AnswerStart
+Answer: c) Parsis
+#AnswerEnd
+
+#QuestionStart
+Q63) In which Article of Indian Constitution Doctrine of Due Process of Law is included? [U.P.P.C.S. (Mains) 2014]
+a) 11
+b) 16
+c) 21
+d) 26
+#QuestionEnd
+#AnswerStart
+Answer: c) 21
+#AnswerEnd
+
+#QuestionStart
+Q64) The President of India may declare the National Emergency if there is the threat of:
+1. External aggression
+2. Internal disturbances
+3. Armed rebellion
+4. Communal clashes
+Select the correct answer from the code given below: [U.P.P.C.S. (Mains) 2010]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q65) Under Article 356 of the Constitution of India, President’s Rule was imposed for the first time in- [U.P.P.C.S. (Mains) 2010]
+a) Uttar Pradesh
+b) Travancore-Cochin
+c) PEPSU
+d) Bihar
+#QuestionEnd
+#AnswerStart
+Answer: c) PEPSU
+#AnswerEnd
+
+#QuestionStart
+Q66) Which of the following is correct? [U.P.P.C.S. (Mains) 2009]
+a) The Nehru Report (1928) had advocated the inclusion of Fundamental Rights in the Constitution of India.
+b) The Government of India Act, 1935 referred to Fundamental Rights.
+c) The August Offer, 1940, included the Fundamental Rights.
+d) The Cripps Mission 1942 referred to Fundamental Rights.
+#QuestionEnd
+#AnswerStart
+Answer: a) The Nehru Report (1928) had advocated the inclusion of Fundamental Rights in the Constitution of India.
+#AnswerEnd
+
+#QuestionStart
+Q67) Which of the following Articles of the Indian Constitution guarantees equality of opportunity to all citizens of India in matters relating to public employment? [U.P.P.C.S. (Mains) 2009]
+a) Article 15
+b) Article 16 (1) and 16 (2)
+c) Article 16 (3)
+d) Article 16 (3), (4) and (5)
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 16 (1) and 16 (2)
+#AnswerEnd
+
+#QuestionStart
+Q68) Which one of the following is incorrect? [U.P.P.C.S. (Mains) 2009]
+a) Fundamental Duties are part of Fundamental Rights.
+b) Fundamental Duties are not a part of Fundamental Rights.
+c) Fundamental Duties are enumerated in Part-IV A of the Indian Constitution.
+d) Article 51 A explains the duties of every citizen of India.
+#QuestionEnd
+#AnswerStart
+Answer: a) Fundamental Duties are part of Fundamental Rights.
+#AnswerEnd
+
+#QuestionStart
+Q69) The First Constitution Amendment Bill passed in 1951 was related to [U.P.P.C.S. (Mains) 2009]
+a) Security of the country
+b) Security of the Prime Minister
+c) Protection of agrarian reforms in certain States
+d) Scheduled castes and Scheduled tribes
+#QuestionEnd
+#AnswerStart
+Answer: c) Protection of agrarian reforms in certain States
+#AnswerEnd
+
+#QuestionStart
+Q70) By Which one of the following Constitutional Amendments Delhi became ‘National Capital Region’? [U.P.P.C.S. (Mains) 2009]
+a) 61st Amendment
+b) 69th Amendment
+c) 71st Amendment
+d) 79th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: b) 69th Amendment
+#AnswerEnd
+
+#QuestionStart
+Q71) Which Amendment of the Constitution provides that no law passed to give effect to Directive Principles of State Policy contained in Articles 39 (b) 8c (c) shall be deemed to be void on the ground that it abridges the rights conferred by Articles 14 and 19? [U.P.P.C.S. (Mains) 2009]
+a) 25th Amendment
+b) 28th Amendment
+c) 42nd Amendment
+d) 44th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: a) 25th Amendment
+#AnswerEnd
+
+#QuestionStart
+Q72) Which one of the following is not included in the fundamental right to equality as enshrined in the Indian Constitution? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Equality before law
+b) Social equality
+c) Equal opportunity
+d) Economic equality
+#QuestionEnd
+#AnswerStart
+Answer: d) Economic equality
+#AnswerEnd
+
+#QuestionStart
+Q73) Which one of the following rights cannot be suspended or restricted even during National Emergency? [U.P.P.C.S. (Mains) 2008]
+a) Right to reside and settle in any part of the country.
+b) Right to life and personal liberty.
+c) Right to move freely throughout the territory of India.
+d) Right to carry on any profession or business.
+#QuestionEnd
+#AnswerStart
+Answer: b) Right to life and personal liberty.
+#AnswerEnd
+
+#QuestionStart
+Q74) Under which of the following articles the President of India can suspend the enforcement of Fundamental Rights (except Articles 20, 21)? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Article 358
+b) Article 359
+c) Article 13
+d) Article 356
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 359
+#AnswerEnd
+
+#QuestionStart
+Q75) The 79th Amendment of the Indian Constitution is related to- [U.P.P.C.S. (Mains) 2008]
+a) Centre-State Relations
+b) Establishment of two political parties
+c) Fundamental Rights
+d) Reservation of SCs and STs in the Lok Sabha and State Legislative Assemblies
+#QuestionEnd
+#AnswerStart
+Answer: d) Reservation of SCs and STs in the Lok Sabha and State Legislative Assemblies
+#AnswerEnd
+
+#QuestionStart
+Q76) Match List-I with List-II and select the correct answer using the code given below the lists:
+| IList-T (Article) | List-II (Provision) |
+|---|---|
+| A. Fundamental Duties | 1. Minerva Mills Case |
+| B. Parliament can amend Fundamental Rights | 2. Article 23 of the Constitution |
+| C. Doctrine of Basic Structure | 3. 42nd Amendment of the Constitution |
+| D. Prohibition of Trafficking in Human Beings | 4. Keshvanand Bharti Case |
+Code: [U.P.P.C.S. (Mains) 2007]
+a) A3 B1 C4 D2
+b) A4 B3 C2 D1
+c) A2 B1 C4 D3
+d) A1 B2 C3 D4
+#QuestionEnd
+#AnswerStart
+Answer: a) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q77) Which one of the following Bills must be passed by each House of the Indian Parliament separately by the special majority? [U.P.P.C.S. (Mains) 2007]
+a) Ordinary Bill
+b) Money Bill
+c) Finance Bill
+d) Constitution Amendment Bill
+#QuestionEnd
+#AnswerStart
+Answer: d) Constitution Amendment Bill
+#AnswerEnd
+
+#QuestionStart
+Q78) Right to education to all children between the age group of 6 to 14 years is- [U.P.P.C.S. (Pre) 2006]
+a) Included in the Directive Principles of State Policy
+b) A Fundamental Right
+c) A Statutory Right
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) A Fundamental Right
+#AnswerEnd
+
+#QuestionStart
+Q79) Which one of the following rights is available under Article 19(l)read with Article 21: [U.P.P.C.S. (Mains) 2004]
+a) Right to travel abroad
+b) Right to Shelter
+c) Right to privacy
+d) Right to information
+#QuestionEnd
+#AnswerStart
+Answer: a) Right to travel abroad
+#AnswerEnd
+
+#QuestionStart
+Q80) Which part of Constitution of India describes the model of Welfare State? [U.P.P.C.S. (Mains) 2004]
+a) Fundamental Rights
+b) Fundamental Duties
+c) The Preamble
+d) Directive Principles of State Policy
+#QuestionEnd
+#AnswerStart
+Answer: d) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q81) According to the Indian Constitution, the Constitutional amendment of the following topics requires consent of at least half of State legislatures-
+1. Federal provision of the Constitution
+2. Rights of the Supreme Court
+3. The process of Constitutional Amendment
+4. Formation of new States or transformation in the borders and names of the states
+Code: [U.P.P.C.S. Lower (Pre) 2004]
+a) 1,2,3
+b) 1,2,4
+c) 1, 3, 4
+d) 2, 3, 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2,3
+#AnswerEnd
+
+#QuestionStart
+Q82) In the event of the Upper House rejecting a Constitutional Amendment Bill passed by the Lower House- [U.P.P.C.S (Mains) 2004]
+a) The Bill will have to be dropped
+b) A joint sitting of both Houses of Parliament may be convened to consider and pass the Bill
+c) The Bill shall be deemed to have been passed by both the Houses of the Parliament if the Lok Sabha passes it again by a two-third majority
+d) The Bill shall be deemed to have been passed by both the Houses of the Parliament despite the disapproval of the Bill by the Upper House
+#QuestionEnd
+#AnswerStart
+Answer: a) The Bill will have to be dropped
+#AnswerEnd
+
+#QuestionStart
+Q83) Which of the following statements regarding Fundamental Duties is not true: [U.P.P.C.S. (Pre) 2003]
+a) They can be enforced by writs
+b) They can be promoted only by constitutional methods
+c) They can be used for interpreting ambiguous statutes
+d) The performance of any duty comes within the sphere of constitutional law which court has to decide.
+#QuestionEnd
+#AnswerStart
+Answer: a) They can be enforced by writs
+#AnswerEnd
+
+#QuestionStart
+Q84) Which of the following rights are not available to all persons in India?
+Select your answer by using the code given below:
+1. Equality Before the Law
+2. Right Against Discrimination
+3. Freedom to Move Freely throughout the Country
+4. Right to Contest Election
+Code: [U.P.P.C.S. (Mains) 2002]
+a) 1,3,4
+b) 1,2,4
+c) 1,2,3
+d) 2, 3,4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3,4
+#AnswerEnd
+
+#QuestionStart
+Q85) Identify the items included in the Directive Principles of State Policy:
+1. Prohibition of Consumption of Liquor
+2. Prohibition of employment of children in factories or mines
+3. Prohibition of beggar or forced labour
+4. Prohibition of untouchability
+Select the correct answer with the help of the code given below: [U.P.P.C.S. (Mains) 2002]
+a) 1 and 2
+b) 1, 2 and 3
+c) Only 1
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q86) In which of the following cases the Supreme Court limited the power of Parliament to amend the Constitution for the first time? [U.P.P.C.S. (Mains) 2002]
+a) A.K. Gopalan Vs. The State of Madras
+b) Golaknath Vs. The State of Punjab
+c) Keshavananda Bharati Vs. The State of Kerala
+d) Minerva Mills Vs. The Union of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Golaknath Vs. The State of Punjab
+#AnswerEnd
+
+#QuestionStart
+Q87) Which of the following provisions under the Constitution of India enabled the Supreme Court of India to deduce a fundamental right to equal pay for equal work? [U.P.P.C.S. (Pre) 1999]
+a) The word socialist’ used in the Preamble to the Constitution
+b) (a) read with Article 14 of the Constitution
+c) (a) read with Article 16 of the Constitution
+d) (a), (b) and (c) all read together
+#QuestionEnd
+#AnswerStart
+Answer: d) (a), (b) and (c) all read together
+#AnswerEnd
+
+#QuestionStart
+Q88) Consider the following statements about the Fundamental Rights in India:
+1. They are a guarantee against state action.
+2. They are enumerated in Part III of the Constitution.
+3. They ensure social, economic and political justice.
+4. They are unlike Bill of Rights in the U.S.A.
+Select the correct answer from the code given below: [U.P.P.C.S. (Pre) 1998]
+a) 1 and 2 are correct
+b) 2 and 3 are correct
+c) 1,2 and 3 are correct
+d) 2, 3 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 are correct
+#AnswerEnd
+
+#QuestionStart
+Q89) Which of the following has been recognized as a fundamental right by the Supreme Court of India?
+1. Right to Shelter
+2. Right to Travel Abroad
+3. Right to Equal Pay for Equal Work
+Select the correct answer from the code given below: [U.P.P.C.S. (Pre) 1998]
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q90) Which of the following was not added to the Directive Principles by the 42nd Amendment of the Constitution? [U.P.P.C.S. (Pre) 1998]
+a) Protection of Children and youth from exploitation
+b) Equal justice and free legal aid
+c) Uniform civil code
+d) Participation of workers in the management of industries
+#QuestionEnd
+#AnswerStart
+Answer: c) Uniform civil code
+#AnswerEnd
+
+#QuestionStart
+Q91) Which one of the following writs is regarded as the greatest safeguard for the liberty of a person? [U.P. Lower Sub. (Pre) 2015]
+a) Mandamus
+b) Habeas Corpus
+c) Certiorari
+d) Prohibition
+#QuestionEnd
+#AnswerStart
+Answer: b) Habeas Corpus
+#AnswerEnd
+
+#QuestionStart
+Q92) Which one of the following statements is not correct? [U.P. Lower Sub. (Pre) 2013]
+a) K.M. Munshi was one of the members of the drafting committee of the Constitution.
+b) The Constitution of India was adopted by the Constituent Assembly.
+c) The Panchayati Raj was recommended by Balwant Rai Mehta Committee Report-1957.
+d) The President of India is the Guardian of Fundamental Rights under the Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: d) The President of India is the Guardian of Fundamental Rights under the Constitution.
+#AnswerEnd
+
+#QuestionStart
+Q93) Given below are two statements, one labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): MGNREGA is providing employment to at least one member of the eligible household for a minimum period of 100 days in a year.
+Reason (R): Right to employment is enumerated in Part III of the Constitution.
+Select the correct answer from the code given below: [U.P. Lower Sub. (Mains) 2013]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q94) The Fundamental Duties of a citizen do not include duty - [U.P. Lower Sub. (Pre) 2008]
+a) To protect and improve the natural environment
+b) To cherish and follow the noble ideals which inspired our national struggle for freedom
+c) To strive towards abolition of untouchability
+d) To develop scientific temper, humanism and the spirit of enquiry and reform
+#QuestionEnd
+#AnswerStart
+Answer: c) To strive towards abolition of untouchability
+#AnswerEnd
+
+#QuestionStart
+Q95) Fundamental Rights- [U.P. Lower Sub. (Pre) 2002]
+a) Cannot be suspended
+b) Can be suspended by order of Prime Minister
+c) Can be suspended on the will of President
+d) Can be suspended during Emergency
+#QuestionEnd
+#AnswerStart
+Answer: d) Can be suspended during Emergency
+#AnswerEnd
+
+#QuestionStart
+Q96) What is meant by ‘Rule of Law’? [66th B.P.S.C. (Pre) 2020]
+a) One act for all and one judiciary for all
+b) One act for all and one State for all
+c) One State for all and one judiciary for all
+d) All acts for one and one judiciary for all
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) One act for all and one judiciary for all
+#AnswerEnd
+
+#QuestionStart
+Q97) Which of the following is/are listed among the Directive Principles in Part-IV of the Constitution of India?
+I. Equal Pay for Equal Work
+II. Uniform Civil Code
+III. Small family norm
+IV. Education through mother tongue at primary level.
+Code: [60th to 62nd B.P.S.C. (Pre) 2016]
+a) I, II and III
+b) I and II
+c) II and III
+d) I, II and IV
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) I and II
+#AnswerEnd
+
+#QuestionStart
+Q98) The Supreme Court has held that hoisting the National Flag atop the private buildings is a fundamental right of every citizen under: [60th to 62ⁿd B.P.S.C. (Pre) 2016]
+a) Article 14 of the Constitution
+b) Article 19 (1) (a) of the Constitution
+c) Article 21 of the Constitution
+d) Article 25 of the Constitution
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 19 (1) (a) of the Constitution
+#AnswerEnd
+
+#QuestionStart
+Q99) Which of the following rights conferred by the Constitution of India is also available to non-citizens? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Right to Constitutional Remedies
+b) Freedom of Speech
+c) Freedom to Move and Settle in any Part of the Country
+d) Freedom to Acquire Property
+#QuestionEnd
+#AnswerStart
+Answer: a) Right to Constitutional Remedies
+#AnswerEnd
+
+#QuestionStart
+Q100) According to which Article National Emergency may be declared by the president of India? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Article 352
+b) Article 370
+c) Article 371
+d) Article 395
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 352
+#AnswerEnd
+
+#QuestionStart
+Q101) Which of the following is given the power to enforce the Fundamental Rights by the Constitution? [47th B.P.S.C. (Pre) 2005]
+a) All Courts in India
+b) The Parliament
+c) The President
+d) The Supreme Court and High Courts
+#QuestionEnd
+#AnswerStart
+Answer: d) The Supreme Court and High Courts
+#AnswerEnd
+
+#QuestionStart
+Q102) Which of the following Constitutional Amendment Acts was termed as Mini Constitution? [47th B.P.S.C. (Pre) 2005]
+a) 42nd
+b) 44th
+c) 46th
+d) 50th
+#QuestionEnd
+#AnswerStart
+Answer: a) 42nd
+#AnswerEnd
+
+#QuestionStart
+Q103) Which Article of the Constitution gives precedence to Constitutional provisions over the laws made by the Union Parliament/ State Legislatures? [45th B.P.S.C. (Pre) 2001]
+a) 13
+b) 32
+c) 245
+d) 326
+#QuestionEnd
+#AnswerStart
+Answer: a) 13
+#AnswerEnd
+
+#QuestionStart
+Q104) Mainly on whose advice is the President’s Rule imposed in the State? [45th B.P.S.C. (Pre) 1997]
+a) Chief Minister
+b) Legislative Assembly
+c) Governor
+d) Chief Justice of High Court
+#QuestionEnd
+#AnswerStart
+Answer: c) Governor
+#AnswerEnd
+
+#QuestionStart
+Q105) Which of the following statement is correct regarding Article 368 of the Constitution of India?
+(i) Article 368 was amended by the 24th Constitution Amendment Act, 1971.
+(ii ) Article 368 was amended by the 101st Constitution Amendment Act, 2016.
+Codes: [M.P.P.C.S. (Pre) 2020]
+a) (i) is true and (ii) is false
+b) (i) is false and (ii) is true
+c) Both (i) and (ii) are true
+d) Both (i) and (ii) are false
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (i) and (ii) are true
+#AnswerEnd
+
+#QuestionStart
+Q106) When was the special rights and privy purse enjoyed by the Indian Princely States abolished? [M.P.P.C.S. (Pre) 2020]
+a) 1950
+b) 1949
+c) 1962
+d) 1971
+#QuestionEnd
+#AnswerStart
+Answer: d) 1971
+#AnswerEnd
+
+#QuestionStart
+Q107) Article 24 of the Constitution of India prohibits the employment of child in factories related to hazardous works. Such prohibition is [M.P.P.C.S. (Pre) 2020]
+a) Absolute prohibition
+b) Partial prohibition
+c) Reasonable prohibition
+d) Moral prohibition
+#QuestionEnd
+#AnswerStart
+Answer: a) Absolute prohibition
+#AnswerEnd
+
+#QuestionStart
+Q108) The scope of the Article 21 of the Constitution was expanded to include Right to Education, because of the decision of Supreme Court in the case [M.P.P.C.S. (Pre) 2019]
+a) Unnikrishnan v/s Andhra Pradesh
+b) Govind v/s State of Madhya Pradesh
+c) Parmanand Katara v/s Union of India
+d) Chameli Singh v/s State of Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: a) Unnikrishnan v/s Andhra Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q109) When were the Fundamental Duties mentioned in the Constitution? [M.P.P.C.S. (Pre) 2017]
+a) At the time of framing of Constitution
+b) On 26th January 1950
+c) In the 42nd Constitutional Amendment
+d) In the 41st Constitutional Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c) In the 42nd Constitutional Amendment
+#AnswerEnd
+
+#QuestionStart
+Q110) The‘Directive Principles’are [M.P.P.C.S. (Pre) 2013]
+a) Justifiable
+b) Non-justifiable
+c) Rigid
+d) Flexible
+#QuestionEnd
+#AnswerStart
+Answer: b) Non-justifiable
+#AnswerEnd
+
+#QuestionStart
+Q111) Consider the following:
+Statement: Constitution of India is basically Federal in nature.
+Reason: Article 352 has provisions to deal with the failure of constitutional machinery in a state.
+Code: [M.P.P.C.S.] (Pre) 2008]
+a) Statement and Reason both are correct, and the Statement is the correct explanation of the reason.
+b) Statement and Reason both are correct, but the statement is not the correct explanation of reason.
+c) The statement is correct, but Reason is false.
+d) The statement is false, but Reason is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) The statement is correct, but Reason is false.
+#AnswerEnd
+
+#QuestionStart
+Q112) By which of the following case Parliament got the right to amend Fundamental Rights? [M.P.P.C.S. (Pre) 1991]
+a) Keshvananda Bharati Case
+b) Rajnarayan Vs. Indira Gandhi Case
+c) Golaknath’s Case
+d) Sajjan Singh Case
+#QuestionEnd
+#AnswerStart
+Answer: a) Keshvananda Bharati Case
+#AnswerEnd
+
+#QuestionStart
+Q113) Identify the correct pair mentioning the Directive Principles of State Policy in the Constitution of India- [R.A.S./R.T.S. (Pre) 2021]
+a) Equal justice and free legal aid Article 42
+b) Organization of agriculture and animal husbandry Article 43
+c) Organization of village Panchayat Article 41
+d) That there is equal pay for equal work for both men and women Article 39
+#QuestionEnd
+#AnswerStart
+Answer: d) That there is equal pay for equal work for both men and women Article 39
+#AnswerEnd
+
+#QuestionStart
+Q114) Fundamental Duties were incorporated in the Constitution on the recommendation of [R.A.S./R.T.S. (Pre) 2021]
+a) Swaran Singh Committee
+b) Shah Commission
+c) Administrative Reforms Commission
+d) Santhanam Committee
+#QuestionEnd
+#AnswerStart
+Answer: a) Swaran Singh Committee
+#AnswerEnd
+
+#QuestionStart
+Q115) Select the correct chronological order of the following judgements dealing with Fundamental Rights:
+(A) Golaknath v/s State of Punjab
+(B) Keshvananda Bharati v/s State of Kerala
+(C) Minerva Mills v/s Union of India
+(D) A.K Gopalan v/s State of Madras
+Select the correct answer: [R.A.S/R.T.S. (Pre) 2018]
+a) (D), (B), (C), (A)
+b) (A), (B), (C), (D)
+c) (D), (A), (B), (C)
+d) (D), (C), (B), (A)
+#QuestionEnd
+#AnswerStart
+Answer: c) (D), (A), (B), (C)
+#AnswerEnd
+
+#QuestionStart
+Q116) Under the provisions of the Article 368 (2) of the Constitution of India, if a bill comes to Rajasthan Legislative Assembly after passing by parliament of India for resolution to rectify, then-
+1. Resolution can be passed by Assembly.
+2. Resolution can be rejected by Assembly.
+3. No Amendment shall be proposed to such a resolution
+Select the correct answer using code given below: [R.A.S./R.T.S. (Pre) 2018]
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q117) “The age of a Judge of the Supreme Court of India shall be determined by such authority and in such manner as Parliament may by laws provide” inserted by- [R.A.S./R.T.S. (Pre) 2018]
+a) 15th Constitution Amendment
+b) 16th Constitution Amendment
+c) 17th Constitution Amendment
+d) 18th Constitution Amendment
+#QuestionEnd
+#AnswerStart
+Answer: a) 15th Constitution Amendment
+#AnswerEnd
+
+#QuestionStart
+Q118) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Provision of Constitutional Amendment) | List-H (Number of Amendment) |
+|---|---|
+| A. Right to form Cooperative societies under Article 19 (1) (c) | 1. 81st Amendment, 2000 |
+| B. Protection of SC/ ST reservation in filling backlog of vacancies | 2. 91st Amendment, 2003 |
+| C. Formation of National Judicial Appointments Commission | 3. 97th Amendment, 2011 |
+| D. Limiting the size of the Council of Ministers | 4. 99th Amendment, 2014 |
+Code: [R.A.S./R.T.S. (Pre) (Re-Exam) 2013]
+a) A3 B2 C4 D1
+b) A1 B4 C2 D3
+c) A3 B1 C4 D2
+d) A2 B3 C1 D4
+#QuestionEnd
+#AnswerStart
+Answer: c) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q119) Consider the following statements regarding Article 356 of the Constitution:
+(i) Failure of Constitutional Machinery in States is an objective reality.
+(ii) A Proclamation under this Article can be reviewed by the Supreme Court.
+(iii) Along with this Proclamation, the State Legislative Assembly can be dissolved.
+(iv) This Proclamation has to be approved by each House of Parliament within two months.
+Which of the statements given above is/are correct? [R.A.S./R.T.S.(Pre) 2013]
+a) (i), (ii) and (iv) only
+b) (i), (ii) and (iii) only
+c) (iii) and (iv) only
+d) (ii), (iii) and (iv) only
+#QuestionEnd
+#AnswerStart
+Answer: a) (i), (ii) and (iv) only
+#AnswerEnd
+
+#QuestionStart
+Q120) The President’s power to veto a Bill for amendment of the Constitution has been taken away by substituting the word ‘shall give his assent’ by which amendment? [R.A.S./R.T.S. (Pre) (Re-Exam) 2013]
+a) 44th Amendment
+b) 23rd Amendment
+c) 24th Amendment
+d) 42nd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c) 24th Amendment
+#AnswerEnd
+
+#QuestionStart
+Q121) Consider the following statements:
+I. Through the 44th Constitutional Amendment, 1978 all the Directive Principles of State Policy have been given preference over Fundamental Rights mentioned in Articles 14 and 19.
+II. Supreme Court has laid down in its verdict in Minerva Mills Case, 1980 that the preference given only to Directive Principles of State Policy mentioned in Article 39 (b) and 39 (c) over Fundamental Rights mentioned in Articles 14 and 19 is Constitutional.
+Code: [R.A.S./R.TS. (Pre) 2013]
+a) Neither I nor II is correct.
+b) Only I is correct.
+c) Only II is correct.
+d) Both I and II are correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Only II is correct.
+#AnswerEnd
+
+#QuestionStart
+Q122) 97th Constitutional Amendment Act of 2012 is concerned with- [R.A.S./R.T.S. (Pre) 2012]
+a) Free and compulsory education for children upto the age of 14 years
+b) Organization and working of cooperative societies
+c) Stringent measures to deal with terrorism
+d) Provision of Lokpal to prevent corruption
+#QuestionEnd
+#AnswerStart
+Answer: b) Organization and working of cooperative societies
+#AnswerEnd
+
+#QuestionStart
+Q123) Which of the following is not correctly matched? [Jharkhand P.C.S. (Pre) 2021]
+| Provisions | Sources |
+|---|---|
+| (a) Article 22(1) | Right to be defended by a legal practitioner of her or his choice. |
+| (b) Article 22(4) | No law providing preventive detention shall authorize the detention for a period longer than three months. |
+| (c) Article 22(2) | Parliament may by law prescribe the circumstances under which a person may be detained for a period longer than three months. |
+| (d) Article 22(1) | No person who is arrested shall be in custody without being informed, as soon as may be, of the grounds for such an arrest. |
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 22(2) Parliament may by law prescribe the circumstances under which a person may be detained for a period longer than three months.
+#AnswerEnd
+
+#QuestionStart
+Q124) Under which of the following Article of thei Supreme Court is empowered to issue different ‘Writs’ for the enforcement of Fundamental Rights of the citizens? [Jharkhand PCS (Mains) 2016]
+a) Article 32
+b) Article 33
+c) Article 132
+d) Article 226
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 32
+#AnswerEnd
+
+#QuestionStart
+Q125) Which Constitutional Amendment bifurcated the Combined National Commission for Scheduled Castes and Scheduled Tribes into two separate bodies? [Jharkhand P.C.S. (Pre) 2016]
+a) 42nd Amendment
+b) 44th Amendment
+c) 89th Amendment
+d) 93rd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c) 89th Amendment
+#AnswerEnd
+
+#QuestionStart
+Q126) As a part of the Right to Freedom, which one of the following does not form part of “Freedom to Assemble Peaceably and Without Arms”? [Jharkhand P.C.S. (Pre) 2013]
+a) Gherao officials not performing their duties
+b) Peaceful assembly
+c) People who assemble should not bear arms
+d) State can make a law imposing reasonable restrictions on the exercise of this Right
+#QuestionEnd
+#AnswerStart
+Answer: a) Gherao officials not performing their duties
+#AnswerEnd
+
+#QuestionStart
+Q127) Which of the following constitution (Amendment) Act provides for goods and Services Tax (G.S.T.)? [Chhattisgarh P.C.S. (Pre) 2019]
+a) The Constitutions (Ninety Eighth) Amendment Act 2012
+b) The Constitutions (Ninety Eighth) Amendment Act 2014
+c) The Constitutions (One-Hundredth and First) Amendment Act 2015
+d) The Constitutions (One Hundred and First) Amendment Act 2016
+#QuestionEnd
+#AnswerStart
+Answer: d) The Constitutions (One Hundred and First) Amendment Act 2016
+#AnswerEnd
+
+#QuestionStart
+Q128) What are the restrictions in the freedom to manage religious affairs in the Article-26 of the constitution?
+(i) Public Order
+(ii ) National Security
+(ii i) Education
+(iv ) Morality
+(v) Health
+(vi) Secularism
+Code: [Chhattisgarh P.C.S. (Pre) 2018]
+a) (i), (ii), (iii)
+b) (ii), (iii), (v)
+c) (ii), (iv), (vi)
+d) (i), (iv), (v)
+#QuestionEnd
+#AnswerStart
+Answer: d) (i), (iv), (v)
+#AnswerEnd
+
+#QuestionStart
+Q129) The rights are called Fundamental Rights because
+i. It is written in the Constitution.
+ii. It is democratic.
+iii . It is public welfare.
+iv. It is essential for personality development,
+v. Parliament can’t make law against it.
+Code: [Chhattisgarh P.C.S. (Pre) 2017]
+a) i, ii, iii
+b) i, iii, v
+c) i, iv, v
+d) ii, iii, v
+e) None of the Above
+#QuestionEnd
+#AnswerStart
+Answer: c) i, iv, v
+#AnswerEnd
+
+#QuestionStart
+Q130) What is correct about external emergency as per Article 352?
+i. It is proclaimed by the President.
+ii. It should be approved by Parliament within two months.
+iii. It should be approved by Parliament within one month.
+iv. It should be approved by Parliament by a simple majority.
+v. It should be approved by Parliament by a 2/3 majority.
+vi. It can be revoked by a simple majority of Parliament.
+vii. It can be revoked by a 2/3 majority of Parliament.
+viii. It can be approved in a joint session of Parliament.
+Code: [Chhattisgarh P.C.S. (Pre) 2017]
+a) i, ii, iv, viii
+b) i, iii, vi, viii
+c) i, iii, v, vi
+d) i, iv, vii, viii
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) i, iii, v, vi
+#AnswerEnd
+
+#QuestionStart
+Q131) By which of the following grounds, a citizen’s freedom of expression may not be subjected to restriction? [Chhattisgarh P.C.S (Pre) 2013]
+a) Sovereignty of India
+b) Public order
+c) Contempt of Court
+d) Unbecoming criticism
+e) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Unbecoming criticism
+#AnswerEnd
+
+#QuestionStart
+Q132) The Provisions regarding division of taxes between the Union and the States- [Chhattisgarh P.C.S. (Pre) 2011]
+a) Can be suspended during Financial Emergency
+b) Can be suspended during National Emergency
+c) Cannot be suspended under any circumstances
+d) Can be suspended only with the consent of a majority of the State Legislatures
+#QuestionEnd
+#AnswerStart
+Answer: b) Can be suspended during National Emergency
+#AnswerEnd
+
+#QuestionStart
+Q133) By which Constitutional Amendment OBCs have been given 27 percent reservation in the admission to educational institutions [Uttarakhand P.C.S. (Pre) 2012]
+a) 92nd
+b) 93rd
+c) 94th
+d) 96th
+#QuestionEnd
+#AnswerStart
+Answer: b) 93rd
+#AnswerEnd
+
+#QuestionStart
+Q134) Which Article of the Constitution provides protection to the accused regarding conviction from double-bar and selfincrimination? [Uttarakhand P.C.S. (Pre) 2010]
+a) Article 19
+b) Article 22
+c) Article 21
+d) Article 20
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 20
+#AnswerEnd
+
+#QuestionStart
+Q135) The Constitution of India does not guarantee which one of the following as a fundamental right? [CAPE 2021]
+a) Right to equality
+b) Right against exploitation
+c) Right to property
+d) Right to carry on trade and business
+#QuestionEnd
+#AnswerStart
+Answer: c) Right to property
+#AnswerEnd
+
+#QuestionStart
+Q136) Which one of the following statements with regard to the Directive Principles of State Policy is not correct? [CAPF 2021]
+a) They are not enforceable in a court of law.
+b) They can override all the fundamental rights.
+c) They can be related to social and economic justice.
+d) They can be related to giving free legal aid.
+#QuestionEnd
+#AnswerStart
+Answer: b) They can override all the fundamental rights.
+#AnswerEnd
+
+#QuestionStart
+Q137) Which one of the following fundamental rights has not been provided to a person? [CAPF 2021]
+a) Protection against prosecution and punishment for the same offence more than once.
+b) To refuse to give his/her sample of handwriting as evidence to support a prosecution against him/her.
+c) To act as a witness against himself/herself.
+d) Right not to be convicted of any offence except for violation of a law in force at the time of commission of the act charged as an offence.
+#QuestionEnd
+#AnswerStart
+Answer: c) To act as a witness against himself/herself.
+#AnswerEnd
+
+#QuestionStart
+Q138) In relation to the fundamental duties enshrined in the Constitution of India, which one of the following is NOT correct? [CAPF 2020]
+a) The fundamental duties were not originally a part of the Constitution
+b) To safeguard public property and abjure violence are fundamental duties
+c) They are not enforceable through writs
+d) They may not be used for determining constitutionality of laws
+#QuestionEnd
+#AnswerStart
+Answer: d) They may not be used for determining constitutionality of laws
+#AnswerEnd
+
+#QuestionStart
+Q139) “To cherish and follow the noble ideas which inspired our national struggle for freedom” is a provision of which one of the following of the Constitution of India? " [CAPF2019]
+a) Directive Principles of the State Policy
+b) Fundamental Duties
+c) Fundamental Rights
+d) Preamble
+#QuestionEnd
+#AnswerStart
+Answer: b) Fundamental Duties
+#AnswerEnd
+
+#QuestionStart
+Q140) Which of the following is NOT provided for under the Directive Principles of State Policy? [CAPF 2019]
+a) Right to work, ‘to education and to public assistance in certain cases
+b) Uniform Civil Code for the citizens
+c) Separation of Judiciary from the executive
+d) Participation of workers in the management of local-self government
+#QuestionEnd
+#AnswerStart
+Answer: d) Participation of workers in the management of local-self government
+#AnswerEnd
+
+#QuestionStart
+Q141) Which one of the following statements regarding the Directive Principles of State Policy is NOT correct? [CAPF 2019]
+a) State shall follow the Directive Principles of State Policy both in the matter of administration as well as in the making of laws
+b) The Directive Principles of State Policy embody the object of the State under the Republican Constitution
+c) The Directive Principles of State Policy have precedence over the Fundamental Rights in case of conflict between the two
+d) The Directive Principles of State Policy are not enforceable in the Courts.
+#QuestionEnd
+#AnswerStart
+Answer: c) The Directive Principles of State Policy have precedence over the Fundamental Rights in case of conflict between the two
+#AnswerEnd
+
+#QuestionStart
+Q142) Sikkim became an Associate State of the Indian Union through [CAPF 2018]
+a) the Constitution (36th Amendment) Act, 1975
+b) the Constitution (7th Amendment) Act, 1956
+c) the Constitution (35th Amendment) Act, 1974
+d) the Constitution (5th Amendment) Act, 1955
+#QuestionEnd
+#AnswerStart
+Answer: a) the Constitution (36th Amendment) Act, 1975
+#AnswerEnd
+
+#QuestionStart
+Q143) Which one of the following Constitutional Amendments has enormously strengthened the powers of the Speaker/Chairman of the Houses of the Parliament/State Legislatures? [CAPF 2018]
+a) 61st Amendment which reduced the voting age from 21 to 18 years
+b) Anti-defection provisions of 52nd Amendment
+c) Repealing of many of the provisions of 42nd Amendment by 44th Amendment
+d) 73rd Amendment that conferred extensive the powers on Panchayat Bodies
+#QuestionEnd
+#AnswerStart
+Answer: b) Anti-defection provisions of 52nd Amendment
+#AnswerEnd
+
+#QuestionStart
+Q144) Which one of the following concerns has found a place in both Fundamental Duties and Directive Principles of State Policy? [CAPF 2018]
+a) Safeguard of Public Property
+b) Protection of improvement of environment, forests and wildlife
+c) Respect for the rich heritage of our composite culture
+d) Promotion of cooperative societies
+#QuestionEnd
+#AnswerStart
+Answer: b) Protection of improvement of environment, forests and wildlife
+#AnswerEnd
+
+#QuestionStart
+Q145) Which one of the following is not a part of the Directive Principles of State Policy? [CAPF 2018]
+a) Uniform Civil Code for all citizens
+b) Separation of Judiciary from Executive
+c) Duty of the State to raise the level of nutrition and standard of living
+d) Promotion of scientific temper, humanity and the spirit of inquiry and reform
+#QuestionEnd
+#AnswerStart
+Answer: d) Promotion of scientific temper, humanity and the spirit of inquiry and reform
+#AnswerEnd
+
+#QuestionStart
+Q146) The power of the President of India to refer a matter back to the Council of Ministers for reconsideration was inserted in the Constitution by [CAPF 2018]
+a) 44th Amendment
+b) 42nd Amendment
+c) 43rd Amendment
+d) 35th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: a) 44th Amendment
+#AnswerEnd
+
+#QuestionStart
+Q147) The provision under Article-51A of the Constitution of India relates to the [CAPF 2016]
+a) uniform civil code for the citizens
+b) organization of village panchayats
+c) right to education
+d) fundamental duties
+#QuestionEnd
+#AnswerStart
+Answer: d) fundamental duties
+#AnswerEnd
+
+#QuestionStart
+Q148) The amending power of the Parliament set forth in which one of the following Articles of the Constitution of India? [CAPF 2016]
+a) Article-368
+b) Article-360
+c) Article-13(2)
+d) Article-370
+#QuestionEnd
+#AnswerStart
+Answer: a) Article-368
+#AnswerEnd
+
+#QuestionStart
+Q149) With regard to a Constitution Amendment Bill, which one of the following statements is not correct? [CAPF 2016]
+a) The Speaker of the Lok Sabha can call a joint sitting of both the Houses to pass the Bill
+b) Each House needs to pass the Bill separately by a prescribed special majority end
+c) The Bill can be introduced in either House of Parliament
+d) The Bill can be sponsored by a Private Member
+#QuestionEnd
+#AnswerStart
+Answer: a) The Speaker of the Lok Sabha can call a joint sitting of both the Houses to pass the Bill
+#AnswerEnd
+
+#QuestionStart
+Q150) Who among the following are entitled to get the benefits of equality before the law and the equal protection of the laws as enshrined under Article-14 of the Constitution of India?
+1. All Indian citizens living in India.
+2. All Indian citizens living abroad.
+3. Foreigners living within the territory of India.
+4. All citizens born in India.
+Select the correct answer using the code given below: [CAPF 2017]
+a) 1 and 2 only
+b) 1, 2 and 3
+c) 1 and 3 only
+d) Only 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q151) Which of the following are provided in India by the Right to Education Act?
+1. Right of children to free and compulsory education till completion of elementary education in a neighborhood school.
+2. Prohibition of deployment of teachers for non-educational works, other than decennial census, elections to local authority like State Legislatures, Parliament and disaster relief.
+3. Right of minorities to establish and administer education institution.
+4. No citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of religion, race, caste, language or any of them.
+Select the correct answer using the code given below. [CAPF 2015]
+a) 1,2 and 4
+b) 1 and 3
+c) 2 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q152) Which of the following does not relate to the Fundamental Rights as enshrined in the Constitution of India?
+1. Free and compulsory education for all children of the age of 6-14 yr.
+2. Prohibition of trafficking in human beings and forced labour.
+3. Improvement of Public health and prohibition of intoxicating drinks.
+4. Promotion of the educational and economic interests of the weaker sections of the people, especially the Scheduled Castes and Scheduled Tribes.
+Select the correct answer using the codes given below.
+Codes [CAPF 2014]
+a) 1 and 2
+b) 2 and 4
+c) Only 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q153) Which of the following are related to Right to Equality under the provisions of Articles 14-18 of the Constitution of India?
+1. Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+2. Equality of opportunity in matters of public employment.
+3. Educational and cultural rights to minorities.
+4. Abolition of untouchability.
+Select the correct answer using the codes given below.
+Codes: [CAPF 2014]
+a) 1, 2 and 3
+b) 3 and 4
+c) 1,2 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q154) The major cleavage in global human rights discourse has been between: [CAPF 2014]
+a) religious rights vs. civil rights
+b) national rights vs. minority rights
+c) gender rights vs. equal rights
+d) civil and political rights vs. economic, social and cultural rights
+#QuestionEnd
+#AnswerStart
+Answer: d) civil and political rights vs. economic, social and cultural rights
+#AnswerEnd
+
+#QuestionStart
+Q155) Which one of the following is not a part of Article 51 of the Constitution of India? [CDS 2023 (I)]
+a) Promote international peace and security
+b) Maintain just and honourable relations between nations
+c) Use of UN peacekeeping force for resolution of international disputes
+d) Encourage settlement of inter- national disputes by arbitration
+#QuestionEnd
+#AnswerStart
+Answer: c) Use of UN peacekeeping force for resolution of international disputes
+#AnswerEnd
+
+#QuestionStart
+Q156) Which one of the following is not mentioned as a form of Emergency in the Constitution of India? [CDS 2022 (I)]
+a) National Emergency
+b) State Emergency in terms of Proclamation of President’s Rule in a State
+c) Financial Emergency
+d) Health Emergency
+#QuestionEnd
+#AnswerStart
+Answer: d) Health Emergency
+#AnswerEnd
+
+#QuestionStart
+Q157) Article 19(1) of the Constitution of India, as it stands amended, includes which of the following?
+1. Freedom of speech and expression
+2. Assemble peaceably and without arms
+3. To acquire and dispose property
+4. To move freely throughout the territory of India
+Select the correct answer using the code given below: - [CDS 2022 (I)]
+a) 1 and 2 only
+b) 1, 2, 3 and 4
+c) 4 only
+d) 1,2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q158) In Part-IVA of the Constitution of India, which one of the following is not mentioned as a duty of every citizen of India? [CDS 2022 (I)]
+a) To render national service when called upon to do so
+b) To renounce practices derogatory to the dignity of women
+c) To value and preserve a unitary national culture
+d) To develop the spirit of inquiry and reform
+#QuestionEnd
+#AnswerStart
+Answer: c) To value and preserve a unitary national culture
+#AnswerEnd
+
+#QuestionStart
+Q159) Which one of the following terms represents the maxim, ‘no man/person shall be condemned unheard’? [CDS 2022 (I)]
+a) Autrefois acquit
+b) Non bis in idem
+c) Autrefois convict
+d) Audi Alteram Partem
+#QuestionEnd
+#AnswerStart
+Answer: d) Audi Alteram Partem
+#AnswerEnd
+
+#QuestionStart
+Q160) Which one of the following statements about a Bill for Amendment of the Constitution of India is not correct? [CDS 2022 (I)]
+a) It is governed by Article 368(2) of the Constitution of India.
+b) Joint sitting can be resorted to for Passing a Bill amending the Constitution of India.
+c) The State Legislatures cannot initiate any Bill or proposal for amendment of the Constitution of India.
+d) The previous sanction of the President of India is not required for introducing any Bill in the Parliament for amendment of the Constitution of India.
+#QuestionEnd
+#AnswerStart
+Answer: b) Joint sitting can be resorted to for Passing a Bill amending the Constitution of India.
+#AnswerEnd
+
+#QuestionStart
+Q161) Which one of the following statements is correct? [CDS 2022 (II)]
+a) Under Article 21A of the Constitution of India, the State shall provide free and compulsory education to all children up to the age of eleven years.
+b) Every religious denomination has got absolute power under Article 26 of the Constitution of India to manage its own affairs in matters of religion.
+c) Only religious and linguistic minorities find mention in Article 30 of the Constitution of India in reference to the right to establish educational institutions of their choice.
+d) Parliament cannot empower, even by law, any court other than the Supreme Court of India the power to issue writs within local limits of its jurisdiction.
+#QuestionEnd
+#AnswerStart
+Answer: c) Only religious and linguistic minorities find mention in Article 30 of the Constitution of India in reference to the right to establish educational institutions of their choice.
+#AnswerEnd
+
+#QuestionStart
+Q162) By which one of the following Constitutional Amendment Acts, was the Article 21A (Right to Education) inserted into the Constitution of India? [CDS 2022 (II)]
+a) 83rd Amendment Act
+b) 84th Amendment Act
+c) 85th Amendment Act
+d) 86th Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: d) 86th Amendment Act
+#AnswerEnd
+
+#QuestionStart
+Q163) Equality before the law or equal protection of the laws within the territory of India is guaranteed under which one of the following Articles of the Constitution of India? [CDS 2021(1)]
+a) Article 14
+b) Article 15
+c) Article 1
+d) Article 22
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 14
+#AnswerEnd
+
+#QuestionStart
+Q164) Which one among the following was eliminated by the 44th Amendment Act of the Parliament? [CDS 2021 (I)]
+a) Right against Exploitation
+b) Right to Constitutional Remedies
+c) Right to Property
+d) Right to Education
+#QuestionEnd
+#AnswerStart
+Answer: c) Right to Property
+#AnswerEnd
+
+#QuestionStart
+Q165) Which among the following fundamental rights is/are available to non-citizens?
+1. Freedom of speech
+2. Protection against self-incrimination
+3. Freedom of conscience
+4. Non-discrimination in matters of employment
+Select the correct answer using the codes given below: [CDS 2021(1)]
+a) 1,2 and 3 only
+b) 1,3 and 4 only
+c) 2 and 3 only
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q166) The provision, “the State shall take steps to separate the Judiciary from the Executive in the public services of the State” is incorporated in which part of the Constitution of India? [CDS 2021 (II)]
+a) Part-IV
+b) Part V
+c) Part-VI .
+d) Part-VII
+#QuestionEnd
+#AnswerStart
+Answer: a) Part-IV
+#AnswerEnd
+
+#QuestionStart
+Q167) Which one of the following is the correct meaning of the term ‘State’, as defined in Article 12 of the Constitution of India? [CDS 2021 (II)]
+a) It refers only to the Government of India.
+b) It refers only to the Government of India and the Parliament of India.
+c) It refers only to the Government of India, Parliament of India, and Governments and Legislatures of each State.
+d) It refers to the Government of India, Parliament of India, Governments and Legislatures of each State, and all local or other authorities within the Territory of India.
+#QuestionEnd
+#AnswerStart
+Answer: d) It refers to the Government of India, Parliament of India, Governments and Legislatures of each State, and all local or other authorities within the Territory of India.
+#AnswerEnd
+
+#QuestionStart
+Q168) Which one of the following is not a correct statement with reference to the Constitution of India? [CDS 2021 (II)]
+a) The Constitution (Eighty-Fifth) Amendment Act has inserted the ‘Right to Education under Article 21-A.
+b) Article 22 talks about preventive detention.
+c) Right to constitutional remedies is in Part - Ill of the constitution.
+d) Writ jurisdiction of High courts is wider than the Supreme Court of India.
+#QuestionEnd
+#AnswerStart
+Answer: a) The Constitution (Eighty-Fifth) Amendment Act has inserted the ‘Right to Education under Article 21-A.
+#AnswerEnd
+
+#QuestionStart
+Q169) Which of the following statements regarding constitutional amendment is/are correct?
+1. The procedure for amendment to the Constitution is provided in Article 368.
+2. A Bill to amend the Constitution can be introduced in either House of the Parliament.
+3. The special procedure in Article 368 vests constituent powers upon the ordinary legislation.
+Select the correct answer using the codes given below: - [CDS 2021 (II)]
+a) Only 1
+b) 1,2 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q170) Which one of the following is not a circumstance for proclamation of Emergency by the President of India under Article 352 of the Constitution of India? [CDS 2021 (II)]
+a) War
+b) External aggression
+c) Internal disturbance
+d) Armed rebellion
+#QuestionEnd
+#AnswerStart
+Answer: c) Internal disturbance
+#AnswerEnd
+
+#QuestionStart
+Q171) The Constitution of India guarantees freedom of speech and expression. But the freedom is subject to certain reasonable restrictions imposed by the state. These restrictions may relate to which of the following?
+1. Defamation
+2. Decency or morality
+3. Incitement to an offence
+Select the correct answer using the codes given below. [CDS 2021 (II)]
+a) Only 1
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q172) Which of the following Articles in the Constitution of India are exceptions to the Fundamental Right enumerated in Article 14 and Article-19? [CDS 2020 (IT)]
+a) Article 31A and Article 31C
+b) Article 3IB and Article 3ID
+c) Article 1 and Article 13
+d) Article 16 and Article 17
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 31A and Article 31C
+#AnswerEnd
+
+#QuestionStart
+Q173) Which one of the following was added as a Fundamental duty through the Constitution (86th Amendment) Act, 2002? [CDS 2020 (I)]
+a) To strive towards excellence in individual and collective activity
+b) To provide opportunities for education to ones child between the age of 6 and 14 years
+c) To work for the welfare of women and children
+d) To promote peace and harmony
+#QuestionEnd
+#AnswerStart
+Answer: b) To provide opportunities for education to ones child between the age of 6 and 14 years
+#AnswerEnd
+
+#QuestionStart
+Q174) Which one of the following Articles of the Constitution of India protects a person against double jeopardy? [CDS 2020 (I)]
+a) Article-20
+b) Article-21
+c) Article-22
+d) Article-23
+#QuestionEnd
+#AnswerStart
+Answer: a) Article-20
+#AnswerEnd
+
+#QuestionStart
+Q175) Which one of the following Articles was defended by Dr. BR Ambedkar on the plea that it would be used as ‘a matter of last resort’? [CDS 2020 (I)]
+a) Article-352
+b) Article-359
+c) Article-356
+d) Article 368
+#QuestionEnd
+#AnswerStart
+Answer: c) Article-356
+#AnswerEnd
+
+#QuestionStart
+Q176) What is the ground on which the Supreme Court can refuse relief under Article-32? [CSDS 2020 (I)]
+a) The aggrieved person can get remedy from another court.
+b) That disputed facts have to be investigated.
+c) That no Fundamental Right has been infringed.
+d) That the petitioner has not asked for the proper writ applicable to his/her case.
+#QuestionEnd
+#AnswerStart
+Answer: c) That no Fundamental Right has been infringed.
+#AnswerEnd
+
+#QuestionStart
+Q177) Which one of the following Articles of the Constitution of India lays down that no citizen can be denied the use of wells, tanks and bathing ghats maintained out of state funds? [CDS Pre. 2019 I]
+a) Article-14
+b) Article-15
+c) Article-16
+d) Article-17
+#QuestionEnd
+#AnswerStart
+Answer: b) Article-15
+#AnswerEnd
+
+#QuestionStart
+Q178) Which among the following statements about the power to change the basic structure of the Constitution of India is/are correct?
+1. It falls outside the scope of the amending powers of the Parliament.
+2. It can be exercised by the people through representative in a Constituent Assembly.
+3. It falls within the constituent powers of the Parliament.
+Select the correct answer using the codes given below: [CDS Pre.2019 I]
+a) 1 and 3
+b) 1 and 2
+c) Only 1
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q179) Which of the following statements regarding Article-21 of the Constitution of India is/are correct?
+1. Article 21 is violated when the undertrial prisoners are detained under judicial custody for an indefinite period.
+2. Right to life is one of the basic human rights and not even the State has the authority to violate that right,
+3. Under Article-21, the right of a woman to make reproductive choices is not a dimension of personal liberty
+Select the correct answer using the codes given below [CDS Pre. 2017 I]
+a) 1, 2 and 3
+b) 1 and 2
+c) 1 and 3
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q180) Which one of the following statements regarding freedom to manage religious affairs as per the Constitution of India is not correct? [CDS Pre. 2017 I]
+a) Every religious denomination shall have the right to manage its own affairs in matters of religion except some minor communities.
+b) Every religion or any section there of shall have the right to own and acquire movable and immovable property.
+c) Every religious community has the right to establish and maintain institutions for religious and charitable purposes
+d) Every community has the right to manage its own affairs in matters of religion.
+#QuestionEnd
+#AnswerStart
+Answer: a) Every religious denomination shall have the right to manage its own affairs in matters of religion except some minor communities.
+#AnswerEnd
+
+#QuestionStart
+Q181) Which one of the following statements relating to cultural and educational rights in India is not correct? [CDS Pre. 2017 I]
+a) Every section of the citizens has the FRS right to conserve its language, script or culture.
+b) No citizen shall be denied admission into any educational Institution maintained by the State or receiving aid out of State funds on grounds of religion, race or language.
+c) The State shall, in granting aid educational institutions, discriminate against any educational institution on the ground that it is under the management of a majority community
+d) All minorities whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.
+#QuestionEnd
+#AnswerStart
+Answer: c) The State shall, in granting aid educational institutions, discriminate against any educational institution on the ground that it is under the management of a majority community
+#AnswerEnd
+
+#QuestionStart
+Q182) The Fundamental Rights guaranteed in the Constitution of India can be suspended only by [CDS Pre.2017 II]
+a) a proclamation of National Emergency
+b) an Act passed by the Parliament
+c) an amendment to the Constitution of India
+d) the judicial decisions of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: a) a proclamation of National Emergency
+#AnswerEnd
+
+#QuestionStart
+Q183) Article 21 of the Constitution of India includes
+1. Rights of transgenders
+2. Rights of craniopagus twin
+3. Rights of mentally retarded women to bear a child
+Select the correct answer using the codes given [CDS Pre.2017 II]
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q184) Which one of the following statements relating to protection against arrest and detention of individuals under article 22 is not correct? [ CDS Pre.2017 I]
+a) No person who is arrested shall be detained in custody without being informed of the grounds for such arrest
+b) No person shall be denied the right to consult, and be defended by, a legal practitioner of his/her choice.
+c) Every person, who is arrested and detained in custody, shall be produced before the nearest Magistrate within a period of one week of such arrest.
+d) The right to protection against arrest is not available to a person in jail pursuant to a judicial order.
+#QuestionEnd
+#AnswerStart
+Answer: c) Every person, who is arrested and detained in custody, shall be produced before the nearest Magistrate within a period of one week of such arrest.
+#AnswerEnd
+
+#QuestionStart
+Q185) The right to form association and unions is aright [CDS 2016 II]
+a) guaranteed to everybody
+b) to freedom guaranteed to citizens only
+c) to equality before law
+d) to life and personal liberty
+#QuestionEnd
+#AnswerStart
+Answer: b) to freedom guaranteed to citizens only
+#AnswerEnd
+
+#QuestionStart
+Q186) The basic structure doctrine with regard to the Constitution of India relates to
+1. the power of judicial review.
+2. the judgement in Kesavananda Bharati case (1973).
+3. the constraints on Article-368 of the Constitution of India.
+4. the judgement in Golaknath case (1967).
+Which of the statement(s) given above is/are correct? [CDS Pre.2016 II]
+a) 1,2 and 3
+b) 2 and 4
+c) 1 and 3
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q187) Which one of the following statements is not correct with respect to protection of individuals being tried for offences? [CDS Pre.2016 II]
+a) A confession can never be used as evidence against the accused
+b) The accused must have violated an existing law
+c) An accused cannot be tried and punished for the same offence again
+d) The quantum of punishment must be provided in law as it existed on the date of commission of an offence
+#QuestionEnd
+#AnswerStart
+Answer: a) A confession can never be used as evidence against the accused
+#AnswerEnd
+
+#QuestionStart
+Q188) Which of the following Fundamental Right(s) is/are available to non-citizens?
+1. Equality Before Law
+2. Right Against Discrimination
+3. Equality of Opportunity
+4. Protection of Life and Personal Liberty
+Select the correct answer using the codes given below : [CDS Pre. 2015 II]
+a) Only 1
+b) 1 and 4
+c) 1,2 and 4
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q189) Which of the following is not true of Article-32 of the Indian Constitution? [CDS 2015 II ]
+a) It gives the Supreme Court and the High Courts the power to issue writs for the enforcement of Fundamental Rights.
+b) It is included in Part III of the Indian Constitution and is therefore itself a Fundamental Right
+c) Dr Ambedkar called it the ‘very soul of the Indian Constitution.
+d) An aggrieved person has no right to complain under Article-32 where a Fundamental Right has not been violated.
+#QuestionEnd
+#AnswerStart
+Answer: a) It gives the Supreme Court and the High Courts the power to issue writs for the enforcement of Fundamental Rights.
+#AnswerEnd
+
+#QuestionStart
+Q190) Freedom of conscience under the Constitution of India is subject to
+1. public order, morality and health.
+2. a law providing for social welfare and reform.
+3. opening Hindu religious institutions of a public character to all Hindus.
+4. defamation or incitement to an offence.
+Which of the statement(s) given above is/are correct? [CDS Pre.2015 II]
+a) 1 and 2
+b) 1.2 and 3
+c) 3 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 1.2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q191) A writ of Habeas Corpus for the release of a person can be issued:
+1. where the arrest or detention has taken place in contravention of the procedure established by law.
+2. to secure the release of a person imprisoned on a criminal charge.
+3. where the arrest has taken place for contempt of court or the Parliament
+Select the correct answer using the codes given below: [CDS Pre.2015 II]
+a) 1, 2 and 3
+b) 2 and 3
+c) Only 1
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q192) Which one of the following categories of persons is not treated at par so far as the availability of Fundamental Rights is concerned? [CDS Pre.2015 I]
+a) Members of the armed forces
+b) Members of the forces charged with the responsibility of maintenance of public order
+c) Members of the forces employed in connection with the communications systems set-up in the country
+d) Members of the forces employed in connection with the communication systems set-up for maintenance of public order.
+#QuestionEnd
+#AnswerStart
+Answer: a) Members of the armed forces
+#AnswerEnd

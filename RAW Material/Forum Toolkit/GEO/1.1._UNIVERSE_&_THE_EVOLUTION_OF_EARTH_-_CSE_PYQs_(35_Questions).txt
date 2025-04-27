@@ -1,0 +1,426 @@
+#QuestionStart
+Q1) In the northern hemisphere, the longest day of the year normally occurs in the : [UPSC CSE Pre 2022]
+a) First half of the month of June
+b) Second half of the month of June
+c) First half of the month of July
+d) Second half of the month of July
+#QuestionEnd
+#AnswerStart
+Answer: b) Second half of the month of June
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements :
+1. High clouds primarily reflect solar radiation and cool the surface of the Earth.
+2. Low clouds have a high absorption of infrared radiation emanating from the Earth’s surface and thus cause warming effect.
+Which of the statements given above is/are correct ? [UPSC CSE Pre 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q3) What is the difference between asteroids and comets? [UPSC CSE 2011]
+1. Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.
+2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.
+3. Comets show a perceptible glowing tail, while asteroids do not.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) In order of their distance from the Sun, which of the following planets lie between Mars and Uranus? [UPSC CSE 2009]
+a) Earth and Jupiter
+b) Jupiter and Saturn
+c) Saturn and Earth
+d) Saturn and Neptune
+#QuestionEnd
+#AnswerStart
+Answer: b) Jupiter and Saturn
+#AnswerEnd
+
+#QuestionStart
+Q5) Who of the following scientists proved that the stars with mass less than 1.44 times the mass of the Sun end up as White Dwarfs when they die? [UPSC CSE 2009]
+a) Edwin Hubble
+b) S Chandrashekhar
+c) Stephen Hawking
+d) Steven Weinberg
+#QuestionEnd
+#AnswerStart
+Answer: b) S Chandrashekhar
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: [UPSC CSE Pre 2008]
+1. The albedo of an object determines its visual brightness when viewed with reflected light.
+2. The albedo of Mercury is much greater than the albedo of the Earth.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements: Assertion (A): To orbit around the Sun, the planet Mars takes less time than the time taken by the Earth.
+Reason (R): The diameter of the planet Mars is less than that of Earth.
+Code: [UPSC CSE Pre 2006]
+a) Both (A) and (R) are individually true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements: Assertion (A): Existence of human life on Venus is highly improbable.
+Reason (R): Venus has an extremely high level of carbon dioxide in its atmosphere.
+Code: [UPSC CSE Pre 2005]
+a) Both A and R are true, and R is the correct explanation of A
+b) Both A and R are true, and R is not the correct explanation of A
+c) A is true, but R is false
+d) A is false, but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both A and R are true, and R is the correct explanation of A
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: [UPSC CSE Pre 2005]
+1. The axis of the earth’s magnetic field is inclined at 23 and a half degrees to the geographic axis of the earth.
+2. The earth’s magnetic pole in the northern hemisphere is located on a peninsula in northern Canada.
+3. Earth’s magnetic equator passes through Thumba in South India.
+Which of the Statements given above is/are correct?
+a) 1, 2 and 3
+b) 2 and 3 only
+c) 2 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements:
+Assertion (A): The same face of the Moon always faces the Earth.
+Reason (R): The Moon completes one rotation around its own axis in 23 and half days which is about the same time that it takes to orbit the Earth.
+Code: [UPSC CSE Pre 2005]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: [UPSC CSE Pre 2003]
+Assertion (A): Moving from one place on earth to another place of high latitude, the weight of an object decreases.
+Reason (R): Earth is not a perfect sphere.
+Choose the correct answer by using the code given below.
+a) (A) and (R) both are true, and (R) explains (A) properly.
+b) (A) and (R) both are true, but (R) does not explain (A) properly.
+c) (A) is true, but (R) is wrong.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q12) Among the following which planet takes maximum time for one revolution around the Sun? [UPSC CSE Pre 2003]
+a) Earth
+b) Jupiter
+c) Mars
+d) Venus
+#QuestionEnd
+#AnswerStart
+Answer: b) Jupiter
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following statements is correct with reference to our solar system? [UPSC CSE Pre 2002]
+a) The Earth is the densest of all the planets in our solar system.
+b) The predominant element in the composition of Earth is silicon.
+c) The Sun contains 75 percent of the mass of the solar system.
+d) The diameter of the Sun is 190 times that of the Earth.
+#QuestionEnd
+#AnswerStart
+Answer: a) The Earth is the densest of all the planets in our solar system.
+#AnswerEnd
+
+#QuestionStart
+Q14) Sun’s halo is produced by the refraction of light in- [UPSC CSE Pre 2002]
+a) Water vapour in stratus clouds
+b) Ice crystals in Cirro-Cumulus clouds
+c) Ice crystals in Cirrus clouds
+d) Dust particles in Stratus clouds
+#QuestionEnd
+#AnswerStart
+Answer: c) Ice crystals in Cirrus clouds
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following statements:
+Assertion (A): Artificial satellites are always launched from the earth in the eastward direction.
+Reason (R): The earth rotates from west to east and so the Satellite attains the escape velocity.
+Code: [UPSC CSE Pre 2002]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following planets is the farthest planet of the solar system? [UPSC CSE Pre 2002]
+a) Neptune
+b) Pluto
+c) Sometimes Neptune and sometimes Pluto
+d) Mars
+#QuestionEnd
+#AnswerStart
+Answer: c) Sometimes Neptune and sometimes Pluto
+#AnswerEnd
+
+#QuestionStart
+Q17) If the stars are seen to rise perpendicular to the horizon by an observer, he is located on the- [UPSC CSE Pre 2001]
+a) Equator
+b) Tropic of Cancer
+c) South Pole
+d) North Pole
+#QuestionEnd
+#AnswerStart
+Answer: a) Equator
+#AnswerEnd
+
+#QuestionStart
+Q18) A ship is moving from the eastern side of Aleutian Islands towards Dutch Harbour. It crosses 1800 meridian on 1st January 1999 at 23:30 hr. What time and date will be recorded by the captain of the ship in his diary after one-hour journey from the point of crossing of the meridian? [UPSC CSE Pre 1999]
+a) January 1, 00:30 hr
+b) January 2, 00:30 hr
+c) January 3, 00:30 hr
+d) January 4, 00:30 hr
+#QuestionEnd
+#AnswerStart
+Answer: b) January 2, 00:30 hr
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the following scholars has suggested that the Earth originated from the gases and the dust particles? [UPSC CSE Pre 1999]
+a) James Jeans
+b) H. Alfven
+c) E Hoyal
+d) O. Schmidt
+#QuestionEnd
+#AnswerStart
+Answer: d) O. Schmidt
+#AnswerEnd
+
+#QuestionStart
+Q20) One Astronomical unit is average distance- [UPSC CSE Pre 1998]
+a) Between Earth and Sun
+b) Between Earth and Moon
+c) Between Jupiter and Sun
+d) Pluto and Sun
+#QuestionEnd
+#AnswerStart
+Answer: a) Between Earth and Sun
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements regarding asteroids: [UPSC CSE Pre 1998]
+1. Asteroids are rocky debris of varying sizes orbiting the sun.
+2. Most of the asteroids are small but some have diameters as large as 1000 km.
+3. The orbit of asteroids lies between the orbits of Jupiter and Saturn.
+Of these statements:
+a) 1, 2 and 3 are correct
+b) 2 and 3 are correct
+c) 1 and 2 are correct
+d) 1 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 are correct
+#AnswerEnd
+
+#QuestionStart
+Q22) Which one of the following Stars is nearest to the Earth? [UPSC CSE Pre 1997]
+a) Polaris
+b) Alpha Centauri
+c) Sun
+d) Sirius
+#QuestionEnd
+#AnswerStart
+Answer: c) Sun
+#AnswerEnd
+
+#QuestionStart
+Q23) Which one of the following conditions is most relevant for the presence of life on Mars? [UPSC CSE Pre 1997]
+a) Atmospheric composition
+b) Thermal conditions
+c) Occurrence of ice cap and frozen water
+d) Occurrence of ozone
+#QuestionEnd
+#AnswerStart
+Answer: c) Occurrence of ice cap and frozen water
+#AnswerEnd
+
+#QuestionStart
+Q24) The group of small pieces of rock revolving round the sun between the orbits of Mars and Jupiter are called: [UPSC CSE Pre 1997]
+a) Meteors
+b) Comets
+c) Metroid
+d) Asteroids
+#QuestionEnd
+#AnswerStart
+Answer: d) Asteroids
+#AnswerEnd
+
+#QuestionStart
+Q25) The tail of comet is directed away from the Sun, because- [UPSC CSE Pre 1997]
+a) As the Comet rotates around the Sun, the lighter mass of Comet is pushed away due to centrifugal force alone.
+b) As the Comet rotates, the lighter mass of the Comet is attracted by some stars situated in the direction of its tail.
+c) The radiation emitted by the Sun exerts a radial pressure on the comet throwing its tail away from the Sun.
+d) The Tail of the Comet always exists in the same orientation.
+#QuestionEnd
+#AnswerStart
+Answer: c) The radiation emitted by the Sun exerts a radial pressure on the comet throwing its tail away from the Sun.
+#AnswerEnd
+
+#QuestionStart
+Q26) If the earth’s direction of rotation is reversed, what should be the 1ST when it is noon at the International Date Line? [UPSC CSE Pre 1997]
+a) 06.30 hrs
+b) 05.30 hrs
+c) 18.30 hrs
+d) 17.30 hrs
+#QuestionEnd
+#AnswerStart
+Answer: c) 18.30 hrs
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following Statements: [UPSC CSE Pre 1996]
+A person in spacecraft situated at the mid of earth and Sun will see that-
+1. Sky is black
+2. Stars do not twinkle
+3. The temperature outside the spacecraft is more than that of the earth surface
+Which of the following is true?
+a) Only 3
+b) Only 1 and 2
+c) Only 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q28) Meteor is a- [UPSC CSE Pre 1995]
+a) Fast moving star.
+b) A piece of matter which has entered the earth’s atmosphere from outer space.
+c) Part of the stellar system.
+d) Tailless Comet.
+#QuestionEnd
+#AnswerStart
+Answer: b) A piece of matter which has entered the earth’s atmosphere from outer space.
+#AnswerEnd
+
+#QuestionStart
+Q29) The standard time of the following countries is ahead of or behind Greenwich Mean Time depending on whether they are East or West of the longitude passing through Greenwich.
+1. Cuba
+2. Greece
+3. Iraq
+4. Costa Rica
+5. Japan
+Which one of the following sequential orders gives the correct arrangement of the countries according to their standard time from ahead to behind GMT? [UPSC CSE Pre 1995]
+a) 5, 3, 2, 1, 4
+b) 2, 4, 1, 3, 5
+c) 4, 1, 3, 2, 5
+d) 3, 5, 4, 1, 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 5, 3, 2, 1, 4
+#AnswerEnd
+
+#QuestionStart
+Q30) The colour of the star indicates its- [UPSC CSE Pre 1994]
+a) Distance from Sun
+b) Lighting or glow
+c) Distance from earth
+d) Temperature
+#QuestionEnd
+#AnswerStart
+Answer: d) Temperature
+#AnswerEnd
+
+#QuestionStart
+Q31) A plane starts flying from 30° northern latitude and 50° eastern longitude and lands at the opposite end of the earth, where will it land- [UPSC CSE Pre 1994]
+a) 30° Northern latitude, 50° Western longitude
+b) 30° Southern latitude, 50° Western longitude
+c) 50° Northern latitude, 30° Western longitude
+d) 30° Southern latitude, 130° Western longitude
+#QuestionEnd
+#AnswerStart
+Answer: d) 30° Southern latitude, 130° Western longitude
+#AnswerEnd
+
+#QuestionStart
+Q32) When it is noon along 82° 30’ E longitude along what degree of longitude it will be 6.30 a.m.? [UPSC CSE Pre 1994]
+a) At 165° East
+b) At 67° 30’West
+c) At 0° East or West
+d) At 82° 30’ West
+#QuestionEnd
+#AnswerStart
+Answer: c) At 0° East or West
+#AnswerEnd
+
+#QuestionStart
+Q33) Which one of the following is not an Astronomical object? [UPSC CSE Pre 1993]
+a) Pulsar
+b) Brittle star
+c) Black hole
+d) Quasar
+#QuestionEnd
+#AnswerStart
+Answer: b) Brittle star
+#AnswerEnd
+
+#QuestionStart
+Q34) The Solar Eclipse achieves totality only in limited geographical regions because- [UPSC CSE Pre 1993]
+a) The size of the shadow of the Moon on the Earth is small as compared to the cross section of the Earth.
+b) The Earth is not a smooth flat surface but has elevations and depressions.
+c) The trajectories of the Earth around the Sun and the Moon around the Earth are not perfect circles.
+d) Sun rays can reach most of the peripheral regions of the shadow of the Moon due to atmospheric refraction.
+#QuestionEnd
+#AnswerStart
+Answer: a) The size of the shadow of the Moon on the Earth is small as compared to the cross section of the Earth.
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider one special point at the Earth’s surface (e.g., City Delhi) its temperature at noon (e.g., 12 o’clock) will be higher in Summer in comparison to winter because- [UPSC CSE Pre 1993]
+a) Earth is much closer to Sun in Summer in comparison to winter.
+b) In winter the Sun rays falling on the Earth bends more towards the Earth’s surface in comparison to the summer.
+c) The vaporization of water happens only in winter due to environmental precipitation
+d) In winters, the Earth’s axis becomes more inclined towards the Sun.
+#QuestionEnd
+#AnswerStart
+Answer: d) In winters, the Earth’s axis becomes more inclined towards the Sun. (⭐ Please Re-check)
+#AnswerEnd

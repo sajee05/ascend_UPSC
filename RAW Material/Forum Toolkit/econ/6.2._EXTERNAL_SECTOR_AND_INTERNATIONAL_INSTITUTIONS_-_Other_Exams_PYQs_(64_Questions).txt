@@ -1,0 +1,776 @@
+#QuestionStart
+Q57) Consider the following statements about farm subsidies in India:
+1. The input subsidies in India, such as on fertilizers fall under indirect farm subsidies.
+2. Reduction in power and irrigation bills offered to farmers fall under direct farm subsidies.
+3. The agricultural provisions of the World Trade Organization (WTO) though allow direct farm subsidies, prohibit indirect subsidies.
+4. All subsidies provided by the governments in India fall under the indirect subsidies.
+Select the correct statements using the code given below: [U.P.P.C.S. (Pre) 2022]
+a) 1 and 4
+b) 3 and 4
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q58) The Travel and Tourism Competitive Index (TTCI) is released by: [UP. P.C.S. (Pre) 2020]
+a) World Bank
+b) International Monetary Fund
+c) World Economic Forum
+d) United Nations Development Programme
+#QuestionEnd
+#AnswerStart
+Answer: c) World Economic Forum
+#AnswerEnd
+
+#QuestionStart
+Q59) What is the correct chronological sequence of the following Indian Acts?
+1. MRTPAct
+2. Industries (Development and Regulation) Act
+3. FERA
+4. Minimum Wages Act
+Select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2017]
+a) 2, 3, 4, 1
+b) 2, 3, 1, 4
+c) 4, 2, 1, 3
+d) 4, 2, 3, 1
+#QuestionEnd
+#AnswerStart
+Answer: c) 4, 2, 1, 3
+#AnswerEnd
+
+#QuestionStart
+Q60) The main security guard of international trade is: [U.P.P.C.S. (Mains) 2017]
+a) WTO
+b) World Bank
+c) IMF
+d) IFC
+#QuestionEnd
+#AnswerStart
+Answer: a) WTO
+#AnswerEnd
+
+#QuestionStart
+Q61) Which among the following is not a parameter for estimating Global Gender Gap Index of World Economic Forum? [U.P.P.C.S. (Pre) 2017]
+a) Health
+b) Education
+c) Economy
+d) Leisure
+#QuestionEnd
+#AnswerStart
+Answer: d) Leisure
+#AnswerEnd
+
+#QuestionStart
+Q62) Which of the following is included in Balance of Trade? [UP. P.C.S. (Mains) 2016]
+a) Goods
+b) Services
+c) Transfer of payment
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Goods
+#AnswerEnd
+
+#QuestionStart
+Q63) Match the following:
+| List-I | List-II |
+|---|---|
+| A. WTO. | 1. To provide finance to correct equilibrium in balance of payments |
+| B. I.M.F. | 2. Generally to forbid the use of quantitative restrictions in trade |
+| C. SAARC | 3. Sanction of Soft Loans |
+| D. I.D.A. | 4. To promote cooperation among South Asian countries |
+Select the correct answer using the code given below: [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) A1, B2, C3, D4
+b) A2, B3, C4, D1
+c) A2, B1, C4, D3
+d) A3, B2, C4, D1
+#QuestionEnd
+#AnswerStart
+Answer: c) A2, B1, C4, D3
+#AnswerEnd
+
+#QuestionStart
+Q64) ‘Green Index’ has been developed by: [U.P.P.C.S. (Pre) 2014]
+a) United Nations Environment Programme
+b) International Monetary Fund (IMF)
+c) World Bank
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) World Bank
+#AnswerEnd
+
+#QuestionStart
+Q65) Duty-Draw-Back implies: U.P.P.C.S. (Mains) 2011]
+a) Excess rate of import duty
+b) Refund of import duty to exporters
+c) Obstacles in the matter of exports
+d) Refund of export duty to exporters
+#QuestionEnd
+#AnswerStart
+Answer: b) Refund of import duty to exporters
+#AnswerEnd
+
+#QuestionStart
+Q66) Which of the following countries is not a member of Asia-Pacific Trade Agreement (APTA)? [U.P.P.C.S. (Mains) 2010]
+a) Lao DPR
+b) China
+c) Myanmar
+d) India
+#QuestionEnd
+#AnswerStart
+Answer: c) Myanmar
+#AnswerEnd
+
+#QuestionStart
+Q67) A ‘Letter of Credit’ is produced by: [U.P.P.C.S. (Mains) 2009]
+a) An exporter
+b) An importer
+c) Both by exporter and importer
+d) Shipping company
+#QuestionEnd
+#AnswerStart
+Answer: b) An importer
+#AnswerEnd
+
+#QuestionStart
+Q68) A group formed by India, China, Brazil and other developing countries for future negotiations at World Trade Organization is known as: [U.P.P.C.S. (Mains) 2008]
+a) G-77
+b) G-22
+c) G-55
+d) G-ll
+#QuestionEnd
+#AnswerStart
+Answer: b) G-22
+#AnswerEnd
+
+#QuestionStart
+Q69) Invisible Export means export of: [U.P.P.C.S. (Mains) 2007]
+a) Services
+b) Prohibited goods
+c) Unrecorded goods
+d) Goods through smuggling
+#QuestionEnd
+#AnswerStart
+Answer: a) Services
+#AnswerEnd
+
+#QuestionStart
+Q70) Free trade zone is one where: [U.P.P.C.S. (Mains) 2007]
+a) trade is done without restriction
+b) any entrepreneur is free to start industries
+c) infrastructural facilities are provided free to entrepreneurs by the government
+d) industries are free from excise duties and produce for exports
+#QuestionEnd
+#AnswerStart
+Answer: d) industries are free from excise duties and produce for exports
+#AnswerEnd
+
+#QuestionStart
+Q71) The Government of India has replaced FERA by: [U.P.P.C.S. (Mains) 2007]
+a) The Competition Act
+b) The FEMA
+c) The Monopolies Act
+d) The MRTP Act
+#QuestionEnd
+#AnswerStart
+Answer: b) The FEMA
+#AnswerEnd
+
+#QuestionStart
+Q72) Nathu La was reopened in 2006 for transborder trade between India and: [U.P.P.C.S. (Mains) 2006]
+a) Bangladesh
+b) China
+c) Bhutan
+d) Nepal
+#QuestionEnd
+#AnswerStart
+Answer: b) China
+#AnswerEnd
+
+#QuestionStart
+Q73) Entrepot trade means: [U.P.P.C.S. (Mains) 2002]
+a) Export trade
+b) Import trade
+c) Coastal trade
+d) Goods imported for export
+#QuestionEnd
+#AnswerStart
+Answer: d) Goods imported for export
+#AnswerEnd
+
+#QuestionStart
+Q74) What is not true about the World Trade Organization (WTO)? [U.P.P.C.S. (Mains) 2002]
+a) It was established on 1 January 1995
+b) It encourages trade among member countries
+c) It originated from the Uruguay Round of multilateral trade agreements
+d) It has brought liberalization in trade
+#QuestionEnd
+#AnswerStart
+Answer: d) It has brought liberalization in trade
+#AnswerEnd
+
+#QuestionStart
+Q75) Which among the following organizations are responsible for channelizing export and import of India:
+1. Mineral and Metal Trading Corporation
+2. Exim Bank
+3. State Trading Corporation
+4. Food Corporation of India
+Select the correct answer from the code given below:
+Code: [U.P.P.C.S. (Pre) 1999]
+a) 1, 2, 3 and 4
+b) 2 and 4
+c) 1 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q76) Super‘301’is related to: [U.P.P.C.S. (Pre) 1993]
+a) International Treaty
+b) Atomic explosion
+c) Human rights
+d) Blockade in free trade
+#QuestionEnd
+#AnswerStart
+Answer: d) Blockade in free trade
+#AnswerEnd
+
+#QuestionStart
+Q77) Loan and grants, for the improvement of infrastructure of States in India have been given by which one of the following institutions? [U.P. Lower Sub. (Pre) 2002]
+a) World Bank
+b) World Economic Forum
+c) International Monetary Fund
+d) World Trade Organisation
+#QuestionEnd
+#AnswerStart
+Answer: a) World Bank
+#AnswerEnd
+
+#QuestionStart
+Q78) Consider the following statements:
+Statement (A): Under the WTO obligations, it is not necessary to reduce subsidy in India’s agriculture sector.
+Reason. (R): India is a developing country.
+With reference to the above which of the following is the correct answer? [U.P. Lower Sub. (Pre) 19981
+a) A and R both are true and (R) is the correct explanation of (A).
+b) A and R both are true but (R) is not the correct explanation of (A).
+c) A is true, but R is false.
+d) A is false, but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) A is false, but R is true.
+#AnswerEnd
+
+#QuestionStart
+Q79) Which of the following is not associated with NAFTA? [64th B.P.S.C. (Pre) 2018]
+a) Great Britain
+b) Canada
+c) Mexico
+d) USA
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Great Britain
+#AnswerEnd
+
+#QuestionStart
+Q80) Globalization does not include: [63rd B.P.S.C. (Pre) 2017]
+a) reduction in import duties
+b) abolition of import licensing
+c) free flow of FDI
+d) disinvestment of Public Sector Equity
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) disinvestment of Public Sector Equity
+#AnswerEnd
+
+#QuestionStart
+Q81) Which sector in India attracts the highest FDI equity flow? [63rd B.P.S.C. (Pre) 2017] (⭐ Please Re-check)
+a) Construction Sector
+b) Energy Sector
+c) Automobile Sector
+d) Service Sector
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) None of the above / More than one of the above
+#AnswerEnd
+
+#QuestionStart
+Q82) Which one of the following measures is not likely to aid in improving India’s Balance of Payment position? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Promotion of Import Substitution Policy
+b) Devaluation of rupee
+c) Imposition of higher tariff on imports
+d) Levying of higher duties on exports
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Levying of higher duties on exports
+#AnswerEnd
+
+#QuestionStart
+Q83) In which of the following years was the trade balance favourable to India: [56th to 59th B.P.S.C. (Pre) 2015]
+a) 1970-71 and 1974-75
+b) 1972-73 and 1976-77
+c) 1972-73 and 1975-76
+d) 1971-72 and 1976-77
+#QuestionEnd
+#AnswerStart
+Answer: b) 1972-73 and 1976-77
+#AnswerEnd
+
+#QuestionStart
+Q84) Consider the following agreements:
+1. ISLFTA (India-Sri Lanka Free Trade Agreement)
+2. SAFTA (South Asian Free Trade Area)
+3. CECA (Comprehensive Economic Cooperation Agreement between India and Singapore)
+4. SAPTA (South Asian Preferential Trade Arrangement)
+Which of the following is the correct chronological order of the above agreements? [56th to 59th B.P.S.C. (Pre) 2015]
+a) 1 - 3 - 2 - 4
+b) 4 - 1 - 2 - 3
+c) 2 - 1 - 4 - 3
+d) 1 - 2 - 3 - 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 4 - 1 - 2 - 3
+#AnswerEnd
+
+#QuestionStart
+Q85) Foreign currency which has a tendency of quick migration is called: [56th to 59th B. P. S.C. (Pre) 2015]
+a) Hot currency
+b) Gold currency
+c) Soft currency
+d) Hard currency
+#QuestionEnd
+#AnswerStart
+Answer: a) Hot currency
+#AnswerEnd
+
+#QuestionStart
+Q86) G-15 is: [48th to 52nd B.P.S.C. (Pre) 2008]
+a) An organization of developed countries of the World
+b) An organization of developed countries of Europe
+c) An organization of developing countries of Asia
+d) An organization of developing countries of the World
+#QuestionEnd
+#AnswerStart
+Answer: d) An organization of developing countries of the World
+#AnswerEnd
+
+#QuestionStart
+Q87) The flow of foreign exchange in which of the following forms can be said to be most volatile in the Indian context? [M.P.P.C.S. (Pre) 1998]
+a) Export Earnings
+b) NRI deposits
+c) Foreign Portfolio Investment
+d) Both (b) and (c) above
+#QuestionEnd
+#AnswerStart
+Answer: d) Both (b) and (c) above
+#AnswerEnd
+
+#QuestionStart
+Q88) If the rupees per US Dollar exchange rate changes from Rs. 60 to Rs. 65 in a time period by the market forces, it implies: [Jharkhand P.C.S. (Pre) 2021]
+a) Devaluation of Rupee
+b) Appreciation of Rupee
+c) No change in exchange rate
+d) Depreciation of Rupee
+#QuestionEnd
+#AnswerStart
+Answer: d) Depreciation of Rupee
+#AnswerEnd
+
+#QuestionStart
+Q89) Which of the following is not an example of foreign direct investment? [Uttrakhand P.C.S (pre) 2021]
+a) The acquisition of existing textile mills overseas
+b) The creation of a wholly owned business firm overseas
+c) The purchase of bonds or stocks issued by Pharma Company overseas
+d) The Construction of a new steel plant overseas.
+#QuestionEnd
+#AnswerStart
+Answer: c) The purchase of bonds or stocks issued by Pharma Company overseas
+#AnswerEnd
+
+#QuestionStart
+Q90) The rise in value of one currency relative to another is: [Uttarakhand P.C.S. (Pre) 2021]
+a) a weakening of a currency
+b) a depreciation of a currency
+c) an appreciation of a currency
+d) a debasement of a currency
+#QuestionEnd
+#AnswerStart
+Answer: c) an appreciation of a currency
+#AnswerEnd
+
+#QuestionStart
+Q91) The World Trade Organisation (WTO) is sometimes criticised for all of the following reasons except that: [Uttrakhand P.C.S. (Pre) 2021]
+a) it has no way to solve trade disputes among member nations.
+b) it is puppet of multinational corporations.
+c) it reduces the sovereignity of member countries.
+d) if favours free trade over the quality of products.
+#QuestionEnd
+#AnswerStart
+Answer: a) it has no way to solve trade disputes among member nations.
+#AnswerEnd
+
+#QuestionStart
+Q92) The main emphasis of OPEC (Organization of the Petroleum Exporting Countries) is on which of the following? [Uttarakhand P.C.S. (Pre) 2016]
+a) the production of petroleum
+b) control over prices of petroleum
+c) Both (a) and (b)
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (a) and (b)
+#AnswerEnd
+
+#QuestionStart
+Q93) Which one of the following World Bank affiliates, provides assistance for poverty alleviation to the world’s poorest countries? [Uttarakhand P.C.S. (Pre) 2012]
+a) International Finance Corporation
+b) International Development Association
+c) Multilateral Investment Guarantee Agency
+d) International Monetary Fund
+#QuestionEnd
+#AnswerStart
+Answer: b) International Development Association
+#AnswerEnd
+
+#QuestionStart
+Q94) The Bretton Woods Conference led to the establishment of:
+1. I.M.F.
+2. I.B.R.D.
+3. United Nations
+4. W.T.O.
+Select the correct answer using codes given below: [Uttarakhand P.C.S. (Pre) 2012]
+a) 1 and 2
+b) 1, 2 and 3
+c) 1 and 3
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q95) The central issue in Doha Round of talks of World Trade Organization was: [Uttarakhand P.C.S. (Pre) 2010]
+a) Issues related to agriculture
+b) Export from developing countries
+c) Trade in services
+d) Intellectual Property Rights related to trade
+#QuestionEnd
+#AnswerStart
+Answer: a) Issues related to agriculture
+#AnswerEnd
+
+#QuestionStart
+Q96) Which of the following countries have formed NAM A-11? [Chhattisgarh P.C.S. (Pre) 2020]
+a) Developed countries
+b) Developing countries
+c) Least developed countries
+d) Developing and least developed countries
+#QuestionEnd
+#AnswerStart
+Answer: b) Developing countries
+#AnswerEnd
+
+#QuestionStart
+Q97) The term ‘paper gold’ refers to: [Chhattisgarh P.C.S. (Pre) 2020]
+a) Special Drawing Rights (SDR) of IMF
+b) Special Accommodation Rights
+c) Currencies pegged to gold
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Special Drawing Rights (SDR) of IMF
+#AnswerEnd
+
+#QuestionStart
+Q98) Digital Economy Report, 2019 issued first time by whom? [Chhattisgarh P.C.S. (Pre) 2019]
+a) World Bank
+b) NITI Aayog
+c) World Economic Forum
+d) UNCTAD
+#QuestionEnd
+#AnswerStart
+Answer: d) UNCTAD
+#AnswerEnd
+
+#QuestionStart
+Q99) Read the following statements about Supply Chain Resilience Initiative (SCRI):
+1. In the context of international trade, supply chain resilience is an approach that helps a country to ensure uninterrupted supply of import in an unexpected situation.
+2. This is an initiative of five countries, India is one of them.
+Choose the correct code: [R.A.S./R.T.S. (Pre) 2021]
+a) Only 1 is true
+b) Only 2 is true
+c) Neither 1 nor 2 is true
+d) Both 1 and 2 are true
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1 is true
+#AnswerEnd
+
+#QuestionStart
+Q100) The headquarters of European Economic Community is at: [R.A.S./R.T.S. (Pre) 1992]
+a) Brussels
+b) Copenhagen
+c) Bonn
+d) Paris
+#QuestionEnd
+#AnswerStart
+Answer: a) Brussels
+#AnswerEnd
+
+#QuestionStart
+Q101) Which of the following statements about ‘Nairobi Package’ adopted in the Tenth Ministerial Conference of WTO is/are correct?
+1. No safeguard mechanism for developing country members.
+2. Preferential rules of origin for least developed countries.
+3. Public stockholding for food security purposes.
+Select correct answer using the code given below, [CAPE 2016]
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q102) Which of the following is not a Characteristic of globalization? [CAPE 2014]
+a) Fragility of national barriers for the flow of capital and goods
+b) Rapid flow of information, capital and goods
+c) Networking of cultural, economic and political relations
+d) Global infrastructure of formal and informal institutional arrangements
+#QuestionEnd
+#AnswerStart
+Answer: d) Global infrastructure of formal and informal institutional arrangements
+#AnswerEnd
+
+#QuestionStart
+Q103) Which of the following would be one considered as Foreign Direct Investment? [CDS 22 (I)]
+a) A foreign company buying shares in stock exchanges in India
+b) A foreign country pension fund investing in Indian stock markets
+c) A foreign merchant banker buying shares from Indian stock markets
+d) A foreign entity setting up an educational institution in India
+#QuestionEnd
+#AnswerStart
+Answer: d) A foreign entity setting up an educational institution in India
+#AnswerEnd
+
+#QuestionStart
+Q104) The SWIFT (The Society for Worldwide Interbank Financial Telecommunication) frequently mentioned in news, is essentially a [CDS 22 (II)]
+a) Global financial intelligence agency
+b) Global terror finance detection system
+c) Global money transfer system
+d) Global stock-market information sharing system
+#QuestionEnd
+#AnswerStart
+Answer: c) Global money transfer system
+#AnswerEnd
+
+#QuestionStart
+Q105) Which one of the following countries is not a founding member of the New Development Bank? [CDS 2019 (II)]
+a) Brazil
+b) Canada
+c) Russia
+d) India
+#QuestionEnd
+#AnswerStart
+Answer: b) Canada
+#AnswerEnd
+
+#QuestionStart
+Q106) Exchange rates state the value of one currency in terms of other currencies. Which one of the following statements with respect to the exchange rate of currency is correct? [CDS 2021]
+a) Floating exchange rates are rates in which the Governments interfere by buying or selling their currencies.
+b) Fixed exchange rates are rates set by Government decisions and maintained by Government actions.
+c) Under the Bretton Woods System, the exchange rates are floated in terms of rise or fall in price of gold.
+d) Under the classical gold standard, the exchange rates are fixed in terms of the price of the dollar.
+#QuestionEnd
+#AnswerStart
+Answer: b) Fixed exchange rates are rates set by Government decisions and maintained by Government actions.
+#AnswerEnd
+
+#QuestionStart
+Q107) ‘Sub-prime crisis⁵ is a term associated with which one of the following events? [CDS 2019 (I)]
+a) Economic recession
+b) Political instability
+c) Structural adjustment programmes
+d) Growing social inequality
+#QuestionEnd
+#AnswerStart
+Answer: a) Economic recession
+#AnswerEnd
+
+#QuestionStart
+Q108) Devaluation of currency will be more beneficial if prices of [CDS 2017 (II)]
+a) domestic goods remain constant
+b) exports become cheaper to importers
+c) imports remain constant
+d) exports rise proportionality
+#QuestionEnd
+#AnswerStart
+Answer: b) exports become cheaper to importers
+#AnswerEnd
+
+#QuestionStart
+Q109) The headquarters of ‘Economic and Social Commission for Asia and the Pacific’ is located at [CDS 2016 (II)]
+a) Singapore
+b) Manila
+c) Bangkok
+d) Flong Kong
+#QuestionEnd
+#AnswerStart
+Answer: c) Bangkok
+#AnswerEnd
+
+#QuestionStart
+Q110) BRICS leaders signed the agreement to establish a New Development Bank at the summit held in [CDS 2016 (I)]
+a) New Delhi, India (2012)
+b) Durban, South Africa (2013)
+c) Fortaleza, Brazil (2014)
+d) Ula, Russia (2015)
+#QuestionEnd
+#AnswerStart
+Answer: c) Fortaleza, Brazil (2014)
+#AnswerEnd
+
+#QuestionStart
+Q111) Under flexible exchange rate system, the exchange rate is determined [CDS 2015 (II)]
+a) predominantly by market mechanism
+b) by the Central Bank
+c) as a weighted index of a group of currencies
+d) by the World Trade Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) predominantly by market mechanism
+#AnswerEnd
+
+#QuestionStart
+Q112) Which of the following statements is not true? [CDS 2015 (I)]
+a) The General Agreement on Tariffs and Trade (GATT) had regulated global trade since, 1947
+b) GATT was replaced by the World Trade Organisation (WTO) in 1995
+c) The Most Favoured Nation principle under GATT provided that preferential trading agreements reached with one country should be extended to other countries
+d) The WTO has been able to cover in its agreement the agriculture and textile sectors which are the principal concerns for the least developed countries (LDCs).
+#QuestionEnd
+#AnswerStart
+Answer: d) The WTO has been able to cover in its agreement the agriculture and textile sectors which are the principal concerns for the least developed countries (LDCs).
+#AnswerEnd
+
+#QuestionStart
+Q113) Which of the following is not true for South Asian Free Trade Area (SAFTA)? [CDS 2015 (I)]
+a) It is a step towards a South Asian customs union and common market
+b) The agreement came into effect in 2006
+c) The SAFTA is a trade liberalisation regime
+d) The SAFTA agreement takes precedence over any other agreement a member country may have with States outside SAFTA
+#QuestionEnd
+#AnswerStart
+Answer: d) The SAFTA agreement takes precedence over any other agreement a member country may have with States outside SAFTA
+#AnswerEnd
+
+#QuestionStart
+Q114) Which among the following is not an aspect of Gender Mainstreaming (GM)? [CDS 2015 (I)]
+a) GM was established as a global strategy for achieving gender equality by the United Nations
+b) It was adopted in 1995 in the Beijing Platform of Action
+c) It requires a review of government policy in all sectors for eliminating gender disparity
+d) GM was followed by the Convention on the Elimination of all forms of Discrimination Against Women (CEDAW)
+#QuestionEnd
+#AnswerStart
+Answer: d) GM was followed by the Convention on the Elimination of all forms of Discrimination Against Women (CEDAW)
+#AnswerEnd
+
+#QuestionStart
+Q115) Consider the following statements relating to the World Trade Organisation (WTO):
+1. The WTO deals with the global rules of trade between nations.
+2. The goal of the WTO is to help producers of goods and services, exporters and importers conduct their business.
+3. The WTO, which is a successor body of the General Agreement on Tariffs and Trade, came into being following the Uruguay Round of Negotiations.
+4. The WTO distances itself in framing of rules on trade in intellectual property rights.
+Which of the statements given above are correct? [CDS 2014 (II)]
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 2 and 4
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q116) Consider the following statements relating to the World Bank:
+1. The World Bank was established in 1946, which is headquartered in New York.
+2. The World Bank Group has set for itself the goal to end extreme poverty from the world by 2030.
+3. The World Bank is a vital source of financial and technical assistance to developing countries around the world. It is not a bank in the ordinary sense but a unique partnership to reduce poverty and support development.
+4. The World Bank Group comprises five institutions managed by their member countries in order to promote shared prosperity by fostering the income growth of the bottom 40% for every country.
+Which of the statements given above are correct? [CDS 2014 (II)]
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q117) Which of the following statements about International Monetary Fund (IMF) are correct?
+1. The IMF is a United Nations specialised agency.
+2. The IMF was founded at the Bretton Woods Conference in 1944 to secure international monetary cooperation.
+3. The objective of the IMF is to stabilise currency exchange rates and to expand international liquidity (access to hard currencies).
+Select the correct answer using the codes given below: [CDS 2014 (H)]
+a) 1,2 and 3
+b) 2 and 3
+c) 1 and 2
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q118) Which of the following theories form the basis of international trade?
+1. Absolute cost difference
+2. Comparative cost difference
+3. Opportunity cost
+Select the correct answer using the codes given below. [CDS 2014 (II)]
+a) Only 1
+b) 1. and 2
+c) Only 2
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q119) Which of the following statements about Marrakesh Treaty is/are correct?
+1. The main goal of the treaty is to create a set of mandatory limitations and exceptions for the benefits of the blind and visually impaired.
+2. India has ratified the treaty.
+3. The treaty has come into force from July, 2014.
+Select the correct answer using the codes given below: [CDS 2014 (II)]
+a) Only 1
+b) 1 and 2
+c) Only 2
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q120) Consider the following statements on Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC)
+1. BIMSTEC has seven members Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand.
+2. BIMSTEC provides a link between South Asia and South-East Asia by way of economic cooperation and linkages in identified areas of cooperation.
+3. BIMSTEC was re hristened as BISTEC in the year 2014.
+Which of the statement(s) given above is/are correct? [CDS 2014 (II)]
+a) Only 1
+b) Only 2
+c) 1. and 2
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1. and 2
+#AnswerEnd

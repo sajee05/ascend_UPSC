@@ -1,0 +1,761 @@
+#QuestionStart
+Q25) With reference to the National Calendar, which of the statements is/are correct?
+1. The National Calendar of India is based on Vikram Era.
+2. The National Calendar is adopted from January 26, 1950.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following is correct about the languages mentioned in the Constitution of India? [U.P.P.C.S. (Mains) 2016]
+a) State can compel the linguistic minorities to choose their mother tongue as a medium of instruction in primary schools.
+b) Angika’ is now included in the 8th Schedule of the Constitution.
+c) Hindi is National language of India.
+d) Bodo is a recognized language in the 8th Schedule of the Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: d) Bodo is a recognized language in the 8th Schedule of the Constitution.
+#AnswerEnd
+
+#QuestionStart
+Q27) Study the following statements and select the correct answer from the code given below:
+Assertion (A): India has a written Constitution.
+Reason (R): Growth of strong regional parties is an indicator of regional aspirations.
+Code: [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q28) The Indian Foreign Policy of NonAlignment was initiated by- [U.P.P.C.S. (Mains) 2014]
+a) Jawaharlal Nehru
+b) Mrs. Indira Gandhi
+c) Lal Bahadur Shastri
+d) Morarji Desai
+#QuestionEnd
+#AnswerStart
+Answer: a) Jawaharlal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q29) Which of the following is a reason of emergence of regionalism in India? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Uneven development
+b) Fear of losing cultural identity
+c) Political prominence
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the following statements: [U.P.P.C.S. (Mains) 2004]
+1. The design of the National Flag was adopted by the Constituent Assembly of India on 22ⁿd July, 1947
+2. The wheel in National Flag has 21 spokes
+3. The ratio of the width of the National Flag to its length is 3 : 4
+Which of the above statements is/are correct?
+a) 1 and 2
+b) 1 only
+c) 2 and 3
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q31) Which is the correct chronological order of the following?
+1. Shimla Agreement
+2. Indo-Soviet Treaty
+3. Farakka Accord
+4. Tashkent Agreement
+Select the correct answer using the code given below: [U.P.P.C.S. (Mains) 2002]
+a) 4, 2, 1, 3
+b) 3, 2, 1, 4
+c) 2, 3, 4, 1
+d) 1,2, 3, 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 4, 2, 1, 3
+#AnswerEnd
+
+#QuestionStart
+Q32) Meaning of Extra-Constitutional Right- [U.P. P.C.S. (Pre) 2002]
+a) That power which violates the limits of Constitution.
+b) A person who has got exceptional powers under the Constitution.
+c) That power which is not in accordance with the provisions of the Constitution.
+d) That official who has all the powers of the State during the proclamation of emergency.
+#QuestionEnd
+#AnswerStart
+Answer: c) That power which is not in accordance with the provisions of the Constitution.
+#AnswerEnd
+
+#QuestionStart
+Q33) Under Article 344 of Indian Constitution, the first ‘Official Language Commission’ was established- [U.P.P.C.S. (Pre) 1998]
+a) In 1950 under the Chairmanship of K.M. Munshi
+b) In 1955 Under the Chairmanship of B.G. Kher
+c) In 1960 under the Chairmanship of M.C. Chagala
+d) In 1965 under the Chairmanship of Humayun Kabir
+#QuestionEnd
+#AnswerStart
+Answer: b) In 1955 Under the Chairmanship of B.G. Kher
+#AnswerEnd
+
+#QuestionStart
+Q34) Inner-Party Democracy stands for- [U.P. Lower Sub. (Spl) (Pre) 2004]
+a) A Government formed by several parties with a common programme
+b) Party closest to the party or parties forming the Government
+c) Periodical elections within the party to elect the office bearers of the party
+d) Secrets of Government are shared by parties in power
+#QuestionEnd
+#AnswerStart
+Answer: c) Periodical elections within the party to elect the office bearers of the party
+#AnswerEnd
+
+#QuestionStart
+Q35) The Press Council of India is a- [U.P. Lower Sub. (Spl) (Pre) 2004]
+a) Statutory Body
+b) Statutory Quasi-judicial Body
+c) Judicial Body
+d) Advisory Body
+#QuestionEnd
+#AnswerStart
+Answer: b) Statutory Quasi-judicial Body
+#AnswerEnd
+
+#QuestionStart
+Q36) When the Hindi version of National Anthem Jana-Gana-Mana was adopted by the Constitution Assembly of India? [Uttarakhand PCS (Pre) 2021]
+a) 26 November, 1949
+b) 24 January, 1950
+c) 17 November, 1947
+d) 9 December, 1946
+#QuestionEnd
+#AnswerStart
+Answer: b) 24 January, 1950
+#AnswerEnd
+
+#QuestionStart
+Q37) Who was the Prime Minister of India when the basic principle of India’s Nuclear Doctrine of ‘No First Use’ was adopted? [Uttarakhand P.C.S. (Pre) 2021]
+a) I.K. Gujaral
+b) Atal Bihari Vajpayee
+c) Manmohan Singh
+d) Indira Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: b) Atal Bihari Vajpayee
+#AnswerEnd
+
+#QuestionStart
+Q38) Who recognizes the political parties in India? [Uttarakhand P.C.S. (Pre) 2016]
+a) President of India
+b) Election Commission of India
+c) Ministry of Law and Justice
+d) Speaker of Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: b) Election Commission of India
+#AnswerEnd
+
+#QuestionStart
+Q39) What does the wheel on the ‘Indian National Flag’ symbolize? [Uttarakhand P.C.S. (Pre) 2005]
+a) Freedom
+b) Justice
+c) Equality
+d) Brotherhood
+#QuestionEnd
+#AnswerStart
+Answer: b) Justice
+#AnswerEnd
+
+#QuestionStart
+Q40) With reference to the UN peacekeeping operations, consider the following statements:
+1. UN peacekeepers can use force only for their self-defense.
+2. Peacekeeping operations can only be withdrawn by a resolution by the UN Security Council.
+3. USA is the largest budget contributor to the UN peacekeeping operations.
+Which of the statements given above is/are correct? [67th B.P.S.C. (Pre) (Re-Exam), 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q41) Who was among the following to receive the first Bharat Ratna? [66th B.P.S.C. (Pre) (Re-Exam), 2020]
+a) Rajendra Prasad
+b) Jawahar Lal Nehru
+c) Lal Bahadur Shastri
+d) S. Radhakrishnan
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) S. Radhakrishnan
+#AnswerEnd
+
+#QuestionStart
+Q42) Consider the following statements about Electoral Bond Scheme 2018:
+(A) The aim of this scheme is to bring about transparency in the funding process of political parties.
+(B) Only the political parties recognized by the Election Commission which secured not less than two percent of the votes polled in the last general election to the House of People or the Legislative Assembly of the State shall be eligible to receive the Electoral Bonds.
+(C) Electoral Bonds shall be valid for fifteen calendar days from the date of issue.
+(D) The Electoral Bond deposited by an eligible political party in its account shall be credited on the same day.
+Which of the above statements are correct? [R.A.S./R.T.S. (Pre) 2018]
+a) Only (A) and (B)
+b) (A), (B), (C) and (D)
+c) Only (B), (C) and (D)
+d) Only (A), (C) and (D)
+#QuestionEnd
+#AnswerStart
+Answer: b) (A), (B), (C) and (D) ( ⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q43) Who has authored ‘Gandhian Constitution for Free India’? [R.A.S./R.T.S. (Pre) 2018]
+a) Aruna Asaf Ali
+b) Achyut Patwardhan
+c) Shriman Narayan Agarwal
+d) Humayun Kabir
+#QuestionEnd
+#AnswerStart
+Answer: c) Shriman Narayan Agarwal
+#AnswerEnd
+
+#QuestionStart
+Q44) The powers of District Collector as a District Magistrate are:
+(A) To maintain law and order
+(B) Control over police
+(C) To check passports of foreigners
+(D) To control land revenue
+Select the correct answer using the code given below: [R.A.S./R.T.S. (Pre) 2016]
+a) A, C, D
+b) A, B, D
+c) A, B, C
+d) B, C, D
+#QuestionEnd
+#AnswerStart
+Answer: c) A, B, C
+#AnswerEnd
+
+#QuestionStart
+Q45) What is true about gallantry award ‘Param Vir Chakra’? [Chhattisgarh P.C.S. (Pre) 2021]
+a) This award can be given to an individual only once in his/her lifetime
+b) On its medal, four replicas of‘Indra Vajra’ are embossed
+c) Till 31st December 2021, 25 people have been awarded with Param Vir Chakra
+d) This award was instituted on 26th January 1952
+#QuestionEnd
+#AnswerStart
+Answer: b) On its medal, four replicas of‘Indra Vajra’ are embossed
+#AnswerEnd
+
+#QuestionStart
+Q46) What is not true in reference to Chief of Defence Staff? [Chhattisgarh P.C.S. (Pre) 2021]
+a) Maximum age limit for this post is 65 years
+b) He is permanent Chairman of Chief of Staff Committee
+c) He is Chairman of Defence Acquisition Council
+d) He is member of Defence Planning Committee
+#QuestionEnd
+#AnswerStart
+Answer: c) He is Chairman of Defence Acquisition Council
+#AnswerEnd
+
+#QuestionStart
+Q47) Which of the following may be considered a Pressure Group? [M.P.P.C.S. (Pre) 2017]
+a) Members of the Lok Sabha
+b) Members of a Panchayat
+c) Members of the Cabinet
+d) Members of a Trade Union
+#QuestionEnd
+#AnswerStart
+Answer: d) Members of a Trade Union
+#AnswerEnd
+
+#QuestionStart
+Q48) Scientific socialism is attributed to [M.P.P.C.S. (Pre) 2016]
+a) Karl Marx
+b) Adam Smith
+c) J. M. Keynes
+d) Thomas Mann
+#QuestionEnd
+#AnswerStart
+Answer: a) Karl Marx
+#AnswerEnd
+
+#QuestionStart
+Q49) The state emblem was adopted by Govt, of India on [M.P.P.C.S. (Pre) 1999]
+a) 15th August, 1948
+b) 2ⁿd October, 1947
+c) 26th January, 1948
+d) 26th January, 1950
+#QuestionEnd
+#AnswerStart
+Answer: d) 26th January, 1950
+#AnswerEnd
+
+#QuestionStart
+Q50) A complete or formal rendition of national anthem takes- [Jharkhand P.C.S. (Pre) 2011]
+a) 50 seconds
+b) 45 seconds
+c) 52 seconds
+d) 55 seconds
+#QuestionEnd
+#AnswerStart
+Answer: c) 52 seconds
+#AnswerEnd
+
+#QuestionStart
+Q51) Which one of the following statements about ‘personal liberty’ is not correct? [CAPF 2021]
+a) State does not have the authority to deprive any person within the Territory of India of his/her personal liberty without any rational basis.
+b) Basis of depriving a person of his/her personal liberty must be in accordance with procedures established by law.
+c) Personal liberty can be secured by the judicial writ of Habeas Corpus.
+d) The majority view of the Supreme Court in A.K. Gopalan v/s. State of Madras case invented ‘due process of law’.
+#QuestionEnd
+#AnswerStart
+Answer: d) The majority view of the Supreme Court in A.K. Gopalan v/s. State of Madras case invented ‘due process of law’.
+#AnswerEnd
+
+#QuestionStart
+Q52) Which one of the following is NOT true of socialism? [CAPF 2020]
+a) Socialists analyse society in terms of income distribution
+b) It emphasises the centrality of community
+c) Socialists believe that class divisions in society are a fact and therefore irremediable
+d) It believes that material benefits should be distributed on the basis of need
+#QuestionEnd
+#AnswerStart
+Answer: c) Socialists believe that class divisions in society are a fact and therefore irremediable
+#AnswerEnd
+
+#QuestionStart
+Q53) Match List I with List II and select the correct answer using the codes given below the lists:
+| List I (Concept) | List II (Explanation/Aim) |
+|---|---|
+| A. Pluralist democracy | 1. Power is always exercised by a privileged few |
+| B. People’s democracy | 2. Highest and harmonious development of indi- vidual capabilities |
+| C. Developmental democracy | 3. Social equality through common ownership of wealth |
+| D. Elitist democracy | 4. Capacity of groups to ensure Governmental responsiveness |
+Codes [CAPF 2020]
+a) A4 B3 C2 D1
+b) A4 B2 C3 D1
+c) A1 B2 C3 D4
+d) A1 B3 C2 D4
+#QuestionEnd
+#AnswerStart
+Answer: a) A4 B3 C2 D1
+#AnswerEnd
+
+#QuestionStart
+Q54) The idea of social justice requires that
+1. equal treatment be supplemented with principle of proportionality.
+2. due and equal consideration is given to all individuals
+3. equality of treatment be transcended to recognise special needs
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1, 2 and 3
+b) 1 and 3 only
+c) 2 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q55) Which one among the following is NOT the central feature of Polyarchy? [CAPF 2019]
+a) Government is in the hands of elected officials
+b) Right to run for office is restricted
+c) Practically, all adults have the right to vote
+d) There is free expression and a right to criticise and protest
+#QuestionEnd
+#AnswerStart
+Answer: b) Right to run for office is restricted
+#AnswerEnd
+
+#QuestionStart
+Q56) Which of the following are the defining features of liberal democracy?
+1. Constitutional government based on formal, usually legal, rules
+2. Guarantees of civil liberties and individual rights
+3. It invests political authority with potentially unlimited power
+Select the correct answer using the code given below: [CAPF 2019]
+a) 1 and 3 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q57) Who among the following leaders is associated with the concept of party less democracy? [CAPF 2017]
+a) JB Kripalani
+b) Jay Prakash Narayan
+c) Acharya Narendra Dev
+d) Vinoba Bhave
+#QuestionEnd
+#AnswerStart
+Answer: b) Jay Prakash Narayan
+#AnswerEnd
+
+#QuestionStart
+Q58) Which of the following most suitably captures the meaning and essence of ‘globalization”?
+1. It is about conducting external relations between two or more States of the world.
+2. It is a process of coming together of world-wide social relations bypassing territories.
+3. It refers to thinking trans territorially about global risks affecting people.
+4. It has a wishful vision of suprastate governance
+Select the correct answer using the code given below: [CAPF 2017]
+a) 1 and 4 only
+b) 2 and 3 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q59) Which one of the following is not a source of political legitimacy? [CAPF 2016]
+a) Consent
+b) Rational prudence
+c) Political will of the ruler
+d) Public reason
+#QuestionEnd
+#AnswerStart
+Answer: c) Political will of the ruler
+#AnswerEnd
+
+#QuestionStart
+Q60) Parochial political culture is generally found in [CAPF 2016]
+a) developing societies
+b) societies having multi-party system
+c) developed societies
+d) monarchical societies
+#QuestionEnd
+#AnswerStart
+Answer: a) developing societies
+#AnswerEnd
+
+#QuestionStart
+Q61) What is meant by Social Equality? [CAPF 2016]
+a) Each person should perform the functions according to his status
+b) No effort should be made to modify the existing social system
+c) No person should be made to suffer a position of relative inferiority in relation to other men due to caste, race or religion
+d) Special effort to improve the lot of weaker section
+#QuestionEnd
+#AnswerStart
+Answer: c) No person should be made to suffer a position of relative inferiority in relation to other men due to caste, race or religion
+#AnswerEnd
+
+#QuestionStart
+Q62) Which one of the following statements regarding Human Rights is not correct? [CAPF 2016]
+a) Human Rights derive their inspiration from moral principles
+b) They are applicable subject to their adoption by States
+c) The International Covenant on Civil and Political Rights was adopted by the . United Nations in the year 1948
+d) The universalism of Human challenged by the cultural relativists Rights is challenged by the cultural relativists
+#QuestionEnd
+#AnswerStart
+Answer: c) The International Covenant on Civil and Political Rights was adopted by the . United Nations in the year 1948
+#AnswerEnd
+
+#QuestionStart
+Q63) Who among the following divided governments into ‘Republican’, ‘Monarchical’ and ‘Despotic”? [CAPF 2016]
+a) Aristotle
+b) Hobbes
+c) Montesquieu
+d) St. Augustine
+#QuestionEnd
+#AnswerStart
+Answer: c) Montesquieu
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following is under the control of the Ministry of Defence? [CAPF 2015]
+a) Indo-Tibetan Border Police
+b) Rashtriya Rifles
+c) National Security Guard
+d) Sashastra Seema Bal
+#QuestionEnd
+#AnswerStart
+Answer: b) Rashtriya Rifles
+#AnswerEnd
+
+#QuestionStart
+Q65) The provision under Article 350A of the Constitution of India relates to the [CAPF 2015]
+a) right of any section of the citizens to preserve its distinct language and culture
+b) right of the Sikh community to carrying and wearing of kirpans
+c) provision for providing facilities for instruction in mother-tongue at primary stage
+d) freedomofMinority-managededucational institutions from discrimination in the matter of receiving aid from the State
+#QuestionEnd
+#AnswerStart
+Answer: c) provision for providing facilities for instruction in mother-tongue at primary stage
+#AnswerEnd
+
+#QuestionStart
+Q66) Which of the following committees submitted reports on Electoral reforms?
+1. Dinesh Goswami Committee
+2. Tarkunde Committee
+3. Indrajit Gupta Committee
+4. Balwantrai Mehta Committee
+Select the correct answer using the code given below. [CAPF 2015]
+a) 1, 3 and 4
+b) 2 and 4
+c) 1,2 and 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q67) Under Section 10(26) of the Income Tax Act, which of the following category of people are exempted from income tax? [CAPF 2015]
+a) Members of the Scheduled Tribes in Chhattisgarh
+b) Members of the Scheduled Tribes and the Scheduled Castes in Special Category States
+c) Members from the Economically Backward Class in All States
+d) Members of the Scheduled Tribes in States of Manipur, Mizoram, Nagaland and Tripura
+#QuestionEnd
+#AnswerStart
+Answer: d) Members of the Scheduled Tribes in States of Manipur, Mizoram, Nagaland and Tripura
+#AnswerEnd
+
+#QuestionStart
+Q68) The major cleavage in global human rights discourse has been between: [CAPF 2014]
+a) religious rights vs. civil rights
+b) national rights vs. minority rights
+c) gender rights vs. equal rights
+d) civil and political rights vs. economic, social and cultural rights
+#QuestionEnd
+#AnswerStart
+Answer: d) civil and political rights vs. economic, social and cultural rights
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one among among the following Departments/Authorities is not under the Ministry of Home Affairs? [CDS 2023 (I) ]
+a) The Department of States
+b) The Department of Language Official
+c) The National Authority Chemical Weapons Convention
+d) The Department of Jammu, Kashmir and Ladakh Affairs
+#QuestionEnd
+#AnswerStart
+Answer: c) The National Authority Chemical Weapons Convention
+#AnswerEnd
+
+#QuestionStart
+Q70) National Disaster Management Authority is headed by [CDS 2021(1)]
+a) the Prime Minister
+b) the Home Minister
+c) the President
+d) the Health Minister
+#QuestionEnd
+#AnswerStart
+Answer: a) the Prime Minister
+#AnswerEnd
+
+#QuestionStart
+Q71) ‘Legal Positivism’ theory was developed by [CDS 2021(1)]
+a) T.H. Green
+b) Thomas Hobbes
+c) John Austin
+d) Patrick Devlin
+#QuestionEnd
+#AnswerStart
+Answer: c) John Austin
+#AnswerEnd
+
+#QuestionStart
+Q72) Who among the following said that Democracy means a system of‘Government by Consent’? [CDS 2021(1)]
+a) John Locke
+b) J.S. Mill
+c) Jeremy Bentham
+d) J.J. Rousseau
+#QuestionEnd
+#AnswerStart
+Answer: a) John Locke
+#AnswerEnd
+
+#QuestionStart
+Q73) Which one of the following is not an Indian form of Socialism? - [CDS 2022 (I)]
+a) Democratic Socialism
+b) Radical Socialism
+c) Communitarian Socialism
+d) Nehruvian Socialism
+#QuestionEnd
+#AnswerStart
+Answer: b) Radical Socialism
+#AnswerEnd
+
+#QuestionStart
+Q74) Which one of the following statements is not correct about “Totalitarianism”? [CDS 2021 (II)]
+a) It is not akin to autocracy and authoritarianism.
+b) It usurps political freedom of the individuals, but it doesn’t usurp personal freedoms.
+c) It implies abolition of civil society.
+d) It is usually identified with a one-party state.
+#QuestionEnd
+#AnswerStart
+Answer: b) It usurps political freedom of the individuals, but it doesn’t usurp personal freedoms.
+#AnswerEnd
+
+#QuestionStart
+Q75) Which of the following statements is not correct regarding the Members of Parliament Local Area Development Scheme (MPLADS)? - [CDS 2020 (I)]
+a) Members of the Parliament (MPs) sanction, execute and complete works under the scheme
+b) Nominated Members of the Parliament can recommend works for implementation anywhere in the country
+c) The scheme is fully funded by the Government of India
+d) The annual entitlement per MP is 5 crores
+#QuestionEnd
+#AnswerStart
+Answer: a) Members of the Parliament (MPs) sanction, execute and complete works under the scheme
+#AnswerEnd
+
+#QuestionStart
+Q76) Overseas Indians can exercise franchise in an election to the Lok Sabha under which of the following conditions?
+1. They must be citizens of India.
+2. Their names must figure in the electoral roll.
+3. They must be present in India to vote.
+Select the correct answer using the codes given below. [CDS 2020 (I)]
+a) 1,2 and 3
+b) 2 and 3
+c) I and 2
+d) Only 1
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q77) The First Delimitation Commission in India was constituted in- [CDS 2020 (I)]
+a) 1949
+b) 1950
+c) 1951
+d) 1952
+#QuestionEnd
+#AnswerStart
+Answer: d) 1952
+#AnswerEnd
+
+#QuestionStart
+Q78) The formulation of policy in respect to Intellectual Property Rights (IPRs) is the responsibility of- [CDS 2020 (I)]
+a) the Ministry of Law and Justice
+b) the Department of Science and Technology
+c) the Department for Promotion of Industry and Internal Trade
+d) the Ministry of Human Resource Development
+#QuestionEnd
+#AnswerStart
+Answer: c) the Department for Promotion of Industry and Internal Trade
+#AnswerEnd
+
+#QuestionStart
+Q79) Which one of the following is not a classified category of political parties as outlined by the Election Commission of India? [CDS 2020 (II)]
+a) National Parties
+b) State Recognised Parties
+c) Regional Parties
+d) Registered Unrecognised Parties
+#QuestionEnd
+#AnswerStart
+Answer: c) Regional Parties
+#AnswerEnd
+
+#QuestionStart
+Q80) The ‘Gujral Doctrine’ relates to which one of the following Issues? [CDS Pre. 2019 I]
+a) Build trust between India and its neighbours
+b) initiate dialogue with all insurgent groups in India
+c) Undertake development activities in Naxal-dominated areas
+d) Ensure food security
+#QuestionEnd
+#AnswerStart
+Answer: a) Build trust between India and its neighbours
+#AnswerEnd
+
+#QuestionStart
+Q81) The Prime Minister’s National Relief Fund is operated by which one of the following bodies? [CDS Pre. 2019 1]
+a) The Prime Minister’s Office (PMO)
+b) The National Disaster Management Authority
+c) The Ministry of Finance
+d) The National Development Council (NDC)
+#QuestionEnd
+#AnswerStart
+Answer: a) The Prime Minister’s Office (PMO)
+#AnswerEnd
+
+#QuestionStart
+Q82) Which one of the following is not an International Human Rights Treaty? [CDS Pre.2018 I]
+a) International Covenant on Civil and Political Rights
+b) Convention of the Elimination of All Forms of Discrimination against Women
+c) Convention on the Rights of Persons with Disabilities
+d) Declaration on the Right to Development
+#QuestionEnd
+#AnswerStart
+Answer: d) Declaration on the Right to Development
+#AnswerEnd
+
+#QuestionStart
+Q83) According to the Election Commission of India, in order to be recognised as a ‘National Party’, a political party must be as a recognised as a state party in how many states? [CDS Pre.2018 I]
+a) At least two states
+b) At least three states
+c) At least four states
+d) At least five states
+#QuestionEnd
+#AnswerStart
+Answer: c) At least four states
+#AnswerEnd
+
+#QuestionStart
+Q84) Which one of the following intellectual property rights is protected without making any registration? [CDS Pre. 2017(1)]
+a) Copyright
+b) Patent
+c) Industrial design
+d) Trademark
+#QuestionEnd
+#AnswerStart
+Answer: a) Copyright
+#AnswerEnd
+
+#QuestionStart
+Q85) Which among the following Acts were repealed by Article-395 of the Constitution of India?
+1. The Government of India Act. 1935
+2. The Indian Independence Act. 1947
+3. The Abolition of Privy Council Jurisdiction Act, 1949
+4. The Government of India Act. 1919
+Which of the statement(s) given above is/are correct? [CDS Pre. 2016 II]
+a) 1 and 2
+b) 1 and 3
+c) 1, 2 and 3
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q86) Which one of the following statements about electoral government in India is not correct? [CDS Pre.2015 II]
+a) The superintendence direction and control of elections are vested in the Election Commission of India
+b) There is one general electoral roll for every territorial constituency
+c) The Parliament has the power to make laws relating to the delimitation of constituencies
+d) The Supreme Court of India has the authority to scrutinise the validity of a law relating to delimitation of constituencies.
+#QuestionEnd
+#AnswerStart
+Answer: d) The Supreme Court of India has the authority to scrutinise the validity of a law relating to delimitation of constituencies.
+#AnswerEnd
+
+#QuestionStart
+Q87) Which of the following about the principles of Panchsheel are correct?
+1. These are a set of five principles governing relations between States.
+2. The assumption of Panchsheel was that newly independent States after decolonisation would be able to develop a new and more principled approach to international relations.
+3. The first formal codification in treaty form was done in an agreement between China and India.
+Select the correct answer using the codes given below: [CDS Pre.2014 II]
+a) 1 and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd

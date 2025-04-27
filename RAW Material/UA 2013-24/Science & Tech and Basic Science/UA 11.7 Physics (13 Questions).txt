@@ -1,0 +1,178 @@
+#QuestionStart
+Q1) Which one of the following is a reason why astronomical distances are measured in light-years? (2021)
+a) Distances among stellar bodies do not change
+b) Gravity of stellar bodies does not change.
+c) Light always travels in a straight line.
+d) Speed of light is always same.
+#QuestionEnd
+#AnswerStart
+Answer: d) Speed of light is always same.
+#AnswerEnd
+
+#QuestionStart
+Q2) In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following? (2021)
+1. Area of the hole in the lid
+2. Temperature of the flame
+3. Weight of the lid
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to street-lighting, how do sodium lamps differ from LED lamps? (2021)
+1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.
+2. As street-lights, sodium lamps have a longer lifespan than LED lamps.
+3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.
+Select the correct answer using the code given below.
+a) 3 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Ball bearings are used in bicycles, cars, etc. because (2013)
+a) The actual area of contact between the wheel and axle is increased
+b) The effective area of contact between the wheel and axle is increased
+c) The effective area of contact between the wheel and axle is reduced
+d) None of the statements is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) The effective area of contact between the wheel and axle is reduced
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following phenomena: (2013)
+1. Size of the sun at dusk
+2. Colour of the sun at dawn
+3. Moon being visible at dawn
+4. Twinkle of stars in the sky
+5. Polestar being visible in the sky
+Which of the above are optical illusions?
+a) 1, 2 and 3
+b) 3, 4 and 5
+c) 1, 2 and 4
+d) 2, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q6) Rainbow is produced when sunlight falls on drops of rain. (2013)
+Which of the following physical phenomena are responsible for this?
+1. Dispersion
+2. Refraction
+3. Internal reflection
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q7) The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct? (2013)
+a) Gravity is the strongest of the four
+b) Electromagnetism act only on particles with an electric charge
+c) Weak nuclear force causes radioactivity
+d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom
+#QuestionEnd
+#AnswerStart
+Answer: a) Gravity is the strongest of the four
+#AnswerEnd
+
+#QuestionStart
+Q8) What is the role of ultraviolet (UV) radiation in the water purification systems? (2012)
+1. It inactivates/kills the harmful microorganisms in water.
+2. It removes all the undesirable odours from the water.
+3. It quickens the sedimentation of solid particles, removes turbidity and improves the clarity of water.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 Only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: (2012)
+If there were no phenomenon of capillarity
+1. it would be difficult to use a kerosene lamp
+2. one would not be able to use a straw to consume a soft drink
+3. the blotting paper would paper would fail to function
+4. the big trees that we see around would not have grown on the earth
+Which of the following statements given above are correct?
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) An artificial satellite orbiting around the Earth does not fall down. This is so because the attraction of Earth (2011)
+a) does not exist at such a distance.
+b) is neutralised by the attraction of the moon.
+c) provides the necessary speed for its steady motion.
+d) provides the necessary acceleration for its motion.
+#QuestionEnd
+#AnswerStart
+Answer: d) provides the necessary acceleration for its motion.
+#AnswerEnd
+
+#QuestionStart
+Q11) The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason? (2011)
+a) Ice is a bad conductor of heat.
+b) Since the surface of the lake is at the same temperature as the air, no heat is lost.
+c) The density of water is maximum at 4°c.
+d) None of the statements (a), (b) and (c) given is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) The density of water is maximum at 4°c.
+#AnswerEnd
+
+#QuestionStart
+Q12) What is the difference between a CFL and a LED lamp? (2011)
+1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semiconductor material.
+2. The average lifespan of a CFL is much longer than that of a LED lamp.
+3. A CFL is less energy efficient as compared to an LED lamp.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) A layer in the Earth’s atmosphere called the ionosphere facilitates radio communication. Why? (2011)
+1. The presence of ozone causes the reflection of radio waves to earth.
+2. Radio waves have a very long wavelength.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd

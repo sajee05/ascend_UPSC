@@ -3,6 +3,9 @@ import { createContext, useContext, useState } from "react";
 interface UIState {
   settingsPanelOpen: boolean;
   headerTitle: string;
+  historyModalOpen: boolean; // Add state for history modal
+  wrongsModalOpen: boolean; // Add state for wrongs modal
+  notesModalOpen: boolean; // Add state for the centralized notes modal
 }
 
 interface UIStateContextType {
@@ -13,6 +16,9 @@ interface UIStateContextType {
 const defaultUIState: UIState = {
   settingsPanelOpen: false,
   headerTitle: "Ascend UPSC",
+  historyModalOpen: false, // Default to closed
+  wrongsModalOpen: false, // Default to closed
+  notesModalOpen: false, // Default to closed
 };
 
 const UIStateContext = createContext<UIStateContextType>({

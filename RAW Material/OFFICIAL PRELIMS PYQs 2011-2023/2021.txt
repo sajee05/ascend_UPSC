@@ -1,0 +1,1319 @@
+#QuestionStart
+Q1) Consider the following statements :
+(i) The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.
+(ii) Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.
+(iii) The Governor of the RBI draws his power from the RBI Act.
+Which of the above statements are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q2) With reference to casual workers employed in India, consider the following statements :
+(i) All casual workers are entitled for Employees Provident Fund coverage.
+(ii) All casual workers are entitled for regular working hours and overtime payment.
+(iii) The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.
+Which of the above statements are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q3) Which among the following steps is most likely to be taken at the time of an economic recession? - 2021
+a) Cut in tax rates accompanied by increase in interest rate
+b) Increase in expenditure on public projects
+c) Increase in tax rates accompanied by reduction of interest rate
+d) Reduction of expenditure on public projects
+#QuestionEnd
+#AnswerStart
+Answer: b) Increase in expenditure on public projects
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements :
+Other things remaining unchanged, market demand for a good might increase if
+(i) price of its substitute increases
+(ii) price of its complement increases
+(iii) the good is an inferior good and income of the consumers increases
+(iv) its price falls
+Which of the above statements are correct? - 2021
+a) 1 and 4 only
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 4 only
+#AnswerEnd
+#QuestionStart
+Q5) With reference to ‘Urban Cooperative Banks’ in India, consider the following statements :
+(i) They are supervised and regulated by local boards set up by the State Governments.
+(ii) They can issue equity shares and preference shares.
+(iii) They were brought under the purview of the Banking Regulation Act, 1949 through an Amendment in 1966.
+Which of the statements given above is/are correct? - 2021
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q6) Indian Government Bond Yields are influenced by which of the following?
+(i) Actions of the United States Federal Reserve
+(ii) Actions of the Reserve Bank of India
+(iii) Inflation and short-term interest rates
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q7) Consider the following :
+(i) Foreign currency convertible bonds
+(ii) Foreign institutional investment with certain conditions
+(iii) Global depository receipts
+(iv) Non-resident external deposits
+Which of the above can be included in Foreign Direct Investments? - 2021
+a) 1, 2 and 3
+b) 3 only
+c) 2 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following statements :
+The effect of devaluation of a currency is that it necessarily
+(i) improves the competitiveness of the domestic exports in the foreign markets
+(ii) increases the foreign value of domestic currency
+(iii) improves the trade balance
+Which of the above statements is/are correct? - 2021
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India? - 2021
+a) Diversion of resources to the purchase of real estate and investment in luxury housing
+b) Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.
+c) Large donations to political parties and growth of regionalism
+d) Loss of revenue to the State Exchequer due to tax evasion
+#QuestionEnd
+#AnswerStart
+Answer: d) Loss of revenue to the State Exchequer due to tax evasion
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following is likely to be the most inflationary in its effects? - 2021
+a) Repayment of public debt
+b) Borrowing from the public to finance a budget deficit
+c) Borrowing from the banks to finance a budget deficit
+d) Creation of new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creation of new money to finance a budget deficit
+#AnswerEnd
+#QuestionStart
+Q11) The money multiplier in an economy increases with which one of the following? - 2021
+a) Increase in the Cash Reserve Ratio in the banks
+b) Increase in the Statutory Liquidity Ratio in the banks
+c) Increase in the banking habit of the people
+d) Increase in the population of the country
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase in the banking habit of the people
+#AnswerEnd
+#QuestionStart
+Q12) With reference to Indian economy, demand-pull inflation can be caused/ increased by which of the following?
+(i) Expansionary policies
+(ii) Fiscal stimulus
+(iii) Inflation-indexing wages
+(iv) Higher purchasing power
+(v) Rising interest rates
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4 only
+b) 3, 4 and 5 only
+c) 1, 2, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q13) With reference to India, consider the following statements :
+(i) Retail investors through demat account can invest in ‘Treasury Bills’ and ‘Government of India Debt Bonds’ in primary market.
+(ii) The ‘Negotiated Dealing System-Order Matching’ is a government securities trading platform of the Reserve Bank of India.
+(iii) The ‘Central Depository Services Ltd.’ is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.
+Which of the statements given above is/are correct? - 2021
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+#QuestionStart
+Q14) With reference to ‘WaterCredit’, consider the following statements :
+(i) It puts microfinance tools to work in the water and sanitation sector.
+(ii) It is a global initiative launched under the aegis of the World Health Organization and the World Bank.
+(iii) It aims to enable the poor people to meet their water needs without depending on subsidies.
+Which of the statements given above are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q15) In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following?
+(i) Lending to trade and industry bodies when they fail to borrow from other sources
+(ii) Providing liquidity to the banks having a temporary crisis
+(iii) Lending to governments to finance budgetary deficits
+Select the correct answer using the code given below. - 2021
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q16) ‘R2 Code of Practices’ constitutes a tool available for promoting the adoption of - 2021
+a) environmentally responsible practices in electronics recycling industry
+b) ecological management of ‘Wetlands of International Importance’ under the Ramsar Convention
+c) sustainable practices in the cultivation of agricultural crops in degraded lands
+d) ‘Environmental Impact Assessment’ in the exploitation of natural resources
+#QuestionEnd
+#AnswerStart
+Answer: a) environmentally responsible practices in electronics recycling industry
+#AnswerEnd
+#QuestionStart
+Q17) What is blue carbon? - 2021
+a) Carbon captured by oceans and coastal ecosystems
+b) Carbon sequestered in forest biomass and agricultural soils
+c) Carbon contained in petroleum and natural gas
+d) Carbon present in atmosphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Carbon captured by oceans and coastal ecosystems
+#AnswerEnd
+#QuestionStart
+Q18) In the nature, which of the following is/are most likely to be found surviving on a surface without soil?
+(i) Fern
+(ii) Lichen
+(iii) Moss
+(iv) Mushroom
+Select the correct answer using the code given below. - 2021
+a) 1 and 4 only
+b) 2 only
+c) 2 and 3
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following is used in preparing a natural mosquito repellent? - 2021
+a) Congress grass
+b) Elephant grass
+c) Lemongrass
+d) Nut grass
+#QuestionEnd
+#AnswerStart
+Answer: c) Lemongrass
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following kinds of organisms :
+(i) Copepods
+(ii) Cyanobacteria
+(iii) Diatoms
+(iv) Foraminifera
+Which of the above are primary producers in the food chains of oceans? - 2021
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+#QuestionStart
+Q21) Consider the following animals :
+(i) Hedgehog
+(ii) Marmot
+(iii) Pangolin
+To reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts? - 2021
+a) 1 and 2
+b) 2 only
+c) 3 only
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q22) With reference to the ‘New York Declaration on Forests’, which of the following statements are correct?
+(i) It was first endorsed at the United Nations Climate Summit in 2014.
+(ii) It endorses a global timeline to end the loss of forests.
+(iii) It is a legally binding international declaration.
+(iv) It is endorsed by governments, big companies and indigenous communities.
+(v) India was one of the signatories at its inception.
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4
+b) 1, 3 and 5
+c) 3 and 4
+d) 2 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q23) Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?
+(i) Brakes of motor vehicles
+(ii) Engines of motor vehicles
+(iii) Microwave stoves within homes
+(iv) Power plants
+(v) Telephone lines
+Select the correct answer using the code given below. - 2021
+a) 1, 2, 3 and 5 only
+b) 1, 2 and 4 only
+c) 3, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3, 4 and 5
+#AnswerEnd
+#QuestionStart
+Q24) Which one of the following is a filter feeder? - 2021
+a) Catfish
+b) Octopus
+c) Oyster
+d) Pelican
+#QuestionEnd
+#AnswerStart
+Answer: c) Oyster
+#AnswerEnd
+#QuestionStart
+Q25) In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle? - 2021
+a) Carbon cycle
+b) Nitrogen cycle
+c) Phosphorus cycle
+d) Sulphur cycle
+#QuestionEnd
+#AnswerStart
+Answer: c) Phosphorus cycle
+#AnswerEnd
+#QuestionStart
+Q26) Which of the following are detritivores?
+(i) Earthworms
+(ii) Jellyfish
+(iii) Millipedes
+(iv) Seahorses
+(v) Woodlice
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4 only
+b) 2, 3, 4 and 5 only
+c) 1, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5 only
+#AnswerEnd
+#QuestionStart
+Q27) The ‘Common Carbon Metric’, supported by UNEP, has been developed for - 2021
+a) assessing the carbon footprint of building operations around the world
+b) enabling commercial farming entities around the world to enter carbon emission trading
+c) enabling governments to assess the overall carbon footprint caused by their countries
+d) assessing the overall carbon footprint caused by the use of fossil fuels by the world in a unit time
+#QuestionEnd
+#AnswerStart
+Answer: a) assessing the carbon footprint of building operations around the world
+#AnswerEnd
+#QuestionStart
+Q28) Which of the following have species that can establish symbiotic relationship with other organisms?
+(i) Cnidarians
+(ii) Fungi
+(iii) Protozoa
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q29) Why is there a great concern about the ‘microbeads’ that are released into environment? - 2021
+a) They are considered harmful to marine ecosystems.
+b) They are considered to cause skin cancer in children.
+c) They are small enough to be absorbed by crop plants in irrigated fields.
+d) They are often found to be used as food adulterants.
+#QuestionEnd
+#AnswerStart
+Answer: a) They are considered harmful to marine ecosystems.
+#AnswerEnd
+#QuestionStart
+Q30) Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of - 2021
+a) anti-malarial drug
+b) biodiesel
+c) pulp for paper industry
+d) textile fibre
+#QuestionEnd
+#AnswerStart
+Answer: d) textile fibre
+#AnswerEnd
+#QuestionStart
+Q31) For the measurement/estimation of which of the following are satellite images/remote sensing data used?
+(i) Chlorophyll content in the vegetation of a specific location
+(ii) Greenhouse gas emissions from rice paddies of a specific location
+(iii) Land surface temperatures of a specific location
+Select the correct answer using the code given below. - 2021
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q32) Consider the following States :
+(i) Chhattisgarh
+(ii) Madhya Pradesh
+(iii) Maharashtra
+(iv) Odisha
+With reference to the States mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order? - 2021
+a) 2-3-1-4
+b) 2-3-4-1
+c) 3-2-4-1
+d) 3-2-1-4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-2-4-1
+#AnswerEnd
+#QuestionStart
+Q33) Which of the following statements are correct about the deposits of ‘methane hydrate’?
+(i) Global warming might trigger the release of methane gas from these deposits.
+(ii) Large deposits of ‘methane hydrate’ are found in Arctic Tundra and under the seafloor.
+(iii) Methane in atmosphere oxidizes to carbon dioxide after a decade or two.
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q34) Consider the following :
+(i) Carbon monoxide
+(ii) Methane
+(iii) Ozone
+(iv) Sulphur dioxide
+Which of the above are released into atmosphere due to the burning of crop/biomass residue? - 2021
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q35) Consider the following statements :
+(i) Coal ash contains arsenic, lead and mercury.
+(ii) Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment.
+(iii) High ash content is observed in Indian coal.
+Which of the statements given above is/are correct ? - 2021
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q36) What is the use of biochar in farming ?
+(i) Biochar can be used as a part of the growing medium in vertical farming.
+(ii) When biochar is a part of the growing medium, it promotes the growth of nitrogen-fixing microorganisms.
+(iii) When biochar is a part of the growing medium, it enables the growing medium to retain water for longer time.
+Which of the statements given above is/are correct ? - 2021
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q37) If a particular plant species is placed under Schedule VI of The Wildlife Protection Act, 1972, what is the implication ? - 2021
+a) A licence is required to cultivate that plant.
+b) Such a plant cannot be cultivated under any circumstances.
+c) It is a Genetically Modified crop plant.
+d) Such a plant is invasive and harmful to the ecosystem.
+#QuestionEnd
+#AnswerStart
+Answer: b) Such a plant cannot be cultivated under any circumstances.
+#AnswerEnd
+#QuestionStart
+Q38) With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as - 2021
+a) ports handling foreign trade
+b) capitals of powerful kingdoms
+c) places of exquisite stone art and architecture
+d) important Buddhist pilgrimage centres
+#QuestionEnd
+#AnswerStart
+Answer: a) ports handling foreign trade
+#AnswerEnd
+#QuestionStart
+Q39) What is/are the advantage/advantages of zero tillage in agriculture ?
+(i) Sowing of wheat is possible without burning the residue of previous crop.
+(ii) Without the need for nursery of rice saplings, direct planting of paddy seeds in the wet soil is possible.
+(iii) Carbon sequestration in the soil is possible.
+Select the correct answer using the code given below : - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q40) According to India’s National Policy on Biofuels, which of the following can be used as raw materials for the production of biofuels ?
+(i) Cassava
+(ii) Damaged wheat grains
+(iii) Groundnut seeds
+(iv) Horse gram
+(v) Rotten potatoes
+(vi) Sugar beet
+Select the correct answer using the code given below : - 2021
+a) 1, 2, 5 and 6 only
+b) 1, 3, 4 and 6 only
+c) 2, 3, 4 and 5 only
+d) 1, 2, 3, 4, 5 and 6
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 5 and 6 only
+#AnswerEnd
+#QuestionStart
+Q41) With reference to the cultural history of India, consider the following pairs :
+(i) Parivrajaka — Renunciant and Wanderer
+(ii) Shramana — Priest with a high status
+(iii) Upasaka — Lay follower of Buddhism
+Which of the pairs given above are correctly matched ? - 2021
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q42) With reference to Indian elephants, consider the following statements :
+(i) The leader of an elephant group is a female.
+(ii) The maximum gestation period can be 22 months.
+(iii) An elephant can normally go on calving till the age of 40 years only.
+(iv) Among the States in India, the highest elephant population is in Kerala.
+Which of the statements given above is/are correct ? - 2021
+a) 1 and 2 only
+b) 2 and 4 only
+c) 3 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q43) Which of the following Protected Areas are located in Cauvery basin ?
+(i) Nagarhole National Park
+(ii) Papikonda National Park
+(iii) Sathyamangalam Tiger Reserve
+(iv) Wayanad Wildlife Sanctuary
+Select the correct answer using the code given below : - 2021
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q44) Consider the following statements :
+(i) The value of Indo-Sri Lanka trade has consistently increased in the last decade.
+(ii) “Textile and textile articles” constitute an important item of trade between India and Bangladesh.
+(iii) In the last five years, Nepal has been the largest trading partner of India in South Asia.
+Which of the statements given above is/are correct ? - 2021
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q45) Which of the following factors/policies were affecting the price of rice in India in the recent past ?
+(i) Minimum Support Price
+(ii) Government's trading
+(iii) Government’s stockpiling
+(iv) Consumer subsidies
+Select the correct answer using the code given below : - 2021
+a) 1, 2 and 4 only
+b) 1, 3 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q46) Consider the following statements :
+(i) The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.
+(ii) Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.
+(iii) The Governor of the RBI draws his power from the RBI Act.
+Which of the above statements are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q47) With reference to casual workers employed in India, consider the following statements :
+(i) All casual workers are entitled for Employees Provident Fund coverage.
+(ii) All casual workers are entitled for regular working hours and overtime payment.
+(iii) The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.
+Which of the above statements are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q48) Which among the following steps is most likely to be taken at the time of an economic recession? - 2021
+a) Cut in tax rates accompanied by increase in interest rate
+b) Increase in expenditure on public projects
+c) Increase in tax rates accompanied by reduction of interest rate
+d) Reduction of expenditure on public projects
+#QuestionEnd
+#AnswerStart
+Answer: b) Increase in expenditure on public projects
+#AnswerEnd
+#QuestionStart
+Q49) Consider the following statements :
+Other things remaining unchanged, market demand for a good might increase if
+(i) price of its substitute increases
+(ii) price of its complement increases
+(iii) the good is an inferior good and income of the consumers increases
+(iv) its price falls
+Which of the above statements are correct? - 2021
+a) 1 and 4 only
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 4 only
+#AnswerEnd
+#QuestionStart
+Q50) With reference to ‘Urban Cooperative Banks’ in India, consider the following statements :
+(i) They are supervised and regulated by local boards set up by the State Governments.
+(ii) They can issue equity shares and preference shares.
+(iii) They were brought under the purview of the Banking Regulation Act, 1949 through an Amendment in 1966.
+Which of the statements given above is/are correct? - 2021
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q51) Indian Government Bond Yields are influenced by which of the following?
+(i) Actions of the United States Federal Reserve
+(ii) Actions of the Reserve Bank of India
+(iii) Inflation and short-term interest rates
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q52) Consider the following :
+(i) Foreign currency convertible bonds
+(ii) Foreign institutional investment with certain conditions
+(iii) Global depository receipts
+(iv) Non-resident external deposits
+Which of the above can be included in Foreign Direct Investments? - 2021
+a) 1, 2 and 3
+b) 3 only
+c) 2 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+#QuestionStart
+Q53) Consider the following statements :
+The effect of devaluation of a currency is that it necessarily
+(i) improves the competitiveness of the domestic exports in the foreign markets
+(ii) increases the foreign value of domestic currency
+(iii) improves the trade balance
+Which of the above statements is/are correct? - 2021
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q54) Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India? - 2021
+a) Diversion of resources to the purchase of real estate and investment in luxury housing
+b) Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.
+c) Large donations to political parties and growth of regionalism
+d) Loss of revenue to the State Exchequer due to tax evasion
+#QuestionEnd
+#AnswerStart
+Answer: d) Loss of revenue to the State Exchequer due to tax evasion
+#AnswerEnd
+#QuestionStart
+Q55) Which one of the following is likely to be the most inflationary in its effects? - 2021
+a) Repayment of public debt
+b) Borrowing from the public to finance a budget deficit
+c) Borrowing from the banks to finance a budget deficit
+d) Creation of new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creation of new money to finance a budget deficit
+#AnswerEnd
+#QuestionStart
+Q56) The money multiplier in an economy increases with which one of the following? - 2021
+a) Increase in the Cash Reserve Ratio in the banks
+b) Increase in the Statutory Liquidity Ratio in the banks
+c) Increase in the banking habit of the people
+d) Increase in the population of the country
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase in the banking habit of the people
+#AnswerEnd
+#QuestionStart
+Q57) With reference to Indian economy, demand-pull inflation can be caused/ increased by which of the following?
+(i) Expansionary policies
+(ii) Fiscal stimulus
+(iii) Inflation-indexing wages
+(iv) Higher purchasing power
+(v) Rising interest rates
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4 only
+b) 3, 4 and 5 only
+c) 1, 2, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q58) With reference to India, consider the following statements :
+(i) Retail investors through demat account can invest in ‘Treasury Bills’ and ‘Government of India Debt Bonds’ in primary market.
+(ii) The ‘Negotiated Dealing System-Order Matching’ is a government securities trading platform of the Reserve Bank of India.
+(iii) The ‘Central Depository Services Ltd.’ is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.
+Which of the statements given above is/are correct? - 2021
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+#QuestionStart
+Q59) With reference to ‘WaterCredit’, consider the following statements :
+(i) It puts microfinance tools to work in the water and sanitation sector.
+(ii) It is a global initiative launched under the aegis of the World Health Organization and the World Bank.
+(iii) It aims to enable the poor people to meet their water needs without depending on subsidies.
+Which of the statements given above are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q60) In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following?
+(i) Lending to trade and industry bodies when they fail to borrow from other sources
+(ii) Providing liquidity to the banks having a temporary crisis
+(iii) Lending to governments to finance budgetary deficits
+Select the correct answer using the code given below. - 2021
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q61) Consider the following statements :
+(i) The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.
+(ii) Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.
+(iii) The Governor of the RBI draws his power from the RBI Act.
+Which of the above statements are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q62) With reference to casual workers employed in India, consider the following statements :
+(i) All casual workers are entitled for Employees Provident Fund coverage.
+(ii) All casual workers are entitled for regular working hours and overtime payment.
+(iii) The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.
+Which of the above statements are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q63) Which among the following steps is most likely to be taken at the time of an economic recession? - 2021
+a) Cut in tax rates accompanied by increase in interest rate
+b) Increase in expenditure on public projects
+c) Increase in tax rates accompanied by reduction of interest rate
+d) Reduction of expenditure on public projects
+#QuestionEnd
+#AnswerStart
+Answer: b) Increase in expenditure on public projects
+#AnswerEnd
+#QuestionStart
+Q64) Consider the following statements :
+Other things remaining unchanged, market demand for a good might increase if
+(i) price of its substitute increases
+(ii) price of its complement increases
+(iii) the good is an inferior good and income of the consumers increases
+(iv) its price falls
+Which of the above statements are correct? - 2021
+a) 1 and 4 only
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 4 only
+#AnswerEnd
+#QuestionStart
+Q65) With reference to ‘Urban Cooperative Banks’ in India, consider the following statements :
+(i) They are supervised and regulated by local boards set up by the State Governments.
+(ii) They can issue equity shares and preference shares.
+(iii) They were brought under the purview of the Banking Regulation Act, 1949 through an Amendment in 1966.
+Which of the statements given above is/are correct? - 2021
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q66) Indian Government Bond Yields are influenced by which of the following?
+(i) Actions of the United States Federal Reserve
+(ii) Actions of the Reserve Bank of India
+(iii) Inflation and short-term interest rates
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q67) Consider the following :
+(i) Foreign currency convertible bonds
+(ii) Foreign institutional investment with certain conditions
+(iii) Global depository receipts
+(iv) Non-resident external deposits
+Which of the above can be included in Foreign Direct Investments? - 2021
+a) 1, 2 and 3
+b) 3 only
+c) 2 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+#QuestionStart
+Q68) Consider the following statements :
+The effect of devaluation of a currency is that it necessarily
+(i) improves the competitiveness of the domestic exports in the foreign markets
+(ii) increases the foreign value of domestic currency
+(iii) improves the trade balance
+Which of the above statements is/are correct? - 2021
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q69) Which one of the following effects of creation of black money in India has been the main cause of worry to the Government of India? - 2021
+a) Diversion of resources to the purchase of real estate and investment in luxury housing
+b) Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.
+c) Large donations to political parties and growth of regionalism
+d) Loss of revenue to the State Exchequer due to tax evasion
+#QuestionEnd
+#AnswerStart
+Answer: d) Loss of revenue to the State Exchequer due to tax evasion
+#AnswerEnd
+#QuestionStart
+Q70) Which one of the following is likely to be the most inflationary in its effects? - 2021
+a) Repayment of public debt
+b) Borrowing from the public to finance a budget deficit
+c) Borrowing from the banks to finance a budget deficit
+d) Creation of new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creation of new money to finance a budget deficit
+#AnswerEnd
+#QuestionStart
+Q71) The money multiplier in an economy increases with which one of the following? - 2021
+a) Increase in the Cash Reserve Ratio in the banks
+b) Increase in the Statutory Liquidity Ratio in the banks
+c) Increase in the banking habit of the people
+d) Increase in the population of the country
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase in the banking habit of the people
+#AnswerEnd
+#QuestionStart
+Q72) With reference to Indian economy, demand-pull inflation can be caused/ increased by which of the following?
+(i) Expansionary policies
+(ii) Fiscal stimulus
+(iii) Inflation-indexing wages
+(iv) Higher purchasing power
+(v) Rising interest rates
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4 only
+b) 3, 4 and 5 only
+c) 1, 2, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q73) With reference to India, consider the following statements :
+(i) Retail investors through demat account can invest in ‘Treasury Bills’ and ‘Government of India Debt Bonds’ in primary market.
+(ii) The ‘Negotiated Dealing System-Order Matching’ is a government securities trading platform of the Reserve Bank of India.
+(iii) The ‘Central Depository Services Ltd.’ is jointly promoted by the Reserve Bank of India and the Bombay Stock Exchange.
+Which of the statements given above is/are correct? - 2021
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+#QuestionStart
+Q74) With reference to ‘WaterCredit’, consider the following statements :
+(i) It puts microfinance tools to work in the water and sanitation sector.
+(ii) It is a global initiative launched under the aegis of the World Health Organization and the World Bank.
+(iii) It aims to enable the poor people to meet their water needs without depending on subsidies.
+Which of the statements given above are correct? - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q75) In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following?
+(i) Lending to trade and industry bodies when they fail to borrow from other sources
+(ii) Providing liquidity to the banks having a temporary crisis
+(iii) Lending to governments to finance budgetary deficits
+Select the correct answer using the code given below. - 2021
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q76) ‘R2 Code of Practices’ constitutes a tool available for promoting the adoption of - 2021
+a) environmentally responsible practices in electronics recycling industry
+b) ecological management of ‘Wetlands of International Importance’ under the Ramsar Convention
+c) sustainable practices in the cultivation of agricultural crops in degraded lands
+d) ‘Environmental Impact Assessment’ in the exploitation of natural resources
+#QuestionEnd
+#AnswerStart
+Answer: a) environmentally responsible practices in electronics recycling industry
+#AnswerEnd
+#QuestionStart
+Q77) What is blue carbon? - 2021
+a) Carbon captured by oceans and coastal ecosystems
+b) Carbon sequestered in forest biomass and agricultural soils
+c) Carbon contained in petroleum and natural gas
+d) Carbon present in atmosphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Carbon captured by oceans and coastal ecosystems
+#AnswerEnd
+#QuestionStart
+Q78) In the nature, which of the following is/are most likely to be found surviving on a surface without soil?
+(i) Fern
+(ii) Lichen
+(iii) Moss
+(iv) Mushroom
+Select the correct answer using the code given below. - 2021
+a) 1 and 4 only
+b) 2 only
+c) 2 and 3
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+#QuestionStart
+Q79) Which one of the following is used in preparing a natural mosquito repellent? - 2021
+a) Congress grass
+b) Elephant grass
+c) Lemongrass
+d) Nut grass
+#QuestionEnd
+#AnswerStart
+Answer: c) Lemongrass
+#AnswerEnd
+#QuestionStart
+Q80) Consider the following kinds of organisms :
+(i) Copepods
+(ii) Cyanobacteria
+(iii) Diatoms
+(iv) Foraminifera
+Which of the above are primary producers in the food chains of oceans? - 2021
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+#QuestionStart
+Q81) Consider the following animals :
+(i) Hedgehog
+(ii) Marmot
+(iii) Pangolin
+To reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/protect its/their vulnerable parts? - 2021
+a) 1 and 2
+b) 2 only
+c) 3 only
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q82) With reference to the ‘New York Declaration on Forests’, which of the following statements are correct?
+(i) It was first endorsed at the United Nations Climate Summit in 2014.
+(ii) It endorses a global timeline to end the loss of forests.
+(iii) It is a legally binding international declaration.
+(iv) It is endorsed by governments, big companies and indigenous communities.
+(v) India was one of the signatories at its inception.
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4
+b) 1, 3 and 5
+c) 3 and 4
+d) 2 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q83) Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following?
+(i) Brakes of motor vehicles
+(ii) Engines of motor vehicles
+(iii) Microwave stoves within homes
+(iv) Power plants
+(v) Telephone lines
+Select the correct answer using the code given below. - 2021
+a) 1, 2, 3 and 5 only
+b) 1, 2 and 4 only
+c) 3, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3, 4 and 5
+#AnswerEnd
+#QuestionStart
+Q84) Which one of the following is a filter feeder? - 2021
+a) Catfish
+b) Octopus
+c) Oyster
+d) Pelican
+#QuestionEnd
+#AnswerStart
+Answer: c) Oyster
+#AnswerEnd
+#QuestionStart
+Q85) In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle? - 2021
+a) Carbon cycle
+b) Nitrogen cycle
+c) Phosphorus cycle
+d) Sulphur cycle
+#QuestionEnd
+#AnswerStart
+Answer: c) Phosphorus cycle
+#AnswerEnd
+#QuestionStart
+Q86) Which of the following are detritivores?
+(i) Earthworms
+(ii) Jellyfish
+(iii) Millipedes
+(iv) Seahorses
+(v) Woodlice
+Select the correct answer using the code given below. - 2021
+a) 1, 2 and 4 only
+b) 2, 3, 4 and 5 only
+c) 1, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5 only
+#AnswerEnd
+#QuestionStart
+Q87) The ‘Common Carbon Metric’, supported by UNEP, has been developed for - 2021
+a) assessing the carbon footprint of building operations around the world
+b) enabling commercial farming entities around the world to enter carbon emission trading
+c) enabling governments to assess the overall carbon footprint caused by their countries
+d) assessing the overall carbon footprint caused by the use of fossil fuels by the world in a unit time
+#QuestionEnd
+#AnswerStart
+Answer: a) assessing the carbon footprint of building operations around the world
+#AnswerEnd
+#QuestionStart
+Q88) Which of the following have species that can establish symbiotic relationship with other organisms?
+(i) Cnidarians
+(ii) Fungi
+(iii) Protozoa
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q89) Why is there a great concern about the ‘microbeads’ that are released into environment? - 2021
+a) They are considered harmful to marine ecosystems.
+b) They are considered to cause skin cancer in children.
+c) They are small enough to be absorbed by crop plants in irrigated fields.
+d) They are often found to be used as food adulterants.
+#QuestionEnd
+#AnswerStart
+Answer: a) They are considered harmful to marine ecosystems.
+#AnswerEnd
+#QuestionStart
+Q90) Recently, there was a growing awareness in our country about the importance of Himalayan nettle (Girardinia diversifolia) because it is found to be a sustainable source of - 2021
+a) anti-malarial drug
+b) biodiesel
+c) pulp for paper industry
+d) textile fibre
+#QuestionEnd
+#AnswerStart
+Answer: d) textile fibre
+#AnswerEnd
+#QuestionStart
+Q91) For the measurement/estimation of which of the following are satellite images/remote sensing data used?
+(i) Chlorophyll content in the vegetation of a specific location
+(ii) Greenhouse gas emissions from rice paddies of a specific location
+(iii) Land surface temperatures of a specific location
+Select the correct answer using the code given below. - 2021
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q92) Consider the following States :
+(i) Chhattisgarh
+(ii) Madhya Pradesh
+(iii) Maharashtra
+(iv) Odisha
+With reference to the States mentioned above, in terms of percentage of forest cover to the total area of State, which one of the following is the correct ascending order? - 2021
+a) 2-3-1-4
+b) 2-3-4-1
+c) 3-2-4-1
+d) 3-2-1-4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-2-4-1
+#AnswerEnd
+#QuestionStart
+Q93) Which of the following statements are correct about the deposits of ‘methane hydrate’?
+(i) Global warming might trigger the release of methane gas from these deposits.
+(ii) Large deposits of ‘methane hydrate’ are found in Arctic Tundra and under the seafloor.
+(iii) Methane in atmosphere oxidizes to carbon dioxide after a decade or two.
+Select the correct answer using the code given below. - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q94) Consider the following :
+(i) Carbon monoxide
+(ii) Methane
+(iii) Ozone
+(iv) Sulphur dioxide
+Which of the above are released into atmosphere due to the burning of crop/biomass residue? - 2021
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q95) Consider the following statements :
+(i) Coal ash contains arsenic, lead and mercury.
+(ii) Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment.
+(iii) High ash content is observed in Indian coal.
+Which of the statements given above is/are correct ? - 2021
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q96) What is the use of biochar in farming ?
+(i) Biochar can be used as a part of the growing medium in vertical farming.
+(ii) When biochar is a part of the growing medium, it promotes the growth of nitrogen-fixing microorganisms.
+(iii) When biochar is a part of the growing medium, it enables the growing medium to retain water for longer time.
+Which of the statements given above is/are correct ? - 2021
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q97) If a particular plant species is placed under Schedule VI of The Wildlife Protection Act, 1972, what is the implication ? - 2021
+a) A licence is required to cultivate that plant.
+b) Such a plant cannot be cultivated under any circumstances.
+c) It is a Genetically Modified crop plant.
+d) Such a plant is invasive and harmful to the ecosystem.
+#QuestionEnd
+#AnswerStart
+Answer: b) Such a plant cannot be cultivated under any circumstances.
+#AnswerEnd
+#QuestionStart
+Q98) With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as - 2021
+a) ports handling foreign trade
+b) capitals of powerful kingdoms
+c) places of exquisite stone art and architecture
+d) important Buddhist pilgrimage centres
+#QuestionEnd
+#AnswerStart
+Answer: a) ports handling foreign trade
+#AnswerEnd
+#QuestionStart
+Q99) What is/are the advantage/advantages of zero tillage in agriculture ?
+(i) Sowing of wheat is possible without burning the residue of previous crop.
+(ii) Without the need for nursery of rice saplings, direct planting of paddy seeds in the wet soil is possible.
+(iii) Carbon sequestration in the soil is possible.
+Select the correct answer using the code given below : - 2021
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q100) According to India’s National Policy on Biofuels, which of the following can be used as raw materials for the production of biofuels ?
+(i) Cassava
+(ii) Damaged wheat grains
+(iii) Groundnut seeds
+(iv) Horse gram
+(v) Rotten potatoes
+(vi) Sugar beet
+Select the correct answer using the code given below : - 2021
+a) 1, 2, 5 and 6 only
+b) 1, 3, 4 and 6 only
+c) 2, 3, 4 and 5 only
+d) 1, 2, 3, 4, 5 and 6
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 5 and 6 only
+#AnswerEnd

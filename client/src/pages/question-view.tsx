@@ -1,5 +1,7 @@
 import { useParams, useLocation } from "wouter";
 import { useQuery } from "@tanstack/react-query";
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription, CardFooter } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
@@ -22,8 +24,16 @@ export default function QuestionView() {
   });
 
   // Get test-specific question
-  const { data: question, isLoading: isLoadingQuestion, error } = useQuery<QuestionWithTags>({
-    queryKey: ['/api/questions', questionId],
+  const { data: question, isLoading: isLoadingQuestion, error, isFetching } = useQuery<QuestionWithTags>({ // Added isFetching
+    queryKey: ['question', questionId], // Simplified query key for clarity
+    queryFn: async () => {
+      console.log(`[Query] Fetching question with ID: ${questionId}`);
+      const response = await fetch(`/api/questions/${questionId}`);
+      if (!response.ok) {
+        throw new Error(`Network response was not ok for question ${questionId}`);
+      }
+      return response.json();
+    },
     enabled: !!questionId,
   });
 
@@ -35,6 +45,11 @@ export default function QuestionView() {
       setCurrentIndex(index);
     }
   }, [testQuestions, question, questionId]);
+
+  // Log the specific question query state when it changes
+  useEffect(() => {
+    console.log(`[Effect] Specific question query state: ID=${questionId}, Loading=${isLoadingQuestion}, Fetching=${isFetching}, Error=${error ? error.message : 'null'}, Data=`, question);
+  }, [questionId, question, isLoadingQuestion, isFetching, error]);
 
   // Navigate back to test questions
   const goBackToTest = () => {
@@ -120,6 +135,9 @@ export default function QuestionView() {
 
   return (
     <motion.div
+      // Log the specific question data when rendering starts
+      onAnimationStart={() => console.log("[Render] Rendering QuestionView with specific question data:", question)}
+
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
@@ -166,7 +184,7 @@ export default function QuestionView() {
         <CardHeader>
           <CardTitle className="text-xl flex items-center">
             <BookIcon className="h-5 w-5 mr-2" />
-            Question {question.questionNumber} 
+            Question {currentIndex >= 0 ? currentIndex + 1 : ''} {/* Use currentIndex */}
             <span className="text-sm text-muted-foreground ml-2">
               {currentIndex >= 0 && `(${currentIndex + 1} of ${allQuestions.length})`}
             </span>
@@ -180,8 +198,8 @@ export default function QuestionView() {
         
         <CardContent>
           {/* Question text */}
-          <div className="mb-6 text-lg">
-            {question.questionText}
+          <div className="mb-6 text-lg prose dark:prose-invert max-w-none">
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>{question.questionText}</ReactMarkdown>
           </div>
 
           {/* Options */}

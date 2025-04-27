@@ -16,6 +16,9 @@ import NotFound from "@/pages/not-found";
 import SettingsPanel from "./components/settings-panel";
 import { QuestionBrowser } from "./components/question-browser";
 import { Header } from "./components/layout/header";
+import { HistoryModal } from "./components/history/HistoryModal"; // Import HistoryModal
+import { WrongsModal } from "./components/wrongs-modal";
+import { NotesModal } from "./components/notes-modal"; // Add this import
 
 function Router() {
   return (
@@ -53,6 +56,9 @@ function App() {
             <Router />
             <Toaster />
             <SettingsPanel />
+            <HistoryModal /> {/* Render HistoryModal */}
+            <WrongsModal /> {/* Render WrongsModal */}
+            <NotesModal /> {/* Render NotesModal */}
           </div>
         </UIStateProvider>
       </SettingsProvider>

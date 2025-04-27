@@ -1,0 +1,146 @@
+#QuestionStart
+Q1) Which of the following statements about the Ethics Committee in the Lok Sabha are correct? (2024)
+1. Initially it was an ad-hoc Committee.
+2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.
+3. This Committee cannot take up any matter which is sub-judice.
+Select the answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements in respect of the Constitution Day: (2023)
+Statement-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens.
+Statement-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q3) We adopted parliamentary democracy based on the British model, but how does our model differ from that model? (2021)
+1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.
+2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q4) Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy? (2021)
+a) A committed judiciary
+b) Centralization of powers
+c) Elected government
+d) Separation of powers
+#QuestionEnd
+#AnswerStart
+Answer: d) Separation of powers
+#AnswerEnd
+
+#QuestionStart
+Q5) What was the exact constitutional status of India on 26th January, 1950? (2021)
+a) A Democratic Republic
+b) A Sovereign Democratic Republic
+c) A Sovereign Secular Democratic Republic
+d) A Sovereign Socialist Secular Democratic Republic
+#QuestionEnd
+#AnswerStart
+Answer: b) A Sovereign Democratic Republic
+#AnswerEnd
+
+#QuestionStart
+Q6) Constitutional government means (2021)
+a) a representative government of a nation with federal structure
+b) a government whose Head enjoys nominal powers
+c) a government whose Head enjoys real powers
+d) a government limited by the terms of the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: d) a government limited by the terms of the Constitution
+#AnswerEnd
+
+#QuestionStart
+Q7) In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? (2019)
+a) Protection against the tyranny of political rulers
+b) Absence of restraints
+c) Opportunity to do whatever one likes
+d) Opportunity to develop oneself fully
+#QuestionEnd
+#AnswerStart
+Answer: d) Opportunity to develop oneself fully
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following reflects the most appropriate relationship between law and liberty? (2018)
+a) If there are more laws, there is less liberty.
+b) If there are no laws, there is no liberty.
+c) If there is liberty, laws have to be made by the people.
+d) If laws are changed too often, liberty is in danger.
+#QuestionEnd
+#AnswerStart
+Answer: b) If there are no laws, there is no liberty.
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following are regarded as the main feature of “Rule of Law”? (2018)
+1. Limitation of power
+2. Equality before the law
+3. People’s responsibility to the Government
+4. Liberty and civil rights
+Select the correct answer using the codes given below:
+a) 1 and 3 only
+b) 2 and 4 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Democracy's superior virtue lies in the fact that it calls into activity (2017)
+a) the intelligence and character of ordinary men and women.
+b) the methods for strengthening executive leadership.
+c) a superior individual with dynamism and vision.
+d) a band of dedicated party workers
+#QuestionEnd
+#AnswerStart
+Answer: a) the intelligence and character of ordinary men and women.
+#AnswerEnd
+
+#QuestionStart
+Q11) The mind of the makers of the Constitution of India is reflected in which of the following? (2017)
+a) The Preamble
+b) The Fundamental Rights
+c) The Directive Principles of State Policy
+d) The Fundamental Duties
+#QuestionEnd
+#AnswerStart
+Answer: a) The Preamble
+#AnswerEnd
+
+#QuestionStart
+Q12) The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the (2012)
+a) Morley-Minto Reforms, 1909
+b) Montagu-Chelmsford Act, 1919
+c) Government of India Act, 1935
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) Government of India Act, 1935
+#AnswerEnd

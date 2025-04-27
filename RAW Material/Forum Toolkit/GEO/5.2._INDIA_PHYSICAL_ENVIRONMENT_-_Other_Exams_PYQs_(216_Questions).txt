@@ -1,0 +1,2710 @@
+#QuestionStart
+Q108) With reference to India, which of the following statements is/are correct?
+1. India is the sixth largest country of the world.
+2. India occupies about 2.4% of the total area of the world.
+3. The Tropic of Cancer passes through the middle of the country dividing into two latitudinal halves.
+4. India lies completely in tropic zone.
+Select the correct answer from the code given below: [U.P.P.C.S. (Pre) 2022]
+a) 2 and 4
+b) 1 and 2
+c) 2 and 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q109) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II (Location) |
+|---|---|
+| A. Dudhsagar | 1. Karnataka |
+| B. Barkana | 2. Odisha |
+| C. Khandadhar | 3. Himachal Pradesh |
+| D. Palani | 4. Goa |
+Code: [UPPCS (Pre) 2022]
+a) A-4, B-3, C-2, D-1
+b) A-4, B-1, C-2, D-3
+c) A-3, B-2, C-4, D-1
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q110) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Agra and Darjeeling are located on the same latitude, but the temperature in January in Agra is 160 Centigrade whereas it is only 40 Centigrade in Darjeeling.
+Reason (R): Temperature decreases with height and due to thin air, places in the mountains are cooler than places in the plains.
+Select the correct answer from the code given below. [UPPCS (Pre) 2022]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+c) (A) is false but (R) is true
+d) (A) is true but (R) is false
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q111) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (States) | LisMI (Highest Peak) |
+|---|---|
+| A. Tamil Nadu | 1. Dhupgarh Peak |
+| B. Rajasthan | 2. Saramati Peak |
+| C. Nagaland | 3. Gurushikhar Peak |
+| D. Madhya Pradesh | 4. Doddabetta Peak |
+Code: [UPPCS (Pre) 2021]
+a) A-3, B-2, C-1, D-4
+b) A-1, B-4, C-3, D-2
+c) A-4, B-2, C-3, D-1
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one of the following rivers is not the part of Indian Ganga River basin? [U.P.P.C.S. (Pre) 2021]
+a) Punpun river
+b) Ajoy river
+c) Jalangi river
+d) Jonk river
+#QuestionEnd
+#AnswerStart
+Answer: d) Jonk river
+#AnswerEnd
+
+#QuestionStart
+Q113) Largest saline water lake in India is: [U.P.P.C.S. (Pre) 2021]
+a) Chilika
+b) Sambhar
+c) Lon ary
+d) Wullar
+#QuestionEnd
+#AnswerStart
+Answer: a) Chilika
+#AnswerEnd
+
+#QuestionStart
+Q114) Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
+Assertion (A): Teesta River was earlier a tributary of Ganga now it is a tributary of Brahmaputra.
+Reason (R): River capturing is a major feature of Himalayan rivers.
+Select the correct answer using the codes given below. [U.P.P.C.S. (Pre) 2021]
+a) Both (A) and (R) are true and (R) is correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q115) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Lake) | List-II (Location) |
+|---|---|
+| A. Sala Lake | 1. Arunachal Pradesh |
+| B. Badkhal Lake | 2. Haryana |
+| C. Loktak Lake | 3. Manipur |
+| D. Kaliveli Lake | 4. Tamil Nadu |
+Code: [UPPCS (Pre) 2020]
+a) A-1, B-2, C-3, D-4
+b) A-2, B-1, C-3, D-4
+c) A-1, B-3, C-2, D-4
+d) A-1, B-4, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-1, B-2, C-3, D-4
+#AnswerEnd
+
+#QuestionStart
+Q116) Consider the following tributaries of River Yamuna and arrange them from West to East:
+1. Betwa
+2. Ken
+3. Sindh
+4. Chambal
+Select the correct answer from the codes given below. [U.P.P.C.S. (Pre) 2020]
+a) 4, 3, 1 and 2
+b) 1, 2, 3 and 4
+c) 3, 2, 1 and 4
+d) 2, 3, 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 4, 3, 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q117) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): The highest concentration of Seismic zones lies in the Himalayan region in India.
+Reason (R): There are many longitudinal thrust zones in the Himalayas.
+Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q118) Tmphal Basin’ surrounded by Manipur hills is a fine example of- [UPPCS (Pre) 2019]
+a) Lacustrine plain
+b) Loess plain
+c) Glacial plain
+d) Alluvial plain
+#QuestionEnd
+#AnswerStart
+Answer: a) Lacustrine plain
+#AnswerEnd
+
+#QuestionStart
+Q119) With reference to the Himalayan range, which of the statements is/are correct?
+1. The sedimentary rocks of the greater Himalayas were fossil less.
+2. Marine livings fossils are found in the sedimentary rocks of lesser Himalayas.
+3. Remains of human civilization are found in the outer or Shivalik Himalayas.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q120) Which one of the following is the correct sequence of the hills of Central India located from West to East? [U.P.P.C.S. (Pre) 2019]
+a) Maikal, Satpura, Mahadeo and Chhotanagpur
+b) Satpura, Mahadeo, Maikal and Chhotanagpur
+c) Maikal, Mahadeo, Satpura and Chhotanagpur
+d) Satpura, Mahadeo, Chhotanagpur and Maikal
+#QuestionEnd
+#AnswerStart
+Answer: b) Satpura, Mahadeo, Maikal and Chhotanagpur
+#AnswerEnd
+
+#QuestionStart
+Q121) In which of the following rivers, the upper course contains freshwater but saline water flowing at the lower part? [U.P.P.C.S. (Pre) 2019]
+a) Barak river
+b) Luni river
+c) Ghaggar river
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Luni river
+#AnswerEnd
+
+#QuestionStart
+Q122) The winter rains caused by Western disturbance in North-Western Plain of India gradually decreases from: [U.P.P.C.S. (Pre) 2019]
+a) East to West
+b) West to East
+c) North to South
+d) South to North
+#QuestionEnd
+#AnswerStart
+Answer: b) West to East
+#AnswerEnd
+
+#QuestionStart
+Q123) Which of the following States of India has the longest coastline? [U.P.P.C.S. (Pre) 2018]
+a) Maharashtra
+b) Andhra Pradesh
+c) Kerala
+d) Gujarat
+#QuestionEnd
+#AnswerStart
+Answer: d) Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q124) Match iist-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (States) | List-II (Highest Peak) |
+|---|---|
+| A.. Kerala | 1. Doddabetta |
+| B. Nagaland | 2. Nanda Devi |
+| C. Uttarakhand | 3. Anamudi |
+| D. Tamil Nadu | 4. Saramati |
+Code: [UPPCS (Pre) 2018]
+a) A-1, B-3, C-4, D-2
+b) A-2, B-3, C-4, D-1
+c) A-3, B-4, C-2, D-1
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q125) Which of the following statements is not correct? [U.P.P.C.S. (Pre) 2018]
+a) Black soil is locally called ‘regur’
+b) According to Krabs, the regur soil is essentially a mature soil
+c) Black soils are highly retentive to moisture
+d) Black soil is found in the Himalayan region
+#QuestionEnd
+#AnswerStart
+Answer: d) Black soil is found in the Himalayan region
+#AnswerEnd
+
+#QuestionStart
+Q126) The Tropic of cancer passes through which of the following states?
+1. Gujarat
+2. Chhattisgarh
+3. Uttar Pradesh
+4. Jharkhand
+Select the correct answer from the code given below: [U.P.P.C.S. (Pre) 2017]
+Code:
+a) 1, 2 and 4
+b) 1, 2, 3 and 4
+c) 1, 3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q127) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Waterfall) | List-II (Rivers) |
+|---|---|
+| A. Dudhsagar | 1. Ghatprabha |
+| B. Duduma | 2. Machhkund |
+| C. Gokak | 3. Sharavati |
+| D. Jog | 4. Mandavi |
+Code: [UPPCS (Pre) 2017]
+a) A-4, B-2, C-1, D-3
+b) A-4, B-2, C-3, D-1
+c) A-2, B-4, C-1, D-3
+d) A-2, B-3, C-4, D-1
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-2, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q128) In which state is the Nelang Valley located? [U.P.P.C.S. (Pre) 2016]
+a) Himachal Pradesh
+b) Sikkim
+c) Jammu and Kashmir
+d) Uttarakhand
+#QuestionEnd
+#AnswerStart
+Answer: d) Uttarakhand
+#AnswerEnd
+
+#QuestionStart
+Q129) River Ganga, after entering Bangladesh, is known by which of the following names? [U.P.P.C.S. (Mains) 2016]
+a) Lohit
+b) Padma
+c) Kaliganga
+d) Nabaganga
+#QuestionEnd
+#AnswerStart
+Answer: b) Padma
+#AnswerEnd
+
+#QuestionStart
+Q130) Which one of the following is not correctly matched? [U.P.P.C.S. (Mains) 2015]
+a) Chang La - Jammu and Kashmir
+b) Rohtang - Himachal Pradesh
+c) Bomdi La - Arunachal Pradesh
+d) Se La - Uttarakhand
+#QuestionEnd
+#AnswerStart
+Answer: d) Se La - Uttarakhand
+#AnswerEnd
+
+#QuestionStart
+Q131) Kuttanad (or Kuttanadu) of Kerala is famous for: [U.P.P.C.S. (Mains) 2015]
+a) A freshwater lake
+b) The region with the lowest altitude in India
+c) A coral island
+d) The westernmost point of India
+#QuestionEnd
+#AnswerStart
+Answer: b) The region with the lowest altitude in India
+#AnswerEnd
+
+#QuestionStart
+Q132) Which one of the following rivers is called the ‘Ganga of the South’? [U.P.P.C.S. (Pre) 2015]
+a) Cauvery
+b) Krishna
+c) Godavari
+d) Narmada
+#QuestionEnd
+#AnswerStart
+Answer: a) Cauvery
+#AnswerEnd
+
+#QuestionStart
+Q133) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Lakes) | List Si (Location) |
+|---|---|
+| A. Ashtamudi | 1. Haryana |
+| B. Pulicat | 2. Kerala |
+| C. Roopkund | 3. Tamil Nadu |
+| D. Surajkund | 4. Uttarakhand |
+Code: [UPPCS (Pre) (Re-Exam) 2015]
+a) A-3, B-2, C-1, D-4
+b) A-2, B-3, C-4, D-1
+c) A-4, B-2, C-3, D-1
+d) A-1, B-4, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q134) Which of the following soils of India has been formed due to weathering of basaltic lava? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Alluvial Soils
+b) Laterite Soils
+c) Red Soils
+d) Regur Soils
+#QuestionEnd
+#AnswerStart
+Answer: d) Regur Soils
+#AnswerEnd
+
+#QuestionStart
+Q135) Consider the following statements:
+Assertion (A): The rivers of Western Ghats do not form the delta.
+Reason (R): They flow through short courses with high speed over hard rocks.
+Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2014]
+a) Both (A) and (R) are correct, and (R) is the correct explanation of (A)
+b) Both (A) and (R) are correct, but (R) is not the correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are correct, and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q136) The rivers of South India mainly have which of the following drainage patterns? [U.P.P.C.S. (Pre) 2014]
+a) Radial
+b) Intermittent
+c) Dendritic
+d) Trellis
+#QuestionEnd
+#AnswerStart
+Answer: c) Dendritic
+#AnswerEnd
+
+#QuestionStart
+Q137) Which of the following is correctly matched? [UPPCS (Pre) 2012]
+Lakes - Locations
+a) Lonar - Madhya Pradesh
+b) Nakki - Gujarat
+c) Kolleru- Andhra Pradesh
+d) Pulicat - Kerala
+#QuestionEnd
+#AnswerStart
+Answer: c) Kolleru- Andhra Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q138) Kori Creek lies in- [U.P.P.C.S. (Mains) 2011]
+a) Gulf of Kutch
+b) Gulf of Khambhat
+c) Little Rann of Kutch
+d) Rann of Kutch
+#QuestionEnd
+#AnswerStart
+Answer: d) Rann of Kutch
+#AnswerEnd
+
+#QuestionStart
+Q139) Consider the following statements and select the correct answer from the code given below:
+Assertion (A): All rivers originating from the Himalayas are perennial.
+Reason (R): Himalayas receive much of their precipitation from South-Western monsoon.
+Code: [U.P.P.C.S. (Mains) 2011]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q140) The Indian Standard Time Meridian does not pass through- [U.P.P.C.S. (Pre) 2010]
+a) Andhra Pradesh
+b) Chhattisgarh
+c) Maharashtra
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: c) Maharashtra
+#AnswerEnd
+
+#QuestionStart
+Q141) Which soil needs little irrigation as it retains soil water? [U.P.P.C.S. (Pre) 2010]
+a) Red
+b) Black
+c) Laterite
+d) Alluvial
+#QuestionEnd
+#AnswerStart
+Answer: b) Black
+#AnswerEnd
+
+#QuestionStart
+Q142) Which of the following is the highest mountain peak in India? [U.P.P.C.S. (Mains) 2009]
+a) Everest
+b) Siachen
+c) K2
+d) Kargil
+#QuestionEnd
+#AnswerStart
+Answer: c) K2
+#AnswerEnd
+
+#QuestionStart
+Q143) The Hagari river is a tributary of: [U.P.P.C.S. (Mains) 2009]
+a) Bhima
+b) Godavari
+c) Krishna
+d) Tungabhadra
+#QuestionEnd
+#AnswerStart
+Answer: d) Tungabhadra
+#AnswerEnd
+
+#QuestionStart
+Q144) Which one of the following states of India has an international boundary on its three sides? [U.P.P.C.S. (Spl.) (Mains) 2008]
+a) Assam
+b) Nagaland
+c) Tripura
+d) West Bengal
+#QuestionEnd
+#AnswerStart
+Answer: c) Tripura
+#AnswerEnd
+
+#QuestionStart
+Q145) Which one of the following gives correct sequences of Himalayan peaks in the direction east to west? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Dhaulagiri, Kanchenjunga, Makalu, Mount Everest
+b) Namcha Barwa, Kanchenjunga, Nanda Devi, Mount Everest
+c) Makalu, Dhaulagiri, Kumaun, Namcha Barwa
+d) Namcha Barwa, Kanchenjunga, Mount Everest, Nanda Devi
+#QuestionEnd
+#AnswerStart
+Answer: d) Namcha Barwa, Kanchenjunga, Mount Everest, Nanda Devi
+#AnswerEnd
+
+#QuestionStart
+Q146) Match list-I with iist-II and select the correct answer using the codes given below the lists:
+| List-I (Sea Beach) | List-II (State) |
+|---|---|
+| A. Digha | 1. Tamil Nadu |
+| B. Gopalpur | 2. West Bengal |
+| C. Calangute | 3. Orissa |
+| D. Marina | 4. Goa |
+Code: [UPPCS (Spl) (Mains) 2008]
+a) A-1, B-2, C-4, D-3
+b) A-2, B-3, C-4, D-1
+c) A-2, B-1, C-3, D-4
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q147) Which of the following lake is shared by two Indian States? [U.P.P.C.S. (Mains) 2008]
+a) Chilika
+b) Kolleru
+c) Lonar
+d) Pulicat
+#QuestionEnd
+#AnswerStart
+Answer: d) Pulicat
+#AnswerEnd
+
+#QuestionStart
+Q148) Which of the following rivers is an example of the superimposed river? [U.P.P.C.S. (Mains) 2007]
+a) Alaknanda
+b) Kosi
+c) Chambal
+d) Godavari
+#QuestionEnd
+#AnswerStart
+Answer: c) Chambal
+#AnswerEnd
+
+#QuestionStart
+Q149) Which of the following is the highest peak in South India? [U.P.P.C.S. (Pre) 2005]
+a) Anamudi
+b) Doddabetta
+c) Amarkantak
+d) Mahendragiri
+#QuestionEnd
+#AnswerStart
+Answer: a) Anamudi
+#AnswerEnd
+
+#QuestionStart
+Q150) Chaurabari Glacier is located towards- [U.P.P.C.S. (Mains) 2004]
+a) South of Kedarnath temple
+b) West of Kedarnath temple
+c) North of Kedarnath temple
+d) East of Kedarnath temple
+#QuestionEnd
+#AnswerStart
+Answer: c) North of Kedarnath temple
+#AnswerEnd
+
+#QuestionStart
+Q151) When there is midnight at 1ST meridian, a place observes 6 A.M. The meridian on which the said place is located is: [U.P.P.C.S. (Mains) 2002]
+a) 7° 31’ E
+b) 172° 30’ E
+c) 7° 30’ E
+d) 127° 30’ E
+#QuestionEnd
+#AnswerStart
+Answer: b) 172° 30’ E
+#AnswerEnd
+
+#QuestionStart
+Q152) Consider the following statements:
+Assertion (A): While all major rivers of peninsular India flow into the Bay of Bengal, the Narmada and the Tapi flow into the Arabian sea.
+Reason (R): The Narmada and the Tapi rivers flow in rift valley.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Mains) 2002]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q153) Which of the following soil is most suited for tea plantation? [U.P.P.C.S. (Pre) 2002]
+a) Acidic
+b) Alkaline
+c) Alluvial
+d) Regur
+#QuestionEnd
+#AnswerStart
+Answer: a) Acidic
+#AnswerEnd
+
+#QuestionStart
+Q154) Match list-I with list-11 and select the correct answer using the codes given below the lists:
+| List-I (Forest) | List-II (Region) |
+|---|---|
+| A. Tropical moist deciduous | 1. Arunachal Pradesh |
+| B. Tropical dry deciduous | 2. Sahyadris |
+| C. Alpine | 3. Middle Ganga Plain |
+| D. Tropical evergreen | 4. Tarai |
+Code: [UPPCS (Pre) 2001]
+a) A-4, B-3, C-1, D-2
+b) A-4, B-2, C-1, D-3
+c) A-1, B-3, C-2, D-4
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q155) Consider the following statements: [U.P.P.C.S. (Pre) 1999]
+Assertion (A): The Regur soils of the Deccan Trap are black in colour.
+Reason (R): They are rich in Humus.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q156) Which one of the following towns is nearest to the Tropic of Cancer: [U.P.P.C.S. (Pre) 1999]
+a) Agartala
+b) Gandhinagar
+c) Jabalpur
+d) Ujjain
+#QuestionEnd
+#AnswerStart
+Answer: b) Gandhinagar
+#AnswerEnd
+
+#QuestionStart
+Q157) The paleomagnetic results obtained from India indicate that in the past, the Indian land mass has moved: [U.P.P.C.S. (Pre) 1998]
+a) Northward
+b) Southward
+c) Eastward
+d) Westward
+#QuestionEnd
+#AnswerStart
+Answer: a) Northward
+#AnswerEnd
+
+#QuestionStart
+Q158) Vembanad lake is in: [U.P.P.C.S. (Pre) 1997]
+a) Andhra Pradesh
+b) Kerala
+c) Orissa
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b) Kerala
+#AnswerEnd
+
+#QuestionStart
+Q159) Which of the following option represents correct order of mountain Passes from west to east?
+I. Shipki La
+II. Nathu La
+III. Boindi La
+IV. Lipulekh
+Code: [U.P. Lower Sub. (Pre) 2009]
+a) 1,11,111,1V
+b) II, III, IV, I
+c) I, IV, II, III
+d) III, II, I, IV
+#QuestionEnd
+#AnswerStart
+Answer: c) I, IV, II, III
+#AnswerEnd
+
+#QuestionStart
+Q160) Which of the following is known as ‘selfploughed’ soil of the country? [U.P. Lower Sub. (Pre) 2009]
+a) Alluvial soil
+b) Lateritic soil
+c) Black cotton soils
+d) Desert soils
+#QuestionEnd
+#AnswerStart
+Answer: c) Black cotton soils
+#AnswerEnd
+
+#QuestionStart
+Q161) Identify the only tributary of River Ganges which rises in the plains. [U.P. Lower Sub. (Pre) 2008]
+a) Son
+b) Sharda or Saryu
+c) Gomti
+d) Ram Ganga
+#QuestionEnd
+#AnswerStart
+Answer: c) Gomti
+#AnswerEnd
+
+#QuestionStart
+Q162) The Kullu Valley is situated between the mountain ranges of: [U.P. Lower Sub. (Spl.) (Pre) 2002]
+a) Dhauladhar and Pir Panjal
+b) Ranjoti and Nagtibba
+c) Ladakh and Pir Panjal
+d) Middle Himalayas and Siwalik
+#QuestionEnd
+#AnswerStart
+Answer: a) Dhauladhar and Pir Panjal
+#AnswerEnd
+
+#QuestionStart
+Q163) Examine the following statements and select the correct answer by using codes given below:
+1. Devprayag is located at the confluence of the Bhagirathi and Alaknanda rivers.
+2. Rudraprayag is located at the confluence of the Mandakini and Alaknanda rivers.
+3. Alaknanda flows from Badrinath.
+4. Kedarnath is considered the biggest seat established by Adi Shankaracharya.
+Code: [U.P. Lower Sub. (Pre) 2002]
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1,2 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q164) Compare the Himalayan Rivers with the Peninsular Rivers based on the following comparisons:
+1. Most of the Himalayan rivers are perennial, whereas most of the Peninsular rivers are rain fed.
+2. The gradient of the Himalayan River is steeper than the Peninsular River.
+3. The Peninsular River causes more erosion on its way in comparison to the Himalayan River.
+Choose the correct answer from the options given below. [67th BPSC (Pre) 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q165) The rivers Damodar, Koel and Subarnarekha originate from which of the following? [67th BPSC (Pre) 2022]
+a) Deccan Plateau
+b) Central Highland
+c) Chhota Nagpur Plateau
+d) Meghalaya Plateau
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Chhota Nagpur Plateau
+#AnswerEnd
+
+#QuestionStart
+Q166) Which is Asia’s largest and freshwater Oxbow Lake in Bihar? [67th BPSC (Pre) (Re-Exam) 2022]
+a) Ghogha Lake
+b) Kanwar Lake
+c) Anupam Lake
+d) Kusheshwar Lake
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Kanwar Lake
+#AnswerEnd
+
+#QuestionStart
+Q167) Rajasthan receives very little rain because: [67th BPSC (Pre) (Re-Exam) 2022]
+a) the monsoon fails to reach this area
+b) it is too hot
+c) there is no water available and thus the winds remain dry
+d) the winds do not come across any barriers to cause the necessary uplift to cool the air
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) the winds do not come across any barriers to cause the necessary uplift to cool the air
+#AnswerEnd
+
+#QuestionStart
+Q168) For which cultivation Karewas are famous? [67th BPSC (Pre) (Re-Exam) 2022]
+a) Banana
+b) Saffron
+c) Mango
+d) Grapes
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Saffron
+#AnswerEnd
+
+#QuestionStart
+Q169) Among the following tributaries, which one is part of the Ganga River basin? [65th B.P.S.C. (Pre) 2019]
+a) Sankh
+b) North Koel
+c) South Koel
+d) Barakar
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) North Koel
+#AnswerEnd
+
+#QuestionStart
+Q170) Coral reefs are not found in which one of the following regions? [65th B.P.S.C. (Pre) 2019]
+a) Gulf of Cambay
+b) Gulf of Mannar
+c) Gulf of Kutch
+d) Lakshadweep and Minicoy Island
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Gulf of Cambay
+#AnswerEnd
+
+#QuestionStart
+Q171) Which one of the following is not a part of the Meghalaya Plateau? [64th B.P.S.C. (Pre) 2018]
+a) Bhuban Hills
+b) Garo Hills
+c) Khasi Hills
+d) Jaintia Hills
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhuban Hills
+#AnswerEnd
+
+#QuestionStart
+Q172) Amritsar and Shimla are almost on the same latitude, but their climate difference is due to- [53rd to 55th B.P.S.C. (Pre) 2011]
+a) The difference in their altitudes
+b) Their distance from sea
+c) Snowfall in Shimla
+d) Pollution in Amritsar
+#QuestionEnd
+#AnswerStart
+Answer: a) The difference in their altitudes
+#AnswerEnd
+
+#QuestionStart
+Q173) Which soil particles are present in loamy soils? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Sand particles
+b) Clay particles
+c) Silt particles
+d) All types of particles
+#QuestionEnd
+#AnswerStart
+Answer: d) All types of particles
+#AnswerEnd
+
+#QuestionStart
+Q174) Consider the following statements regarding formation of landforms in India:
+1. Structurally, the Meghalaya plateau is an extended part of the Deccan plateau.
+2. The Valley of Kashmir was formed in a synclinorium.
+3. The Gangetic plain was formed in a fore deep.
+4. The Himalayas originated as a result of triangular convergence of the Indian plate, the European plate and the Chinese plate.
+Which of these statements are correct? [47th B.P.S.C. (Pre) 2005]
+a) I, II and III
+b) I, III and IV
+c) I and III
+d) II and IV
+#QuestionEnd
+#AnswerStart
+Answer: a) I, II and III
+#AnswerEnd
+
+#QuestionStart
+Q175) Extra peninsular mountains of India were formed during- [41st B.P.S.C. (Pre) 1996]
+a) Eozoic Era
+b) Palaeozoic Era
+c) Mesozoic Era
+d) Cenozoic Era
+#QuestionEnd
+#AnswerStart
+Answer: d) Cenozoic Era
+#AnswerEnd
+
+#QuestionStart
+Q176) Old Kachhari clay of Gangetic plain is called- [41st B.P.S.C. (Pre) 1996]
+a) Bhabar
+b) Bhangar
+c) Khadar
+d) Khondolyte
+#QuestionEnd
+#AnswerStart
+Answer: b) Bhangar
+#AnswerEnd
+
+#QuestionStart
+Q177) Chotanagpur Plateau - [40th B.P.S.C. (Pre) 1995]
+a) Is a front sloping
+b) Is a pitfail
+c) Is a foothill
+d) Is a plain subland
+#QuestionEnd
+#AnswerStart
+Answer: a) Is a front sloping
+#AnswerEnd
+
+#QuestionStart
+Q178) Near Manasarovar Lake in Tibet, there is the source of the river- [39th B.P.S.C. (Pre) 1994]
+a) Brahmaputra
+b) Satluj
+c) Indus
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q179) The Indian monsoon is indicated by seasonal displacement because of- [39th B.P.S.C. (Pre) 1994]
+a) Differential temperature of land and sea
+b) Cold wind of middle Asia
+c) Excess similarity of temperature
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Differential temperature of land and sea
+#AnswerEnd
+
+#QuestionStart
+Q180) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Tributaries) | List-II (Rivers) |
+|---|---|
+| A. Betwa | 1. Chambal |
+| B. Kshipra | 2. Yamuna |
+| C. Wain Ganga | 3. Narmada |
+| D. Tawa | 4. Godavari |
+Code: [MPPCS (Pre) 2022]
+a) A-3, B-4, C-2, D-1
+b) A-2, B-1, C-4, D-3
+c) A-3, B-4, C-1, D-2
+d) A-1, B-3, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q181) Which valley of the following rivers is known to have deep Ravines? [M.P.P.C.S. (Pre) 2019]
+a) Narmada
+b) Son
+c) Chambal
+d) Tapti
+#QuestionEnd
+#AnswerStart
+Answer: c) Chambal
+#AnswerEnd
+
+#QuestionStart
+Q182) The boundary line between India and Pakistan is an example of- [M.P.P.C.S. (Pre) 2016]
+a) Superimposed boundary
+b) Antecedent boundary
+c) Relict boundary
+d) Subsequent boundary
+#QuestionEnd
+#AnswerStart
+Answer: a) Superimposed boundary
+#AnswerEnd
+
+#QuestionStart
+Q183) Which range acts as a water divide between Yamuna and Son? [M.P.P.C.S. (Pre) 2016]
+a) Bhander
+b) Kaimur
+c) Maikal
+d) Mukundwara
+#QuestionEnd
+#AnswerStart
+Answer: b) Kaimur
+#AnswerEnd
+
+#QuestionStart
+Q184) Sundarbans Delta is formed by the rivers- [M.P.P.C.S. (Pre) 2014]
+a) Ganga and Brahmaputra
+b) Ganga and Jhelum
+c) Sindhu and Jhelum
+d) Ganga and Sindhu
+#QuestionEnd
+#AnswerStart
+Answer: a) Ganga and Brahmaputra
+#AnswerEnd
+
+#QuestionStart
+Q185) The Narmada Valley lies between which of the following mountain ranges? [M.P.P.C.S. (Pre) 2014]
+a) Bhander and Maikal
+b) Satpura and Aravalli
+c) Satpura and Vindhyachal
+d) Vindhyachal and Aravalli
+#QuestionEnd
+#AnswerStart
+Answer: c) Satpura and Vindhyachal
+#AnswerEnd
+
+#QuestionStart
+Q186) Which one of the following Indian states does not share border with Bhutan? [M.P.P.C.S. (Pre) 2012]
+a) Sikkim
+b) Meghalaya
+c) Arunachal Pradesh
+d) West Bengal
+#QuestionEnd
+#AnswerStart
+Answer: b) Meghalaya
+#AnswerEnd
+
+#QuestionStart
+Q187) The general direction of flow of summer monsoon in India is- [M.P.P.C.S. (Pre) 2012]
+a) from South to North
+b) from South-West to South-East
+c) from South-East to South-West
+d) from South-West to North-East
+#QuestionEnd
+#AnswerStart
+Answer: d) from South-West to North-East
+#AnswerEnd
+
+#QuestionStart
+Q188) The westernmost point of India is: [M.P.P.C.S. (Pre) 2008]
+a) 68° 7’ W, Gujarat
+b) 68° 7’ W, Rajasthan
+c) 68° 7’ E, Gujarat
+d) 68° 7’ E, Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: c) 68° 7’ E, Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q189) The Southernmost point of India “Indira Point” is in: [M.P.P.C.S. (Pre) 2006]
+a) Tamil Nadu
+b) Little Nicobar
+c) Great Nicobar
+d) Car Nicobar Island
+#QuestionEnd
+#AnswerStart
+Answer: c) Great Nicobar
+#AnswerEnd
+
+#QuestionStart
+Q190) Which one of the following can be used to make acidic soil cultivable? [M.P.P.C.S. (Pre) 2006]
+a) Lime
+b) Gypsum
+c) Calcium
+d) Vegetable compost
+#QuestionEnd
+#AnswerStart
+Answer: a) Lime
+#AnswerEnd
+
+#QuestionStart
+Q191) Which of the following separates India and Sri Lanka? [M.P.P.C.S. (Pre) 1990]
+a) Suez Canal
+b) Palk Strait Bay
+c) Gulf of Khambhat
+d) Gulf of Kutch
+#QuestionEnd
+#AnswerStart
+Answer: b) Palk Strait Bay
+#AnswerEnd
+
+#QuestionStart
+Q192) The dust storms originating in Rajasthan in May and June months are caused due to-
+1. Origin of convectional currents at few places
+2. Aravalli hills are parallel to south-western winds
+3. Origin of fast speedy easterly winds
+Code: [R.A.S/R.T.S. (Pre) 2018]
+a) 1 and 3 only
+b) 1,2 and 3
+c) 1 and 2 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q193) Palghat is situated between: [R.A.S./R.T.S. (Pre) 2013]
+a) The Nilgiris and the Cardamom Hills
+b) The Nilgiris and the Annamalai Hills
+c) The Annamalai Hills and the Cardamom Hills
+d) The Cardamom Hills and Palani Hills
+#QuestionEnd
+#AnswerStart
+Answer: b) The Nilgiris and the Annamalai Hills
+#AnswerEnd
+
+#QuestionStart
+Q194) Winter rainfall in Tamil Nadu is mostly due to- [R.A.S./R.T.S. (Pre) 2010]
+a) Western disturbances
+b) South-West monsoon
+c) North-East monsoon
+d) South-East monsoon
+#QuestionEnd
+#AnswerStart
+Answer: c) North-East monsoon
+#AnswerEnd
+
+#QuestionStart
+Q195) Which one of the following is called ‘flame of the forest’? [R.A.S./R.T.S. (Pre) 2010]
+a) Bouhinia variegata
+b) Jacaranda mimosafolia
+c) Butea monosperma
+d) Tectona grandis
+#QuestionEnd
+#AnswerStart
+Answer: c) Butea monosperma
+#AnswerEnd
+
+#QuestionStart
+Q196) Which of the following Indian state shares maximum boundary with Myanmar? [R.A.S./R.T.S. (Pre) 2007]
+a) Manipur
+b) Arunachal Pradesh
+c) Mizoram
+d) Nagaland
+#QuestionEnd
+#AnswerStart
+Answer: b) Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q197) Match the following river given in list-I with the place of origin given in list-II:
+| List-J (River) | List-II (Place of Origin) |
+|---|---|
+| A. Mand | 1. Ludeng hills |
+| B. Banas | 2. Sonbera plateau |
+| C. Jonk | 3. Devgarh hills |
+| D. Keio | 4. Mainpat |
+Code: [Chhattisgarh PCS (Pre) 2021]
+a) A-3, B-1, C-4, D-2
+b) A-4, B-3, C-2, D-1
+c) A-2, B-3, C-1, D-4
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q198) Four rivers have been mentioned below.
+What will be the decreasing order of these rivers in length (starting from the longest to the shortest)?
+i. Mahanadi
+ii. Krishna
+iii. Godavari
+iv. Narmada
+Code: [Chhattisgarh P.C.S. (Pre) 2020]
+a) (iv), (i), (ii), (iii)
+b) (ii), (iii), (i), (iv)
+c) (i), (ii), (iv), (iii)
+d) (iii), (ii), (iv), (i)
+#QuestionEnd
+#AnswerStart
+Answer: d) (iii), (ii), (iv), (i)
+#AnswerEnd
+
+#QuestionStart
+Q199) Choose the correct statement out of the four statements given regarding alluvial soil: [Chhattisgarh P.C.S. (Pre) 2020]
+a) This soil is found in about 14% portion of India’s land surface.
+b) Phosphoric acid is found in rich quantities in this soil.
+c) This soil is also known by names such as Reh, Thur and Chopan.
+d) This soil is not fertile.
+#QuestionEnd
+#AnswerStart
+Answer: b) Phosphoric acid is found in rich quantities in this soil.
+#AnswerEnd
+
+#QuestionStart
+Q200) Which religious place is situated at the confluence of Mand and Mahanadi? [Chhattisgarh PCS (Pre) 2019]
+a) Didineshwari Devi
+b) Angar Moti
+c) Chandrahasini Devi
+d) Mahamaya
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandrahasini Devi
+#AnswerEnd
+
+#QuestionStart
+Q201) Which of the following regions is not affected much by the Arabian Sea branch of Monsoon? [Chhattisgarh P.C.S. (Pre) 2016]
+a) The Western Ghat
+b) Deccan Plateau
+c) Madhya Pradesh
+d) Chhattisgarh Basin
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: d) Chhattisgarh Basin
+#AnswerEnd
+
+#QuestionStart
+Q202) Which of the following is the correct order of the Himalayan Ranges from south to north in the western section? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Great Himalaya - Lesser Himalaya -Shiwalik
+b) Shiwalik - Lesser Himalaya - Great Himalaya
+c) Lesser Himalaya - Great Himalaya -Shiwalik
+d) Shiwalik - Great Himalaya - Lesser Himalaya
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Shiwalik - Lesser Himalaya - Great Himalaya
+#AnswerEnd
+
+#QuestionStart
+Q203) Sriharikota island is located in- [Chhattisgarh P.C.S. (Pre) 2011]
+a) Near Chilka Lake
+b) Near the mouth of Mahanadi River
+c) Near Pulicat Lake
+d) Near the mouth of Godavari River
+#QuestionEnd
+#AnswerStart
+Answer: c) Near Pulicat Lake
+#AnswerEnd
+
+#QuestionStart
+Q204) Which of the following characteristic features is appropriate for Narmada River? [Jharkhand P.C.S. (Pre) 2021]
+a) Volcanic origin
+b) Wind origin
+c) Structural origin
+d) Glacial origin
+#QuestionEnd
+#AnswerStart
+Answer: c) Structural origin
+#AnswerEnd
+
+#QuestionStart
+Q205) In which of the following parts of India ‘Atolls’ are commonly found? [Jharkhand P.C.S. (Pre) 2021]
+a) Near Sunderbans
+b) Near Khambhat Gulf
+c) Near Lakshadweep
+d) Near Rameshwaram
+#QuestionEnd
+#AnswerStart
+Answer: c) Near Lakshadweep
+#AnswerEnd
+
+#QuestionStart
+Q206) Which of the following statements is true regarding Laterite soil in India
+1. Laterite soil develops in areas with high temperatures and heavy rainfall.
+2. Laterite soil is rich in humus and found in West Bengal, Assam and Odisha.
+Code: [Jharkhand P.C.S. (Pre) 2021]
+a) Only 2 is true
+b) Both 1 and 2 are true
+c) Both 1 and 2 are false
+d) Only 1 is true
+#QuestionEnd
+#AnswerStart
+Answer: d) Only 1 is true
+#AnswerEnd
+
+#QuestionStart
+Q207) Which of the following pairs is not correctly matched? [Jharkhand P.C.S. (Pre) 2016]
+a) Total area of India: 3.28 million sq. km
+b) Latitudinal extent: 8°4’ N - 37°6’ N
+c) Longitudinal extent: 68°7’ E - 97°25’ E
+d) Number of states in India: 26
+#QuestionEnd
+#AnswerStart
+Answer: d) Number of states in India: 26
+#AnswerEnd
+
+#QuestionStart
+Q208) Name the place in India where Bay of Bengal, Arabian Sea and Indian Ocean meet. [Jharkhand P.C.S. (Pre) 2016]
+a) Kanyakumari
+b) Indira Point
+c) Nagercoil
+d) Rameswaram
+#QuestionEnd
+#AnswerStart
+Answer: a) Kanyakumari
+#AnswerEnd
+
+#QuestionStart
+Q209) Consider the following relief features:
+1. Zaskar Range
+2. Dhauladhar Range
+3. Ladakh Range
+4. Karakoram Range
+The correct south to the northward sequence of the above relief features is- [Jharkhand P.C.S. (Pre) 2013]
+a) 2, 1,3,4
+b) 2, 3, 4, I
+c) 4, 3, 2, 1
+d) 4, 2, 1, 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 2, 1,3,4
+#AnswerEnd
+
+#QuestionStart
+Q210) Which of the following rivers does not make estuary? [Jharkhand P.C.S. (Pre) 2003]
+a) Narmada
+b) Tapti
+c) Mandavi
+d) Mahanadi
+#QuestionEnd
+#AnswerStart
+Answer: d) Mahanadi
+#AnswerEnd
+
+#QuestionStart
+Q211) Which of the following Island is not a part of Laccadive Island? [Uttarakhand PCS (Pre) 2021]
+a) Tilanchong
+b) Agathi
+c) Kavaratti
+d) Kalpeni
+#QuestionEnd
+#AnswerStart
+Answer: a) Tilanchong
+#AnswerEnd
+
+#QuestionStart
+Q212) Koppen has used which of the following words for the climate of Great Plains of India? [Uttarakhand PCS (Pre) 2021]
+a) Amw
+b) As
+c) Cwg
+d) Aw
+#QuestionEnd
+#AnswerStart
+Answer: c) Cwg
+#AnswerEnd
+
+#QuestionStart
+Q213) Out of the following rivers which is not the tributary of river Sutlej? [Uttarakhand PCS (Pre) 2021]
+a) Baspa
+b) Spiti
+c) Ravi
+d) Beas
+#QuestionEnd
+#AnswerStart
+Answer: c) Ravi
+#AnswerEnd
+
+#QuestionStart
+Q214) ‘Khair’ (Catechu) is a tree of which type of forest? [Uttarakhand PCS (Pre) 2021]
+a) Sub-Alpine Forests
+b) Cool-Temperate Forests
+c) Sub-Tropical Forests
+d) Temperate Forests
+#QuestionEnd
+#AnswerStart
+Answer: c) Sub-Tropical Forests
+#AnswerEnd
+
+#QuestionStart
+Q215) Which plateau lies between the Aravalli and the Vindhya ranges? [Uttarakhand PCS (Pre) 2021]
+a) Malwa Plateau
+b) Chhota Nagpur Plateau
+c) Deccan Plateau
+d) Peninsular Plateau
+#QuestionEnd
+#AnswerStart
+Answer: a) Malwa Plateau
+#AnswerEnd
+
+#QuestionStart
+Q216) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Doab) | List-II (Rivers) |
+|---|---|
+| A. Bist Doab | 1. Between Ravi and Chenab |
+| B. Bari Doab | 2. Between Ravi and Beas |
+| C. Rachna Doab | 3. Between Beas and Satluj |
+| D. Chaj Doab | 4. Between Chenab and Jhelum |
+Code: [Uttarakhand PCS (Pre) 2016]
+a) A-3, B-2, C-1, D-4
+b) A-1, B-2, C-3, D-4
+c) A-4, B-3, C-2, D-1
+d) A-1, B-4, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-2, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q217) Which one of the following groups is the correct sequence of mountain peaks from east to west? [Uttarakhand P.C.S. (Pre) 2012]
+a) Everest, Kanchenjunga, Annapurna, Dhaulagiri
+b) Kanchenjunga, Everest, Annapurna, Dhaulagiri
+c) Kanchenjunga, Dhaulagiri, Annapurna, Everest
+d) Everest, Kanchenjunga, Dhaulagiri, Annapurna
+#QuestionEnd
+#AnswerStart
+Answer: b) Kanchenjunga, Everest, Annapurna, Dhaulagiri
+#AnswerEnd
+
+#QuestionStart
+Q218) Match list-I with list-II and select the correct answer by using the codes given below the lists:
+| List-I (Source Region) | List-II (River) |
+|---|---|
+| A. Brahmagiri Hills | 1. Cauvery |
+| B. Verinag Spring | 2. Jhelum |
+| C. Mahabaleshwar | 3. Krishna |
+| D. Chhota Nagpur Plateau | 4. Subarnarekha |
+Code: [Uttarakhand PCS (Pre) 2016]
+a) A-4, B-3, C-2, D-1
+b) A-1, B-2, C-3, D-4
+c) A-2, B-1, C-4, D-3
+d) A-3, B-2, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-1, B-2, C-3, D-4
+#AnswerEnd
+
+#QuestionStart
+Q219) Which among the following places will have maximum length of day in the month of June? [Uttarakhand PCS (Mains) 2006]
+a) Hyderabad
+b) Chennai
+c) Bhopal
+d) Delhi
+#QuestionEnd
+#AnswerStart
+Answer: d) Delhi
+#AnswerEnd
+
+#QuestionStart
+Q220) In which part of Uttarakhand are artesian wells found? [Uttarakhand P.C.S. (Mains) 2006]
+a) Bhabhar
+b) Tarai
+c) Shivalik Hills
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Tarai
+#AnswerEnd
+
+#QuestionStart
+Q221) Name the river which flows between Kedarnath and Rudra Prayag? [Uttarakhand P.C.S. (Pre) 2006]
+a) Bhagirathi
+b) Alaknanda
+c) Saryu
+d) Mandakini
+#QuestionEnd
+#AnswerStart
+Answer: d) Mandakini
+#AnswerEnd
+
+#QuestionStart
+Q222) The birch tree is found in ■ [Uttarakhand P.C.S. (Pre) 2006]
+a) Aravallis
+b) Himalayas
+c) Nilgiris
+d) Vindhyas
+#QuestionEnd
+#AnswerStart
+Answer: b) Himalayas
+#AnswerEnd
+
+#QuestionStart
+Q223) Consider the following clues about a State of India:
+1. It is known as land of red River and blue hills’.
+2. It contains three of the six physiographic divisions of India.
+3. It covers about 2.39 percent of total areas of the country.
+Identify the State on the basis of the given clues. [CDS-2023(I)]
+a) Karnataka
+b) Andhra Pradesh
+c) Assam
+d) Chhattisgarh
+#QuestionEnd
+#AnswerStart
+Answer: c) Assam
+#AnswerEnd
+
+#QuestionStart
+Q224) Which of the following sets of States shares boundary with Telangana? [CDS-2023(I)]
+a) Odisha, Andhra Pradesh, Karnataka, Maharashtra
+b) Chhattisgarh, Andhra Pradesh, Karnataka, Madhya Pradesh
+c) Odisha, Andhra Pradesh, Karnataka, Madhya Pradesh
+d) Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra
+#QuestionEnd
+#AnswerStart
+Answer: d) Chhattisgarh, Andhra Pradesh, Karnataka, Maharashtra
+#AnswerEnd
+
+#QuestionStart
+Q225) Rani told her friends that last year she did boating in four different lakes, namely, Loktak, Barapani, Kolleru and Pulicat. Which of the following States did she visit? [CDS-2023(I)]
+a) Manipur, Tamil Nadu, Meghalaya, Kerala
+b) Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu
+c) Mizoram, Tamil Nadu, Assam, Kerala
+d) Mizoram, Assam, Andhra Pradesh, Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b) Manipur, Meghalaya, Andhra Pradesh, Tamil Nadu
+#AnswerEnd
+
+#QuestionStart
+Q226) The Tropic of Cancer passes through how many coastal and landlocked States of India, respectively? [CDS-2023(I)]
+a) 1 and 7
+b) 2 and 6
+c) 2 and 5
+d) 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 6
+#AnswerEnd
+
+#QuestionStart
+Q227) Which one among the following States has the longest extension in north- south direction? [CDS-2023(I)]
+a) Jharkhand
+b) Telangana
+c) Odisha
+d) Chhattisgarh
+#QuestionEnd
+#AnswerStart
+Answer: d) Chhattisgarh
+#AnswerEnd
+
+#QuestionStart
+Q228) Consider the following characteristics of a soil type:
+1. These soils consist of various proportions of sand, silt and clay.
+2. These soils contain adequate proportions of potash, phosphoric acid and lime.
+3. These soils can be further classified on the basis of their age.
+Identify the type of soli on the basis of the given characteristics. [CDS-2023(I) ]
+a) Alluvial
+b) Laterite
+c) Arid
+d) Black
+#QuestionEnd
+#AnswerStart
+Answer: a) Alluvial
+#AnswerEnd
+
+#QuestionStart
+Q229) Indus river basin is extended up to [CDS-2023(I)]
+a) Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab
+b) Ladakh, Jammu and Kashmir, Punjab, Haryana
+c) Ladakh, Jammu and Kashmir, Punjab, Haryana, Rajasthan
+d) Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: d) Ladakh, Jammu and Kashmir, Himachal Pradesh, Punjab, Haryana, Rajasthan
+#AnswerEnd
+
+#QuestionStart
+Q230) Which one of the following Indian States has the longest coastline? [CDS-2023(I) ]
+a) Tamil Nadu
+b) Gujarat
+c) Maharashtra
+d) Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q231) Which one of the following climatic types (Köppen’s Scheme) is best suited to describe the climate of the western fringe of Rajasthan? [CDS-2022(I)]
+a) Amw
+b) Aw
+c) Bwhw
+d) Cwg
+#QuestionEnd
+#AnswerStart
+Answer: c) Bwhw
+#AnswerEnd
+
+#QuestionStart
+Q232) Which one of the following States/Union Territories has the highest percentage of forest area to the total geographical area? [CDS-2022(I)]
+a) Arunachal Pradesh
+b) Lakshadweep
+c) Nagaland
+d) Mizoram
+#QuestionEnd
+#AnswerStart
+Answer: b) Lakshadweep
+#AnswerEnd
+
+#QuestionStart
+Q233) Manikaran in Himachal Pradesh is known for: [CDS-2022(I)]
+a) Solar energy
+b) Geothermal energy
+c) Bioenergy
+d) Wind energy
+#QuestionEnd
+#AnswerStart
+Answer: b) Geothermal energy
+#AnswerEnd
+
+#QuestionStart
+Q234) Match List I witth List II and select the correct answer using the code given below the lists:
+| List I (Soil Type) | List II (Salient Characteristic) |
+|---|---|
+| A. Entisols | 1. Soils having weakly or quickly developed horizons |
+| B. Inceptisols | 2. Weakly developed soils with no horizons |
+| C. Histosols | 3. These soils are very old and highly weathered |
+| D. Oxisols | 4. These soils have very high quantity of organic matter in the upper layers |
+Code: [CDS-2022(I)]
+a) A-2, B-1, C-4, D-3
+b) A-2, B-4, C-1, D-3
+c) A-3, B-4, C-1, D-2
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q235) Ten Degree Channel is found between: [CDS-2022(I)]
+a) North Andaman and Middle Andaman.
+b) South Andaman and Little Andaman.
+c) Little Andaman and Car Nicobar.
+d) Car Nicobar and Great Nicobar.
+#QuestionEnd
+#AnswerStart
+Answer: c) Little Andaman and Car Nicobar.
+#AnswerEnd
+
+#QuestionStart
+Q236) Match List I with List II and select the correct answer using the code given below the lists:
+| List I (Waterfall) | List II (State) |
+|---|---|
+| A. Barkana | 1. Tamil Nadu |
+| B. Dudhsagar | 2. Odisha |
+| C. Duduma | 3. Karnataka |
+| D. Kiliyur | 4. Goa |
+Code: [CDS-2022(D]
+a) A-3, B-2, C-4, D-1
+b) A-3, B-4, C-2, D-1
+c) A-1, B-4, C-2, D-3
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q237) Match List I with List II and select the correct answer using the code given below the lists:
+| List 1 (Lake) | List.II. (State) |
+|---|---|
+| A. Kaliveli | 1. Sikkim |
+| B. Khajjiar | 2. Kerala |
+| C. Khecheopalri | 3. Himachal Pradesh |
+| D. Vembanad | 4. Tamil Nadu |
+Code : [CDS-2022(I)]
+a) A-2, B-1, C-3, D-4
+b) A-2, B-3, C-1, D-4
+c) A-4, B-1, C-3, D-2
+d) A-4, B-3, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q238) Mount Thullier (642 m) is an important mountain peak of Andaman and Nicobar Islands. It is located in: [CDS-2022(I)]
+a) North Andaman
+b) Middle Andaman
+c) South Andaman
+d) Great Nicobar
+#QuestionEnd
+#AnswerStart
+Answer: d) Great Nicobar
+#AnswerEnd
+
+#QuestionStart
+Q239) Which one of the following is a tributary of Barak River in Manipur? [CDS-2022(II)]
+a) Dhaleswari
+b) Subansiri
+c) Dhansiri
+d) Manas
+#QuestionEnd
+#AnswerStart
+Answer: a) Dhaleswari
+#AnswerEnd
+
+#QuestionStart
+Q240) Which types of vegetation will you find on the way as you travel from Bikaner to Konark by road by shortest distance? [CDS-2022(II)]
+a) Tropical thorny, Desert, Moist deciduous, Mangrove
+b) Desert, Tropical thorny, Moist deciduous, Mangrove
+c) Moist deciduous, Tropical thorny, Mangrove, Desert
+d) Desert, Tropical thorny, Mangrove, Moist deciduous
+#QuestionEnd
+#AnswerStart
+Answer: b) Desert, Tropical thorny, Moist deciduous, Mangrove
+#AnswerEnd
+
+#QuestionStart
+Q241) Consider the following statements about Karewas:
+1. These are the lacustrine deposits of Pleistocene period.
+2. These are found along the lower slopes of Pir Panjal.
+3. Karewas are well known for the cultivation of saffron, almond and walnut.
+Mow many of the above statements is/are correct? [CDS-2022(II)]
+a) 1
+b) 2
+c) 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) 3
+#AnswerEnd
+
+#QuestionStart
+Q242) Consider the following statements about an Indian State:
+1. It is well known globally for its variety of rocks and minerals.
+2. It has the largest deposits of Chrysotile Asbestos in the country.
+3. The Neelam Sanjiva Reddy Sagar Hydel Project is located in this State.
+Identify the State from the following: [CDS-2022(II)]
+a) Jharkhand
+b) Rajasthan
+c) Andhra Pradesh
+d) Chhattisgarh
+#QuestionEnd
+#AnswerStart
+Answer: c) Andhra Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q243) Which of the following statements about the coasts of India is/are correct? [CDS-2022(II)]
+1. The West Coast of India is a high rocky, retreating coast.
+2. The West Coast of India is dominated by erosional landforms.
+3. The East Coast of India, however, is a low sedimentary coast exhibiting depositional forms.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q244) Which one of the following States/UTs has the largest area under Coral Reefs in India? [CDS-2022(H)j
+a) Gujarat
+b) Tamil Nadu
+c) Andaman and Nicobar Islands
+d) Lakshadweep
+#QuestionEnd
+#AnswerStart
+Answer: c) Andaman and Nicobar Islands
+#AnswerEnd
+
+#QuestionStart
+Q245) Ill which one of the following highlands of India can you find temperate forests called ‘Sholas’? [CDS-2022(H)]
+a) Nilgiris
+b) Vindhyas
+c) Satpuras
+d) Himalayas
+#QuestionEnd
+#AnswerStart
+Answer: a) Nilgiris
+#AnswerEnd
+
+#QuestionStart
+Q246) The Indian desert also known as Marusthali is believed to be under the sea during which one of the following eras? [(CDS-2022(II)]
+a) Cenozoic era
+b) Palaeozoic era
+c) Mesozoic era
+d) Archaean and Pre-Cambrian era
+#QuestionEnd
+#AnswerStart
+Answer: c) Mesozoic era
+#AnswerEnd
+
+#QuestionStart
+Q247) Identify the type of soil on the basis of the given characteristics:
+1. They are rich in lime, iron, magnesia and alumina.
+2. They are generally clayey, deep and impermeable.
+3. They are mainly found in Maharashtra, Madhya Pradesh and Gujarat.
+Select the correct answer using the codes given below: [CDS 2021 (I)]
+a) Laterite soil
+b) Red and yellow soil
+c) Saline soil
+d) Black soil
+#QuestionEnd
+#AnswerStart
+Answer: d) Black soil
+#AnswerEnd
+
+#QuestionStart
+Q248) Alluvial soils vary in nature from sandy loam to clay. They are generally [CDS 2021 (I)]
+a) poor in potash and rich in phosphorus.
+b) poor in both potash and phosphorus.
+c) rich in both potash and phosphorus.
+d) rich in potash and poor in phosphorus.
+#QuestionEnd
+#AnswerStart
+Answer: d) rich in potash and poor in phosphorus.
+#AnswerEnd
+
+#QuestionStart
+Q249) Which one of the following water bodies separates the Andaman and the Nicobar islands? [CDS 2021 (I)]
+a) Gulf of Mannar
+b) Ten Degree Channel
+c) Eleven Degree Channel
+d) Palk Strait
+#QuestionEnd
+#AnswerStart
+Answer: b) Ten Degree Channel
+#AnswerEnd
+
+#QuestionStart
+Q250) Which one of the following longitudes is the standard meridian of India? [CDS 2021 (I)]
+a) 83°30’E
+b) 82°30’E
+c) 82°30’W
+d) 83°30’W
+#QuestionEnd
+#AnswerStart
+Answer: b) 82°30’E
+#AnswerEnd
+
+#QuestionStart
+Q251) Four persons are travelling to different States of India. To whom will you advise to protect oneself from blizzards? [CDS 2021 (II)]
+a) The person travelling to Arunachal Pradesh
+b) The person travelling to Assam
+c) The person travelling to Tripura
+d) The person travelling to Odisha
+#QuestionEnd
+#AnswerStart
+Answer: a) The person travelling to Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q252) Which one of the following biosphere reserves comprises islands with estuaries, beaches, coral reefs, salt marshes and mangroves? [CDS 2021 (II)]
+a) Sunderban biosphere reserve
+b) Gulf of Mannar biosphere reserve
+c) Nilgiri biosphere reserve
+d) Nandadevi biosphere reserve
+#QuestionEnd
+#AnswerStart
+Answer: b) Gulf of Mannar biosphere reserve
+#AnswerEnd
+
+#QuestionStart
+Q253) Which of the following statements is/are correct with respect to Time Zone in India?
+1. There is one standard time for the whole country.
+2. Andaman and Nicobar Islands and Lakshadweep Islands have different Time Zones.
+3. Indian Standard Time (1ST) is five and half hours behind GMT.
+Select the correct answer using the codes given below. [CDS-2021(II)]
+a) Only 1
+b) Only 2
+c) 1 and 2
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q254) D had recently visited Khardung La, Nubra Valley and several Buddhist monasteries. Which one of the following States / UT had she visited? [CDS-2021(II)]
+a) Himachal Pradesh
+b) Uttarakhand
+c) Sikkim
+d) Ladakh
+#QuestionEnd
+#AnswerStart
+Answer: d) Ladakh
+#AnswerEnd
+
+#QuestionStart
+Q255) Which one of the following states receives rainfall from both the Arabian Sea branch and the Bay of Bengal branch of Monsoon? [CDS-2021(II)]
+a) Punjab
+b) Maharashtra
+c) Meghalaya
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: a) Punjab
+#AnswerEnd
+
+#QuestionStart
+Q256) S had witnessed contour bunding and contour ploughing while visiting one of the states in India. Identify the state from the options given below. [CDS-2021(II)]
+a) Punjab
+b) Haryana
+c) Himachal Pradesh
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: c) Himachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q257) D performs her train journey by the shortest route from Bengaluru to New Delhi. Which one of the following rivers will she not cross while performing the journey? [CDS-2021(II)]
+a) Narmada
+b) Yamuna
+c) Godavari
+d) Krishna
+#QuestionEnd
+#AnswerStart
+Answer: b) Yamuna
+#AnswerEnd
+
+#QuestionStart
+Q258) Identify the State on the basis of the following characteristics.
+1. Tropic of Cancer passes through the state.
+2. The state has more North-South extension.
+3. The state has international border with Bangladesh and Myanmar.
+Select the correct using the codes given below: [CDS-2021(II)]
+a) Tripura
+b) Mizoram
+c) Nagaland
+d) Manipur
+#QuestionEnd
+#AnswerStart
+Answer: b) Mizoram
+#AnswerEnd
+
+#QuestionStart
+Q259) M wants to visit a place in a Union Territory, which is located at 34° N and 77° E. Which one of the following Union Territories must he have planned to visit? [CDS-2021(II)]
+a) Andaman and Nicobar Islands
+b) Lakshadweep
+c) Puducherry
+d) Ladakh
+#QuestionEnd
+#AnswerStart
+Answer: d) Ladakh
+#AnswerEnd
+
+#QuestionStart
+Q260) Which one of the following rivers joins Ganga directly? [CDS 2020 (I)]
+a) Chambal
+b) Son
+c) Betwa
+d) Ken
+#QuestionEnd
+#AnswerStart
+Answer: b) Son
+#AnswerEnd
+
+#QuestionStart
+Q261) Which one of the following Indian places receives minimum rainfall in a year? [CDS 2020 (II)]
+a) Jodhpur
+b) Leh
+c) New Delhi
+d) Bengaluru
+#QuestionEnd
+#AnswerStart
+Answer: b) Leh
+#AnswerEnd
+
+#QuestionStart
+Q262) Which one of the following is not correct regarding South India? [CDS 2019 (II)]
+a) Diurnal range of temperature is less
+b) Annual range of temperature is less
+c) Temperature is high throughout the year
+d) Extreme climatic conditions are found
+#QuestionEnd
+#AnswerStart
+Answer: d) Extreme climatic conditions are found
+#AnswerEnd
+
+#QuestionStart
+Q263) Which one of the following statements regarding temperate coniferous forest biome is not correct? [CDS 2019 (II)]
+a) They are characterised by very little undergrowth.
+b) They have a growing period of 50. to 100 days in a year.
+c) There is low variation in annual temperature.
+d) There is high range in spatial distribution of annual precipitation.
+#QuestionEnd
+#AnswerStart
+Answer: c) There is low variation in annual temperature.
+#AnswerEnd
+
+#QuestionStart
+Q264) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I (Peak) | List II (Name of Hill) |
+|---|---|
+| A. Anamudi | 1. Nilgiri |
+| B. Doddabetta | 2. Satpura |
+| C. Dhupgarh | 3. Aravalli |
+| D. Guru Shikhar | 4. Annamalai |
+Codes: [CDS 2019 (II)]
+a) A-3, B-2, C-1, D-4
+b) A-3, B-1, C-2, D-4
+c) A-4, B-1, C-2, D-3
+d) A-4, B-2, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q265) Where are the largest quantity of cichlids found in India? [CDS 2019 (II)]
+a) Backwaters of Kerala
+b) Sunderbans
+c) Narmada
+d) Godavari
+#QuestionEnd
+#AnswerStart
+Answer: a) Backwaters of Kerala
+#AnswerEnd
+
+#QuestionStart
+Q266) The term ‘soil impoverishment’ relates to which one of the following? [CDS 2019 (II)]
+a) Soil erosion
+b) Soil deposition
+c) Soil getting very deficient in plant nutrients
+d) Soil getting enriched with plant nutrients
+#QuestionEnd
+#AnswerStart
+Answer: c) Soil getting very deficient in plant nutrients
+#AnswerEnd
+
+#QuestionStart
+Q267) Rains caused by thunderstorms during the hot weather season (mid-March to midJune) in Karnataka are called [CDS 2019 (II)]
+a) Kalbaisakhi
+b) Mango showers
+c) Loo
+d) Cherry blossoms
+#QuestionEnd
+#AnswerStart
+Answer: d) Cherry blossoms
+#AnswerEnd
+
+#QuestionStart
+Q268) Which one of the following river valleys of India is under the influence of intensive gully erosion? [CDS 2019 (I)]
+a) Kosi
+b) Chambal
+c) Damodar
+d) Brahmaputra
+#QuestionEnd
+#AnswerStart
+Answer: b) Chambal
+#AnswerEnd
+
+#QuestionStart
+Q269) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I (Type of Lake) | List H (Example) |
+|---|---|
+| A. Tectonic | 1. Lonar Lake |
+| B. Crater | 2. Gangabal Lake |
+| C. Glacial | 3. Purbasthali Lake |
+| D. Fluvial | 4. Bhimtal Lake |
+Codes: [CDS 2019 (I)]
+a) A-4, B-1, C-2, D-3
+b) A-4, B-2, C-1, D-3
+c) A-3, B-1, C-2, D-4
+d) A-3, B-2, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q270) South Arcot and Ramanathapuram receive over 50 percent of their annual rainfall from which one of the following? [CDS 2018 (II)]
+a) South-West monsoon
+b) North-East monsoon
+c) Bay of Bengal branch of summer monsoon
+d) Western disturbances
+#QuestionEnd
+#AnswerStart
+Answer: b) North-East monsoon
+#AnswerEnd
+
+#QuestionStart
+Q271) Which one among the following is not a tributary of river Luni? [CDS 2018 (II)]
+a) Khari
+b) Sukri
+c) Jawai
+d) Banas
+#QuestionEnd
+#AnswerStart
+Answer: d) Banas
+#AnswerEnd
+
+#QuestionStart
+Q272) Which one among the following passes links Lhasa with Ladakh? [CDS 2018 (II)]
+a) Lanak La
+b) Babusar
+c) Burzil
+d) Khyber
+#QuestionEnd
+#AnswerStart
+Answer: a) Lanak La
+#AnswerEnd
+
+#QuestionStart
+Q273) Which one of the following places of India experiences highest atmospheric pressure during winter?
+a) Jaisalmer
+b) Leh
+c) Chennai
+d) Guwahati
+#QuestionEnd
+#AnswerStart
+Answer: b) Leh
+#AnswerEnd
+
+#QuestionStart
+Q274) Consider the following tributaries of river Ganga
+1. Gandak
+2. Kosi
+3. Ghaghara
+4. Gomti
+Which one of the following is the correct order of the above rivers from East to West? [CDS 2018 (I)]
+a) 3,4, 1,2
+b) 2, 1, 3, 4
+c) 2, 3, 1, 4
+d) 1,2, 4, 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 1, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q275) Arrange the following Tiger Reserves of India from North to South
+1. Dudhwa
+2. Panna
+3. Pench
+4. Indravati
+Select the correct answer using the codes given below: [CDS 2017 (II)]
+a) 4, 3, 2, 1
+b) 2, 1, 4, 3
+c) 1,2, 3, 4
+d) 1,3, 2, 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q276) The following consist of two statements, statement I and statement II. Examine these two statements carefully and select the correct answer using the codes given below. Statement I: The interior part of Maharashtra does not receive adequate rain in the summer season.
+Statement II: The interior part ofMaharashtra lies in the rain shadow area of the Western Ghats.
+Codes: [CDS 2017 (II)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q277) Match List I with List II and select the correct answer using the codes given below the lists.
+| List I (Pass) | List II (Place) |
+|---|---|
+| A. Zoji La | 1. Himachal Pradesh |
+| B. Shipki La | 2. Uttarakhand |
+| C. Lipulekh | 3. Jammu and Kashmir |
+| D. Nathu La | 4. Sikkim |
+Code: [CDS 2017 (II)]
+a) A-4, B-2, C-1, D-3
+b) A-4, B-1, C-2, D-3
+c) A-3, B-1, C-2, D-4
+d) A-3, B-2, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-1, C-2, D-4
+#AnswerEnd
+
+#QuestionStart
+Q278) Which of the following statements with respect to the Indian Peninsular Plateau are correct
+1. The Deccan Plateau gradually rises from North to South.
+2. The Malwa Plateau dominates the Vindhyan scraps, forming the Eastern flank of the plateau.
+3. The Western Satpuras separate the Narmada and Tapi rivers.
+4. The Chota Nagpur Plateau is composed of Archaean granite and gneiss rocks.
+Select the correct answer using the codes given below? [CDS 2017 (II)]
+a) 1, 2, 3 and 4
+b) 1, 3 and 4
+c) 2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q279) Which of the following lakes is/are situated in Ladakh?
+1. Tso Kar
+2. Pangong Tso
+3. Tsomgo
+4. Tso Moriri
+Select the correct answer using the codes given below: [CDS 2017 (II)]
+a) Only 1
+b) 2 and 3
+c) 1, 2 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q280) Which of the following statement related to latitude are true?
+1. Rainfall, temperature and vegetation vary with latitude.
+2. The difference between the longest day and the shortest day increases with latitude.
+3. Indira Point is located approximately at 6°45’N latitude.
+Select the correct answer using the codes given below: [CDS 2017 (II)]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q281) Match List 1 with List II and select the correct answer using the codes given below the lists.
+| List I (Lake) | List II (Type of Lake) |
+|---|---|
+| A. Bhimtal | 1. Lagoon |
+| B. Ashtamudi | 2. Landslide |
+| C. Gohna | 3. Tectonic |
+| D. Lonar | 4. Crater |
+Code: [CDS 2017 (II)]
+a) A-3, B-1, C-2, D-4
+b) A-3, B-2, C-1, D-4
+c) A-4, B-2, C-1, D-3
+d) A-4, B-1, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-1, C-2, D-4
+#AnswerEnd
+
+#QuestionStart
+Q282) Which of the following statements is/are correct?
+1. Himalayan rivers have their origin in the snow-covered areas, hence are dry in winter season.
+2. Rivers of the Peninsular Plateau have reached maturity.
+3. Himalayan rivers depict all the three stages of normal cycle of erosion.
+Select the correct answer using the codes given below: [CDS 2017 (II)]
+a) Only 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q283) Which one of the following is the correct sequence of occurrences of rivers from Chennai to Kolkata when travelled by road (shortest distance)? [CDS 2017 (I)]
+a) Krishna, Kaveri, Godavari, Mahanadi, Subarnarekha
+b) Krishna, Periyar, Godavari, Mahanadi, Subarnarekha
+c) Penneru, Krishna, Godavari, Mahanadi, Subarnarekha
+d) Penneru, Mahanadi, Subarnarekha, Godavari, Krishna
+#QuestionEnd
+#AnswerStart
+Answer: c) Penneru, Krishna, Godavari, Mahanadi, Subarnarekha
+#AnswerEnd
+
+#QuestionStart
+Q284) Which one of the following with regard to Aridisol, one of the soil orders, is not correct? [CDS 2017 (I)]
+a) Lack of water for plants during most part of the year
+b) High organic matter
+c) Large accumulation of carbonates at depth
+d) Absence of deep wide cracks
+#QuestionEnd
+#AnswerStart
+Answer: b) High organic matter
+#AnswerEnd
+
+#QuestionStart
+Q285) Which one of the following statements concerning the natural vegetation of India is not correct? [CDS 2016 (II)]
+a) Sal is found in moist deciduous forests
+b) Casuarina is largely found along the coastal region of Tamil Nadu
+c) Deodar is a coniferous species of tree
+d) Shola forests are found mainly on the upper reaches of Himalaya
+#QuestionEnd
+#AnswerStart
+Answer: d) Shola forests are found mainly on the upper reaches of Himalaya
+#AnswerEnd
+
+#QuestionStart
+Q286) Consider the following statements regarding laterite soils of India
+1. Laterite soils are generally red in colour.
+2. Laterite soils are rich in nitrogen and potash.
+3. Laterite soils are well developed in Rajasthan and Uttar Pradesh.
+4. Tapioca and cashew nuts grow well in this soil.
+Which of the statements given above is/are correct? [CDS 2016 (I)]
+a) Only 1
+b) 2, 3 and 4
+c) 1 and 4
+d) 1,2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q287) Consider the following tributaries of river Brahmaputra:
+1. Lohit
+2. Tista
+3. Subansiri
+4. Sankosh
+Arrange the above rivers from West to East: [CDS 2016 (I)]
+a) 2, 4, 3, 1
+b) 2, 3, 4, 1
+c) 4, 2, 3, 1
+d) 3, 1, 2, 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 2, 4, 3, 1
+#AnswerEnd
+
+#QuestionStart
+Q288) Match the following:
+| List I (Regions) | List II (State) |
+|---|---|
+| A. Baghelkhand | 1. West Bengal |
+| B. Kuttanad | 2. Madhya Pradesh |
+| C. Saurashtra | 3. Kerala |
+| D. Rarh | 4. Gujrat |
+Codes: [CDS 2015 (II)]
+a) A-2, B-3, C-4, D-1
+b) A-2, B-4, C-3, D-1
+c) A-1, B-3, C-4, D-2
+d) A-1, B-4, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q289) Match the following:
+| List I (lake) | List II (Type) |
+|---|---|
+| A. Ashtamundi Kayal | 1. Residual (Sweet Water) |
+| B. Himayat Sagar | 2. Lagoon |
+| C. Dal Lake | 3. Glacial |
+| D. Tsomgo Lake | 4. Artificial (Sweet Water) |
+Codes: [CDS 2015 (II)]
+a) A-2, B-4, C-3, D-1
+b) A-2, B-1, C-4, D-3
+c) A-3, B-1, C-4, D-2
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-4, C-3, D-1 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q290) Which of the following are the major factors responsible for the monsoon type of climate in India?
+1. Location
+2. Thermal contrast
+3. Upper air circulation
+4. The Himalayan Mountains
+Select the correct answer using the codes given below: [CDS 2015 (II)]
+a) 1 and 4
+b) 1, 2, 3 and 4
+c) 2, 3 and 4
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q291) If a ship has to go from Chennai to Kochi, it has to go around Sri Lanka rather than crossing through the Palk Strait. Why? [CDS 2015 (II)]
+a) The Palk Strait has disputed islands and the Sri Lankan Navy does not allow the ships to cross through
+b) It is too shallow for ships to cross
+c) Shipping is prohibited through the strait due to its religious significance connected with the epic Ramayana
+d) The around Sri Lanka route is actually shorter than crossing through the Palk Strait
+#QuestionEnd
+#AnswerStart
+Answer: b) It is too shallow for ships to cross
+#AnswerEnd
+
+#QuestionStart
+Q292) Consider the following statements with regard to cold waves in winter season in Northern India:
+1. There is lack of maritime influence.
+2. Northern India is nearer to the Himalayan region.
+3. Air mass comes from polar regions of Northern India.
+Which of the statement(s) given above is/are correct? [CDS 2015 (I)]
+a) Only 1
+b) 1 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q293) Match List I with List II and select the correct answer using the codes given below the lists:
+| List I (Sanctuary) | List II (State) |
+|---|---|
+| A. Sharavath Valley | 1. Gujarat |
+| B. Satkosia Gorge | 2. Goa |
+| C. Pirotan Island | 3. Odisha |
+| D. Bhagwan Mahaveer | 4. Karnataka |
+Codes: [CDS 2015 (I)]
+a) A-2, B-1, C-3, D-4
+b) A-4, B-1, C-3, D-2
+c) A-4, B-3, C-1, D-2
+d) A-2, B-3, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q294) The following item consist of two statements. Statement I and Statement IL You have to examine these two statements carefully and select the answers from these items using the codes given below: Statement I: India’s offshore and deep sea fish catch is very poor considering the marine potential.
+Statement II: Indian coast does not have many gulfs, bays, estuaries and backwaters.
+Codes: [CDS 2015 (I)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q295) Which of the following would have happened if the Himalaya did not exist? [CDS 2014 (II)]
+a) Monsoon rains would have taken place in winter months.
+b) Coastal India would have experienced Mediterranean climate.
+c) North Indian plain would have been much cooler in winter.
+d) North-Western part of India would have experienced humid condition.
+#QuestionEnd
+#AnswerStart
+Answer: c) North Indian plain would have been much cooler in winter.
+#AnswerEnd
+
+#QuestionStart
+Q296) Which of the following method(s) is/ are suitable for soil conservation in hilly region?
+1. Terracing and contour bunding
+2. Shifting cultivation
+3. Contour ploughing
+Select the correct answer using the codes given below: [CDS 2014 (I)]
+a) 1 and 3
+b) Only 2
+c) Only 3
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q297) What would he the influence on the weather conditions when in mid-winter a feeble high pressure develops over the North-Western part of India?
+1. High and dry winds would blow outward from this high pressure area.
+2. The Northern plain would become cold.
+3. Scorching winds (locally called loo) would blow during the day of time.
+4. There would be torrential rains brought by thunderstorms.
+Select the correct answer using the codes given below: [CDS 2014 (I)]
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q298) Veliconda group of low hills is a structural part of which of the following region? [CDS 2014(1)]
+a) Nilgiri Hills
+b) Western Ghats
+c) Eastern Ghats
+d) Cardamom Hills
+#QuestionEnd
+#AnswerStart
+Answer: c) Eastern Ghats
+#AnswerEnd
+
+#QuestionStart
+Q299) Ganga water is being shared at Farakka with which one of the following countries? [CAPF 2022]
+a) Nepal
+b) Bhutan
+c) Bangladesh
+d) Myanmar
+#QuestionEnd
+#AnswerStart
+Answer: c) Bangladesh
+#AnswerEnd
+
+#QuestionStart
+Q300) Which of the following sets of Indian States are landlocked and do not have an international boundary? [CAPF 2022]
+a) Andhra Pradesh. Pradesh. Chhattisgarh, Haryana, Jharkhand and Madhya Pradesh
+b) Chhattisgarh, Haryana, Jharkhand, Madhya Pradesh and Telangana
+c) Chhattisgarh, Haryana, Himachal Pradesh, Madhya Pradesh and Telangana
+d) Andhra Pradesh, Chhattisgarh, Haryana, Himachal Pradesh and Madhya Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Chhattisgarh, Haryana, Jharkhand, Madhya Pradesh and Telangana
+#AnswerEnd
+
+#QuestionStart
+Q301) Arrange the following passes from West to East direction:
+1. Bara Lacha La
+2. Shipki La
+3. Jelep La
+4. Bomdi La
+Select the correct answer using the code given below: [CAPF 2022]
+a) 1-2-3-4
+b) 1-3-2-4
+c) 2-3-4-1
+d) 2-4-3-1
+#QuestionEnd
+#AnswerStart
+Answer: a) 1-2-3-4 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q302) Match List-I with List-II and select the correct answer using the code given below the Lists:
+| List-I (Type of plain) | List-II (Characteristic feature) |
+|---|---|
+| A. Bhabar | 1. Marsh |
+| B. Bhangar | 2. Silt |
+| C. Khadar | 3. Gravels |
+| D. Delta | 4. Kankar |
+Code: [CAPF 2022]
+a) A-3, B-2, C-4, D-1
+b) A-3, B-4, C-2, D-1
+c) A-1, B-4, C-2, D-3
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q303) In which one of the following soils, the salt content is so high that common salt is obtained by evaporating the saline water in some areas? [CAPF 2021]
+a) Peaty soil
+b) Alluvial soil
+c) Laterite soil
+d) Arid soil
+#QuestionEnd
+#AnswerStart
+Answer: d) Arid soil
+#AnswerEnd
+
+#QuestionStart
+Q304) Match List-I with List-II and select the correct answer using the codes given below the lists:
+| List-1 (Tributary) | List-II (River) |
+|---|---|
+| A. Sutlej | 1. Yamuna |
+| B. Kosi | 2. Brahmaputra |
+| C. Teesta | 3. Ganga |
+| D. Chambal | 4. Indus |
+Codes: [CAPF 2021]
+a) A-1, B-3, C-2, D-4
+b) A-1, B-2, C-3, D-4
+c) A-4, B-3, C-2, D-1
+d) A-4, B-2, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q305) Which one of the following is not a desert river? [CAPF2021]
+a) Barak
+b) Rupen
+c) Banas
+d) Machchu
+#QuestionEnd
+#AnswerStart
+Answer: a) Barak
+#AnswerEnd
+
+#QuestionStart
+Q306) Consider the following statements:
+1. River Kaveri has well developed valley.
+2. Valley of River Alakananda is still growing
+3. River Krishna is largest east flowing peninsular river.
+Which of the statements given above is/are correct? [CAPF 2020]
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q307) Which one among the following stations receives maximum rainfall? [CAPF 2020]
+a) Hyderabad
+b) Bengaluru
+c) Delhi
+d) Raipur
+#QuestionEnd
+#AnswerStart
+Answer: d) Raipur
+#AnswerEnd
+
+#QuestionStart
+Q308) Which one of the following latitudes passes through maximum Indian states? [CAPF 2019]
+a) 20° N latitude
+b) 22° N latitude
+c) 24° N latitude
+d) 26° N latitude
+#QuestionEnd
+#AnswerStart
+Answer: c) 24° N latitude
+#AnswerEnd
+
+#QuestionStart
+Q309) Gersoppa Falls is formed by which one of the following rivers? [CAPF 2018]
+a) Lohit
+b) Tungabhadra
+c) Sharavati
+d) Krishna
+#QuestionEnd
+#AnswerStart
+Answer: c) Sharavati
+#AnswerEnd
+
+#QuestionStart
+Q310) Which one of the following major river basins of India is the shortest in length and smaller in terms of catchment area? [CAPF 2018]
+a) Cauvery
+b) Mahi
+c) Penner
+d) Sabarmati
+#QuestionEnd
+#AnswerStart
+Answer: d) Sabarmati
+#AnswerEnd
+
+#QuestionStart
+Q311) Arabian Sea records higher salinity than the Bay of Bengal because [CAPF 2018]
+a) Arabian Sea exhibits high rate of evaporation and low influx of freshwater
+b) Arabian Sea has shallow water
+c) Arabian Sea has more enclosed land
+d) Arabian Sea receives more rainfall
+#QuestionEnd
+#AnswerStart
+Answer: a) Arabian Sea exhibits high rate of evaporation and low influx of freshwater
+#AnswerEnd
+
+#QuestionStart
+Q312) Which one of the following sites does not have coral reef formation? [CAPF 2018]
+a) Gulf of Cambay/Khambhat
+b) Gulf of Mannar
+c) Lakshadweep
+d) Andaman and Nicobar Islands
+#QuestionEnd
+#AnswerStart
+Answer: a) Gulf of Cambay/Khambhat
+#AnswerEnd
+
+#QuestionStart
+Q313) Which one of the following does not pass through the Kaziranga National Park? [CAPF 2017]
+a) The Brahmaputra River
+b) The Diphlu river
+c) National Highway No. 37
+d) Railway Track of Indian Railway
+#QuestionEnd
+#AnswerStart
+Answer: d) Railway Track of Indian Railway
+#AnswerEnd
+
+#QuestionStart
+Q314) Which one of the following statements about the Himalayas is not correct? [CAPF 2017]
+a) They are young fold mountains.
+b) They have geosynclinal rocks.
+c) Himalayan Frontal Faults (HFF) separates Himalaya from Tibet.
+d) Indus and Sutlej rivers form antecedent drainage in Himalaya
+#QuestionEnd
+#AnswerStart
+Answer: c) Himalayan Frontal Faults (HFF) separates Himalaya from Tibet.
+#AnswerEnd
+
+#QuestionStart
+Q315) The Bum-La Pass is located in [CAPF 2017]
+a) Sikkim
+b) Arunachal Pradesh
+c) Himachal Pradesh
+d) Uttarakhand
+#QuestionEnd
+#AnswerStart
+Answer: b) Arunachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q316) Which one of the following rivers flows between Satpura and Vindhya ranges? [CAPF 2016]
+a) Tapi
+b) Sabarmati
+c) Narmada
+d) Mahi
+#QuestionEnd
+#AnswerStart
+Answer: c) Narmada
+#AnswerEnd
+
+#QuestionStart
+Q317) Which of the following statements relating to Dharwar geological system are correct?
+1. They belong to Archaean geological period
+2. They are metamorphosed sedimentary rocks.
+3. They are of great economic importance for its mineral resources.
+4. They are found predominantly in Karnataka, Tamil Nadu, Odisha and Jharkhand.
+Select the correct answer using the code given below. [CAPF 2016]
+a) 1, 2, 3 and 4
+b) 2, 3 and 4 only
+c) 3 and 4 only
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q318) Which one among the following is the most plausible explanation for the location of the Thar Desert in Western India? [CAPF 2014]
+a) Prevalence of sand dunes
+b) The evaporation of moisture by heat
+c) The absence of mountains to the North of Rajasthan to cause orographic rainfall in it.
+d) The Moisture carried by the South-West Monsoon is driven away by the dry upper at current.
+#QuestionEnd
+#AnswerStart
+Answer: c) The absence of mountains to the North of Rajasthan to cause orographic rainfall in it.
+#AnswerEnd
+
+#QuestionStart
+Q319) Which of the following statements with regard to the Indian Peninsular Plateau is/ are correct?
+1. The Southern plateau block is formed mainly of granite and gneiss.
+2. The Deccan lava plateau is an elevated tableland consisting of horizontally arranged lava sheets.
+3. The Malwa plateau dominates the Vindhyan scraps, forming the Eastern flank of the plateau.
+4. The trough of the Narmada and Tapti is interposed between the Vindhyan and the Satpura ranges.
+Select the correct answer using the codes given below. [CAPF 2014]
+a) 1,2 and 3
+b) 1, 2 and 4
+c) 1 and 2 only
+d) 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q320) Three important rivers of the Indian sub-continent have their source near the Manasarova? Lake in the Great Himalayas. Which among the following are the rivers? [CAPF 2014]
+a) Indus, Jhelum and Sutlej
+b) Sutlej, Yamuna and Brahmaputra
+c) Brahmaputra, Indus and Sutlej
+d) Sutlej, Jhelum and Yamuna
+#QuestionEnd
+#AnswerStart
+Answer: c) Brahmaputra, Indus and Sutlej
+#AnswerEnd

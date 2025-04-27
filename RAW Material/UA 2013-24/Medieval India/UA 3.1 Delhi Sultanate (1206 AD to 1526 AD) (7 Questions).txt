@@ -1,0 +1,92 @@
+#QuestionStart
+Q1) Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal- cum-aqueduct several kilometres long from the river to the capital city? (2023)
+a) Devaraya I
+b) Mallikarjuna
+c) Vira Vijaya
+d) Virupaksha
+#QuestionEnd
+#AnswerStart
+Answer: a) Devaraya I
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to Indian history, consider the following statements : (2022)
+1. The first Mongol invasion of India happened during the reign of Jalal-ud- din Khalji.
+2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.
+3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.
+Which of the statements given above is/are correct?
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2021)
+1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince.
+2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.
+3. It was during the region of Deva Raya II of the Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.
+Which of the statements given above is / are correct?
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: (2019)
+1. In the revenue administration of the Delhi Sultanate, the in charge of revenue collection was known as ‘Amil’.
+2. The iqta system of Sultans of Delhi was an ancient indigenous institution.
+3. The office of ‘Mir Bakshi’ came into existence during the reign of Khalji Sultans of Delhi.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Banjaras during the medieval period of Indian history were (2016)
+a) Agriculture
+b) Warriors
+c) Weavers
+d) Traders
+#QuestionEnd
+#AnswerStart
+Answer: d) Traders
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the economic history of medieval India, the term ‘Araghatta’ refers to (2016)
+a) bonded labor
+b) land grants made to military officers
+c) waterwheel used in the irrigation of land
+d) wasteland converted to cultivated land
+#QuestionEnd
+#AnswerStart
+Answer: c) waterwheel used in the irrigation of land
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to Indian history, which of the following is/are the essential element/ elements of the feudal system? (2015)
+1. A very strong centralized political authority and a very weak provincial or local political authority.
+2. The emergence of an administrative structure based on control and possession of the land.
+3. Creation of lord-vassal relationship between the feudal lord and his overlord.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd

@@ -1,0 +1,520 @@
+#QuestionStart
+Q1) With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements:
+1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.
+2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations
+3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for money bill, but joint sitting becomes necessary for Finance bill.
+How many of the above, statements are correct? [UPSC CSE Pre Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q2) Which of the following is/are the exclusive power(s) of Lok Sabha? [UPSC CSE Pre. 2022]
+1. To ratify the declaration of Emergency
+2. To pass a motion of no-confidence against the Council of Ministers
+3. To impeach the President of India
+Select the correct answer using the code given below:
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to Deputy Speaker of Lok Sabha, consider the following statements: [UPSC CSE Pre. 2022]
+1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix.
+2. There is a mandatory provision that the election of a candidate, as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party.
+3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings.
+4. The well-established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.
+Which of the statements given above are correct?
+a) 1 and 3 only
+b) 1, 2 and 3
+c) 3 and 4 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to anti-defection law in India, consider the following statements:
+1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.
+2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.
+Which of the statements given above is/are correct? [UPSC CSE Pre Pre 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements:
+1. A bill amending the Constitution requires a prior recommendation of the Président of India.
+2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.
+3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) We adopted parliamentary democracy based on the British model, but how does our model differ from that model?
+1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited.
+2. In India, matters related to the constitutionality of Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court.
+Select the correct answer using the code given below. [UPSC CSE Pre 2021]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q7) Rajya Sabha has equal powers with Lok Sabha in [UPSC CSE Pre. 2020]
+a) the matter of creating new All India Services
+b) amending the Constitution
+c) the removal of the government
+d) making cut motions
+#QuestionEnd
+#AnswerStart
+Answer: b) amending the Constitution
+#AnswerEnd
+
+#QuestionStart
+Q8) In India, which of the following review the independent regulators in sectors like telecommunications, insurance, electricity, etc.? [UPSC CSE Pre. 2019]
+1. Ad Hoc Committee set up by the Parliament.
+2. Parliamentary Department Related Standing Committee
+3. Finance Commission
+4. Financial Sector Legislative Reforms Commission
+5. NITI Aayog
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) I, 3 and 4 only
+c) 3, 4 and 5 only
+d) 2 and 5 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: [UPSC CSE Pre. 2018]
+1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party
+2. In the Lok Sabha, a “Leader of the Opposition” was recognised for the first time in 1969.
+3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of the Opposition.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Regarding Money Bill, which of the following statements is not correct? [UPSC CSE Pre. 2018]
+a) A bill shall be deemed to be a Money Bill if it contains only provisions relating to imposition, abolition, remission, alteration or regulation of any tax.
+b) A Money Bill has provisions for the custody of the Consolidated Fund of India or the Contingency Fund of India.
+c) A Money Bill is concerned with the appropriation of moneys out of the Contingency Fund of India.
+d) A Money Bill deals with the regulation of borrowing of money or giving of any guarantee by the Government of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) A Money Bill is concerned with the appropriation of moneys out of the Contingency Fund of India.
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: [UPSC CSE Pre. 2018]
+1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the assembly.
+2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive and is within the scope of such delegation? [UPSC CSE Pre. 2018]
+a) Committee on Government Assurances
+b) Committee on Subordinate Legislation
+c) Rules Committee
+d) Business Advisory Committee
+#QuestionEnd
+#AnswerStart
+Answer: b) Committee on Subordinate Legislation
+#AnswerEnd
+
+#QuestionStart
+Q13) Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government: [UPSC CSE Pre. 2017]
+a) An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out the satisfaction of all.
+b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.
+c) Amechanismofparliamentarydemocracy for ensuring collective responsibility of the Government to the people.
+d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.
+#QuestionEnd
+#AnswerStart
+Answer: c) Amechanismofparliamentarydemocracy for ensuring collective responsibility of the Government to the people. ( ⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following statements: [UPSC CSE Pre. 2017]
+1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected.
+2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker’s post goes to the majority party and the Deputy Speaker’s to the Opposition.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to the Parliament of India, consider the following statements: [UPSC CSE Pre. 2017]
+1. A private member’s bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.
+2. Recently, a private member’s bill has been passed in the Parliament of India for the first time in its history.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q16) The Parliament of India acquires the power to legislate on any item in the State List in the national interest if a resolution to that effect is passed by the [UPSC CSE Pre. 2016]
+a) Lok Sabha by a simple majority of its total membership
+b) Lok Sabha by a majority of not less than two-thirds of its total membership
+c) Rajya Sabha by a simple majority of its total membership
+d) Rajya Sabha by a majority of not less than two-thirds of its members present and voting
+#QuestionEnd
+#AnswerStart
+Answer: d) Rajya Sabha by a majority of not less than two-thirds of its members present and voting
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: [UPSC CSE Pre. 2015]
+1. The Legislative Council of a State in India can be larger in size than half of the Legislative Assembly of that particular State.
+2. The Governor of a State nominates the Chairman of Legislative Council of that particular State.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to the Union Government, consider the following statements: [UPSC CSE Pre. 2015]
+1. The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.
+2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.
+3. All the disbursements made from Public Account also need the authorization from the Parliament of India.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 2 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: A Constitutional Government is one which [UPSC CSE Pre. 2014]
+1. Places effective restrictions on individual liberty in the interest of State Authority.
+2. Places effective restrictions on the Authority of the State in the interest of individual liberty.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Which one of the following is the largest Committee of the Parliament? [UPSC CSE Pre. 2014]
+a) The committee on Public Accounts
+b) The committee on Estimates
+c) The committee on Public Undertakings
+d) The committee on Petitions
+#QuestionEnd
+#AnswerStart
+Answer: b) The committee on Estimates
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements regarding a No-Confidence Motion in India: [UPSC CSE Pre. 2014]
+1. There is no mention of a No-Confidence Motion in the Constitution of India.
+2. A motion of No-Confidence can be introduced in the Lok Sabha only.
+Which of tue statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following statements: [UPSC CSE Pre. 2013]
+1. The Council of Ministers in the Centre shall be collectively responsible to the Parliament.
+2. The Union Ministers shall hold the office during the pleasure of the President of India.
+3. The Prime Minister shall communicate to the President about the proposals for legislation.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) When the annual Union Budget is not passed by the LokSabha [UPSC CSE Pre. 2012]
+a) the Budget is modified and presented again
+b) the Budget is referred to the RajyaSabha for suggestions
+c) the Union Finance Minister is asked to resign
+d) the Prime Minister submits the resignation of Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: d) the Prime Minister submits the resignation of Council of Ministers
+#AnswerEnd
+
+#QuestionStart
+Q24) A deadlock between the LokSabha and the RajyaSabha calls for a joint sitting of the Parliament during the passage of [UPSC CSE Pre. 2011]
+1. Ordinary Legislation
+2. Money Bill
+3. Constitution Amendment Bill
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following is responsible for preparation and presentation of union budget in the Parliament? [UPSC CSE Pre 2010]
+a) Department of Revenue
+b) Department of Economic Affairs
+c) Department of Financial Services
+d) Department of Expenditure
+#QuestionEnd
+#AnswerStart
+Answer: b) Department of Economic Affairs
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following statements is not correct with regard to control of Parliament on the budget? [UPSC CSE Pre 2009]
+a) Parliament does not have any role in the creation of the budget.
+b) Parliament has the power to vote on the charged expenditure on the Consolidated Fund.
+c) Parliament has no power to impose a tax without the recommendation of the President.
+d) Parliament has no power to increase any tax without the recommendation of the President.
+#QuestionEnd
+#AnswerStart
+Answer: b) Parliament has the power to vote on the charged expenditure on the Consolidated Fund.
+#AnswerEnd
+
+#QuestionStart
+Q27) In India Lok Sabha Speaker is- [UPSC CSE Pre 2009]
+a) Nominated
+b) Chosen
+c) Elected
+d) Appointed
+#QuestionEnd
+#AnswerStart
+Answer: b) Chosen
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements:
+The Constitution of India provides that-
+1. The Legislative Assembly of each State shall consist of not more than 450 members chosen by direct election from territorial constituencies in the State.
+2. A person shall not be qualified to be chosen to fill a seat in the Legislative Assembly of a State if he/she is less than 25 years of age.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2008]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Consider the following statements:
+1. The Chairman of the Committee on Public Accounts is appointed by the Speaker of the Lok Sabha.
+2. The Committee on Public Accounts comprises Members of Lok Sabha, Members of Rajya Sabha and a few eminent persons of industry and trade.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2007]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the following statements:
+1. The joint sitting of both Houses of the Parliament in India is sanctioned under Article 108 of the Constitution.
+2. The first joint sitting of Lok Sabha and Rajya Sabha was held in the year 1961.
+3. The second joint sitting of both Houses of Indian Parliament was held to pass the Banking Service Commission (Repeal), Bill.
+Which of these statements is/are correct? [UPSC CSE Pre 2003]
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q31) Which of the following Constitutional Amendments is related to raising the number of Members of Lok Sabha to be elected from the States? [UPSC CSE Pre 2003]
+a) 6th and 22nd
+b) 13th and 38th
+c) 7th and 31st
+d) 11th and 42nd
+#QuestionEnd
+#AnswerStart
+Answer: c) 7th and 31st
+#AnswerEnd
+
+#QuestionStart
+Q32) Consider the following statements:
+1. While members of the Rajya Sabha are associated with Committees on Public Accounts and Public Undertakings, members of Committee on Estimates are drawn entirely from Lok Sabha.
+2. The Ministry of Parliamentary Affairs works under the overall direction of the Cabinet Committee on Parliamentary Affairs. '
+3. The Minister of Parliamentary Affairs nominates members of Parliament on Committees, Councils, Boards, and Commissions, etc. set up by the Government of India in various ministries.
+Which of these statements are correct? [UPSC CSE Pre 2007 2003]
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q33) The term of the Lok Sabha: [UPSC CSE Pre 2002]
+a) Cannot be extended under any circumstances
+b) Can be extended by six months at a time
+c) Can be extended by one year at a time during the proclamation of emergency
+d) Can be extended for two years at a time during the proclamation of emergency
+#QuestionEnd
+#AnswerStart
+Answer: c) Can be extended by one year at a time during the proclamation of emergency
+#AnswerEnd
+
+#QuestionStart
+Q34) Which one of the following statements correctly describes the Fourth Schedule of the Constitution of India? [UPSC CSE Pre 2001]
+a) It lists the distribution of powers between the Union and the states.
+b) It contains the languages listed in the Constitution.
+c) It contains provisions for the administration of Tribal areas.
+d) It allocates seats in the Council of States.
+#QuestionEnd
+#AnswerStart
+Answer: d) It allocates seats in the Council of States.
+#AnswerEnd
+
+#QuestionStart
+Q35) In what way does the Indian Parliament exercise control over the administration? [UPSC CSE Pre 2001]
+a) Through Parliamentary Committees
+b) Through Advisory Committees of various ministries
+c) By making the administrators send periodic reports
+d) By compelling the executive to issue writs
+#QuestionEnd
+#AnswerStart
+Answer: a) Through Parliamentary Committees
+#AnswerEnd
+
+#QuestionStart
+Q36) The Speaker can ask a member of the House to stop speaking and let another member speak. This phenomenon is known as: [UPSC CSE Pre 2000]
+a) Decorum
+b) Crossing the floor
+c) Interpellation
+d) Yielding the floor
+#QuestionEnd
+#AnswerStart
+Answer: d) Yielding the floor
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following are/is stated in the Constitution of India?
+1. The President shall not be a member of either House of Parliament.
+2. The Parliament shall consist of the President and the two Houses.
+Choose the correct answer from the codes given below: [UPSC CSE Pre 1997]
+a) Neither 1 nor 2
+b) Both 1 and 2
+c) 1 only
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the following States of India does not have a Legislative Council so for even though the Constitution (Seventh Amendment) Act, 1956 provides for it? [UPSC CSE Pre 1995]
+a) Maharashtra
+b) Bihar
+c) Karnataka
+d) Madhya Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: d) Madhya Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q39) Who among the following has the right to vote in the elections to both the Lok Sabha and the Rajya Sabha? [UPSC CSE Pre 1995]
+a) Elected members of the Lower House of the Parliament
+b) Elected members of the Upper House of the Parliament
+c) Elected members of the Upper House of the state Legislature
+d) Elected members of the Lower House of the state Legislature
+#QuestionEnd
+#AnswerStart
+Answer: d) Elected members of the Lower House of the state Legislature
+#AnswerEnd
+
+#QuestionStart
+Q40) Which one of the following statements regarding the office of the Speaker is correct? [UPSC CSE Pre 1993]
+a) He holds office during the pleasure of the President.
+b) He need not be a member of the House at the time of his election but has to become a member of the House within six months from the date of his election.
+c) He loses his office if the house is dissolved before the end of its normal tenure.
+d) If he intends to resign the letter of his resignation is to be addressed to the Deputy Speaker.
+#QuestionEnd
+#AnswerStart
+Answer: d) If he intends to resign the letter of his resignation is to be addressed to the Deputy Speaker.
+#AnswerEnd

@@ -1,0 +1,1 @@
+# Removed PostgreSQL service definition as the application now uses SQLite.

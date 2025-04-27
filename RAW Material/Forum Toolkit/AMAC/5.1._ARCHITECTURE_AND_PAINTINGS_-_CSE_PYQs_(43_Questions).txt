@@ -1,0 +1,545 @@
+#QuestionStart
+Q1) Consider the following pairs: [UPSC CSE Pre 2023]
+| Site | Well known for |
+|---|---|
+| 1. Besnagar | Shaivite cave shrine |
+| 2. Bhaja | Buddhist cave shrine |
+| 3. Sittanavasal | Jain cave shrine |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to ancient India, consider the following statements: [UPSC CSE Pre 2023]
+1. The concept of Stupa is Buddhist in origin.
+2. Stupa was generally a repository of relics.
+3. Stupa was a votive and commemorative structure in Buddhist tradition.
+How many of the statements given above are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following pairs: [UPSC CSE Pre 2022]
+| Site of Ashoka’s major rock edicts | Location in the State of |
+|---|---|
+| 1. Dhauli | Odisha |
+| 2. Erragudi | Andhra Pradesh |
+| 3. Jaugada | Madhya Pradesh |
+| 4. Kalsi | Karnataka |
+How many pairs given above are correctly matched?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q4) The Prime Minister recently inaugurated the new Circuit House near Somanath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple? [UPSC CSE Pre. 2022]
+1. Somnath Temple is one of the Jyotirlinga shrines.
+2. A description of Somnath Temple was given by Al-Biruni.
+3. Pran Pratistha of Somnath Temple (installation of the present-day temple) was done by President S. Radhakrishnan.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to Chausath Yogini Temple situated near Morena, consider the following statements: [UPSC CSE Pre 2021]
+1. It is a circular temple built during the reign of Kachchhapaghata Dynasty.
+2. It is the only circular temple built in India.
+3. It was meant to promote the Vaishnava cult in the region.
+4. Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building.
+Which of the statements given above are correct?
+a) 1 and 2
+b) 2 and 3 only
+c) 1 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q6) Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs? [UPSC CSE Pre 2021]
+a) Dholavira
+b) Kalibangan
+c) Rakhigarhi
+d) Ropar
+#QuestionEnd
+#AnswerStart
+Answer: a) Dholavira
+#AnswerEnd
+
+#QuestionStart
+Q7) Building ‘Kalyaana Mandapas’ was a notable feature in the temple construction in the kingdom of [UPSC CSE Pre. 2019]
+a) Chalukya
+b) Chandela
+c) Rashtrakuta
+d) Vijayanagara
+#QuestionEnd
+#AnswerStart
+Answer: d) Vijayanagara
+#AnswerEnd
+
+#QuestionStart
+Q8) In which of the following relief sculpture inscriptions is ‘Ranyo Ashoka’ (King Ashoka) mentioned along with the stone portrait of Ashoka? [UPSC CSE Pre. 2019]
+a) Kanganahalli
+b) Sanchi
+c) Shahbazagrhi
+d) Sohgaura
+#QuestionEnd
+#AnswerStart
+Answer: a) Kanganahalli
+#AnswerEnd
+
+#QuestionStart
+Q9) The well-known painting “Bani Thani” belongs to the [UPSC CSE Pre. 2018]
+a) Bundi school
+b) Jaipur school
+c) Kangra school
+d) Kishangarh school
+#QuestionEnd
+#AnswerStart
+Answer: d) Kishangarh school
+#AnswerEnd
+
+#QuestionStart
+Q10) The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at [UPSC CSE Pre. 2017]
+a) Ajanta
+b) Badami
+c) Bagh
+d) Ellora
+#QuestionEnd
+#AnswerStart
+Answer: a) Ajanta
+#AnswerEnd
+
+#QuestionStart
+Q11) Which of the following is/are famous for Sun temples? [UPSC CSE Pre. 2017]
+1. Arasavalli
+2. Amarkantak
+3. Omkareshwar
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q12) What is/are common to the two historical places known as Ajanta and Mahabalipuram? [UPSC CSE Pre. 2016]
+1. Both were built in the same period.
+2. Both belong to the same religious denomination.
+3. Both have rock-cut monuments
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following pairs: [UPSC CSE Pre. 2016]
+| Famous place | Region |
+|---|---|
+| 1. Bodhgaya | Baghelkhand |
+| 2. Khajuraho | Bundelkhand |
+| 3. Shirdi | Vidarbha |
+| 4. Nasik (Nashik) | Malwa |
+| 5. Tirupati | Rayalaseema |
+Which of the pairs given above are correctly matched?
+a) 1, 2 and 4 only
+b) 2, 3, 4 and 5 only
+c) 2 and 5 only
+d) 1, 3, 4 and 5 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Who of the following had first deciphered the edicts of Emperor Ashoka? [UPSC CSE Pre. 2016]
+a) Georg Bilhler
+b) James Prinsep
+c) Max Muller
+d) William Jones
+#QuestionEnd
+#AnswerStart
+Answer: b) James Prinsep
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to the art and archaeological history of India, which one among the following was made earliest? [UPSC CSE Pre. 2015]
+a) Lingaraja Temple at Bhubneshwar
+b) Rock-cut Elephant at Dhauli
+c) Rock-cut Monuments at Mahabalipuram
+d) Varaha Image at Udayagiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Rock-cut Elephant at Dhauli
+#AnswerEnd
+
+#QuestionStart
+Q16) Kalamkari painting refers to- [UPSC CSE Pre. 2015]
+a) A hand-painted cotton textile in South India.
+b) A handmade drawing on bamboo handicrafts in North-East India.
+c) A block-painted woollen cloth in-Western Himalayan region of India.
+d) A hand-painted decorative silk cloth in North-Western India.
+#QuestionEnd
+#AnswerStart
+Answer: a) A hand-painted cotton textile in South India.
+#AnswerEnd
+
+#QuestionStart
+Q17) With reference to the Indian history of art and culture, consider the following pairs : [UPSC CSE Pre. 2014]
+| Famous work of Sculpture | Site |
+|---|---|
+| 1. A grand image of Buddhas Mahaparinirvana with numerous celestial musicians above and the sorrowful figures of his followers below | Ajanta |
+| 2. A huge image of Varaha Avatar (boar incarnation) of Vishnu, as he rescues Goddess Earth from, the deep and chaotic waters, sculpted on rock | Mount Abu |
+| 3. “Arjuna’s Penance”/ “Descent of Ganga” sculpted | Mamallapuram |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two? [UPSC CSE Pre. 2013]
+a) Vihara is a place of worship, while Chaitya is the dwelling place of the monks
+b) Chaitya is a place of worship, while Vihara is the dwelling place of the monks
+c) Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it
+d) There is no material difference between the two
+#QuestionEnd
+#AnswerStart
+Answer: b) Chaitya is a place of worship, while Vihara is the dwelling place of the monks
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to the history of Indian rock-cut architecture, consider the following statements; [UPSC CSE Pre. 2013]
+1. The caves at Badami are the oldest surviving rock-cut caves in India.
+2. The Barabar rock-cut caves were originally made for Ajivikas by Emperor Chandragupta Maurya.
+3. At Ellora, caves were made for different faiths.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Consider the following historical places: [UPSC CSE Pre. 2013]
+1. Ajanta Caves
+2. Lepakshi Temple
+3. Sanchi Stupa
+Which of the above place is/are also known for mural paintings?
+a) 1 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q21) The Nagara, the Dravida and the Vesara are the [UPSC CSE Pre. 2012]
+a) three main racial groups of the Indian subcontinent
+b) three main linguistic divisions into which the languages of India can be classified
+c) three main styles of Indian temple architecture
+d) three main musical Gharanas prevalent in India
+#QuestionEnd
+#AnswerStart
+Answer: c) three main styles of Indian temple architecture
+#AnswerEnd
+
+#QuestionStart
+Q22) There are only two known examples of cave paintings of the Gupta period in ancient India. One of these is paintings of Ajanta caves. Where ate the other surviving examples of Gupta paintings? [UPSC CSE Pre. 2010]
+a) Bagh caves
+b) Elora caves
+c) Lomas Rishi caves
+d) Nasik caves
+#QuestionEnd
+#AnswerStart
+Answer: a) Bagh caves
+#AnswerEnd
+
+#QuestionStart
+Q23) Where is the famous Virupaksha temple located? [UPSC CSE Pre. 2009]
+a) Bhadrachalam
+b) Chidambaram
+c) Hampi
+d) Srikalahasti
+#QuestionEnd
+#AnswerStart
+Answer: c) Hampi
+#AnswerEnd
+
+#QuestionStart
+Q24) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 2009]
+| List-I (Famous Temple) | List-II (State) |
+|---|---|
+| A. Vidyashankara temple | 1. Andhra Pradesh |
+| B. Rajarani temple | 2. Karnataka |
+| C. Kandariya Mahadeo temple | 3. Madhya Pradesh |
+| D. Bhimesvara temple | 4. Orissa |
+Code:
+a) A-2, B-4, C-3, D-1
+b) A-2, B-3, C-4, D-1
+c) A-1, B-4, C-3, D-2
+d) A-1, B-3, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-4, C-3, D-1
+#AnswerEnd
+
+#QuestionStart
+Q25) Palitana temple is located near- [UPSC CSE Pre. 2008]
+a) Bhavnagar
+b) Mount Abu
+c) Nasik
+d) Ujjain
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhavnagar
+#AnswerEnd
+
+#QuestionStart
+Q26) Where is the famous Vijaya Vitthal Temple, having its 56 carved pillars emitting musical notes located? [UPSC CSE Pre. 2007]
+a) Belur
+b) Bhadrachalam
+c) Hampi
+d) Srirangam
+#QuestionEnd
+#AnswerStart
+Answer: c) Hampi
+#AnswerEnd
+
+#QuestionStart
+Q27) Hoysala monuments are found in: [UPSC CSE Pre. 2001]
+a) Hampi and Hospet
+b) Halebid and Belur
+c) Mysore and Bangalore
+d) Sringeri and Dharwar
+#QuestionEnd
+#AnswerStart
+Answer: b) Halebid and Belur
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements [UPSC CSE Pre. 1999]
+The striking feature of the Jama Masjid in Kashmir completed by Zain-ul-Abidin include(s):
+1. Turret
+2. Similarity with Buddhist pagodas
+3. Persian style
+Which of the above statements is/are correct?
+a) 1 alone
+b) 1, 2 and 3
+c) 2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q29) The paintings of Abanindranath Tagore have classified as: [UPSC CSE Pre. 1999]
+a) Realistic
+b) Socialistic
+c) Revivalistic
+d) Impressionistic
+#QuestionEnd
+#AnswerStart
+Answer: c) Revivalistic
+#AnswerEnd
+
+#QuestionStart
+Q30) The Besanagar inscription of Heliodorus is associated with- [UPSC CSE Pre. 1998]
+a) Sankarshan and Vasudeva
+b) Sankarshan and Pradyumna
+c) Sankarshan, Pradyumna and Vasudeva
+d) Only Vasudeva
+#QuestionEnd
+#AnswerStart
+Answer: d) Only Vasudeva
+#AnswerEnd
+
+#QuestionStart
+Q31) The Asokan major rock edicts which tell us about the Sangam Kingdom include rock edicts: [UPSC CSE Pre. 1998]
+a) I and X
+b) I and XI
+c) II and XIII
+d) II and XIV
+#QuestionEnd
+#AnswerStart
+Answer: c) II and XIII
+#AnswerEnd
+
+#QuestionStart
+Q32) Consider the following: [UPSC CSE Pre. 1998]
+1. Tughluqabad
+2. Lodi Garden
+3. Qutb Minar
+4. Fatehpur Sikri
+The correct chronological order in which they were built is:
+a) 3, 1, 4, 2
+b) 3, 1, 2, 4
+c) 1, 3, 2, 4
+d) 1, 3, 4, 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 3, 1, 2, 4
+#AnswerEnd
+
+#QuestionStart
+Q33) Which one of the following ancient Indian records is the earliest royal order to preserve food-grains to be utilised during the crisis in the country? [UPSC CSE Pre. 1998]
+a) Sohgaura Copper-plate
+b) Rummindei Pillar-edict of Asoka
+c) Prayaga-Prasasti
+d) Mehrauli Pillar inscription of Chandra
+#QuestionEnd
+#AnswerStart
+Answer: a) Sohgaura Copper-plate
+#AnswerEnd
+
+#QuestionStart
+Q34) Which Ashokan Rock Edict describes the victory and injuries of Kaiinga war? [UPSC CSE (Pre) 1998]
+a) Rock edict I
+b) Rock edict II
+c) Rock edict XII
+d) Rock edict XIII
+#QuestionEnd
+#AnswerStart
+Answer: d) Rock edict XIII
+#AnswerEnd
+
+#QuestionStart
+Q35) Which one of the following edicts mentions the personal name of Ashoka? [UPSC CSE Pre. 1997]
+a) Kalsi
+b) Rummindei
+c) Special Kalinga Edict
+d) Maski
+#QuestionEnd
+#AnswerStart
+Answer: d) Maski
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following statements regarding Ashokan stone pillars is incorrect? [UPSC CSE Pre. 1997]
+a) These are highly polished
+b) These are monolithic
+c) The shaft of pillars is tapering in shape
+d) These are parts of architectural structures
+#QuestionEnd
+#AnswerStart
+Answer: d) These are parts of architectural structures
+#AnswerEnd
+
+#QuestionStart
+Q37) Mughal painting reached its zenith under: [UPSC CSE Pre. 1996]
+a) Humayun
+b) Akbar
+c) Jahangir
+d) Shah Jahan
+#QuestionEnd
+#AnswerStart
+Answer: c) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the following monuments has a dome which is said to be one of the largest in the world? [UPSC CSE Pre. 1995]
+a) Tomb of Sher Shah, Sasaram
+b) Jama Masjid, Delhi
+c) Tomb of Ghiyasuddin Tughluq, Delhi
+d) Gol Gumbad, Bijapur
+#QuestionEnd
+#AnswerStart
+Answer: d) Gol Gumbad, Bijapur
+#AnswerEnd
+
+#QuestionStart
+Q39) The Mughal School of Painting formed the spinal cord of the various Schools of Indian miniature art. Which one of the following painting styles was not affected by Mughal painting? [UPSC CSE Pre. 1995]
+a) Pahari
+b) Rajasthani
+c) Kangra
+d) Kalighata
+#QuestionEnd
+#AnswerStart
+Answer: d) Kalighata
+#AnswerEnd
+
+#QuestionStart
+Q40) The caves and rock-cut temples at Ellora represent only: [UPSC CSE Pre. 1994]
+a) Buddhists
+b) Buddhists and Jains
+c) Hindus and Jains
+d) Hindus, Buddhists, and Jains
+#QuestionEnd
+#AnswerStart
+Answer: d) Hindus, Buddhists, and Jains
+#AnswerEnd
+
+#QuestionStart
+Q41) Which one of the following is a monument constructed by Shershah? [UPSC CSE Pre. 1993]
+a) Qila-i-Kuhna at Delhi
+b) Atala Masjid at Jaunpur
+c) Bara Sona Masjid at Gaur
+d) Quwwat-ul-Islam Mosque at Delhi
+#QuestionEnd
+#AnswerStart
+Answer: a) Qila-i-Kuhna at Delhi
+#AnswerEnd
+
+#QuestionStart
+Q42) The rock-cut caves in western India are located in- [UPSC CSE Pre. 1993]
+a) Nasik, Ellora and Ajanta
+b) Junar, Kalyan and Pitalkhora
+c) Ajanta, Bhaja and Kondane
+d) Bhaja, Pitalkhora and Kondane
+#QuestionEnd
+#AnswerStart
+Answer: a) Nasik, Ellora and Ajanta
+#AnswerEnd
+
+#QuestionStart
+Q43) Who built Gujari Mahal? [UPSC CSE Pre. 1992]
+a) Suraj Sen
+b) Man Singh
+c) Tej Karan
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: b) Man Singh
+#AnswerEnd

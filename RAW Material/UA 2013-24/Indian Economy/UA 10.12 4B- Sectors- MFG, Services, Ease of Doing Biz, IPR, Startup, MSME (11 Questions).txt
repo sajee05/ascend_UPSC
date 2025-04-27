@@ -1,0 +1,151 @@
+#QuestionStart
+Q1) Consider the following: (2024)
+1. Exchange-Traded Funds (ETF)
+2. Motor vehicles
+3. Currency swap
+Which of the above is/are considered financial instruments?
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to India, consider the following statements: (2023)
+1. According to the ‘Micro, Small and Medium Enterprises Development (MSMED) Act, 2006’, the ‘medium enterprises’ are those with investments in plant and machinery between Rs. 15 crore and Rs. 25 crore.
+2. All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers? (2022)
+a) Central Statistics Office
+b) Department for Promotion of Industry and Internal Trade
+c) Labour Bureau
+d) National Technical Manpower Information System
+#QuestionEnd
+#AnswerStart
+Answer: c) Labour Bureau
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct ? (2022)
+1. They can sell their own goods in addition to offering their platforms as market- places.
+2. The degree to which they can own big sellers on their platforms is limited.
+Select the correct answer using the code given below :
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: [2019]
+1. According to the Indian Patents Act, a biological process to create a seed can be patented in India.
+2. In India, there is no Intellectual Property Appellate Board.
+3. Plant Varieties are not eligible to the patented in India.
+Which of the statements given above is/ are correct?
+a) 1 and 3 only
+b) 2 and 3 only
+c) 3 only
+d) 1,2, and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Atal innovation mission is set up under the [2019]
+a) Department of science of technology
+b) Ministry of labour and employment
+c) NITI Ayog
+d) Ministry of skill development and entrepreneurship
+#QuestionEnd
+#AnswerStart
+Answer: c) NITI Ayog
+#AnswerEnd
+
+#QuestionStart
+Q7) Which of the following statements is/are correct regarding the Maternity Benefit (Amendment) Act, 2017? [2019]
+1. Pregnant women are entitled for three months predelivery and three months post-delivery paid leave
+2. Enterprises with creches must allow the mother minimum six creche visits daily
+3. Women with two children get reduced entitlements.
+Select the correct answer using the code given below
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) As per the Industrial Employment (Standing Orders) Central (Amendment) Rules, 2018: [2019]
+1. If rules for fixed-term employment are implemented, it becomes easier for the firms/companies to lay off workers
+2. No notice of termination of employment shall be necessary in the case of temporary workman
+Which of the following statements given above is/are correct
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements [2018]
+1. The Food Safety and Standards Act, 2006 replaced the Prevention of Food Adulteration Act, 1954.
+2. The Food Safety and Standards Authority of India (FSSAI) is under the charge of Director General of Health Services in the Union Ministry of Health and Family Welfare.
+Which of the statements given above is/are correct ?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to the 'National Intellectual Property Rights Policy', consider the following statements: (2017)
+1. It reiterates India's commitment to the Doha Development Agenda and the TRIPS Agreement.
+2. Department of Industrial Policy and Promotion is the nodal agency for regulating intellectual property rights in India.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q11) What is/are the recent policy initiative(s) of Government of India to promote the growth of manufacturing sector? (2012)
+1. Setting up of National Investment and Manufacturing Zones
+2. Providing the benefit of 'single window clearance'
+3. Establishing the Technology Acquisition and Development Fund
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd

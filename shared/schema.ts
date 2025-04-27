@@ -488,12 +488,27 @@ export type SubjectAnalytics = {
   trend: { date: string; accuracy: number; score: number }[];
 };
 
+// Type for detailed stats of a single question within an attempt
+export type AttemptQuestionStat = {
+  questionId: number;
+  questionNumber: number;
+  status: 'correct' | 'incorrect' | 'unanswered'; // Derived from UserAnswer
+  tags: string[]; // Fetched from tags table
+  meta?: { // From UserAnswer
+    knowledge?: 'yes' | 'no' | null; // Mapped from boolean flags
+    technique?: 'yes' | 'no' | null; // Mapped from boolean flags
+    guess?: 'yes' | 'no' | null; // Mapped from boolean flags
+    confidence?: 'high' | 'mid' | 'low' | null; // Direct from confidenceLevel
+  };
+};
+
 export type TestAnalytics = {
   testId: number;
   attemptId: number;
   title: string;
-  date: string;
+  date: string; // Consider using Date type or ISO string
   totalTimeSeconds: number;
   overallStats: SubjectStats;
   subjectStats: SubjectStats[];
+  attemptQuestionStats: AttemptQuestionStat[]; // Added detailed stats
 };

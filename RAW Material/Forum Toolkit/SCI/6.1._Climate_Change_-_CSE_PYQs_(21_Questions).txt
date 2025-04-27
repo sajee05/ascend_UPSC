@@ -1,0 +1,277 @@
+#QuestionStart
+Q1) Consider the following:
+1. Aerosols
+2. Foam agents
+3. Fire retardants
+4. Lubricants
+In the making of how many of the above are hydrofluorocarbons used? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: d) All four
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements:
+Statement-I: Carbon markets are likely to be one of the most widespread tools in the fight against climate change.
+Statement-II: Carbon markets transfer resources from the private sector to the State. Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statements-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I (⭐ please re-check)
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following activities :
+1. Spreading finely ground basalt rock on farmlands extensively
+2. Increasing the alkalinity of oceans by adding lime
+3. Capturing carbon dioxide released by various industries and pumping into abandoned subterranean mines in the form of carbonated waters.
+How many of the above activities are often considered and discussed for carbon capture and sequestration? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to green hydrogen, consider the following statements:
+1. It can be used directly as a fuel for internal combustion.
+2. It can be blended with natural gas and used as fuel for heat or power generation.
+3. It can be used in the hydrogen fuel cell to run vehicles.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following lakes of West Africa has become dry and turned into a desert? [UPSC CSE Pre 2022]
+a) Lake Victoria
+b) Lake Faguibine
+c) Lake Oguta
+d) Lake Volta
+#QuestionEnd
+#AnswerStart
+Answer: b) Lake Faguibine
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements :
+1. High clouds primarily reflect solar radiation and cool the surface of the Earth.
+2. Low clouds have a high absorption of infrared radiation emanating from the Earth’s surface and thus cause warming effect.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q7) What is blue carbon? [UPSCCSE Pre 2021]
+a) Carbon captured by oceans and coastal ecosystems
+b) Carbon sequestered in forest biomass and agricultural soils
+c) Carbon contained in petroleum and natural gas
+d) Carbon present in atmosphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Carbon captured by oceans and coastal ecosystems
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following statements best describes the term ‘Social Cost of Carbon’? It is a measure, in monetary value, of the [UPSC CSE Pre. 2020]
+a) long-term damage done by a tonne of CO₂ emissions in a given year.
+b) requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.
+c) efforts put in by a climate refugee to adapt to live in a new place.
+d) contribution of an individual person to the carbon footprint on the planet Earth.
+#QuestionEnd
+#AnswerStart
+Answer: a) long-term damage done by a tonne of CO₂ emissions in a given year.
+#AnswerEnd
+
+#QuestionStart
+Q9) In the context of which of the following do some scientists suggest the used of cirrus cloud thinning technique and the injection of sulphate aerosol into stratosphere? [UPSC CSE Pre. 2019]
+a) Creating the artificial rains in some regions
+b) Reducing the frequency and intensity of tropical cyclones
+c) Reducing the adverse effects of solar wind on the Earth
+d) Reducing the global warming
+#QuestionEnd
+#AnswerStart
+Answer: d) Reducing the global warming
+#AnswerEnd
+
+#QuestionStart
+Q10) Which of the following statements best describes “carbon fertilization”? [UPSC CSE Pre. 2018]
+a) Increased plant growth due to increased concentration of carbon dioxide in the atmosphere
+b) Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere
+c) Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere
+d) Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere.
+#QuestionEnd
+#AnswerStart
+Answer: a) Increased plant growth due to increased concentration of carbon dioxide in the atmosphere
+#AnswerEnd
+
+#QuestionStart
+Q11) In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be potential sites for carbon sequestration? [UPSC CSE Pre. 2017]
+1. Abandoned and uneconomic coal seams
+2. Depleted oil and gas reservoirs
+3. Subterranean deep saline formations
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q12) What is the Rio+20 Conference, often mentioned in the news? [UPSC CSE Pre. 2015]
+a) It is the United Nations Conference on Sustainable Development
+b) It is a Ministerial Meeting of the World Trade Organization
+c) It is a Conference of the Inter Government Panel on Climate Change.
+d) It is a Conference of the Member Countries of the Convention on Biological Diversity.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is the United Nations Conference on Sustainable Development
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following is associated with the issue of control and phasing out of the use of ozone-depleting substances? [UPSC CSE Pre. 2015]
+a) Bretton Woods Conference
+b) Montreal Protocol
+c) Kyoto Protocol
+d) Nagoya Protocol
+#QuestionEnd
+#AnswerStart
+Answer: b) Montreal Protocol
+#AnswerEnd
+
+#QuestionStart
+Q14) The scientific view is that the increase in global temperature should not exceed 2° C above pre-industrial level. If the global temperature increases beyond 3° C above the pre-industrial level, what can be its possible impact/impacts on the world? [UPSC CSE Pre. 2014]
+1. Terrestrial biosphere tends toward a net carbon source.
+2. Widespread coral mortality will occur.
+3. All the global wetlands will permanently disappear.
+4. Cultivation of cereals will not be possible anywhere in the world.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following statements: Chlorofluorocarbons, known as ozonedepleting substances, are used [UPSCCSE Pre. 2012]
+1. In the production of plastic foams.
+2. In the production of tubeless tyres.
+3. In cleaningcertain electronic components.
+4. As pressurizing agents in aerosol cans.
+Which of the statements given above is/are correct?
+a) 1,2 and 3 only
+b) 4 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q16) The increasing amount of carbon dioxide in the air is slowly raising the temperature of the atmosphere, because it absorbs [UPSC CSE Pre. 2012]
+a) The water vapour of the air and retains its heat.
+b) The ultraviolet part of the solar radiation.
+c) All the solar radiations.
+d) The infrared part of the solar radiation.
+#QuestionEnd
+#AnswerStart
+Answer: d) The infrared part of the solar radiation.
+#AnswerEnd
+
+#QuestionStart
+Q17) The formation of ozone hole in the Antarctic region has been a cause of concern. What could be the reason for the formation of this hole? [UPSC CSE Pre. 2011]
+a) Presence of prominent tropospheric turbulence; and inflow of chlorofluorocarbons
+b) Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons.
+c) Absence of polar front and stratospheric clouds; and inflow of methane and chlorofluorocarbons.
+d) Increased temperature at polar region due to global warming
+#QuestionEnd
+#AnswerStart
+Answer: b) Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons.
+#AnswerEnd
+
+#QuestionStart
+Q18) Human activities in the recent past have caused the increased concentration of carbon dioxide in the atmosphere, but a lot of it does not remain in the lower atmosphere because of [UPSC CSE Pre. 2011]
+1. Its escape into the outer stratosphere.
+2. The photosynthesis by phytoplankton in the oceans.
+3. The trapping of air in the polar ice caps.
+Which of the statements given above is/are correct?
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Due to their extensive rice cultivation, some regions may be contributing to global warming. To what possible reason/reasons is/are this attributable? [UPSC CSE Pre 2010]
+1. The anaerobic conditions associated with rice cultivation cause the emission of methane.
+2. When nitrogen-based fertilizers are used, nitrous oxide is emitted from the cultivated soil.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q20) Consider the following: [UPSC CSE Pre 2008]
+1. Rice fields
+2. Coal mining
+3. Domestic animals
+4. Wetlands
+Which of the above is a source of methane, a major greenhouse gas?
+a) 1 and 4
+b) 2 and 3
+c) 1,2 and 3
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements:
+Assertion (A): The frequency of floods in North Indian plains has increased during the last couple of decades.
+Reason (R): There has been a reduction in the depth of river valleys due to deposition of silt.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd

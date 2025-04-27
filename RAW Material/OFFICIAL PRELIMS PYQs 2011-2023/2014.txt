@@ -1,0 +1,1263 @@
+#QuestionStart
+Q1) What are the significances of a practical approach to sugarcane production known as ‘Sustainable Sugarcane Initiative’?
+(i) Seed cost is very low in this compared to the conventional method of cultivation.
+(ii) Drip irrigation can be practiced very effectively in this.
+(iii) There is no application of chemical/inorganic fertilizers at all in this.
+(iv) The scope for intercropping is more in this compared to the conventional method of cultivation.
+Select the correct answer using the code given below. - 2014
+a) 1 and 3 only
+b) 1, 2 and 4 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q2) If a wetland of international importance is brought under the ‘Montreux Record’, what does it imply? - 2014
+a) Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference
+b) The country in which the wetland is located should enact a law to prohibit any human activity within five kilometres from the edge of the wetland
+c) The survival of the wetland depends on the cultural practices and traditions of certain communities living in its vicinity and therefore the cultural diversity therein should not be destroyed
+d) It is given the status of ‘World Heritage Site’
+#QuestionEnd
+#AnswerStart
+Answer: a) Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following pairs of islands is separated from each other by the ‘Ten Degree Channel? - 2014
+a) Andaman and Nicobar
+b) Nicobar and Sumatra
+c) Maldives and Lakshadweep
+d) Sumatra and Java
+#QuestionEnd
+#AnswerStart
+Answer: a) Andaman and Nicobar
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following pairs :
+| Programme/ Project | Ministry |
+|---|---|
+| 1. Drought-Prone Area Programme | Ministry of Agriculture |
+| 2. Desert Development Programme | Ministry of Environment and Forests |
+| 3. National Watershed Development Project for Rainfed Areas | Ministry of Rural Development |
+Which of the above pairs is/are correctly matched? - 2014
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q5) With reference to Bombay Natural History Society (BNHS), consider the following statements :
+(i) It is an autonomous organization under the Ministry of Environment and Forests.
+(ii) It strives to conserve nature through action-based research, education and public awareness.
+(iii) It organizes and conducts nature trails and camps for the general public.
+Which of the statements given above is/are correct? - 2014
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q6) With reference to ‘Global Environment Facility’, which of the following statements is/are correct? - 2014
+a) It serves as financial mechanism for ‘Convention on Biological Diversity’ and ‘United Nations Framework Convention on Climate Change’
+b) It undertakes scientific research on environmental issues at global level
+c) It is an agency under OECD to facilitate the transfer of technology and funds to underdeveloped countries with specific aim to protect their environment
+d) Both (a) and (b)
+#QuestionEnd
+#AnswerStart
+Answer: a) It serves as financial mechanism for ‘Convention on Biological Diversity’ and ‘United Nations Framework Convention on Climate Change’
+#AnswerEnd
+#QuestionStart
+Q7) With reference to technologies for solar power production, consider the following statements :
+(i) ‘Photovoltaics’ is a technology that generates electricity by direct conversion of light into electricity, while ‘Solar Thermal’ is a technology that utilizes the Sun’s rays to generate heat which is further used in electricity generation process.
+(ii) Photovoltaics generates Alternating Current (AC), while Solar Thermal generates Direct Current (DC).
+(iii) India has manufacturing base for Solar Thermal technology, but not for Photovoltaics.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following languages :
+(i) Gujarati
+(ii) Kannada
+(iii) Telugu
+Which of the above has/have been declared as ‘Classical Language/ Languages’ by the Government? - 2014
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q9) Consider the following pairs :
+| 1. Dampa Tiger Reserve | Mizoram |
+|---|---|
+| 2. Gumti Wildlife Sanctuary | Sikkim |
+| 3. Saramati Peak | Nagaland |
+Which of the above pairs is/are correctly matched? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q10) With reference to a conservation organization called ‘Wetlands International’, which of the following statements is/are correct?
+(i) It is an intergovernmental organization formed by the countries which are signatories to Ramsar Convention.
+(ii) It works at the field level to develop and mobilize knowledge, and use the practical experience to advocate for better policies.
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q11) With reference to a grouping of countries known as BRICS, consider the following statements :
+(i) The First Summit of BRICS was held in Rio de Janeiro in 2009.
+(ii) South Africa was the last to join the BRICS grouping.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following diseases :
+(i) Diphtheria
+(ii) Chickenpox
+(iii) Smallpox
+Which of the above diseases has/have been eradicated in India? - 2014
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q13) Which of the following phenomena might have influenced the evolution of organisms?
+(i) Continental drift
+(ii) Glacial cycles
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q14) Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?
+(i) Construction of dams and barrages on rivers
+(ii) Increase in the population of crocodiles in rivers
+(iii) Getting trapped in fishing nets accidentally
+(iv) Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers
+Select the correct answer using the code given below. - 2014
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q15) The Radcliffe Committee was appointed to - 2014
+a) solve the problem of minorities in India
+b) give effect to the Independence Bill
+c) delimit the boundaries between India and Pakistan
+d) enquire into the riots in East Bengal
+#QuestionEnd
+#AnswerStart
+Answer: c) delimit the boundaries between India and Pakistan
+#AnswerEnd
+#QuestionStart
+Q16) Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?
+(i) They are highly resistant to degradation in the environment.
+(ii) They are able to accumulate in humans and animals.
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following :
+(i) Bats
+(ii) Bears
+(iii) Rodents
+The phenomenon of hibernation can be observed in which of the above kinds of animals? - 2014
+a) 1 and 2 only
+b) 2 only
+c) 1, 2 and 3
+d) Hibernation cannot be observed in any of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following is the largest Committee of the Parliament? - 2014
+a) The Committee on Public Accounts
+b) The Committee on Estimates
+c) The Committee on Public Undertakings
+d) The Committee on Petitions
+#QuestionEnd
+#AnswerStart
+Answer: b) The Committee on Estimates
+#AnswerEnd
+#QuestionStart
+Q19) Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?
+(i) Volcanic action
+(ii) Respiration
+(iii) Photosynthesis
+(iv) Decay of organic matter
+Select the correct answer using the code given below. - 2014
+a) 1 and 3 only
+b) 2 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q20) If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects disturbed by their movement through grasses. Which of the following is/are such bird/birds?
+(i) Painted Stork
+(ii) Common Myna
+(iii) Black-necked Crane
+Select the correct answer using the code given below. - 2014
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q21) In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for - 2014
+a) military officers
+b) village headmen
+c) specialists in Vedic rituals
+d) chiefs of craft guilds
+#QuestionEnd
+#AnswerStart
+Answer: b) village headmen
+#AnswerEnd
+#QuestionStart
+Q22) Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of - 2014
+a) algae and bacteria
+b) algae and fungi
+c) bacteria and fungi
+d) fungi and mosses
+#QuestionEnd
+#AnswerStart
+Answer: b) algae and fungi
+#AnswerEnd
+#QuestionStart
+Q23) If you travel through the Himalayas, you are likely to see which of the following plants naturally growing there?
+(i) Oak
+(ii) Rhododendron
+(iii) Sandalwood
+Select the correct answer using the code given below. - 2014
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q24) Which of the following are some important pollutants released by steel industry in India?
+(i) Oxides of sulphur
+(ii) Oxides of nitrogen
+(iii) Carbon monoxide
+(iv) Carbon dioxide
+Select the correct answer using the code given below. - 2014
+a) 1, 3 and 4 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following Kingdoms were associated with the life of the Buddha?
+(i) Avanti
+(ii) Gandhara
+(iii) Kosala
+(iv) Magadha
+Select the correct answer using the code given below. - 2014
+a) 1, 2 and 3
+b) 2 and 4
+c) 3 and 4 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q26) Every year, a monthlong ecologically important campaign/festival is held during which certain communities/tribes plant saplings of fruit-bearing trees. Which of the following are such communities/tribes? - 2014
+a) Bhutia and Lepcha
+b) Gond and Korku
+c) Irula and Toda
+d) Sahariya and Agariya
+#QuestionEnd
+#AnswerStart
+Answer: b) Gond and Korku
+#AnswerEnd
+#QuestionStart
+Q27) The sales tax you pay while purchasing a toothpaste is a - 2014
+a) tax imposed by the Central Government
+b) tax imposed by the Central Government but collected by the State Government
+c) tax imposed by the State Government but collected by the Central Government
+d) tax imposed and collected by the State Government
+#QuestionEnd
+#AnswerStart
+Answer: d) tax imposed and collected by the State Government
+#AnswerEnd
+#QuestionStart
+Q28) What does venture capital mean? - 2014
+a) A short-term capital provided to industries
+b) A long-term start-up capital provided to new entrepreneurs
+c) Funds provided to industries at times of incurring losses
+d) Funds provided for replacement and renovation of industries
+#QuestionEnd
+#AnswerStart
+Answer: b) A long-term start-up capital provided to new entrepreneurs
+#AnswerEnd
+#QuestionStart
+Q29) The main objective of the 12th Five-Year Plan is - 2014
+a) inclusive growth and poverty reduction
+b) inclusive and sustainable growth
+c) sustainable and inclusive growth to reduce unemployment
+d) faster, sustainable and more inclusive growth
+#QuestionEnd
+#AnswerStart
+Answer: d) faster, sustainable and more inclusive growth
+#AnswerEnd
+#QuestionStart
+Q30) With reference to Balance of Payments, which of the following constitutes/constitute the Current Account?
+(i) Balance of trade
+(ii) Foreign assets
+(iii) Balance of invisibles
+(iv) Special Drawing Rights
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q31) The terms ‘Marginal Standing Facility Rate’ and ‘Net Demand and Time Liabilities’, sometimes appearing in news, are used in relation to - 2014
+a) banking operations
+b) communication networking
+c) military strategies
+d) supply and demand of agricultural products
+#QuestionEnd
+#AnswerStart
+Answer: a) banking operations
+#AnswerEnd
+#QuestionStart
+Q32) What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?
+(i) It enables the beneficiaries to draw their subsidies and social security benefits in their villages.
+(ii) It enables the beneficiaries in the rural areas to make deposits and withdrawals.
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q33) In the context of Indian economy, which of the following is/are the purpose/purposes of ‘Statutory Reserve Requirements’?
+(i) To enable the Central Bank to control the amount of advances the banks can create
+(ii) To make the people’s deposits with banks safe and liquid
+(iii) To prevent the commercial banks from making excessive profits
+(iv) To force the banks to have sufficient vault cash to meet their day-to-day requirements
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q34) Recently, a series of uprisings of people referred to as ‘Arab Spring’ originally started from - 2014
+a) Egypt
+b) Lebanon
+c) Syria
+d) Tunisia
+#QuestionEnd
+#AnswerStart
+Answer: d) Tunisia
+#AnswerEnd
+#QuestionStart
+Q35) Consider the following countries :
+(i) Denmark
+(ii) Japan
+(iii) Russian Federation
+(iv) United Kingdom
+(v) United States of America
+Which of the above are the members of the ‘Arctic Council? - 2014
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 4 and 5
+d) 1, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 and 5
+#AnswerEnd
+#QuestionStart
+Q36) Consider the following pairs :
+| Region often in news | Country |
+|---|---|
+| 1. Chechnya | Russian Federation |
+| 2. Darfur | Mali |
+| 3. Swat Valley | Iraq |
+Which of the above pairs is/are correctly matched? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q37) With reference to Agni-IV Missile, which of the following statements is/are correct?
+(i) It is a surface-to-surface missile.
+(ii) It is fuelled by liquid propellant only.
+(iii) It can deliver one-tonne nuclear warheads about 7500 km away.
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q38) With reference to two non-conventional energy sources called ‘coalbed methane’ and ‘shale gas’, consider the following statements :
+(i) Coalbed methane is the pure methane gas extracted from coal seams, while shale gas is a mixture of propane and butane only that can be extracted from fine-grained sedimentary rocks.
+(ii) In India, abundant coalbed methane sources exist, but so far no shale gas sources have been found.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q39) With reference to ‘Changpa’ community of India, consider the following statements :
+(i) They live mainly in the State of Uttarakhand.
+(ii) They rear the Pashmina goats that yield a fine wool.
+(iii) They are kept in the category of Scheduled Tribes.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q40) In India, cluster bean (Guar) is traditionally used as a vegetable or animal feed, but recently the cultivation of this has assumed significance. Which one of the following statements is correct in this context? - 2014
+a) The oil extracted from seeds is used in the manufacture of biodegradable plastics
+b) The gum made from its seeds is used in the extraction of shale gas
+c) The leaf extract of this plant has the properties of anti-histamines
+d) It is a source of high quality biodiesel
+#QuestionEnd
+#AnswerStart
+Answer: b) The gum made from its seeds is used in the extraction of shale gas
+#AnswerEnd
+#QuestionStart
+Q41) Which of the following have coral reefs?
+(i) Andaman and Nicobar Islands
+(ii) Gulf of Kachchh
+(iii) Gulf of Mannar
+(iv) Sunderbans
+Select the correct answer using the code given below. - 2014
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q42) In India, the problem of soil erosion is associated with which of the following?
+(i) Terrace cultivation
+(ii) Deforestation
+(iii) Tropical climate
+Select the correct answer using the code given below. - 2014
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q43) The seasonal reversal of winds is the typical characteristic of - 2014
+a) Equatorial climate
+b) Mediterranean climate
+c) Monsoon climate
+d) All of the above climates
+#QuestionEnd
+#AnswerStart
+Answer: c) Monsoon climate
+#AnswerEnd
+#QuestionStart
+Q44) With reference to the cultural history of India, the term ‘Panchayatan’ refers to - 2014
+a) an assembly of village elders
+b) a religious sect
+c) a style of temple construction
+d) an administrative functionary
+#QuestionEnd
+#AnswerStart
+Answer: c) a style of temple construction
+#AnswerEnd
+#QuestionStart
+Q45) Consider the following rivers :
+(i) Barak
+(ii) Lohit
+(iii) Subansiri
+Which of the above flows/flow through Arunachal Pradesh? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q46) Consider the following pairs :
+| Wetlands | Confluence of rivers |
+|---|---|
+| 1. Harike Wetlands | Confluence of Beas and Satluj/Sutlej |
+| 2. Keoladeo Ghana National Park | Confluence of Banas and Chambal |
+| 3. Kolleru Lake | Confluence of Musi and Krishna |
+Which of the above pairs is/are correctly matched? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q47) Which one of the following pairs does not form part of the six systems of Indian Philosophy? - 2014
+a) Mimamsa and Vedanta
+b) Nyaya and Vaisheshika
+c) Lokayata and Kapalika
+d) Sankhya and Yoga
+#QuestionEnd
+#AnswerStart
+Answer: c) Lokayata and Kapalika
+#AnswerEnd
+#QuestionStart
+Q48) Consider the following pairs :
+| Hills | Region |
+|---|---|
+| 1. Cardamom Hills | Coromandel Coast |
+| 2. Kaimur Hills | Konkan Coast |
+| 3. Mahadeo Hills | Central India |
+| 4. Mikir Hills | North-East India |
+Which of the above pairs are correctly matched? - 2014
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4
+#AnswerEnd
+#QuestionStart
+Q49) Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection? - 2014
+a) Second Schedule
+b) Fifth Schedule
+c) Eighth Schedule
+d) Tenth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d) Tenth Schedule
+#AnswerEnd
+#QuestionStart
+Q50) The most important strategy for the conservation of biodiversity together with traditional human life is the establishment of - 2014
+a) biosphere reserves
+b) botanical gardens
+c) national parks
+d) wildlife sanctuaries
+#QuestionEnd
+#AnswerStart
+Answer: a) biosphere reserves
+#AnswerEnd
+#QuestionStart
+Q51) Turkey is located between - 2014
+a) Black Sea and Caspian Sea
+b) Black Sea and Mediterranean Sea
+c) Gulf of Suez and Mediterranean Sea
+d) Gulf of Aqaba and Dead Sea
+#QuestionEnd
+#AnswerStart
+Answer: b) Black Sea and Mediterranean Sea
+#AnswerEnd
+#QuestionStart
+Q52) What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north?
+(i) Bangkok
+(ii) Hanoi
+(iii) Jakarta
+(iv) Singapore
+Select the correct answer using the code given below. - 2014
+a) 4-2-1-3
+b) 3-2-4-1
+c) 3-4-1-2
+d) 4-3-2-1
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-4-1-2
+#AnswerEnd
+#QuestionStart
+Q53) The scientific view is that the increase in global temperature should not exceed 2 °C above pre-industrial level. If the global temperature increases beyond 3 °C above the pre-industrial level, what can be its possible impact/impacts on the world?
+(i) Terrestrial biosphere tends toward a net carbon source.
+(ii) Widespread coral mortality will occur.
+(iii) All the global wetlands will permanently disappear.
+(iv) Cultivation of cereals will not be possible anywhere in the world.
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 1 and 2 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q54) The national motto of India, ‘Satyameva Jayate’ inscribed below the Emblem of India is taken from - 2014
+a) Katha Upanishad
+b) Chandogya Upanishad
+c) Aitareya Upanishad
+d) Mundaka Upanishad
+#QuestionEnd
+#AnswerStart
+Answer: d) Mundaka Upanishad
+#AnswerEnd
+#QuestionStart
+Q55) In the Constitution of India, promotion of international peace and security is included in the - 2014
+a) Preamble to the Constitution
+b) Directive Principles of State Policy
+c) Fundamental Duties
+d) Ninth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+#QuestionStart
+Q56) What are the benefits of implementing the ‘Integrated Watershed Development Programme’?
+(i) Prevention of soil runoff
+(ii) Linking the country’s perennial rivers with seasonal rivers
+(iii) Rainwater harvesting and recharge of groundwater table
+(iv) Regeneration of natural vegetation
+Select the correct answer using the code given below. - 2014
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q57) What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?
+(i) It enables the beneficiaries to draw their subsidies and social security benefits in their villages.
+(ii) It enables the beneficiaries in the rural areas to make deposits and withdrawals.
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q58) In the context of Indian economy, which of the following is/are the purpose/purposes of ‘Statutory Reserve Requirements’?
+(i) To enable the Central Bank to control the amount of advances the banks can create
+(ii) To make the people’s deposits with banks safe and liquid
+(iii) To prevent the commercial banks from making excessive profits
+(iv) To force the banks to have sufficient vault cash to meet their day-to-day requirements
+Select the correct answer using the code given below. - 2014
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q59) Which one of the following is the best description of the term ‘ecosystem’? - 2014
+a) A community of organisms interacting with one another
+b) That part of the Earth which is inhabited by living organisms
+c) A community of organisms together with the environment in which they live
+d) The flora and fauna of a geographical area
+#QuestionEnd
+#AnswerStart
+Answer: c) A community of organisms together with the environment in which they live
+#AnswerEnd
+#QuestionStart
+Q60) With reference to ‘Indian Ocean Dipole (IOD)’ sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct?
+(i) IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean.
+(ii) An IOD phenomenon can influence an El Nino’s impact on the monsoon.
+Select the correct answer using the code given below : - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q61) Consider the following statements :
+(i) The Sustainable Development Goals were first proposed in 1972 by a global think tank called the ‘Club of Rome’.
+(ii) The Sustainable Development Goals have to be achieved by 2030.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q62) Consider the following phenomena :
+(i) Light is affected by gravity.
+(ii) The Universe is constantly expanding.
+(iii) Matter warps its surrounding space-time.
+Which of the above is/are the prediction/predictions of Albert Einstein’s General Theory of Relativity, often discussed in media? - 2014
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q63) With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements :
+(i) GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.
+(ii) GM mustard has the genes that allow the plant cross-pollination and hybridization.
+(iii) GM mustard has been developed jointly by the IARI and Punjab Agricultural University.
+Which of the statements given above is/are correct ? - 2014
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q64) Consider the following pairs :
+| Terms sometimes seen in news | Context / Topic |
+|---|---|
+| 1. Belle II experiment | Artificial Intelligence |
+| 2. Blockchain technology | Digital/ Cryptocurrency |
+| 3. CRISPR — Cas9 | Particle Physics |
+Which of the pairs given above is/are correctly matched ? - 2014
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q65) Which of the following statements best describes “carbon fertilization”? - 2014
+a) Increased plant growth due to increased concentration of carbon dioxide in the atmosphere
+b) Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere
+c) Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere
+d) Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Increased plant growth due to increased concentration of carbon dioxide in the atmosphere
+#AnswerEnd
+#QuestionStart
+Q66) When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day’s weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.
+In the context of emerging communication technologies, which one of the following terms best applies to the above scenario? - 2014
+a) Border Gateway Protocol
+b) Internet of Things
+c) Internet Protocol
+d) Virtual Private Network
+#QuestionEnd
+#AnswerStart
+Answer: b) Internet of Things
+#AnswerEnd
+#QuestionStart
+Q67) With reference to Indian economy, consider the following statements :
+(i) The rate of growth of Real Gross Domestic Product has steadily increased in the last decade.
+(ii) The Gross Domestic Product at market prices (in rupees) has steadily increased in the last decade.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q68) Consider the following pairs :
+| Region often mentioned in the news | Country |
+|---|---|
+| 1. Anatolia | Turkey |
+| 2. Amhara | Ethiopia |
+| 3. Cabo Delgado | Spain |
+| 4. Catalonia | Italy |
+How many pairs given above are correctly matched? - 2014
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+#QuestionStart
+Q69) With reference to Indian laws about wildlife protection, consider the following statements :
+(i) Wild animals are the sole property of the government.
+(ii) When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.
+(iii) Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.
+Which of the statements given above is/are correct? - 2014
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q70) Certain species of which one of the following organisms are well known as cultivators of fungi? - 2014
+a) Ant
+b) Cockroach
+c) Crab
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Ant
+#AnswerEnd
+#QuestionStart
+Q71) Consider the following statements with reference to India :
+(i) According to the ‘Micro, Small and Medium Enterprises Development (MSMED) Act, 2006’, the ‘medium enterprises’ are those with investments in plant and machinery between ¥ 15 crore and ¥ 25 crore.
+(ii) All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q72) With reference to Central Bank digital currencies, consider the following statements :
+(i) It is possible to make payments in a digital currency without using US dollar or SWIFT system.
+(ii) A digital currency can be distributed with a condition programmed into it such as a time-frame for spending it.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q73) In the context of finance, the term ‘beta’ refers to - 2014
+a) the process of simultaneous buying and selling of an asset from different platforms
+b) an investment strategy of a portfolio manager to balance risk versus reward
+c) a type of systemic risk that arises where perfect hedging is not possible
+d) a numeric value that measures the fluctuations of a stock to changes in the overall stock market
+#QuestionEnd
+#AnswerStart
+Answer: d) a numeric value that measures the fluctuations of a stock to changes in the overall stock market
+#AnswerEnd
+#QuestionStart
+Q74) Consider the following statements :
+(i) The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization.
+(ii) The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q75) Which one of the following has been constituted under the Environment (Protection) Act, 1986? - 2014
+a) Central Water Commission
+b) Central Ground Water Board
+c) Central Ground Water Authority
+d) National Water Development Agency
+#QuestionEnd
+#AnswerStart
+Answer: c) Central Ground Water Authority
+#AnswerEnd
+#QuestionStart
+Q76) With reference to the “United Nations Credentials Committee”, consider the following statements :
+(i) It is a committee set up by the UN Security Council and works under its supervision.
+(ii) It traditionally meets in March, June and September every year.
+(iii) It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.
+Which of the statements given above is/are correct? - 2014
+a) 3 only
+b) 1 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 3 only
+#AnswerEnd
+#QuestionStart
+Q77) Which one of the following statements best describes the term ‘Social Cost of Carbon’ ?
+It is a measure, in monetary value, of the - 2014
+a) long-term damage done by a tonne of CO, emissions in a given year.
+b) requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.
+c) efforts put in by a climate refugee to adapt to live in a new place.
+d) contribution of an individual person to the carbon footprint on the planet Earth.
+#QuestionEnd
+#AnswerStart
+Answer: a) long-term damage done by a tonne of CO, emissions in a given year.
+#AnswerEnd
+#QuestionStart
+Q78) With reference to solar water pumps, consider the following statements :
+(i) Solar power can be used for running surface pumps and not for submersible pumps.
+(ii) Solar power can be used for running centrifugal pumps and not the ones with piston.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q79) Which one of the following is geographically closest to Great Nicobar? - 2014
+a) Sumatra
+b) Borneo
+c) Java
+d) Sri Lanka
+#QuestionEnd
+#AnswerStart
+Answer: a) Sumatra
+#AnswerEnd
+#QuestionStart
+Q80) Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : - 2014
+a) An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.
+b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.
+c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.
+#QuestionEnd
+#AnswerStart
+Answer: c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+#AnswerEnd
+#QuestionStart
+Q81) Which one of the following is not a feature of Indian federalism? - 2014
+a) There is an independent judiciary in India.
+b) Powers have been clearly divided between the Centre and the States.
+c) The federating units have been given unequal representation in the Rajya Sabha.
+d) It is the result of an agreement among the federating units.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the result of an agreement among the federating units.
+#AnswerEnd
+#QuestionStart
+Q82) Consider the following pairs :
+| Region often mentioned in the news | Country |
+|---|---|
+| 1. Chechnya | Russian Federation |
+| 2. Darfur | Mali |
+| 3. Swat Valley | Iraq |
+Which of the above pairs is/are correctly matched? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q83) Which one of the following statements best describes the term ‘Social Cost of Carbon’ ?
+It is a measure, in monetary value, of the - 2014
+a) long-term damage done by a tonne of CO, emissions in a given year.
+b) requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.
+c) efforts put in by a climate refugee to adapt to live in a new place.
+d) contribution of an individual person to the carbon footprint on the planet Earth.
+#QuestionEnd
+#AnswerStart
+Answer: a) long-term damage done by a tonne of CO, emissions in a given year.
+#AnswerEnd
+#QuestionStart
+Q84) With reference to solar water pumps, consider the following statements :
+(i) Solar power can be used for running surface pumps and not for submersible pumps.
+(ii) Solar power can be used for running centrifugal pumps and not the ones with piston.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q85) Which one of the following is geographically closest to Great Nicobar? - 2014
+a) Sumatra
+b) Borneo
+c) Java
+d) Sri Lanka
+#QuestionEnd
+#AnswerStart
+Answer: a) Sumatra
+#AnswerEnd
+#QuestionStart
+Q86) Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : - 2014
+a) An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.
+b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.
+c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.
+#QuestionEnd
+#AnswerStart
+Answer: c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+#AnswerEnd
+#QuestionStart
+Q87) Which one of the following is not a feature of Indian federalism? - 2014
+a) There is an independent judiciary in India.
+b) Powers have been clearly divided between the Centre and the States.
+c) The federating units have been given unequal representation in the Rajya Sabha.
+d) It is the result of an agreement among the federating units.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the result of an agreement among the federating units.
+#AnswerEnd
+#QuestionStart
+Q88) Consider the following pairs :
+| Region often mentioned in the news | Country |
+|---|---|
+| 1. Anatolia | Turkey |
+| 2. Amhara | Ethiopia |
+| 3. Cabo Delgado | Spain |
+| 4. Catalonia | Italy |
+How many pairs given above are correctly matched? - 2014
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+#QuestionStart
+Q89) With reference to Indian laws about wildlife protection, consider the following statements :
+(i) Wild animals are the sole property of the government.
+(ii) When a wild animal is declared protected, such animal is entitled for equal protection whether it is found in protected areas or outside.
+(iii) Apprehension of a protected wild animal becoming a danger to human life is sufficient ground for its capture or killing.
+Which of the statements given above is/are correct? - 2014
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q90) Certain species of which one of the following organisms are well known as cultivators of fungi? - 2014
+a) Ant
+b) Cockroach
+c) Crab
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Ant
+#AnswerEnd
+#QuestionStart
+Q91) In India, Judicial Review implies - 2014
+a) the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.
+b) the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures.
+c) the power of the Judiciary to review all the legislative enactments before they are assented to by the President.
+d) the power of the Judiciary to review its own judgements given earlier in similar or different cases.
+#QuestionEnd
+#AnswerStart
+Answer: a) the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders.
+#AnswerEnd
+#QuestionStart
+Q92) With reference to Indian freedom struggle, consider the following events :
+(i) Mutiny in Royal Indian Navy
+(ii) Quit India Movement launched
+(iii) Second Round Table Conference
+What is the correct chronological sequence of the above events? - 2014
+a) 1-2-3
+b) 2-1-3
+c) 3-2-1
+d) 3-1-2
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-2-1
+#AnswerEnd
+#QuestionStart
+Q93) Consider the following statements :
+(i) Tax revenue as a percent of GDP of India has steadily increased in the last decade.
+(ii) Fiscal deficit as a percent of GDP of India has steadily increased in the last decade.
+Which of the statements given above is/are correct? - 2014
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q94) Constitutional government means - 2014
+a) a representative government of a nation with federal structure
+b) a government whose Head enjoys nominal powers
+c) a government whose Head enjoys real powers
+d) a government limited by the terms of the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: d) a government limited by the terms of the Constitution
+#AnswerEnd
+#QuestionStart
+Q95) With reference to India, the terms ‘Halbi, Ho and Kui’ pertain to - 2014
+a) dance forms of Northwest India
+b) musical instruments
+c) pre-historic cave paintings
+d) tribal languages
+#QuestionEnd
+#AnswerStart
+Answer: d) tribal languages
+#AnswerEnd
+#QuestionStart
+Q96) Consider the following statements in respect of Bharat Ratna and Padma Awards :
+(i) Bharat Ratna and Padma Awards are titles under the Article 18(1) of the Constitution of India.
+(ii) Padma Awards, which were instituted in the year 1954, were suspended only once.
+(iii) The number of Bharat Ratna Awards is restricted to a maximum of five in a particular year.
+Which of the above statements are not correct? - 2014
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q97) Consider the following items :
+(i) Cereal grains hulled
+(ii) Chicken eggs cooked
+(iii) Fish processed and canned
+(iv) Newspapers containing advertising material
+Which of the above items is/are exempted under GST (Goods and Services Tax)? - 2014
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q98) Consider the following statements :
+(i) The definition of “Critical Wildlife Habitat” is incorporated in the Forest Rights Act, 2006.
+(ii) For the first time in India, Baigas have been given Habitat Rights.
+(iii) Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.
+Which of the statements given above is/are correct ? - 2014
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q99) Consider the following :
+(i) Birds
+(ii) Dust blowing
+(iii) Rain
+(iv) Wind blowing
+Which of the above spread plant diseases ? - 2014
+a) 1 and 3 only
+b) 3 and 4 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q100) With reference to organic farming in India, consider the following statements :
+(i) ‘The National Programme for Organic Production’ (NPOP) is operated under the guidelines and directions of the Union Ministry of Rural Development.
+(ii) ‘The Agricultural and Processed Food Products Export Development Authority’ (APEDA) functions as the Secretariat for the implementation of NPOP.
+(iii) Sikkim has become India’s first fully organic State.
+Which of the statements given above is/are correct ? - 2014
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd

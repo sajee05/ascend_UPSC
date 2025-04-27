@@ -1,0 +1,55 @@
+#QuestionStart
+Q1) Consider the following statements: (2024)
+Statement-I: If the United States of America (USA) were to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment.
+Statement-II: The US Government debt is not backed by any hard assets, but only by the faith of the Government.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-1 and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2024)
+Statement-I: Syndicated lending spreads the risk of borrower default across multiple lenders.
+Statement-II: The syndicated loan can be a fixed amount/lump sum of funds, but cannot be a credit line.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-1
+c) Statement-I is correct, but Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct, but Statement- II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2021)
+Other things remaining unchanged, market demand for a good might increase if
+1. price of its substitute increases
+2. price of its complement increases
+3. the good is an inferior good and income of the consumers increases
+4. its price falls
+Which of the above statements are correct?
+a) 1 and 4 only
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q4) If a commodity is provided free to the public by the Government, then (2018)
+a) The opportunity cost is zero.
+b) The opportunity cost is ignored.
+c) The opportunity cost is transferred from the consumers of the product to the tax-paying public.
+d) The opportunity cost is transferred from the consumers of the product to the Government.
+#QuestionEnd
+#AnswerStart
+Answer: c) The opportunity cost is transferred from the consumers of the product to the tax-paying public.
+#AnswerEnd

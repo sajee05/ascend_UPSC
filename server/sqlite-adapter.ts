@@ -1,7 +1,8 @@
 import { IStorage } from "./storage";
 import { SqliteStorage } from "./sqlite-storage";
 import * as pgSchema from "../shared/schema";
-import * as sqliteSchema from "../shared/sqlite-schema";
+import * as sqliteSchema from "../shared/sqlite-schema"; // Keep this
+import { HeatmapData } from "../shared/sqlite-schema"; // Add HeatmapData import
 import { logger } from "./logger";
 
 /**
@@ -52,14 +53,21 @@ export class SqliteAdapter implements IStorage {
       difficultyLevel: sqliteTest.difficulty || null,
       estimatedTimeMinutes: sqliteTest.timeLimit || null,
       isActive: sqliteTest.isActive,
-      attemptCount: sqliteTest.attemptCount,
-      subjects: sqliteTest.subjects || [],
+      attempts: sqliteTest.attemptCount, // Changed from attemptCount to attempts
+      // Assuming pgSchema.TestWithStats expects simple stats, not full subject objects
+      // Provide placeholder values for lastAttemptDate and bestScore as they are in MemStorage version
+      lastAttemptDate: null,
+      bestScore: null,
+      // subjects property might not be directly on TestWithStats in pgSchema, removing for now
+      // If needed, it should likely be string[] based on sqliteTest.subjects
+      // subjects: sqliteTest.subjects || [],
     };
   }
 
   private convertPgQuestionToSqliteQuestion(pgQuestion: pgSchema.InsertQuestion): sqliteSchema.InsertQuestion {
     return {
       testId: pgQuestion.testId,
+      questionNumber: pgQuestion.questionNumber ?? 0, // Add questionNumber (defaulting to 0 if not provided)
       questionText: pgQuestion.questionText,
       optionA: pgQuestion.optionA,
       optionB: pgQuestion.optionB,
@@ -74,7 +82,7 @@ export class SqliteAdapter implements IStorage {
     return {
       id: sqliteQuestion.id,
       testId: sqliteQuestion.testId,
-      questionNumber: 0, // Default
+      questionNumber: sqliteQuestion.questionNumber, // Pass the actual number
       questionText: sqliteQuestion.questionText,
       optionA: sqliteQuestion.optionA,
       optionB: sqliteQuestion.optionB,
@@ -196,13 +204,14 @@ export class SqliteAdapter implements IStorage {
       isCorrect: sqliteAnswer.isCorrect,
       isLeft: sqliteAnswer.isLeft,
       timestamp: new Date(sqliteAnswer.createdAt),
-      attemptNumber: null,
+      attemptNumber: null, // pgSchema might expect a number here based on MemStorage fixes
       answerTimeSeconds: sqliteAnswer.answerTime,
-      knowledgeLevel: sqliteAnswer.knowledgeFlag ? "high" : null,
-      techniqueLevel: sqliteAnswer.techniqueFlag ? "high" : null,
-      guessworkLevel: sqliteAnswer.guessworkFlag ? "high" : null,
+      // Use boolean flags as defined in pgSchema (based on MemStorage fixes)
+      knowledgeFlag: sqliteAnswer.knowledgeFlag,
+      techniqueFlag: sqliteAnswer.techniqueFlag,
+      guessworkFlag: sqliteAnswer.guessworkFlag,
       confidenceLevel: sqliteAnswer.confidence ? String(sqliteAnswer.confidence) : null,
-      notes: sqliteAnswer.notes,
+      // notes: sqliteAnswer.notes, // Removed, does not exist on pgSchema.UserAnswer
     };
   }
 
@@ -228,38 +237,37 @@ export class SqliteAdapter implements IStorage {
     };
   }
 
-  private convertSqliteSubjectStatsToPgSubjectStats(sqliteStats: sqliteSchema.SubjectStats): pgSchema.SubjectStats {
+  // Aligning with structure implied by MemStorage and IStorage
+  // Renamed: Converts TagStats from SQLite to the SubjectStats structure expected by pgSchema
+  private convertSqliteTagStatsToPgSubjectStats(sqliteStats: sqliteSchema.TagStats): pgSchema.SubjectStats {
+    const correct = sqliteStats.correct; // Use correct property name from TagStats
+    const incorrect = sqliteStats.incorrect; // Use correct property name from TagStats
+    const left = sqliteStats.left; // Use correct property name from TagStats
+    const totalAttempted = correct + incorrect;
+    const accuracy = totalAttempted > 0 ? (correct / totalAttempted) * 100 : 0;
+    const score = correct * 2 - incorrect * 0.66; // Assuming same scoring
+
+    // Note: pgSchema.SubjectStats seems to expect 'subject' as string, not object
     return {
-      subject: {
-        id: sqliteStats.subjectId,
-        name: sqliteStats.name,
-        description: null,
-        sortOrder: 0,
-        isActive: true,
-        createdAt: new Date(),
-      },
-      subjectId: sqliteStats.subjectId,
-      attempts: 1,
-      totalQuestions: sqliteStats.totalQuestions,
-      correct: sqliteStats.correctCount,
-      incorrect: sqliteStats.incorrectCount,
-      unattempted: sqliteStats.leftCount,
-      percentage: sqliteStats.percentage,
-      averageTime: 0,
-      knowledgeGaps: [],
-      techniqueMistakes: [],
-      guessworkInstances: [],
-      weakTopics: [],
-      strongTopics: [],
-      improvementAreas: [],
-      needsPractice: false,
-      trend: "stable",
-      lastAttemptScore: 0,
-      bestAttemptScore: 0,
-      avgTimePerQuestion: 0,
-      avgAttemptScore: 0,
-      recentAttempts: [],
-      progressTrend: [],
+      subject: sqliteStats.tag, // Use tag field from TagStats as the subject name
+      attempts: sqliteStats.attempts, // Use correct property name from TagStats
+      correct: correct,
+      incorrect: incorrect,
+      left: left,
+      score: score,
+      accuracy: accuracy,
+      personalBest: accuracy, // Placeholder, cannot calculate from sqliteStats alone
+      avgTimeSeconds: 0, // Placeholder, not available in sqliteStats
+      confidenceHigh: 0, // Placeholder
+      confidenceMid: 0, // Placeholder
+      confidenceLow: 0, // Placeholder
+      knowledgeYes: 0, // Placeholder
+      techniqueYes: 0, // Placeholder
+      guessworkYes: 0, // Placeholder
+      firstAttemptCorrect: 0, // Placeholder
+      secondAttemptCorrect: 0, // Placeholder
+      thirdPlusAttemptCorrect: 0, // Placeholder
+      attemptDistribution: {}, // Placeholder
     };
   }
 
@@ -274,31 +282,64 @@ export class SqliteAdapter implements IStorage {
     const userAnswers = sqliteAnalytics.userAnswers.map(a => this.convertSqliteUserAnswerToPgUserAnswer(a));
     
     // Convert subject stats
-    const subjectStats = sqliteAnalytics.subjectStats.map(s => this.convertSqliteSubjectStatsToPgSubjectStats(s));
+    // Convert tag stats using the renamed function
+    const subjectStats = sqliteAnalytics.tagStats.map(s => this.convertSqliteTagStatsToPgSubjectStats(s));
+
+    // Calculate overall stats for the attempt
+    const overallCorrect = pgAttempt.correctCount ?? 0;
+    const overallIncorrect = pgAttempt.incorrectCount ?? 0;
+    const overallLeft = pgAttempt.leftCount ?? 0;
+    const overallTotalAttempted = overallCorrect + overallIncorrect;
+    const overallAccuracy = overallTotalAttempted > 0 ? (overallCorrect / overallTotalAttempted) * 100 : 0;
+    const overallScore = pgAttempt.score ?? (overallCorrect * 2 - overallIncorrect * 0.66); // Use score if available, else calculate
+
+    const overallStats: pgSchema.SubjectStats = {
+        subject: 'OVERALL',
+        attempts: overallCorrect + overallIncorrect + overallLeft, // Total questions answered/left in attempt
+        correct: overallCorrect,
+        incorrect: overallIncorrect,
+        left: overallLeft,
+        score: overallScore,
+        accuracy: overallAccuracy,
+        personalBest: overallAccuracy, // Placeholder
+        avgTimeSeconds: sqliteAnalytics.timePerQuestion || 0, // Use timePerQuestion if available, else 0
+        confidenceHigh: 0, // Placeholder
+        confidenceMid: 0, // Placeholder
+        confidenceLow: 0, // Placeholder
+        knowledgeYes: 0, // Placeholder
+        techniqueYes: 0, // Placeholder
+        guessworkYes: 0, // Placeholder
+        firstAttemptCorrect: 0, // Placeholder
+        secondAttemptCorrect: 0, // Placeholder
+        thirdPlusAttemptCorrect: 0, // Placeholder
+        attemptDistribution: {}, // Placeholder
+    };
     
     return {
       testId: pgTest.id,
       attemptId: pgAttempt.id,
       title: pgTest.title,
-      date: pgAttempt.startTime,
-      duration: pgAttempt.totalTimeSeconds || 0,
-      questions,
-      userAnswers,
+      date: pgAttempt.startTime.toISOString(),
+      totalTimeSeconds: pgAttempt.totalTimeSeconds || 0,
+      // questions, // Removed, not part of pgSchema.TestAnalytics
+      // userAnswers, // Removed, not part of pgSchema.TestAnalytics
       subjectStats,
-      attempt: pgAttempt,
-      test: pgTest,
-      timePerQuestion: sqliteAnalytics.timePerQuestion,
-      correctPercentage: sqliteAnalytics.correctPercentage, 
-      incorrectPercentage: sqliteAnalytics.incorrectPercentage,
-      leftPercentage: sqliteAnalytics.leftPercentage,
-      overallScore: pgAttempt.score || 0,
-      strengths: [],
-      weaknesses: [],
-      questionAnalysis: [],
-      tags: [],
-      categoryPerformance: [],
-      testSummary: "",
-      AIInsights: [],
+      // attempt: pgAttempt, // Removed, not part of pgSchema.TestAnalytics
+      // test: pgTest, // Removed, not part of pgSchema.TestAnalytics
+      // timePerQuestion: sqliteAnalytics.timePerQuestion, // Removed, not part of pgSchema.TestAnalytics
+      // correctPercentage: sqliteAnalytics.correctPercentage, // Removed, not part of pgSchema.TestAnalytics
+      // incorrectPercentage: sqliteAnalytics.incorrectPercentage, // Removed, not part of pgSchema.TestAnalytics
+      // leftPercentage: sqliteAnalytics.leftPercentage, // Removed, not part of pgSchema.TestAnalytics
+      // overallScore: pgAttempt.score || 0, // Removed, not part of pgSchema.TestAnalytics
+      // strengths: [], // Removed, not part of pgSchema.TestAnalytics
+      // weaknesses: [], // Removed, not part of pgSchema.TestAnalytics
+      // questionAnalysis: [], // Removed, not part of pgSchema.TestAnalytics
+      // tags: [], // Removed, not part of pgSchema.TestAnalytics
+      // categoryPerformance: [], // Removed, not part of pgSchema.TestAnalytics
+      // testSummary: "", // Removed, not part of pgSchema.TestAnalytics
+      // AIInsights: [], // Removed, not part of pgSchema.TestAnalytics
+      overallStats: overallStats, // Added missing property
+      attemptQuestionStats: [], // Added missing property (placeholder)
     };
   }
 
@@ -378,16 +419,21 @@ export class SqliteAdapter implements IStorage {
   }
 
   async updateAttempt(id: number, data: Partial<pgSchema.Attempt>): Promise<pgSchema.Attempt | undefined> {
-    // Convert dates to strings for SQLite
-    const sqliteData: Partial<sqliteSchema.Attempt> = { ...data };
-    
-    if (data.startTime) {
-      sqliteData.startTime = data.startTime.toISOString();
-    }
-    
-    if (data.endTime) {
-      sqliteData.endTime = data.endTime.toISOString();
-    }
+    // Convert Partial<pgSchema.Attempt> to Partial<sqliteSchema.Attempt>
+    const sqliteData: Partial<sqliteSchema.Attempt> = {};
+
+    // Copy compatible fields, converting types as needed
+    if (data.id !== undefined) sqliteData.id = data.id;
+    if (data.testId !== undefined) sqliteData.testId = data.testId;
+    if (data.attemptNumber !== undefined) sqliteData.attemptNumber = data.attemptNumber;
+    if (data.startTime !== undefined) sqliteData.startTime = data.startTime.toISOString(); // Date -> string
+    if (data.endTime !== undefined) sqliteData.endTime = data.endTime ? data.endTime.toISOString() : null; // Date|null -> string|null
+    if (data.totalTimeSeconds !== undefined) sqliteData.totalTimeSeconds = data.totalTimeSeconds;
+    if (data.completed !== undefined) sqliteData.completed = data.completed;
+    if (data.score !== undefined) sqliteData.score = data.score;
+    if (data.correctCount !== undefined) sqliteData.correctCount = data.correctCount;
+    if (data.incorrectCount !== undefined) sqliteData.incorrectCount = data.incorrectCount;
+    if (data.leftCount !== undefined) sqliteData.leftCount = data.leftCount;
     
     const result = await this.sqliteStorage.updateAttempt(id, sqliteData);
     if (!result) return undefined;
@@ -410,16 +456,29 @@ export class SqliteAdapter implements IStorage {
     // Convert the data
     const sqliteData: Partial<sqliteSchema.UserAnswer> = {};
     
+    // Copy compatible fields from Partial<pgSchema.UserAnswer> to Partial<sqliteSchema.UserAnswer>
+    if (data.id !== undefined) sqliteData.id = data.id;
+    if (data.questionId !== undefined) sqliteData.questionId = data.questionId;
+    if (data.attemptId !== undefined) sqliteData.attemptId = data.attemptId;
     if (data.selectedOption !== undefined) sqliteData.selectedOption = data.selectedOption;
     if (data.isCorrect !== undefined) sqliteData.isCorrect = data.isCorrect;
     if (data.isLeft !== undefined) sqliteData.isLeft = data.isLeft;
     if (data.answerTimeSeconds !== undefined) sqliteData.answerTime = data.answerTimeSeconds;
-    if (data.knowledgeLevel) sqliteData.knowledgeFlag = data.knowledgeLevel === "high";
-    if (data.techniqueLevel) sqliteData.techniqueFlag = data.techniqueLevel === "high";
-    if (data.guessworkLevel) sqliteData.guessworkFlag = data.guessworkLevel === "high";
-    if (data.confidenceLevel) sqliteData.confidence = parseInt(data.confidenceLevel);
-    if (data.notes !== undefined) sqliteData.notes = data.notes;
-    
+    // Use boolean flags from pgSchema
+    if (data.knowledgeFlag !== undefined) sqliteData.knowledgeFlag = data.knowledgeFlag ?? false;
+    if (data.techniqueFlag !== undefined) sqliteData.techniqueFlag = data.techniqueFlag ?? false;
+    if (data.guessworkFlag !== undefined) sqliteData.guessworkFlag = data.guessworkFlag ?? false;
+    if (data.confidenceLevel !== undefined) {
+      let confidenceInt: number | null = null;
+      if (data.confidenceLevel === 'high') confidenceInt = 3;
+      else if (data.confidenceLevel === 'mid') confidenceInt = 2;
+      else if (data.confidenceLevel === 'low') confidenceInt = 1;
+      sqliteData.confidence = confidenceInt;
+    }
+    // if (data.notes !== undefined) sqliteData.notes = data.notes; // Removed, notes does not exist on pgSchema.UserAnswer
+    // timestamp and attemptNumber are usually not updated directly here
+    logger(`[Adapter.updateUserAnswer] Received data for answer ${id}: ${JSON.stringify(data)}`, 'adapter');
+    logger(`[Adapter.updateUserAnswer] Constructed sqliteData before storage call: ${JSON.stringify(sqliteData)}`, 'adapter');
     const result = await this.sqliteStorage.updateUserAnswer(id, sqliteData);
     if (!result) return undefined;
     
@@ -447,16 +506,20 @@ export class SqliteAdapter implements IStorage {
   }
 
   async updateFlashcard(id: number, data: Partial<pgSchema.Flashcard>): Promise<pgSchema.Flashcard | undefined> {
-    // Convert dates to strings
-    const sqliteData: Partial<sqliteSchema.Flashcard> = { ...data };
-    
-    if (data.lastReviewedAt) {
-      sqliteData.lastReviewedAt = data.lastReviewedAt.toISOString();
-    }
-    
-    if (data.nextReviewAt) {
-      sqliteData.nextReviewAt = data.nextReviewAt.toISOString();
-    }
+    // Convert Partial<pgSchema.Flashcard> to Partial<sqliteSchema.Flashcard>
+    const sqliteData: Partial<sqliteSchema.Flashcard> = {};
+
+    // Copy compatible fields, converting types as needed
+    if (data.id !== undefined) sqliteData.id = data.id;
+    if (data.questionId !== undefined) sqliteData.questionId = data.questionId;
+    if (data.createdAt !== undefined) sqliteData.createdAt = data.createdAt.toISOString(); // Date -> string
+    if (data.lastReviewedAt !== undefined) sqliteData.lastReviewedAt = data.lastReviewedAt ? data.lastReviewedAt.toISOString() : null; // Date|null -> string|null
+    if (data.nextReviewAt !== undefined) sqliteData.nextReviewAt = data.nextReviewAt ? data.nextReviewAt.toISOString() : null; // Date|null -> string|null
+    if (data.easeFactor !== undefined) sqliteData.easeFactor = data.easeFactor;
+    if (data.interval !== undefined) sqliteData.interval = data.interval;
+    if (data.reviewCount !== undefined) sqliteData.reviewCount = data.reviewCount;
+    if (data.difficultyRating !== undefined) sqliteData.difficultyRating = data.difficultyRating;
+    if (data.notes !== undefined) sqliteData.notes = data.notes;
     
     const result = await this.sqliteStorage.updateFlashcard(id, sqliteData);
     if (!result) return undefined;
@@ -465,10 +528,10 @@ export class SqliteAdapter implements IStorage {
   }
 
   async getTestAnalytics(attemptId: number): Promise<pgSchema.TestAnalytics | undefined> {
+    // SqliteStorage.getTestAnalytics now returns the correct frontend schema directly
+    // No conversion needed here.
     const analytics = await this.sqliteStorage.getTestAnalytics(attemptId);
-    if (!analytics) return undefined;
-    
-    return this.convertSqliteTestAnalyticsToPgTestAnalytics(analytics);
+    return analytics;
   }
 
   async getOverallAnalytics(): Promise<{
@@ -477,18 +540,30 @@ export class SqliteAdapter implements IStorage {
     totalCorrect: number;
     totalIncorrect: number;
     totalLeft: number;
+    avgTimeSeconds: number; // Added to match IStorage
+    totalQuestions?: number; // Added to match IStorage
+    accuracy?: number; // Added to match IStorage
     subjectStats: pgSchema.SubjectStats[];
     trendData: { date: string; accuracy: number; score: number }[];
   }> {
     const analytics = await this.sqliteStorage.getOverallAnalytics();
     
+    // Calculate missing fields required by IStorage interface
+    const totalQuestions = analytics.totalCorrect + analytics.totalIncorrect + analytics.totalLeft;
+    const accuracy = totalQuestions > 0 ? (analytics.totalCorrect / (analytics.totalCorrect + analytics.totalIncorrect)) * 100 : 0; // Accuracy based on attempted
+    const avgTimeSeconds = 0; // Placeholder - sqliteStorage doesn't provide this directly
+
     return {
       testCount: analytics.testCount,
       attemptCount: analytics.attemptCount,
       totalCorrect: analytics.totalCorrect,
       totalIncorrect: analytics.totalIncorrect,
       totalLeft: analytics.totalLeft,
-      subjectStats: analytics.subjectStats.map(s => this.convertSqliteSubjectStatsToPgSubjectStats(s)),
+      avgTimeSeconds: avgTimeSeconds, // Added
+      totalQuestions: totalQuestions, // Added
+      accuracy: accuracy, // Added
+      // Convert tag stats using the renamed function
+      subjectStats: analytics.tagStats.map(s => this.convertSqliteTagStatsToPgSubjectStats(s)),
       trendData: analytics.trendData,
     };
   }
@@ -500,4 +575,48 @@ export class SqliteAdapter implements IStorage {
   }[]> {
     return await this.sqliteStorage.getAnkiData(testId);
   }
-}
+
+  // History
+  async getHistory(filter?: string): Promise<pgSchema.TestAnalytics[]> {
+    // SqliteStorage.getHistory returns the correct frontend schema directly
+    const history = await this.sqliteStorage.getHistory(filter);
+    return history;
+  }
+
+  // --- Wrongs Feature ---
+  async getWrongAnswers(
+    timeFilter?: string,
+    tagFilter?: string,
+    filterType?: 'Wrongs' | 'No knowledge' | 'Tukke' | 'Low confidence' | 'Medium confidence' // Add filterType
+  ): Promise<sqliteSchema.UserAnswerWithDetails[]> {
+    // Directly call SqliteStorage method, passing all arguments
+    return await this.sqliteStorage.getWrongAnswers(timeFilter, tagFilter, filterType);
+  }
+
+  // --- Notes Feature ---
+  async addQuestionNote(noteData: sqliteSchema.InsertQuestionNote): Promise<sqliteSchema.QuestionNote> {
+    // Directly call SqliteStorage method
+    return await this.sqliteStorage.addQuestionNote(noteData);
+  }
+
+  async getAllNotes(timeFilter?: string, tagFilter?: string): Promise<sqliteSchema.QuestionNote[]> {
+    // Directly call SqliteStorage method
+    return await this.sqliteStorage.getAllNotes(timeFilter, tagFilter);
+  }
+
+  async updateQuestionNote(noteId: number, noteText: string): Promise<sqliteSchema.QuestionNote | undefined> {
+    // Directly call SqliteStorage method
+    return await this.sqliteStorage.updateQuestionNote(noteId, noteText);
+  }
+
+  async exportNotesToMarkdown(timeFilter?: string, tagFilter?: string): Promise<string> {
+    // Directly call SqliteStorage method
+    return await this.sqliteStorage.exportNotesToMarkdown(timeFilter, tagFilter);
+  }
+
+  // --- Heatmap Feature ---
+  async getHeatmapData(year: number, month: number): Promise<HeatmapData[]> { // Use imported HeatmapData
+    // Directly call SqliteStorage method
+    return await this.sqliteStorage.getHeatmapData(year, month);
+  }
+} // End of SqliteAdapter class

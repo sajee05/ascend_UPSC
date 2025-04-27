@@ -1,0 +1,619 @@
+#QuestionStart
+Q1) Consider the following statements:
+Statement-I: India, despite having Uranium deposits, depends on coal for most of its electricity production.
+Statement-II: Uranium, enriched to the extent of at least 60%, is required for the production of electricity.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement - II are correct and Statement- II is the correct explanation for Statement- I.
+b) Both Statement I and Statement II are correct and Statement-II is not the correct explanation for Statement-!.
+c) Statement-1 is correct but Statement-II is incorrect.
+d) Statement-I incorrect but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-1 is correct but Statement-II is incorrect.
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following pairs :
+| | |
+|---|---|
+| 1, Kamarajar Port | First major port in India registered as a company. |
+| 2. Mundra Port | Largest privately owned port in India. |
+| 3. Visakhapatnam | Largest container port in India. |
+How many of the above pairs are correctly matched? [UPSC CSE Pre 2023]
+a) Only one pair
+b) Only two pairs
+c) All three pairs
+d) None of the pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q3) Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following? [UPSC CSE Pre 2023]
+a) Aluminium
+b) Copper
+c) Iron
+d) Titanium
+#QuestionEnd
+#AnswerStart
+Answer: d) Titanium
+#AnswerEnd
+
+#QuestionStart
+Q4) About three-fourths of world’s cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by [UPSC CSE Pre 2023]
+a) Argentina
+b) Botswana
+c) The Democratic Republic of the Congo
+d) Kazakhstan
+#QuestionEnd
+#AnswerStart
+Answer: c) The Democratic Republic of the Congo
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to India’s projects on connectivity, consider the following statements:
+1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.
+2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.
+3. Bangladesh- China- India- Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements:
+Statement-I: Switzerland is one of the leading exporters of gold in terms of value.
+Statement-II: Switzerland has the second largest gold reserves in the world.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.
+c) Statement-1 is correct but Statement-II is incorrect.
+d) Statement-I is incorrect but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-1 is correct but Statement-II is incorrect.
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to coal-based thermal power plants in India, following statements:
+1. None of them uses seawater.
+2. None of them is set up in water-stressed district.
+3. None of them is privately owned.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to India, consider the following statements:
+1. Monazite is a source of rare earths.
+2. Monazite contains thorium.
+3. Monazite occurs naturally in the entire Indian coastal sands in India.
+4. In India, Government bodies only can process or export monazite.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) I, 2 and 3 only
+b) 1,2 and 4 only
+c) 3 and 4 only
+d) I, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements:
+1. Gujarat has the largest solar park in India.
+2. Kerala has a fully solar powered International Airport.
+3. Goa has the largest floating solar photovoltaic project in India.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2022]
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following minerals: [UPSC CSE Pre. 2020]
+1. Bentonite
+2. Chromite
+3. Kyanite
+4, Sillimanite
+In India, which of the above is/are officially designated as major minerals?
+a) 1 and 2 only
+b) 4 only
+c) 1 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q11) “The crop is subtropical in nature. A hard frost is injurious to it. It requires at least 210 frost -free days and 50 to 100 centimeters of rainfall for its growth. A light well-drained soil capable of retaining moisture is ideally suited for the cultivation of the crop.” Which one of the following is that crop? [UPSC CSE Pre. 2020]
+a) Cotton
+b) Jute
+c) Sugarcane
+d) Tea
+#QuestionEnd
+#AnswerStart
+Answer: a) Cotton
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to the management of minor minerals in India, consider the following statements: [UPSC CSE Pre. 2019]
+1. Sand is a ‘minor mineral’ according to the prevailing law in the country.
+2. State Governments have the power to grant mining leases of minor minerals, but the powers regarding the formation of rules related to the grant of minor minerals lie with the Central Government.
+3. State Government have the power to frame rules to prevent illegal mining of minor minerals.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: [UPSC CSE Pre. 2018]
+1. In India, State Governments do not have the power to auction non-coal mines.
+2. Andhra Pradesh and Jharkhand do not have gold mines.
+3. Rajasthan has iron ore mines.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) In which of the following regions of India are shale gas resources found? [UPSC CSE Pre. 2016]
+I. Cambay Basin
+2, Cauvery Basin
+3. Krishna-Godavari Basin
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) In which of the following activities are Indian Remote Sensing (IRS) satellites used? [UPSC CSE Pre. 2015]
+1. Assessment of crop productivity
+2. Locating groundwater resources
+3. Mineral exploration
+4. Telecommunications
+5. Traffic studies
+Select the correct answer using the code given below.
+a) 1,2 and 3 only
+b) 4 and 5 only
+c) 1 and 2 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following pairs: [UPSC CSEPre. 2014]
+| Region | Well-known for the production of |
+|---|---|
+| 1. Kinnaur | Areca nut |
+| 2. Mewat | Mango |
+| 3. Coromandel | Soya bean |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1,2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following towns of India: [UPSC CSEPre. 2014]
+1. Bhadrachalam
+2. Chanderi
+3. Kancheepuram
+4. Kamal
+Which of the above are famous for the production of traditional sarees/fabric?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1,2 and 3 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following pairs: [UPSC CSE Pre. 2014]
+| National Highway | Cities connected |
+|---|---|
+| 1. NH4 | Chennai and Hyderabad |
+| 2. NH6 | Mumbai and Kolkata |
+| 3. NH 15 | Ahmedabad and Jodhpur |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1,2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following pairs: [UPSC CSEPre. 2014]
+| Programme/Project | Ministay K s |
+|---|---|
+| 1. Drought-Prone Area Programme | Ministry of Agriculture |
+| 2. Desert Development Programme | Ministry of Environment and Forests |
+| 3. National Watershed Development Project for Rainfed Areas | Ministry of Rural Development |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q20) What are the benefits of implementing the ‘Integrated Watershed Development Programme? [UPSC CSE Pre. 2014]
+1. Prevention of soil runoff
+2. Linking the country’s perennial rivers with seasonal rivers
+3. Rainwater harvesting and recharge of groundwater table
+4. Regeneration of natural vegetation Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Which of the following is / are the characteristic/ characteristics of Indian coal? [UPSC CSE Pre. 2013]
+1. High ash content
+2. Low sulphur content
+3. Low ash fusion temperature
+Select the correct answer using the codes given below.
+a) 1 and 2 only
+b) 2 only
+c) 1 and3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following statements: [UPSC CSE Pre. 2013]
+I. Natural gas occurs in the Gondwana beds.
+2. Mica occurs in abundance in Kodarma.
+3. Dharwars are famous for petroleum.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 2 and 3 only
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q23) Despite having large reserves of coal, why does India import millions of tonnes of coal? [UPSC CSE Pre. 2012]
+1. It is the policy of India to save its own coal reserves for future and import it
+from other countries for the present use.
+2. Most of the power plants in India are coal based and they are not able to get sufficient supplies of coal from within the country.
+3. Steel companies need large quantity of coking coal which has to be imported
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following is the chief characteristic of‘mixed farming’? [UPSC CSE Pre. 2012]
+a) Cultivation of both cash crops and food crops
+b) Cultivation of two or more crops in the same field
+c) Rearing of animals and cultivation of crops together
+d) None of the above.
+#QuestionEnd
+#AnswerStart
+Answer: c) Rearing of animals and cultivation of crops together
+#AnswerEnd
+
+#QuestionStart
+Q25) Which one of the following is the appropriate reason for considering the Gondwana rocks as most important of rock systems of India? [UPSC CSE Pre 2010]
+a) More than 90% of limestone reserves of India are found in them.
+b) More than 90% of India’s coal reserves are found in them.
+c) More than 90% of fertile black cotton soils are spread over them.
+d) None of the reasons given above is appropriate in this context.
+#QuestionEnd
+#AnswerStart
+Answer: b) More than 90% of India’s coal reserves are found in them.
+#AnswerEnd
+
+#QuestionStart
+Q26) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Coal Producing Areas) | List-II (Coalfields) |
+|---|---|
+| A. Damodar Valley | 1. Talcher |
+| B. Son Valley | 2. Barakar |
+| C. Godavari Valley | 3. Umaria |
+| D. Mahanadi Valley | 4. Singareni |
+Code: [UPSC CSE Pre 2010]
+a) A-2, B-3, C-4, D-1
+b) A-3, B-2, C-1, D-4
+c) A-1, B-3, C-4, D-2
+d) A-4, B-1, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q27) Tamil Nadu is a leading producer of mill-made cotton yarn in the country. What could be the reason? [UPSC CSE Pre 2010]
+1. Black Cotton soil is the predominant type of soil in the state.
+2. Rich pool of skilled labour is available. Which of the above is/are the correct reasons?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements: [UPSC CSE Pre 2009]
+1. India does not have any deposits of Thorium.
+2. Kerala’s monazite sands contain Uranium.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q29) Which of the following minerals are found in a natural way in the State of Chhattisgarh? [UPSC CSE Pre 2008]
+1. Bauxite
+2. Dolomite
+3. Iron ore
+4. Tin
+Select the correct answer using the code given below:
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q30) Which one of the following statements is not correct? [UPSC CSE Pre 2005]
+a) Rourkela Steel Plant, the first integrated steel plant in the Public Sector of India was set up with the Soviet Union collaboration.
+b) Salem Steel Plant is a premier producer of stainless steel in India.
+c) Maharashtra Elektrosmelt Ltd. is a subsidiary of the Steel Authority of India Ltd. '
+d) Visakhapatnam Steel Plant is a unit of the Rashtriya Ispat Nigam Ltd.
+#QuestionEnd
+#AnswerStart
+Answer: a) Rourkela Steel Plant, the first integrated steel plant in the Public Sector of India was set up with the Soviet Union collaboration.
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following statements:
+1. Balaghat is known for its diamond mines.
+2. Majhgawan is known for its manganese deposits.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2007]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q32) Match Iist-I with list-II and select the correct answer using the codes given below the lists:
+| List d (Aluminium Company) | List-II (Location) |
+|---|---|
+| A.BALCO | 1. Hirakud |
+| B. HINDALCO | 2. Korba |
+| C. Indian Aluminium | 3. Koraput |
+| D. NALCO | 4. Renukoot |
+Code: [UPSC CSE Pre 2007]
+a) A-3, B-1, C-4, D-2
+b) A-2, B-4, C-1, D-3
+c) A-3, B-4, C-1, D-2
+d) A-2, B-1, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-4, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q33) Consider the following statements:
+Assertion (A): There are no tea plantations in any African country.
+Reason (R): Tea Plants need fertile soil with high humus.
+Code: [UPSC CSE Pre 2007]
+a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q34) Which one of the following does not contain silver? [UPSC CSE Pre 2007]
+a) Horn Silver
+b) German Silver
+c) Ruby Silver
+d) Lunar Caustic
+#QuestionEnd
+#AnswerStart
+Answer: b) German Silver
+#AnswerEnd
+
+#QuestionStart
+Q35) Which of the following substances are found in the beach sands of many parts of Kerala? [UPSC CSE Pre 2006]
+1. Ilmenite
+2. Zircon
+3. Sillimanite
+4. Tungsten
+Select the correct answer using the codes given below.
+a) 1,2, 3 and 4
+b) 1,2 and 3 only
+c) 3 and 4 only
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following is a prominent Uranium producer? [UPSC CSE Pre 2006]
+a) U.S.A.
+b) Canada
+c) Germany
+d) Zambia
+#QuestionEnd
+#AnswerStart
+Answer: b) Canada
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following image: [UPSC CSE Pre 2001]
+In the above map, the black marks show the distribution of:
+a) Asbestos
+b) Gypsum
+c) Limestone
+d) Mica
+#QuestionEnd
+#AnswerStart
+Answer: d) Mica
+#AnswerEnd
+
+#QuestionStart
+Q38) Quartzite is metamorphosed from: [UPSC CSE Pre 2001]
+a) Limestone
+b) Obsidian
+c) Sandstone
+d) Shale
+#QuestionEnd
+#AnswerStart
+Answer: c) Sandstone
+#AnswerEnd
+
+#QuestionStart
+Q39) Consider the following statements: Assertion (A): In Australia, cattle rearing is done more for meat than for milk.
+Reason (R): Australian are traditionally nonvegetarians.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q40) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Minerals) | List-II (Major Producer) |
+|---|---|
+| A. Minerals Oil | 1. Zambia |
+| B. Copper | 2. Guyana |
+| C. Manganese | 3. Venezuela |
+| D. Bauxite | 4. Gabon |
+Code: [UPSC CSE Pre 2000]
+a) A-3, B-1, C-4, D-2
+b) A-3, B-1, C-2, D-4
+c) A-1, B-3, C-2, D-4
+d) A-1, B-3, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-1, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q41) Consider the following statements:
+Statement (A): Chile is still a prominent copper producer in the world.
+Reason (R): Chile is endowed with the largest deposits of porphyry copper.
+Code: [UPSC CSE Pre 1999]
+a) Both (A) and (R) are true, and (R) is correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q42) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Ores) | List-II (State where they are mined) |
+|---|---|
+| A. Manganese | 1. Madhya Pradesh |
+| B. Nickel | 2. Odisha |
+| C. Lead-zinc | 3. Rajasthan |
+| D. Asbestos | 4. Andhra Pradesh |
+Code: [UPSC CSE Pre 1996]
+a) A-1, B-3, C-2, D-4
+b) A-4, B-3, C-2, D-1
+c) A-1, B-2, C-3, D-4
+d) A-4, B-2, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-1, B-2, C-3, D-4
+#AnswerEnd
+
+#QuestionStart
+Q43) Which one of the following was part of the erstwhile Soviet Union over which Kurdish population is spread? [UPSC CSE Pre 1993]
+a) Armenia
+b) Azerbaijan
+c) Georgia
+d) Turkmenistan
+#QuestionEnd
+#AnswerStart
+Answer: a) Armenia
+#AnswerEnd

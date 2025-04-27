@@ -1,0 +1,79 @@
+#QuestionStart
+Q1) Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over? (2024)
+a) C. Rajagopalachari
+b) Dr. B.R. Ambedkar
+c) T.T. Krishnamachari
+d) Dr. Sachchidananda Sinha
+#QuestionEnd
+#AnswerStart
+Answer: d) Dr. Sachchidananda Sinha
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the proposals of Cripps Mission, consider the following statements: (2022)
+1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States.
+2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to Indian National Movement, consider the following pairs: (2019)
+| Person | Position held |
+|---|---|
+| 1. Sir Tej Bahadur Sapru | President, All India Liberal Federation |
+| 2. K.C. Neogy | Member, The Constituent Assembly |
+| 3. P.C. Joshi | General Secretary, Communist Party of India |
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following events: (2018)
+1. The first democratically elected communist party government formed in a State in India.
+2. India's then largest bank, 'Imperial Bank of India', was renamed 'State Bank of India'.
+3. Air India was nationalised and became the national carrier.
+4. Goa became a part of independent India.
+Which of the following is the correct chronological sequence of the above events?
+a) 4 - 1 - 2 - 3
+b) 3 - 2 - 1 - 4
+c) 4 - 2 - 1 - 3
+d) 3 - 1 - 2 - 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 - 2 - 1 - 4
+#AnswerEnd
+
+#QuestionStart
+Q5) The Radcliffe Committee was appointed to (2014)
+a) solve the problem of minorities in India
+b) give effect to the Independence Bill
+c) delimit the boundaries between India and Pakistan
+d) enquire into the riots in East Bengal
+#QuestionEnd
+#AnswerStart
+Answer: c) delimit the boundaries between India and Pakistan
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to Indian History, the Member of the Constituent Assembly from the provinces were (2013)
+a) Directly elected by the people of those provinces
+b) Nominated by the Indian National Congress and the Muslim league
+c) Elected by Provincial Legislative Assemblies
+d) Selected by the Government for their expertise in constitutional matters.
+#QuestionEnd
+#AnswerStart
+Answer: c) Elected by Provincial Legislative Assemblies
+#AnswerEnd

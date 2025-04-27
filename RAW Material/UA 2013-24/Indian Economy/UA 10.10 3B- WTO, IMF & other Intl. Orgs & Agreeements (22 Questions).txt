@@ -1,0 +1,285 @@
+#QuestionStart
+Q1) Consider the following statements: (2024)
+Statement-I: Recently, Venezuela has achieved a rapid recovery from its economic crisis and succeeded in preventing its people from fleeing/emigrating to other countries.
+Statement-II: Venezuela has the world's largest oil reserves.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect, but Statement- II is correct
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2024)
+1. India is a member of the International Grains Council.
+2. A country needs to be a member of the International Grains Council for exporting or importing rice and wheat.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q3) “Rapid Financing Instrument” and “Rapid Credit Facility” are related to the provisions of lending by which one of the following? (2022)
+a) Asian Development Bank
+b) International Monetary Fund
+c) United Nations Environment Programme Finance Initiative
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: b) International Monetary Fund
+#AnswerEnd
+
+#QuestionStart
+Q4) Find correct statement(s) about AIIB: (UPSC-Prelims-2020)
+1. AIIB has more than 80 member nations.
+2. India is the largest shareholder in AIIB.
+3. AIIB does not have any members from outside Asia.
+Codes:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to Trade-Related Investment Measures (TRIMS), which of the following statements is/are correct? (2020)
+1. Quantitative restrictions on imports by foreign investors are prohibited.
+2. They apply to investment measures related to trade in both goods and services.
+3. They are not concerned with the regulation of foreign investment.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) In which one of the following groups are all the four countries members of G20 ? [2020]
+a) Argentina, Mexico, South Africa and Turkey
+b) Australia, Canada, Malaysia and New Zealand
+c) Brazil, Saudi Arabia and Vietnam
+d) Indonesia, Japan, Singapore and South Korea
+#QuestionEnd
+#AnswerStart
+Answer: a) Argentina, Mexico, South Africa and Turkey
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following countries : [2018]
+1. Australia
+2. Canada
+3. China
+4. India
+5. Japan
+6. USA
+Which of the above are among the 'free- trade partners' of ASEAN ?
+a) 1, 2, 4 and 5
+b) 3, 4, 5 and 6
+c) 1, 3, 4 and 5
+d) 2, 3, 4 and 6
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3, 4 and 5
+#AnswerEnd
+
+#QuestionStart
+Q8) India enacted the Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to (2018)
+a) ILO
+b) IMF
+c) UNCTAD
+d) WTO
+#QuestionEnd
+#AnswerStart
+Answer: d) WTO
+#AnswerEnd
+
+#QuestionStart
+Q9) The term 'Digital Single Market Strategy' seen in the news refers to [2017]
+a) ASEAN
+b) BRICS
+c) EU
+d) G20
+#QuestionEnd
+#AnswerStart
+Answer: c) EU
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: [2017]
+1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.
+2. TFA is a part of WTO's Bali Ministerial Package of 2013.
+3. TFA came into force in January 2016.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Find correct statement(s): (Asked in UPSC- Pre-2016)
+1. New Development Bank has been set up by APEC.
+2. The headquarters of New Development Bank is in Shanghai.
+Answer Codes:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to the International Monetary and Financial Committee (IMFC), consider the following statements: (2016)
+1. IMFC discusses matters of concern affecting the global economy and advises the International Monetary Fund (IMF) on the direction of its work.
+2. The World Bank participates as an observer in IMFC’s meetings.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q13) ‘Global Financial Stability Report’ is prepared by the [2016]
+a) European Central Bank
+b) International Monetary Fund
+c) International Bank for Reconstruction and Development
+d) Organization for Economic Cooperation and Development
+#QuestionEnd
+#AnswerStart
+Answer: b) International Monetary Fund
+#AnswerEnd
+
+#QuestionStart
+Q14) In the context of which of the following do you sometimes find the terms amber box, blue box, and green box in the news? (2016)
+a) WTO affairs
+b) SAARC affairs
+c) UNFCCC affairs
+d) India-EU negotiations on FTA
+#QuestionEnd
+#AnswerStart
+Answer: a) WTO affairs
+#AnswerEnd
+
+#QuestionStart
+Q15) The terms 'Agreement on Agriculture', 'Agreement on the Application of Sanitary and Phytosanitary Measures' and 'Peace Clause' appear in the news frequently in the context of the affairs of the [2015]
+a) Food and Agriculture Organization
+b) United Nations Framework Conference on Climate Change
+c) World Trade Organisation
+d) United Nations Environment Programme
+#QuestionEnd
+#AnswerStart
+Answer: c) World Trade Organisation
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following organizations brings out the publication known as ‘World Economic Outlook’? (2014)
+a) The International Monetary Fund
+b) The United Nations Development Programme
+c) The World Economic Forum
+d) The World Bank
+#QuestionEnd
+#AnswerStart
+Answer: a) The International Monetary Fund
+#AnswerEnd
+
+#QuestionStart
+Q17) Regarding the International Monetary Fund, which one of the following statements is correct? (2011)
+a) It can grant loans to any country.
+b) It can grant loans to only developed countries.
+c) It grants loans to only member countries.
+d) It can grant loans to the central bank of a country.
+#QuestionEnd
+#AnswerStart
+Answer: c) It grants loans to only member countries.
+#AnswerEnd
+
+#QuestionStart
+Q18) ‘Broad-based Trade and Investment Agreement (BTIA)’ is sometimes seen in the news in the context of negotiations held between India and
+a) European Union
+b) Gulf Cooperation Council
+c) Organization for Economic Cooperation and Development
+d) Shanghai Cooperation Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) European Union
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to the "G20 Common Framework", consider the following statements:
+1. It is an initiative endorsed by the G20 together with the Paris Club.
+2. It is an initiative to support Low Income Countries with unsustainable debt.
+Which of the statements given above is/are correct ?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q20) The Global Competitiveness Report is published by the
+a) International Monetary Fund
+b) United Nations Conference on Trade and Development
+c) World Economic Forum
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: c) World Economic Forum
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following countries:
+1. Armenia
+2. Azerbaijan
+3. Croatia
+4. Romania
+5. Uzbekistan
+Which of the above are members of the Organization of Turkic States?
+a) 1, 2 and 4
+b) 1 and 3
+c) 2 and 5
+d) 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 5
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following:
+1. Asian Infrastructure Investment Bank
+2. Missile Technology Control Regime
+3. Shanghai Cooperation Organisation
+India is a member of which of the above?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd

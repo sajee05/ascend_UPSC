@@ -1,0 +1,89 @@
+#QuestionStart
+Q1) With reference to the Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) Yojana, consider the following statements: (2024)
+1. The entry age group for enrolment in the scheme is 21 to 40 years.
+2. Age specific contribution shall be made by the beneficiary.
+3. Each subscriber under the scheme shall receive a minimum pension of 3,000 per month after attaining the age of 60 уears.
+4. Family pension is applicable to the spouse and unmarried daughters.
+Which of the statements given above is/are correct?
+a) 1,3 and 4
+b) 2 and 3 only
+c) 2 only
+d) 1,2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements about particularly Vulnerable Tribal Groups (PVTGs) in India: [2019 - I]
+1. PVTGs reside in 18 states and one union Territory.
+2. A stagnant or declining population is one of the criteria for determining PVTG status.
+3. There are 92 PVTGs officially notified in the country so far.
+4. Irular and Konda Reddi tribes are included in the list of PVTGs.
+Which of the statements given above are correct?
+a) 1,2 and 3
+b) 2,3 and 4
+c) 1, 2 and 4
+d) 1,3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q3) In the context of any country which one of the following would be considered as part of its social capital? [2019]
+a) The proportion of literates in the population.
+b) The stock of its buildings, other infrastructure and machines.
+c) The size of the population in the working age group.
+d) The level of mutual trust and harmony in the society.
+#QuestionEnd
+#AnswerStart
+Answer: d) The level of mutual trust and harmony in the society.
+#AnswerEnd
+
+#QuestionStart
+Q4) Human capital formation as a concept is better explained in terms of a process which enables (2018)
+1. individuals of a country to accumulate more capital.
+2. increasing the knowledge, skill levels and capacities of the people of the country.
+3. accumulation of tangible wealth.
+4. accumulation of intangible wealth
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 2 and 4 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following can be said to be essentially the parts of ‘Inclusive Governance’? (2012)
+1. Permitting the Non-Banking Financial Companies to do banking
+2. Establishing effective District Planning Committees in all the districts
+3. Increasing the government spending on public health
+4. Strengthening the Mid-day Meal Scheme
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 and 4 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Which of the following can aid in furthering the Government’s objective of inclusive growth? (2011)
+1. Promoting Self-Help Groups
+2. Promoting Micro, Small and Medium Enterprises
+3. Implementing the Right to Education Act
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd

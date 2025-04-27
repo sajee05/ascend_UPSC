@@ -1,0 +1,273 @@
+#QuestionStart
+Q1) What are the duties of the Chief of Defence Staff (CDS) as Head of the Department of Military Affairs? (2024)
+1. Permanent Chairman of Chiefs of Staff Committee.
+2. Exercise military command over the three Service Chiefs.
+3. Principal Military Advisor to the Defence Minister on all tri-service matters.
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Operations undertaken by the Army towards upliftment of the local population in remote areas to include addressing of their basic needs is called: (2024)
+a) Operation Sankalp
+b) Operation Maitri
+c) Operation Sadbhavana
+d) Operation Madad
+#QuestionEnd
+#AnswerStart
+Answer: c) Operation Sadbhavana
+#AnswerEnd
+
+#QuestionStart
+Q3) Which of the following is/are correctly matched in terms of equivalent rank in the three services of the Indian Defence Forces? (2024)
+| Army | Air Force | Navy |
+|---|---|---|
+| 1. Brigadier | Air Commodore | Commander |
+| 2. Major General | Air Vice Marshal | Vice Admiral |
+| 3. Major | Squadron Leader | Lieutenant Commander |
+| 4. Lieutenant Colonel | Group Captain | Captain |
+Select the correct answer using the code given below:
+a) 1 and 4
+b) 1 and 3
+c) 2, 3 and 4
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: (2023)
+1. Carbon fibres are used in the manufacture of the components used in automobiles and aircrafts.
+2. Carbon fibres once used cannot be recycled.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following actions: (2023)
+1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously
+2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive.
+3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode
+How many of the above actions is the function of the accelerometer required?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q6) ‘Wolbachia method’ is sometimes talked about with reference to which one of the following? (2023)
+a) Controlling the viral diseases spread by mosquitoes
+b) Converting crop residues into packing material
+c) Producing biodegradable plastics
+d) Producing biochar from thermochemical conversion of biomass
+#QuestionEnd
+#AnswerStart
+Answer: a) Controlling the viral diseases spread by mosquitoes
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to Home Guards, consider the following statements: (2023)
+1. Home Guards are raised under the Home Guards Act and Rules of the Central Government.
+2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security.
+3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q8) The term ‘West Texas Intermediate’, sometimes found in news, refers to a grade of: (2020)
+a) Crude oil
+b) Bullion
+c) Rare earth elements
+d) Uranium
+#QuestionEnd
+#AnswerStart
+Answer: a) Crude oil
+#AnswerEnd
+
+#QuestionStart
+Q9) The terms ‘Wanna Cry, Petya and Eternal Blue' sometimes mentioned in the news recently are related to: (2018)
+a) Exoplanets
+b) Crypto currency
+c) Cyber attacks
+d) Minisatellites
+#QuestionEnd
+#AnswerStart
+Answer: c) Cyber attacks
+#AnswerEnd
+
+#QuestionStart
+Q10) What is the purpose of the 'evolved Laser Interferometer Space Antenna (eLISA)' project? (2017)
+a) To detect neutrinos
+b) To detect gravitational waves
+c) To detect the effectiveness of missile defence system
+d) To study the effect of solar flares on our communication systems
+#QuestionEnd
+#AnswerStart
+Answer: b) To detect gravitational waves
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: (2017)
+1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.
+2. Sexual transmission of Zika virus disease is possible.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q12) The terms 'Event Horizon', 'Singularity', ‘String Theory' and 'Standard Model' are sometimes seen in the news in the context of: (2017)
+a) Observation and understanding of the Universe
+b) Study of the solar and the lunar eclipses
+c) Placing satellites in the orbit of the Earth
+d) Origin and evolution of living organisms on the Earth
+#QuestionEnd
+#AnswerStart
+Answer: a) Observation and understanding of the Universe
+#AnswerEnd
+
+#QuestionStart
+Q13) ‘Project Loon’, sometimes seen in the news, is related to: (2016)
+a) Waste management technology
+b) wireless communication technology
+c) solar power production technology
+d) water conservation technology
+#QuestionEnd
+#AnswerStart
+Answer: b) wireless communication technology
+#AnswerEnd
+
+#QuestionStart
+Q14) Recently, our scientists have discovered a new and distinct species of banana plant which attains a height of about 11 metres and has orange-coloured fruit pulp. In which part of India has it been discovered? (2016)
+a) Andaman Islands
+b) Anaimalai Forests
+c) Maikal Hills
+d) Tropical rain forests of northeast
+#QuestionEnd
+#AnswerStart
+Answer: a) Andaman Islands
+#AnswerEnd
+
+#QuestionStart
+Q15) Which one of the following is the best description of ‘INS Astradharini’, that was in the news recently? (2016)
+a) Amphibious warfare ship
+b) Nuclear-powered submarine
+c) Torpedo launch and recovery vessel
+d) Nuclear-powered aircraft carrier
+#QuestionEnd
+#AnswerStart
+Answer: c) Torpedo launch and recovery vessel
+#AnswerEnd
+
+#QuestionStart
+Q16) What is ‘Greased Lightning-10 (GL-10)’, recently in the news? (2016)
+a) Electric plane tested by NASA
+b) Solar-powered two-seater aircraft designed by Japan
+c) Space observatory launched by China
+d) Reusable rocket designed by ISRO
+#QuestionEnd
+#AnswerStart
+Answer: a) Electric plane tested by NASA
+#AnswerEnd
+
+#QuestionStart
+Q17) ‘Doctors Without Borders (Medecins Sans Frontieres)’, often in the news, is: (2016)
+a) A division of World Health Organisation
+b) A non-governmental international organisation
+c) An inter-governmental agency sponsored by European Union
+d) A specialised agency of the United Nations
+#QuestionEnd
+#AnswerStart
+Answer: b) A non-governmental international organisation
+#AnswerEnd
+
+#QuestionStart
+Q18) The term ‘Base Erosion and Profit Shifting’ is sometimes seen in the news in the context of: (2016)
+a) mining operation by multinational companies in resource-rich but backward areas
+b) curbing of the tax evasion by multinational companies
+c) exploitation of genetic resources of a country by multinational companies
+d) lack of consideration of environmental costs in the planning and implementation of developmental projects
+#QuestionEnd
+#AnswerStart
+Answer: b) curbing of the tax evasion by multinational companies
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the following has/have been accorded ‘Geographical Indication’ status? (2016)
+1. Banaras Brocades and Sarees
+2. Rajasthani Dal-Bati-Churma
+3. Tirupati Laddu
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Which one of the following was given classical language status recently? (2015)
+a) Odia
+b) Konkani
+c) Bhojpuri
+d) Assamese
+#QuestionEnd
+#AnswerStart
+Answer: a) Odia
+#AnswerEnd
+
+#QuestionStart
+Q21) Which of the following brings out the ‘Consumer Price Index’ Number for the Industrial Workers’? (2015)
+a) The Reserve Bank of India
+b) The Department of Economic Affairs
+c) The Labour Bureau
+d) The department of Personnel and Training
+#QuestionEnd
+#AnswerStart
+Answer: c) The Labour Bureau
+#AnswerEnd
+
+#QuestionStart
+Q22) With reference to bio-toilets used by the Indian Railways, consider the following statements: (2015)
+1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculum.
+2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd

@@ -1,0 +1,347 @@
+#QuestionStart
+Q1) Consider the following statements: (2023)
+1. In India, the Biodiversity Management Committees are key to the realisation of the objectives of the Nagoya Protocol.
+2. The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q2) The ‘Common Carbon Metric’, supported by UNEP, has been developed for (2021)
+a) assessing the carbon footprint of building operations around the world
+b) enabling commercial farming entities around the world to enter carbon emission trading
+c) enabling governments to assess the overall carbon footprint caused by their countries
+d) assessing the overall carbon footprint caused by the use of fossil fuels by the world in a unit time
+#QuestionEnd
+#AnswerStart
+Answer: a) assessing the carbon footprint of building operations around the world
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the 'New York Declaration on Forests’, which of the following statements are correct? (2021)
+1. It was first endorsed at the United Nations Climate Summit in 2014.
+2. It endorses a global timeline to end the loss of forests.
+3. It is a legally binding international declaration.
+4. It is endorsed by governments, big companies and indigenous communities.
+5. India was one of the signatories at its inception.
+Select the correct answer using the code given below.
+a) 1, 2 and 4
+b) 1, 3 and 5
+c) 3 and 4
+d) 2 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q4) 'R2 Code of Practices’ constitutes a tool available for promoting the adoption of (2021)
+a) environmentally responsible practices in electronics recycling industry
+b) ecological management of ‘Wetlands of International Importance’ under the Ramsar Convention
+c) sustainable practices in the cultivation of agricultural crops in degraded lands
+d) ‘Environmental Impact Assessment’ in the exploitation of natural resources
+#QuestionEnd
+#AnswerStart
+Answer: a) environmentally responsible practices in electronics recycling industry
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: (2021)
+Statement 1: The United Nations Capital Development Fund (UNCDF) and the Arbor Day Foundation have recently recognized Hyderabad as 2020 Tree City of the World.
+Statement 2: Hyderabad was selected for the recognition for a year following its commitment to grow and maintain the urban forests.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement 1 and Statement 2 are correct and Statement 2 is the correct explanation for Statement 1
+b) Both Statement 1 and Statement 2 are correct but Statement 2 is not the correct explanation for Statement 1
+c) Statement 1 is correct but Statement 2 is not correct
+d) Statement 1 is not correct but Statement 2 is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement 1 is not correct but Statement 2 is correct
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: (2019)
+1. Under Ramsar Convention, it is mandatory on the part of the Government of India to protect and conserve all the wetlands in the territory of India.
+2. The Wetlands (Conservation and Management) Rules, 2010 were framed by the Government of India based on the recommendation of the Ramsar Convention.
+3. The Wetlands (Conservation and Management) Rules, 2010 also encompass the drainage area or catchment regions of the wetlands as determined by the authority.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries transition towards greener and more inclusive economies, emerged at (2018)
+a) The Earth Summit on Sustainable Development 2002, Johannesburg
+b) The United Nations Conference on Sustainable Development 2012, Rio de Janeiro
+c) The United Nations Framework Convention on Climate change 2015, Paris
+d) The World Sustainable Development Summit 2016, New Delhi
+#QuestionEnd
+#AnswerStart
+Answer: b) The United Nations Conference on Sustainable Development 2012, Rio de Janeiro
+#AnswerEnd
+
+#QuestionStart
+Q8) "Momentum for Change: Climate Neutral Now" is an initiative launched by (2018)
+a) The Intergovernmental Panel on Climate Change
+b) The UNEP Secretariat
+c) The UNFCCC Secretariat
+d) The World Meteorological Organisation
+#QuestionEnd
+#AnswerStart
+Answer: c) The UNFCCC Secretariat
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to the 'Global Alliance for Climate-Smart Agriculture (GACSA)', which of the following statements is/are correct? (2018)
+1. GACSA is an outcome of the Climate Summit held in Paris in 2015.
+2. Membership of GACSA does not create any binding obligations.
+3. India was instrumental in the creation of GACSA.
+Select the correct answer using the code given below:
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: (2017)
+1. Climate and Clean Air Coalition (CCAC) to Reduce Short Lived Climate Pollutants is a unique initiative of G2O group of countries.
+2. The CCAC focuses on methane, black carbon, and hydrofluorocarbons.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements in respect of Trade Related Analysis of Fauna and Flora in Commerce (TRAFFIC): (2017)
+1. TRAFFIC is a bureau under the United Nations Environment Programme (UNEP).
+2. The mission of TRAFFIC is to ensure that trade in wild plants and animals is not a threat to the conservation of nature.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) The FAO accords the status of the Globally Important Agricultural Heritage System (GIAHS) to traditional agricultural systems. What is the overall goal of this initiative? (2016)
+1. To provide modern technology, training in modern farming methods and financial support to local communities of identified GIAHS so as to greatly enhance their agricultural productivity.
+2. To identify and safeguard eco-friendly traditional farm practices and their associated landscapes, agricultural biodiversity, and knowledge systems of the local communities.
+3. To provide Geographical Indication status to all the varieties of agricultural produce in such identifies GIAHS.
+Select the correct answer using the code given below.
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to an initiative called ‘The Economics of Ecosystems and Biodiversity (TEEB)’, which of the following statements is/are correct? (2016)
+1. It is an initiative hosted by UNEP, IMF and World Economic Forum.
+2. It is a global initiative that focuses on drawing attention to the economic benefits of biodiversity.
+3. It presents an approach that can help decision makers recognize, demonstrate, and capture the value of ecosystems and biodiversity.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Which of the following statements is/are correct? (2016)
+Proper design and effective implementation of UNREDD+ Programme can significantly contribute to
+1. Protection of biodiversity
+2. Resilience of forest ecosystems
+3. Poverty reduction
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) What is/are the importance/importances of the ‘United Nations Convention to Combat Desertification’? (2016)
+1. It aims to promote effective action through innovative national programmes and supportive international partnerships.
+2. It has a special/particular focus on South Asia and North Africa regions, and its Secretariat facilitates the allocation of major portions of financial resources to these regions.
+3. It is committed to a bottom-up approach, encouraging the participation of local people in combating desertification.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to an organisation known as 'BirdLife International', which of the following statements is/are correct? (2015)
+1. It is a Global Partnership of Conservation Organisations.
+2. The concept of 'biodiversity hotspots' originated from this organisation.
+3. It identifies the sites known/referred to as 'Important Bird and Biodiversity Areas'.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following is associated with the issue of control and phasing out of the use of ozone-depleting substances? (2015)
+a) Bretton Woods Conference
+b) Montreal Protocol
+c) Kyoto Protocol
+d) Nagoya Protocol
+#QuestionEnd
+#AnswerStart
+Answer: b) Montreal Protocol
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to the International Union for Conservation of Nature and Natural Resource (IUCN) and the Convention of International Trade in Endangered Species of Wild Fauna and Flora (CITES), which of the following statements is/are correct? (2015)
+1. IUCN is an organ of the United Nations and CITES is an international agreement between governments.
+2. IUCN runs thousands of field projects around the world to better manage natural environments.
+3. CITES is legally binding on the States that have joined it, but this Conventional does not take the place of national laws.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q19) If a wetland of international importance is brought under the 'Montreux Record', what does it imply? (2014)
+a) Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference.
+b) The country in which the wetland is located should enact a law to prohibit any human activity within five kilometres from the edge of the wetland.
+c) The survival of the wetland depends on the cultural practices and traditions of certain communities living in its vicinity and therefore the cultural diversity therein should not be destroyed.
+d) It is given the status of 'World Heritage Site'.
+#QuestionEnd
+#AnswerStart
+Answer: a) Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference.
+#AnswerEnd
+
+#QuestionStart
+Q20) With reference to 'Global Environment Facility', which of the following statements is/are correct? (2014)
+a) It serves as a financial mechanism for 'Convention on Biological Diversity' and 'United Nations Framework Convention on Climate Change'.
+b) It undertakes scientific research on environmental issues at global level.
+c) It is an agency under OECD to facilitate the transfer of technology and funds to underdeveloped countries with specific aims to protect their environment.
+d) Both (a) and (b)
+#QuestionEnd
+#AnswerStart
+Answer: a) It serves as a financial mechanism for 'Convention on Biological Diversity' and 'United Nations Framework Convention on Climate Change'.
+#AnswerEnd
+
+#QuestionStart
+Q21) With reference to a conservation organisation called 'Wetlands International', which of the following statements is/are correct? (2014)
+1. It is an intergovernmental organisation formed by the countries which are signatories to the Ramsar Convention.
+2. It works at the field level to develop and mobilise knowledge and use the practical experience to advocate for better policies.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following statements regarding 'Earth Hour' (2014)
+1. It is an initiative of UNEP and UNESCO.
+2. It is a movement in which the participants switch off the lights for one hour on a certain day every year.
+3. It is a movement to raise awareness about climate change and the need to save the planet.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following international agreements: (2014)
+1. The International Treaty on Plant Genetic Resources for Food and Agriculture.
+2. The United Nations Convention to Combat Desertification.
+3. The World Heritage Convention.
+Which of the above has/have a bearing on biodiversity?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q24) The “Red Data Books’’ published by the International Union for Conservation of Nature and Natural Resources (IUCN) contain lists of (2011)
+1. Endemic plant and animal species present in the biodiversity hotspots.
+2. Threatened plant and animal species.
+3. Protected sites for conservation of nature and natural resources in various countries.
+Select the correct answer using the code given below:
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q25) Three of the following criteria have contributed to the recognition of western Ghats, Sri Lanka and Indo-Burma regions as hotspots of biodiversity: (2011)
+1. Species richness
+2. Vegetation density
+3. Endemism
+4. Ethno-botanical importance
+5. Threat perception
+6. Adaptation of flora and fauna to warm and humid conditions
+Which three of the above are correct criteria in this context?
+a) 1, 2 and 6 only
+b) 2, 4 and 6 only
+c) 1, 3 and 5 only
+d) 3, 4 and 6 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5 only
+#AnswerEnd

@@ -1,0 +1,41 @@
+#QuestionStart
+Q1) With reference to 'Indian Ocean Dipole (IOD)' sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct? (2017)
+1. The IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean.
+2. An IOD phenomenon can influence an El Nino's impact on the monsoon.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2015)
+1. The winds which blow between 30 N and 60 S latitudes throughout the year are known as westerlies.
+2. The moist air masses that cause winter rains in North-Western region of India are part of westerlies.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2012)
+1. The duration of the monsoon decreases from southern India to northern India.
+2. The amount of annual rainfall in the northern plains of India decreases from east to west.
+Which of the statements given above is / are correct?
+a) 1 Only
+b) 2 Only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd

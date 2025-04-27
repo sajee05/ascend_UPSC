@@ -16,12 +16,14 @@ interface AnsweredQuestionCardProps {
   question: QuestionWithTags;
   userAnswer: UserAnswer;
   onNext: () => void;
+  questionNumber: number; // Add the new prop
 }
 
-export function AnsweredQuestionCard({ 
-  question, 
-  userAnswer, 
-  onNext 
+export function AnsweredQuestionCard({
+  question,
+  userAnswer,
+  onNext,
+  questionNumber // Destructure the new prop
 }: AnsweredQuestionCardProps) {
   const { settings } = useSettings();
   const [isUpdating, setIsUpdating] = useState(false);
@@ -469,7 +471,7 @@ export function AnsweredQuestionCard({
         {/* Question Text */}
         <div className="mb-4">
           <div className="font-semibold text-sm text-muted-foreground mb-2">
-            Q{question.questionNumber})
+            Q{questionNumber}) {/* Use the prop here */}
           </div>
           <div className="text-lg space-y-2">
             {formattedQuestionText}

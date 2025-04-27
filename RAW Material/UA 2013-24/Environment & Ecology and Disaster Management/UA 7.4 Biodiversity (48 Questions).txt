@@ -1,0 +1,652 @@
+#QuestionStart
+Q1) Consider the following fauna: (2023)
+1. Lion-tailed Macaque
+2. Malabar Civet
+3. Sambar Deer
+How many of the above are generally nocturnal or most active after sunset?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q2) Invasive Species Specialist Group' (that develops Global Invasive Species Database) belongs to which one of the following organizations? (2023)
+a) The International Union for Conservation of Nature
+b) The United Nations Environment Programme
+c) The United Nations World Commission for Environment and Development
+d) The World Wide Fund for Nature
+#QuestionEnd
+#AnswerStart
+Answer: a) The International Union for Conservation of Nature
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements : (2023)
+Statement-I: Marsupials are not naturally found in India.
+Statement-II: Marsupials can thrive only in montane grasslands with no predators.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food? (2023)
+a) Butterflies
+b) Dragonflies
+c) Honey Bees
+d) Wasps
+#QuestionEnd
+#AnswerStart
+Answer: c) Honey Bees
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements : (2023)
+1. Some mushrooms have medicinal properties.
+2. Some mushrooms have psychoactive properties.
+3. Some mushrooms have insecticidal properties.
+4. Some mushrooms have bioluminescent properties.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: d) All four
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements regarding the Indian squirrels :(2023)
+1. They build nests by making burrows in the ground.
+2. They store their food materials like nuts and seeds in the ground.
+3. They are omnivorous.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?(2023)
+a) Fishing cat
+b) Orangutan
+c) Otter
+d) Sloth bear
+#QuestionEnd
+#AnswerStart
+Answer: b) Orangutan
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to “Gucchi” sometimes mentioned in the news, consider the following statements : (2022)
+1. It is a fungus.
+2. It grows in some Himalayan forest areas.
+3. It is commercially cultivated in the Himalayan foothills of north-eastern India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 3 only
+c) 1 and 2
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following is not a bird? (2022)
+a) Golden Mahseer
+b) Indian Nightjar
+c) Spoonbill
+d) White Ibis
+#QuestionEnd
+#AnswerStart
+Answer: a) Golden Mahseer
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements:(2021)
+1. Moringa (drumstick trees) is a leguminous evergreen trees.
+2. The Tamarind tree is endemic to South Asia.
+3. In India, most of the tamarind is collected as minor forest produce.
+4. India exports tamarind and seeds of moringa.
+5. Seeds of moringa and tamarind can be used in the production of biofuels.
+Which of the statements given above are correct?
+a) 1, 2, 4 and 5
+b) 3, 4 and 5
+c) 1, 3 and 4
+d) 1, 2, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 3, 4 and 5
+#AnswerEnd
+
+#QuestionStart
+Q11) Which one of the following is a filter feeder? (2021)
+a) Catfish
+b) Octopus
+c) Oyster
+d) Pelican
+#QuestionEnd
+#AnswerStart
+Answer: c) Oyster
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following is used in preparing a natural mosquito repellent? (2021)
+a) Congress grass
+b) Elephant grass
+c) Lemon grass
+d) Nut grass
+#QuestionEnd
+#AnswerStart
+Answer: c) Lemon grass
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to India's biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray-chinned minivet and White-throated redstart are (2020)
+a) Birds
+b) Primates
+c) Reptiles
+d) Amphibians
+#QuestionEnd
+#AnswerStart
+Answer: a) Birds
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to Indian elephants, consider the following statements: (2020)
+1. The leader of an elephant group is a female.
+2. The maximum gestation period can be 22 months.
+3. An elephant can normally go on calving till the age of 40 years only.
+4. Among the States in India, the highest elephant population is in Kerala.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 4 only
+c) 3 only
+d) 1, 3, and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following pairs: (2019)
+| Wildlife | Naturally found in |
+|---|---|
+| 1. Blue-finned Mahseer | Cauvery River |
+| 2. Irrawaddy Dolphin | Chambal River |
+| 3. Rusty Spotted Cat | Eastern Ghats |
+Which of the pairs given above are correctly matched?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements: (2019)
+1. Some species of turtles are herbivores.
+2. Some species of fish are herbivores.
+3. Some species of marine mammals are herbivores.
+4. Some species of snakes are viviparous.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2, 3, and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: (2019)
+1. Asiatic lions are naturally found in India only.
+2. Double-humped camels are naturally found in India only.
+3. One-horned rhinoceros are naturally found in India only.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q18) The term "sixth mass extinction/sixth extinction" is often mentioned in the news in the context of the discussion of (2018)
+a) Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems.
+b) Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs.
+c) Large-scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity.
+d) Mankind's overexploitation/misuse of natural resources, fragmentation/ loss of natural habitats, destruction of ecosystems, pollution, and global climate change.
+#QuestionEnd
+#AnswerStart
+Answer: d) Mankind's overexploitation/misuse of natural resources, fragmentation/ loss of natural habitats, destruction of ecosystems, pollution, and global climate change.
+#AnswerEnd
+
+#QuestionStart
+Q19) If you want to see gharials in their natural habitat, which one of the following is the best place to visit? (2017)
+a) Bhitarkanika Mangroves
+b) Chambal River
+c) Pulicat Lake
+d) Deepor Beel
+#QuestionEnd
+#AnswerStart
+Answer: b) Chambal River
+#AnswerEnd
+
+#QuestionStart
+Q20) In which of the following regions of India are you most likely to come across the ‘Great Indian Hornbill’ in its natural habitat? (2016)
+a) Sand deserts of northwest India
+b) Higher Himalayas of Jammu and Kashmir
+c) Salt marshes of western Gujarat
+d) Western Ghats
+#QuestionEnd
+#AnswerStart
+Answer: d) Western Ghats
+#AnswerEnd
+
+#QuestionStart
+Q21) What is/are unique about ‘Kharai camel’, a breed found in India? (2016)
+1. It is capable of swimming up to three kilometers in seawater.
+2. It survives by grazing on mangroves.
+3. It lives in the wild and cannot be domesticated.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Which one of the following is the national aquatic animal of India? (2015)
+a) Saltwater crocodile
+b) Olive Ridley turtle
+c) Gangetic dolphin
+d) Gharial
+#QuestionEnd
+#AnswerStart
+Answer: c) Gangetic dolphin
+#AnswerEnd
+
+#QuestionStart
+Q23) With reference to 'dugong', a mammal found in India, which of the following statements is/are correct? (2015)
+1. It is a herbivorous marine animal.
+2. It is found along the entire coast of India.
+3. It is given legal protection under Schedule I of the Wildlife (Protection) Act, 1972.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q24) With reference to Neem tree, consider the following statements: (2014)
+1. Neem oil can be used as a pesticide to control the proliferation of some species of insects and mites.
+2. Neem seeds are used in the manufacture of biofuels and hospital detergents.
+3. Neem oil has applications in the pharmaceutical industry.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q25) Other than poaching, what are the possible reasons for the decline in the population of Ganga River Dolphins? (2014)
+1. Construction of dams and barrages on rivers.
+2. Increase in the population of crocodiles in rivers.
+3. Getting trapped in fishing nets accidentally.
+4. Use of synthetic fertilisers and other agricultural chemicals in crop fields in the vicinity of rivers.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q26) If you walk through the countryside, you are likely to see some birds stalking alongside the cattle to seize the insects disturbed by their movement through grasses. Which one of the following is/are such bird/birds? (2014)
+1. Painted Stork
+2. Common Myna
+3. Black-necked Crane
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following fauna and India: (2013)
+1. Gharial
+2. Leatherback turtle
+3. Swamp deer
+Which of the above is/are endangered?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following: (2013)
+1. Star tortoise
+2. Monitor lizard
+3. Pygmy hog
+4. Spider monkey
+Which of the above are naturally found in India?
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Consider the following animals: (2013)
+1. Sea cow
+2. Sea horse
+3. Sea lion
+Which of the above is/are mammal/ mammals?
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q30) In which of the following States is lion- tailed macaque found in its natural habitat? (2013)
+1. Tamil Nadu
+2. Kerala
+3. Karnataka
+4. Andhra Pradesh
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q31) The Government of India encourages the cultivation of ‘sea buckthorn ‘. What is the importance of this plant? (2012)
+1. It helps in controlling soil erosion and in preventing desertification.
+2. It is a rich source of biodiesel.
+3. It has nutritional value and is well- adapted to live in cold areas of high altitudes.
+4. Its timber is of great commercial value.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2, 3 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q32) Which one of the following groups of animals belongs to the category of endangered species? (2012)
+a) Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass
+b) Kashmir Stag, Cheetal, Blue Bull and Great Indian Bustard
+c) Snow Leopard, Swamp Deer, Rhesus Monkey and Saras (Crane)
+d) Lion-tailed Macaque, Blue Bull, Hanuman Langur and Cheetal
+#QuestionEnd
+#AnswerStart
+Answer: a) Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass
+#AnswerEnd
+
+#QuestionStart
+Q33) What is the difference between the antelopes Oryx and Chiru? (2012)
+a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains.
+b) Oryx is poached for its antlers whereas Chiru is poached for its musk.
+c) Oryx exists in western India only whereas Chiru exists in north-cast India only.
+d) None of the statements (a), (b) and (c) given above is correct.
+#QuestionEnd
+#AnswerStart
+Answer: a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains.
+#AnswerEnd
+
+#QuestionStart
+Q34) Which of the following can be threats to the biodiversity of a geographical area? (2012)
+1. Global warming
+2. Fragmentation of habitat
+3. Invasion of alien species
+4. Promotion of vegetarianism
+Choose the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following: (2012)
+1. Black-necked crane
+2. Cheetah
+3. Flying squirrel
+4. Snow leopard
+Which of the above are naturally found in India?
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Vultures which used to be very common in the Indian countryside some years ago are rarely seen nowadays. This is attributed to: (2012)
+a) the destruction of their nesting sites by new invasive species
+b) a drug used by cattle owners for treating their diseased cattle
+c) scarcity of food available to them
+d) a widespread, persistent and fatal disease among them
+#QuestionEnd
+#AnswerStart
+Answer: b) a drug used by cattle owners for treating their diseased cattle
+#AnswerEnd
+
+#QuestionStart
+Q37) A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area, but its existence is threatened due to the destruction of its habitat. Which one of the following could be that animal? (2011)
+a) Indian wild buffalo
+b) Indian wild ass
+c) Indian wild boar
+d) Indian gazelle
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian wild ass
+#AnswerEnd
+
+#QuestionStart
+Q38) Consider the following statements: (2011)
+1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes.
+2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q39) Biodiversity forms the basis for human existence in the following ways: (2011)
+1. Soil formation
+2. Prevention of soil erosion
+3. Recycling of waste
+4. Pollination of crops
+Select the correct answer using the code given below:
+a) 1, 2, and 3 only
+b) 2, 3, and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q40) Which one of the following is not a site for in-situ method of conservation of flora? (2011)
+a) Biosphere Reserve
+b) Botanical Garden
+c) National Park
+d) Wildlife Sanctuary
+#QuestionEnd
+#AnswerStart
+Answer: b) Botanical Garden
+#AnswerEnd
+
+#QuestionStart
+Q41) The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this phenomenon? (2011)
+a) It has a high rainfall that supports luxuriant vegetative growth.
+b) It is a confluence of different biogeographical zones.
+c) Exotic and invasive species have not been invasive species and have not been introduced in this region.
+d) It has less human interference.
+#QuestionEnd
+#AnswerStart
+Answer: b) It is a confluence of different biogeographical zones.
+#AnswerEnd
+
+#QuestionStart
+Q42) What would happen if phytoplankton of an ocean is completely destroyed for some reason? (2012)
+1. The ocean as a carbon sink would be adversely affected.
+2. The food chains in the ocean would be adversely affected.
+3. The density of ocean water would drastically decrease.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q43) In the context of ecosystem productivity, marine upwelling zones are important as they increase marine productivity by bringing the: (2011)
+1. Decomposer microorganisms to the surface
+2. Nutrients to the surface
+3. Bottom-dwelling organisms to the surface
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q44) If a tropical rainforest is removed, it does not regenerate quickly as compared to a tropical deciduous forest. This is because (2011)
+a) The soil of the rainforest is deficient in nutrients.
+b) Propagules of the trees in a rainforest have poor viability.
+c) The rain forest species are slow growing.
+d) Exotic species invade the fertile soil of the rainforest.
+#QuestionEnd
+#AnswerStart
+Answer: a) The soil of the rainforest is deficient in nutrients.
+#AnswerEnd
+
+#QuestionStart
+Q45) Consider the following statements: (2023)
+1. Some mushrooms have medicinal properties.
+2. Some mushrooms have psychoactive properties.
+3. Some mushrooms have insecticidal properties.
+4. Some mushrooms have bioluminescent properties.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: d) All four
+#AnswerEnd
+
+#QuestionStart
+Q46) Consider the following statements regarding the Indian squirrels :(2023)
+1. They build nests by making burrows in the ground.
+2. They store their food materials like nuts and seeds in the ground.
+3. They are omnivorous.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q47) Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?(2023)
+a) Fishing cat
+b) Orangutan
+c) Otter
+d) Sloth bear
+#QuestionEnd
+#AnswerStart
+Answer: b) Orangutan
+#AnswerEnd
+
+#QuestionStart
+Q48) ‘Wolbachia method’ is sometimes talked about with reference to which one of the following? (2023)
+a) Controlling the viral diseases spread by mosquitoes
+b) Converting crop residues into packing material
+c) Producing biodegradable plastics
+d) Producing biochar from thermochemical conversion of biomass
+#QuestionEnd
+#AnswerStart
+Answer: a) Controlling the viral diseases spread by mosquitoes
+#AnswerEnd

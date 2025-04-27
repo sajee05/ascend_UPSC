@@ -1,0 +1,813 @@
+#QuestionStart
+Q26) Which of the following statements(s) is/are correct about ‘Make in India’ Programme?
+1. ‘Make in India Programme was launched in the year 2014.
+2. It aims at encouraging companies for manufacturing in India and facilitating investment.
+Select the correct answer from, the code given below [U.P.P.C.S. (Pre) 2022]
+Code:
+a) Both 1 and 2
+b) Only 1
+c) Neither 1 nor 2
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q27) With reference to the ‘Capital formation’ which of the statements is/are correct?
+1. Process of capital formation depends on savings and effectiveness of financial institutions.
+2. Investment is the essential factor of capital formation.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2021]
+Codes:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q28) Which of the following labour related Acts have been amalgamated into the ‘Code on Wages, 2019’?
+I. Minimum Wages Act
+II. Payment of Bonus Act
+III. The Contract Labour Act
+IV. Equal Remuneration Act
+Select the correct answer using the codes given below. [U.P.P.C.S. (Pre) 2021]
+Codes:
+a) I and II only
+b) II and III only
+c) I, II and IV only
+d) I, II, III and IV
+#QuestionEnd
+#AnswerStart
+Answer: c) I, II and IV only
+#AnswerEnd
+
+#QuestionStart
+Q29) Given below are two statements, one is labelled as Assertion (A) and other as Reason (R):
+Assertion (A): Government has launched the National Infrastructure Pipeline (NIP)’ for the period of 2020-30.
+Reason (R) : The objective of NIP is to provide equitable access to infrastructure for all.
+Select the correct answer using the codes given below. [U.P. P.C.S. (Pre) 2020]
+Codes :
+a) Both (A) and (R) are true and (R) is the correct explanation of (A)
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+c) (A) is true but (R) is false
+d) (A) is false but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false but (R) is true
+#AnswerEnd
+
+#QuestionStart
+Q30) With reference to Corporate Social Responsibility (CSR), which of the statements is/are correct?
+1. The Companies Act 2014 introduces mandatory CSR.
+2. Companies covered under this will have to spend at least one percent of their annual net-profit on the activities under CSR.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q31) With reference to the functions of Public Sector in India, which of the following statements is/are correct?
+I. To provide public utility resources
+II. To build social and economic overhead capital
+III. To ensure balanced regional and sectoral growth
+IV. To pursue egalitarian goals
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) I, II and III are correct
+b) II, III and IV are correct
+c) I, II, III and IV are correct
+d) I, III, and IV are correct
+#QuestionEnd
+#AnswerStart
+Answer: c) I, II, III and IV are correct
+#AnswerEnd
+
+#QuestionStart
+Q32) SEZ India mobile app has been launched in January 2017 by: [U.P.P.C.S. (Pre) 017]
+a) Ministry of Labour and Employment
+b) Ministry of Finance
+c) Ministry of Commerce and Industry
+d) Ministry of Corporate Affairs
+#QuestionEnd
+#AnswerStart
+Answer: c) Ministry of Commerce and Industry
+#AnswerEnd
+
+#QuestionStart
+Q33) Who was the chairman of the committee on revisiting and revitalizing the PPP model of Infrastructure development? [U.P.P.C.S. (Mains) 2017]
+a) Rakesh Mohan
+b) V. Kelkar
+c) Arjun Sengupta
+d) Bibek Deb Roy
+#QuestionEnd
+#AnswerStart
+Answer: b) V. Kelkar
+#AnswerEnd
+
+#QuestionStart
+Q34) The specific requirements of the ‘start-ups’ can be fulfilled through: [U.P.P.C.S. (Pre) 2017]
+a) Angel Investors
+b) Venture capital
+c) Crowd funding
+d) All the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All the above
+#AnswerEnd
+
+#QuestionStart
+Q35) What is the correct chronological sequence of the following enactments in India?
+1. MRTP Act
+2. Industries (Development and Regulation) Act
+3. FERA
+4. Minimum Wages Act
+Select the correct answer using the codes given below: [U.P.P.C.S. (Mains) 2017]
+Codes;
+a) 2, 3, 4, 1
+b) 2, 3, 1,4
+c) 4, 2, 1, 3
+d) 4, 2, 3, 1
+#QuestionEnd
+#AnswerStart
+Answer: c) 4, 2, 1, 3
+#AnswerEnd
+
+#QuestionStart
+Q36) The cities which are included in ‘Golden Triangle’ of Indian Tourism are: [U.P.P.C.S. (Pre) 2016]
+a) Agra, Delhi and Jaipur
+b) Mathura, Agra and Gwalior
+c) Agra, Kanpur and Lucknow
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Agra, Delhi and Jaipur
+#AnswerEnd
+
+#QuestionStart
+Q37) ‘e-Biz’ refer to: [U.P.P.C.S. (Pre) 2016]
+a) electronic commerce
+b) single window for financial transaction
+c) single window for business inquiries
+d) single window for approach to government services
+#QuestionEnd
+#AnswerStart
+Answer: d) single window for approach to government services
+#AnswerEnd
+
+#QuestionStart
+Q38) Which amongst the following now decide the oil-prices in India? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Ministry of Finance
+b) Respective State Governments
+c) Ministry of Petroleum
+d) Oil companies
+#QuestionEnd
+#AnswerStart
+Answer: d) Oil companies
+#AnswerEnd
+
+#QuestionStart
+Q39) Helpline ‘Udyami’ is meant for: [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Micro, small and medium enterprises
+b) Large capital industries
+c) Female entrepreneurs
+d) Farmers using technology in farming
+#QuestionEnd
+#AnswerStart
+Answer: a) Micro, small and medium enterprises
+#AnswerEnd
+
+#QuestionStart
+Q40) Which among the following is the primary sector of Indian economy? [U.P.P.C.S. (Pre) (Re- Exam) 2015]
+a) Agriculture
+b) Industry
+c) Cooperative
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Agriculture
+#AnswerEnd
+
+#QuestionStart
+Q41) Kandla, situated in the Gulf of Kutch, is well known for which of the following industries? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Ship-breaking industry
+b) Cutting and polishing of diamonds
+c) Export processing zone
+d) Traditional act and craft centre
+#QuestionEnd
+#AnswerStart
+Answer: c) Export processing zone
+#AnswerEnd
+
+#QuestionStart
+Q42) Which one of the following groups is not co-partner of Industrial Relation? [U.P.P.C.S. (Mains) 2014]
+a) Consumers and their organizations
+b) Workers and their organizations
+c) Managers and their organizations
+d) State Governments and Central Government
+#QuestionEnd
+#AnswerStart
+Answer: a) Consumers and their organizations
+#AnswerEnd
+
+#QuestionStart
+Q43) Which, of the following statements is not true about the Indian Economy? [U.P.P.C.S. (Pre) 2010]
+a) Its share of world population is 16% but its share of world GDP is only 1.6%
+b) The share of services sector in Indias GDP is only 25%
+c) 58% of its working population is engaged in agriculture, but the contribution of agriculture to the National Income is 22%
+d) India occupies only 2.4% of the world’s geographical area
+#QuestionEnd
+#AnswerStart
+Answer: b) The share of services sector in Indias GDP is only 25%
+#AnswerEnd
+
+#QuestionStart
+Q44) Consider the following statements:
+1. India’s first EPZ was set up in 1965.
+2. Special Economic Zone (SEZ) policy in India was formulated in 2000.
+3. Vadodara is famous for Patola Silk.
+4. Panna in Madhya Pradesh is famous for gold mines.
+Of these statements: [U.P.P.C.S. (Mains) 2009]
+a) Only 1, 2 and 3 are correct
+b) Only 2, 3 and 4 are correct
+c) Only 3 and 4 are correct
+d) All are correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1, 2 and 3 are correct
+#AnswerEnd
+
+#QuestionStart
+Q45) Which of the following organizations is involved in providing the insurance against various risks to the exporters? [U.P.P.C.S. (Mains) 2009]
+a) Reserve Bank of India
+b) State Trading Corporation of India
+c) EXIM Bank
+d) Export Credit and Guarantee Corporation
+#QuestionEnd
+#AnswerStart
+Answer: d) Export Credit and Guarantee Corporation
+#AnswerEnd
+
+#QuestionStart
+Q46) Match List~I with List-II and select the correct answer using the codes given below the lists : [U.P.P.C.S. (SpL) (Mains) 2008]
+| List-I (Type of Organization) | List-II (Important Features) |
+|---|---|
+| A. Sole trader | 1. Large number of risk bearers |
+| B. Partnership | 2. Betterment of weaker sections |
+| C. Co-operatives | 3. Contractual Relationship |
+| D. Public Limited Company | 4. Unlimited liability |
+a) A1, B2, C3, D4
+b) A4, B3, C2, D1
+c) A4, B2, C3, D1
+d) A1, B3, C2, D4
+#QuestionEnd
+#AnswerStart
+Answer: b) A4, B3, C2, D1
+#AnswerEnd
+
+#QuestionStart
+Q47) Which one of the following is not the problem of Small Scale Industries (SSIs)? [U.P.P.C.S. (Pre) 2008]
+a) Finances
+b) Marketing
+c) Raw materials
+d) Strikes and lockouts
+#QuestionEnd
+#AnswerStart
+Answer: d) Strikes and lockouts
+#AnswerEnd
+
+#QuestionStart
+Q48) The licensing policy for the industries drew strength from: [U.P.P.C.S. (Mains) 2007]
+a) Industrial Policy Resolution 1948
+b) Industrial Policy Resolution 1956
+c) Congress Party Resolution of establishing socialistic pattern of society
+d) Industries Act 1951
+#QuestionEnd
+#AnswerStart
+Answer: d) Industries Act 1951
+#AnswerEnd
+
+#QuestionStart
+Q49) As the economy develops, the share of the tertiary sector in the GDP: [U.P.P.C.S. (Mains) 2006]
+a) Decreases
+b) Decreases then increases
+c) Increases
+d) Remains constant
+#QuestionEnd
+#AnswerStart
+Answer: c) Increases
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following is not an example of economic infrastructure? [U.P.P.C.S. (Mains) 2004]
+a) Schools
+b) Sanitary facilities
+c) Coal mines
+d) Roads and Railways
+#QuestionEnd
+#AnswerStart
+Answer: c) Coal mines
+#AnswerEnd
+
+#QuestionStart
+Q51) In India, service sector includes:
+I. Mining and Quarrying
+II. Transport and Communication
+III. Hotels
+IV. Forestry and Fishing
+Select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2004]
+Code:
+a) Only I and II
+b) Only II and III
+c) Only III and IV
+d) Only I and IV
+#QuestionEnd
+#AnswerStart
+Answer: b) Only II and III
+#AnswerEnd
+
+#QuestionStart
+Q52) Universal Service Obligation Fund is concerned with: [U.P.P.C.S. (Mains) 2003]
+a) adjustment of liabilities of telecom companies
+b) adjustment of accounts of oil refining companies to maintain the same price
+c) the aid of people suffering from contagious diseases
+d) the aid in the time of natural disasters
+#QuestionEnd
+#AnswerStart
+Answer: a) adjustment of liabilities of telecom companies
+#AnswerEnd
+
+#QuestionStart
+Q53) Which one of the following is referred to as the ‘Golden Handshake’: [U.P.P.C.S. (Pre) 2002]
+a) Honouring V.I.P.’s
+b) Voluntary Retirement Scheme
+c) Wishing Bon Voyage
+d) Receiving distinguished guests
+#QuestionEnd
+#AnswerStart
+Answer: b) Voluntary Retirement Scheme
+#AnswerEnd
+
+#QuestionStart
+Q54) Match List I with List II and select the correct answer using the code given below: [U.P.P.C.S.(Pre) 2001]
+| List I (Industry) | List II (Production Centre) |
+|---|---|
+| A. Jute Products | 1. Bhadohi |
+| B. Silk Textile | 2. Ludhiana |
+| C. Woollen Hosiery | 3. Bangalore |
+| D. Woolen Carpet | 4. Titagarh |
+Code:
+a) A3, B4, C2, D1
+b) A4, B3, C2, D1
+c) A1, B3, C4, D2
+d) A4, B1, C3, D2
+#QuestionEnd
+#AnswerStart
+Answer: b) A4, B3, C2, D1
+#AnswerEnd
+
+#QuestionStart
+Q55) Assertion (A): Coastal Gujarat has been called an industrial workshop.
+Reason (R): It is dotted with manufacturing units of textiles and garments, pharmaceutical and petrochemicals.
+Codes: [U.P.P.C.S.(Pre) 2001]
+a) Both A and R are true, and R is the correct explanation of A.
+b) Both A and R are true, but R is not a correct explanation of A.
+c) A is true, but R is false.
+d) A is false, but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both A and R are true, and R is the correct explanation of A.
+#AnswerEnd
+
+#QuestionStart
+Q56) Participation of labourers in management means: [U.P.P.C.S. (Pre) 1990]
+a) Participation in shares
+b) Participation in policy-decision making
+c) Dividend
+d) Participation in production
+#QuestionEnd
+#AnswerStart
+Answer: b) Participation in policy-decision making
+#AnswerEnd
+
+#QuestionStart
+Q57) In which of the following States, India’s first Railway line has been made under publicprivate partnership model? [U.P. Lower Sub. (Pre) 2015]
+a) Rajasthan
+b) Madhya Pradesh
+c) Maharashtra
+d) Gujarat
+#QuestionEnd
+#AnswerStart
+Answer: d) Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q58) Which of the following partly defines the micro-enterprise in India? [67th B.P.S.C. (Pre) (Re. Exam) 2022]
+a) Investment in Plant and Machinery or equipment not more than Rs. 1 crore
+b) Annual turnover not more than Rs. 15 crore
+c) Investment in Plant and Machinery not more that Rs. 1.5 crore
+d) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Investment in Plant and Machinery or equipment not more than Rs. 1 crore
+#AnswerEnd
+
+#QuestionStart
+Q59) Which of the following infrastructure sectors of India is related with Bharatmala Project? [66th B.P.S.C. (Pre) 2020]
+a) Telecom sector
+b) Railways
+c) Road infrastructure
+d) Port sector
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Road infrastructure
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following agencies releases the Index of Industrial Production to measure industrial performance in India? [66th B.P.S.C. (Pre) 2020]
+a) The National Sample Survey Office (NSSO)
+b) The Reserve Bank of India (RBI)
+c) The Central Statistics Office (CSO)
+d) The Indian Statistical Institute (ISI)
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) The Central Statistics Office (CSO)
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following industrial/ economic corridors of India is being developed in collaboration with Japan? [65th B.P.S.C. (Pre) 2019]
+a) Chennai-Vizag
+b) Mumbai-Bengaluru
+c) Delhi-Mumbai
+d) Amrits ar-Kolkata
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Delhi-Mumbai
+#AnswerEnd
+
+#QuestionStart
+Q62) Which of the following industrial towns is located on the Chota Nagpur plateau? [39th B.P.S.C. (Pre) 1994]
+a) Bhilai
+b) Ranchi
+c) Asansol
+d) Durgapur
+#QuestionEnd
+#AnswerStart
+Answer: b) Ranchi
+#AnswerEnd
+
+#QuestionStart
+Q63) Why companies go for business process reengineering with the help of technology? [R.A.S./R.T.S. (Pre) 2018]
+a) Customers’ demand and expectations are continuously increasing
+b) IT being leveraged to provide competitive edge in products and services at lower costs
+c) The pace of change has accelerated with the liberalization of economies world over
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: d) All of these
+#AnswerEnd
+
+#QuestionStart
+Q64) The AH India Khadi and Village Industries Board was setup during the [R.A.S./R.T.S. (Pre) 1994]
+a) 1st Plan
+b) 2nd Plan
+c) 3rd Plan
+d) 4th Plan
+#QuestionEnd
+#AnswerStart
+Answer: a) 1st Plan
+#AnswerEnd
+
+#QuestionStart
+Q65) The East-West corridor of the Golden Quadrilateral connects which of the following centers (nodes)? [M.P.P.C.S. (Pre) 2019]
+a) Silchar and Porbander
+b) Guwahati and Ahmedabad
+c) Kandla and Tinsukia
+d) Itanagar and Jamnagar
+#QuestionEnd
+#AnswerStart
+Answer: a) Silchar and Porbander
+#AnswerEnd
+
+#QuestionStart
+Q66) ‘Stand-up India’ Scheme’s purpose is : [Jharkhand P.C.S (Pre) 2016]
+a) To encourage entrepreneurship among the SC/STs and women entrepreneur
+b) To encourage entrepreneurship among the entrepreneurs of the Backward Class
+c) To encourage entrepreneurship only among the entrepreneurs of Scheduled Castes
+d) To encourage entrepreneurship only among the women entrepreneurs
+#QuestionEnd
+#AnswerStart
+Answer: a) To encourage entrepreneurship among the SC/STs and women entrepreneur
+#AnswerEnd
+
+#QuestionStart
+Q67) The Industrial Policy, 1991 was criticized on a number of points. Which of the following was not one of them? [Jharkhand P.C.S. (Pre) 2013]
+a) Erratic industrial growth
+b) Threat from Foreign Competition
+c) Neglect of agriculture sector
+d) Misplaced faith in Foreign Investment
+#QuestionEnd
+#AnswerStart
+Answer: c) Neglect of agriculture sector
+#AnswerEnd
+
+#QuestionStart
+Q68) Which is not included in the manufacturing sector? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Large Industry
+b) Small Scale Industry
+c) Micro Industry
+d) Medium Size Industry
+e) Construction Industry
+#QuestionEnd
+#AnswerStart
+Answer: e) Construction Industry
+#AnswerEnd
+
+#QuestionStart
+Q69) From which sector of the following, largest quantity of cotton textile is produced in the country? [Chhattisgarh P.C.S (Pre 2016)]
+a) Mill sector
+b) Handloom
+c) Powerloom
+d) Hosiery
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Powerloom
+#AnswerEnd
+
+#QuestionStart
+Q70) Which of the following industries provides the maximum employment in India? [Chhattisgarh P.C.S (Pre) 2013]
+a) Iron and Steel
+b) Cement
+c) Sugar
+d) Petroleum
+e) Textiles
+#QuestionEnd
+#AnswerStart
+Answer: e) Textiles
+#AnswerEnd
+
+#QuestionStart
+Q71) The oldest large scale industry of India is: [Uttarakhand P.C.S. (Pre) 2002]
+a) Cotton textiles
+b) Iron and steel
+c) Jute
+d) Paper
+#QuestionEnd
+#AnswerStart
+Answer: a) Cotton textiles
+#AnswerEnd
+
+#QuestionStart
+Q72) Which one of the following terms denotes inputs in terms of tools, machines, building raw materials and money in hand required any stage of production? [CDS 2022 (I)]
+a) Fixed capital
+b) Working capital
+c) Physical capital
+d) Human capital
+#QuestionEnd
+#AnswerStart
+Answer: c) Physical capital
+#AnswerEnd
+
+#QuestionStart
+Q73) Which one of the following inputs is required in less quantity in case of nonfarming activities? [CDS 2022 (I)]
+a) Land
+b) Labour
+c) Capital
+d) Raw material
+#QuestionEnd
+#AnswerStart
+Answer: a) Land
+#AnswerEnd
+
+#QuestionStart
+Q74) What is Unicorn Company’ often mentioned in Indian news? [CDS 2022 (I)]
+a) Any privately held startup company with a value of over $ 1 billion
+b) Any public sector company to be merged with another public sector company
+c) Privatization of any loss-making State-owned company
+d) Any foreign multinational company doing business in India in collaboration with an Indian company
+#QuestionEnd
+#AnswerStart
+Answer: a) Any privately held startup company with a value of over $ 1 billion
+#AnswerEnd
+
+#QuestionStart
+Q75) The Department for Promotion of Industry and Internal Trade (DPIIT) has revised the base year index of Eight Core Industries having a combined weight of about 40.27 percent in the Index of Industrial Production. Which one of the following is not one of the Eight Core Industries? [CDS 2022 (II)]
+a) Coal
+b) Refinery products
+c) Rubber products
+d) Cement
+#QuestionEnd
+#AnswerStart
+Answer: c) Rubber products
+#AnswerEnd
+
+#QuestionStart
+Q76) Consider the following statements about the Micro, Small and Medium Enterprise (MSMEs):
+1. The MSMEs comprise a dynamic sector of the Indian economy providing large employment opportunities.
+2. MSMEs require low capital cost and help industrialization of backward regions.
+3. MSMES contribute enormously to socioeconomic development.
+How many of the above statements are correct? [CDS 2022 (II)]
+a) None
+b) Only one
+c) Only two
+d) All three
+#QuestionEnd
+#AnswerStart
+Answer: d) All three
+#AnswerEnd
+
+#QuestionStart
+Q77) As per the use-based classification of the Index of Industrial Production (IIP), the maximum weight has been assigned to [CDS 2020 (II)]
+a) primary goods
+b) intermediate goods
+c) consumer durables
+d) consumer non-durables
+#QuestionEnd
+#AnswerStart
+Answer: a) primary goods
+#AnswerEnd
+
+#QuestionStart
+Q78) Statement I: Private investments in research have severely lagged public investments in India.
+Statement II: Universities play a relatively small role in the research activities of the country.
+Codes [CDS 2018 (II)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true and statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true and statement II is not the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q79) Which of the following statement(s) about Bitcoin is/are correct?
+1. It is a decentralized virtual currency.
+2. It is generated through complex computer software systems.
+3. The Reserve Bank of India recognized it as a legal tender in January 2016.
+Select the correct answer using the codes given below: [CDS 2017 (I)]
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q80) Capital deepening refers to [CDS 2016 (II)]
+a) going for more fixed capital per worker
+b) emphasis on social overhead capita
+c) constant capital-output ratio
+d) increasing capital-output ratio
+#QuestionEnd
+#AnswerStart
+Answer: a) going for more fixed capital per worker
+#AnswerEnd
+
+#QuestionStart
+Q81) Which one of the following is not a part of service sector in India? [CDS 2015 (II)]
+a) Transport
+b) Construction
+c) Hotels and restaurants
+d) Insurance
+#QuestionEnd
+#AnswerStart
+Answer: b) Construction
+#AnswerEnd
+
+#QuestionStart
+Q82) Which one of the following is not correct in the context of industrial clusters development in India? [CDS 2015 (II)]
+a) Industrial clusters play an important role for the MSME participants in their inclusiveness, technology absorption and efficiency improvement
+b) Industrial clusters are visible in traditional handloom, handicrafts and modern SMC
+c) Industrial cluster programmes in India are administered by various ministeries
+d) Industrial clusters lead to promotion of monopoly in the market
+#QuestionEnd
+#AnswerStart
+Answer: d) Industrial clusters lead to promotion of monopoly in the market
+#AnswerEnd
+
+#QuestionStart
+Q83) Match the List I with List II and select the correct answer using the codes given below the lists [CDS 2015 (I)]
+| List I (Industry) | List II (Location) |
+|---|---|
+| A. Railway equipment | 1. Cochin |
+| B. Automobile | 2. Ludhiana |
+| C. Ship-building | 3. Bhilai |
+| D. Bicycle | 4. Jabalpur |
+Codes
+a) A3, B4, C1, D2
+b) A3, B1, C4, D2
+c) A2, B1, C4, D3
+d) A2, B4, C1, D3
+#QuestionEnd
+#AnswerStart
+Answer: a) A3, B4, C1, D2
+#AnswerEnd
+
+#QuestionStart
+Q84) Consider the following statements:
+1. Government of India has upgraded the National Industrial Classification from NIC-1987 to NIC-2008.
+2. NIC is an essential statistical standard for developing and maintaining comparable database according to economic activities.
+Which of the statement(s) given above is/are correct? [CDS 2014 (II)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q85) According to the Companies Act, 2013, ‘nominal capital’ implies [CDS 2014 (I)]
+a) such part of capital, which has been called for payment
+b) the maximum amount of share capital of a company
+c) such part of capital, which has been received by a company from its shareholders
+d) such capital as the company issues from time to time for subscription
+#QuestionEnd
+#AnswerStart
+Answer: b) the maximum amount of share capital of a company
+#AnswerEnd
+
+#QuestionStart
+Q86) In India, mergers and acquisition of firms are regulated by [CDS 2014 (I)]
+a) National Manufacturing Competitiveness Council
+b) Competition Commission of India
+c) Security and Exchange Board of India
+d) Department of Industrial Policy and Promotion
+#QuestionEnd
+#AnswerStart
+Answer: b) Competition Commission of India
+#AnswerEnd
+
+#QuestionStart
+Q87) Classification of an enterprise into public or private sector is based on [CDS 2014 (I)]
+a) number of employees in the enterprise
+b) ownership of assets of the enterprise
+c) employment conditions for workers in the enterprise
+d) nature of products manufactured by the enterprise
+#QuestionEnd
+#AnswerStart
+Answer: b) ownership of assets of the enterprise
+#AnswerEnd
+
+#QuestionStart
+Q88) To which of the following sectors of the economy, the activity of agriculture and services belong to? [CAPF 2017]
+a) Primary and Tertiary respectively
+b) Primary and Secondary respectively
+c) Tertiary and Secondary respectively
+d) Secondary and Quaternary respectively
+#QuestionEnd
+#AnswerStart
+Answer: a) Primary and Tertiary respectively
+#AnswerEnd
+
+#QuestionStart
+Q89) Which one of the following is not industrial corridor as per the policy initiatives? [CAPF 2016]
+a) Amritsar - Kolkata
+b) Delhi - Mumbai
+c) Kolkata - Guwahati
+d) Chennai - Bengaluru
+#QuestionEnd
+#AnswerStart
+Answer: c) Kolkata - Guwahati
+#AnswerEnd
+
+#QuestionStart
+Q90) Which of the following are the objectives of the Khadi and Village Industries Commission
+1. To provide employment in rural areas.
+2. To produce saleable articles.
+3. To create self reliance amongst people and building up a strong rural community spirit.
+Select the correct answer using the code given below? [CAPF 2016]
+a) 1,2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q91) The Perform Achieve and Trade (PAT) scheme in India is related to? [CAPF 2014]
+a) Education
+b) Global Warming
+c) Energy Efficiency
+d) Bharat Nirman
+#QuestionEnd
+#AnswerStart
+Answer: c) Energy Efficiency
+#AnswerEnd

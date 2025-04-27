@@ -1,0 +1,129 @@
+#QuestionStart
+Q1) Who of the following rulers of medieval India gave the Portuguese to build a fort at Bhatkal? (2024)
+a) Krishnadevaraya
+b) Narasimha Saluva
+c) Muhammad Shah III
+d) Yusuf Adil Shah
+#QuestionEnd
+#AnswerStart
+Answer: a) Krishnadevaraya
+#AnswerEnd
+
+#QuestionStart
+Q2) In medieval India, the term “Fanam” referred to: (2022)
+a) Clothing
+b) Coins
+c) Ornaments
+d) Weapons
+#QuestionEnd
+#AnswerStart
+Answer: b) Coins
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following pairs : (2022)
+| King | Dynasty |
+|---|---|
+| 1. Nannuka | Chandela |
+| 2. Jayashakti | Paramara |
+| 3. Nagabhata II | Gurjara-Pratihara |
+| 4. Bhoja | Rashtrakuta |
+How many pairs given above are correctly matched?
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to Indian history, which of the following statements is/are correct? (2021)
+1. The Nizamat of Arcot emerged out of Hyderabad state.
+2. The Mysore kingdom emerged out of Vijayanagara Empire.
+3. Rohilkhand kingdom was formed out of the territories occupied by Ahmad Shah Durrani.
+Select the correct answer using the code given below.
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following foreign travellers elaborately discussed diamonds and diamond mines of India? (2018)
+a) Francois Bernier
+b) Jean-Baptiste Tavernier
+c) Jean de Thevenot
+d) Abbe Barthelemy Carre
+#QuestionEnd
+#AnswerStart
+Answer: b) Jean-Baptiste Tavernier
+#AnswerEnd
+
+#QuestionStart
+Q6) Which one of the following was a very important seaport in the Kakatiya kingdom? (2017)
+a) Kakinada
+b) Motupalli
+c) Machilipatnam (Masulipatnam)
+d) Nelluru
+#QuestionEnd
+#AnswerStart
+Answer: b) Motupalli
+#AnswerEnd
+
+#QuestionStart
+Q7) Regarding the taxation systems of Krishna Deva, the ruler of Vijayanagar, consider the following statements: (2016)
+1. The tax rate of land was fixed depending on the quality of the land.
+2. Private owners of workshops paid an industry tax.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following pairs: (2015)
+| Medieval Indian State | Present Region |
+|---|---|
+| 1. Champaka | Central India |
+| 2. Durgara | Jammu |
+| 3. Kuluta | Malabar |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong? (2015)
+a) Amoghavarsha I
+b) Ballala II
+c) Harihara I
+d) Prataparudra II
+#QuestionEnd
+#AnswerStart
+Answer: c) Harihara I
+#AnswerEnd
+
+#QuestionStart
+Q10) In medieval India, the designations 'Mahattara' and 'Pattakila' were used for (2014)
+a) military officers
+b) village headmen
+c) specialists in Vedic rituals
+d) chiefs of craft guilds
+#QuestionEnd
+#AnswerStart
+Answer: b) village headmen
+#AnswerEnd

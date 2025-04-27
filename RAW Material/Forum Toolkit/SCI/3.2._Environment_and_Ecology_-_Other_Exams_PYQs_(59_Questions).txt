@@ -1,0 +1,682 @@
+#QuestionStart
+Q29) With reference to ecological niche, which of the following statements is/are correct?
+1. It represents the range of conditions that it can tolerate the resources it utilizes and its functional role in ecological system.
+2. Each species has a distinct niche.
+Select the correct answer using the codes given below. [UPPCS (Pre) 2022]
+a) Both 1 and 2
+b) Only 1
+c) Neither 1 nor 2
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q30) Given below are two statements, one is labelled as Assertion (A) and other as Reason (R).
+Assertion (A): Various components of an ecosystem are not interdependent.
+Reason (R): Human activities have impacts on the environment.
+Choose the correct answer from the code given below. [U.P.P.C.S. (Pre) 2021]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, and (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q31) The cycling of elements in an ecosystem is called: [U.P.P.C.S. (Pre) 2021 & 2020]
+a) Chemical cycles
+b) Biogeochemical cycles
+c) Geological cycles
+d) Geochemical cycles
+#QuestionEnd
+#AnswerStart
+Answer: b) Biogeochemical cycles
+#AnswerEnd
+
+#QuestionStart
+Q32) The concept of ‘Ecological Transition’ was first used by: [U.P.P.C.S. (Pre) 2020]
+a) Elton
+b) Bennett
+c) Berkeley
+d) Ratzel
+#QuestionEnd
+#AnswerStart
+Answer: b) Bennett
+#AnswerEnd
+
+#QuestionStart
+Q33) The entire sequence of communities that successively change in a particular area are called: [U.P.P.C.S. (Pre) 2020]
+a) Ecological succession
+b) Sere
+c) Community dynamics
+d) Pyramid of biomass
+#QuestionEnd
+#AnswerStart
+Answer: b) Sere
+#AnswerEnd
+
+#QuestionStart
+Q34) Generally, environment can be classified as following categories. Which among the following is not a part of such category? [U.P.P.C.S. (Pre) 2020]
+a) Operational Environment
+b) Physical Environment
+c) Cultural Environment
+d) Biological Environment
+#QuestionEnd
+#AnswerStart
+Answer: a) Operational Environment
+#AnswerEnd
+
+#QuestionStart
+Q35) The discussion on ‘Sustainable Development’ was started after submitting a report on the environment to the United Nations in 1987. That report was: [U.P.P.C.S. (Pre) 2020]
+a) First Report on Climate Change
+b) Our Common Future
+c) Second Report on Climate Change
+d) Fifth Assessment Report
+#QuestionEnd
+#AnswerStart
+Answer: b) Our Common Future
+#AnswerEnd
+
+#QuestionStart
+Q36) Arrange the following events in chronological order and select the correct answer from the codes given below:
+I. Rio Earth Summit
+II. Publication of Brundtland Commission Report
+III. Enforcement of Montreal Protocol
+IV. Publication of ‘The Limit to Growth’ Report
+Codes: [U.P.P.C.S. (Pre) 2020]
+a) I, IV, III, II
+b) IV II, HI, I
+c) IV, III, II, I
+d) IV, I, III, 11
+#QuestionEnd
+#AnswerStart
+Answer: b) IV II, HI, I
+#AnswerEnd
+
+#QuestionStart
+Q37) The book ‘Silent Spring’ published in 1962 which set the tone for an environmental movement in the world, was written by: [U.P.P.C.S. (Pre) 2020]
+a) Carolyn Merchant
+b) Karl Marx
+c) Rachel Carson
+d) Rajgopalan
+#QuestionEnd
+#AnswerStart
+Answer: c) Rachel Carson
+#AnswerEnd
+
+#QuestionStart
+Q38) Given below are two statements, one labelled as Assertion (A) and other as the Reason (R).
+Assertion (A): Sustainable development is important for the well-being of human society.
+Reason (R): Sustainable development is a kind of development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
+Codes: [U.P.P.C.S. (Pre) 2019]
+a) Both (A) and (R) are true and (R) is correct explanation of (A)
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+c) (A) is true but (R) is false
+d) (A) is false but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q39) Which of the following is a Nodal Institution for implementation of Sustainable Development Goals in India? [U.P.P.C.S. (Pre) 2019]
+a) Planning Commission
+b) Disinvestment Commission
+c) NITI Aayog
+d) Finance Commission
+#QuestionEnd
+#AnswerStart
+Answer: c) NITI Aayog
+#AnswerEnd
+
+#QuestionStart
+Q40) Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): There is a positive relation between Human Development Index (HDI) and Sustainable Development Goals (SDG) ranking of Indian State.
+Reason (R): The underlying dimension of SDG targets are closely related to education and health aspect.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) Both (A) and (R) are true and (R) is correct explanation of (A)
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+c) (A) is true but (R) is false
+d) (A) is false but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q41) Who has propounded the concept of ‘Limits to Growth’? [U.P.P.C.S. (Pre) 2019]
+a) Club of Rome
+b) UNESCO
+c) Brundtland Commission
+d) Agenda 21
+#QuestionEnd
+#AnswerStart
+Answer: a) Club of Rome
+#AnswerEnd
+
+#QuestionStart
+Q42) The actual location or place where an organism lives is called: [U.P.P.C.S. (Pre) 2019]
+a) Habitat
+b) Ecosystem
+c) Niche
+d) Biome
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Habitat
+#AnswerEnd
+
+#QuestionStart
+Q43) What is true about the ecosystem? [U.P.P.C.S. (Pre) 2019]
+a) Primary consumers are least dependent upon producer
+b) Primary consumers are out-number producers
+c) Producers are more than primary consumers
+d) Secondary consumers are the largest and most powerful.
+#QuestionEnd
+#AnswerStart
+Answer: c) Producers are more than primary consumers
+#AnswerEnd
+
+#QuestionStart
+Q44) Which is the most stable ecosystem? [U.P.P.C.S. (Pre) 2018]
+a) Marine (ocean)
+b) Forest
+c) Mountain
+d) Desert
+#QuestionEnd
+#AnswerStart
+Answer: a) Marine (ocean)
+#AnswerEnd
+
+#QuestionStart
+Q45) Which of the following is an example of anthropogenic biome? [U.P. P.C.S. (Pre) 2018]
+a) Fresh water
+b) Grassland
+c) Rain forest
+d) Cropland
+#QuestionEnd
+#AnswerStart
+Answer: d) Cropland
+#AnswerEnd
+
+#QuestionStart
+Q46) Greenwash refers to- [U.P.P.C.S. (Mains) 2017]
+a) Promoting Jhum agriculture
+b) Cleaning of river water
+c) Removing greenery
+d) Making false promises of protecting the environment
+#QuestionEnd
+#AnswerStart
+Answer: d) Making false promises of protecting the environment
+#AnswerEnd
+
+#QuestionStart
+Q47) Which one of the following is the correct order of biological organization ranging from organism to biosphere? [U.P.P.C.S. (Pre) 2017]
+a) Population - Ecosystem - Community -Landscape
+b) Landscape - Community - Ecosystem -Population
+c) Population - Community - Ecosystem -Landscape
+d) Population - Landscape - Community -Ecosystem
+#QuestionEnd
+#AnswerStart
+Answer: c) Population - Community - Ecosystem -Landscape
+#AnswerEnd
+
+#QuestionStart
+Q48) In a food chain, man is: [U.P.P.C.S. (Pre) 2016]
+a) producer
+b) only primary consumer
+c) only secondary consumer
+d) primary as well as a secondary consumer
+#QuestionEnd
+#AnswerStart
+Answer: d) primary as well as a secondary consumer
+#AnswerEnd
+
+#QuestionStart
+Q49) Which one of the following is the correct sequence of the phases of biotic succession? [U.P.P.C.S. (Mains) 2016]
+a) Nudation, Migration, Ecesis, Reaction, Stabilization
+b) Migration, Nudation, Ecesis, Reaction, Stabilization
+c) Ecesis, Migration, Nudation, Reaction, Stabilization
+d) Stabilization, Reaction, Nudation, Migration, Ecesis
+#QuestionEnd
+#AnswerStart
+Answer: a) Nudation, Migration, Ecesis, Reaction, Stabilization
+#AnswerEnd
+
+#QuestionStart
+Q50) Which of the following shows a density gradient of the water system? [U.P.P.C.S. (Mains) 2016]
+a) Ecocline
+b) Halocline
+c) Pycnocline
+d) Thermocline
+#QuestionEnd
+#AnswerStart
+Answer: c) Pycnocline
+#AnswerEnd
+
+#QuestionStart
+Q51) Which of the following has the lowest mean net primary productivity? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) Temperate forests
+b) Tropical forests
+c) Temperate grasslands
+d) Tropical savanna
+#QuestionEnd
+#AnswerStart
+Answer: c) Temperate grasslands
+#AnswerEnd
+
+#QuestionStart
+Q52) Which of the following is NOT correct about the ecosystem? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) It comprises both, abiotic and biotic components
+b) It has its productivity
+c) It is a closed system
+d) It is a natural resource system
+#QuestionEnd
+#AnswerStart
+Answer: c) It is a closed system
+#AnswerEnd
+
+#QuestionStart
+Q53) Which one of the following pairs is correctly matched? [U.P.P.C.S. (Pre) 2015]
+a) Mountain - Most stable ecosystem
+b) Abiotic Component - Bacteria
+c) Green plants - Ecosystem
+d) Rainfall - Global Warming
+#QuestionEnd
+#AnswerStart
+Answer: c) Green plants - Ecosystem
+#AnswerEnd
+
+#QuestionStart
+Q54) The primary source of energy in Eco-body is- [U.P.P.C.S. (Mains) 2015]
+a) Energy emitted by fermentation
+b) Preserved vegetable sugar
+c) Solar energy
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Solar energy
+#AnswerEnd
+
+#QuestionStart
+Q55) Which of the following statements is correct? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) The energy flow in the Biospheric ecosystem is unidirectional.
+b) The energy flow in the Biospheric ecosystem is cyclic.
+c) Relative loss of energy in natural ecosystem decreases with increasing trophic levels.
+d) Species at progressively higher trophic levels appear to be less efficient in using available energy.
+#QuestionEnd
+#AnswerStart
+Answer: a) The energy flow in the Biospheric ecosystem is unidirectional.
+#AnswerEnd
+
+#QuestionStart
+Q56) Who of the following used the term ‘deep ecology’ for the first time? [U.P.P.C.S. (Mains) 2014]
+a) E.P. Odum
+b) C. Raunkiaer
+c) EE. Clements
+d) Arne Naess
+#QuestionEnd
+#AnswerStart
+Answer: d) Arne Naess
+#AnswerEnd
+
+#QuestionStart
+Q57) Among the biotic components of the ecosystem, the producer system is- [U.P.P.C.S. (Pre) 2013]
+a) Cow
+b) Peacock
+c) Tiger
+d) Green Plants
+#QuestionEnd
+#AnswerStart
+Answer: d) Green Plants
+#AnswerEnd
+
+#QuestionStart
+Q58) The minimum area of the land required to completely sustain the life of the person is called his- [U.P.P.C.S. (Pre) 2012]
+a) Biota
+b) Ecological footprint
+c) Biome
+d) Niche
+#QuestionEnd
+#AnswerStart
+Answer: b) Ecological footprint
+#AnswerEnd
+
+#QuestionStart
+Q59) The transitional zone between two distinct communities is known as: [U.P.P.C.S. (Pre) 2012]
+a) Ecotype
+b) Arcade
+c) Ecosphere
+d) Ecotone
+#QuestionEnd
+#AnswerStart
+Answer: d) Ecotone
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following does NOT add carbon dioxide to the carbon cycle on the planet Earth? [U.P.P.C.S. (Mains) 2012]
+a) Respiration
+b) Photosynthesis
+c) Decay of organic matter
+d) Volcanic action
+#QuestionEnd
+#AnswerStart
+Answer: b) Photosynthesis
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following trees is NOT eco-friendly? [U.P.P.C.S. (Mains) 2011]
+a) Babul
+b) Eucalyptus
+c) Neem
+d) Pipal
+#QuestionEnd
+#AnswerStart
+Answer: b) Eucalyptus
+#AnswerEnd
+
+#QuestionStart
+Q62) Environment refers to: [U.P.P.C.S. (Pre) 2006]
+a) The natural world of land, water, air, plants and animals that exist around it.
+b) The sum total of conditions which surround human beings at a given point of time.
+c) The interacting system of physical, biological and cultural elements which are interlinked.
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q63) Environmental degradation means- [U.P.P.C.S. (Pre) 2006]
+a) Overall degradation of environmental attributes.
+b) Adverse changes brought in by human activities.
+c) Ecological imbalance because of ecological diversity.
+d) All of the above.
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above.
+#AnswerEnd
+
+#QuestionStart
+Q64) Which of the following are the primary consumers in an ecosystem?
+1. Ants
+2. Deer
+3. Fox
+4. Tiger
+Select the correct answer from the codes given below:
+Code: [U.P.P.C.S. (Mains) 2006]
+a) Only 1 and 2
+b) Only 2 and 3
+c) Only 1, 2 and 3
+d) Only 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q65) In the marine environment, the main primary producers are: [U.P.P.C.S. (Mains) 2005]
+a) Phytoplankton’s
+b) Seaweeds
+c) Marine angiosperms
+d) Aquatic bryophytes
+#QuestionEnd
+#AnswerStart
+Answer: a) Phytoplankton’s
+#AnswerEnd
+
+#QuestionStart
+Q66) Which one of the following ecosystems covers the largest area of the earth’s surface? [U.P. Lower Sub. (Spl) (Pre) 2003]
+a) Desert Ecosystem
+b) Grassland Ecosystem
+c) Mountain Ecosystem
+d) Marine Ecosystem
+#QuestionEnd
+#AnswerStart
+Answer: d) Marine Ecosystem
+#AnswerEnd
+
+#QuestionStart
+Q67) Consider the following statements relating to the ecosystem:
+1. The term ecosystem was first used by A.G. Tansley.
+2. Those organisms which produce their food themselves are termed as autotrophs.
+3. Consumers consume their food through the process of photosynthesis.
+4. Decomposers convert inorganic matter into organic matter.
+Which of the above statements are correct? [U.P.U.D.A./L.D.A. (Pre) 2002]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 4
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q68) Food chain is [CDS 2019 (II)]
+a) relationship between autotrophic organisms
+b) exchange of genetic material between two organisms
+c) passage of food (and thus energy) from one organism to another
+d) modern entrepreneur establishment providing food outlets
+#QuestionEnd
+#AnswerStart
+Answer: c) passage of food (and thus energy) from one organism to another
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following is the correct sequential phase in the successional development of vegetation community in a habitat? [CDS 2019 (II)]
+a) Migration, reaction, stabilisation and nudation
+b) Migration, stabilisation, reaction and nudation
+c) Nudation, migration, reaction and stabilisation
+d) Reaction, migration, stabilisation a nudation
+#QuestionEnd
+#AnswerStart
+Answer: c) Nudation, migration, reaction and stabilisation
+#AnswerEnd
+
+#QuestionStart
+Q70) The following consist of two statements, statement 1 and statement II. Examine these two statements carefully and select the correct answer using the options given below: [CDS 2018 (I)]
+Statement I - Bioaccumulation is a process of progressive accumulation of heavy metals and pesticides in an organism.
+Statement II - Large fishes of the pond are found to have higher concentration of pesticides than planktons of the same pond.
+Codes:
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement li is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q71) A biological community in its environment such as a pond, an ocean, a forest, even an aquarium is known as [CDS 2017 (II)]
+a) biome
+b) community
+c) abiotic environment
+d) ecosystem
+#QuestionEnd
+#AnswerStart
+Answer: d) ecosystem
+#AnswerEnd
+
+#QuestionStart
+Q72) The term ‘Biomagnification’ is referred to as [CAPF2017]
+a) increase in the body weight
+b) uncontrolled growth of harmful organisms
+c) accumulation of increasing amount of non-degradable pollutant through food chain
+d) increase in the number of bacteria in a culture medium.
+#QuestionEnd
+#AnswerStart
+Answer: c) accumulation of increasing amount of non-degradable pollutant through food chain
+#AnswerEnd
+
+#QuestionStart
+Q73) Which one of the following is the correct taxonomic hierarchy? [CAPF 2016]
+a) Kingdom-Phylum-Order-Genus-Family-Class- Species
+b) Kingdom-Order-Class-Phylum-Family-Genus- Species
+c) Kingdom-Class-Order-Phylum-Family-Species-Genus
+d) Kingdom-Phylum-Class-Order-Family-Genus - Species
+#QuestionEnd
+#AnswerStart
+Answer: d) Kingdom-Phylum-Class-Order-Family-Genus - Species
+#AnswerEnd
+
+#QuestionStart
+Q74) Which one of the following statements regarding water cycle is correct? [CDS 2015 (I)]
+a) Transpiration by plants does not contribute to cloud formation
+b) Only evaporation of surface water of rivers and oceans is responsible for cloud formation.
+c) Rainfall does not contribute in maintenance of underground water level
+d) Underground water may also be connected to surface water.
+#QuestionEnd
+#AnswerStart
+Answer: d) Underground water may also be connected to surface water.
+#AnswerEnd
+
+#QuestionStart
+Q75) The ‘Kailash Sacred Landscape Conservation and Development Initiative’ (KSLCDI) is a collaboration among which three nations? [Uttarakhand P.C.S. (Pre) 2016]
+a) India, Afghanistan, China
+b) India, Nepal, Afghanistan
+c) India, Nepal, Pakistan
+d) India, China, Nepal
+#QuestionEnd
+#AnswerStart
+Answer: d) India, China, Nepal
+#AnswerEnd
+
+#QuestionStart
+Q76) The number of organisms that can be supported by the environment in a given area is known as: [Uttarakhand PCS (Pre) 2012]
+a) Population
+b) Carrying Capacity
+c) Pyramid of number or biomass
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Carrying Capacity
+#AnswerEnd
+
+#QuestionStart
+Q77) The pyramid of energy in any ecosystem is-[M.P.P.C.S. (Pre) 2020]
+a) Always upright
+b) May be upright and inverted
+c) Always inverted
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Always upright
+#AnswerEnd
+
+#QuestionStart
+Q78) Trophic level-I includes: [M.P.P.C.S. (Pre) 2016]
+a) Herbivorous animals
+b) Carnivorous animals
+c) Omnivorous animals
+d) Green plants
+#QuestionEnd
+#AnswerStart
+Answer: d) Green plants
+#AnswerEnd
+
+#QuestionStart
+Q79) The example of “Lentic Habitat” in the freshwater community is: [MP.P.C.S. (Pre) 2014]
+a) Ponds and swamps
+b) Waterfalls and rivers
+c) Ponds and rivers
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Ponds and swamps
+#AnswerEnd
+
+#QuestionStart
+Q80) An inverted pyramid of biomass can be found in which ecosystem? [R.A.S./R.T.S. (Pre) 2021]
+a) Marine
+b) Grassland
+c) Forest
+d) Tundra
+#QuestionEnd
+#AnswerStart
+Answer: a) Marine
+#AnswerEnd
+
+#QuestionStart
+Q81) Which of the following is not a biotic component of an ecosystem? [R.A.S./R.T.S. (Pre) 2013]
+a) Air
+b) Plant
+c) Bacteria
+d) Animals
+#QuestionEnd
+#AnswerStart
+Answer: a) Air
+#AnswerEnd
+
+#QuestionStart
+Q82) If all the plants and trees vanish from the earth, the gas which will decrease is- [R.A.S./R.T.S. (Pre) 2012]
+a) Carbon dioxide
+b) Nitrogen
+c) Water vapour
+d) Oxygen
+#QuestionEnd
+#AnswerStart
+Answer: d) Oxygen
+#AnswerEnd
+
+#QuestionStart
+Q83) Which one of the following is one of the main causes of ecological imbalance in India? [R.A.S./R.T.S.(Pre) 2012]
+a) Deforestation
+b) Desertification
+c) Floods and Famines
+d) Rainfall variations
+#QuestionEnd
+#AnswerStart
+Answer: a) Deforestation
+#AnswerEnd
+
+#QuestionStart
+Q84) Which of the following constitutes a food chain? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Grass, wheat and mango
+b) Grass, goat and human
+c) Goat, cow and elephant
+d) Grass, fish and goat
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Grass, goat and human
+#AnswerEnd
+
+#QuestionStart
+Q85) 10 percent law is related with: [Chhattisgarh P.C.S. (Pre) 2016]
+a) Transfer of energy as food from one trophic level to other
+b) Transfer of heat from one matter to another
+c) Transfer of birds from one zone to another
+d) Transfer of water from one zone to another
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Transfer of energy as food from one trophic level to other
+#AnswerEnd
+
+#QuestionStart
+Q86) Which four components constitute an ecosystem? [Jharkhand P.C.S. (Mains) 2016]
+a) Water, Carbon, Oxygen, Sulphur
+b) Soil, Temperature, Humidity, Rainfall
+c) Abiotic materials. Producers, Consumers, Decomposers
+d) Herbivores, Carnivores, Bacteria, Parasites
+#QuestionEnd
+#AnswerStart
+Answer: c) Abiotic materials. Producers, Consumers, Decomposers
+#AnswerEnd
+
+#QuestionStart
+Q87) Which of the following is an artificial ecosystem? [Jharkhand P.C.S. (Pre) 2013]
+a) Ponds
+b) Field
+c) Forest
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Field
+#AnswerEnd

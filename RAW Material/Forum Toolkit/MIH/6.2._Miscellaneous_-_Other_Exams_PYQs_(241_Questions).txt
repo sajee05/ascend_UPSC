@@ -1,0 +1,3096 @@
+#QuestionStart
+Q57) In the contexts of Indian history, which of the following statement is/are correct regarding Vaikom Satyagraha? [U.P.P.C.S. (Pre.) 2021]
+1. It was a satyagraha againsts untouchability and caste discrimination.
+2. Mahatma Gandhi participated in this Satyagraha.
+Select the correct answer using the codes given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q58) Who of the following was sent as representative of labourers by Indian Government in the Washington Summit of I.L.O. in the year 1919? [U.P.P.C.S. (Pre) 2020]
+a) V.P. Wadia
+b) N.M. Joshi
+c) C.E Andrews
+d) Joseph Baptista
+#QuestionEnd
+#AnswerStart
+Answer: b) N.M. Joshi
+#AnswerEnd
+
+#QuestionStart
+Q59) Match list-I with list-II and select the correct answer using the codes given below: [UPPCS (Pre) 2020]
+| List-I (Book) | List-II (Writer) |
+|---|---|
+| A. The Story of My Deportation | 1. Surendranath Banerjee |
+| B. Gita Rahasya | 2. Maulana Abul Kalam Azad |
+| C. Nation in Making | 3. Lala Lajpat Rai |
+| D. India Wins Freedom | 4. Bal Gangadhar Tilak |
+Code:
+a) 3A, 4B, 1C, 2D
+b) 4A, 2B, 1C, 3D
+c) 2A, 4B, 1C, 3D
+d) 4A, 3B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: a) 3A, 4B, 1C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q60) Who had merged Sikkim in India? [U.P.P.C.S. (Pre) 2020]
+a) Lord Hastings
+b) Lord William Bentinck
+c) Lord Dalhousie
+d) Lord Auckland
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Dalhousie
+#AnswerEnd
+
+#QuestionStart
+Q61) “The Rise and Growth of Economic Nationalism in India” was written by: [U.P.P.C.S. (Pre) 2019]
+a) Partha Sarthi Gupta
+b) S. Gopal
+c) B.R. Nanda
+d) Bipin Chandra
+#QuestionEnd
+#AnswerStart
+Answer: d) Bipin Chandra
+#AnswerEnd
+
+#QuestionStart
+Q62) With reference to the Civil Administration in 1905, which of the statements is/are correct? [U.P.P.C.S. (Pre) 2019]
+1. Lord Curzon decided to rearrange the provincial boundaries.
+2. A new province was constituted, called East Bengal and Assam.
+Select the correct answer using the codes given below:
+a) 1 only
+b) Both 1 and 2
+c) 2 only
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q63) With reference to revolts in British India, people known as ‘Kallar’ belonged to which of the following region? [U.P.P.C.S. (Mains) 2017]
+a) Kolhapur
+b) Midnapore
+c) Madurai
+d) Rangpur
+#QuestionEnd
+#AnswerStart
+Answer: c) Madurai
+#AnswerEnd
+
+#QuestionStart
+Q64) Which of the following events occurred first? [U.P.P.C.S. (Mains) 2017]
+a) Lord Lytton’s Delhi Darbar
+b) Santhal Revolt
+c) First Anglo-Sikh War
+d) Ilbert Bill Controversy
+#QuestionEnd
+#AnswerStart
+Answer: c) First Anglo-Sikh War
+#AnswerEnd
+
+#QuestionStart
+Q65) Who among the following is known as ‘Bombay Trimurti’? [UPPCS (Mains) 2017]
+a) Tilak, Gokhale, Naoroji
+b) Mehta, Tilak, Tyabji
+c) Mehta, Telang, Tyabji
+d) Naoroji, Telang, Deshmukh
+#QuestionEnd
+#AnswerStart
+Answer: c) Mehta, Telang, Tyabji
+#AnswerEnd
+
+#QuestionStart
+Q66) Who is the author of “Annihilation of Caste”? [U.P.P.C.S. (Mains) 2016]
+a) Jyotirao Phule
+b) Dr. B. R. Ambedkar
+c) Kanshi Ram
+d) Ram Mohan Roy
+#QuestionEnd
+#AnswerStart
+Answer: b) Dr. B. R. Ambedkar
+#AnswerEnd
+
+#QuestionStart
+Q67) In August 1947, who of the following leaders did not participate anywhere in Independence Day celebrations? [U.P.P.C.S. (Mains) 2016]
+a) Jawaharlal Lal Nehru
+b) Mahatma Gandhi
+c) Vallabh Bhai Patel
+d) Rajendra Prasad
+#QuestionEnd
+#AnswerStart
+Answer: b) Mahatma Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q68) Who among the following used to say, “Wrong means never take us to right ends”? [U.P.P.C.S. (Mains) 2015]
+a) Sardar Patel
+b) M.K. Gandhi
+c) Lala Lajpat Rai
+d) Jawaharlal Nehru
+#QuestionEnd
+#AnswerStart
+Answer: b) M.K. Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q69) Who among the following was the strong supporter of the principle that “Which is morally wrong, can never be politically right”? [U.P.P.C.S. (Mains) 2015]
+a) Jawaharlal Nehru
+b) Sardar Patel
+c) M. K. Gandhi
+d) C. Rajagopalachari
+#QuestionEnd
+#AnswerStart
+Answer: c) M. K. Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q70) Who among the following is the author of the book ‘The Problems of the Far East’? [U.P.P.C.S. (Pre) 2015]
+a) Lawrence
+b) Curzon
+c) Churchill
+d) Lytton
+#QuestionEnd
+#AnswerStart
+Answer: b) Curzon
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one of the following is not correctly matched? [U.P.P.C.S. (Pre) 2015]
+a) Motilal Nehru - Nehru Report
+b) M. K. Gandhi - Champaran Movement
+c) S.C. Bose - Forward Bloc
+d) M.A. Jinnah - Khilafat Movement
+#QuestionEnd
+#AnswerStart
+Answer: d) M.A. Jinnah - Khilafat Movement
+#AnswerEnd
+
+#QuestionStart
+Q72) Who addressed Gandhiji as ‘one-man boundary force’? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) Churchill
+b) Attlee
+c) Mountbatten
+d) Simon
+#QuestionEnd
+#AnswerStart
+Answer: c) Mountbatten
+#AnswerEnd
+
+#QuestionStart
+Q73) Who amongst the following presided over the All-Parties Muslim Conference held at Delhi on 31st December 1928? [U.P.P.C.S. (Mains) 2015]
+a) Aga Khan
+b) M.A. Jinnah
+c) Faiz Hussain
+d) Karim Jalal
+#QuestionEnd
+#AnswerStart
+Answer: a) Aga Khan
+#AnswerEnd
+
+#QuestionStart
+Q74) In which of the following books did Mahatma Gandhi called British Parliament as sterile and prostitute? [U.P.P.C.S. (Pre) 2014]
+a) Sarvodaya or Universal dawn
+b) An Autobiography or the Story of My Experiments with Truth
+c) Hind Swaraj
+d) The Story of a Satyagrahi
+#QuestionEnd
+#AnswerStart
+Answer: c) Hind Swaraj
+#AnswerEnd
+
+#QuestionStart
+Q75) Which one of the following is not correctly matched? [U.P.P.C.S. (Pre) 2014]
+a) Bhagat Singh : The Indian Sociologist
+b) Sachindranath Sanyal : Bandi Jivan
+c) Lala Ramsaran Das : Dreamland
+d) Bhagwati Charan Vohra : The Philosophy of Bomb
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhagat Singh : The Indian Sociologist
+#AnswerEnd
+
+#QuestionStart
+Q76) Who one of the following is the biographer of Jawahar Lal Nehru? [U.P.P.C.S. (Mains) 2014]
+a) Frank Moraes
+b) Dom Moraes
+c) Louis Fischer
+d) Webb Miller
+#QuestionEnd
+#AnswerStart
+Answer: a) Frank Moraes
+#AnswerEnd
+
+#QuestionStart
+Q77) Who of the following had written, “India’s salvation will not be achieved under the leadership of Mahatma Gandhi”? [U.P.P.C.S. (Mains) 2014]
+a) M.A. Jinnah
+b) Clement Richard Attlee
+c) Winston Churchill
+d) Subhash Chandra Bose
+#QuestionEnd
+#AnswerStart
+Answer: d) Subhash Chandra Bose
+#AnswerEnd
+
+#QuestionStart
+Q78) Who among the following was the first Governor-General of free India? [U.P.P.C.S. (Mains) 2014]
+a) Lord Mountbatten
+b) Sir Stafford Cripps
+c) C. Rajagopalachari
+d) Dr. Rajendra Prasad
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Mountbatten
+#AnswerEnd
+
+#QuestionStart
+Q79) Who one of the following had commanded Mahatma Gandhi to spend the first year in India ‘with his ears open but his mouth shut’? [U.P.P.C.S. (Mains) 2014]
+a) Dadabhai Naoroji
+b) Bal Gangadhar Tilak
+c) Pherozeshah Mehta
+d) Gopal Krishna Gokhale
+#QuestionEnd
+#AnswerStart
+Answer: d) Gopal Krishna Gokhale
+#AnswerEnd
+
+#QuestionStart
+Q80) Which one of the following statements is not correct about Dadabhai Naoroji? [U.P.P.C.S. (Pre) 2014]
+a) He was the first Indian to be appointed as Professor of Mathematics and Physics at Elphinstone College, Bombay.
+b) He was elected as the member of British Parliament in 1892.
+c) He started a Gujarati Journal, 'Rast Goftar’.
+d) For four times he had presided over the Indian National Congress.
+#QuestionEnd
+#AnswerStart
+Answer: d) For four times he had presided over the Indian National Congress.
+#AnswerEnd
+
+#QuestionStart
+Q81) Which of the following is not correctly matched? [U.P.P.C.S. (Mains) 2014]
+a) Lord Cornwallis: Permanent Settlement
+b) Lord Wellesley: Subsidiary Alliance System
+c) Sir John Shore: Anglo-Nepal War
+d) Lord Hastings: Third Anglo-Maratha War
+#QuestionEnd
+#AnswerStart
+Answer: c) Sir John Shore: Anglo-Nepal War
+#AnswerEnd
+
+#QuestionStart
+Q82) Consider the following which concluded the subsidiary alliances with Lord Wellesley and finds the correct chronological order of their treaties from the code given below: [U.P.P.C.S. (Mains) 2014]
+1. Hyderabad
+2. Mysore
+3. Oudh
+4. Sindhia
+Code:
+a) 1,2, 3, 4
+b) 1,3, 4, 2
+c) 4, 3, 2, 1
+d) 3, 2, 1,4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q83) The Lucknow Session of Indian National Congress that took place in 1916 was presided over by: [U.P.P.C.S. (Mains) 2013]
+a) Annie Besant
+b) Lala Lajpat Rai
+c) Motilal Nehru
+d) A.C. Majumdar
+#QuestionEnd
+#AnswerStart
+Answer: d) A.C. Majumdar
+#AnswerEnd
+
+#QuestionStart
+Q84) Which one of the following is correctly matched? [U.P.P.C.S. (Mains) 2013]
+a) Bhagat Singh - An Introduction to the Dreamland
+b) Subhas Chandra Bose - Bandi Jivan
+c) Sachindranath Sanyal - Indian Struggle
+d) Bhagwati Charan Vohra - Why I am an Atheist?
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhagat Singh - An Introduction to the Dreamland
+#AnswerEnd
+
+#QuestionStart
+Q85) The memoirs entitled ‘Bapu: My Mother’ was written by: [U.P.P.C.S. (Mains) 2013]
+a) B.R. Nanda
+b) Rajkumari Amrita Kaur
+c) Mahadev Desai
+d) Manubehn
+#QuestionEnd
+#AnswerStart
+Answer: d) Manubehn
+#AnswerEnd
+
+#QuestionStart
+Q86) Which one of the following statements is not correct about Rabindranath Tagore? [U.P.P.C.S. (Mains) 2013]
+a) He sang the glories of ancient India and its culture.
+b) He considered Shivaji and Guru Govind Singh as nation builders.
+c) Many of his songs refute the heroism of Marathas.
+d) He favoured some aspects of the Swadeshi Movement.
+#QuestionEnd
+#AnswerStart
+Answer: c) Many of his songs refute the heroism of Marathas.
+#AnswerEnd
+
+#QuestionStart
+Q87) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2013]
+| List-I | List-II |
+|---|---|
+| A. Subhash Chandra Bose | 1. Throwing of the bomb in Central Assembly |
+| B. Vallabhbhai Patel | 2. Haripura Session of Indian National Congress |
+| C. Iqbal | 3. Operation Polo |
+| D. Batukeshwar Dutt | 4. Allahabad Session of Muslim League, 1930 |
+Code:
+a) 2A, 3B, 4C, 1D
+b) 1A, 2B, 3C, 4D
+c) 4A, 3B, 2C, 1D
+d) 3A, 4B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: a) 2A, 3B, 4C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q88) Which one of the following is correctly matched? [U.P.P.C.S. (Mains) 2013]
+a) Lord Ellenborough - Annexation of Awadh
+b) Lord Dalhousie - Annexation of Sindh
+c) Lord Wellesley - Fourth Anglo-Mysore War
+d) Sir John Shore - Third Anglo-Maratha War
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Wellesley - Fourth Anglo-Mysore War
+#AnswerEnd
+
+#QuestionStart
+Q89) Who among the following Governor Generals of Bengal was associated with Third Anglo-Mysore War? [U.P.P.C.S. (Mains) 2013]
+a) Warren Hastings
+b) Lord Cornwallis
+c) Sir John Shore
+d) Lord William Cavendish Bentinck
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Cornwallis
+#AnswerEnd
+
+#QuestionStart
+Q90) Tinkathia System in Champaran meant: [U.P.P.C.S. (Pre) 2013]
+a) Cultivation of Indigo on the 3/20 area of land
+b) Cultivation of Indigo on 3/19 area of land
+c) Cultivation of Indigo on 3/18 area of land
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Cultivation of Indigo on the 3/20 area of land
+#AnswerEnd
+
+#QuestionStart
+Q91) Who among the following was the first Law Minister of India? [U.P.P.C.S. (Mains) 2012]
+a) M. C. Sitalwad
+b) Dr. B.R. Ambedkar
+c) Kailash Nath Katju
+d) Rafi Ahmad Kidwai
+#QuestionEnd
+#AnswerStart
+Answer: b) Dr. B.R. Ambedkar
+#AnswerEnd
+
+#QuestionStart
+Q92) Who compared Curzon’s administration in India to that of Aurangzeb? [U.P.P.C.S. (Mains) 2012]
+a) B.G. Tilak
+b) G.K. Gokhale
+c) Dadabhai Naoroji
+d) Annie Besant
+#QuestionEnd
+#AnswerStart
+Answer: b) G.K. Gokhale
+#AnswerEnd
+
+#QuestionStart
+Q93) Where did the Indian Congress got divided into two wings moderates and extremists? [U.P.P.C.S. (Mains) 2012]
+a) Surat Session, 1907
+b) Lahore Session, 1909
+c) Calcutta Session, 1911
+d) Karachi Session, 1913
+#QuestionEnd
+#AnswerStart
+Answer: a) Surat Session, 1907
+#AnswerEnd
+
+#QuestionStart
+Q94) The conquest of Sindh by British was completed during the period of- [U.P.P.C.S. (Mains) 2012]
+a) Lord Ellenborough
+b) Lord Hardinge
+c) Lord Aukland
+d) Lord Amherst
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Ellenborough
+#AnswerEnd
+
+#QuestionStart
+Q95) Which one of the following pairs is correctly matched? [U.P.P.C.S. (Pre) 2011]
+a) Durga Das : The Life of Mahatma Gandhi
+b) Louis Fischer : India From Curzon to Nehru and After
+c) Frank Moraes : Jawaharlal Nehru - A Biography
+d) Maulana Abul Kalam Azad : India Divided
+#QuestionEnd
+#AnswerStart
+Answer: c) Frank Moraes : Jawaharlal Nehru - A Biography
+#AnswerEnd
+
+#QuestionStart
+Q96) The book ‘Springing Tiger’ was written by: [U.P.P.C.S. (Mains) 2011]
+a) Hugh Toye
+b) Louis Fisher
+c) Webb Miller
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Hugh Toye
+#AnswerEnd
+
+#QuestionStart
+Q97) The statement “I am a socialist and a republican and I do not believe in Kings and Princes” is associated with: [U.P.P.C.S. (Pre) 2011]
+a) Narendra Dev
+b) Achyut Patwardhan
+c) Jai Prakash Narayan
+d) Jawahar Lal Nehru
+#QuestionEnd
+#AnswerStart
+Answer: d) Jawahar Lal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q98) Who was responsible for encouraging the local self Govt, in India? [U.P.P.C.S (Pre) 2010]
+a) Lord Mayo
+b) Lord Lytton
+c) Lord Canning
+d) Lord Ripon
+#QuestionEnd
+#AnswerStart
+Answer: d) Lord Ripon
+#AnswerEnd
+
+#QuestionStart
+Q99) Anglo-Nepal War took place during the reign of- [U.P.P.C.S. (Mains) 2010]
+a) Lord Cornwallis
+b) Lord Hastings
+c) Lord Wellesley
+d) Warren Hastings
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Hastings
+#AnswerEnd
+
+#QuestionStart
+Q100) The first communist Government of India was established in the province of: [U.P.P.C.S. (Pre) 2010]
+a) Tamil Nadu
+b) Andhra Pradesh
+c) Kerala
+d) West Bengal
+#QuestionEnd
+#AnswerStart
+Answer: c) Kerala
+#AnswerEnd
+
+#QuestionStart
+Q101) Who among of the following had told: “destruction is the best method of dealing with the foreign clothes”? [U.P.P.C.S. (Pre) 2010]
+a) Rabindranath Tagore
+b) Mahatma Gandhi
+c) Chitranjan Das
+d) Subhas Chandra Bose
+#QuestionEnd
+#AnswerStart
+Answer: b) Mahatma Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q102) Who sang ‘Hindustan Hamara’ of Iqbal and ‘Jan-gan-man’ in the Central Assembly at midnight of 14/15 August 1947? [U.P.P.C.S. (Pre) 2010]
+a) Rameshwari Nehru
+b) Meera Ben
+c) Sucheta Kriplani
+d) M.S. Subbulakshmi
+#QuestionEnd
+#AnswerStart
+Answer: d) M.S. Subbulakshmi
+#AnswerEnd
+
+#QuestionStart
+Q103) Who of the following called Gandhiji ‘Mahatma’ for the first time? [U.P.P.C.S. (Mains) 2010]
+a) Jawahar Lal Nehru
+b) Madan Mohan Malviya
+c) Rabindra Nath Tagore
+d) Subhash Chandra Bose
+#QuestionEnd
+#AnswerStart
+Answer: c) Rabindra Nath Tagore
+#AnswerEnd
+
+#QuestionStart
+Q104) Which of the following is not correctly matched? [U.P. P.C.S. (Pre) 2010]
+a) Larry Collins and Dominique Lapierre -Freedom at Midnight
+b) Durga Das - India from Curzon to Nehru and After
+c) K.K. Aziz - The Man Who Divided India
+d) Maulana Abul Kalam - India Wins Freedom
+#QuestionEnd
+#AnswerStart
+Answer: c) K.K. Aziz - The Man Who Divided India
+#AnswerEnd
+
+#QuestionStart
+Q105) The Archaeological Survey of India was established during the period of- [U.P.P.C.S. (Mains) 2010]
+a) Lord Curzon
+b) Lord Wellesley
+c) Lord William Bentinck
+d) Warren Hastings
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Curzon
+#AnswerEnd
+
+#QuestionStart
+Q106) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2010]
+| List-I (Authors) | List-II (Works) |
+|---|---|
+| A. Bankim Chandra Chatterjee | 1. Anand Math |
+| B. Michael Madhusudan Dutt | 2. Captive Lady |
+| C. Rabindranath Tagore | 3. Gora |
+| D. Sarojini Naidu | 4. The Broken Wing |
+Code:
+a) 1A, 2B, 3C, 4D
+b) 2A, 3B, 4C, 1D
+c) 1A, 4B, 2C, 3D
+d) 4A, 1B, 3C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: a) 1A, 2B, 3C, 4D
+#AnswerEnd
+
+#QuestionStart
+Q107) In which of the following movements did Mahatma Gandhi make the first use of hunger strike as a weapon? [U.P.P.C.S. (Pre) 2010]
+a) Non-Cooperation Movement
+b) Rowlatt Satyagraha
+c) Ahmedabad Strike
+d) Bardoli Satyagraha
+#QuestionEnd
+#AnswerStart
+Answer: c) Ahmedabad Strike
+#AnswerEnd
+
+#QuestionStart
+Q108) Which one of the following is the correct sequence of persons who occupied the office of the President of India right from thebeginning? [U.P.P.C.S. (Pre) 2009]
+a) C. Rajagopalachari, Rajendra Prasad, Zakir Hussain, V. V. Giri
+b) Rajendra Prasad, S. Radhakrishnan, V. V. Giri, Zakir Hussain
+c) C. Rajagopalachari, Rajendra Prasad, S. Radhakrishnan, Fakhruddin Ali Ahmad
+d) Rajendra Prasad, S. Radhakrishnan, Zakir Hussain, V. V. Giri
+#QuestionEnd
+#AnswerStart
+Answer: d) Rajendra Prasad, S. Radhakrishnan, Zakir Hussain, V. V. Giri
+#AnswerEnd
+
+#QuestionStart
+Q109) Who had the longest tenure as the Viceroy of India? [U.P.P.C.S. (Mains) 2009]
+a) Lord Curzon
+b) Lord Dufferin
+c) Lord Hardinge
+d) Lord Mayo
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Curzon
+#AnswerEnd
+
+#QuestionStart
+Q110) Which of the following is not correctly matched? [U.P.P.C.S. (Mains) 2009]
+a) Unhappy India - Bal Gangadhar Tilak
+b) Durgesh Nandini - Bankim Chandra Chatterjee
+c) India Wins Freedom - Abul Kalam Azad
+d) Poverty and Un-British Rule in India -Dadabhai Naoroji
+#QuestionEnd
+#AnswerStart
+Answer: a) Unhappy India - Bal Gangadhar Tilak
+#AnswerEnd
+
+#QuestionStart
+Q111) The book “Mountbatten and the Partition of India” was written by: [U.P.P.C.S. (Mains) 2009]
+a) Larry Collins and Dominique Lapierre
+b) M.N. Das
+c) Louis Fischer
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Larry Collins and Dominique Lapierre
+#AnswerEnd
+
+#QuestionStart
+Q112) Queen Victoria’s Proclamation was read out by Lord Canning on 1st November 1858 at- [U.P.P.C.S. (Mains) 2009]
+a) Allahabad
+b) Calcutta
+c) Bombay
+d) Madras
+#QuestionEnd
+#AnswerStart
+Answer: a) Allahabad
+#AnswerEnd
+
+#QuestionStart
+Q113) Who was the first person to call Mahatma Gandhi, ‘Father of Nation’? [U.P.P.C.S. (Pre) 2008]
+a) Jawaharlal Nehru
+b) Vallabhbhai Patel
+c) C. Raj Gopalachari
+d) Subhash Chandra Bose
+#QuestionEnd
+#AnswerStart
+Answer: d) Subhash Chandra Bose
+#AnswerEnd
+
+#QuestionStart
+Q114) Who among the following was the founder of All India Muslim League? [U.P.P.C.S. (Pre) 2007]
+a) Sir Saiyed Ahmad Khan
+b) Sir Mohammad Iqbal
+c) Agha Khan
+d) Nawab Salimullah Khan
+#QuestionEnd
+#AnswerStart
+Answer: d) Nawab Salimullah Khan
+#AnswerEnd
+
+#QuestionStart
+Q115) Who had opposed the Champaran Satyagraha of Mahatma Gandhi? [U.P.P.C.S. (Mains) 2007]
+a) Rabindranath Tagore
+b) N.G Ranga
+c) Rajkumar Shukla
+d) Rajendra Prasad
+#QuestionEnd
+#AnswerStart
+Answer: b) N.G Ranga
+#AnswerEnd
+
+#QuestionStart
+Q116) The Book ‘Mother India’ was written by: [U.P.P.C.S. (Mains) 2006]
+a) Catherine Mayo
+b) Lala Lajpat Rai
+c) Bal Gangadhar Tilak
+d) Bipin Chandra Pal
+#QuestionEnd
+#AnswerStart
+Answer: a) Catherine Mayo
+#AnswerEnd
+
+#QuestionStart
+Q117) The policy of ‘Security cell’ is related with- [U.P.P.C.S. (Pre) 2006]
+a) Warren Hastings
+b) Lord Dalhousie
+c) Henry Lawrence
+d) I,ord Hastings
+#QuestionEnd
+#AnswerStart
+Answer: a) Warren Hastings
+#AnswerEnd
+
+#QuestionStart
+Q118) “Everything else can wait, but not agriculture.” The above statement is attributed to: [U.P.P.C.S. (Mains) 2006]
+a) Jagjivan Ram
+b) Jawahar Lal Nehru
+c) Mahatma Gandhi
+d) Sardar Patel
+#QuestionEnd
+#AnswerStart
+Answer: b) Jawahar Lal Nehru
+#AnswerEnd
+
+#QuestionStart
+Q119) Which one of the following was favored by Nehru but not favored by Gandhi? [U.P.P.C.S. (Pre) 2006]
+a) Truth
+b) Non-violence
+c) Untouchability
+d) Heavy industrialization
+#QuestionEnd
+#AnswerStart
+Answer: d) Heavy industrialization
+#AnswerEnd
+
+#QuestionStart
+Q120) Which one of the following books is associated with the rise of the national movement in India? [U.P.P.C.S. (Mains) 2005]
+a) Gitanjali
+b) Anandmath
+c) Satyarth Prakash
+d) Gita Rahasya
+#QuestionEnd
+#AnswerStart
+Answer: b) Anandmath
+#AnswerEnd
+
+#QuestionStart
+Q121) Which one of the following Satyagrahas was not lead by Mahatma Gandhi? [U.P.P.C.S. (Pre) 2005]
+a) Quit India Movement
+b) Civil Disobedience
+c) Bardoli
+d) Kheda
+#QuestionEnd
+#AnswerStart
+Answer: c) Bardoli
+#AnswerEnd
+
+#QuestionStart
+Q122) Which ofthe following statements regarding Dr. B.R. Ambedkar is correct? [U.P.P.C.S. (Pre) 2005]
+1. He founded Siddharth College.
+2. He started his journal Mook Nayak in 1920.
+3. He founded the Depressed Class Institute in 1922.
+4. He was the first Defense Minister of India.
+Select the correct answer from the code given below the statements:
+Code:
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q123) During the tenure of which GovernorGeneral was the ‘Ancient Monuments Preservation Act’ passed- [U.P. P.C.S. (Mains) 2005]
+a) Lord Minto
+b) Lord Linlithgow
+c) Lord Curzon
+d) Lord Canning
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Curzon
+#AnswerEnd
+
+#QuestionStart
+Q124) Who among the following said that “the most notable achievement of the British Rule was the unification of India”? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) K.M. Panikkar
+b) M.N. Srinivas
+c) Rajni Kothari
+d) Yogendra Singh
+#QuestionEnd
+#AnswerStart
+Answer: a) K.M. Panikkar
+#AnswerEnd
+
+#QuestionStart
+Q125) Which one of the following sessions of Indian National Congress was for the first time attended by M.K. Gandhi: [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Lucknow Session, 1916
+b) Calcutta Session, 1901
+c) Amritsar Session, 1919
+d) Nagpur Session, 1920
+#QuestionEnd
+#AnswerStart
+Answer: b) Calcutta Session, 1901
+#AnswerEnd
+
+#QuestionStart
+Q126) On the basis of alleged maladministration which Governor-General had taken the administration of Mysore state? [U.P. Lower Sub. (Pre) 2004]
+a) Lord Wellesley
+b) Lord Hastings
+c) Lord William Bentinck
+d) Lord Harding
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord William Bentinck
+#AnswerEnd
+
+#QuestionStart
+Q127) Who wrote the famous song ‘Saare Jahan Se Achcha Hindustan Hamara’? [U.P.P.C.S. (Mains) 2004]
+a) Sahir Ludhianvi
+b) Sir Sayyad Ahmed Khan
+c) Sir Muhammad Iqbal
+d) Bahadur Shah Zafar
+#QuestionEnd
+#AnswerStart
+Answer: c) Sir Muhammad Iqbal
+#AnswerEnd
+
+#QuestionStart
+Q128) Who said, “Political Freedom is the lifebreath of a nation”? [U.P.P.C.S. (Mains) 2004]
+a) Bal Gangadhar Tilak
+b) Aurobindo Ghosh
+c) Bipin Chandra Pal
+d) Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: b) Aurobindo Ghosh
+#AnswerEnd
+
+#QuestionStart
+Q129) Which one of the following Viceroy of India was murdered by a convict in Andaman and Nicobar Island while he was on tour? [U.P.P.C.S. (Pre) 2004]
+a) Lord Curzon
+b) Lord Ripon
+c) Lord Mayo
+d) Lord Minto
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Mayo
+#AnswerEnd
+
+#QuestionStart
+Q130) Which one of the following pairs is correctly matched? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Abul Kalam Azad - Hind Swaraj
+b) Annie Besant - New India
+c) Bal Gangadhar Tilak - Commonweal
+d) Mahatma Gandhi - India Wins Freedom
+#QuestionEnd
+#AnswerStart
+Answer: b) Annie Besant - New India
+#AnswerEnd
+
+#QuestionStart
+Q131) Who among the following was the chief architect or reconciliation between the Extremists and the Moderates? [U.P.P.C.S. (Pre) 2004]
+a) Annie Besant
+b) M.A. Jinnah
+c) Madam Cama
+d) Feroz Shah Mehta
+#QuestionEnd
+#AnswerStart
+Answer: a) Annie Besant
+#AnswerEnd
+
+#QuestionStart
+Q132) The right to adopt heir in place of own son was re-established by- [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Government of India Act of 1858
+b) Lord Canning
+c) Release of Charter in 1860
+d) Queen’s announcement of 1858
+#QuestionEnd
+#AnswerStart
+Answer: d) Queen’s announcement of 1858
+#AnswerEnd
+
+#QuestionStart
+Q133) The author of the book ‘Towards Struggle’ was: [U.P.P.CS. (Mains) 2003]
+a) Jawaharlal Nehru
+b) Ram Manohar Lohiya
+c) Jai Prakash Narayan
+d) J.B. Kriplani
+#QuestionEnd
+#AnswerStart
+Answer: c) Jai Prakash Narayan
+#AnswerEnd
+
+#QuestionStart
+Q134) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2003]
+| List-I | List-II |
+|---|---|
+| A. Amritlal Nagar | 1. Devdas |
+| B. Sumitra Nandan Pant | 2. Geet Govind |
+| C. Sharat Chandra Chatterjee | 3. Amrit aur Vish |
+| D. Jaidev | 4. Chidambara |
+Code:
+a) 3A, 4B, 1C, 2D
+b) 4A, 3B, 1C, 2D
+c) 4A, 3B, 2C, 1D
+d) 3A, 4B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: a) 3A, 4B, 1C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q135) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2002]
+| List-I (Party) | List-II (Founder) |
+|---|---|
+| A. Azad Muslim Conference | 1. Abdul Gaffar Khan |
+| B. Khaksar Party | 2. Allah Baksh |
+| C. Khudai Khidmatgar | 3. Allama Mashriqui |
+| D. Krishak Praja Party | 4. Fazlul Haq |
+| | 5. Sikandar Hayat Khan |
+Code:
+a) 1A, 3B, 4C, 5D
+b) 2A, 3B, 4C, 5D
+c) 2A, 3B, 1C, 4D
+d) 3A, 2B, 1C, 5D
+#QuestionEnd
+#AnswerStart
+Answer: c) 2A, 3B, 1C, 4D
+#AnswerEnd
+
+#QuestionStart
+Q136) Name of the magazine published by Mahatma Gandhi during his stay in South Africa, was: [U.P P.C.S. (Pre) 2002]
+a) Navjeevan
+b) India Gazette
+c) Africaner
+d) Indian Opinion
+#QuestionEnd
+#AnswerStart
+Answer: d) Indian Opinion
+#AnswerEnd
+
+#QuestionStart
+Q137) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2001]
+| List-I (Authors) | List-II (Works) |
+|---|---|
+| A. Mahatma Gandhi | 1. India Divided |
+| B. Ram Manohar Lohia | 2. India Wins Freedom |
+| C. Dr. Rajendra Prasad | 3. Hind Swaraj |
+| D. Abul Kalam Azad | 4. The Wheel of History |
+Code:
+a) 1A, 3B, 4C, 2D
+b) 4A, 3B, 2C, 1D
+c) 3A, 4B, 1C, 2D
+d) 2A, 3B, 4C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: c) 3A, 4B, 1C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q138) The prefix ‘Mahatma’ was added with the name of Gandhi: [U.P.P.C.S.(Pre) 2001]
+a) During Champaran Satyagraha
+b) During the Satyagraha against Rowlatt Act
+c) In the Amritsar Session of the Indian National Congress, 1919
+d) At the beginning of the Khilafat Movement
+#QuestionEnd
+#AnswerStart
+Answer: a) During Champaran Satyagraha
+#AnswerEnd
+
+#QuestionStart
+Q139) Which one of the following is correctly matched? [U.P.P.C.S. (Pre) 2000]
+a) Ailan-i-Haq - Bipin Chandra Pal
+b) Al-Helal - Dr. Zapir Hussain
+c) Tahzib-ul-Akhlaq - Sir Syed Ahmad
+d) Yugantar - Aurobindo Ghosh
+#QuestionEnd
+#AnswerStart
+Answer: c) Tahzib-ul-Akhlaq - Sir Syed Ahmad
+#AnswerEnd
+
+#QuestionStart
+Q140) Who presided over the Benaras Session of the Indian National Congress in 1905? [U.P.P.C.S. (Pre) 1999]
+a) Surendranath Bannerji
+b) Feroz Shah Mehta
+c) Gopal Krishna Gokhale
+d) Dinshaw Wacha
+#QuestionEnd
+#AnswerStart
+Answer: c) Gopal Krishna Gokhale
+#AnswerEnd
+
+#QuestionStart
+Q141) Those who joined Mahatma Gandhi during the Champaran Satyagraha included: [U.P.P.C.S. (Pre) 1999]
+a) Vallabh Bhai Patel and Vinoba Bhave
+b) Jawaharlal Nehru and Rajendra Prasad
+c) Rajendra Prasad and Anugraha Narain Sinha
+d) Mahadev Desai and Maniben Patel
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajendra Prasad and Anugraha Narain Sinha
+#AnswerEnd
+
+#QuestionStart
+Q142) Which three Indian States delayed accession to India even after other princely states had joined India? [U.P.P.C.S. (Pre) 1998]
+a) Junagarh, Mysore, Jammu and Kashmir
+b) Junagarh, Hyderabad, Jammu and Kashmir
+c) Udaipur, Kapurthala, Jammu and Kashmir
+d) Hyderabad, Udaipur, Travancore
+#QuestionEnd
+#AnswerStart
+Answer: b) Junagarh, Hyderabad, Jammu and Kashmir
+#AnswerEnd
+
+#QuestionStart
+Q143) Which one of the following native States was a party to the ‘Stand-Still’ Agreement: [U.P.P.C.S. (Pre) 1997]
+a) Hyderabad
+b) Jammu and Kashmir
+c) Junagarh
+d) Mysore
+#QuestionEnd
+#AnswerStart
+Answer: a) Hyderabad
+#AnswerEnd
+
+#QuestionStart
+Q144) Who among the following is associated with the policy of ‘Masterly Inactivity’: [U.P.P.C.S. (Pre) 1997]
+a) William Bentinck
+b) Lord Canning
+c) Lord Mayo
+d) John Lawrence
+#QuestionEnd
+#AnswerStart
+Answer: d) John Lawrence
+#AnswerEnd
+
+#QuestionStart
+Q145) The author of ‘Malgudi Days’ is: [U.P.P.C.S. (Pre) 1993]
+a) K. Abbas
+b) R.K. Narayan
+c) Laxman Seth
+d) Mulkraj Anand
+#QuestionEnd
+#AnswerStart
+Answer: b) R.K. Narayan
+#AnswerEnd
+
+#QuestionStart
+Q146) The twin principles of Mahatma Gandhi’s Ram Rajya were? [U.P P.C.S. (Pre) 1993]
+a) Abolishment of untouchability and temperance
+b) Truth and non-violence
+c) Khadi and Spinning wheel
+d) Right means and right ends
+#QuestionEnd
+#AnswerStart
+Answer: b) Truth and non-violence
+#AnswerEnd
+
+#QuestionStart
+Q147) Who established the judicial organization in India? [U.P.P.C.S. (Pre) 1991]
+a) Lord Mayo
+b) Lord Cornwallis
+c) Lord Attlee
+d) Lord Curzon
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Cornwallis
+#AnswerEnd
+
+#QuestionStart
+Q148) The transfer of capital of British India from Calcutta to Delhi was affected during the period of- [U.P.P.C.S. (Pre) 1990]
+a) Lord Mayo
+b) Lord Lawrence
+c) Lord Minto
+d) Lord Hardinge
+#QuestionEnd
+#AnswerStart
+Answer: d) Lord Hardinge
+#AnswerEnd
+
+#QuestionStart
+Q149) Which of the following pairs is correct? [66th B.P.S.C. (Pre) 2020]
+a) Vinoba Bhave - Second Individual Satyagrahi
+b) C.R. Das - Deshbandhu
+c) William Wedderburn - Congress President in 1907
+d) Shyamji Krishna Verma- Founder of India House in Paris
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) C.R. Das - Deshbandhu
+#AnswerEnd
+
+#QuestionStart
+Q150) Which of the following was Gandhiji’s first Satyagraha Movement in India in which he used Civil Disobedience? [66th B.P.S.C. (Pre) 2020]
+a) Champaran
+b) Kheda
+c) Ahmedabad
+d) Rowlatt Satyagraha
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Champaran
+#AnswerEnd
+
+#QuestionStart
+Q151) The Sarabandi Campaign of 1922 was led by: [65th B.P.S.C. (Pre) 2019]
+a) Chittaranjan Das
+b) Sardar Vallabhbhai Patel
+c) Rajendra Prasad
+d) Lala Lajpat Rai
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Sardar Vallabhbhai Patel
+#AnswerEnd
+
+#QuestionStart
+Q152) Who wrote the book, Desher Katha? [65th B.P.S.C. (Pre) 2019]
+a) Sakharam Ganesh Deuskar
+b) Rajendra Prasad
+c) Nivaran Chandra
+d) Murali Mohan Prasad
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Sakharam Ganesh Deuskar
+#AnswerEnd
+
+#QuestionStart
+Q153) Whom did Rajendra Prasad consider as the father of Pakistan? [63rd B.P.S.C (Pre.) 2017]
+a) Md. Jinnah
+b) Lord Mountbatten
+c) Lord Minto
+d) Liaquat Ali Khan
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Minto
+#AnswerEnd
+
+#QuestionStart
+Q154) Who established the Imperial Cadet Corps? [63rd B.P.S.C (Pre.) 2017]
+a) Lord Minto
+b) Lord Curzon
+c) Lord Lytton
+d) Lord Ripon
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Curzon
+#AnswerEnd
+
+#QuestionStart
+Q155) Which of the following Princely States was not annexed by the British? [63rd B.P.S.C (Pre.) 2017]
+a) Sind
+b) Gwalior
+c) Awadh
+d) Satara
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Gwalior
+#AnswerEnd
+
+#QuestionStart
+Q156) “In my belief, Congress is to tottering to its fall and one of my great ambitions while in India is to assist it to a peaceful demise.” Who wrote it? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Lord Lytton
+b) Lord Dufferin
+c) Lord Curzon
+d) Lord Minto
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Curzon
+#AnswerEnd
+
+#QuestionStart
+Q157) Which among the following viceroy’s period the title of ‘Rai Bahadur’ and ‘Khan Bahadur’ began to confer to Indian? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Lord Ripon
+b) Lord Lytton
+c) Lord Mayo
+d) Lord Dufferin
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Lytton
+#AnswerEnd
+
+#QuestionStart
+Q158) “The Muslims, if contented and satisfied, would become the greatest bulwark of British power in India.” Who wrote it? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Herbert Risley
+b) Lord Lytton
+c) W.W. Hunter
+d) H.N. Brailsford
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) W.W. Hunter
+#AnswerEnd
+
+#QuestionStart
+Q159) What was the common relationship between Katherine Mayo, Aldous Huxley, Charles Andrews and William Digby? [56th to 59th B.P.S.C. (Pre) 2015]
+a) They wrote commentaries on the condition of India during the British rule
+b) They were supporters of the Indian National Movement
+c) They were opponents of the Indian National Movement
+d) They were friends of Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: a) They wrote commentaries on the condition of India during the British rule
+#AnswerEnd
+
+#QuestionStart
+Q160) Who raised the demand of ‘Complete Independence’ for the first time in 1921? [56th to 59th B.P.S.C. (Pre) 2015]
+a) Maulana Muhammad Ali
+b) Pandit Jawaharlal Nehru
+c) Mahatma Gandhi
+d) Maulana Hasrat Mohani
+#QuestionEnd
+#AnswerStart
+Answer: d) Maulana Hasrat Mohani
+#AnswerEnd
+
+#QuestionStart
+Q161) ‘New Lamps for Old’ was a series of articles (1893-94) that criticized the Congress for being out of touch with the ‘proletariat’. Who was the author of these articles? [56th to 59th B.P.S.C. (Pre) 2015]
+a) Aurobindo Ghose
+b) A. O. Hume
+c) G.K. Gokhale
+d) B.G. Tilak
+#QuestionEnd
+#AnswerStart
+Answer: a) Aurobindo Ghose
+#AnswerEnd
+
+#QuestionStart
+Q162) Who wrote the book ‘India for Indians’? [65th B.P.S.C. (Pre) 2011]
+a) C. R. Das
+b) M.G. Ranade
+c) V. D. Savarkar
+d) S.N. Banerjee
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) C. R. Das
+#AnswerEnd
+
+#QuestionStart
+Q163) The first railway in India was laid down during the period of- [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Lord Dalhousie
+b) Lord Curzon
+c) Lord Wellesley
+d) Lord Lytton
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Dalhousie
+#AnswerEnd
+
+#QuestionStart
+Q164) Name the Deoband scholar who played a significant role in the freedom movement. [47th B.P.S.C. (Pre) 2005]
+a) Abul Kalam Azad
+b) Mohammad Ali Jinnah
+c) Badruddin Tyabji
+d) Chirag Ali
+#QuestionEnd
+#AnswerStart
+Answer: a) Abul Kalam Azad
+#AnswerEnd
+
+#QuestionStart
+Q165) Who among the following capitalists served as an AICC treasurer for many years and went to jail in 1930? [47th B.P.S.C. (Pre) 2005]
+a) G. D. Birla
+b) Jamnalal Bajaj
+c) J. R. D. Tata
+d) Balchand Hirachand
+#QuestionEnd
+#AnswerStart
+Answer: b) Jamnalal Bajaj
+#AnswerEnd
+
+#QuestionStart
+Q166) Mahatma Gandhi’s close English compatriot during the freedom movement was: [46th B.P.S.C. (Pre) 2004]
+a) Thomas Moore
+b) A. O. Hume
+c) Charles Andrews
+d) William Wavell
+#QuestionEnd
+#AnswerStart
+Answer: c) Charles Andrews
+#AnswerEnd
+
+#QuestionStart
+Q167) Who is known as “Loknayak”? [46th B.P.S.C. (Pre) 2004]
+a) Mahatma Gandhi
+b) Subhash Chandra Bose
+c) Jayprakash Narayan
+d) Bal Gangadhar Tilak
+#QuestionEnd
+#AnswerStart
+Answer: c) Jayprakash Narayan
+#AnswerEnd
+
+#QuestionStart
+Q168) The purpose of the Butler Committee, 1927: [46th B.P.C.S. (Pre) 2004]
+a) Modernization of Indian Army
+b) Innovative modernization of Indian Agriculture
+c) Implementation of Sensor over National Newspapers
+d) Improvement of relationships between Indian Provinces and the Crown
+#QuestionEnd
+#AnswerStart
+Answer: d) Improvement of relationships between Indian Provinces and the Crown
+#AnswerEnd
+
+#QuestionStart
+Q169) The Muslim deputation met Minto in 1906 at Shimla and pleaded for- [46th B.P.S.C. (Pre) 2004]
+a) Separate electorate for Muslims
+b) A composite electorate
+c) Higher representation to the Hindus
+d) Special representation to Muslim by nomination
+#QuestionEnd
+#AnswerStart
+Answer: a) Separate electorate for Muslims
+#AnswerEnd
+
+#QuestionStart
+Q170) Bihar became a separate state during the British rule in the year: [44th B.P.S.C. (Pre) 2000]
+a) 1905
+b) 1912
+c) 1936
+d) 1946
+#QuestionEnd
+#AnswerStart
+Answer: b) 1912
+#AnswerEnd
+
+#QuestionStart
+Q171) Which of the following leaders presided over the Congress Session at Calcutta in 1906? [44th B.P.S.C. (Pre) 2000]
+a) B.G. Tilak
+b) G.K. Gokhale
+c) Aurobindo Ghosh
+d) Dadabhai Naoroji
+#QuestionEnd
+#AnswerStart
+Answer: d) Dadabhai Naoroji
+#AnswerEnd
+
+#QuestionStart
+Q172) Who was the secretary of Mahatma Gandhi during Noakhali? [41st B.P.S.C. (Pre) 1996]
+a) Nirmal Kumar Bose
+b) Mahadeo Desai
+c) Pyare Lal
+d) Ballabh Bhai Patel
+#QuestionEnd
+#AnswerStart
+Answer: c) Pyare Lal
+#AnswerEnd
+
+#QuestionStart
+Q173) Who among the following abolished ‘Dual Government’ system in Bengal? [41st B.P.S.C. (Pre) 1996]
+a) Robert Clive
+b) Lord Cornwallis
+c) Warren Hastings
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Warren Hastings
+#AnswerEnd
+
+#QuestionStart
+Q174) Who gives the Slogan ‘Jai Jawan, Jai Kisan’? [38th B.P.S.C. (Pre) 1992]
+a) Lal Bahadur Sashtri
+b) Subhash Chandra Bose
+c) Devi Lal
+d) Morariji Desai
+#QuestionEnd
+#AnswerStart
+Answer: a) Lal Bahadur Sashtri
+#AnswerEnd
+
+#QuestionStart
+Q175) Which one of the following statements about Princely States in India is not correct? [CAPF 2022]
+a) The British Government declared that States were free to join either India or Pakistan or remain independent.
+b) The decision to join either India or Pakistan or remain independent was left not to the people of Princely States but to the Princely Rulers.
+c) The Ruler of Travancore first decided to remain independent.
+d) The State of Travancore finally joined India through a plebiscite.
+#QuestionEnd
+#AnswerStart
+Answer: d) The State of Travancore finally joined India through a plebiscite.
+#AnswerEnd
+
+#QuestionStart
+Q176) Which of the following pairs of years and historical events is correctly matched? [CAPF 2022]
+a) 1878 - Second Anglo -Afghan War
+b) 1885 - Ilbert Bill Controversy
+c) 1785 - Fox’s India Bill
+d) 1898 - Lord Curzon becomes the Viceroy
+#QuestionEnd
+#AnswerStart
+Answer: a) 1878 - Second Anglo -Afghan War
+#AnswerEnd
+
+#QuestionStart
+Q177) When was the first All India Census attempted? [CAPF 2022]
+a) 1871
+b) 1872
+c) 1881
+d) 1861
+#QuestionEnd
+#AnswerStart
+Answer: b) 1872
+#AnswerEnd
+
+#QuestionStart
+Q178) Initially, what was the purpose of setting up of the hill stations during the colonial period in India? [CAPF 2021]
+a) To serve as winter capitals for the British
+b) To serve the needs of the British army
+c) To source timber from forests
+d) To set up sanatoria
+#QuestionEnd
+#AnswerStart
+Answer: b) To serve the needs of the British army
+#AnswerEnd
+
+#QuestionStart
+Q179) Which among the following statements about Mahatma Gandhi’s Satyagraha is/are correct? [CAPF 2019]
+1. It was during the course of his campaign against racialism in South Africa that Gandhiji first applied Satyagraha.
+2. The two vital ingredients of Satyagraha are ‘truth’ and ‘non-violence’.
+3. The Satyagrahi resists evil by inflicting suffering on himself and not by inflicting suffering on the opponent.
+4. In India, Satyagraha was first tried by Gandhiji in Champaran.
+Select the correct answer using the code given below:
+a) 1 and 4
+b) Only 2
+c) Only 4
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: d) All of these
+#AnswerEnd
+
+#QuestionStart
+Q180) Which one of the following pairs of organization and their founders is not correctly matched? [CAPF 2019]
+a) National Liberation Federation - Tej Bahadur Sapru and MR Jayakar
+b) Jamiat-ul Ulama-i - Maulana Mehmood Hasan Shaikh-ul- Hind
+c) Congress Democratic Party - Bal Gangadhar Tilak
+d) Congress Socialist Party - MN Roy
+#QuestionEnd
+#AnswerStart
+Answer: d) Congress Socialist Party - MN Roy
+#AnswerEnd
+
+#QuestionStart
+Q181) Why was Vasudeo Balwant Phadke known in history? [CAPF 2019]
+a) He led a violent struggle against the British during the Revolt of 1857.
+b) He was a critic of Gandhian struggle.
+c) He led an armed uprising against the British in the 1870s.
+d) He was a radical leader of the Indian National Congress.
+#QuestionEnd
+#AnswerStart
+Answer: c) He led an armed uprising against the British in the 1870s.
+#AnswerEnd
+
+#QuestionStart
+Q182) Which of the following statements about Bhagat Singh is/are not true? [CAPF 2019]
+1. Bhagat Singh was influenced by socialist ideas
+2. He was a member’ of the Hindustan Socialist Republican Association
+3. Bhagat Singh threw a bomb in the Central Legislative Assembly in 1929 with the objective to kill as many people as possible
+Select the correct answer using the code given below:
+a) 1 and 3
+b) 2 and 3
+c) Only 2
+d) Only 3
+#QuestionEnd
+#AnswerStart
+Answer: d) Only 3
+#AnswerEnd
+
+#QuestionStart
+Q183) Which of the following statements about Ishwarchandra Vidyasagar is/are not correct? [CAPF 2019]
+1. Vidyasagars writings significantly helped to develop the Bengali language.
+2. He received the title ‘Vidyasagar’ from Presidency Sanskrit College, Calcutta.
+3. He was enthusiastic about the spread of women’s education.
+4. Vidyasagar defended widow marriage without being convinced about scriptural support.
+Select the correct answer using the code given below:
+a) 2 and 4
+b) 1 and 2
+c) Only 4
+d) Only 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 and 4 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q184) Which of the following statements about India’s Independence is/are correct? [CAPF 2018]
+1. The formal transfer of power on 15th August 1947 heralding India’s Independence was announced by Lord Mountbatten.
+2. Mahatma Gandhi was not present at the festivities in the capital on 15th August 1947.
+Select the correct answer using the codes given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q185) Who among the following in Congress represented the socialist view? [CAPF 2018]
+a) Rajendra Prasad
+b) Narendra Dev
+c) Maulana Azad
+d) Sardar Patel
+#QuestionEnd
+#AnswerStart
+Answer: b) Narendra Dev
+#AnswerEnd
+
+#QuestionStart
+Q186) Who among the following has not written about partition in his works? [CAPF 2018]
+a) Saadat Hasan Manto
+b) Bankim Chandra Chattopadhyay
+c) Bhisham Sahni
+d) Narendranath Mitra
+#QuestionEnd
+#AnswerStart
+Answer: b) Bankim Chandra Chattopadhyay
+#AnswerEnd
+
+#QuestionStart
+Q187) Examine these two statements carefully and select the correct answer using the code given below. [CAPE 2017]
+1. Statement I Nationalism in India, which was assigned a privileged position by its western educated political leadership, was ‘different’, but a ‘derivative discourse’ from the West.
+2. Statement II Indian nationalism as a response to western imperialism was ‘like all such responses, shaped by what it was responding to’.
+Code:
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement II is false.
+d) Statement I is false, but statements II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I.
+#AnswerEnd
+
+#QuestionStart
+Q188) Who among the following British ethnographers launched the Survey of India project in the 1860s? [CAPF 2016]
+a) Hunter
+b) Dufferin
+c) Risley
+d) Thurston
+#QuestionEnd
+#AnswerStart
+Answer: a) Hunter
+#AnswerEnd
+
+#QuestionStart
+Q189) Which of the following statements about ‘Barnaparichay’, a mid 19th century Bengali text is/are correct? [CAPF 2016]
+1. It was written by Raja Rammohan Roy.
+2. It was the most widely used Bengali primer of the time.
+Select correct answer using the code given below.
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q190) Which one among the following is the oldest Regiment of Indian Army? [CAPF 2016]
+a) Sikh Regiment
+b) Kumaon Regiment
+c) Punjab Regiment
+d) Madras Regiment
+#QuestionEnd
+#AnswerStart
+Answer: d) Madras Regiment
+#AnswerEnd
+
+#QuestionStart
+Q191) Which one of the following is the famous novel written in 1869 by Nazir Ahmad? [CAPF 2016]
+a) Twilight in Delhi
+b) Mirat-ul-urus
+c) Bahishti Zewar
+d) City of Djinns
+#QuestionEnd
+#AnswerStart
+Answer: b) Mirat-ul-urus
+#AnswerEnd
+
+#QuestionStart
+Q192) Identify from the following the novel written by Charles Dickens that critiqued the adverse impact of industrialisation on the poor. [CAPF 2016]
+a) The Day Before America
+b) Hard Times
+c) Creating a Nation
+d) The Courtier
+#QuestionEnd
+#AnswerStart
+Answer: b) Hard Times
+#AnswerEnd
+
+#QuestionStart
+Q193) Bal Gangadhar Tilak was associated with [CAPF 2015]
+1. Poona Sarvajanik Sabha
+2. The Age of Consent Bill
+3. Gaurakshini Sabha
+4. Atmiya Sabha
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 1, 2 and 4
+c) 3 and 4 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q194) Where and when did Mahatma Gandhi first use his method of hunger-strike to achieve a desired goal? [CAPF 2015]
+a) At Natal in South Africa in the year 1906
+b) At Champaran in the year 1917
+c) At Ahmedabad in the year 1918
+d) At Cape Town in South Africa in the year 1906
+#QuestionEnd
+#AnswerStart
+Answer: c) At Ahmedabad in the year 1918
+#AnswerEnd
+
+#QuestionStart
+Q195) Which of the following were the main influences on Vasudeo Balvant Phadke? [CAPF 2015]
+1. Experience of the Deccan famine of 187677
+2. Hindu revivalism
+3. Theory of Drain of Wealth
+4. Reformist idea of Phule
+Select the correct answer using the code given below.
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1 and 3 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q196) Who among the following was NOT a Communist leader in colonial India? [CAPF 2015]
+a) PC Roy
+b) SA Dange
+c) Muzaffar Ahmad
+d) Singaravelu
+#QuestionEnd
+#AnswerStart
+Answer: a) PC Roy
+#AnswerEnd
+
+#QuestionStart
+Q197) Match List I with List II and select the correct answer using the code given below the lists. [CAPF 2015]
+| List I (Person) | List II (Political Party) |
+|---|---|
+| A. BR Ambedkar | 1. Pakistan Muslim League |
+| B. Sikander Hayat Khan | 2. Krishak Praja Party |
+| C. Fazlul Huq | 3. Unionist Party |
+| D. Khaliquzzaman | 4. Independent Labour Party |
+Code:
+a) 4A, 2B, 3C, 1D
+b) 4A, 3B, 2C, 1D
+c) 1A, 2B, 3C, 4D
+d) 1A, 3B, 2C, 4D
+#QuestionEnd
+#AnswerStart
+Answer: b) 4A, 3B, 2C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q198) The Assam Company, consisting of European tea planters, remained the virtual proprietor of the tea industry till 1850. In the 1850s who among the following established two small proprietary tea gardens of his own, which were confiscated by the state after his execution for treason in 1858? [CAPF 2014]
+a) Anandaram Dhekial Phukan
+b) Gunabhiram Barua
+c) Lakhinath Bezbarua
+d) Maniram Dewan
+#QuestionEnd
+#AnswerStart
+Answer: d) Maniram Dewan
+#AnswerEnd
+
+#QuestionStart
+Q199) Dinabandhu Mitra published a play in Bengali titled Neel Darpan (Blue Mirror), which depicted the atrocities on the indigo planters. The play was translated into English by [CAPE 2014]
+a) Reverend James Long
+b) Dwarkanath Tagore
+c) Michael Madhusudan Dutta
+d) Rabindranath Tagore
+#QuestionEnd
+#AnswerStart
+Answer: c) Michael Madhusudan Dutta
+#AnswerEnd
+
+#QuestionStart
+Q200) William James, Henry Colebrooke and Nathaniel Halhed had which of the following common among them? [CAPF 2014]
+a) They were critics of Indian culture and civilization
+b) They were judges at the courts of the East Indian Company
+c) They were professors teaching history and society of South Asia
+d) They were linguists who tried to interpret the culture of South Asia to the East India Company
+#QuestionEnd
+#AnswerStart
+Answer: d) They were linguists who tried to interpret the culture of South Asia to the East India Company
+#AnswerEnd
+
+#QuestionStart
+Q201) Between the 15th of August 1947 and the 26th of January 1950 when India became free and when she declared herself a democratic sovereign republic, Government of India functioned under the provisions of : [CAPF 2014]
+a) The Government of India Act, 1935
+b) The Indian Independence Act, 1947
+c) The Indian (Provisional Constitution) Order, 1947
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) The Government of India Act, 1935
+#AnswerEnd
+
+#QuestionStart
+Q202) Which member of the Servants of India Society founded the Seva Samiti at Allahabad in 1914? [CDS 2023 (I)]
+a) Shri Ram Bajpai
+b) Hriday Nath Kunzru
+c) S. G. Vaze
+d) Srinivas Shastri
+#QuestionEnd
+#AnswerStart
+Answer: b) Hriday Nath Kunzru
+#AnswerEnd
+
+#QuestionStart
+Q203) Who among the following was not a woman labour leader who organised workers in the strikes in the 1920s? [CDS 2022 (II)]
+a) Sarala Devi Chaudhurani
+b) Ushabai Dange
+c) Prabhabati Devi
+d) Anasuya Behn
+#QuestionEnd
+#AnswerStart
+Answer: a) Sarala Devi Chaudhurani
+#AnswerEnd
+
+#QuestionStart
+Q204) Who among the following founded the Bhil Seva Mandal in 1922 [CDS 2021 (I)]
+a) Dayaram Gidumal
+b) Gurusaday Dutt
+c) Dhondo Keshav Karve
+d) Amritlal Vithaldas Thakkar
+#QuestionEnd
+#AnswerStart
+Answer: d) Amritlal Vithaldas Thakkar
+#AnswerEnd
+
+#QuestionStart
+Q205) Which one of the following statements about the British Indian Medical Service (IMS) is not correct? [CDS 2021 (I)]
+a) IMS began in 1764.
+b) It recruited health professionals by means of a competitive examination.
+c) Indians were never admitted to IMS.
+d) The IMS was at first meant to look after the troops.
+#QuestionEnd
+#AnswerStart
+Answer: c) Indians were never admitted to IMS.
+#AnswerEnd
+
+#QuestionStart
+Q206) Who among the following was one of the founders of the Indian Society of Oriental Art? [CDS 2020 (I)]
+a) Rabindranath Tagore
+b) Abanindranath Tagore
+c) Dwarkanath Tagore
+d) Bankim Chandra Chattopadhyaya
+#QuestionEnd
+#AnswerStart
+Answer: b) Abanindranath Tagore
+#AnswerEnd
+
+#QuestionStart
+Q207) Who believed that the Russian designs were ‘an imminent peril to the security and tranquility’ of the Indian Empire in 1836? [CDS 2020 (I)]
+a) Lord Auckland
+b) Lord Palmerston
+c) Lord Canning
+d) Alexander Burnes
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Palmerston
+#AnswerEnd
+
+#QuestionStart
+Q208) The creation of a Federal Court in India was advocated by which of the following Acts/ Commissions? [CDS 2020 (I)]
+a) The Government of India Act, 1919
+b) The Lee Commission, 1923
+c) The Government of India Act, 1935
+d) The Indian Councils Act, 1909
+#QuestionEnd
+#AnswerStart
+Answer: c) The Government of India Act, 1935
+#AnswerEnd
+
+#QuestionStart
+Q209) Who among the following gave evidence before the Joint Select Committee on the Government of India Bill, 1919 in favour of female franchise? [CDS 2020 (II)]
+1. Mrs. Annie Besant
+2. Mrs. Sarojini Naidu
+3. Mrs. Hirabai Tata
+Code:
+a) Only 1
+b) 1 and 2
+c) 2 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q210) With whom did Subhas Chandra Bose form an alliance to destroy the Holwell Monument in Culcutta during 1939-40? [CDS 2020 (II)]
+a) The Communist Party of India
+b) The Muslim League
+c) The Hindu Mahasabha
+d) The Unionist Party
+#QuestionEnd
+#AnswerStart
+Answer: b) The Muslim League
+#AnswerEnd
+
+#QuestionStart
+Q211) Who among the following created the first All India Trade Union [CDS 2020 (II)]
+a) BP Wadia
+b) SA Dange
+c) NM Joshi
+d) BT Ranadive
+#QuestionEnd
+#AnswerStart
+Answer: c) NM Joshi
+#AnswerEnd
+
+#QuestionStart
+Q212) Which one among the following was India’s first trade union in the proper sense of the term? [CDS 2020 (II)]
+a) Bombay Labour Union
+b) Ahmedabad Labour Union
+c) Madras Labour Union
+d) Allahabad Labour Union
+#QuestionEnd
+#AnswerStart
+Answer: c) Madras Labour Union
+#AnswerEnd
+
+#QuestionStart
+Q213) During the 19th century, who among the following wrote Satapatra Series? [CDS 2020 (II)]
+a) MG Ranade
+b) BG Tilak
+c) Bankim Chandra Chatterjee
+d) GH Deshmukh
+#QuestionEnd
+#AnswerStart
+Answer: d) GH Deshmukh
+#AnswerEnd
+
+#QuestionStart
+Q214) Who among the following founded the Mohammedan Anglo-Oriental Defense Association (1893)? [CDS 2020 (II)]
+a) Auckland Colvin
+b) Badruddin Tyabji
+c) Theodore Beck
+d) Sir Syed Ahmed Khan
+#QuestionEnd
+#AnswerStart
+Answer: d) Sir Syed Ahmed Khan
+#AnswerEnd
+
+#QuestionStart
+Q215) After the First World War, the Triveni Sangh was formed by [CDS 2020 (II)]
+a) the Jats and Gujjars
+b) the Rajputs and Yadavs
+c) the Jats and Yadavs
+d) the Ahirs and Kurmis
+#QuestionEnd
+#AnswerStart
+Answer: d) the Ahirs and Kurmis
+#AnswerEnd
+
+#QuestionStart
+Q216) Who among the following was the first to accept a ministerial position in the Central Provinces in October 1925? [CDS 2020 (II)]
+a) BS Moonje
+b) MR Jayakar
+c) SB Tambe
+d) BN Sasmal
+#QuestionEnd
+#AnswerStart
+Answer: c) SB Tambe
+#AnswerEnd
+
+#QuestionStart
+Q217) Who among the following formed the National Liberation Federation (Libera) Party)? [CDS 2020 (II)]
+a) Motilal Nehru and CR Das
+b) Muhammad Ali and CR Das
+c) TB Sapru and MR Jaykar
+d) MR Jayakar and CR Das
+#QuestionEnd
+#AnswerStart
+Answer: c) TB Sapru and MR Jaykar
+#AnswerEnd
+
+#QuestionStart
+Q218) Who among the following wrote The Philosophy of the Bomb? [CDS 2020 (II)]
+a) Sukhdev
+b) Chandrashekhar Azad
+c) Bhagwati Charan Vohra
+d) Bhagal Singh
+#QuestionEnd
+#AnswerStart
+Answer: c) Bhagwati Charan Vohra
+#AnswerEnd
+
+#QuestionStart
+Q219) At which one of the following Sessions of the Indian National Congress was the resolution on Fundamental Rights and Economic Policy passed? [CDS 2020 (II)]
+a) Tripuri Session
+b) Lahore Session
+c) Lucknow Session
+d) Karachi Session
+#QuestionEnd
+#AnswerStart
+Answer: d) Karachi Session
+#AnswerEnd
+
+#QuestionStart
+Q220) What was the Dutt-Bradley Thesis? [CDS 2019 (II)]
+a) The Working Committee of the Indian National Congress decided that Congress should play a crucial role in realising the independence of India.
+b) The Socialist Party decided to play foremost part in anti-imperialist struggle.
+c) Revolutionary socialist Batukeshwar Dutt put forth a ten-point plan to work for the success of anti-imperialist front.
+d) It was a Communist Party document, according to which the National Congress could play a great part and a foremost part in realising the anti-imperialist people’s front.
+#QuestionEnd
+#AnswerStart
+Answer: d) It was a Communist Party document, according to which the National Congress could play a great part and a foremost part in realising the anti-imperialist people’s front.
+#AnswerEnd
+
+#QuestionStart
+Q221) The Khuntkatti tenure was prevalent in which one of the following regions of India during the British Colonial Rule? [CDS 2019 (II)]
+a) Bundelkhand
+b) Karnataka
+c) Chota Nagpur
+d) Madras Presidency
+#QuestionEnd
+#AnswerStart
+Answer: c) Chota Nagpur
+#AnswerEnd
+
+#QuestionStart
+Q222) Which European ruler had observed, “Bear in mind that the commerce of India is the commerce of the world....he who can exclusively command it is the dictator of Europe”? [CDS 2019 (I)]
+a) Queen Victoria
+b) Peter the Great of Russia
+c) Napoleon Bonaparte
+d) Gustav Adolf
+#QuestionEnd
+#AnswerStart
+Answer: b) Peter the Great of Russia
+#AnswerEnd
+
+#QuestionStart
+Q223) In 1921, during which one of the following tours, Gandhiji shaved his head and began wearing loincloth in order to identify with the poor? [CDS 2019 (I)]
+a) Ahmedabad
+b) Champaran
+c) Chauri Chaura
+d) South India
+#QuestionEnd
+#AnswerStart
+Answer: d) South India
+#AnswerEnd
+
+#QuestionStart
+Q224) Simla was founded as a hill station to use as strategic place for billeting troops, guarding frontier and launching campaign during the course of [CDS 2019 (I)]
+a) Anglo-Maralha War
+b) Anglo-Burmese War
+c) Anglo-Gurkha War
+d) Anglo-Afghan War
+#QuestionEnd
+#AnswerStart
+Answer: c) Anglo-Gurkha War
+#AnswerEnd
+
+#QuestionStart
+Q225) Match List I with List II and select the correct answer using the codes given below. [CDS 2019 (I)]
+| List I (Author) | List II (Book) |
+|---|---|
+| A. Sekhar Bandyopadhyay | 1. Jawaharlal Nehru : A Biography, Vol-1, 1889-1947 |
+| B. Sarvepalli Gopal | 2. From Plassey to Partition: A History of Modern India |
+| C. David Hardiman | 3. The Ascendancy of the Congress in Uttar Pradesh, 1926- 1934 |
+| D. Gyanendra Pandey | 4. Gandhi in His Time and Ours |
+Codes
+a) 2A, 4B, 1C, 3D
+b) 2A, 1B, 4C, 3D
+c) 3A, 1B, 4C, 2D
+d) 3A, 4B, 1C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: b) 2A, 1B, 4C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q226) Subhas Chandra Bose started the ‘Azad Hind Radio’ in which of the following countries? [CDS 2018 (II)]
+a) Japan
+b) Austria
+c) Germany
+d) Malaysia
+#QuestionEnd
+#AnswerStart
+Answer: c) Germany
+#AnswerEnd
+
+#QuestionStart
+Q227) Who took over the ‘Eka Movement’ started by the Congress in Awadh during 1921-1922? [CDS 2018 (II)]
+a) Bhagwan Ahir
+b) Madari Pasi
+c) Baba Ramchandra
+d) Shah Naeem Ata
+#QuestionEnd
+#AnswerStart
+Answer: b) Madari Pasi
+#AnswerEnd
+
+#QuestionStart
+Q228) Which organization was started at the Haridwar Kumbh Mela in 1915? [CDS 2018 (II)]
+a) Sanatan Dharma Sabha
+b) Dev Samaj
+c) Brahmin Sabha
+d) Hindu Mahasabha
+#QuestionEnd
+#AnswerStart
+Answer: d) Hindu Mahasabha
+#AnswerEnd
+
+#QuestionStart
+Q229) Which of the following statements about Sir Syed Ahmed Khan is/are correct? [CDS 2018 (I)]
+1. He argued that India was a federation of ethnic communities based on common descent.
+2. His philosophy was very similar to that of the Indian National Congress.
+3. He imagined India as a Nation State based on individual citizen’s rights.
+4. The curriculum at the Mohammedan Anglo-Oriental College blended Muslim theology and European empiricism.
+Select the correct answer using the codes given below.
+a) Only 1
+b) 2 and 3
+c) Only 3
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q230) Consider the following statement: “A sound body means one which bends itself to the spirit and is always a ready instrument at its service.” [CDS 2018 (I)]
+The above statement is attributed to
+a) Sardar Patel
+b) Winston Churchill
+c) Mahatma Gandhi
+d) Baden-Powell
+#QuestionEnd
+#AnswerStart
+Answer: c) Mahatma Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q231) Who among the following was the founder of Phoenix Settlement? [CDS 2018 (I)]
+a) Mahatma Gandhi
+b) BR Ambedkar
+c) Rabindranath Tagore
+d) Swami Vivekananda
+#QuestionEnd
+#AnswerStart
+Answer: a) Mahatma Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q232) Which of the following was/were founded by Raja Ram Mohan Roy? [CDS 2017 (II)]
+1. Atmiya Sabha
+2. Brahmo Samaj
+3. Prarthana Samaj
+4. Arya Samaj
+Select the correct answer using the codes given below
+a) 1,2 and 3
+b) 2 only
+c) 1 and 2 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q233) Consider the following statements about the different meanings of ‘Swaraj’ as articulated by Mahatma Gandhi: [CDS 2017 (I)]
+1. Swaraj is intimately linked with Ahimsa (non-violence) and Satyagraha (adherence to truth).
+2. Swaraj has two senses-one political and one beyond the realm of politics.
+3. Swaraj is something that requires time and patience to acquire.
+4. With determination, Swaraj could be obtained easily and quickly.
+Which of the statement(s) given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 3 and 4
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q234) What was/were the formative influence(s) on the philosophy of Mahatma Gandhi? [CDS 2017 (I)]
+1. Gandhiji was influenced by the 18th Century Pranami sect that advocated the unity of faiths.
+2. Gandhiji was influenced by the theosophists.
+3. Gandhiji was an admirer of the writings of Romantics like Wordsworth
+Select the correct answer using the codes given below.
+a) 1 and 2
+b) 2 and 3
+c) 1,2 and 3
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q235) Which of the following statements with regard to the speech of Mahatma Gandhi at the opening of the Banaras Hindu University are correct? [CDS 2017 (I)]
+1. He charged the Indian elite with a lack of concern for the labouring poor.
+2. He asserted that our salvation can come only through the farmers.
+3. He highlighted the plight of the untouchables.
+4. He promised to take up the cause of the mill owners of Ahmedabad.
+Select the correct answer using the code given below
+a) 1, 2, 3 and 4
+b) 1 and 2 only
+c) 1, 2 and 3 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q236) Match the following. [CDS 2016 (II)]
+| List I (Historians) | List II (Books) |
+|---|---|
+| A. Sumit Sarkar | 1. The Rise and Growth of Economic Nationalism in India. |
+| B. Shahid Amin | 2. A Rule of Property for Bengal |
+| C. Ranajit Guha | 3. The Swadeshi Movement in -- Bengal, 1903- 1908 |
+| D. Bipan Chandra | 4. Event, Metaphor, Memory-Chauri Chaura, 1922- 1992. |
+Codes
+a) 3A, 4B, 2C, 1D
+b) 3A, 2B, 4C, 1D
+c) 1A, 2B, 4C, 3D
+d) 1A, 4B, 2C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: a) 3A, 4B, 2C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q237) Which of the following statement(s) about Mahatma Gandhi’s South African experiences (1893-1914) is/are true? [CDS 2015 (I)]
+1. Muslim merchants were actively involved in Gandhian political movements in South Africa.
+2. In 1906, Gandhi led a campaign in Cape Town against the ordinance on compulsory registration and passes for Indians.
+3. Gandhi began his political career with struggles against the imposition of excessive taxes on Indians in Cape Town.
+Select the correct answer using the codes given below:
+a) Only 1
+b) Only 3
+c) 1 and 2
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q238) Which of the following statement(s) is/are correct? [CDS 2015 (I)]
+1. The Marxist theory repudiates the idea of the atomised and alienated individual.
+2. Marxism upholds the idea of the natural rights of men and individuals.
+Select the correct answer using the codes given below:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q239) Which of the following was/were connected primarily to the communist ideology? [CDS 2015 (I)]
+1. Kirti Kisan Party
+2. Labour Swaraj Party
+Select the correct answer using the codes given below:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q240) Which of the following statements about the social reformer, Raja Ram Mohan Roy, is false? [CDS 2015 (I)]
+a) Ram Mohan Roy belonged to the gentry class whose power has been diminished because of the imposition of the Permanent Settlement
+b) He studied both Vedantic Monism and Christian Unitarianism
+c) He translated the Upanishads into Bengali
+d) His first organisation was the Atmiya Sabha, founded in Calcutta in 1815
+#QuestionEnd
+#AnswerStart
+Answer: a) Ram Mohan Roy belonged to the gentry class whose power has been diminished because of the imposition of the Permanent Settlement
+#AnswerEnd
+
+#QuestionStart
+Q241) The social ideals of Mahatma Gandhi were first put forth in [CDS 2014 (I)]
+a) Hind Swaraj
+b) An Authobiography-The Story of My Experiments with Truth
+c) History of the Satyagraha in South Africa
+d) The Bhagavad Geeta According to Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: a) Hind Swaraj
+#AnswerEnd
+
+#QuestionStart
+Q242) Consider the following statements and choose the correct option: [CGPSC (Pre) 2020]
+1. J.B. Kripalani formed the Kisan Mazdoor Praja Party in July, 1952.
+2. PC. Ghosh and T. Prakasam were associated with the Kisan Mazdoor Praja Party.
+Code:
+a) 1 is true, but 2 is false
+b) 1 is false, but 2 is true
+c) 1 and 2 both are true
+d) 1 and 2 both are false
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 is false, but 2 is true
+#AnswerEnd
+
+#QuestionStart
+Q243) Which revolutionary made this statement: “Avenge the blood of Indian Martyrs. Use your sword to liberate your motherland. Stand up against the entire Anglo-American enemy.” [Chhattisgarh P.C.S. (Pre) 2019]
+a) Ras Behari Bose
+b) Subhash Chandra Bose
+c) Captain Mohan Singh
+d) Khudiram Bose
+#QuestionEnd
+#AnswerStart
+Answer: a) Ras Behari Bose
+#AnswerEnd
+
+#QuestionStart
+Q244) The revolt of Vellore occur during the regime of which Governor? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Wellesley
+b) Lord Minto
+c) Lord Cornwallis
+d) Sir George Barlow
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: d) Sir George Barlow
+#AnswerEnd
+
+#QuestionStart
+Q245) The famous book “Foundation of Indian Culture” is authored by: [Chhattisgarh P.C.S. (Pre) 2015]
+a) Rabindranath Tagore
+b) Shri Aurobindo
+c) Radhakrishnan
+d) Bhagwan Das
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Shri Aurobindo
+#AnswerEnd
+
+#QuestionStart
+Q246) Who was the first President of the Muslim League: [Chhattisgarh P.C.S. (Pre) 2015]
+a) Agha Khan
+b) Hamid Khan
+c) Hasan Khan
+d) M.A. Jinnah
+#QuestionEnd
+#AnswerStart
+Answer: a) Agha Khan
+#AnswerEnd
+
+#QuestionStart
+Q247) Matching the following pairs (in the context of Gandhi): [Chhattisgarh PCS (Pre) 2013]
+| List-I | List-II |
+|---|---|
+| A. Gandhiji took to Yerwada prison | 1. For endorsing Delhi Pact |
+| B. He undertook fast unto death | 2. The civil disobedience movement |
+| C. He was confronted with black flags on way to Karachi | 3. Congress crisis of 1939 |
+| D. He called the defeat more mine than theirs | 4. Against Communal Award |
+Code:
+a) 2A, 4B, 1C, 3D
+b) 1A, 2B, 3C, 4D
+c) 1A, 4B, 2C, 3D
+d) 2A, 4B, 3C, 1D
+e) 3A, 4B, 1C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: a) 2A, 4B, 1C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q248) Which company started the First Railway Service in India? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Eastern Railway
+b) Great Indian Peninsula Railway
+c) Madras Railway
+d) Awadh-Tirhut Railway
+#QuestionEnd
+#AnswerStart
+Answer: b) Great Indian Peninsula Railway
+#AnswerEnd
+
+#QuestionStart
+Q249) The book “Guilty Man of India’s Partition” was authored by: [Chhattisgarh P.C.S. (Pre) 2003]
+a) Jawaharlal Nehru
+b) Dr. Ram Manohar Lohia
+c) Maulana Abul Kalam Azad
+d) Sarojini Naidu
+#QuestionEnd
+#AnswerStart
+Answer: b) Dr. Ram Manohar Lohia
+#AnswerEnd
+
+#QuestionStart
+Q250) Mahatma Gandhi set up an Ashram on the banks of Sabarmati near Ahmedabad is known as: [Chhattisgarh P.C.S. (Pre) 2003]
+a) Sabarmati Ashram
+b) Harijan Ashram
+c) Satyagraha Ashram
+d) Swaraj Ashram
+#QuestionEnd
+#AnswerStart
+Answer: c) Satyagraha Ashram
+#AnswerEnd
+
+#QuestionStart
+Q251) The British Monarch at the time of Indian Independence was- [Jharkhand P.C.S. (Pre) 2016]
+a) George V
+b) George VI
+c) King Edward VII
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) George VI
+#AnswerEnd
+
+#QuestionStart
+Q252) ‘Hill Assembly Plan’ was set up for the development of Adivasis by- [Jharkhand P.C.S. (Pre) 2016]
+a) T. Wilkinson
+b) Cleveland
+c) Lord William Bentinck
+d) Lord Macaulay
+#QuestionEnd
+#AnswerStart
+Answer: b) Cleveland
+#AnswerEnd
+
+#QuestionStart
+Q253) The export of slaves from Bengal was banned in which year? [Jharkhand P.C.S. (Pre) 2013]
+a) 1764
+b) 1789
+c) 1858
+d) 1868
+#QuestionEnd
+#AnswerStart
+Answer: b) 1789
+#AnswerEnd
+
+#QuestionStart
+Q254) Public Works Department was organized in 1845-1855 by- [Jharkhand P.C.S. (Pre) 2013]
+a) Lord Dalhousie
+b) Lord Cornwallis
+c) George Auckland
+d) Warren Hastings
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Dalhousie
+#AnswerEnd
+
+#QuestionStart
+Q255) Who was the first Indian selected as a member of the British Parliament? [Jharkhand P.C.S. (Pre) 2013]
+a) R.C. Dutt
+b) Dadabhai Naoroji
+c) Rammohan Roy
+d) Meghnad Desai
+#QuestionEnd
+#AnswerStart
+Answer: b) Dadabhai Naoroji
+#AnswerEnd
+
+#QuestionStart
+Q256) January 26,1950 was chosen for the enforcement of the Constitution because: [Jharkhand P.C.S. (Pre) 2011]
+a) This was an auspicious day.
+b) ‘Quit India Movement’ was begun on this date in 1942.
+c) Congress had celebrated 26 January 1930 as the first Independence Day.
+d) None of the above.
+#QuestionEnd
+#AnswerStart
+Answer: c) Congress had celebrated 26 January 1930 as the first Independence Day.
+#AnswerEnd
+
+#QuestionStart
+Q257) Who had proposed “Party Less Democracy’ in India? [M.P.P.C.S. (Pre) 2019]
+a) S. A. Dange
+b) Ram Manohar Lohiya
+c) Mahatma Gandhi
+d) Jay Prakash Narayan
+#QuestionEnd
+#AnswerStart
+Answer: d) Jay Prakash Narayan
+#AnswerEnd
+
+#QuestionStart
+Q258) Who authored the book “Planned Economy for India”? [M.P.P.C.S. (Pre) 2018]
+a) M. Visvesvaraya
+b) J.R.D. Tata
+c) G.D. Birla
+d) Pattabhi Sitaramayya
+#QuestionEnd
+#AnswerStart
+Answer: a) M. Visvesvaraya
+#AnswerEnd
+
+#QuestionStart
+Q259) Who was the last Governor-General of Independent India? [M.P.P.C.S. (Pre) 2010]
+a) C. Rajagopalachari
+b) Rajendra Prasad
+c) Lord Mountbatten
+d) Lord Canning
+#QuestionEnd
+#AnswerStart
+Answer: a) C. Rajagopalachari
+#AnswerEnd
+
+#QuestionStart
+Q260) Which of the following assumed sovereign power at midnight of 14/15 August, 1947 provisionally? [M.P.P.C.S. (Pre) 2010]
+a) Central Legislative Assembly
+b) Constituent Assembly
+c) Interim Government
+d) Chamber of Princes
+#QuestionEnd
+#AnswerStart
+Answer: b) Constituent Assembly
+#AnswerEnd
+
+#QuestionStart
+Q261) Which part of India remained under Portuguese control after 15th August 1947? [M.P.P.C.S. (Pre) 2010]
+a) Goa
+b) Sikkim
+c) Pondicherry
+d) Andaman & Nicobar
+#QuestionEnd
+#AnswerStart
+Answer: a) Goa
+#AnswerEnd
+
+#QuestionStart
+Q262) Which of the following Governor-General used the system of Separate electoral college to conquer Muslims and make them against Congress? [M.P.P.C.S. (Pre) 1997]
+a) Lord Curzon
+b) Lord Dufferin
+c) Lord Hardinge
+d) Lord Minto
+#QuestionEnd
+#AnswerStart
+Answer: d) Lord Minto
+#AnswerEnd
+
+#QuestionStart
+Q263) Match the following female Rulers with their State/Capital: [MPPCS (Pre) 1994]
+| List-I | List-II |
+|---|---|
+| A. Rani Durgavati | 1. Jhansi |
+| B. Maharani Ahilya Bai | 2. Holkar State |
+| C. Maharani Lakshmi Bai | 3. Gara Mandal |
+| D. Begum Razia Sultan | 4. Delhi |
+Code:
+a) 3A, 2B, 1C, 4D
+b) 1A, 4B, 2C, 3D
+c) 2A, 3B, 4C, 1D
+d) 3A, 4B, 2C, 1D
+#QuestionEnd
+#AnswerStart
+Answer: a) 3A, 2B, 1C, 4D
+#AnswerEnd
+
+#QuestionStart
+Q264) The author of the novel ‘Chandrakanta’ is: [M.P.P.C.S. (Pre) 1994]
+a) Bharatendu Harishchandra
+b) Premchand
+c) Ravindra Nath Tagore
+d) Devkinandan Khatri
+#QuestionEnd
+#AnswerStart
+Answer: d) Devkinandan Khatri
+#AnswerEnd
+
+#QuestionStart
+Q265) Which Governor- General was prosecuted for impeachment? [M.P.P.C.S. (Pre) 1992]
+a) Warren Hastings
+b) Lord Clive
+c) Lord Cornwallis
+d) Lord Wellesley
+#QuestionEnd
+#AnswerStart
+Answer: a) Warren Hastings
+#AnswerEnd
+
+#QuestionStart
+Q266) What idea is given by Gandhiji for family planning? [M.P.P.C.S (Pre) 1990]
+a) Self-control
+b) Sterilization
+c) Restrain
+d) Loop
+#QuestionEnd
+#AnswerStart
+Answer: a) Self-control
+#AnswerEnd
+
+#QuestionStart
+Q267) Who wrote the book ‘Prison Diary’? [M.P.P.C.S. (Pre) 1990]
+a) Jai Prakash Narayan
+b) Munshi Premchand
+c) Morarji Desai
+d) Atal Bihari Vajpayee
+#QuestionEnd
+#AnswerStart
+Answer: a) Jai Prakash Narayan
+#AnswerEnd
+
+#QuestionStart
+Q268) Name the revolutionary woman, who participated in the Peasant Movement of Bijoliya and was arrested. She also participated in the 1930 Satyragrah and 1932 Civil Disobedience Movement and was sentenced to jail: [R.A.S./R.T.S. (Pre.) 2021]
+a) Rama Devi
+b) Ratan Shashtri
+c) Anjana Devi Chaudhary
+d) Kishori Devi
+#QuestionEnd
+#AnswerStart
+Answer: a) Rama Devi
+#AnswerEnd
+
+#QuestionStart
+Q269) Who among the following negotiated Subordinate Alliances of 1817-18 with the Princely States of Rajputana? [R.A.S./R.T.S. (Pre) 2018]
+a) David Ochterlony
+b) Charles Metcalf
+c) Arthur Wellesley
+d) John George
+#QuestionEnd
+#AnswerStart
+Answer: b) Charles Metcalf
+#AnswerEnd
+
+#QuestionStart
+Q270) The revolutionary, who was not involved in Hardinge Bomb incident? [R.A.S./R.T.S. (Pre) 2018]
+a) Master Amir Chand
+b) Bhagwati Charan Vohara
+c) Bhai Balmukund
+d) Avadh Bihari
+#QuestionEnd
+#AnswerStart
+Answer: b) Bhagwati Charan Vohara
+#AnswerEnd
+
+#QuestionStart
+Q271) Who has authored ‘Gandhian Constitution for Free India’? [RAS/RTS (Pre) 2018]
+a) Aruna Asaf Ali
+b) Achyut Patwardhan
+c) Shriman Narayan Agarwal
+d) Humayun Kabir
+#QuestionEnd
+#AnswerStart
+Answer: c) Shriman Narayan Agarwal
+#AnswerEnd
+
+#QuestionStart
+Q272) Who was the first historian who wrote about ‘Feudalism’ in Rajasthan during the 19th Century? [R.A.S./R.T.S. (Pre) 2010]
+a) Col. James Tod
+b) Dr. L.P. Tessitori
+c) George Grearson
+d) John Thomas
+#QuestionEnd
+#AnswerStart
+Answer: a) Col. James Tod
+#AnswerEnd
+
+#QuestionStart
+Q273) The main aim of East India Company to make a subsidiary alliance in Rajput states was- [R.A.S./R.T.S. (Pre) 1992]
+a) Receiving military support against enemies
+b) Protecting these states from Maratha-Pindari invasion
+c) To receive funds in the form of Khiraj
+d) To establish the sovereignty of the British
+#QuestionEnd
+#AnswerStart
+Answer: d) To establish the sovereignty of the British
+#AnswerEnd
+
+#QuestionStart
+Q274) Which one of the following Jails was named as ‘Mandir’ by Gandhiji? [U.P. Lower Sub. (Mains) 2015]
+a) Naini
+b) Yarvada
+c) Cellular (Port Blair)
+d) Aghakhan Palace
+#QuestionEnd
+#AnswerStart
+Answer: b) Yarvada
+#AnswerEnd
+
+#QuestionStart
+Q275) What does ‘Gandhian Innovation’ mean? [U.P. Lower Sub. (Mains) 2015]
+a) To produce more
+b) To produce in domestic economy
+c) To produce for consumption
+d) To produce more from less input for more people
+#QuestionEnd
+#AnswerStart
+Answer: d) To produce more from less input for more people
+#AnswerEnd
+
+#QuestionStart
+Q276) The writer of ‘Indian National Movement: The Long-Term Dynamics’ is: [U.P. Lower Sub. (Pre) 2015]
+a) Satish Chandra
+b) Bipan Chandra
+c) Tarachand
+d) Sumit Sarkar
+#QuestionEnd
+#AnswerStart
+Answer: b) Bipan Chandra
+#AnswerEnd
+
+#QuestionStart
+Q277) According to Gandhiji, the Crudest form of violence is- [U.P. Lower- Sub. (Mains) 2015]
+a) Persistence of poverty
+b) Killing of cows
+c) Killing of human beings
+d) Torture of women and children
+#QuestionEnd
+#AnswerStart
+Answer: a) Persistence of poverty
+#AnswerEnd
+
+#QuestionStart
+Q278) Where did Gandhiji adopt ‘Seva Dharma’? [U.P. Lower Sub. (Mains) 2015]
+a) Mumbai
+b) Shantiniketan
+c) South Africa
+d) Pune
+#QuestionEnd
+#AnswerStart
+Answer: c) South Africa
+#AnswerEnd
+
+#QuestionStart
+Q279) Which one of the following pairs is not correctly matched? [U.P. Lower Sub. (Pre) 2013]
+a) Lord Dalhousie - Annexation of Awadh
+b) Lord Dufferin - Establishment of Indian National Congress
+c) Lord William Bentinck - Passing of the Charter Act, 1833
+d) Lord Lytton - Beginning of first Anglo-Afghan War
+#QuestionEnd
+#AnswerStart
+Answer: d) Lord Lytton - Beginning of first Anglo-Afghan War
+#AnswerEnd
+
+#QuestionStart
+Q280) Which one of the following was the last step in the Gandhian strategy of Satyagraha? [U.P. Lower Sub. (Mains) 2013]
+a) Boycott
+b) Picket
+c) Fast
+d) Strike
+#QuestionEnd
+#AnswerStart
+Answer: d) Strike
+#AnswerEnd
+
+#QuestionStart
+Q281) Which of the following statements is not true as per Gandhian Principle? [U.P. Lower Sub. (Mains) 2013]
+a) The aim of Satyagrahi is to defeat the enemy
+b) The weapon of Satyagraha is Ahimsa
+c) Satyagrahi should be firm in his belief
+d) Satyagrahi should have no ill feeling towards his enemies
+#QuestionEnd
+#AnswerStart
+Answer: a) The aim of Satyagrahi is to defeat the enemy
+#AnswerEnd
+
+#QuestionStart
+Q282) As per Mahatma Gandhi politics meant- [U.P. Lower Sub. (Mains) 2013]
+a) Religionless politics
+b) Activity for public welfare
+c) Truthless politics
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Activity for public welfare
+#AnswerEnd
+
+#QuestionStart
+Q283) Which of the following is not a feature of politics of the Gandhian model? [U.P. Lower Sub. (Mains) 2013]
+a) Ethics
+b) Religion
+c) Humanity
+d) Authority
+#QuestionEnd
+#AnswerStart
+Answer: d) Authority
+#AnswerEnd
+
+#QuestionStart
+Q284) Gandhi’s boycott of British made products was effective because the British considered India, a major: [U.P. Lower Sub. (Mains) 2013]
+a) Shipping centre
+b) Industrial centre
+c) Market for manufactured goods
+d) Source of mineral resources
+#QuestionEnd
+#AnswerStart
+Answer: c) Market for manufactured goods
+#AnswerEnd
+
+#QuestionStart
+Q285) Whose work has influenced the Gandhian concept? [U.P. Lower Sub. (Mains) 2013]
+a) Ruskin
+b) Thoreau
+c) Tolstoy
+d) All the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All the above
+#AnswerEnd
+
+#QuestionStart
+Q286) Which of the following statements is/are correct regarding Gandhi? [U.P. Lower Sub. (Mains) 2013]
+a) Fought hard to improve the status of casteless untouchables
+b) Launched the Non-Cooperation Movement
+c) Began the Civil Disobedience Movement
+d) All the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All the above
+#AnswerEnd
+
+#QuestionStart
+Q287) Which one of the following statements is not correct about Gandhian economy? [U.P. Lower Sub. (Mains) 2013]
+a) He laid emphasis on the economy based on non-violence.
+b) Centralization led to exploitation and inequality; hence centralization is opponent of formation of non-violent society
+c) He was not in favour of mechanization in India
+d) He did not favour mechanization in U.S.A.
+#QuestionEnd
+#AnswerStart
+Answer: d) He did not favour mechanization in U.S.A.
+#AnswerEnd
+
+#QuestionStart
+Q288) According to M.K. Gandhi socio-economic improvement of untouchables can be brought about: [U.P. Lower Sub. (Mains) 2013]
+a) By their temple entry
+b) By providing grant-in-aid
+c) By earmarking funds for their socioeconomic development
+d) By establishing cottage industry for them
+#QuestionEnd
+#AnswerStart
+Answer: d) By establishing cottage industry for them
+#AnswerEnd
+
+#QuestionStart
+Q289) Consider the following statements: [U.P. Lower Sub. (Pre) 2013]
+1. The Arya Samaj was founded in 1875.
+2. Al Hilal’ was published by Maulana Abul Kalam Azad.
+3. Lala Lajpat Rai was not associated with the paper ‘The People’.
+4. The famous Presidency College (former Hindu College) of Calcutta was established by Raja Ram Mohan Roy.
+Of these statements:
+a) Only 1 and 2 are correct.
+b) Only 2 and 3 are correct.
+c) Only 1, 2 and 4 are correct.
+d) Only 1, 2 and 3 are correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 1, 2 and 4 are correct. (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q290) Consider the following statements: [U.P. Lower Sub. (Pre) 2013]
+1. Asaf Ali looked after the work of Railway Ministry in the interim Government (1946)
+2. Ancient Monuments Preservation Act’ was passed when Lord Curzon was Governor-General.
+3. The Haripura Session of the Indian National Congress was presided over by C.R. Das.
+4. Swami Shraddhanand suggested a no-tax campaign as a protest against the Rowlatt Act.
+Of these statements:
+a) Only 1 and 2 are correct.
+b) Only 2 and 3 are correct.
+c) Only 1, 2 and 4 are correct.
+d) Only 1, 2 and 3 are correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 1, 2 and 4 are correct.
+#AnswerEnd
+
+#QuestionStart
+Q291) Which one of the following statements is not correct? [U.P. Lower Sub. (Pre) 2013]
+a) Mahatma Gandhi’s autobiography was originally written in the Gujarati Language.
+b) Saddler Commission is associated with Education.
+c) Hindu College Calcutta is the first institution to help in spreading English Education in India.
+d) Lala Lajpat Rai was never elected as President of Indian National Congress.
+#QuestionEnd
+#AnswerStart
+Answer: d) Lala Lajpat Rai was never elected as President of Indian National Congress.
+#AnswerEnd
+
+#QuestionStart
+Q292) Who wrote the book “Gokhale- my political guru”? [U.P. Lower Sub. (Mains) 2013]
+a) M.A. Jinnah
+b) M.K. Gandhi
+c) Shaukat Ali
+d) C.R. Das
+#QuestionEnd
+#AnswerStart
+Answer: b) M.K. Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q293) M.K. Gandhi was a supporter of- [U.P. Lower Sub. (Pre) 2009]
+a) Marxist socialism
+b) Category socialism
+c) Idealism
+d) Philosophical anarchism
+#QuestionEnd
+#AnswerStart
+Answer: d) Philosophical anarchism
+#AnswerEnd
+
+#QuestionStart
+Q294) Which one of the following statements is not correct about Dadabhai Naoroji? [U.P. Lower Sub. (Pre) 2008]
+a) He wrote a book ‘Poverty and Un-British Rule in India’
+b) He worked as a Professor of Gujarati in the University College, London
+c) He laid the foundation of woman’s education in Bombay
+d) He was elected as a member of British Parliament on the ticket of the Conservative Party
+#QuestionEnd
+#AnswerStart
+Answer: d) He was elected as a member of British Parliament on the ticket of the Conservative Party
+#AnswerEnd
+
+#QuestionStart
+Q295) Aurobindo Ghosh wrote: [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Extremist Movement
+b) Moderate Movement
+c) Kesari
+d) The Life Divine
+#QuestionEnd
+#AnswerStart
+Answer: d) The Life Divine
+#AnswerEnd
+
+#QuestionStart
+Q296) Who made the agreement between Muslim League and Congress in 1916? [U.P. Lower Sub. (Pre) 2004]
+a) B.G. Tilak
+b) Gokhle
+c) Annie Besant
+d) J. L. Nehru
+#QuestionEnd
+#AnswerStart
+Answer: a) B.G. Tilak
+#AnswerEnd
+
+#QuestionStart
+Q297) Who is the author of flag song (Jhanda Geet) of India? [U.P Lower Sub. (Spl) (Pre) 2004]
+a) Rabindranath Tagore
+b) Ramdhari Singh Dinkar
+c) Shyamlal Parshad Gupta
+d) Ganesh Shankar Vidyarthi
+#QuestionEnd
+#AnswerStart
+Answer: c) Shyamlal Parshad Gupta
+#AnswerEnd
+
+#QuestionStart
+Q298) In whose rule the Widow Remarriage Act was implemented- [U.P. Lower Sub. (Pre) 2003]
+a) Lord Dalhousie
+b) Lord Canning
+c) Sir Henry Harding
+d) Lord Lawrence
+#QuestionEnd
+#AnswerStart
+Answer: b) Lord Canning
+#AnswerEnd
+
+#QuestionStart
+Q299) Which one of the following is correctly matched? [UP Lower Sub. (Pre) 2003]
+| Wi iter | Books |
+|---|---|
+| A. Valentine Chirol | 1. Indian Struggle |
+| B. Rafiq Zakaria | 2. The Man Who Divided India |
+| C. Subhash Chandra Bose | 3. Indian Unrest |
+| D. V.D. Savarkar | 4. Unhappy India |
+Code:
+a) A-3, B-2, C-1, D-4
+b) A-2, B-1, C-4, D-3
+c) A-4, B-3, C-2, D-1
+d) A-1, B-4, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-2, C-1, D-4 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q300) Which of the following Movement is not related to Gandhiji? [U.P. Lower Sub. (Pre) 1998]
+a) Swadeshi Movement
+b) Khilafat Movement
+c) Individual Satyagraha
+d) Quit India Movement
+#QuestionEnd
+#AnswerStart
+Answer: a) Swadeshi Movement
+#AnswerEnd
+
+#QuestionStart
+Q301) In which language the famous work of Raja Rammohan Roy ‘A Gift to Monotheists’ was written? [Uttarakhand PCS (Pre) 2021]
+a) Persian
+b) English
+c) Arabic
+d) Bengali
+#QuestionEnd
+#AnswerStart
+Answer: a) Persian
+#AnswerEnd
+
+#QuestionStart
+Q302) In 1929 at which place Mahatma Gandhi completed his translation of Anasakti Yoga? [Uttarakhand PCS (Pre) 2021]
+a) Kausani
+b) Almora
+c) Nainital
+d) Ranikhet
+#QuestionEnd
+#AnswerStart
+Answer: a) Kausani
+#AnswerEnd
+
+#QuestionStart
+Q303) Who introduced ‘Financial Decentralization’ in India? [Uttarakhand PCS (Pre) 2021]
+a) Lord Rippon
+b) Lord Dalhousie
+c) Charles Metcaff
+d) Lord Mayo
+#QuestionEnd
+#AnswerStart
+Answer: d) Lord Mayo
+#AnswerEnd
+
+#QuestionStart
+Q304) James Andrew Ramsay was the real name of which Governor-General of India? [Uttarakhand P.C.S. (Pre) 2016]
+a) Lord Dalhousie
+b) Lord Canning
+c) Lord North
+d) Lord Curzon
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Dalhousie
+#AnswerEnd
+
+#QuestionStart
+Q305) Which one of the following Ashrams related to Mahatma Gandhi, is the oldest? [Uttarakhand P.C.S. (Pre) 2012]
+a) Sabarmati
+b) Phoenix
+c) Wardha
+d) Sadaqat
+#QuestionEnd
+#AnswerStart
+Answer: b) Phoenix
+#AnswerEnd
+
+#QuestionStart
+Q306) Who wrote the book “A Passage to India”? [Uttarakhand P.C.S. (Pre) 2010]
+a) Jawaharlal Nehru
+b) Minoo Masani
+c) E.M. Forster
+d) None of them
+#QuestionEnd
+#AnswerStart
+Answer: c) E.M. Forster
+#AnswerEnd
+
+#QuestionStart
+Q307) Soj- e-Vatan is the book written by: [Uttarakhand P.C.S. (Pre) 2010]
+a) Mahadevi Verma
+b) Premchand
+c) Sumitra Nandan Pant
+d) Suryakant Tripathi ‘Nirala
+#QuestionEnd
+#AnswerStart
+Answer: b) Premchand
+#AnswerEnd
+
+#QuestionStart
+Q308) Who wrote the book ‘Geographical Factors in Indian History’? [Uttarakhand Lower (Sub) (Pre) 2010]
+a) K.M. Panikkar
+b) Toynbee
+c) M.N. Srinivas
+d) Jamna Das
+#QuestionEnd
+#AnswerStart
+Answer: a) K.M. Panikkar
+#AnswerEnd
+
+#QuestionStart
+Q309) Match the following: [Uttarakhand PCS (Pre) 2010]
+| List-I | List-II |
+|---|---|
+| A. Mahatma Gandhi | 1. Dandi March |
+| B. Jawaharlal Nehru | 2. Red Shirt Movement |
+| C, Khan Abdul Gaffar Khan | 3. Bardoli Satyagraha |
+| D. Vallabhbhai Patel | 4. Demand for Complete Independence in Lahore Session |
+Code:
+a) 4A, 1B, 3C, 2D
+b) 4A, 3B, 2C, 1D
+c) 2A, 1B, 4C, 3D
+d) 1A, 4B, 2C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: d) 1A, 4B, 2C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q310) Who wrote the play “Andher Nagari Chaupat Raja”? [Uttarakhand P.C.S. (Mains) 2006]
+a) Govardhan Ram M. Tripathi
+b) Munshi Premchand
+c) Fakir Mohan Senapati
+d) Bhartendu Harishchandra
+#QuestionEnd
+#AnswerStart
+Answer: d) Bhartendu Harishchandra
+#AnswerEnd
+
+#QuestionStart
+Q311) Which of the following statements is not true for Jawaharlal Nehru [Uttarakhand P.C.S. (Mains) 2006]
+a) He was influenced by Socialism.
+b) He was influenced by British liberalism.
+c) He was influenced by Mahatma Gandhi.
+d) He was influenced by German Nationalism.
+#QuestionEnd
+#AnswerStart
+Answer: d) He was influenced by German Nationalism.
+#AnswerEnd
+
+#QuestionStart
+Q312) Who was the person to conduct Census in India for the first time? [Uttarakhand P.C.S. (Mains) 2006]
+a) Ripon
+b) Lytton
+c) Dufferin
+d) Lord Mayo
+#QuestionEnd
+#AnswerStart
+Answer: d) Lord Mayo
+#AnswerEnd
+
+#QuestionStart
+Q313) Match list-I with list-II and select the correct answer using the codes given below the lists: [Uttarakhand PCS (Pre) 2003]
+| List-I | List-II |
+|---|---|
+| A. Madan Mohan Malviya | 1. Founder of Home Rule League |
+| B. Motilal Nehru | 2. Launched Servants of India Society |
+| C. Mrs. Annie Besant | 3. Founder of Banaras Hindu University |
+| D. Gopal Krishna Gokhale | 4. Established Swaraj Party with others |
+Code:
+a) 3A, 4B, 1C, 2D
+b) 4A, 3B, 2C, 1D
+c) 1A, 2B, 3C, 4D
+d) 2A, 1B, 4C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: a) 3A, 4B, 1C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q314) Swaraj as a national demand was first made by: [Uttarakhand P.C.S. (Pre) 2002]
+a) B.G.Tilak
+b) C.R.Das
+c) Dadabhai Naoroji
+d) Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: c) Dadabhai Naoroji
+#AnswerEnd
+
+#QuestionStart
+Q315) Surat split was led by- [Uttarakhand P.C.S. (Mains) 2002]
+a) Hume
+b) Dufferin
+c) Tilak
+d) Gandhiji
+#QuestionEnd
+#AnswerStart
+Answer: c) Tilak
+#AnswerEnd
+
+#QuestionStart
+Q316) Integration of States was done under the leadership of: [Uttarakhand P.C.S. (Mains) 2002]
+a) Maulana Azad
+b) Govind Ballabh Pant
+c) B. R. Ambedkar
+d) Sardar Patel
+#QuestionEnd
+#AnswerStart
+Answer: d) Sardar Patel
+#AnswerEnd
+
+#QuestionStart
+Q317) Who among the following was the author of the official history of Congress? [Uttarakhand P.C.S. (Pre) 2002]
+a) C. Rajagopalachari
+b) J.B. Kripalani
+c) Pattabhi Sitaramayya
+d) Sardar Patel
+#QuestionEnd
+#AnswerStart
+Answer: c) Pattabhi Sitaramayya
+#AnswerEnd
+
+#QuestionStart
+Q318) The famous work of Bharatendu Harishchandra is: [Uttarakhand P.C.S. (Mains) 2002]
+a) Mayanka Manjari
+b) Bharat Durdasha
+c) Nutan Brahmachari
+d) Chandra Kanta Santati
+#QuestionEnd
+#AnswerStart
+Answer: b) Bharat Durdasha
+#AnswerEnd

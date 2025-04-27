@@ -1,0 +1,290 @@
+#QuestionStart
+Q1) Consider the following statements : (2023)
+1. If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid.
+2. Elections for the post of the President of India can be postponed on the grounds that some Legislative Assemblies have been dissolved and elections are yet to take place.
+3. When a Bill is presented to the President of India, the Constitution prescribes time limits within which he/she has to declare his/ her assent.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements in respect of election to the President of India: (2023)
+1. The members nominated to either House of the Parliament or the Legislative Assemblies of States are also eligible to be included in the Electoral College.
+2. Higher the number of elective Assembly seats, higher is the value of vote of each MLA of that State.
+3. The value of vote of each MLA of Madhya Pradesh is greater than that of Kerala.
+4. The value of vote of each MLA of Puducherry is higher than that of Arunachal Pradesh because the ratio of total population to total number of elective seats in Puducherry is greater as compared to Arunachal Pradesh.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements : (2022)
+1. The Constitution of India classifies the ministers into four ranks viz. Cabinet Minister, Minister of State with Independent Charge, Minister of State and Deputy Minister.
+2. The total number of ministers in the Union Government, including the Prime Minister, shall not exceed 15 percent of the total number of members in the Lok Sabha.
+Which of the statements given above is/are correct ?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) In the context of India, which one of the following is the characteristic appropriate for bureaucracy? (2020)
+a) An agency for widening the scope of parliamentary democracy
+b) An agency for strengthening the structure of federalism
+c) Political An agency for facilitating stability and economic growth
+d) An agency for the implementation of public policy
+#QuestionEnd
+#AnswerStart
+Answer: d) An agency for the implementation of public policy
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: (2020)
+1. The President of India can summon a session of Parliament at such a place as he/she thinks fit.
+2. The Constitution of India provides for three sessions of the Parliament in a year, but it is not mandatory to conduct all three sessions.
+3. There is no minimum number of days that the Parliament is required to meet in a year.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the Legislative Assembly of a State in India, consider the following statements: (2019)
+1. The Governor makes a customary address to Members of the House at the commencement of the first session of the year.
+2. When a State Legislature does not have a rule on a particular matter, it follows the Lok Sabha rule on that matter.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following suggested that the Governor should be an eminent person from outside the State and should be a detached figure without intense political links or should not have taken part in politics in the recent past? (2019)
+a) First Administrative Reforms Commission (1966)
+b) Rajamannar Committee (1969)
+c) Sarkaria Commission (1983)
+d) National Commission to Review the Working of the Constitution (2000)
+#QuestionEnd
+#AnswerStart
+Answer: c) Sarkaria Commission (1983)
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the election of the President of India, consider the following statements: (2018)
+1. The value of the vote of each MLA varies from State to State.
+2. The value of vote of MPs in Lok Sabha is more than the value of the vote of MPs of the Rajya Sabha.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: (2018)
+1. No criminal proceedings shall be instituted against the Governor of a State in any court during his term of office.
+2. The emoluments and allowances of the Governor of a state shall not be diminished during his term of office.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q10) If the president of India exercises his power as provided under Article 356 of the constitution in respect of a particular state, then (2018)
+a) the assembly of a state is automatically dissolved.
+b) the power of the Legislature of that State shall be exercisable by or under the authority of the Parliament.
+c) Article 19 is suspended in that State.
+d) the President can make laws relating to that State.
+#QuestionEnd
+#AnswerStart
+Answer: b) the power of the Legislature of that State shall be exercisable by or under the authority of the Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q11) Which of the following are not necessarily the consequences of the proclamation of the President's rule in a State? (2017)
+1. Dissolution of the State Legislative Assembly
+2. Removal of the Council of Ministers in the State
+3. Dissolution of the local bodies
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) The Parliament of India exercises control over the functions of the Council of Ministers through (2017)
+1. Adjournment motion
+2. Question hour
+3. Supplementary questions
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: (2016)
+1. The Chief Secretary in a State is appointed by the Governor of that State.
+2. The Chief Secretary in a state has a fixed tenure.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q14) Consider the following statements: (2015)
+1. The Executive Power of the Union of India is vested in the Prime Minister.
+2. The Prime Minister is the ex officio Chairman of the Civil Services Board.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q15) Which of the following is/are the functions/ functions of the Cabinet Secretariat? (2014)
+1. Preparations of agenda for Cabinet Meetings
+2. Secretarial assistance to Cabinet Meetings
+3. Allocations of financial resources to the Ministers
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following are the discretionary powers of the Governor of a State? (2014)
+1. Sending a report to the President of India for imposing the President’s rule.
+2. Appointing the Ministers.
+3. Reserving certain bills passed by the State Legislature for consideration of the President of India.
+4. Making the rules to conduct the business of the State Government.
+Select the answers using the codes given below:
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: (2014)
+1. The President shall make rules for the more convenient transaction of the business of the government of India, and for the allocation among Ministers of the said business.
+2. All executive actions of the government of India shall be expressed to be taken in the name of the Prime Minister.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following statements: (2013)
+1. The Council of Ministers in the Centre shall be collectively responsible to the Parliament.
+2. The Union Ministers shall hold the office during the pleasure of the President of India.
+3. The Prime Minister shall communicate to the President about the proposals for legislation.
+Select the correct answer using the given code below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Which one of the following statements is correct? (2013)
+a) In India, the same person cannot be appointed as Governor for two or more States at the same time.
+b) The Judges of the High Court of the States in India are appointed by the Governor of the State just as the Judges of the Supreme Court are appointed by the President.
+c) No procedure has been laid down in the Constitution of India for the removal of a Governor from his/her post.
+d) In the case of a Union Territory having a legislative setup, the Chief Minister is appointed by the Lt. Governor on the basis of majority support.
+#QuestionEnd
+#AnswerStart
+Answer: c) No procedure has been laid down in the Constitution of India for the removal of a Governor from his/her post.
+#AnswerEnd
+
+#QuestionStart
+Q20) The Prime Minister of India, at the time of his/her appointment: (2012)
+a) Need not necessarily be a member of one of the Houses of the Parliament but must become a member of one of the Houses within six months
+b) Need not necessarily be a member of one of the Houses of the Parliament but must become a member of the Lok Sabha within six months
+c) Must be a member of one of the Houses of the Parliament
+d) Must be a member of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a) Need not necessarily be a member of one of the Houses of the Parliament but must become a member of one of the Houses within six months
+#AnswerEnd
+
+#QuestionStart
+Q21) According to the Constitution of India, it is the duty of the President of India to be laid before the Parliament which of the following? (2012)
+1. The Recommendations of the Union Finance Commission
+2. The Report of the Public Accounts Committee
+3. The Report of the Comptroller and Auditor General
+4. The Report of the National Commission for Scheduled Castes
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 4
+c) 1, 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd

@@ -1,0 +1,135 @@
+#QuestionStart
+Q1) With reference to Madanapalle of Andhra Pradesh, which one of the following statements is correct? (2021)
+a) Pingali Venkayya designed the tricolour Indian National Flag here.
+b) Pattabhi Sitaramaiah led the Quit India Movement of the Andhra region from here.
+c) Rabindranath Tagore translated the National Anthem from Bengali to English here.
+d) Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical Society first here.
+#QuestionEnd
+#AnswerStart
+Answer: c) Rabindranath Tagore translated the National Anthem from Bengali to English here.
+#AnswerEnd
+
+#QuestionStart
+Q2) The Vital-Vidhwansak, the first monthly journal to have the untouchable people as its target audience, was published by: (2020)
+a) Gopal Baba Walangkar
+b) Jyotiba Phule
+c) Mohandas Karamchand Gandhi
+d) Bhimrao Ramji Ambedkar
+#QuestionEnd
+#AnswerStart
+Answer: a) Gopal Baba Walangkar
+#AnswerEnd
+
+#QuestionStart
+Q3) In the context of Indian history, the Rakhmabai case of 1884 revolved around: (2020)
+1. Women’s right to gain education
+2. Age of consent
+3. Restitution of conjugal rights
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following pairs: (2019)
+| Movement/Organisation | Leader |
+|---|---|
+| 1. All India Anti-Untouchability League | Mahatma Gandhi |
+| 2. All India Kisan Sabha | Swami Sahajanand Saraswati |
+| 3. Self-Respect Movement | Naicker E.V. Ramaswami |
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q5) Which among the following events happened earliest? (2018)
+a) Swami Dayanand established Arya Samaj.
+b) Dinabandhu Mitra wrote Neel Darpan.
+c) Bankim Chandra Chattopadhyay wrote Anandmath.
+d) Satyendranath Tagore became the first Indian to succeed in the Indian Civil Services Examination.
+#QuestionEnd
+#AnswerStart
+Answer: b) Dinabandhu Mitra wrote Neel Darpan.
+#AnswerEnd
+
+#QuestionStart
+Q6) Satya Shodhak Samaj organised: (2016)
+a) a movement for upliftment of tribals in Bihar
+b) a temple-entry movement in Gujarat
+c) an anti-caste movement in Maharashtra
+d) a peasant movement in Punjab
+#QuestionEnd
+#AnswerStart
+Answer: c) an anti-caste movement in Maharashtra
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following: (2016)
+1. Calcutta Unitarian Committee
+2. Tabernacle of New Dispensation
+3. Indian Reform Association
+Keshab Chandra Sen is associated with the establishment of which of the above?
+a) 1 and 3 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Annie Besant was: (2013)
+1. Responsible for starting the Home Rule Movement.
+2. The founder of the Theosophical Society.
+3. Once the President of the Indian National Congress.
+Select the correct statement/statements using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following parties were established by Dr. B.R. Ambedkar? (2012)
+1. The Peasants and Workers Party of India
+2. All India Scheduled Castes Federation
+3. The Independent Labour Party
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Which of the following statements is/are correct regarding Brahmo Samaj? (2012)
+1. It opposed idolatry.
+2. It denied the need for a priestly class for interpreting the religious texts.
+3. It popularised the doctrine that the Vedas are infallible.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd

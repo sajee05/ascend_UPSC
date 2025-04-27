@@ -1,0 +1,373 @@
+#QuestionStart
+Q1) Consider the following pairs:
+| Wetlands | Location |
+|---|---|
+| 1. Hokera Wetland | Punjab |
+| 2. Renuka Wetland | Himachal Pradesh |
+| 3. Rudrasagar Lake | Tripura |
+| 4. Sasthamkotta Lake | Tamil Nadu |
+How many pairs given above are correctly matched? [UPSC CSE Pre 2022]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) “If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.” Which one of the following functions of wetlands best reflects the above statement? [UPSC CSE Pre 2022]
+a) The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.
+b) Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.
+c) Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.
+d) Aquatic plants absorb heavy metals and excess nutrients.
+#QuestionEnd
+#AnswerStart
+Answer: d) Aquatic plants absorb heavy metals and excess nutrients.
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements: [UPSC CSE Pre. 2022]
+1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.
+2. Containers made of it can be used to store any alcoholic beverage.
+3. Bottles made of it can be recycled into other products.
+4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.
+Which of the statements given above are correct?
+a) 1 and 3
+b) 2 and 4
+c) 1 and 4
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrient to enter the cycle? [UPSC CSE Pre 2021]
+a) Carbon cycle
+b) Nitrogen cycle
+c) Phosphorus cycle
+d) Sulphur cycle
+#QuestionEnd
+#AnswerStart
+Answer: c) Phosphorus cycle
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following are detritivores?
+1. Earthworms
+2. Jellyfish
+3. Millipedes
+4. Seahorses
+5. Woodlice
+Select the correct answer using the code given below: [UPSC CSE Pre 2021]
+a) 1,2 and 4 only
+b) 2, 3, 4 and 5 only
+c) 1,3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Which of the following have species that can establish symbiotic relationship with other organisms?
+1. Cnidarians
+2. Fungi
+3. Protozoa
+Select the correct answer using the code given below: [UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) l,2and3only
+#QuestionEnd
+#AnswerStart
+Answer: d) l,2and3only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements: [UPSC CSE Pre. 2018]
+1. Most of the world’s coral reefs are in tropical waters.
+2. More than one-third of the world’s coral reefs are located in the territories of Australia, Indonesia and Philippines.
+3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1,2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss? [UPSC CSE Pre. 2018]
+1. Hard and waxy leaves
+2. Tiny leaves
+3. Thorns instead of leaves
+Select the correct answer using the codes given below:
+a) 2 and 3 only
+b) 2 only
+c) 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following statements best describes “carbon fertilization”? [UPSC CSE Pre. 2018]
+a) Increased plant growth due to increased concentration of carbon dioxide in the atmosphere.
+b) Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere.
+c) Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere.
+d) Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Increased plant growth due to increased concentration of carbon dioxide in the atmosphere.
+#AnswerEnd
+
+#QuestionStart
+Q10) Biological Oxygen Demand (BOD) is a standard criterion for [UPSC CSE Pre. 2017]
+a) Measuring oxygen levels in blood
+b) Computing oxygen levels in forest ecosystems
+c) Pollution assay in aquatic ecosystems
+d) Assessing oxygen levels in high altitude regions
+#QuestionEnd
+#AnswerStart
+Answer: c) Pollution assay in aquatic ecosystems
+#AnswerEnd
+
+#QuestionStart
+Q11) Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/ consequences? [ UPSC CSE Pre. 2017]
+1. Pollination of some plants could be adversely affected.
+2. There could be a drastic increase in the fungal infections of some cultivated plants.
+3. It could lead to a fall in the population of some species of wasps, spiders and birds.
+Select the correct using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following is the best description of the term ‘ecosystem’? [UPSC CSE Pre. 2015]
+a) A community of organisms interacting with one another
+b) That part of the Earth which is inhabited by living organisms
+c) A community of organisms together with the environment in which they live
+d) The flora and fauna of a geographical area
+#QuestionEnd
+#AnswerStart
+Answer: c) A community of organisms together with the environment in which they live
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to the food chains in ecosystems, which of the following kinds of organism is/are known as decomposer organism/organisms? [UPSC CSE Pre. 2013]
+1. Virus
+2. Fungi
+3. Bacteria
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) In the grasslands, trees do NOT replace the grasses as a part of an ecological succession because of: [UPSC CSE Pre. 2013]
+a) Insects and fungi
+b) Limited sunlight and paucity of nutrients
+c) Water limits and fire
+d) None of the abovess
+#QuestionEnd
+#AnswerStart
+Answer: c) Water limits and fire
+#AnswerEnd
+
+#QuestionStart
+Q15) On the planet earth, most of the freshwater exists as ice caps and glaciers. Out of the remaining freshwater, the largest proportion [UPSC CSE Pre. 2013]
+a) is found in atmosphere as moisture and clouds
+b) is found in freshwater lakes and rivers
+c) exists as groundwater
+d) exists as soil moisture
+#QuestionEnd
+#AnswerStart
+Answer: c) exists as groundwater
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to food chains in ecosystems, consider the following statements: [UPSC CSE Pre. 2013]
+1. A food chains illustrates the order in which a chain of organisms feed upon each other.
+2. Food chains are found within the populations of a species.
+3. A food chain illustrates the numbers of each organism which are eaten by others.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following organisms: [UPSC CSE Pre. 2013]
+1. Agaricus
+2. Nostoc
+3. Spirogyra
+Which of the above is/are used as biofertilizer/ biofertilizers?
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Which of the following adds/add nitrogen to the soil? [UPSC CSE Pre. 2013]
+1. Excretion of urea by animals
+2. Burning of coal by man
+3. Death of vegetation
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Which one of the following terms describes NOT only the physical space occupied by an organism, but also its functional role in the community of organisms? [UPSC CSE Pre. 2013]
+a) Ecotone
+b) Ecological niche
+c) Habitat
+d) Home range
+#QuestionEnd
+#AnswerStart
+Answer: b) Ecological niche
+#AnswerEnd
+
+#QuestionStart
+Q20) What would happen if phytoplankton of an ocean is completely destroyed for some reason? [UPSC CSE Pre. 2012]
+1. The ocean as a carbon sink would be adversely affected.
+2. The food chains in the ocean would be adversely affected.
+3. The density of ocean water would drastically decrease.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following kinds of organisms: [ UPSC CSE Pre. 2012]
+1. Bacteria
+2. Fungi
+3. Flowering plants
+Some species of which of the above kinds of organisms are employed biopesticides?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following kinds of organisms: [UPSC CSE Pre. 2012]
+1. Bat
+2. Bee
+3. Bird
+Which of the above is/are pollinating agent/ agents?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q23) The Millennium Ecosystem Assessment describes the following major categories of ecosystem services—provisioning, supporting, regulating, preserving and cultural. Which one of the following is supporting service? [UPSC CSE Pre. 2012]
+a) Production of food and water
+b) Control of climate and disease
+c) Nutrient cycling and crop pollination
+d) Maintenance of diversity
+#QuestionEnd
+#AnswerStart
+Answer: c) Nutrient cycling and crop pollination
+#AnswerEnd
+
+#QuestionStart
+Q24) In the context of ecosystem productivity, marine upwelling zones are important as they increase the marine productivity by bringing the [ UPSC CSE Pre. 2011]
+1. Decomposer microorganism to the surface.
+2. Nutrients to the surface.
+3. Bottom-dwelling organisms to the surface.
+Which of the statements given above is/are correct?
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q25) If a tropical rain forest is removed, it does NOT regenerate quickly as compared to a tropical deciduous forest. This is because [UPSC CSE Pre. 2011]
+a) The soil of rain forest is deficient in nutrients
+b) Propagules of the trees in a rain forest have poor viability
+c) The rain forest species are slow growing
+d) Exotic species invade the fertile soil of rain forest
+#QuestionEnd
+#AnswerStart
+Answer: a) The soil of rain forest is deficient in nutrients
+#AnswerEnd
+
+#QuestionStart
+Q26) Within biological communities, some species are important in determining the ability of a large number of other species to persist in the community. Such species are called: [UPSC CSE (Pre) 2000]
+a) Keystone species
+b) Allopatric species
+c) Sympatric species
+d) Threatened species
+#QuestionEnd
+#AnswerStart
+Answer: a) Keystone species
+#AnswerEnd
+
+#QuestionStart
+Q27) Which one of the following organisms is likely to show the highest concentration of DDT, once it has been introduced into the ecosystem? [UPSC CSE (Pre) 1997]
+a) Grasshopper
+b) Toad
+c) Snake
+d) Cattle
+#QuestionEnd
+#AnswerStart
+Answer: c) Snake
+#AnswerEnd
+
+#QuestionStart
+Q28) Which one of the following is the best strategy for environment-friendly sustainable development in Indian agriculture? [UPSC(Pre) 1993]
+a) Expansion of cultivable land, increased use of super-phosphate, urea and effective biocides
+b) Wider popularization of high-yielding crop varieties, better aid, more frequent irrigation and increased frequency of aerial span of inorganic fertilizers and pesticides
+c) Mixed cropping, organic manures, nitrogen-fixing plants and pest-resistant crop varieties
+d) Improved farm implements and machinery, use of potent insecticides to minimize post-harvest grain losses and monoculture cropping practices
+#QuestionEnd
+#AnswerStart
+Answer: c) Mixed cropping, organic manures, nitrogen-fixing plants and pest-resistant crop varieties
+#AnswerEnd

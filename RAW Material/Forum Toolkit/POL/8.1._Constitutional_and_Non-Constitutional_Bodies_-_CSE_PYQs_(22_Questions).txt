@@ -1,0 +1,289 @@
+#QuestionStart
+Q1) Consider the following organizations/ bodies in India:
+1. The National Commission for Backward Classes
+2. The National Human Rights Commission
+3. The National Law Commission
+4. The National Consumer Disputes Redressal Commission
+How many of the above are constitutional bodies? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q2) In India, what is the role of the Coal Controller’s Organization (CCO)?
+1. CCO is the major source of coal Statistics in Government of India.
+2. It monitors progress of development of Captive Coal/ Lignite blocks.
+3. It hears any objection to the Government’s notification relating to acquisition of coal-bearing areas.
+4. It ensures that coal mining companies deliver the coal to end users in the prescribed time.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2022]
+a) 1, 2 and 3
+b) 3 and 4 only
+c) 1 and 2 only
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the “Tea Board” in India, consider the following statements:
+1. The Tea Board is a statutory body.
+2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.
+3. The Tea Board’s Head Office is situated in Bengaluru.
+4. The Board has overseas office at Dubai and Moscow.
+Which of the statements given above are correct? [UPSC CSE Pre. 2022]
+a) 1 and 3
+b) 2 and 4
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following? [UPSC CSE Pre. 2019]
+a) The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.
+b) The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.
+c) In the event of grave financial crisis in the country, the President of India can declare Financial Emergency without the counsel from the Cabinet.
+d) State Legislatures cannot make laws on certain matters without the concurrence of Union Legislature.
+#QuestionEnd
+#AnswerStart
+Answer: b) The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to the ‘Quality Council of India (QCI)’, consider the following statements:
+1. QCI was set up jointly by the Government of India and the Indian Industry.
+2. Chairman of QCI is appointed by the Prime Minister on the recommendations of the industry to the Government.
+Which of the above statements is/are correct? [UPSC CSE Pre. 2017]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: Attorney General of India can
+1. take part in the proceedings of the Lok Sabha
+2. be a member of a committee of the Lok Sabha
+3. speak in the Lok Sabha
+4. vote in the Lok Sabha
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2013]
+a) 1 only
+b) 2 and 4 only
+c) 1,2 and 3
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q7) In India, other than ensuring that public funds are used efficiently and for the intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)?
+1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency.
+2. CAG reports on the execution of projects or programmes by the ministries which are discussed by the Public Accounts Committee.
+3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances.
+4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2012]
+a) 1,2 and 4 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) According to the Constitution of India, it is the duty of the President of India to cause to be laid before the Parliament which of the following?
+1. The Recommendations of the Union Finance Commission
+2. The Report of the Public Accounts Committee
+3. The Report of the Comptroller and Auditor General
+4. The Report of the National Commission for Scheduled Castes
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1 only
+b) 2 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to the Finance Commission of India, which of the following statements is correct? [UPSC CSE Pre. 2011]
+a) It encourages the inflow of foreign capital for infrastructure development
+b) It facilitates the proper distribution of finances among the Public Sector Undertakings
+c) It ensures transparency in financial administration
+d) None of the statements (a), (b) and (c) given above is correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the statements (a), (b) and (c) given above is correct in this context
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements:
+The function(s) of the Finance Commission is/are-
+1. To allow the withdrawal of the money out of the Consolidated Fund of India.
+2. To allocate among the States the shares of ’ proceeds of taxes.
+3. To consider applications for grants-in-aid from States.
+4. To supervise and report on whether the Union and State Governments are levying taxes in accordance with the budgetary provisions.
+Which of these statements is/are correct? [UPSC CSE (Pre) 2003]
+a) Only 1
+b) 2 and 3
+c) 3 and 4
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q11) Who of the following shall causes every recommendation made by the Finance Commission to be laid before each House of the Parliament? [UPSC CSE (Pre) 2010]
+a) The President of India
+b) The Speaker of Lok Sabha
+c) The Prime Minister of India
+d) The Union Finance Minister
+#QuestionEnd
+#AnswerStart
+Answer: a) The President of India
+#AnswerEnd
+
+#QuestionStart
+Q12) The decision to disqualify the person declared convict by the Court to contest the elections has been made by- [UPSC CSE (Pre) 2009]
+a) The Government of India
+b) The Supreme Court
+c) The Election Commission
+d) The Parliament
+#QuestionEnd
+#AnswerStart
+Answer: d) The Parliament
+#AnswerEnd
+
+#QuestionStart
+Q13) Which of the following recommends the principles for sharing of revenues among the Union and the States? [UPSC CSE (Pre) 2002, Chhattisgarh P.C.S. (Pre) 2003]
+a) Finance Commission
+b) Inter-State Council
+c) Union Ministry of Finance
+d) Planning Commission
+#QuestionEnd
+#AnswerStart
+Answer: a) Finance Commission
+#AnswerEnd
+
+#QuestionStart
+Q14) The Dinesh Goswami Committee recommended: [UPSC CSE (Pre) 1997]
+a) The constitution of state-level election commission
+b) List system of election to the Lok Sabha
+c) Government funding of parliamentary elections
+d) A ban on the candidature of independent candidates for the parliamentary elections
+#QuestionEnd
+#AnswerStart
+Answer: c) Government funding of parliamentary elections
+#AnswerEnd
+
+#QuestionStart
+Q15) Proportional representation is not necessary for a country where: [UPSC CSE (Pre) 1997]
+a) There are no reserved constituencies
+b) a two-party system has developed
+c) the first-past-post system prevails
+d) there is a fusion of Presidential and Parliamentary forms of government
+#QuestionEnd
+#AnswerStart
+Answer: b) a two-party system has developed
+#AnswerEnd
+
+#QuestionStart
+Q16) Which one of the following is correct in respect of the commencement of the election process in India? [UPSC CSE (Pre) 1995]
+a) The recommendation for election is made by the Government, and the notification for election is issued by the Election Commission.
+b) The recommendation for election is made by the Election Commission, and the notification for election is issued by the Home Ministry at the Centre and Home Departments in the States.
+c) The recommendation for election is made by the Election Commission, and the notification for election is issued by the President and Governors of the States concerned.
+d) Both the exercises of making a recommendation for election and that of issuing a notification in respect of it are done by the Election Commission.
+#QuestionEnd
+#AnswerStart
+Answer: c) The recommendation for election is made by the Election Commission, and the notification for election is issued by the President and Governors of the States concerned.
+#AnswerEnd
+
+#QuestionStart
+Q17) If in an election to a State Legislative Assembly, the candidate who is declared elected loses his deposit, it means that- [UPSC CSE (Pre) 1995]
+a) The polling was very poor.
+b) The election was for a multi-member constituency.
+c) The elected candidate’s victory over his nearest rival was very marginal.
+d) A very large number of candidates contested.
+#QuestionEnd
+#AnswerStart
+Answer: d) A very large number of candidates contested.
+#AnswerEnd
+
+#QuestionStart
+Q18) Which one of the following statements regarding Exit Poll is correct? [UPSC CSE (Pre) 1994]
+a) Exit Poll is a term used to denote a postelection survey of voters regarding the candidates in whose favour they had exercised their franchise
+b) Exit Poll and Opinion Polls are one and the same
+c) Exit Poll is a device through which results of voting can be most exactly predicted
+d) Exit Poll is an administrative device made recently by the Chief Election Commissioner to prevent impersonation
+#QuestionEnd
+#AnswerStart
+Answer: a) Exit Poll is a term used to denote a postelection survey of voters regarding the candidates in whose favour they had exercised their franchise
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the election system have been adopted for different elections in India?
+1. Direct Election System on the basis of Adult Suffrage.
+2. System of Proportional representation by a Single Transferable Vote.
+3. List System of Proportional Representation.
+4. The cumulative Voting system of Indirect Election.
+Choose the correct answer from the given code. [UPSC CSE (Pre) 1994]
+a) 1 and 2
+b) 1 and 3
+c) 1, 2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q20) Which of the following are the functions of the Election Commission of India?
+1. To conduct elections for the post of Speaker and Deputy-speaker of Lok Sabha and the Deputy Chairman of Rajya Sabha.
+2. To conduct elections for the municipality and municipal corporations.
+3. To make a decision on all the doubts and disputes arising from the election.
+Select the correct answer from the code given below: [UPSC CSE (Pre) 1994]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q21) Who recommended to end Indian Administrative Services and Indian Police Services? [UPSC CSE (Pre) 1993]
+a) Dhebar Commission
+b) Kalelkar Commission
+c) Kher Commission
+d) Rajamannar Commission
+#QuestionEnd
+#AnswerStart
+Answer: d) Rajamannar Commission
+#AnswerEnd
+
+#QuestionStart
+Q22) The question considered by Swam Singh Committee was related to - [UPSC CSE (Pre) 1993]
+a) More autonomy for Punjab than Jammu and Kashmir.
+b) Suitability of President oriented governance for India.
+c) Priority to Directive Principles of State Policy in comparison to fundamental rights.
+d) Administrative reform.
+#QuestionEnd
+#AnswerStart
+Answer: c) Priority to Directive Principles of State Policy in comparison to fundamental rights.
+#AnswerEnd

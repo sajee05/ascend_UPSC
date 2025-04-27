@@ -1,0 +1,275 @@
+#QuestionStart
+Q1) Consider the following statements: (2024)
+Statement-I: Giant stars live much longer than dwarf stars.
+Statement-II: Compared to dwarf stars, giant stars have a greater rate of nuclear reactions.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-1
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement I is correct, but Statement II is incorrect
+d) Statement I is incorrect, but Statement II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement I is incorrect, but Statement II is correct
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following pairs: (2023)
+| Objects in space | Description |
+|---|---|
+| 1. Cepheids : | Giant clouds of dust and gas in space |
+| 2. Nebulae : | Stars which brighten and dim periodically |
+| 3. Pulsars : | Neutron stars that are formed when massive stars run out of fuel and collapse |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following statements best reflects the idea behind the “Fractional Orbital Bombardment System” often talked about in the media? (2022)
+a) A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.
+b) A spacecraft lands on another planet after making several orbital motions.
+c) A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.
+d) A spacecraft moves along a comet with the same speed and places a probe on its surface.
+#QuestionEnd
+#AnswerStart
+Answer: c) A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.
+#AnswerEnd
+
+#QuestionStart
+Q4) The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometers long, with lasers shining between the craft.” The experiment in question refers to (2020)
+a) Voyager-2
+b) New Horizons
+c) LISA Pathfinder
+d) Evolved LISA
+#QuestionEnd
+#AnswerStart
+Answer: d) Evolved LISA
+#AnswerEnd
+
+#QuestionStart
+Q5) For the measurement/estimation of which of the following are satellite images and remote sensing data is used? (2019)
+1. Chlorophyll content in the vegetation of a specific location.
+2. Greenhouse gas emission from rice paddies of a specific location.
+3. Land surface temperature of a specific location.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q6) Recently, scientists observed the merger of giant ‘blackholes’ billions of light- years away from the Earth. What is the significance of this observation? (2019)
+a) ‘Higgs boson particles’ were detected.
+b) ‘Gravitational waves’ were detected.
+c) Possibility of intergalactic space travel through ‘wormhole’ was confirmed.
+d) It enabled scientists to understand ‘singularity’.
+#QuestionEnd
+#AnswerStart
+Answer: b) ‘Gravitational waves’ were detected.
+#AnswerEnd
+
+#QuestionStart
+Q7) In which of the following areas, can GPS technology be used? (2018)
+1. Mobile phone operations
+2. Banking operations
+3. Controlling the power grids
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following phenomena: (2018)
+1. Light is affected by gravity.
+2. The Universe is constantly expanding.
+3. Matter warps its surrounding space- time.
+Which of the above is/are the predictions/ predictions of Albert Einstein's General Theory of Relativity, often discussed in the media?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to India’s satellite launch vehicles, consider the following statements: (2018)
+1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.
+2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.
+3. GSLV Mk III is a four-staged launch vehicle with the first and third stages l using solid rocket motors; and the second and fourth stages using liquid rocket engines.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 2 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements: (2018)
+1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.
+2. IRNSS covers the entire India and about 5500 sq. km beyond its borders.
+3. India will have its own satellite navigation system with full global coverage by the middle of 2021.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to ‘AstroSat’, the astronomical observatory launched by India, which of the following statements is/are correct? (2016)
+1. Other than the USA and Russia, India is the only country to have launched a similar observatory into space.
+2. AstroSat is a 2000 kg satellite placed in an orbit at 1650 km above the surface of the Earth.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements: (2016)
+The Mangalyaan launched by ISRO
+1. is also called the Mars Orbiter Mission
+2. made India the second country to have a spacecraft orbit the Mars after USA
+3. made India the only country to be successful in making its spacecraft orbit the Mars in its very first attempt
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) In which of the following activities are Indian Remote Sensing (IRS) satellites used? (2015)
+1. Assessment of crop productivity
+2. Locating groundwater resources
+3. Mineral exploration
+4. Telecommunications
+5. Traffic studies
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 4 and 5 only
+c) 1 and 2 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) The term ‘Goldilocks Zone’ is often seen in the news in the context of (2015)
+a) the limits of habitable zone above the surface of the Earth
+b) regions inside the Earth-like planets in outer space
+c) search for the Earth-like planets in outer space
+d) search for meteorites containing precious metals
+#QuestionEnd
+#AnswerStart
+Answer: c) search for the Earth-like planets in outer space
+#AnswerEnd
+
+#QuestionStart
+Q15) In the context of modern scientific research, consider the following statements about ‘IceCube’, a particle detector located at South Pole, which was recently in the news: (2015)
+1. It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice.
+2. It is a powerful telescope to search for dark matter.
+3. It is buried deep in the ice.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following pairs is/are correctly matched? (2014)
+| Spacecraft | Purpose |
+|---|---|
+| 1. Cassini- Huygens | Orbiting the Venus and transmitting data to the Earth |
+| 2. Messenger | Mapping and investigating the Mercury |
+| 3. Voyager 1 and 2 | Exploring the outer solar system |
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) A team of scientists at Brookhaven National Laboratory including those from India created the heaviest antimatter (anti-helium nucleus). What is/are the implication/ implications of the creation of antimatter? (2012)
+1. It will make mineral prospecting and oil exploration easier and cheaper.
+2. It will help probe the possibility of the existence of stars and galaxies made of antimatter.
+3. It will help understand the evolution of the universe.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of the universe? (2012)
+1. Detection of microwaves in space
+2. Observation of redshift phenomenon in space
+3. Movement of asteroids in space
+4. Occurrence of supernova explosions in space
+Select the correct answer using the code given below:
+a) 1 and 2
+b) 2 only
+c) 1, 3 and 4
+d) None of the above can be cited as evidence
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q19) Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such as orbit when: (2011)
+1. The orbit is geosynchronous.
+2. The orbit is circular.
+3. The orbit lies in the plane of the earth’s equator.
+4. The orbit is at an altitude of 22,236 km.
+Which the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd

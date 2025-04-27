@@ -1,0 +1,328 @@
+#QuestionStart
+Q1) In the Government of India Act 1919, the functions of Provincial Government were divided into “Reserved” and “Transferred” subjects. Which of the following were treated as “Reserved” subjects? (2022)
+1. Administration of Justice
+2. Local Self-Government
+3. Land Revenue
+4. Police
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2021)
+1. The Montagu-Chelmsford Reforms of 1919 recommended granting voting rights to all women above the age of 21.
+2. The Government of India Act of 1935 gave women reserved seats in the legislature.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Who among the following is associated with ‘Songs from Prison’, a translation of ancient Indian religious lyrics in English? (2021)
+a) Bal Gangadhar Tilak
+b) Jawaharlal Nehru
+c) Mohandas Karamchand Gandhi
+d) Sarojini Naidu
+#QuestionEnd
+#AnswerStart
+Answer: c) Mohandas Karamchand Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q4) The Gandhi-Irwin Pact included which of the following? (2020)
+1. Invitation to Congress to participate in the Round Table Conference
+2. Withdrawal of Ordinances promulgated in connection with the Civil Disobedience Movement
+3. Acceptance of Gandhi’s suggestion for enquiry into police excesses
+4. Release of only those prisoners who were not charged with violence
+Select the correct answer using the code given below:
+a) 1 only
+b) 1, 2 and 4 only
+c) 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to the British colonial rule in India, consider the following statements: (2019)
+1. Mahatma Gandhi was instrumental in the abolition of the system of ‘indentured labour’.
+2. In Lord Chelmsford’s ‘War Conference’, Mahatma Gandhi did not support the resolution on recruiting Indians for World War.
+3. Consequent upon the breaking of Salt Law by Indian people, the Indian National Congress was declared illegal by the colonial rulers.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the Swadeshi Movement, consider the following statements: (2019)
+1. It contributed to the revival of the indigenous artisan crafts and industries.
+2. The National Council of Education was established as a part of the Swadeshi Movement.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following is a very significant aspect of the Champaran Satyagraha? (2018)
+a) Active all-India participation of lawyers, students and women in the National Movement
+b) Active involvement of Dalit and Tribal communities of India in the National Movement
+c) Joining of peasant unrest to India's National Movement
+d) Drastic decrease in the cultivation of plantation crops and commercial crops
+#QuestionEnd
+#AnswerStart
+Answer: c) Joining of peasant unrest to India's National Movement
+#AnswerEnd
+
+#QuestionStart
+Q8) In 1920, which of the following changed its name to "Swarajya Sabha"? (2018)
+a) All India Home Rule League
+b) Hindu Mahasabha
+c) South Indian Liberal Federation
+d) The Servants of India Society
+#QuestionEnd
+#AnswerStart
+Answer: a) All India Home Rule League
+#AnswerEnd
+
+#QuestionStart
+Q9) In the federation established by the Government of India Act of 1935, residuary powers given to the (2018)
+a) Federal Legislature
+b) Governor General
+c) Provincial Legislature
+d) Provincial Governors
+#QuestionEnd
+#AnswerStart
+Answer: b) Governor General
+#AnswerEnd
+
+#QuestionStart
+Q10) The Trade Disputes Act of 1929 provided for (2017)
+a) The participation of workers in the management of industries.
+b) Arbitrary powers to the management to quell industrial disputes.
+c) An intervention by the British Court in the event of a trade dispute.
+d) A system of tribunals and a ban on strikes.
+#QuestionEnd
+#AnswerStart
+Answer: d) A system of tribunals and a ban on strikes.
+#AnswerEnd
+
+#QuestionStart
+Q11) In the context of Indian history, the principle of `Dyarchy (diarchy)’ refers to (2017)
+a) Division of the central legislature into two houses.
+b) Introduction of double government, i.e., Central and State governments.
+c) Having two sets of rulers, one in London and another in Delhi.
+d) Division of the subjects delegated to the provinces into two categories.
+#QuestionEnd
+#AnswerStart
+Answer: d) Division of the subjects delegated to the provinces into two categories.
+#AnswerEnd
+
+#QuestionStart
+Q12) The object of the Butler Committee of 1927 was to? (2017)
+a) Define the jurisdiction of the Central and Provincial Governments.
+b) Define the powers of the Secretary of State for India.
+c) Impose censorship on the national press.
+d) Improve the relationship between the Government of India and the Indian States.
+#QuestionEnd
+#AnswerStart
+Answer: d) Improve the relationship between the Government of India and the Indian States.
+#AnswerEnd
+
+#QuestionStart
+Q13) The Montague-Chelmsford Proposals were related to (2016)
+a) Social reforms
+b) Education reforms
+c) Reforms in public administration
+d) Constitutional reforms
+#QuestionEnd
+#AnswerStart
+Answer: d) Constitutional reforms
+#AnswerEnd
+
+#QuestionStart
+Q14) The Government of India Act of 1919 clearly defined (2015)
+a) the separation of power between the judiciary and the legislature
+b) the jurisdiction of the central and provincial governments
+c) the powers of the Secretary of State for India and the Viceroy
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) the jurisdiction of the central and provincial governments
+#AnswerEnd
+
+#QuestionStart
+Q15) Who of the following organised a march on the Tanjore coast to break the Salt Law in April 1930? (2015)
+a) V.O Chidambaram Pillai
+b) C. Rajagopalachari
+c) K. Kamaraj
+d) Annie Besant
+#QuestionEnd
+#AnswerStart
+Answer: b) C. Rajagopalachari
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to Rowlatt Satyagraha, which of the following statements is/are correct? (2015)
+1. The Rowlatt Act was based on the recommendations of the ‘Sedition Committee’.
+2. In Rowlatt Satyagraha Gandhiji tried to use the Home Rule League.
+3. Demonstrations against the Simon Commission coincided with the Rowlatt Satyagraha.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q17) With reference to the Congress Socialist Party, consider the following statements: (2015)
+1. It advocated the boycott of British goods and evasion of taxes.
+2. It wanted to establish the dictatorship of the proletariat.
+3. It advocated separate electorate for minorities and oppressed classes.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q18) The 1929 Session of Indian National Congress is of significance in the history of the Freedom Movement because the (2014)
+a) attainment of Self-Government was declared as the objective of the Congress
+b) attainment of Poorna Swaraj was adopted as the goal of the Congress
+c) Non-Cooperation Movement was launched
+d) decision to participate in the Round Table Conference in London was taken
+#QuestionEnd
+#AnswerStart
+Answer: b) attainment of Poorna Swaraj was adopted as the goal of the Congress
+#AnswerEnd
+
+#QuestionStart
+Q19) The people of India agitated against the arrival of the Simon Commission because (2013)
+a) Indians never wanted the review of the working of the Act of 1919
+b) Simon Commission recommended the abolition of Dyarchy (Diarchy) in the provinces
+c) there was no Indian member in the Simon Commission
+d) the Simon Commission suggested the partition of the country
+#QuestionEnd
+#AnswerStart
+Answer: c) there was no Indian member in the Simon Commission
+#AnswerEnd
+
+#QuestionStart
+Q20) Which of the following is/are the principal feature(s) of the Government of India Act, 1919? (2012)
+1. Introduction of diarchy in the executive government of the provinces
+2. Introduction of separate communal electorates for Muslims
+3. Devolution of legislative authority by the center to the provinces
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q21) The Rowlatt Act aimed at: (2012)
+a) Compulsory economic support to war efforts.
+b) Imprisonment without trial and summary procedures for trial.
+c) Suppression of the Khilafat Movement.
+d) Imposition of restrictions on freedom of the press.
+#QuestionEnd
+#AnswerStart
+Answer: b) Imprisonment without trial and summary procedures for trial.
+#AnswerEnd
+
+#QuestionStart
+Q22) The Lahore Session of the Indian National Congress (1929) is very important in history, because (2012)
+1. The Congress passed a resolution demanding complete independence.
+2. The rift between the extremists and moderates was resolved in that Session.
+3. A resolution was passed rejecting the two-nation theory in that Session.
+Which of the statement(s) given above is/ are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q23) The Congress ministries resigned in the seven provinces in 1939, because (2012)
+a) The Congress could not form ministries in the other four provinces.
+b) Emergence of a ‘left wing’ in the Congress made the working of the ministries impossible.
+c) There were widespread communal disturbances in their provinces.
+d) None of the statements (a), (b) and (c) given above is correct.
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the statements (a), (b) and (c) given above is correct.
+#AnswerEnd
+
+#QuestionStart
+Q24) Mahatma Gandhi said that some of his deepest convictions were reflected in a book titled, “Unto this Last” and the book transformed his life. What was the message from the book that transformed Mahatma Gandhi? (2011)
+a) Uplifting the oppressed and poor is the moral responsibility of an educated man
+b) The good of individual is contained in the good of all
+c) The life of celibacy and spiritual pursuit are essential for a noble life
+d) All the statements (a), (b) and (c) a r e correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: b) The good of individual is contained in the good of all
+#AnswerEnd
+
+#QuestionStart
+Q25) With reference to the period of India freedom struggle, which of the following was/were recommended by the Nehru Report? (2011)
+1. Complete Independence for India.
+2. Joint electorates for reservation of seats for minorities.
+3. Provision of fundamental rights for the people of India in the Constitution.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q26) What was the reason for Mahatma Gandhi to organise a satyagraha on behalf of the peasants of Kheda? (2011)
+1. The Administration did not suspend the land revenue collection in spite of a drought.
+2. The Administration proposed to introduce Permanent Settlement in Gujarat.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd

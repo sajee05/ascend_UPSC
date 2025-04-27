@@ -1,0 +1,477 @@
+#QuestionStart
+Q1) Consider the following:
+1. Demographic performance
+2. Forest and ecology
+3. Governance reforms
+4. Stable government
+5. Tax and fiscal efforts
+For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance? [UPSC CSE Pre. 2023]
+a) Only two
+b) Only three
+c) Only four
+d) All five
+#QuestionEnd
+#AnswerStart
+Answer: b) Only three
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following situations best reflects “Indirect Transfers” often talked about in media recently with reference to India? [UPSC CSE Pre. 2022]
+a) An Indian company investing in a foreign enterprise and paying taxes to the foreign country on the profits arising out of its investment
+b) A foreign company investing in India and paying taxes to the country of its base on the profits arising out of its investment
+c) An Indian company purchases tangible assets in a foreign country and sells such assets after their value increases and transfers the proceeds to India
+d) A foreign company transfers shares and such shares derive their substantial value from assets located in India
+#QuestionEnd
+#AnswerStart
+Answer: d) A foreign company transfers shares and such shares derive their substantial value from assets located in India
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct? [UPSC CSE Pre. 2022]
+1. Acquiring new technology is capital expenditure.
+2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to the Indian economy, consider the following statements: [UPSC CSE Pre. 2022]
+1. A share of the household financial savings goes towards government borrowings.
+2. Dated securities issued at market-related rates in auctions form a large component of internal debt.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following effects of creation of black money in India has been main cause of worry to the Government of India? [UPSC CSE Pre 2021]
+a) Diversion of resources to the purchase of real estate and investment in luxury housing
+b) Investment in unproductive activities and purchase of precious stones, jewellery, gold, etc.
+c) Large donations to political parties and growth of regionalism
+d) Loss of revenue to the State Exchequer due to tax evasion
+#QuestionEnd
+#AnswerStart
+Answer: d) Loss of revenue to the State Exchequer due to tax evasion
+#AnswerEnd
+
+#QuestionStart
+Q6) Along with the Budget, the Finance Minister also places other documents before the Parliament which include ‘The Macro Economic Framework Statement’. The aforesaid document is presented because this is mandated by [UPSC CSE Pre. 2020]
+a) Long standing parliamentary convention
+b) Article 112 and Article 110(1) of the Constitution of India
+c) Article 113 of the Constitution of India
+d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#QuestionEnd
+#AnswerStart
+Answer: d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#AnswerEnd
+
+#QuestionStart
+Q7) If another global financial crisis happens in the near future, which of the following action/policies are most likely to give some immunity to India?
+1. Not depending on short-term foreign borrowings
+2. Opening up to more foreign banks
+3. Maintaining full capital account convertibility
+Select the correct answer using the code given below: [UPSC CSE Pre. 2020]
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the governance of public sector banking in India, consider the following statements:
+1, Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.
+2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2018]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) If a commodity is provided free to the public by the Government, then [UPSC CSE Pre. 2018]
+a) the opportunity cost is zero.
+b) the opportunity cost is ignored.
+c) the opportunity cost is transferred from the consumers of the product to the taxpaying public.
+d) the opportunity cost is transferred from the consumers of the product to the Government.
+#QuestionEnd
+#AnswerStart
+Answer: c) the opportunity cost is transferred from the consumers of the product to the taxpaying public.
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to India’s decision to levy an equalization tax of 6% on online advertisement services offered by nonresident entities, which of the following statements is/are correct?
+1. It is introduced as a part of the Income Tax Act.
+2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the “Double Taxation Avoidance Agreements”.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2018]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following items:
+1. Cereal grains hulled
+2. Chicken eggs cooked
+3. Fish processed and canned
+4. Newspapers containing advertising material
+Which of the above items is/are exempted under GST (Goods and Services Tax)? [UPSC CSE Pre. 2018]
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q12) What is/are the most likely advantages of implementing ‘Goods and Services Tax (GST)’?
+1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.
+2. It will drastically reduce the ‘Current Account Deficit’ of India and will enable it to increase its foreign exchange reserves.
+3. It will enormously increase the growth and size of economy of India and will enable it to overtake China in the near future.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2017]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements:
+1. Tax revenue as a percent of GDP of India has steadily increased in the last decade.
+2. Fiscal deficit as a percent of GDP of India has steadily increased in the last decade.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2017]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q14) Which of the following is/are included in the capital budget of the Government of India?
+1. Expenditure on acquisition of assets like roads, buildings, machinery, etc.
+2. Loans received from foreign governments
+3. Loans and advances granted to the States and Union Territories
+Select the correct answer using the code given below. [UPSC CSE Pre. 2016]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to ‘Financial Stability and Development Council’, consider the following statements:
+1. It is an organ of NITI Aayog.
+2. It is headed by the Union Finance Minister.
+3. It monitors macroprudential supervision of the economy.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2016]
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to the Fourteenth Finance Commission, which of the following statements is/are correct?
+1. It has increased the share of States in the central divisible pool from 32 percent to 42 percent.
+2. It has made recommendations concerning sector-specific grants.
+Select the correct answer using the code given below. [UPSC CSE Pre. 2015]
+a) 1 only
+b) 2 only
+c) Both land 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q17) A decrease in tax to GDP ratio of a country indicates which of the following?
+1. Slowing economic growth rate.
+2. Less equitable distribution of national income.
+Select the correct answer using the codes given below. [UPSC CSE Pre. 2015]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q18) There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit?
+1. Reducing revenue expenditure
+2. Introducing new welfare schemes
+3. Rationalizing subsidies
+4. Expanding industries
+Select the correct answer using the code given below. [UPSC CSE Pre. 2015]
+a) 1 and 3 only
+b) 2 and 3 only
+c) 1 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to Union Budget, which of the following is/are covered under NonPlan Expenditure?
+1. Defence expenditure
+2. Interest payments
+3. Salaries and pensions
+4. Subsidies
+Select the correct answer using the code given below. [UPSC CSE Pre. 2014]
+a) 1 only
+b) 2 and 3 only
+c) 1, 2, 3 and 4
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q20) In India, deficit financing is used for raising resources for [UPSC CSE Pre. 2013]
+a) economic development
+b) redemption of public debt
+c) adjusting the balance of payments
+d) reducing the foreign debt
+#QuestionEnd
+#AnswerStart
+Answer: a) economic development
+#AnswerEnd
+
+#QuestionStart
+Q21) Under which of the following circumstances may ‘capital gains ‘arise?
+1. when there is an increase in the sales of a product.
+2. when there is a natural increase in the value of the property owned.
+3. when you purchase a painting and there is a growth in its value due to increase in its popularity.
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Which one of the following statements appropriately describes the “fiscal stimulus”? [UPSC CSE Pre. 2011]
+a) It is a massive investment by the Government in manufacturing sector to ensure the supply of goods to meet the demand surge caused by rapid economic growth
+b) It is an intense affirmative action of the Government to boost economic activity in the country
+c) It is Government’s intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation
+d) It is an extreme affirmative action by the Government to pursue its policy of financial inclusion
+#QuestionEnd
+#AnswerStart
+Answer: b) It is an intense affirmative action of the Government to boost economic activity in the country
+#AnswerEnd
+
+#QuestionStart
+Q23) Why is the Government of India disinvesting its equity in the Central Public Sector Enterprises (CPSEs)?
+1. The Government intends to use the revenue earned-from the disinvestment mainly to pay back the external debt.
+2. The Government no longer intends to retain the management control of the CPSEs.
+Which of the statements given, above is/are correct? [UPSC CSE Pre. 2011]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q24) What is the difference between “vote-on-account” and “interim budget”?
+1. The provision of a "vote-on-account” is used by a regular Government, while an "interim budget” is a provision used by a caretaker Government
+2. A “vote-on-account” only deals with the expenditure in Government budget, while an “interim budget” includes both expenditure and receipts.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2011]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q25) Which one of the following is responsible for the preparation and presentation of Union Budget to the Parliament? [UPSC CSE Pre 2010]
+a) Department of Revenue
+b) Department of Economic Affairs
+c) Department of Financial Services
+d) Department of Expenditure
+#QuestionEnd
+#AnswerStart
+Answer: b) Department of Economic Affairs
+#AnswerEnd
+
+#QuestionStart
+Q26) Consider the following actions by the government:
+1. Cutting the tax rates
+2. Increasing the government spending
+3. Abolishing the subsidies
+In the context of economic recession, which of the above actions can be considered a part of the ‘fiscal stimulus’ package? [UPSC CSE Pre 2010]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q27) In the context of governance, consider the following:
+1. Encouraging Foreign Direct Investment inflows
+2. Privatization of higher educational institutions
+3. Down-sizing of bureaucracy
+4. Selling/offloading the shares of Public Sector Undertakings
+Which of the above can be used as measures to control the fiscal deficit in India? [UPSC CSE Pre 2010]
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1,2 and 4
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following:
+I. Fringe Benefit Tax
+2. Interest Tax
+3. Security Transaction Tax
+Which of the above is/are Direct Tax/Taxes? [UPSC CSE Pre 2009]
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q29) In the context of independent India’s economy, which one of the following was the earliest event to take place? [UPSC CSE Pre. 2009]
+a) Nationalization, of Insurance companies
+b) Nationalization of State Bank of India
+c) Enactment of Banking Regulation Act
+d) Introduction of First Five-Year Plan
+#QuestionEnd
+#AnswerStart
+Answer: c) Enactment of Banking Regulation Act
+#AnswerEnd
+
+#QuestionStart
+Q30) Match List I with List II and select the correct answer using the codes given below the lists:
+| List I; (Term) | List II (Explanation) |
+|---|---|
+| A. Fiscal deficit | 1. Excess of Total Expenditure over Total Receipts |
+| B. Budget deficit | 2. Excess of Revenue Expenditure over Revenue Receipts |
+| C. Revenue deficit | 3. Excess of Total Expenditure over Total Receipts less borrowings |
+| D. Primary deficit | 4. Excess of Total Expenditure over Total Receipts less borrowings and Interest Payments |
+Select the correct answer from the codes given below: [UPSCCSE Pre 2001]
+a) A3, B1, C2, D4
+b) A4, B3, C2, D1
+c) A1, B3, C2, D4
+d) A3, B1, C4, D2
+#QuestionEnd
+#AnswerStart
+Answer: a) A3, B1, C2, D4
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following taxes:
+1. Corporation tax
+2. Customs duty
+3. Wealth tax
+4. Excise duty
+Which of these is/are indirect taxes? [UPSCCSE Pre 2001]
+a) 1 only
+b) 2 and 4
+c) 1 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q32) Which one of the following statements regarding the levying, collecting and distribution of Income Tax is correct? [UPSC CSE Pre 1999]
+a) The Union levies, collects and distributes the proceeds of income tax between itself and the States
+b) The Union levies, collects and keeps all the proceeds of income tax to itself
+c) The Union levies and collects the tax but all the proceeds are distributed among the States
+d) Only the surcharge levied on income tax is shared between the Union and the States
+#QuestionEnd
+#AnswerStart
+Answer: a) The Union levies, collects and distributes the proceeds of income tax between itself and the States
+#AnswerEnd
+
+#QuestionStart
+Q33) Economic Survey of India is published officially, every year by the: [UPSC CSE Pre 1998]
+a) Reserve Bank of India
+b) Planning Commission of India
+c) Ministr y of Finance, Govt, of India
+d) Ministry of Industries, Govt, of India
+#QuestionEnd
+#AnswerStart
+Answer: c) Ministr y of Finance, Govt, of India
+#AnswerEnd
+
+#QuestionStart
+Q34) A redistribution of income in a country can be best brought about through: [UPSC CSE Pre 1996]
+a) progressive taxation combined with progressive expenditure
+b) progressive taxation combined with regressive expenditure
+c) regressive taxation combined with regressive expenditure
+d) regressive taxation combined with progressive expenditure
+#QuestionEnd
+#AnswerStart
+Answer: a) progressive taxation combined with progressive expenditure
+#AnswerEnd
+
+#QuestionStart
+Q35) Corporation tax: [UPSC CSE Pre 1995]
+a) is levied and appropriated by the States
+b) is levied by the Union and collected and appropriated by the States
+c) is levied by the Union and shared by the Union and the States
+d) is levied by the Union and belongs to it exclusively
+#QuestionEnd
+#AnswerStart
+Answer: d) is levied by the Union and belongs to it exclusively
+#AnswerEnd

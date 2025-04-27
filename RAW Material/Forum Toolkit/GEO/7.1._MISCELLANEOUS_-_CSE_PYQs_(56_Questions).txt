@@ -1,0 +1,758 @@
+#QuestionStart
+Q1) Which one of the following is a part of the Congo Basin? [UPSC CSE Pre 2023]
+a) Cameroon
+b) Nigeria
+c) South Sudan
+d) Uganda
+#QuestionEnd
+#AnswerStart
+Answer: a) Cameroon
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following pairs:
+| Area of conflict mentioned in news | Country where it is located |
+|---|---|
+| 1. Donbas | Syria |
+| 2. Kachin | Ethiopia |
+| 3. Tigray | North Yemen |
+How many of the above pairs are correctly matched? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following countries
+1. Bulgaria
+2. Czech Republic
+3. Hungary
+4. Latvia
+5. Lithuania
+6. Romania
+How many of the above countries share a land border with Ukraine? [UPSC CSE Pre 2023]
+a) Only two
+b) Only three
+c) Only four
+d) Only five
+#QuestionEnd
+#AnswerStart
+Answer: a) Only two
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following countries:
+1. Azerbaijan
+2. Kyrgyzstan
+3. Tajikistan
+4. Turkmenistan
+5. Uzbekstan
+Which of the above have borders with Afghanistan? [UPSC CSE Pre 2022]
+a) 1,2 and 5 only
+b) 1, 2, 3 and 4 only
+c) 3, 4 and 5 only
+d) 1,2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 3, 4 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following pairs:
+| Region often mentioned in the news | Country |
+|---|---|
+| 1. Anatolia | Turkey |
+| 2. Amhara | Ethiopia |
+| 3. Cabo Delgado | Spain |
+| 4. Catalonia | Italy |
+How many of the above pairs are correctly matched? [UPSC CSE Pre 2022]
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following pairs: [UPSC CSE Pre. 2020]
+| River | Flows into |
+|---|---|
+| 1. Mekong | Andaman Sea |
+| 2. Thames | Irish Sea |
+| 3. Volga | Caspian Sea |
+| 4. Zambezi | Indian Ocean |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 3 and 4 only
+d) 1, 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following pairs: [UPSC CSE Pre. 2019]
+| Sea | Bordering country |
+|---|---|
+| 1. Adriatic Sea | Albania |
+| 2. Black Sea | Croatia |
+| 3. Caspian Sea | Kazakhstan |
+| 4. Mediterranean Sea | Morocco |
+| 5. Red Sea | Syria |
+Which of the pairs given above are correctly matched?
+a) 1,2 and 4 only
+b) 1,3 and 4 only
+c) 2 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following pairs: [UPSC CSE Pre. 2018]
+| Regions sometimes mentioned in news | Country |
+|---|---|
+| 1. Catalonia | Spain |
+| 2. Crimea | Hungary |
+| 3. Mindanao | Philippines |
+| 4. Oromia | Nigeria |
+Which of the pair given above are correctly matched?
+a) 1,2 and 3
+b) 3 and 4 only
+c) 1 and 3 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following pairs: [UPSC CSE Pre. 2018]
+| Towns sometimes, mentioned in news | Country |
+|---|---|
+| 1. Aleppo | Arabia |
+| 2. Kirkuk | Yemen |
+| 3. Mosul | Palestine |
+| 4. Mazar-i-sharif | Afghanistan |
+Which of the pairs given above are correctly matched?
+a) 1 and 2
+b) 1 and 4
+c) 2 and 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 4 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q10) Which of the following is geographically closest to Great Nicobar? [UPSC CSE Pre. 2017]
+a) Sumatra
+b) Borneo
+c) Java
+d) Sri Lanka
+#QuestionEnd
+#AnswerStart
+Answer: a) Sumatra
+#AnswerEnd
+
+#QuestionStart
+Q11) Mediterranean Sea is a border of which of the following countries? [UPSC CSE Pre. 2017]
+1. Jordan
+2. Iraq
+3. Lebanon
+4. Syria
+Select the correct answer using the code given below.
+a) 1, 2 and 3
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q12) If you travel by road from Kohima to Kottayam, what is the minimum number of States within India through which you can travel, including the origin and the destination? [UPSC CSE Pre 2017]
+a) 6
+b) 7
+c) 8
+d) 9
+#QuestionEnd
+#AnswerStart
+Answer: b) 7
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea? [UPSC CSE Pre. 2015]
+a) Syria
+b) Jordan
+c) Lebanon
+d) Israel
+#QuestionEnd
+#AnswerStart
+Answer: b) Jordan
+#AnswerEnd
+
+#QuestionStart
+Q14) Turkey is located between [UPSC CSE Pre. 2014]
+a) Black Sea and Caspian Sea
+b) Black Sea and Mediterranean Sea
+c) Gulf of Suez and Mediterranean Sea
+d) Gulf of Aqaba and Dead Sea
+#QuestionEnd
+#AnswerStart
+Answer: b) Black Sea and Mediterranean Sea
+#AnswerEnd
+
+#QuestionStart
+Q15) What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north? [UPSC CSE Pre. 2014]
+1. Bangkok
+2. Hanoi
+3. Jakarta
+4. Singapore
+Select the correct answer using the code given below:
+a) 4-2-1-3
+b) 3-2-4-1
+c) 3-4-1-2
+d) 4-3-2-1
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-4-1-2
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following pairs:
+| National Highway | Cities Connected |
+|---|---|
+| 1. NH4 | Chennai and Hyderabad |
+| 2. NH6 | Mumbai and Kolkata |
+| 3. NH 15 | Ahmedabad and Jodhpur |
+Which of the above pairs is/are correctly matched? [UPSC CSE Pre 2014]
+a) 1 and 2 only
+b) 3 only
+c) 1,2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q17) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Geographic Feature) | List-II (Country) |
+|---|---|
+| A. Great Victoria Desert | 1. Australia |
+| B. Grand Canyon | 2. Canada |
+| C. Lake Winnipeg | 3. New Zealand |
+| D. Southern Alps | 4. USA |
+Code: [UPSC CSE Pre 2009]
+a) A-1, B-2, C-4, D-3
+b) A-1, B-4, C-2, D-3
+c) A-3, B-2, C-4, D-1
+d) A-3, B-4, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-1, B-4, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q18) In India, the ports are categorized as major and non-major ports. Which one of the following is a non-major port? [UPSC CSE Pre 2009]
+a) Kochi (Cochin)
+b) Dahej
+c) Paradip
+d) New Mangalore
+#QuestionEnd
+#AnswerStart
+Answer: b) Dahej
+#AnswerEnd
+
+#QuestionStart
+Q19) In which one of the following is Malta located? [UPSC CSE Pre 2008]
+a) Baltic Sea
+b) Mediterranean Sea
+c) Black Sea
+d) North Sea
+#QuestionEnd
+#AnswerStart
+Answer: b) Mediterranean Sea
+#AnswerEnd
+
+#QuestionStart
+Q20) Which one of the following cities is nearest to the equator? [UPSC CSE Pre 2008]
+a) Colombo
+b) Jakarta
+c) Manila
+d) Singapore
+#QuestionEnd
+#AnswerStart
+Answer: d) Singapore
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following Straits is nearest to the International Date Line? [UPSC CSE Pre 2008]
+a) Malacca Strait
+b) Bering Strait
+c) Strait of Florida
+d) Strait of Gibraltar
+#QuestionEnd
+#AnswerStart
+Answer: b) Bering Strait
+#AnswerEnd
+
+#QuestionStart
+Q22) The largest Coral reef in the world is found near the coast of which one of the following Countries? [UPSC CSE Pre 2007]
+a) Australia
+b) Cuba
+c) Ghana
+d) Philippines
+#QuestionEnd
+#AnswerStart
+Answer: a) Australia
+#AnswerEnd
+
+#QuestionStart
+Q23) Where is Copacabana Beach located? [UPSC CSE Pre 2007]
+a) Buenos Aires
+b) Hawaiian Islands
+c) Rio de Janeiro
+d) Valletta
+#QuestionEnd
+#AnswerStart
+Answer: c) Rio de Janeiro
+#AnswerEnd
+
+#QuestionStart
+Q24) Through which one of the following straits does a tunnel connect the United Kingdom and France? [UPSC CSE Pre 2007]
+a) Davis Strait
+b) Denmark Strait
+c) Strait of Dover
+d) Strait of Gibraltar
+#QuestionEnd
+#AnswerStart
+Answer: c) Strait of Dover
+#AnswerEnd
+
+#QuestionStart
+Q25) In which one of the following oceans Diamantina Trench is situated? [UPSC CSE Pre 2006]
+a) Pacific Ocean
+b) Atlantic Ocean
+c) Indian Ocean
+d) Arctic Ocean
+#QuestionEnd
+#AnswerStart
+Answer: b) Atlantic Ocean (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q26) Through which one of the following groups of countries does the Equator pass? [UPSC CSE Pre 2006]
+a) Brazil, Zambia and Malaysia
+b) Colombia, Kenya and Indonesia
+c) Brazil, Sudan and Malaysia
+d) Venezuela, Ethiopia and Indonesia
+#QuestionEnd
+#AnswerStart
+Answer: b) Colombia, Kenya and Indonesia
+#AnswerEnd
+
+#QuestionStart
+Q27) Other than India and China, which one of the following groups of countries border with Myanmar? [UPSC CSE Pre 2006]
+a) Bangladesh, Thailand and Vietnam
+b) Cambodia, Laos and Malaysia
+c) Thailand, Vietnam and Malaysia
+d) Thailand, Laos and Bangladesh
+#QuestionEnd
+#AnswerStart
+Answer: d) Thailand, Laos and Bangladesh
+#AnswerEnd
+
+#QuestionStart
+Q28) Huangpu River flows through which one of the following cities? [UPSC CSE Pre 2006]
+a) Beijing
+b) Ho Chi Minh City
+c) Shanghai
+d) Manila
+#QuestionEnd
+#AnswerStart
+Answer: c) Shanghai
+#AnswerEnd
+
+#QuestionStart
+Q29) Consider the following statements:
+1. Length of a terrestrial mile is lesser than that of a nautical mile.
+2. Harmattan is a dusty land-wind of the East African Coast.
+3. Greece and Albania form a part of the Iberian Peninsula.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2006]
+a) 1,2 and 3
+b) 2 and 3 only
+c) 3 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q30) Bermuda Triangle extends up to which of the following places? [UPSC CSE Pre 2006]
+1. Southern Florida
+2. Puerto Rico
+3. Hawaii Islands
+Select the correct answer using the codes given below:
+a) 1,2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q31) Which one of the following pairs is not correctly matched? [UPSC CSE Pre 2006]
+a) Slovenia: Bratislava
+b) Seychelles: Victoria
+c) Sierra Leone: Freetown
+d) Uzbekistan: Tashkent
+#QuestionEnd
+#AnswerStart
+Answer: a) Slovenia: Bratislava
+#AnswerEnd
+
+#QuestionStart
+Q32) Consider the following statements:
+1. Champaner-Pavagarh Archaeological Park
+2. Chhatrapati Shivaji Railway Station, Mumbai
+3. Mamallapuram
+4. Sun Temple (Konark Temple)
+Which of the above are included in the World Heritage List of UNESCO? [UPSC CSE Pre 2005]
+a) 1,2 and 3
+b) 1,3 and 4
+c) 2 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q33) Which one of the following is the correct sequence of the given continents in the descending order of their percentage of Earth’s land? [UPSC CSE Pre 2005]
+a) North America-Africa-South America- Europe
+b) Africa-North America-South America-Europe
+c) North America-Africa-Europe-South America
+d) Africa-North America-Europe-South America
+#QuestionEnd
+#AnswerStart
+Answer: b) Africa-North America-South America-Europe
+#AnswerEnd
+
+#QuestionStart
+Q34) Which one of the following countries does not border with Lithuania? [UPSC CSE Pre 2005]
+a) Poland
+b) Ukraine
+c) Belarus
+d) Latvia
+#QuestionEnd
+#AnswerStart
+Answer: b) Ukraine
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following statements: [UPSC CSE Pre 2005]
+1. Great Britain comprises England, Wales, Scotland and Northern Ireland.
+2. England covers less than 60% of the total area of the United Kingdom.
+Which of these statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following pairs is not correctly matched? [UPSC CSE Pre 2005]
+a) Bahamas: Nassau
+b) Costa Rica: San Jose
+c) Nicaragua: Belmopan
+d) Dominican Republic: Santo Domingo
+#QuestionEnd
+#AnswerStart
+Answer: c) Nicaragua: Belmopan
+#AnswerEnd
+
+#QuestionStart
+Q37) Which one of the following pairs is not correctly matched? [UPSC CSE Pre 2005]
+a) Seikan Rail Tunnel: China
+b) Petronas Towers: Malaysia
+c) Appalachian Trail: USA
+d) Rogun Dam: Tajikistan
+#QuestionEnd
+#AnswerStart
+Answer: a) Seikan Rail Tunnel: China
+#AnswerEnd
+
+#QuestionStart
+Q38) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Atomic Power Plants/ Heavy Water Plant) | List-II (State) |
+|---|---|
+| A. Thal | 1. Andhra Pradesh |
+| B. Manuguru | 2. Gujarat |
+| C. Kakrapara | 3. Maharashtra |
+| D. Kaiga | 4. Rajasthan |
+| | 5. Karnataka |
+Code: [UPSC CSE Pre 2005]
+a) A-2, B-1, C-4, D-5
+b) A-3, B-5, C-2, D-1
+c) A-2, B-5, C-4, D-1
+d) A-3, B-1, C-2, D-5
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-1, C-2, D-5
+#AnswerEnd
+
+#QuestionStart
+Q39) Which one of the following countries does not share a border with the Caspian Sea? [UPSC CSE Pre 2003]
+a) Armenia
+b) Azerbaijan
+c) Kazakhstan
+d) Turkmenistan
+#QuestionEnd
+#AnswerStart
+Answer: a) Armenia
+#AnswerEnd
+
+#QuestionStart
+Q40) Consider the following countries:
+1, Albania
+2. Bosnia Herzegovina
+3. Croatia
+4. Macedonia
+Which of these countries has/have the Adriatic Sea as a boundary? [UPSC CSE Pre 2002]
+a) 1 and 2 only
+b) 1,2 and 3 only
+c) 4 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q41) In the map given below, four islands of Indian Ocean region i.e., (A) Seychelles, (B) Chagos, (C) Mauritius and (D) Socotra are marked as 1, 2, 3 and 4. Match them and select the correct answer from the codes given below:
+Code: [UPSC CSE Pre 2002]
+a) A-1, B-3, C-4, D-2
+b) A-3, B-1, C-2, D-4
+c) A-1, B-3, C-2, D-4
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-1, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q42) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Oceanic Trench) | List-II (Location) |
+|---|---|
+| A. Aleutian | Indian Ocean |
+| B. Kermadec | North Pacific |
+| C. Sunda | South Pacific |
+| D. S. Sandwich | South Atlantic Ocean |
+Code: [UPSC CSE Pre 2000]
+a) A-2, B-4, C-1, D-3
+b) A-2, B-3, C-1, D-4
+c) A-1, B-3, C-2, D-4
+d) A-1, B-4, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following statements:
+1. Tides are of great help in navigation and fishing.
+2. High tide enables big ships to enter or leave the harbour safely.
+3. Tide prevents siltation in the harbours.
+4. Kandla and Diamond Harbour are tidal ports.
+Which of these statements are correct? [UPSC CSE Pre 2000]
+a) 1 and 4
+b) 2, 3 and 4
+c) 1, 2 and 3
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q44) Match the locations of ports labelled as A, B, C and D in the given map with the names of those ports and select the correct answer using the codes given below the names of the ports:
+Names of Ports: 1. Kakinada 2. Karwar 3. Mangalore 4. Tuticorin 5. Veraval
+Code:
+a) A-4, B-2, C-3, D-5
+b) A-5, B-2, C-4, D-1
+c) A-1, B-3, C-4, D-2
+d) A-5, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-5, B-2, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q45) Match the different ports of Union Territory of Pondicherry labelled as A, B, C and D in the given map with their respective names and select the correct answer using the codes given below the list of ports:
+List (Ports of Pondicherry):
+1. Karaikal
+2. Mahe
+3. Pondicherry
+4. Yanam
+Code: [UPSC CSE Pre 2000]
+a) A-2, B-l, C-3, D-4
+b) A-l, B-2, C-3, D-4
+c) A-2,B-l,C-4,D-3
+d) A-l, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-l, C-3, D-4
+#AnswerEnd
+
+#QuestionStart
+Q46) Which one of the following lakes forms as an international boundary between Tanzania and Uganda? [UPSC CSE Pre 2000]
+a) Chad
+b) Malawi
+c) Victoria
+d) Zambezi
+#QuestionEnd
+#AnswerStart
+Answer: c) Victoria
+#AnswerEnd
+
+#QuestionStart
+Q47) Daily weather map showing isobars is an example of: [UPSC CSE Pre 1997]
+a) Choropleth map
+b) Isopleth map
+c) Chorochromatic map
+d) Choro schematic map
+#QuestionEnd
+#AnswerStart
+Answer: b) Isopleth map
+#AnswerEnd
+
+#QuestionStart
+Q48) “The distance from Aceh in the for NorthWest to Torres Strait in the east is 3000 miles, almost equal to the distance London and Baghdad. The archipelago has 14,000 islands, some mere equatorial rocks, others some of the largest in the world ” This description best fits: [UPSC CSE Pre 1997]
+a) West Indies
+b) Japan
+c) Philippines
+d) Indonesia
+#QuestionEnd
+#AnswerStart
+Answer: d) Indonesia
+#AnswerEnd
+
+#QuestionStart
+Q49) Consider the map given below.
+The dotted (broken) line in the map is the-
+a) Durand line
+b) Mac Mahon line
+c) Line of demarcation between India and Pakistan suggested by the Boundary Commission (1947)
+d) Route followed by the Younghusband Expedition
+#QuestionEnd
+#AnswerStart
+Answer: a) Durand line
+#AnswerEnd
+
+#QuestionStart
+Q50) The Palk Bay lies between: [UPSC CSE Pre 1996]
+a) Gulf of Kachchh and Gulf of Khambhat
+b) Gulf of Mannar and Bay of Bengal
+c) Lakshadweep and Maldives Islands
+d) Andaman and Nicobar Islands
+#QuestionEnd
+#AnswerStart
+Answer: b) Gulf of Mannar and Bay of Bengal
+#AnswerEnd
+
+#QuestionStart
+Q51) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| LUM | |
+|---|---|
+| A. European Tran-Continental Railway | 1. Paris to Istanbul |
+| B. Trans-Andean Railway | 2. Leningrad to Vladivostok |
+| C. Trans-Siberian Railway | 3. Leningrad to Volgograd |
+| D. Orient Express | 4, Buenos Aires to Valparaiso |
+| | 5. Paris to Warsaw |
+Code: [UPSC CSE Pre 1995]
+a) A-5, B-4, C-2, D-1
+b) A-1, B-4, C-3, D-2
+c) A-5, B-1, C-2, D-3
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-5, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q52) Which one of the following is the continent with the highest mean elevation in the world? [UPSC CSE Pre 1995]
+a) Antarctica
+b) North America
+c) Asia
+d) South America
+#QuestionEnd
+#AnswerStart
+Answer: a) Antarctica
+#AnswerEnd
+
+#QuestionStart
+Q53) Given below is a map of some countries which were parts of the erstwhile Soviet Union, with water bodies shown by shaded areas: [UPSC CSE Pre 1995]
+The countries marked 1, 2, 3, 4, and 5 are respectively:
+a) Tajikistan, Turkmenia, Uzbekistan, Kirgizia, Kazakhstan
+b) Turkmenia, Kirgizia, Tajikistan, Uzbekistan, Kazakhstan
+c) Kazakhstan, Uzbekistan, Tajikistan, Kirgizia, Turkmenia
+d) Kazakhstan, Turkmenia, Uzbekistan, Kirgizia, Tajikistan
+#QuestionEnd
+#AnswerStart
+Answer: d) Kazakhstan, Turkmenia, Uzbekistan, Kirgizia, Tajikistan
+#AnswerEnd
+
+#QuestionStart
+Q54) Even though the Railways are the most pervasive mode of transport in India, it is road transport which received the maximum impetus in most of the post-independence period. Which of the following are the reasons for this?
+1, Railways are cheap to operate but the associated capital costs are very high.
+2. Given the geographic spread of human settlements, it is unrealistic that the railways alone can serve the needs of transport.
+3. The per unit (tonne/km) cost of transport is cheaper in the road compared to rail transport.
+4. Given the indivisible nature of the Railways, it is not always convenient for the population to avail it with the same ease as private cars, buses or twowheelers.
+Select the correct answer by using codes given below: [UPSC CSE Pre 1994]
+a) 1, 2 and 3
+b) 1, 2 and 4
+c) 1, 3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q55) Consider the map given below: The numbers marked 1, 2, 3 and 4 respectively indicate the islands of: [UPSC CSE Pre 1994]
+a) The Bahamas, Azores, Falkland Cape Verde
+b) The Bahamas, Azores, Cape Verde and Falkland
+c) Azores, Cape Verde, the Bahamas and Falkland
+d) Cape Verde, the Bahamas, Falkland and Azores
+#QuestionEnd
+#AnswerStart
+Answer: c) Azores, Cape Verde, the Bahamas and Falkland
+#AnswerEnd
+
+#QuestionStart
+Q56) The shortest air-route from Perth to London is: [UPSC CSE Pre 1994]
+a) Perth, Bombay, Rome, London
+b) Perth, Ankara, Paris, London
+c) Perth, Aden, Paris, London
+d) Perth, Mombasa, Rome, London
+#QuestionEnd
+#AnswerStart
+Answer: a) Perth, Bombay, Rome, London
+#AnswerEnd

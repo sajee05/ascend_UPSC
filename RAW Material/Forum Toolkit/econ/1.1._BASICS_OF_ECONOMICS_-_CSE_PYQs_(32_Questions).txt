@@ -1,0 +1,398 @@
+#QuestionStart
+Q1) Consider the investments in the following assets:
+1. Brand recognition
+2. Inventory
+3. Intellectual property
+4. Mailing list of clients
+How many of the above are considered intangible investments? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to Non-Fungible Tokens (NFTs), consider the following statements:
+1. They enable the digital representation of physical assets.
+2. They are unique cryptographic tokens that exist on a blockchain.
+3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements:
+Other things remaining unchanged market demand for a good might increase if:
+1. Price of its substitute increases
+2. Price of its complement increases
+3. The good is an inferior good and income of the consumers increases
+4. Its price falls
+Which of the above statements are correct? [UPSC CSE Pre. 2021]
+a) 1 and 4 only
+b) 2, 3 and 4 only
+c) 1,3 and 4 only
+d) 1,2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q4) The money multiplier in an economy increases with which one of the following? [UPSC CSE Pre. 2021]
+a) Increase in the Cash Reserve Ratio in the banks
+b) Increase in the Statutory Liquidity Ratio in the banks
+c) Increase in the banking habit of the people
+d) Increase in the population of the country
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase in the banking habit of the people
+#AnswerEnd
+
+#QuestionStart
+Q5) Which among the following steps is most likely to be taken at the time of an economic recession? [UPSC CSE Pre. 2021]
+a) Cut in tax rates accompanied by increase in interest rate
+b) Increase in expenditure on public project
+c) Increase in tax rates accompanied by reduction of interest rate
+d) Reduction of expenditure on public projects
+#QuestionEnd
+#AnswerStart
+Answer: b) Increase in expenditure on public project
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements
+1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).
+2. The WPI does not capture changes in the prices of services, which CPI does.
+3. Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2020]
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q7) If you withdraw Rs. 1,00,000 in cash from your Demand Deposit Account at your bank, the immediate effect on aggregate money supply in the economy will be: [UPSC CSE Pre. 2020]
+a) to reduce it by Rs. 1,00,000
+b) to increase it by Rs. 1,00,000
+c) to increase it by more than Rs. 1,00,000
+d) to leave it unchanged
+#QuestionEnd
+#AnswerStart
+Answer: d) to leave it unchanged
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements:
+1. Purchasing Power Parity (PPP) exchange rates are calculated by comparing the prices of the same basket of goods and services in different countries
+2. In terms of PPP dollars, India is the sixth largest economy in the world.
+Which of the statement given above is/are correct? [UPSC CSE Pre, 2019]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to India’s Five -Year Plans, which of the following statements is/are correct?
+1. From the Second Five -Year Plan, there was a determined thrust towards substitution of basic and capital good industries.
+2. The Fourth Five -Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.
+3. In the Fifth Five -Year Plan, for the first time, the financial sector was included as an integral part of the Plan.
+Select the correct answer using the code given below [UPSC CSE Pre. 2019]
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to land reforms in independent India, which one of the following statements is correct? [UPSC CSE Pre. 2019]
+a) The ceiling laws were aimed at family holdings and not individual holdings.
+b) The major aim of land reforms was providing agricultural land to all the landless.
+c) It resulted in cultivation of cash crops as a predominant form of cultivation.
+d) Land reforms permitted no exemptions to the ceiling limits.
+#QuestionEnd
+#AnswerStart
+Answer: b) The major aim of land reforms was providing agricultural land to all the landless.
+#AnswerEnd
+
+#QuestionStart
+Q11) Increase in absolute and per capita real GNP do not connote a higher level of economic development, if [UPSC CSE Pre. 2018]
+a) industrial output fails to keep pace with agricultural output.
+b) agricultural output fails to keep pace with, industrial output.
+c) poverty and unemployment increase.
+d) imports grow faster than exports.
+#QuestionEnd
+#AnswerStart
+Answer: c) poverty and unemployment increase.
+#AnswerEnd
+
+#QuestionStart
+Q12) Despite being a high saving economy, capital formation may not result in significant increase in output due to [UPSC CSE Pre. 2018]
+a) weak administrative machinery
+b) illiteracy
+c) high population density
+d) high capital-output ratio
+#QuestionEnd
+#AnswerStart
+Answer: d) high capital-output ratio
+#AnswerEnd
+
+#QuestionStart
+Q13) The main objective of the 12th Five-Year Plan was [UPSC CSE Pre. 2014]
+a) inclusive growth and poverty reduction.
+b) inclusive and sustainable growth
+c) sustainable and inclusive growth to reduce unemployment
+d) faster, sustainable and more inclusive growth.
+#QuestionEnd
+#AnswerStart
+Answer: d) faster, sustainable and more inclusive growth.
+#AnswerEnd
+
+#QuestionStart
+Q14) Economic growth in country X will necessarily have to occur if [UPSC CSE Pre. 2013]
+a) there is technical progress in the world economy
+b) there is population growth in X
+c) there is capital formation in X
+d) the volume of trade grows in the world economy
+#QuestionEnd
+#AnswerStart
+Answer: c) there is capital formation in X
+#AnswerEnd
+
+#QuestionStart
+Q15) The national income of a country for a given period is equal to the [UPSC CSE Pre. 2013]
+a) total value of goods and services produced by the nationals
+b) sum of total consumption and investment expenditure
+c) sum of personal income of all individuals
+d) money value of final goods and services produced
+#QuestionEnd
+#AnswerStart
+Answer: d) money value of final goods and services produced
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following can be said to be essentially the parts of ‘Inclusive Governance’?
+1. Permitting the Non-Banking Financial Companies to do banking
+2. Establishing effective District Planning Committees in all the districts
+3. Increasing the government spending on public health
+4. Strengthening the Mid-day Meal Scheme Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1 and 2 only
+b) 3 and 4 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q17) A “closed economy” is an economy in which [UPSC CSE Pre. 2011]
+a) the money supply is fully controlled
+b) deficit financing takes place
+c) only exports take place
+d) neither exports nor imports take place
+#QuestionEnd
+#AnswerStart
+Answer: d) neither exports nor imports take place
+#AnswerEnd
+
+#QuestionStart
+Q18) Economic growth is usually coupled with [UPSC CSE Pre. 2011]
+a) Deflation
+b) Inflation
+c) Stagflation
+d) Hyperinflation
+#QuestionEnd
+#AnswerStart
+Answer: b) Inflation
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the following can aid in furthering the Government’s objective of inclusive growth?
+1. Promoting Self-Help Groups
+2. Promoting Micro, Small and Medium Enterprises
+3. Implementing the Right to Education Act Select the correct answer using the codes given below: [UPSC CSE Pre. 2011]
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q20) In the context of Indian economy, consider the following pairs:
+(Term) (Most appropriate description)
+1. Melt down Fall in stock prices
+2. Recession Fall in growth rate
+3. Slow down Fall in GDP
+Which of the pairs given above is/are correctly matched? [UPSC CSE Pre 2010]
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Inclusive growth as enunciated in the Eleventh Five Year Plan does not include one of the following: [UPSC CSE Pre 2010]
+a) Reduction of poverty
+b) Extension of employment opportunities
+c) Strengthening of capital market
+d) Reduction of gender inequality
+#QuestionEnd
+#AnswerStart
+Answer: c) Strengthening of capital market
+#AnswerEnd
+
+#QuestionStart
+Q22) In the context of India’s Five-Year Plans, a shift in the pattern of industrialization, with lower emphasis on heavy industries and more on infrastructure begin in: [UPSC CSE Pre 2010]
+a) Fourth Plan
+b) Sixth Plan
+c) Eighth Plan
+d) Tenth Plan
+#QuestionEnd
+#AnswerStart
+Answer: b) Sixth Plan
+#AnswerEnd
+
+#QuestionStart
+Q23) Sustainable development is described as the development that meets the needs of the present without compromising the ability of future generations to meet their own needs. In this perspective, inherently the concept of sustainable development is intertwined with which of the following concepts? [UPSC CSE Pre 2010]
+a) Social justice and empowerment
+b) Inclusive Growth
+c) Globalization
+d) Carrying capacity
+#QuestionEnd
+#AnswerStart
+Answer: d) Carrying capacity
+#AnswerEnd
+
+#QuestionStart
+Q24) During which Five Year Plan was the Emergency clamped, new elections took place and the Janata Party was elected? [UPSC CSE Pre 2009]
+a) Third
+b) Fourth
+c) Fifth
+d) Sixth
+#QuestionEnd
+#AnswerStart
+Answer: c) Fifth
+#AnswerEnd
+
+#QuestionStart
+Q25) Consider the following statements regarding Indian Planning:
+1. The Second Five Year Plan emphasized the establishment of heavy industries.
+2. The Third Five Year Plan introduced the concept of import substitution as a strategy for industrialization.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q26) The term National Income represents: [UPSC CSE Pre 2001]
+a) Gross National Product at market prices minus depreciation
+b) Gross National Product at market prices minus depreciation plus net factor income from abroad
+c) Gross National Product at market prices minus depreciation and indirect taxes plus subsidies
+d) Gross National Product at market prices minus net factor income from abroad
+#QuestionEnd
+#AnswerStart
+Answer: c) Gross National Product at market prices minus depreciation and indirect taxes plus subsidies
+#AnswerEnd
+
+#QuestionStart
+Q27) Economic liberalization in India started with: [UPSC CSE Pre 2000]
+a) substantial changes in industrial licensing policy
+b) the convertibility of Indian rupee
+c) doing away with procedural formalities for foreign direct investment
+d) significant reduction in tax rates
+#QuestionEnd
+#AnswerStart
+Answer: a) substantial changes in industrial licensing policy
+#AnswerEnd
+
+#QuestionStart
+Q28) The growth rate of Per Capita Income at current prices is higher than that of Per Capita Income at constant prices, because the latter takes into account the rate of: [UPSC CSE Pfe2000]
+a) growth of population
+b) increase in price level
+c) growth of money supply
+d) increase in the wage rate
+#QuestionEnd
+#AnswerStart
+Answer: b) increase in price level
+#AnswerEnd
+
+#QuestionStart
+Q29) The Eighth Five Year Plan is different from the earlier ones. The critical difference lies in the fact that: [UPSC CSE Pre 1996]
+a) it has a considerably larger outlay compared to the earlier plans
+b) it has a major thrust on agricultural and rural development
+c) considerable ' emphasis is placed on infrastructure growth
+d) industrial licensing has been abolished
+#QuestionEnd
+#AnswerStart
+Answer: a) it has a considerably larger outlay compared to the earlier plans
+#AnswerEnd
+
+#QuestionStart
+Q30) Which of the following Five-Year Plans of India recognized human development as the core of developmental efforts? [UPSC CSE Pre 1995]
+a) Seventh Five Year Plan
+b) Eighth Five Year Plan
+c) Sixth Five Year Plan
+d) Fifth Five Year Plan
+#QuestionEnd
+#AnswerStart
+Answer: b) Eighth Five Year Plan
+#AnswerEnd
+
+#QuestionStart
+Q31) The basic difference between imperative and indicative planning is that: [UPSC CSE Pre 1993]
+a) in the case of the imperative planning the market mechanism is entirely replaced by a command hierarchy, while in the case of indicative planning, it is looked upon as a way to improve the functioning of market system.
+b) in the case of indicative planning there is no need to nationalize any industry.
+c) in the case of indicative planning all economic activities belong to the public sector, while in the other type they belong to the private sector.
+d) it is easier to achieve targets in imperative type of planning.
+#QuestionEnd
+#AnswerStart
+Answer: a) in the case of the imperative planning the market mechanism is entirely replaced by a command hierarchy, while in the case of indicative planning, it is looked upon as a way to improve the functioning of market system.
+#AnswerEnd
+
+#QuestionStart
+Q32) Which of the following are the main causes of slow rate of growth of Per Capita Income in India -
+1. High capital-output ratio
+2. High rate of growth of population
+3. High rate of capital formation
+4. High level of fiscal deficits
+Select the correct answer from the codes given below:
+Codes: [UPSC CSE Pre 1993]
+a) 1, 2, 3 and 4
+b) 2, 3 and 4
+c) 1 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 2
+#AnswerEnd

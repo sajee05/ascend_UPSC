@@ -1,0 +1,672 @@
+#QuestionStart
+Q1) ‘Wolbachia method’ is sometimes talked about with reference to which one of the following? [UPSC CSE Pre 2023]
+a) Controlling the viral diseases spread by mosquitoes.
+b) Converting crop residues into packing material.
+c) Producing biodegradable plastics.
+d) Producing biochar from thermochemical conversion of biomass.
+#QuestionEnd
+#AnswerStart
+Answer: a) Controlling the viral diseases spread by mosquitoes.
+#AnswerEnd
+
+#QuestionStart
+Q2) Aerial metagenomics best refers to which one of the following situations? [UPSC CSE Pre 2023]
+a) Collecting DNA samples from air in a habitat at one go
+b) Understanding the genetic makeup of avian species of a habitat
+c) Using air-borne devices to collect blood samples from moving animals
+d) Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies
+#QuestionEnd
+#AnswerStart
+Answer: a) Collecting DNA samples from air in a habitat at one go
+#AnswerEnd
+
+#QuestionStart
+Q3) ‘Microsatellite DNA’ is used in the case of which one of the following? [UPSC CSE Pre 2023]
+a) Studying evolutionary relationships among various species of fauna
+b) Stimulating stem cells transform into diverse functional tissues
+c) Promoting clonal propagation of horticultural plant
+d) Assessing the efficacy of drugs by conducting series of drug trials in a population
+#QuestionEnd
+#AnswerStart
+Answer: a) Studying evolutionary relationships among various species of fauna
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements:
+1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.
+2. Carbon fibres once used cannot be recycled.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2023]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following actions:
+1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously
+2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive
+3. Detection of the tilt of the smart- phone which results in the rotation of display between portrait and landscape mode
+In how many of the above actions is the function of accelerometer required? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the role of biofilters in Recirculating Aquaculture System, consider the following statements:
+1. Biofilters provide waste treatment by removing uneaten fish feed.
+2. Biofilters convert ammonia present in fish waste to nitrate.
+3. Biofilters increase phosphorus as nutrient for fish in water.
+How many of the statements given above are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following pairs:
+| Object in space | Description |
+|---|---|
+| 1. Cepheids | Giant clouds of dust and gas in space |
+| 2. Nebulae | Stars which brighten and dim periodically |
+| 3. Pulsars | Neutron stars that are formed when massive stars run out of fuel and collapse |
+How many of the above pairs are correctly matched? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following countries has its own Satellite Navigation System? [UPSC CSE Pre 2023]
+a) Australia
+b) Canada
+c) Israel
+d) Japan
+#QuestionEnd
+#AnswerStart
+Answer: d) Japan
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements
+1. Ballistic missiles are jet-propelled at subsonic speeds throughout their fights, while cruise missiles are rocket-powered only in the initial phase of fight.
+2. Agni-V is a medium-range supersonic cruise missile, while BrahMos is a solid-fuelled intercontinental ballistic missile.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2023]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to “Software as a Service (SaaS)”, consider the following statements:
+1. SaaS buyers can customise the user interface and can change data fields.
+2. SaaS users can access their data through their mobile devices.
+3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following technologies:
+1. Closed-circuit Television
+2. Radio Frequency Identification
+3. Wireless Local Area Network
+Which of the above are considered communication Short-Range devices/ technologies? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements:
+1. Biofilms can form on medical implants within human tissues.
+2. Biofilms can form on food and food processing surfaces.
+3. Biofilms can exhibit antibiotic resistance.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q13) In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:
+1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.
+2. Sputnik. V vaccine is manufactured using vector-based platform.
+3. COVAXIN is an inactivated pathogenbased vaccine.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?
+1. GPS and navigation systems could fail.
+2. Tsunamis could occur at equatorial regions.
+3. Power grids could be damaged.
+4. Intense auroras could occur over much of the Earth.
+5. Forest fires could take place over much of the planet.
+6. Orbits of the satellites could be disturbed.
+7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.
+Select the correct answer using the code given below: [UPSC CSE Pre 2022]
+a) 1, 2, 4 and 5 only
+b) 2, 3, 5, 6 and 7 only
+c) 1, 3, 4, 6 and 7 only
+d) 1, 2, 3, 4, 5, 6 and 7
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3, 4, 6 and 7 only
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to Non-Fungible Tokens (NFTs), consider the following statements:
+1. They enable the digital representation of physical assets.
+2. They are unique cryptographic tokens that exist on a blockchain.
+3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements:
+DNA Barcoding can be a tool to:
+1. Assess the age of a plant or animal.
+2. Distinguish among species that look alike.
+3. Identify undesirable animal or plant materials in processed foods.
+Which of the statements given above is/are correct [UPSC CSE Pre 2022]
+a) 1 only
+b) 3 only
+c) land 2 only
+d) 2 and 3 only .
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3 only .
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following is the context in which the term ‘Qubit’ is mentioned? [UPSC CSE Pre 2022]
+a) Cloud Services
+b) Quantum Computing
+c) Visible Light Communication Technologies
+d) Wireless Communication Technologies
+#QuestionEnd
+#AnswerStart
+Answer: b) Quantum Computing
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following: [UPSC CSE Pre 2022]
+1. Aarogya Setu
+2. CoWIN
+3. DigiLocker
+4. DIKSHA
+Which of the above are built on top of opensource digital platforms?
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to Web 3.0, consider the following statements: [UPSC CSE Pre 2022]
+1. Web 3.0 technology enables people to control their own data.
+2. In Web 3.0 world, there can be blockchain based social networks.
+3. Web 3.0 is operated by users collectively rather than a corporation.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q20) Which one of the following statements best reflects the idea behind the ‘Fractional Orbital Bombardment System’ often talked about in media? [UPSC CSE Pre 2022]
+a) A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space.
+b) A spacecraft lands on another planet after making several orbital motions.
+c) A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.
+d) A spacecraft moves along a comet with the same speed and places a probe on its surface.
+#QuestionEnd
+#AnswerStart
+Answer: c) A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth.
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements: [UPSC CSE Pre 2022]
+1. Other than those made by humans, nanoparticles do not exist in nature.
+2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.
+3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 3 only
+c) 1 and 2 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Which one of the following statements best describes the ‘Polar Code’? [UPSC CSE Pre 2022]
+a) It is the international code of safety for ships operating in polar waters.
+b) It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.
+c) It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.
+d) It is a trade and security agreement between the member countries of the Arctic Council.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is the international code of safety for ships operating in polar waters.
+#AnswerEnd
+
+#QuestionStart
+Q23) With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:
+1. Its fibers can be blended with wool and cotton fibers to reinforce their properties.
+2. Containers made of it can be used to store any alcoholic beverage.
+3. Bottles made of it can be recycled into other products.
+4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 3 only
+b) 2 and 4 only
+c) 1 and 4 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q24) In the context of hereditary diseases, consider the following statements:
+1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of egg.
+2. A child inherits mitochondrial diseases entirely from mother and not from father.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2021]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q25) Bollgard I and BoIIgard II technologies are mentioned in the context of: [UPSC CSE Pre 2021]
+a) clonal propagation of crop plants
+b) developing genetically modified crop plants
+c) production of plant growth substances
+d) production of biofertilizers
+#QuestionEnd
+#AnswerStart
+Answer: b) developing genetically modified crop plants
+#AnswerEnd
+
+#QuestionStart
+Q26) With reference to street-lighting, how do sodium lamps differ from led lamps?
+1. Sodium lamps produce light in 360 degrees but it is not so in the case of LED lamps.
+2. As street-lights, sodium lamps have longer life span than LED lamps.
+3. The spectrum of visible light from sodium lamps is almost monochromatic while LED lamps offer significant colour advantages in street-lighting.
+Select the correct answer using the code given below: [UPSC CSE Pre 2021]
+a) 3 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q27) The term ‘ACE2’ is talked about in the context of: [UPSC CSE Pre 2021]
+a) genes introduced in the genetically modified plants
+b) development of India’s own satellite navigation system
+c) radio collars for wildlife tracking
+d) spread of viral diseases
+#QuestionEnd
+#AnswerStart
+Answer: d) spread of viral diseases
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements : [UPSC CSE Pre 2021]
+1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes.
+2. Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q29) With reference to recent developments regarding ‘Recombinant Vector Vaccines’, consider the following statements: [UPSC CSE Pre 2021]
+1. Genetic engineering is applied in the development of these vaccines.
+2. Bacteria and viruses are used as vectors.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q30) With reference to Visible Light Communication (VL technology), which of the following statements are correct? [UPSC CSE Pre 2020]
+1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.
+2. VLC is known as long-range optical wireless communication.
+3. VLC can transmit large amounts of data faster than Bluetooth.
+4. VLC has no electromagnetic interference.
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 1,2 and 4 only
+c) 1,3 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q31) With the present state of development, Artificial Intelligence can effectively do which of the following? [UPSC CSE Pre 2020]
+1. Bring down electricity consumption in industrial units
+2. Create meaningful short stories and songs
+3. Disease diagnosis
+4. Text-to-Speech Conversion
+5. Wireless transmission of electrical energy
+Select the correct answer using the code given below:
+a) 1, 2, 3 and 5 only
+b) 1,3 and 4 only
+c) 2, 4 and 5 only
+d) 1,2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q32) In India, the term “Public Key Infrastructure” is used in the context of: [UPSC CSE Pre 2020]
+a) Digital security infrastructure
+b) Food security infrastructure
+c) Health care and education infrastructure
+d) Telecommunication and transportation infrastructure
+#QuestionEnd
+#AnswerStart
+Answer: a) Digital security infrastructure
+#AnswerEnd
+
+#QuestionStart
+Q33) With reference to “Blockchain Technology”, consider the following statements: [UPSC CSE Pre 2020]
+1, It is a public ledger that everyone can inspect, but which no single user controls.
+2. The structure and design of blockchain is such that all the data in it are about cryptocurrency only.
+3. Applications that depend on basic features of blockchain can be developed without anybody’s permission.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q34) In India, under cyber insurance for individuals, which of the following benefits are generally covered, in addition to payment for the loss of funds and other benefits? [UPSC CSE Pre 2020]
+1. Cost of restoration of the computer system in case of malware disrupting access to one’s computer
+2. Cost of a new computer if some miscreant wilfully damages it, if proved so
+3. Cost of hiring a specialized consultant to minimize the loss in case of cyber extortion
+4. Cost of defence in the Court of Law if any third-party files a suit
+Select the correct answer using the code given below:
+a) 1,2 and 4 only
+b) 1,3 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q35) “The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometers long, with lasers shining between the craft.” The experiment in question refers to: [UPSC CSE Pre 2020]
+a) Voyager-2
+b) New Horizons
+c) LISA Pathfinder
+d) Evolved LISA
+#QuestionEnd
+#AnswerStart
+Answer: d) Evolved LISA
+#AnswerEnd
+
+#QuestionStart
+Q36) With reference to carbon nanotubes, consider the following statements: [UPSC CSE Pre 2020]
+1. They can be used as carriers of drugs and antigens in the human body.
+2. They can be made into artificial blood capillaries for an injured part of the human body.
+3. They can be used in biochemical sensors.
+4. Carbon nanotubes are biodegradable.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following activities: [UPSC CSE Pre 2020]
+1. Spraying pesticides on a crop field
+2. Inspecting the craters of active volcanoes
+3. Collecting breath samples from spouting whales for DNA analysis
+At the present level of technology, which of the above activities can be successfully carried out by using drones?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q38) What is the importance of using Pneumococcal Conjugate Vaccines in India? [UPSC CSE Pre 2020]
+1. These vaccines are effective against pneumonia as well as meningitis and sepsis.
+2. Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced.
+3. These vaccines have no side effects and cause no allergic reactions.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q39) In the context of recent advances in human reproductive technology, “Pronuclear Transfer” is used for: [UPSC CSE Pre 2020]
+a) fertilization of egg in vitro by the donor sperm
+b) genetic modification of sperm producing cells
+c) development of stem cells into functional embryos
+d) prevention of mitochondrial diseases in offspring
+#QuestionEnd
+#AnswerStart
+Answer: d) prevention of mitochondrial diseases in offspring
+#AnswerEnd
+
+#QuestionStart
+Q40) Consider the following statements: [UPSC CSE Pre 2020]
+1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.
+2. A person’s genome can be edited before birth at the early embryonic stage.
+3. Human-induced pluripotent stem cells can be injected into the embryo of a pig.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q41) With reference to solar water pumps, consider the following statements: [UPSC CSE Pre. 2020]
+1. Solar power can be used for running surface pumps and not for submersible pumps.
+2. Solar power can be used for running centrifugal pumps and not the ones with piston.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q42) With reference to communication technologies, what is/are the difference/ differences between LTE (Long-Term Evolution) and VoLTE (Voice over LongTerm Evolution)? [UPSC CSE Pre 2019]
+1. LTE is commonly marketed as 3G, and VoLTE is commonly marketed as advanced 3G.
+2. LTE is data-only technology and VoLTE is voice-only technology.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q43) In the context of digital technologies for entertainment, consider the following statements: [UPSC CSE Pre 2019]
+1. In Augmented Reality (AR), a simulated environment is created, and the physical world is completely shut out.
+2. In Virtual Reality (VR), images generated from a computer are projected onto real-life objects or surroundings.
+3. AR allows individuals to be present in the world and improves the experience using the camera of smart-phone or PC.
+4. VR closes the world, and transposes an individual, providing complete immersion experience.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1,2 and 3 only
+d) 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q44) Consider the following statements: [UPSC CSE Pre 2019]
+A digital signature is-
+1. an electronic record that identifies the certifying authority issuing it.
+2. used to serve as a proof of identity of an individual to access information or server on the Internet.
+3. an electronic method of signing an electronic document and ensuring that the original content is unchanged.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q45) In the context of wearable technology, which of the following tasks is/are accomplished by wearable devices? [UPSC CSE Pre 2019]
+1. Location identification of a person
+2. Sleep monitoring of a person
+3. Assisting the hearing-impaired person
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q46) Recently, scientists observed the merger of giant ‘black holes’ billions of lightyears away from the Earth. What is the significance of this observation? [UPSC CSE Pre 2019]
+a) ‘Higgs boson particles’ were detected.
+b) ‘Gravitational waves’ were detected.
+c) Possibility of inter-galactic space travel through ‘wormhole’ was confirmed.
+d) It enabled the scientists to understand ‘singularity’.
+#QuestionEnd
+#AnswerStart
+Answer: b) ‘Gravitational waves’ were detected.
+#AnswerEnd
+
+#QuestionStart
+Q47) For the measurement/estimation of which of the following are satellite images/remote sensing data used? [UPSC CSE Pre 2019]
+1. Chlorophyll content in the vegetation of a specific location
+2. Greenhouse gas emissions from rice paddies of a specific location
+3. Land surface temperatures of a specific location
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q48) In the context of which one of the following are the terms ‘pyrolysis and plasma gasification’ mentioned? [UPSC CSE Pre 2019]
+a) Extraction of rare earth elements
+b) Natural gas extraction technologies
+c) Hydrogen fuel-based automobiles
+d) Waste-to-energy technologies
+#QuestionEnd
+#AnswerStart
+Answer: d) Waste-to-energy technologies
+#AnswerEnd

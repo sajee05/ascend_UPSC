@@ -1,0 +1,47 @@
+#QuestionStart
+Q1) The well-known painting “Bani Thani” belongs to the (2018)
+a) Bundi School
+b) Jaipur School
+c) Kangra School
+d) Kishangarh School
+#QuestionEnd
+#AnswerStart
+Answer: d) Kishangarh School
+#AnswerEnd
+
+#QuestionStart
+Q2) The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at (2017)
+a) Ajanta
+b) Badami
+c) Bagh
+d) Ellora
+#QuestionEnd
+#AnswerStart
+Answer: a) Ajanta
+#AnswerEnd
+
+#QuestionStart
+Q3) Kalamkari painting refers to (2015)
+a) a hand-painted cotton textile in South India.
+b) a handmade drawing on bamboo handicrafts in North-East India.
+c) a block-painted woollen cloth in Western Himalayan region of India.
+d) a hand-painted decorative silk cloth in North-Western India.
+#QuestionEnd
+#AnswerStart
+Answer: a) a hand-painted cotton textile in South India.
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following historical places: (2013)
+1. Ajanta Caves
+2. Lepakshi Temple
+3. Sanchi Stupa
+Which of the above places is/are also known for mural paintings?
+a) 1 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd

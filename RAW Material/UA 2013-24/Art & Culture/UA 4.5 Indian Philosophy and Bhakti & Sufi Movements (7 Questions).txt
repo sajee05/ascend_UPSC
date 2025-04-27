@@ -1,0 +1,97 @@
+#QuestionStart
+Q1) With reference to Indian history, consider the following pairs : (2022)
+| Historical person | Known as |
+|---|---|
+| 1. Aryadeva | Jaina scholar |
+| 2. Dignaga | Buddhist scholar |
+| 3. Nathamuni | Vaishnava scholar |
+How many pairs given above are correctly matched ?
+a) None of the pairs
+b) Only one pair
+c) Only two pairs
+d) All three pairs
+#QuestionEnd
+#AnswerStart
+Answer: c) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q2) The world’s second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently. Which one of the following statements correctly represents the teachings of Ramanuja ? (2022)
+a) The best means of salvation was devotion.
+b) Vedas are eternal, self-existent and wholly authoritative.
+c) Logical arguments were essential means for the highest bliss.
+d) Salvation was to be obtained through meditation.
+#QuestionEnd
+#AnswerStart
+Answer: a) The best means of salvation was devotion.
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the cultural history of India, consider the following pairs: (2020)
+1. Parivrajaka Renunciant and Wanderer
+2. Shramana Priest with a high status
+3. Upasaka Lay follower of Buddhism
+Which of the pairs given above are correctly matched?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Which one of the following pairs does not form part of the six systems of Indian Philosophy? (2014)
+a) Mimamsa and Vedanta
+b) Nyaya and Vaisheshika
+c) Lokayata and Kapalika
+d) Sankhya and Yoga
+#QuestionEnd
+#AnswerStart
+Answer: c) Lokayata and Kapalika
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following Bhakti Saints: (2013)
+1. Dadu Dayal
+2. Guru Nanak
+3. Tyagaraja
+Who among the above was/were preaching when the Lodi dynasty fell, and Babur took over?
+a) 1 and 3
+b) 2 only
+c) 2 and 3 only
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the history of philosophical thought in India, consider the following statements regarding Sankhya school: (2013)
+1. Sankhya does not accept the theory of rebirth or transmigration of soul.
+2. Sankhya holds that it is the self- knowledge that leads to liberation and not any exterior influence or agent.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the religious history of medieval India, the Sufi mystics were known to pursue which of the following practices? (2012)
+1. Meditation and control of breath
+2. Severe ascetic exercises in a lonely place
+3. Recitation of holy songs to arouse a state of ecstasy in their audience
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd

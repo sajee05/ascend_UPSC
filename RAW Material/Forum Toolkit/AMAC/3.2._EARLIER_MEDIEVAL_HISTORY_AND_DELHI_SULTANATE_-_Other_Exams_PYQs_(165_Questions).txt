@@ -1,0 +1,1961 @@
+#QuestionStart
+Q37) Arrange the following conquests of Alauddin Khilji in chronological order: [U.P.P.C.S. (Pre) 2022]
+1. Ranthambor
+2. Gujarat
+3. Warangal
+4. Chittor
+Select the correct answer from the code given below.
+a) 3, 4, 1, 2
+b) 4, 2, 3, 1
+c) 1, 3, 2, 4
+d) 2, 1, 4, 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 1, 4, 3
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the following is not correctly matched? [U.P.P.C.S. (Pre) 2021]
+| Ruler | State |
+|---|---|
+| (a) Rana Hamir | Mewar |
+| (b) Rana Chunda | Marwar |
+| (c) Malik Raja Farooqi | Khandesh |
+| (d) Malik Sarwar Khwaja Jahan | Malwa |
+#QuestionEnd
+#AnswerStart
+Answer: d) Malik Sarwar Khwaja Jahan | Malwa
+#AnswerEnd
+
+#QuestionStart
+Q39) Given below are two statements, one is labelled as Assertion (A) and other as Reason (R): [U.P.P.C.S. (Pre) 2020]
+Assertion (A): We have much more information about Cholas than their predecessors.
+Reason (R): The Chola rulers adopted the practice of having inscriptions written on the walls of temples giving a historical narrative of their victories.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true and (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q40) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Pre) 2019]
+| List-I (Ruling Dynasties) | List-II (Capitals) |
+|---|---|
+| A. Pallava | 1. Warangal |
+| B. Pandya | 2. Kanchi |
+| C. Yadava | 3. Madura |
+| D. Kakatiya | 4. Devagiri |
+Code:
+a) A-2, B-1, C-4, D-3
+b) A-2, B-3, C-4, D-1
+c) A-1, B-2, C-3, D-4
+d) A-2, B-4, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-3, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q41) Which one of the following is NOT the characteristics of Tqta System’? [U.P.P.C.S. (Pre) 2019]
+a) Iqta was a revenue collection system.
+b) Siyasatnama was the source of information for Iqta system.
+c) Revenue from Iqta was directly deposited in Sultan’s account.
+d) Muqti was supported to maintain troops out of the revenue collected from Iqta.
+#QuestionEnd
+#AnswerStart
+Answer: c) Revenue from Iqta was directly deposited in Sultan’s account.
+#AnswerEnd
+
+#QuestionStart
+Q42) Given below are two statements, one is labeled as Assertion (A) and the other as Reason (R). [U.P.P.C.S. (Pre) 2018]
+Assertion (A): Turkish invasions on India were successful.
+Reason (R): There was no political unity in North India.
+Select the correct answer from the codes given below.
+a) Both (A) and (R) are true, and (R) is correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q43) Which of the following pairs is not correctly matched? [U.P.P.C.S. (Pre) 2018]
+| State | Ruler |
+|---|---|
+| (a) Devgiri | Shankar Dev |
+| (b) Warangal | Ramchandra Dev |
+| (c) Hoysal | Veer Ballal |
+| (d) Madura | Veer Pandya |
+#QuestionEnd
+#AnswerStart
+Answer: b) Warangal | Ramchandra Dev
+#AnswerEnd
+
+#QuestionStart
+Q44) During Sultanate period, ‘Diwan-i-Amir-Kohi’ was related with which of the following? [U.P.P.C.S. (Mains) 2017]
+a) Army
+b) Revenue
+c) Agriculture
+d) Entertainment
+#QuestionEnd
+#AnswerStart
+Answer: c) Agriculture
+#AnswerEnd
+
+#QuestionStart
+Q45) Arrange the names of the following historical personalities in correct chronological order and select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2017]
+1. Nagabhatta II
+2. Mahipala
+3. Mahendrapala
+4. Vatsaraja
+Codes:
+a) 2, 3, 1, 4
+b) 4, 1, 3, 2
+c) 1, 2, 3, 4
+d) 3, 1, 4, 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 4, 1, 3, 2
+#AnswerEnd
+
+#QuestionStart
+Q46) With reference to digging canals for enriching agriculture, who among the following is given the credit of being the first ruler of 14th century? [U.P.P.C.S. (Mains) 2017]
+a) Balban
+b) Iltutmish
+c) Ghiyasuddin Tughluq
+d) Raziyya Begum
+#QuestionEnd
+#AnswerStart
+Answer: c) Ghiyasuddin Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q47) Who among the following Chola rulers is credited to have built a huge artificial lake known as Chola Gangam? [U.P.P.C.S. (Mains) 2016]
+a) Rajaraja-I
+b) Rajendra
+c) Rajdhiraja
+d) Rajaraja-II
+#QuestionEnd
+#AnswerStart
+Answer: b) Rajendra
+#AnswerEnd
+
+#QuestionStart
+Q48) Who was called ‘a slave of a slave’? [U.P.P.C.S. (Pre) 2016]
+a) Mohd. Ghori
+b) Qutbuddin Aybak
+c) Balban
+d) Iltutmish
+#QuestionEnd
+#AnswerStart
+Answer: d) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q49) Who among the following composed poems with the pennaïne ‘Gulrukhf? [U.P.P.C.S. (Mains) 2015]
+a) Firuz Shah Tughluq
+b) Bahlul Lodi
+c) Sikandar Lodi
+d) Ibrahim Lodi
+#QuestionEnd
+#AnswerStart
+Answer: c) Sikandar Lodi
+#AnswerEnd
+
+#QuestionStart
+Q50) Who out of the following performed a ritual called ‘Hiranya-Garbha’? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) Mayur Sharman
+b) Harish Chandra
+c) Danti Durga
+d) Harsha
+#QuestionEnd
+#AnswerStart
+Answer: c) Danti Durga
+#AnswerEnd
+
+#QuestionStart
+Q51) Who was the founder of Pala dynasty? [U.P.P.C.S. (Mains) 2015]
+a) Dharmapala
+b) Deopala
+c) Gopala
+d) Ramapala
+#QuestionEnd
+#AnswerStart
+Answer: c) Gopala
+#AnswerEnd
+
+#QuestionStart
+Q52) Who were called ‘Dastar-Bandan’? [U.P.P.C.S. (Pre) 2014]
+a) Sufi Saint
+b) Khan
+c) Malik
+d) Ulema
+#QuestionEnd
+#AnswerStart
+Answer: d) Ulema
+#AnswerEnd
+
+#QuestionStart
+Q53) What was the boundary between the Delhi Sultan and Mongols during the period of Alauddin Khalji after 1306 A.D.? [U.P.P.C.S. (Pre) 2014]
+a) Byas
+b) Ravi
+c) Indus
+d) Sutlej
+#QuestionEnd
+#AnswerStart
+Answer: b) Ravi
+#AnswerEnd
+
+#QuestionStart
+Q54) Who was the first Sultan of Delhi who introduced regular coins and declared Delhi the capital of his empire? [U.P.P.C.S. (Mains) 2014]
+a) Nasiruddin Mahmud
+b) Iltutmish
+c) Aram Shah
+d) Balban
+#QuestionEnd
+#AnswerStart
+Answer: b) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q55) Given below are two statements, one labelled as Assertion (A) and the other as Reason (R). [U.P.P.C.S. (Mains) 2013]
+Assertion (A): Balban made his government firm stable and centralized all authority in his hands.
+Reason (R): He wanted to protect NorthWest frontier against Mongol invasions.
+Code :
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q56) Who was the medieval king responsible for introducing the silver coin called ‘Tanka’ in North India? [U.P.P.C.S. (Pre) 2013]
+a) Iltutmish
+b) Raziyya
+c) Alauddin Khalji
+d) Muhammad Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: a) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q57) What was ‘Dar-ul-Shafa’ established by Firuz Tughluq? [U.P.P.C.S. (Pre) 2013]
+a) An almshouse
+b) A free hospital
+c) A library
+d) A guest house for pilgrims
+#QuestionEnd
+#AnswerStart
+Answer: b) A free hospital
+#AnswerEnd
+
+#QuestionStart
+Q58) On whose coins the name of the last Caliph of Baghdad appeared for the first time? [U.P.P.C.S. (Pre) 2012]
+a) Qutbuddin Aybak
+b) Iltutmish
+c) Alauddin Khalji
+d) Alauddin Masud Shah
+#QuestionEnd
+#AnswerStart
+Answer: b) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q59) Pundravardhan Bhukti was located in: [U.P.P.C.S. (Pre) 2012]
+a) North Bengal
+b) Bihar
+c) Odisha
+d) Assam
+#QuestionEnd
+#AnswerStart
+Answer: a) North Bengal
+#AnswerEnd
+
+#QuestionStart
+Q60) Mahodaya is an old name of [U.P.P.C.S. (Mains) 2012]
+a) Allahabad
+b) Khajuraho
+c) Kannauj
+d) Patna
+#QuestionEnd
+#AnswerStart
+Answer: c) Kannauj
+#AnswerEnd
+
+#QuestionStart
+Q61) Which of the following Sangam ports were situated on the western coast? Select the correct answer from the code given below: [U.P.P.C.S. (Pre) 2012]
+1. Korkai
+2. Puhar
+3. Tondi
+4. Mushiri
+Code:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 and 4 only
+d) 4 and 1 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q62) The most learned ruler of the Delhi sultanate who was well versed in various branches of learning including Astronomy, Mathematics and Medicine was [U.P.P.C.S. (Mains) 2012]
+a) Iltutmish
+b) Alauddin Khalji
+c) Muhammad-Bin-Tughluq
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: c) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q63) In which order did the following dynasties rule Delhi? Select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2012]
+1. Khalji
+2. Lodi
+3. Sayyid
+4. Slave
+Code:
+a) 1, 2, 4, 3
+b) 1, 2, 3, 4
+c) 2, 3, 4, 1
+d) 4, 1, 3, 2
+#QuestionEnd
+#AnswerStart
+Answer: d) 4, 1, 3, 2
+#AnswerEnd
+
+#QuestionStart
+Q64) Who was the Chola monarch who gave complete freedom to Sri Lanka and got his daughter married to the Sinhala Prince? [U.P.P.C.S. (Pre) 2012]
+a) Kulottunga I
+b) Rajendra
+c) Adhirajendra
+d) Rajadhiraj I
+#QuestionEnd
+#AnswerStart
+Answer: a) Kulottunga I
+#AnswerEnd
+
+#QuestionStart
+Q65) Which Sultan of Delhi was the first to charge ‘Gharf or House-tax? [U.P.P.C.S. (Mains) 2011]
+a) Balban
+b) Alauddin Khalji
+c) Muhammad-Bin-Tughluq
+d) Firuz Shah Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: b) Alauddin Khalji
+#AnswerEnd
+
+#QuestionStart
+Q66) During the 13th and 14th Centuries AD the Indian peasants did not cultivate: [U.P.P.C.S. (Pre) 2011]
+a) Wheat
+b) Barley
+c) Rice
+d) Maize
+#QuestionEnd
+#AnswerStart
+Answer: d) Maize
+#AnswerEnd
+
+#QuestionStart
+Q67) Which medieval Sultan has the credit of founding the city of Agra and making it the capital of the Sultanate? [U.P.P.C.S. (Mains) 2011]
+a) Iltutmish
+b) Muhammad-Bin-Tughluq
+c) Firuz Shah Tughluq
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: d) Sikandar Lodi
+#AnswerEnd
+
+#QuestionStart
+Q68) Which medieval king of India introduced the Tqta system’? [U.P.P.C.S. (Pre) 2010]
+a) Iltutmish
+b) Balban
+c) Alauddin Khalji
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q69) Who among the following ruler is famous as “Prithvi Raj Chauhan”? [U.P.P.C.S. (Pre) 2010]
+a) Prithviraja-I
+b) Prithviraja-II
+c) Prithviraja-III
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Prithviraja-III
+#AnswerEnd
+
+#QuestionStart
+Q70) Which one of the following pairs is NOT correctly matched? [U.P.P.C.S. (Mains) 2010]
+a) Abdur Rehman - Hammir Raso
+b) Chand Bardai - Prithvi Raj Raso
+c) Jagnik - Alha Khand
+d) Narpati Nalh - Visal Dev Raso
+#QuestionEnd
+#AnswerStart
+Answer: a) Abdur Rehman - Hammir Raso
+#AnswerEnd
+
+#QuestionStart
+Q71) The great Jain Scholar Hemchandra adorned the court of: [U.P.P.C.S. (Pre) 2010]
+a) Amoghavarsha
+b) Kumarapala
+c) Jaysimha Siddharaja
+d) Vidhyadhara
+#QuestionEnd
+#AnswerStart
+Answer: b) Kumarapala
+#AnswerEnd
+
+#QuestionStart
+Q72) Which one of the following Kings of the medieval India began the ‘Public Distribution System’? [U.P.P.C.S. (Mains) 2010]
+a) Alauddin Khalji
+b) Balban
+c) Firuz Shah Tughluq
+d) Muhammad-Bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: a) Alauddin Khalji
+#AnswerEnd
+
+#QuestionStart
+Q73) Who was the first Sultan of Delhi to have levied ‘Haqq-i-Sharb’ or irrigation tax? [U.P.P.C.S. (Mains) 2010]
+a) Alauddin Khalji
+b) Ghiyasuddin Tughluq
+c) Muhammad-Bin-Tughluq
+d) Firuz Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Firuz Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q74) Which Sultan of Delhi is said to have followed the policy of “blood and iron”? [U.P.P.C.S. (Mains) 2009]
+a) Iltutmish
+b) Balban
+c) Jalaluddin Firuz Khalji
+d) Firuz Shah Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: b) Balban
+#AnswerEnd
+
+#QuestionStart
+Q75) Briliadeeshwara Temple of Thanjavur was built during the reign of Chola emperor- [U.P.P.C.S. (Mains) 2008]
+a) Parantaka-I
+b) Rajraja-I
+c) Rajendra-I
+d) Rajadhiraja-I
+#QuestionEnd
+#AnswerStart
+Answer: b) Rajraja-I
+#AnswerEnd
+
+#QuestionStart
+Q76) In which battle Muhammad Ghori defeated Jayachandra [U.P.P.C.S. (Pre) 2008]
+a) Battle of Tarain (1191 A.D.)
+b) Battle of Tarain (1192 A.D.)
+c) Battle of Chandawar (1194 A.D.)
+d) Battle of Kannauj (1194 A.D.)
+#QuestionEnd
+#AnswerStart
+Answer: c) Battle of Chandawar (1194 A.D.)
+#AnswerEnd
+
+#QuestionStart
+Q77) Arrange the following names chronologically and select correct answer from the codes given below: [U.P.P.C.S. (Spl) (Mains) 2008]
+1. Genghis Khan
+2. Mahmud Ghaznavi
+3. Muhammad Ghori
+4. Taimur
+Code:
+a) 1, 2, 3, 4
+b) 2, 3, 1, 4
+c) 3, 4, 1, 2
+d) 4, 1, 2, 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3, 1, 4
+#AnswerEnd
+
+#QuestionStart
+Q78) ‘The king was freed from his people and they from their king.’ On whose death did Badayuni comment this? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Alauddin Khalji
+b) Balban
+c) Iltutmish
+d) Muhammad-Bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q79) Who among the following Chola rulers converted the Bay of Bengal into a ‘Chola Lake’? [U.P.P.C.S. (Spl) (Pre) 2008]
+a) Rajaraja-I
+b) Rajendra-I
+c) Adhiraj
+d) Kulottunga
+#QuestionEnd
+#AnswerStart
+Answer: b) Rajendra-I
+#AnswerEnd
+
+#QuestionStart
+Q80) Who was the founder of ‘Gangai Konda Chola Puram’? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Rajaraja-I
+b) Rajadhiraj
+c) Rajendra-I
+d) Vijayaditya
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajendra-I
+#AnswerEnd
+
+#QuestionStart
+Q81) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Mains) 2008]
+a) Diwan-i-Mushtakharaj: Alauddin Khalji
+b) Diwan-i-Amir Kohi : Muhammad Bin Tughluq
+c) Diwan-i-Khairat: Firuz Tughluq
+d) Diwan-i-Riyasat: Balban
+#QuestionEnd
+#AnswerStart
+Answer: d) Diwan-i-Riyasat: Balban
+#AnswerEnd
+
+#QuestionStart
+Q82) Which of the following dynasties frequently assigned to the ladies high ranking positions in administration? [U.P.P.C.S. (Mains) 2007]
+a) Chola
+b) Chalukya
+c) Pala
+d) Sena
+#QuestionEnd
+#AnswerStart
+Answer: b) Chalukya
+#AnswerEnd
+
+#QuestionStart
+Q83) Kumaradevi, a queen of Govind Chandra Gahadavala, constructed Dharma-Chakra-Jaina Vihara at- [U.P.P.C.S. (Mains) 2007]
+a) Bodh Gaya
+b) Rajgriha
+c) Kushinagar
+d) Sarnath
+#QuestionEnd
+#AnswerStart
+Answer: d) Sarnath
+#AnswerEnd
+
+#QuestionStart
+Q84) Consider the following statements: [U.P.P.C.S. (Pre) 2006]
+Assertion (A): The scheme of the token currency of Muhammad Tughluq proved unsuccessful.
+Reason (R): Muhammad Tughluq did not have the proper control over currency issue.
+Choose the correct answer from the codes given below:
+a) Both (A) and (R) is individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) is individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) is individually true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q85) Consider the following statements: [U.P.P.C.S. (Mains) 2005]
+Assertion (A): Alauddin Khalji introduced price control in Delhi.
+Reason (R): He wanted to pay lower wages to the artisans building his palaces in Delhi.
+Select the correct answer from the code given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q86) The capital of Kadamba Kings was- [U.P.P.C.S. (Mains) 2005]
+a) Tanjore
+b) Vanavasi
+c) Kanchi
+d) Badami
+#QuestionEnd
+#AnswerStart
+Answer: b) Vanavasi
+#AnswerEnd
+
+#QuestionStart
+Q87) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Spl) (Pre) 2004]
+| List-I | List-II |
+|---|---|
+| A. Chalukyas | 1. Madurai |
+| B. Pallava | 2. Kannauj |
+| C. Harsha | 3. Badami |
+| D. Pandya | 4. Kanchipuram |
+Code:
+a) A-3, B-4, C-2, D-1
+b) A-4, B-3, C-2, D-1
+c) A-1, B-4, C-2, D-3
+d) A-1, B-3, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q88) Who of the following was the first woman ruler of medieval India? [U.P.P.C.S. (Mains) 2004]
+a) Raziyya Sultan
+b) Chand Bibi
+c) Durgavati
+d) Noorjahan
+#QuestionEnd
+#AnswerStart
+Answer: a) Raziyya Sultan
+#AnswerEnd
+
+#QuestionStart
+Q89) Which of the following South Indian state was famous for its naval power: [U.P.P.C.S. (Pre) 2004]
+a) Chola
+b) Chera
+c) Pallava
+d) Rashtrakuta
+#QuestionEnd
+#AnswerStart
+Answer: a) Chola
+#AnswerEnd
+
+#QuestionStart
+Q90) Which one of the following rulers from Central Asia conquered North India in 1192? [U.P.P.C.S. (Mains) 2004]
+a) Jalaluddin Mankbarni
+b) Mahmud of Ghazni
+c) Shihabuddin Muhammad Ghori
+d) Genghis Khan
+#QuestionEnd
+#AnswerStart
+Answer: c) Shihabuddin Muhammad Ghori
+#AnswerEnd
+
+#QuestionStart
+Q91) Which Sultan introduced new Department “Aamir-e-Kohi”? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Alauddin Khalji
+b) Firuz Shah Tughluq
+c) Muhammad-Bin-Tughluq
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: c) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q92) The transfer of capital from Delhi to Daulatabad was ordered by: [U.P.P.C.S. (Pre) 2004]
+a) Sultan Firuz Tughluq
+b) Sultan Ghiyasuddin Tuqhluq
+c) Sultan Mubarak
+d) Sultan Muhammad-Bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Sultan Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q93) For the first time the token currency was introduced in India by: [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Akbar
+b) Alauddin Khalji
+c) Bahlul Lodi
+d) Muhammad-Bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q94) Who was the first Sultan of Delhi to participate in the public celebration of Holi? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Firuz Shah Tughluq
+b) Muhammad-Bin-Tughluq
+c) Sikandar Lodi
+d) Ibrahim Lodi
+#QuestionEnd
+#AnswerStart
+Answer: b) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q95) Which Sultan of Delhi established a ‘Translation Department’ to help both communities to understand each other’s ideas better: [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Alauddin Khalji
+b) Firuz Tughluq
+c) Iltutmish
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: b) Firuz Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q96) The Gurjar-Pratiharas dynasty was founded by: [U.P.P.C.S. (Pre) 2003]
+a) Nagabhatta I
+b) Vatsraj
+c) Harshvardhana
+d) Mihir Bhoja
+#QuestionEnd
+#AnswerStart
+Answer: a) Nagabhatta I
+#AnswerEnd
+
+#QuestionStart
+Q97) Find out the two main currencies of the Sultanate period from the code given below: [U.P.P.C.S. (Pre) 2001]
+1. Dam
+2. Jital
+3. Rupiya
+4. Tanka
+Code:
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q98) The game of Polo was introduced in India by- [U.P.P.C.S. (Pre) 2001]
+a) Unani
+b) Britishers
+c) Turks
+d) Mughals
+#QuestionEnd
+#AnswerStart
+Answer: c) Turks
+#AnswerEnd
+
+#QuestionStart
+Q99) Who among the following issued silver coins with Sanskrit legend on one side? [U.P.P.C.S. (Pre) 2000]
+a) Muhammad-Bin-Qasim
+b) Mahmud of Ghazni
+c) Sher Shah
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: b) Mahmud of Ghazni
+#AnswerEnd
+
+#QuestionStart
+Q100) Public Works Department was primarily established by- [U.P.P.C.S. (Pre) 2000]
+a) Iltutmish
+b) Balban
+c) Alauddin Khalji
+d) Firuz Shah Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Firuz Shah Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q101) Who among the following is credited with initiating a new Samvat: [U.P.P.C.S. (Pre) 1999]
+a) Dharmapala
+b) Devapala
+c) Vijayasena
+d) Lakshmanasen
+#QuestionEnd
+#AnswerStart
+Answer: d) Lakshmanasen
+#AnswerEnd
+
+#QuestionStart
+Q102) Who among the following granted, financial aid for the restoration of a demolished mosque in Khambhat? [U.P.P.C.S. (Pre) 1999]
+a) Chamundaraya
+b) Jayasimha Siddharaja
+c) Kumarapala
+d) Mahipaladeva
+#QuestionEnd
+#AnswerStart
+Answer: b) Jayasimha Siddharaja
+#AnswerEnd
+
+#QuestionStart
+Q103) Who among the following had built the Sompura Mahavihar? [U.P.P.C.S. (Pre) 1999]
+a) Kumaragupta-I
+b) Harsha
+c) Dharmapala
+d) Vijayasena
+#QuestionEnd
+#AnswerStart
+Answer: c) Dharmapala
+#AnswerEnd
+
+#QuestionStart
+Q104) Consider the following statements: [U.P.P.C.S. (Pre) 1997]
+Assertion (A): Alauddin’s Deccan expeditions were financial ventures.
+Reason (R): He wanted to annex the Deccan States.
+Code:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q105) Which one of the following dynasties saw the heyday of the Wizarat? [U.P.P.C.S. (Pre) 1997]
+a) The Ilbari
+b) The Khalji
+c) The Tughluq
+d) The Lodi
+#QuestionEnd
+#AnswerStart
+Answer: c) The Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q106) Zawabits were concerned with: [U.P.P.C.S. (Pre) 1997]
+a) State laws
+b) Law regulating mansab system
+c) Laws regulating mint house
+d) Agricultural taxes
+#QuestionEnd
+#AnswerStart
+Answer: a) State laws
+#AnswerEnd
+
+#QuestionStart
+Q107) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Pre) 1997]
+| List-I | List-II |
+|---|---|
+| A. Firuz Tughluq | 1. Diwan-i-Riyasat |
+| B. Balban | 2. Nauroz |
+| C. Alauddin | 3. Construction of Canals |
+| D. Jahangir | 4. Sir Thomas Roe |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-3, B-2, C-1, D-4
+c) A-4, B-1, C-2, D-3
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-2, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q108) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Pre) 1997]
+| List-I | List-II |
+|---|---|
+| A. Akbar | 1. Sadak-I-Azam |
+| B. Muhammad Tughluq | 2. Chahalghani nobles |
+| C. Iltutmish | 3. Ain-i-Dahsala |
+| D. Sher Shah | 4. Token currency |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-3, B-4, C-2, D-1
+c) A-2, B-3, C-1, D-4
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q109) Who brought two Ashoka Pillars to Delhi from Topra and Meerut? [U.P.P.C.S. (Pre) 1996]
+a) Alauddin Khalji
+b) Firuz Shah Tughluq
+c) Muhammad Ghori
+d) Sikandar Lodhi
+#QuestionEnd
+#AnswerStart
+Answer: b) Firuz Shah Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q110) ‘Sharb’ was a tax levied on: [U.P.P.C.S. (Pre) 1996]
+a) Trade
+b) Irrigation
+c) Non-Muslims
+d) Industry
+#QuestionEnd
+#AnswerStart
+Answer: b) Irrigation
+#AnswerEnd
+
+#QuestionStart
+Q111) Which of the following was special feature of Chola administration: [U.P.P.C.S. (Pre) 1995]
+a) Division of empire into mandalam.
+b) Autonomy of village administration.
+c) Full powers to Ministers of State.
+d) Cheap and proper tax collection method.
+#QuestionEnd
+#AnswerStart
+Answer: b) Autonomy of village administration.
+#AnswerEnd
+
+#QuestionStart
+Q112) Consider the following statement connected with Alauddin Khalji: [U.P.P.C.S. (Pre) 1994]
+1. He collected revenue by measuring the cultivated land.
+2. He enforced revenue measures in his entire empire.
+3. He abolished the powers of provincial Governors.
+Select the correct answer from the coding scheme given below:
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q113) In whose tenure, 72 traders were sent to China? [U.P.P.C.S. (Pre) 1992]
+a) Kulottunga-I
+b) Rajendra-I
+c) Rajaraja-I
+d) Rajadhiraja-I
+#QuestionEnd
+#AnswerStart
+Answer: a) Kulottunga-I
+#AnswerEnd
+
+#QuestionStart
+Q114) In which region, the Chola empire was expanded? [U.P.P.C.S. (Pre) 1991]
+a) Vijayanagara Area
+b) Malabar Coast
+c) Hoysala
+d) Coromandel Coast and some region of Deccan
+#QuestionEnd
+#AnswerStart
+Answer: d) Coromandel Coast and some region of Deccan
+#AnswerEnd
+
+#QuestionStart
+Q115) Most of the rulers (amirs) and sultans of Sultanate period belonged to the class- [U.P.P.C.S. (Pre) 1991]
+a) Turkish
+b) Mongols
+c) Tatars
+d) Arabs
+#QuestionEnd
+#AnswerStart
+Answer: a) Turkish
+#AnswerEnd
+
+#QuestionStart
+Q116) Where was the capital of Chalukyas located? [U.P.P.C.S. (Pre) 1991]
+a) Vatapi
+b) Shravasti
+c) Kanchi
+d) Kannauj
+#QuestionEnd
+#AnswerStart
+Answer: a) Vatapi
+#AnswerEnd
+
+#QuestionStart
+Q117) Who was the court historian of Mahmud of Ghazni? [U.P.P.C.S. (Pre) 1991]
+a) Hassan Nizami
+b) Utbi
+c) Firdausi
+d) Chand Bardai
+#QuestionEnd
+#AnswerStart
+Answer: b) Utbi
+#AnswerEnd
+
+#QuestionStart
+Q118) Which slave of Muhammad Ghori conquered Bengal and Bihar? [U.P.P.C.S. (Pre) 1991]
+a) Qutbudin Aybak
+b) Iltutmish
+c) Bakhtiyar Khalji
+d) Yaldauj
+#QuestionEnd
+#AnswerStart
+Answer: c) Bakhtiyar Khalji
+#AnswerEnd
+
+#QuestionStart
+Q119) Who defeated Muhammad Ghori for the first time? [U.P.P.C.S. (Pre) 1990]
+a) Bhima-II
+b) Prithviraj Chauhan
+c) Jai Chand
+d) Prithviraj-II
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhima-II
+#AnswerEnd
+
+#QuestionStart
+Q120) Who was the founder of Slave dynasty? [U.P.P.C.S. (Pre) 1990]
+a) Iltutmish
+b) Alauddin Khalji
+c) Balban
+d) Qutbuddin Aybak
+#QuestionEnd
+#AnswerStart
+Answer: d) Qutbuddin Aybak
+#AnswerEnd
+
+#QuestionStart
+Q121) Who among the following was the founder of Ghaznavid dynasty? [U.P. Lower Sub. (Pre) 2015]
+a) Alptigin
+b) Mahmud
+c) Sebuktigin
+d) Ismail
+#QuestionEnd
+#AnswerStart
+Answer: c) Sebuktigin
+#AnswerEnd
+
+#QuestionStart
+Q122) Which River was the lifeline of Pandya state? [U.P. Lower Sub. (Spl) (Pre) 2010]
+a) Godavari
+b) Krishna
+c) Tungabhadra
+d) Vengi
+#QuestionEnd
+#AnswerStart
+Answer: d) Vengi
+#AnswerEnd
+
+#QuestionStart
+Q123) The capital of Cholas was- [U.P. Lower Sub. (Pre) 2009]
+a) Kaveripattinam
+b) Mahabalipuram
+c) Kanchi
+d) Tanjore
+#QuestionEnd
+#AnswerStart
+Answer: d) Tanjore
+#AnswerEnd
+
+#QuestionStart
+Q124) Which Sultan of Delhi assumed the title of Alexander the Second- [U.P. Lower Sub (Pre) 2008]
+a) Balban
+b) Alauddin Khalji
+c) Muhammad-Bin-Tughluq
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: b) Alauddin Khalji
+#AnswerEnd
+
+#QuestionStart
+Q125) The Sultans of which dynasty ruled the country for the longest period? [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Khalji dynasty
+b) Lodi dynasty
+c) Slave dynasty
+d) Tughluq dynasty
+#QuestionEnd
+#AnswerStart
+Answer: d) Tughluq dynasty
+#AnswerEnd
+
+#QuestionStart
+Q126) Which Sultan of Delhi had established a separate Agriculture Department and had planned the ‘rotation of crops’? [U.P. Lower Sub. (Pre) 2008]
+a) lltutmish
+b) Balban
+c) Alauddin Khalji
+d) Muhammad- Bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Muhammad- Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q127) Consider the following statements: [U.P. Lower Sub. (Spl) (Pre) 2004]
+Assertion (A): Mohd. Ghazni invaded India seventeen times.
+Reason (R): He wanted to establish permanent Muslim Empire in India.
+Select the correct answer from the given codes:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q128) Who was behind the dethroning of Raziyya Begum? [U.P. Lower Sub. (Pre) 2004]
+a) Afghans
+b) Mongols
+c) Turks
+d) Arabs
+#QuestionEnd
+#AnswerStart
+Answer: c) Turks
+#AnswerEnd
+
+#QuestionStart
+Q129) Which were the three dynasties who were engaged in a Tripartite struggle for Kannauj? [U.P. Lower Sub. (Pre) 2002]
+1. Chola
+2. Pala
+3. Gurjara
+4. Rashtrakuta
+Choose the correct answer from the codes given below:
+a) 1, 2, 3
+b) 1, 2, 4
+c) 2, 3, 4
+d) 1, 3, 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q130) First Muslim invader in India was- [U.P. Lower Sub. (Pre) 2002]
+a) Qutbuddin Aybak
+b) Muhammad Ghazni
+c) Muhammad-Bin-Qasim
+d) Muhammad Ghori
+#QuestionEnd
+#AnswerStart
+Answer: c) Muhammad-Bin-Qasim
+#AnswerEnd
+
+#QuestionStart
+Q131) The first Muslim who studied Puranas was- [U.P. Lower Sub. (Spl) (Pre) 2002]
+a) Abul Fazal
+b) Abdul Qadir Badayuni
+c) Al-Biruni
+d) Dara Shikoh
+#QuestionEnd
+#AnswerStart
+Answer: c) Al-Biruni
+#AnswerEnd
+
+#QuestionStart
+Q132) What is the sequence of arrival of these travellers? [U.P. Lower Sub. (Pre) 2002, U.P. P.C.S. (Pre) 1997]
+1. Ibn Battuta
+2. Tavernier
+3. Al-Biruni
+4. Manucci
+Code:
+a) 1, 2, 3, 4
+b) 3, 1, 2, 4
+c) 2, 3, 4, 1
+d) 4, 1, 2, 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 3, 1, 2, 4
+#AnswerEnd
+
+#QuestionStart
+Q133) Which of the following king/kings was/were elected/chosen directly by the public? [UP RO/ARO (Pre) 2021]
+1. Harshavardhan
+2. Gopal
+3. Yashovarman
+4. Nandivarman Pallavamalla
+Select the correct answer using the codes given below:
+a) Only 1, 2 and 4
+b) Only 2, 3 and 4
+c) Only 2 and 4
+d) Only 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q134) Which Chandela King faced Mahmud Ghaznavi? [M.P.P.C.S. (Pre) 2021]
+a) Kumarpal
+b) Bhim II
+c) Vidyadhar
+d) Arunoraja
+#QuestionEnd
+#AnswerStart
+Answer: c) Vidyadhar
+#AnswerEnd
+
+#QuestionStart
+Q135) In what context does ‘Panahi’ and ‘Upanah’ mention in the medieval Indian History? [M.P.P.C.S. (Pre.) 2020]
+a) Cloth
+b) Jewellery
+c) Accommodation
+d) Shoes
+#QuestionEnd
+#AnswerStart
+Answer: d) Shoes
+#AnswerEnd
+
+#QuestionStart
+Q136) Who among the following built “Tribhuvan Narayan Temple” of Chittour? [M.P.P.C.S. (Pre) 2019]
+a) Rana Pratap
+b) Raja Dhang
+c) Parmar Raja Bhoj
+d) Prithiviraj Chouhan
+#QuestionEnd
+#AnswerStart
+Answer: c) Parmar Raja Bhoj
+#AnswerEnd
+
+#QuestionStart
+Q137) Who among the following was not a king of the Parmar dynasty? [M.P.P.C.S. (Pre) 2017]
+a) Upendra
+b) Munj
+c) Gangeyadev
+d) Udayaditya
+#QuestionEnd
+#AnswerStart
+Answer: c) Gangeyadev
+#AnswerEnd
+
+#QuestionStart
+Q138) Ghazi Malik was the founder of which dynasty? [M.P.P.C.S. (Pre) 2017]
+a) Tughluq
+b) Khalji
+c) Sayyid
+d) Lodi
+#QuestionEnd
+#AnswerStart
+Answer: a) Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q139) Which dynasty of Delhi Sultanate ruled for the shortest period? [M.P.P.C.S. (Pre) 2017]
+a) Khalji
+b) Tughluq
+c) Sayyid
+d) Lodi
+#QuestionEnd
+#AnswerStart
+Answer: a) Khalji
+#AnswerEnd
+
+#QuestionStart
+Q140) Ain-ul-Mulk Multani did not serve under which of the following rulers? [M.P.P.C.S. (Pre) 2017]
+a) Alauddin Khalji
+b) Muhammad-Bin Tughluq
+c) Firuz Tughluq
+d) Iltutmish
+#QuestionEnd
+#AnswerStart
+Answer: d) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q141) Which of the following Rajput dynasties founded the city of Dhilika (Delhi) in the eighth century? [M.P.P.C.S. (Pre) 2014]
+a) Parmara dynasty
+b) Solanki dynasty
+c) Tomar dynasty
+d) Chauhan dynasty
+#QuestionEnd
+#AnswerStart
+Answer: c) Tomar dynasty
+#AnswerEnd
+
+#QuestionStart
+Q142) King Bhoja ruled over- [M.P.P.C.S. (Pre) 2010]
+a) Bastar
+b) Dhar
+c) Mahakaushal
+d) Ujjain
+#QuestionEnd
+#AnswerStart
+Answer: b) Dhar
+#AnswerEnd
+
+#QuestionStart
+Q143) Aalha-Udal were related to- [M.P.P.C.S. (Pre) 2010]
+a) Chanderi
+b) Vidisha
+c) Mahoba
+d) Panna
+#QuestionEnd
+#AnswerStart
+Answer: c) Mahoba
+#AnswerEnd
+
+#QuestionStart
+Q144) Who among the following were not the rivals of Iltutmish? [Uttarakhand PCS (Pre) 2021]
+a) Tajuddin Yeldoz
+b) Nasiruddin Kubacha
+c) Ali Mardan
+d) Malik Altunia
+#QuestionEnd
+#AnswerStart
+Answer: d) Malik Altunia
+#AnswerEnd
+
+#QuestionStart
+Q145) Who was known as ‘Hazar-Dinari’? [Uttarakhand PCS (Pre) 2021]
+a) Balban
+b) Malik Kafur
+c) Sikandar Lodi
+d) Qutubuddin Aibak
+#QuestionEnd
+#AnswerStart
+Answer: b) Malik Kafur
+#AnswerEnd
+
+#QuestionStart
+Q146) Which among the following Rashtrakuta King defeated Pratihara ruler Nagabhatta-II? [Uttarakhand PCS (Pre) 2021]
+a) Dhruva
+b) Govind-III
+c) Indra-III
+d) Krishna-Ill
+#QuestionEnd
+#AnswerStart
+Answer: b) Govind-III
+#AnswerEnd
+
+#QuestionStart
+Q147) Which of the following dynasty is associated with the female king Rudrma Devi? [Uttarakhand PCS (Pre) 2021]
+a) Eastern Ganga
+b) Hoyasala
+c) Kakatiya
+d) Western Chalukya
+#QuestionEnd
+#AnswerStart
+Answer: c) Kakatiya
+#AnswerEnd
+
+#QuestionStart
+Q148) Which one of the following places was not the centre of learning during early medieval period? [Uttarakhand P.C.S. (Pre) 2016]
+a) Nalanda
+b) Vikramshila
+c) Taxila
+d) Uddantapur
+#QuestionEnd
+#AnswerStart
+Answer: c) Taxila
+#AnswerEnd
+
+#QuestionStart
+Q149) The famous historian who visited India with Mahmud of Ghazni was- [Uttarakhand P.C.S. (Pre) 2010]
+a) Ferishta
+b) Al-Beruni
+c) Afif
+d) Ibn Battuta
+#QuestionEnd
+#AnswerStart
+Answer: b) Al-Beruni
+#AnswerEnd
+
+#QuestionStart
+Q150) Coins of which Muslim ruler bear an image of Devi Lakshmi? [Uttarakhand P.C.S. (Pre) 2006]
+a) Muhammad Ghori
+b) Alauddin Khalji
+c) Akbar
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Muhammad Ghori
+#AnswerEnd
+
+#QuestionStart
+Q151) Who of the following has given a detailed description of the postal system obtained during the Sultanate period? [Uttarakhand P.C.S. (Pre) 2002]
+a) Amir Khusrau
+b) Ibn Battuta
+c) Sultan Firuz Shah
+d) Ziyauddin Barani
+#QuestionEnd
+#AnswerStart
+Answer: b) Ibn Battuta
+#AnswerEnd
+
+#QuestionStart
+Q152) Who among these was not from the Slave dynasty? [Uttarakhand Lower Sub. (Pre) 2010]
+a) Balban
+b) Iltutmish
+c) Qutbuddin Aybak
+d) Ibrahim Lodi
+#QuestionEnd
+#AnswerStart
+Answer: d) Ibrahim Lodi
+#AnswerEnd
+
+#QuestionStart
+Q153) Quwwat-ul-Islam Mosque and Arhai Din Ka Jhonpra are situated respectively at: [Jharkhand P.C.S. (Pre.) 2021]
+a) Delhi and Ajmer
+b) Delhi and Lahore
+c) Ajmer and Delhi
+d) Lahore and Ajmer
+#QuestionEnd
+#AnswerStart
+Answer: a) Delhi and Ajmer
+#AnswerEnd
+
+#QuestionStart
+Q154) Government of medieval period was a composite structure. It was a fusion of: [Jharkhand P.C.S. (Pre) 2021]
+a) Perso-Arabic
+b) Turko-Mongol (Central Asian)
+c) Perso-Arabic, Turko-Mongol (Central Asian)
+d) Perso-Arabic,Turko-Mongol-Indian Elements
+#QuestionEnd
+#AnswerStart
+Answer: d) Perso-Arabic,Turko-Mongol-Indian Elements
+#AnswerEnd
+
+#QuestionStart
+Q155) After the attack of Mahmud Ghazni-, who among the following reconstructed the Somnath temple? [Jharkhand PCS (Mains) 2016]
+a) Bhimraja-I
+b) Bhimdev
+c) Mularaja
+d) Jayasingh Siddhiraj
+#QuestionEnd
+#AnswerStart
+Answer: b) Bhimdev
+#AnswerEnd
+
+#QuestionStart
+Q156) The earliest reference of the use of magnetic compass in the Indian seas was by- [Jharkhand PCS (Pre) 2016]
+a) Marco Polo
+b) Ibn Battuta
+c) Sadruddin Muhammad Aufi’
+d) Nicolo Conti
+#QuestionEnd
+#AnswerStart
+Answer: c) Sadruddin Muhammad Aufi’
+#AnswerEnd
+
+#QuestionStart
+Q157) Which form of Buddhism was prominent during the Sultanate period? [Jharkhand P.C.S. (Pre) 2013]
+a) Theravada
+b) Hinayana
+c) Vajrayana
+d) Tantrayana
+#QuestionEnd
+#AnswerStart
+Answer: c) Vajrayana
+#AnswerEnd
+
+#QuestionStart
+Q158) Which Sultan of Delhi Sultanate is known as “Lakh Baksh”? [Jharkhand P.C.S. (Pre) 2003]
+a) Iltutmish
+b) Balban
+c) Muhammad-Bin-Tughluq
+d) Qutbuddin Aybak
+#QuestionEnd
+#AnswerStart
+Answer: d) Qutbuddin Aybak
+#AnswerEnd
+
+#QuestionStart
+Q159) Information about which king is found in the ‘Kuruspal Inscription’? [Chhattisgarh P.C.S. (Pre) 2020]
+a) Harsha Gupta
+b) Mahapravar Raj
+c) Someshwar I
+d) Mahashivgupta Balarjun
+#QuestionEnd
+#AnswerStart
+Answer: c) Someshwar I
+#AnswerEnd
+
+#QuestionStart
+Q160) Hadis is- [Chhattisgarh P.C.S. (Pre) 2014]
+a) Islamic Law
+b) Settlement Law
+c) Tax of Sultanate period
+d) Mansabdar
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Islamic Law
+#AnswerEnd
+
+#QuestionStart
+Q161) Which Chola King started Naval Army? [Chhattisgarh P.C.S. (Pre) 2014]
+a) Rajendra Chola
+b) Parantak Chola
+c) Rajaraja I
+d) Rajaraja II
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajaraja I
+#AnswerEnd
+
+#QuestionStart
+Q162) Ibn Battuta, the Moorish traveller, visited India during the reign of: [Chhattisgarh P.C.S. (Pre) 2013]
+a) Muhammad-Bin-Tughluq
+b) Babar
+c) Akbar
+d) Mahmud Ghazni
+#QuestionEnd
+#AnswerStart
+Answer: a) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q163) Which ruler of Bengal founded the ancient University called ‘Vikramshila’? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Dharamapala
+b) Gopala
+c) Devpala
+d) Mahipala
+#QuestionEnd
+#AnswerStart
+Answer: a) Dharamapala
+#AnswerEnd
+
+#QuestionStart
+Q164) Match list-I with list-II and select the correct answer using the codes given below the lists: [Chhattisgarh PCS (Pre) 2008]
+| List-I | List-II |
+|---|---|
+| A. Pratihara | 1. Tanjo re |
+| B. Chola | 2. Anhilwada |
+| C. Parmara | 3. Dhara |
+| D. Solanki | 4. Kannauj |
+Code:
+a) A-4, B-2, C-3, D-1
+b) A-4, B-3, C-2, D-1
+c) A-4, B-2, C-1, D-3
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-1, C-3, D-2
+#AnswerEnd
+
+#QuestionStart
+Q165) Which one of the following statements is NOT true about Balban? [Chhattisgarh P.C.S. (Pre) 2008]
+a) He propounded the theory of Niyabat-e-Khudai.
+b) He introduced the Iqtadari System.
+c) He eliminated the power of Turkan-e-Chahalgani.
+d) He quelled down the revolt of Bengal.
+#QuestionEnd
+#AnswerStart
+Answer: b) He introduced the Iqtadari System.
+#AnswerEnd
+
+#QuestionStart
+Q166) Which Sultan wanted to launch a new religion, but Ulemas opposed the move? [Chhattisgarh P.C.S. (Pre) 2003]
+a) Balban
+b) Alauddin
+c) Muhammad Tughluq
+d) Iltutmish
+#QuestionEnd
+#AnswerStart
+Answer: b) Alauddin
+#AnswerEnd
+
+#QuestionStart
+Q167) What were Manigramam and Nanadesi in early medieval India? [CDS 2022 (II)]
+a) Cluster of non-revenue paying villages
+b) Village-level community groups
+c) Guilds of Indian merchants
+d) Literary societies in the capital towns
+#QuestionEnd
+#AnswerStart
+Answer: c) Guilds of Indian merchants
+#AnswerEnd
+
+#QuestionStart
+Q168) What was a munjaniq in medieval period? [CDS 2022 (II)]
+a) Cannon
+b) Catapult
+c) Gun carriage
+d) Portable armoury
+#QuestionEnd
+#AnswerStart
+Answer: b) Catapult
+#AnswerEnd
+
+#QuestionStart
+Q169) Who among the following Sultans succeeded in finally breaking and destroying the power of Turkan-i-Chihalgani? [CDS 2020 (I)]
+a) Iltutmish
+b) Balban
+c) Alauddin Khalji
+d) Muhammad bin Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: b) Balban
+#AnswerEnd
+
+#QuestionStart
+Q170) Who among the following Mongol leaders/ commanders did not cross Indus to attack India? [CDS 2020 (I)]
+a) Chenghiz Khan
+b) Tair Bahadur
+c) Abdullah
+d) Qutlugh Khwaja
+#QuestionEnd
+#AnswerStart
+Answer: a) Chenghiz Khan
+#AnswerEnd
+
+#QuestionStart
+Q171) Iqta in medieval India meant [CDS 2016 (I)]
+a) land assigned to religious personnel for spiritual purposes
+b) land revenue from different territorial units assigned to army officers
+c) charity for educational and cultural activities
+d) the rights of the Zamindar
+#QuestionEnd
+#AnswerStart
+Answer: b) land revenue from different territorial units assigned to army officers
+#AnswerEnd
+
+#QuestionStart
+Q172) Consider the following statements about Alauddin Khilji’s market policy: [CDS 2015 (II)]
+1. He placed markets under the control of a high officer called ‘Shahna’ for strictly controlling the shopkeepers and prices.
+2. In order to ensure a regular supply of cheap foodgrains, he ordered the land revenue from Doab region to be paid directly to the state.
+Which of the statement(s) given above is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q173) Match List I with List II and select the correct answer using the codes given below the lists: [CDS 2015 (II)]
+| List I (King) | List II (Region) |
+|---|---|
+| A. Shashanka | 1. Assam |
+| B. Kharavela | 2. Maharashtra |
+| C. Simuka | 3. Odisha |
+| D. Bhaskara Varman | 4. Bengal |
+Codes
+a) A-4, B-2, C-3, D-1
+b) A-1, B-3, C-2, D-4
+c) A-4, B-3, C-2, D-1
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q174) Marco Polo’s trip to India (1271 AD) earned much fame in Europe on account of: [CDS 2014 (II)]
+a) his having discovered a safe route to India
+b) his having established amicable relations with many Kings of India
+c) his account of commercial, religious and social conditions in the East
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) his account of commercial, religious and social conditions in the East
+#AnswerEnd
+
+#QuestionStart
+Q175) Consider the following statements regarding Indian Feudalism in the 'early medieval period: [CDS 2014 (I)]
+1. The revenue assignments were called Bhoga.
+2. The hereditary chiefs neither collected revenues nor assumed administrative powers.
+Which of the statement(s) given above is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q176) Which one of the following statements is NOT correct? [CAPF 2017]
+a) Sharaf Qai was a minister of Allauddin Khilji.
+b) Under Giyasuddin Tughluq Muqtis were warned not to ill-treat any of their officials for small amounts taken over and above their salaries.
+c) The Arabic work masalik-i-Absar gives description of the functioning of Iqta system, under Muhammad-bin- Tughluq.
+d) Marco Polo has not mentioned about Pearl Fishery of Tuticorin in South India.
+#QuestionEnd
+#AnswerStart
+Answer: d) Marco Polo has not mentioned about Pearl Fishery of Tuticorin in South India.
+#AnswerEnd
+
+#QuestionStart
+Q177) Which one among the following was/were the motive/motives behind Mohammad Tughlaq’s transfer of capital from Delhi to Daulatabad? [CAPF 2014]
+1. The shift to Daulatabad would give him a chance to establish control over Deccan and Gujarat.
+2. It would provide access to the Western and Southern ports.
+3. It would protect him from direct Mongol invasions from the North-Western frontier.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q178) Which of the following rulers does not belong to Gurjara-Pratihar dynasty? [R.A.S./R.T.S. (Pre) 2018]
+a) Nagabhatta-II
+b) Mahendrapal-I
+c) Devapal-1
+d) Bharatrabhatta-I
+#QuestionEnd
+#AnswerStart
+Answer: d) Bharatrabhatta-I
+#AnswerEnd
+
+#QuestionStart
+Q179) Who among the following laid the foundation of the Chola Empire in the IXth century A.D.? [R.A.S./R.T.S. (Pre) 2016]
+a) Krishna-I
+b) Rajraja Chola
+c) Vijayalaya
+d) Parantaka
+#QuestionEnd
+#AnswerStart
+Answer: c) Vijayalaya
+#AnswerEnd
+
+#QuestionStart
+Q180) Which one of the following pairs is NOT correctly matched? [RAS/RTS (Pre) 2016]
+a) Bahadur Shah : Gujarat
+b) Chand Bibi : Oudh
+c) Raziyya Sultan : Delhi
+d) Baz Bahadur : Malwa
+#QuestionEnd
+#AnswerStart
+Answer: b) Chand Bibi : Oudh
+#AnswerEnd
+
+#QuestionStart
+Q181) Match list-I with list-II and select the correct answer using the codes given below the lists: [R.A.S./R.T.S.(Pre) 2013]
+| List-I | List-II |
+|---|---|
+| A. Diwan-i-Arz | 1. Dealt with religious matters |
+| B. Diwan-i-Risalat | 2. Dealt with state’s correspondence |
+| C. Diwan-i-Insha | 3. Dealt with Finance Dept |
+| D. Diwan-i-Wizarat | 4. Dealt with Military Dept |
+Code:
+a) A-1, B-3, C-4, D-2
+b) A-2, B-4, C-1, D-3
+c) A-3, B-2, C-1, D-4
+d) A-4, B-1, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-1, C-2, D-3
+#AnswerEnd
+
+#QuestionStart
+Q182) In which battle did Maharana Sanga defeat Ibrahim Lodi? [R.A.S.ZR.T.S.(Pre) 2012]
+a) Battle of Khatoli
+b) Battle of Sarangpur
+c) Battle of Siwana
+d) Battle of Khanua
+#QuestionEnd
+#AnswerStart
+Answer: a) Battle of Khatoli
+#AnswerEnd
+
+#QuestionStart
+Q183) Who is the author of ‘Prithviraja Vijaya’? [R.A.S.ZR.T.S.(Pre) 2012]
+a) Chand Bardai
+b) Prithviraja Chauhan
+c) Jayanaka
+d) Nayanchand Suri
+#QuestionEnd
+#AnswerStart
+Answer: c) Jayanaka
+#AnswerEnd
+
+#QuestionStart
+Q184) The Sultan of Delhi who was very concerned about charity and alms and established a department called ‘Diwan-i-Khairat’ for it, was: [R.A.S./R.T.S. (Pre) 1999]
+a) Iltutmish
+b) Firuz Tughluq
+c) Ghiyasuddin Shah
+d) Bahlul Lodi
+#QuestionEnd
+#AnswerStart
+Answer: b) Firuz Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q185) According to Hammir Mahakavya the Chauhans were: [R.A.S./R.T.S.(Pre) 1999]
+a) Chandravanshi
+b) Brahmins
+c) Yaduvanshis
+d) Suryavanshis
+#QuestionEnd
+#AnswerStart
+Answer: d) Suryavanshis
+#AnswerEnd
+
+#QuestionStart
+Q186) Who among the following opposed the power of the Khalifa? [67th B.P.S.C. (Pre) (Re-Exam) 2022]
+a) Iltutmish
+b) Alauddin Khalji
+c) Muhammad-bin-Tughlaq
+d) Balban
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) None of the above/More than one of the above
+#AnswerEnd
+
+#QuestionStart
+Q187) Which Sultan demanded half the crops on land after measurement as revenue? [B.P.S.C. (Pre) 2018]
+a) Iltutmish
+b) Balban
+c) Alauddin Khalji
+d) Muhammad-Bin Tughluq
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Alauddin Khalji
+#AnswerEnd
+
+#QuestionStart
+Q188) Which Sultan was reputed to be ‘Akbar of Kashmir’? [64th B.P.S.C. (Pre) 2018]
+a) Sultan Shamsuddin Shah
+b) Sultan Qutbuddin
+c) Sultan Sikandar
+d) Sultan Zainul Abidin
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Sultan Zainul Abidin
+#AnswerEnd
+
+#QuestionStart
+Q189) Who was the founder of Kamata dynasty? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Nanyadev
+b) Narshimhadev
+c) Vijaydev
+d) Haridev
+e) None of the above/more than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Nanyadev
+#AnswerEnd
+
+#QuestionStart
+Q190) Nalanda Vihar was destroyed by: [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Bakhtiyar Khalji
+b) Qutubddin Aibak
+c) Muhammad Bin Tughlaq
+d) Alauddin Khalji
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Bakhtiyar Khalji
+#AnswerEnd
+
+#QuestionStart
+Q191) In which among the following states, ‘Odantipur’ Education Centre was situated? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Bengal
+b) Bihar
+c) Gujarat
+d) Tamil Nadu
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Bihar
+#AnswerEnd
+
+#QuestionStart
+Q192) Who was the ruler of Devagiri at the time of Alauddin Khalji’s invasion? [53rd to 55th B.P.S.C. (Pre) 2011, 47th B.P.S.C. (Pre) 2005]
+a) Ramachandra Dev
+b) Prataprudra Dev
+c) Malik Kafur
+d) Rana Ratan Singh
+#QuestionEnd
+#AnswerStart
+Answer: a) Ramachandra Dev
+#AnswerEnd
+
+#QuestionStart
+Q193) “When he attained Kingship, he was quite independent of rulers and orders of Shariat.” For which Sultan Barani made this statement? [46th B.P.S.C. (Pre) 2004]
+a) Iltutmish
+b) Balban
+c) Alauddin Khalji
+d) Muhammad-bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: c) Alauddin Khalji
+#AnswerEnd
+
+#QuestionStart
+Q194) Which one of the following dynasties ruled over India after the invasion of Timur? [45th B.P.S.C. (Pre) 2001]
+a) Lodi Dynasty
+b) Sayyid dynasty
+c) Tughluq dynasty
+d) Khalji dynasty
+#QuestionEnd
+#AnswerStart
+Answer: b) Sayyid dynasty
+#AnswerEnd
+
+#QuestionStart
+Q195) Which one of the following sultans provided employment to the unemployed? [45th B.P.S.C. (Pre) 2001]
+a) Alauddin Khalji
+b) Muhammad-Bin-Tughluq
+c) Firuz Tughluq
+d) Sher Shah Suri
+#QuestionEnd
+#AnswerStart
+Answer: c) Firuz Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q196) Which one of the following Sultans of Delhi introduced measures for improving the quality of fruits? [44th B.P.S.C. (Pre) 2000]
+a) Muhammad-Bin-Tughluq
+b) Firuz Tughluq
+c) Sikandar Lodi
+d) Sher Shah Suri
+#QuestionEnd
+#AnswerStart
+Answer: b) Firuz Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q197) The ruler of Suvarnabhumi, who founded a Buddhist monastery at Nalanda and requested Devapala through his ambassador to grant, five villages for its maintenance, was- [64th B.P.S.C. (Pre) 1999]
+a) Dharanindra
+b) Sangramadhananjaya
+c) Balaputradeva
+d) Chudamanivarmana
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Balaputradeva
+#AnswerEnd
+
+#QuestionStart
+Q198) The capital of Qutbuddin Aybak was- [41st B.P.S.C. (Pre) 1996]
+a) Lahore
+b) Delhi
+c) Ajmer
+d) Lakhnauti
+#QuestionEnd
+#AnswerStart
+Answer: a) Lahore
+#AnswerEnd
+
+#QuestionStart
+Q199) Which of the following indicates taxes levied, on the land product? [40th B.P.S.C. (Pre) 1995]
+i. Kharaj
+ii. Khums
+iii. Ushr
+iv. Muktai
+Select your answer from the following codes.
+a) only i
+b) only ii and iii
+c) only i, ii and iii
+d) only i, iii and iv
+#QuestionEnd
+#AnswerStart
+Answer: d) only i, iii and iv
+#AnswerEnd
+
+#QuestionStart
+Q200) Coins-Tanka, Shashgani and Jital of Sultanate period was made of which of the following metals- [39th B.P.S.C. (Pre) 1994]
+a) Silver, Copper
+b) Gold, Silver, Copper
+c) Silver, Zink, Copper
+d) Gold, Zink, Copper
+#QuestionEnd
+#AnswerStart
+Answer: a) Silver, Copper
+#AnswerEnd
+
+#QuestionStart
+Q201) During the regime of which Sultan was the Khalisa land developed on a large scale? [39th B.P.S.C. (Pre) 1994]
+a) Ghiyasuddin Balban
+b) Alauddin Khalji
+c) Muhammad-Bin-Tughluq
+d) Firuz Shah Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: b) Alauddin Khalji
+#AnswerEnd

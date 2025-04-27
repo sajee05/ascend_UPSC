@@ -1,0 +1,103 @@
+#QuestionStart
+Q1) Consider the following statements: (2023)
+1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.
+2. Biligirirangan Hills constitute the easternmost part of Satpura Range.
+3. Seshachalam Hills constitute the southernmost part of Western Ghats
+How many of the statements given above are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q2) In a particular region in India, the local people train the roots of living trees into robust bridges across the streams. As the time passes, these bridges become stronger. These unique 'living root bridges' are found in (2015)
+a) Meghalaya
+b) Himachal Pradesh
+c) Jharkhand
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: a) Meghalaya
+#AnswerEnd
+
+#QuestionStart
+Q3) In India, in which one of the following types of forests is teak a dominant tree species? (2015)
+a) Tropical moist deciduous forest
+b) Tropical rainforest
+c) Tropical thorn scrub forest
+d) Temperate forest with grasslands
+#QuestionEnd
+#AnswerStart
+Answer: a) Tropical moist deciduous forest
+#AnswerEnd
+
+#QuestionStart
+Q4) If you travel through the Himalayas, you are likely to see which of the following plants are naturally growing there? (2014)
+1. Oak
+2. Rhododendron
+3. Sandalwood
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following have coral reefs? (2014)
+1. Andaman and Nicobar Islands
+2. Gulf of Kachchh
+3. Gulf of Mannar
+4. Sunderbans
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the wetlands of India, consider the following statements: (2012)
+1. The country’s total geographical area under the category of wetlands is recorded more in Gujarat as compared to other States.
+2. In India, the total geographical area of coastal wetlands is larger than that of inland wetlands.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q7) In which one among the following categories of protected areas in India are local people not allowed to collect and use biomass? (2012)
+a) Biosphere Reserves
+b) National Parks
+c) Wetlands declared under Ramsar Convention
+d) Wildlife Sanctuaries
+#QuestionEnd
+#AnswerStart
+Answer: b) National Parks
+#AnswerEnd
+
+#QuestionStart
+Q8) The 2004 Tsunami made people realise that mangroves can serve as a reliable safety hedge against coastal calamities. How do mangroves function as a safety hedge? (2011)
+a) The mangrove swamps separate the human settlements from the sea by a wide zone in which people neither live nor venture out.
+b) The mangroves provide both food and medicines which people are in need of after any natural disaster.
+c) The mangrove trees are tall with dense canopies and serve as an excellent shelter during a cyclone or Tsunami.
+d) The mangrove trees do not get uprooted by storms and tides because of their extensive roots.
+#QuestionEnd
+#AnswerStart
+Answer: d) The mangrove trees do not get uprooted by storms and tides because of their extensive roots.
+#AnswerEnd

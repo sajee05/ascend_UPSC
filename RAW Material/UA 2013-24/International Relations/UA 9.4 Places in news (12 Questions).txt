@@ -1,0 +1,180 @@
+#QuestionStart
+Q1) Consider the following statements : (2024)
+Statement-I: There is instability and a worsening security situation in the Sahel region.
+Statement-II: There have been military takeovers/coups d'état in several countries of the Sahel region in the recent past.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement- II is incorrect.
+d) Statement--I is incorrect, but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following pairs: (2024)
+| Country: | Reason for being in the news |
+|---|---|
+| 1. Argentina: | Worst economic crisis |
+| 2. Sudan: | War between the country's regular army and paramilitary forces |
+| 3. Turkey: | Rescinded its membership of NATO |
+How many of the pairs given above are correctly matched?
+a) Only one pair
+b) Only two pairs
+c) All three pairs
+d) None of the pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2024)
+Statement-I: Sumed pipeline is a strategic route for Persian Gulf oil and natural gas shipments to Europe.
+Statement-II: Sumed pipeline connects the Red Sea with the Mediterranean Sea.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following countries: (2024)
+1. Italy
+2. Japan
+3. Nigeria
+4. South Korea
+5. South Africa
+Which of the above countries are frequently mentioned in the media for their low birth rates, aging population or declining population?
+a) 1, 2 and 4
+b) 1,3 and 5
+c) 2 and 4 only
+d) 3 and 5 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following pairs: (2023)
+| Regions often mentioned in news : | Reason for being in news |
+|---|---|
+| 1. North Kivu and Ituri : | War between Armenia and Azerbaijan |
+| 2. Nagorno- Karabakh : | Insurgency in Mozambique |
+| 3. Kherson and Zaporizhzhia : | Dispute between Israel and Lebanon |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following pairs: (2023)
+| Area of conflict mentioned in news : | Country where it is located |
+|---|---|
+| 1. Donbas : | Syria |
+| 2. Kachin : | Ethiopia |
+| 3. Tigray : | North Yemen |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q7) In the recent years Chad, Guinea, Mali and Sudan caught international attention for which one of the following reasons is common to all of them? (2023)
+a) Discovery of rich deposits of rare earth elements
+b) Establishment of Chinese military bases
+c) Southward expansion of Sahara Desert
+d) Successful coups
+#QuestionEnd
+#AnswerStart
+Answer: d) Successful coups
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following countries: (2022)
+1. Armenia
+2. Azerbaijan
+3. Croatia
+4. Romania
+5. Uzbekistan
+Which of the above are members of the Organization of Turkic States ?
+a) 1, 2 and 4 only
+b) 1 and 3 only
+c) 2 and 5 only
+d) 3, 4 and 5 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Which one of the following statements best reflects the issue with Senkaku Islands, sometimes mentioned in the news? (2022)
+a) It is generally believed that they are artificial islands made by a country around the South China Sea.
+b) China and Japan engage in maritime disputes over these islands in the East China Sea. -
+c) A permanent American military base has been set up there to help Taiwan to increase its defence capabilities.
+d) Though the International Court of Justice declared them as no man’s land, some South-East Asian countries claim them.
+#QuestionEnd
+#AnswerStart
+Answer: b) China and Japan engage in maritime disputes over these islands in the East China Sea. -
+#AnswerEnd
+
+#QuestionStart
+Q10) Which one of the following statements best describes the ‘Polar Code’ ? (2022)
+a) It is the international code of safety for ships operating in polar waters.
+b) It is the agreement of the countries around the North Pole regarding the demarcation of their territories in the polar region.
+c) It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole.
+d) It is a trade and security agreement of the member countries of the Arctic Council.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is the international code of safety for ships operating in polar waters.
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following pairs : (2022)
+| Country | Important reason for being in the news recently |
+|---|---|
+| 1. Chad | Setting up of permanent military base by China |
+| 2. Guinea | Suspension of Constitution and Government by military |
+| 3. Lebanon | Severe and prolonged economic depression |
+| 4. Tunisia | Suspension of Parliament by President |
+How many pairs given above are correctly matched?
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three pairs
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following pairs: (2014)
+| Region often in news | Country |
+|---|---|
+| 1. Chechnya | Russian Federation |
+| 2. Darfur | Mali |
+| 3. Swat Valley | Iraq |
+Which of the above pairs is/are correctly matched?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd

@@ -1,0 +1,383 @@
+#QuestionStart
+Q1) With reference to ancient Indian History, consider the following pairs: [UPSC CSE Pre 2023]
+| Literary work | Author |
+|---|---|
+| 1. Devichandraguptam | Bilhana |
+| 2. Hammira-Mahakavya | Nayachandra Suri |
+| 3. Milinda-panha | Nagarjuna |
+| 4. Nitivakyamrita | Somadeva Suri |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) In medieval India, the term “Fanam” referred to: [UPSC CSE Pre. 2022]
+a) Clothing
+b) Coins
+c) Ornaments
+d) Weapons
+#QuestionEnd
+#AnswerStart
+Answer: b) Coins
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following pairs: [UPSC CSE Pre 2021 ]
+| Historical place: | Well-known for: |
+|---|---|
+| 1. Burzahom | Rock-cut shrines |
+| 2. Chandra-Ketugarh | Terracotta art |
+| 3. Ganeshwar | Copper artefacts |
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: [UPSC CSE Pre 2021]
+1. St. Francis Xavier was one of the founding members of the Jesuit Order.
+2. St. Francis Xavier died in Goa and a church is dedicated to him there.
+3. The Feast of St. Francis Xavier is celebrated in Goa each year.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following statements is correct? [UPSC CSE Pre 2021]
+a) Ajanta Caves lie in the gorge of Waghora river.
+b) Sanchi Stupa lies in the gorge of Chambal river.
+c) Pandu-lena Cave Shrines lie in the gorge of Narmada river.
+d) Amaravati Stupa lies in the gorge of Godavari river.
+#QuestionEnd
+#AnswerStart
+Answer: a) Ajanta Caves lie in the gorge of Waghora river.
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements: [UPSC CSE Pre 2021]
+1. 21st February is declared to be the International Mother Language Day by UNICEF.
+2. The demand that Bangla has to be one of the national languages was raised in the Constituent Assembly of Pakistan.
+Which of the above statements is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to India, the terms ‘Halbi, ho and Kui’ pertain to: [UPSC CSE Pre 2021]
+a) Dance forms of Northwest India
+b) Musical instruments
+c) Pre-historic cave paintings
+d) Tribal languages
+#QuestionEnd
+#AnswerStart
+Answer: d) Tribal languages
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following pairs: [UPSC CSE Pre 2017]
+| Traditions | Communities |
+|---|---|
+| 1. Chaliha Sahib Festival | Sindhis |
+| 2. Nanda Raj Jaat Yatra | Gonds |
+| 3. Wari-Warkari | Santhals |
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Banjaras during the medieval period of Indian history were generally: [UPSC CSE Pre. 2016]
+a) agriculturists
+b) warriors
+c) weavers
+d) traders
+#QuestionEnd
+#AnswerStart
+Answer: d) traders
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to the cultural history of medieval India, consider the following statements : [UPSC CSE Pre. 2016]
+1. Siddhas (Sittars) of Tamil region were monotheistic and condemned idolatry.
+2. Lingayats of Kannada region questioned the theory of rebirth and rejected the caste hierarchy.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to the cultural history of India, the memorizing of chronicles, dynastic histories and Epic tales was the profession of who of the following? [UPSC CSE Pre. 2016]
+a) Shramana
+b) Parivraajaka
+c) Agrahaarika
+d) Maagadha
+#QuestionEnd
+#AnswerStart
+Answer: d) Maagadha
+#AnswerEnd
+
+#QuestionStart
+Q12) Chaitra of the national calendar based on the Saka Era corresponds to which one of the following dates of the Gregorian calendar in a normal year of 365 days? [UPSC CSE Pre. 2014]
+a) 22nd March (or 21st March)
+b) 15th May (or 16th May)
+c) 31st March (or 30th March)
+d) 21st April (or 20th April)
+#QuestionEnd
+#AnswerStart
+Answer: a) 22nd March (or 21st March)
+#AnswerEnd
+
+#QuestionStart
+Q13) The national motto of India, ‘Satyameva Jayate’ inscribed below the Emblem of India is taken from: [UPSC CSE Pre. 2014]
+a) Katha Upanishad
+b) Chandogya Upanishad
+c) Aitareya Upanishad
+d) Mundaka Upanishad
+#QuestionEnd
+#AnswerStart
+Answer: d) Mundaka Upanishad
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to Buddhist history, tradition and culture in India, consider the following pairs: [UPSC CSE Pre 2014]
+| Famous shrine | Location |
+|---|---|
+| 1 Tabo monastery and temple complex | Spiti Valley |
+| 2. Lhotsava Lhakhang temple, Nako | Zanskar Valley |
+| 3. Aichi temple complex | Ladakh |
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to India’s culture and tradition, what is ‘Kalaripayattu’? [UPSC CSE Pre 2014]
+a) It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India
+b) It is an ancient style bronze and brasswork still found in southern part of Coromandel area
+c) It is an ancient form of dance-drama and a living tradition in the northern part of Malabar
+d) It is an ancient martial art and a living tradition in some parts of South India
+#QuestionEnd
+#AnswerStart
+Answer: d) It is an ancient martial art and a living tradition in some parts of South India
+#AnswerEnd
+
+#QuestionStart
+Q16) The religion of early Vedic Aryans was primarily of: [UPSC CSE Pre. 2012]
+a) Bhakti
+b) image worship and Yajnas
+c) worship of nature and Yajnas
+d) worship of nature and Bhakti
+#QuestionEnd
+#AnswerStart
+Answer: c) worship of nature and Yajnas
+#AnswerEnd
+
+#QuestionStart
+Q17) With reference to the scientific progress of ancient India, which of the statements given below are correct? [UPSC CSE Pre. 2012]
+1. Different kinds of specialized surgical instruments were in common use by 1st century AD.
+2. Transplant of internal organs in the human body had begun by the beginning of 3rd century AD.
+3. The concept of sine of an angle was known in 5th century AD.
+4. The concept of cyclic quadrilaterals was known in 7th century AD.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 3 and 4 only
+c) i, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) i, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following pairs: [UPSC CSE Pre 2009]
+| Tradition | State |
+|---|---|
+| 1. Gatka, a tradiational martial art | Kerala |
+| 2. Madhubani, a traditional painting | Bihar |
+| 3. Singhey Khababs Sindhu Darshan festival | Jammu and Kashmir |
+Which of the above pairs is/are correctly matched?
+a) 1 and 2
+b) 3 only
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: [UPSC CSE Pre 2006]
+Assertion (A): Muhammad-Bin-Tughluq issued a new gold coin which was called Dinar by Ibn Battuta.
+Reason (R) : Muhammad-Bin-Tughluq wanted to issue token currency in gold coins to promote trade with West Asian and North African countries.
+Code:
+a) Both (A) and (R) are true individually true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true but (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q20) Chapchar Kut is a festival celebrated in the State of: [UPSC CSE Pre 2002]
+a) Arunachal Pradesh
+b) Assam
+c) Mizoram
+d) Sikkim
+#QuestionEnd
+#AnswerStart
+Answer: c) Mizoram
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following scripts of ancient India was written from right to left? [UPSC CSE Pre 1997]
+a) Brahmi
+b) Nandnagari
+c) Sharada
+d) Kharoshti
+#QuestionEnd
+#AnswerStart
+Answer: d) Kharoshti
+#AnswerEnd
+
+#QuestionStart
+Q22) The Badami rock inscription of Pulakesin I is dated in the Saka year 465. If the same were to be dated in Vikrama Samvat, the year would be: [UPSC CSE Pre 1997]
+a) 601
+b) 300
+c) 330
+d) 407
+#QuestionEnd
+#AnswerStart
+Answer: a) 601
+#AnswerEnd
+
+#QuestionStart
+Q23) According to ancient Indian cosmogonic ideas, the sequential order of the cycle of four epochs (yugas) is— [UPSC CSE Pre 1996]
+a) Dvapara, Krita, Treta and Kali
+b) Krita, Dvapara, Treta and Kali
+c) Krita, Treta, Dvapara and Kali
+d) Treta, Dvapara, Kali and Krita
+#QuestionEnd
+#AnswerStart
+Answer: c) Krita, Treta, Dvapara and Kali
+#AnswerEnd
+
+#QuestionStart
+Q24) Which one of the following was a Shaiva sect in ancient India? [UPSC CSE Pre 1996]
+a) Ajivika
+b) Mattamayura
+c) Mayamata
+d) Isanasivagurudeva Paddhati
+#QuestionEnd
+#AnswerStart
+Answer: b) Mattamayura
+#AnswerEnd
+
+#QuestionStart
+Q25) The silver coins issued by the Guptas were called: [UPSC CSE Pre 1996]
+a) Karshapana
+b) Dinara
+c) Rupaka
+d) Nisc
+#QuestionEnd
+#AnswerStart
+Answer: c) Rupaka
+#AnswerEnd
+
+#QuestionStart
+Q26) “Zero” was discovered by- [UPSC CSE Pre 1995]
+a) Aryabhatta
+b) Varahmihira
+c) Bhaskara-I
+d) An anonymous Indian
+#QuestionEnd
+#AnswerStart
+Answer: d) An anonymous Indian
+#AnswerEnd
+
+#QuestionStart
+Q27) Who among the following were famous jurists of medieval India? [UPSC CSE Pre 1995]
+1. Vigyanesvara
+2. Hemadri
+3. Rajashekhara
+4. JimutaVahana
+Code:
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 2 and 4
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q28) During the Rigvedic Period word ‘Nishka’ was used for a Jewellery but in later period it was used for the meaning of: [UPSC CSE Pre 1993]
+a) Arms
+b) Farming equipment
+c) Script
+d) Coin
+#QuestionEnd
+#AnswerStart
+Answer: d) Coin
+#AnswerEnd
+
+#QuestionStart
+Q29) The first scholar who read Ashokan edicts was- [UPSC CSE Pre 1993]
+a) Buhler
+b) Robert Sebel
+c) James Prinsep
+d) Cordriguttan
+#QuestionEnd
+#AnswerStart
+Answer: c) James Prinsep
+#AnswerEnd
+
+#QuestionStart
+Q30) Who among the following introduced the famous Persian festival ‘Navroz’ in India? [UPSC CSE Pre 1993]
+a) Balban
+b) Iltutmish
+c) Firuj Tughluq
+d) Alauddin Khalji
+#QuestionEnd
+#AnswerStart
+Answer: a) Balban
+#AnswerEnd

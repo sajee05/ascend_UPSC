@@ -1,0 +1,339 @@
+#QuestionStart
+Q14) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Ocean) | List-II (Maximum Deepest Point) |
+|---|---|
+| A. Pacific | 1. Sundra Trench |
+| B. Arctic | 2. Puerto Rico Trench |
+| C. Indian | 3. Mariana Trench |
+| D. Atlantic | 4. Molloy Deep |
+Code: [U.P.P.C.S. (Pre) 2022]
+a) A-3, B-2, C-1, D-4
+b) A-3, B-4, C-1, D-2
+c) A-4, B-3, C-2, D-1
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q15) Which one of the following denotes water salinity gradient? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Thermocline
+b) Halocline
+c) Pycnocline
+d) Chemocline
+#QuestionEnd
+#AnswerStart
+Answer: b) Halocline
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following ocean currents does not belong to the Indian Ocean? [U.P.P.C.S. (Mains) 2014]
+a) Agulhas Current
+b) Mozambique Current
+c) South Indian Ocean Current
+d) Benguela Current
+#QuestionEnd
+#AnswerStart
+Answer: d) Benguela Current
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following is a cold current of the South Atlantic Ocean? [U.P.P.C.S. (Pre) 2005]
+a) Canary current
+b) Benguela current
+c) Agulhas current
+d) Brazil current
+#QuestionEnd
+#AnswerStart
+Answer: b) Benguela current
+#AnswerEnd
+
+#QuestionStart
+Q18) Which one of the following currents does not contribute to forming a complete circle of currents in the South Atlantic Ocean? [U.P.P.C.S. (Pre) 2000]
+a) Benguela
+b) Brazil
+c) Canary
+d) West wind drift
+#QuestionEnd
+#AnswerStart
+Answer: c) Canary
+#AnswerEnd
+
+#QuestionStart
+Q19) Which one of the following salts contributes maximum to the salinity of sea water? [U.P.P.C.S. (Pre) 2000]
+a) Calcium sulphate
+b) Magnesium chloride
+c) Magnesium sulphate
+d) Sodium chloride
+#QuestionEnd
+#AnswerStart
+Answer: d) Sodium chloride
+#AnswerEnd
+
+#QuestionStart
+Q20) The highest salinity is found in: [U.P.P.C.S. (Pre) 1995]
+a) Dead sea
+b) Red sea
+c) Great Salt Lake in the U.S.A.
+d) Lake Van in Turkey
+#QuestionEnd
+#AnswerStart
+Answer: d) Lake Van in Turkey
+#AnswerEnd
+
+#QuestionStart
+Q21) When the density in the sea increases, then? [U.P.P.C.S. (Pre) 1990]
+a) Salinity and depth decreases.
+b) Salinity increases but depth decreases.
+c) Both salinity and depth increases.
+d) Salinity decreases and depth increases.
+#QuestionEnd
+#AnswerStart
+Answer: b) Salinity increases but depth decreases.
+#AnswerEnd
+
+#QuestionStart
+Q22) Which is the world’s deepest trench? [U.P.P.C.S. (Pre) 1991]
+a) Northern
+b) Challenger
+c) Manhattan
+d) Richards
+#QuestionEnd
+#AnswerStart
+Answer: b) Challenger
+#AnswerEnd
+
+#QuestionStart
+Q23) The country benefiting the most out of the North Atlantic Drift is: [R.A.S./R.T.S. (Pre) 1999]
+a) Poland
+b) Portugal
+c) Norway
+d) Nigeria
+#QuestionEnd
+#AnswerStart
+Answer: c) Norway
+#AnswerEnd
+
+#QuestionStart
+Q24) The ocean current different from the remaining three is: [R.A.S./R.T.S.(Pre) 1999]
+a) Benguela
+b) Brazilian
+c) South Equatorial
+d) Peruvian
+#QuestionEnd
+#AnswerStart
+Answer: d) Peruvian
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following oceanic currents does not flow in the North Atlantic Ocean? [Uttarakhand PCS (Pre) 2021]
+a) Gulf Stream
+b) Banguela
+c) Norwegian
+d) Florida
+#QuestionEnd
+#AnswerStart
+Answer: b) Banguela
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following Oceanic currents is not associated with the Pacific Ocean? [Uttarakhand P.C.S. (Pre) 2016]
+a) Canaries
+b) Kuroshio
+c) California
+d) Humboldt
+#QuestionEnd
+#AnswerStart
+Answer: a) Canaries
+#AnswerEnd
+
+#QuestionStart
+Q27) Which one is the most extensive part of the oceanic floor? [Uttarakhand P.C.S. (Pre) 2012]
+a) Ocean Deeps
+b) Oceanic Slope
+c) Oceanic Shelves
+d) Deep Sea Plains
+#QuestionEnd
+#AnswerStart
+Answer: d) Deep Sea Plains
+#AnswerEnd
+
+#QuestionStart
+Q28) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Gulf Stream | 1. Pacific Ocean |
+| B. West Wind Drift | 2. A slow eastward movement of water over the zone of westerly wind |
+| C. Peru Current | 3. Indian Ocean |
+| D. West Australian Current | 4. Warm current |
+Code: [Jhar khand PCS (Pre) 2013]
+a) A-4, B-2, C-1, D-3
+b) A-1, B-3, C-4, D-2
+c) A-4, B-3, C-1, D-2
+d) A-1, B-2, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-2, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q29) Main Source of Salinity of the Sea is- [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Rivers
+b) Land
+c) Wind
+d) Ash ejected from the Volcano
+#QuestionEnd
+#AnswerStart
+Answer: b) Land
+#AnswerEnd
+
+#QuestionStart
+Q30) The distance between two successive crests or troughs of sea waves is called as [CAPF 2020]
+a) Wavelength
+b) Wave height
+c) Wave frequency
+d) Fetch
+#QuestionEnd
+#AnswerStart
+Answer: a) Wavelength
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following statements relating to Sea Salinity:
+1. The ocean salinity depends on evaporation and precipitation.
+2. Any change in the temperature or density influences the salinity.
+3. Major source of sea salinity is terrestrial discharge by rivers.
+Which of the statements given above are correct? [CAPF 2016]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q32) Which of the following statements with regard to the continental shelf is NOT correct? [CAPF 2015]
+a) Shelves are absent close to plate boundaries
+b) They are highly sedimented
+c) They have abrupt falls towards the continental slopes
+d) They are rich fishing areas
+#QuestionEnd
+#AnswerStart
+Answer: c) They have abrupt falls towards the continental slopes
+#AnswerEnd
+
+#QuestionStart
+Q33) It is reported that there is an ongoing decrease in the pH value of ocean water because of global warming. It happens due to [CAPF 2015]
+a) larger uptake of CO2 by ocean water
+b) lesser uptake of CO₂ by ocean water
+c) larger uptake of atmospheric nitrogen by ocean water
+d) lesser uptake of atmospheric nitrogen by ocean water.
+#QuestionEnd
+#AnswerStart
+Answer: a) larger uptake of CO2 by ocean water
+#AnswerEnd
+
+#QuestionStart
+Q34) Isohalines are lines joining equal: [CDS-2022(I)]
+a) temperature.
+b) pressure.
+c) rainfall.
+d) salinity.
+#QuestionEnd
+#AnswerStart
+Answer: d) salinity.
+#AnswerEnd
+
+#QuestionStart
+Q35) Which one of the following do not influence the ocean currents? [CDS-2022(II)]
+a) Heating by solar energy
+b) Wind
+c) Gravitational pull by Sun and Moon
+d) Coriolis force
+#QuestionEnd
+#AnswerStart
+Answer: c) Gravitational pull by Sun and Moon
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following is a cold ocean current? [CDS 2021 (I)]
+a) Brazilian Current
+b) Gulf Stream
+c) North Equatorial Current
+d) California Current
+#QuestionEnd
+#AnswerStart
+Answer: d) California Current
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following are warm ocean currents? [CDS 2020 (I)]
+a) Kuroshio and California Current
+b) North Atlantic Drift and Brazil Current
+c) Canaries and Benguela Current
+d) West Wind Drift and Falkland Current
+#QuestionEnd
+#AnswerStart
+Answer: b) North Atlantic Drift and Brazil Current
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the following is considered as the deepest point of the oceans? [CDS 2020 (II)]
+a) Tonga Trench
+b) Mariana Trench
+c) Philippine Trench
+d) Kermadec Trench
+#QuestionEnd
+#AnswerStart
+Answer: b) Mariana Trench
+#AnswerEnd
+
+#QuestionStart
+Q39) Which one of the following is not correct about Sargasso Sea? [CDS 2019 (I)]
+a) It is characterised with anti-cyclonic circulation of ocean currents.
+b) It records the highest salinity in Atlantic ocean.
+c) It is located West of Gulf stream and East of Canary current.
+d) It confined in gyre of calm and motionless water.
+#QuestionEnd
+#AnswerStart
+Answer: c) It is located West of Gulf stream and East of Canary current.
+#AnswerEnd
+
+#QuestionStart
+Q40) The Gulf Stream is a poleward flowing current in the Atlantic Ocean. Which one of the following statements with regard to this is not correct? [CDS 2017 (I)]
+a) It is similar to the Kuroshio current in the North Pacific Ocean
+b) It transports warm, tropical water towards polar region
+c) This current is a major factor in weather along the East coast of the USA
+d) The warm water of the Gulf Stream sustains the coral reefs of West Pacific Coast.
+#QuestionEnd
+#AnswerStart
+Answer: d) The warm water of the Gulf Stream sustains the coral reefs of West Pacific Coast.
+#AnswerEnd
+
+#QuestionStart
+Q41) The following item consists of two statements. Statement I and Statement II. Examine these two statements carefully and select the answers from these items using the codes given below
+Statement I: The Kuroshio is a warm Northflowing ocean current on the West side of the North Pacific ocean.
+Statement II Presence of a number of volcanoes at the bottom of the sea of Japan is responsible for the Kuroshio becoming warm.
+Codes: [CDS 2015 (II)]
+a) Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b) Both the statements are individually true, but Statement II is not the correct explanation of Statement I.
+c) Statement I is true, but Statement II is false.
+d) Statement I is false, but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement I is true, but Statement II is false.
+#AnswerEnd
+
+#QuestionStart
+Q42) In the absence of Cold Labrador Current, which one among the following would happen? [CDS 2015 (I)]
+a) There will be no North-East Atlantic fishing grounds
+b) There will be no North-West Atlantic fishing grounds
+c) There will be no fishing ground in the North Atlantic ocean
+d) Semi-arid condition of the Atlantic coast of the USA and Canada would prevail
+#QuestionEnd
+#AnswerStart
+Answer: b) There will be no North-West Atlantic fishing grounds
+#AnswerEnd

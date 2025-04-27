@@ -1,0 +1,1285 @@
+#QuestionStart
+Q75) Which is the first Ramsar Site in Bihar? [UPPCS (Pre) 2022]
+a) Kaimur Range
+b) Kharagpur Lake
+c) Kanwar Lake
+d) Rajgir Hill
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Kanwar Lake
+#AnswerEnd
+
+#QuestionStart
+Q76) Keibul Lamjao National Park is located in which lake? [UPPCS (Pre) 2022]
+a) Dal
+b) Kolleru
+c) Loktak
+d) Wular
+#QuestionEnd
+#AnswerStart
+Answer: c) Loktak
+#AnswerEnd
+
+#QuestionStart
+Q77) Which of the following is not a major cause of Wildlife Extinction? [U.P.P.C.S. (Pre) 2020]
+a) Loss of natural habitat
+b) To make fire in the forest
+c) Illegal commercial trade of wildlife
+d) Fast pace of population growth
+#QuestionEnd
+#AnswerStart
+Answer: d) Fast pace of population growth
+#AnswerEnd
+
+#QuestionStart
+Q78) The National Chambal Sanctuary does not fall in which of the following states? [U.P.P.C.S. (Pre) 2020]
+a) Uttar Pradesh
+b) Madhya Pradesh
+c) Haryana
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: c) Haryana
+#AnswerEnd
+
+#QuestionStart
+Q79) Given below are two statements, one labelled as Assertion (A) and the other as Reason (R).
+Assertion (A): Maximum number of the species of butterflies are found in tropical countries.
+Reason (R): Butterflies cannot tolerate low temperatures.
+Codes: [U.P.P.C.S. (Pre) 2019]
+a) Both (A) and (R) are true and (R) is correct explanation of (A)
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A)
+c) (A) is true but (R) is false
+d) (A) is false but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q80) Arrange the following events in chronological order of their commencement and select correct answer from codes given below:
+I. Wildlife (Protection) Act
+IL Biological Diversity Act
+III. Project Tiger
+IV. Project Elephant
+Code: [U.P.P.C.S. (Pre) 2019]
+a) 1,11,1,1V
+b) I, III, IV, II
+c) II, III, IV, I
+d) II, III, I, IV
+#QuestionEnd
+#AnswerStart
+Answer: b) I, III, IV, II
+#AnswerEnd
+
+#QuestionStart
+Q81) India’s first National Centre for Marine Biodiversity (NCMB) is located in which city? [U.P.P.C.S. (Pre) 2018]
+a) Bhavnagar
+b) Jamnagar
+c) Mumbai
+d) Puducherry
+#QuestionEnd
+#AnswerStart
+Answer: b) Jamnagar
+#AnswerEnd
+
+#QuestionStart
+Q82) Which of the following is not an example of in-situ conservation strategy? [U.P.P.C.S. (Pre) 2018]
+a) Biosphere reserve
+b) Botanical garden
+c) National Park
+d) Sacred groves
+#QuestionEnd
+#AnswerStart
+Answer: b) Botanical garden
+#AnswerEnd
+
+#QuestionStart
+Q83) Dachigam National Park is associated with which of the following? [U.P.P.C.S. (Pre) 2018]
+a) Musk Deer
+b) Golden Oriole
+c) Yellow-Throated Marten
+d) Hangul or Kashmir Stag
+#QuestionEnd
+#AnswerStart
+Answer: d) Hangul or Kashmir Stag
+#AnswerEnd
+
+#QuestionStart
+Q84) Which of the following animals can live for the longest duration without drinking water? [U.P.P.C.S. (Pre) 2018]
+a) Giraffe
+b) Camel
+c) Kangaroo
+d) Kangaroo rat
+#QuestionEnd
+#AnswerStart
+Answer: d) Kangaroo rat
+#AnswerEnd
+
+#QuestionStart
+Q85) Which one of the following ecosystems has maximum plant biomass? [U.P.P.C.S. (Pre) 2017]
+a) Tropical deciduous forest
+b) Tropical rain forest
+c) Temperate deciduous forest
+d) Desert shrubs
+#QuestionEnd
+#AnswerStart
+Answer: b) Tropical rain forest
+#AnswerEnd
+
+#QuestionStart
+Q86) Which of the following is not correctly matched? [UPPCS (Mains) 2016]
+| (National Park) | (State) |
+|---|---|
+| (a) Bandipur | Karnataka |
+| (b) Rajaji | Uttarakhand |
+| (c) Similipal | Odisha |
+| (d) Pin Valley | Jammu and Kashmir |
+#QuestionEnd
+#AnswerStart
+Answer: d) Pin Valley - Jammu and Kashmir
+#AnswerEnd
+
+#QuestionStart
+Q87) Which one of the following has a protected mangrove region? [U.P.P.C.S. (Mains) 2016]
+a) Eastern Ghats
+b) Western Ghats
+c) Goa
+d) Chandra Tai
+#QuestionEnd
+#AnswerStart
+Answer: c) Goa
+#AnswerEnd
+
+#QuestionStart
+Q88) Suklaphanta Wildlife Reserve is located in-[U.P.P.C.S. (Mains) 2016]
+a) Nepal
+b) Myanmar
+c) Bhutan
+d) Sri Lanka
+#QuestionEnd
+#AnswerStart
+Answer: a) Nepal
+#AnswerEnd
+
+#QuestionStart
+Q89) The most significant aspect of biodiversity is: [U.P.P.C.S. (Pre) 2015]
+a) Food
+b) Drug
+c) Industrial Use
+d) Maintenance of ecosystem
+#QuestionEnd
+#AnswerStart
+Answer: d) Maintenance of ecosystem
+#AnswerEnd
+
+#QuestionStart
+Q90) Which of the following is a biodiversity-saturated area in India? [U.P.P.C.S. (Pre) 2015]
+a) Eastern Ghats
+b) Western Ghats
+c) Thar Desert
+d) The Bay of Bengal
+#QuestionEnd
+#AnswerStart
+Answer: b) Western Ghats
+#AnswerEnd
+
+#QuestionStart
+Q91) Which of the following is not responsible for the increase in the biodiversity of an ecosystem? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Productivity of the ecosystem
+b) Intermediate disturbance
+c) Age of the ecosystem
+d) Less number of trophic levels
+#QuestionEnd
+#AnswerStart
+Answer: d) Less number of trophic levels
+#AnswerEnd
+
+#QuestionStart
+Q92) Which of the following is the most significant factor in coral bleaching? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Mining of coral rocks
+b) Outbreak of coral diseases
+c) Siltation of seawater
+d) Global warming
+#QuestionEnd
+#AnswerStart
+Answer: d) Global warming
+#AnswerEnd
+
+#QuestionStart
+Q93) Which of the following is a marine national park? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Bhitarkanika
+b) Sundarban
+c) Gahirmatha
+d) Gulf of Mannar
+#QuestionEnd
+#AnswerStart
+Answer: d) Gulf of Mannar
+#AnswerEnd
+
+#QuestionStart
+Q94) Which of the following countries has more than 30% of its total area under National Parks? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Israel
+b) Bhutan
+c) Iceland
+d) Gabon
+#QuestionEnd
+#AnswerStart
+Answer: b) Bhutan
+#AnswerEnd
+
+#QuestionStart
+Q95) Which one of the following has been recognized as a Mega diverse country? [U.P.P.C.S. (Pre) (Re Exam.) 2015]
+a) New Zealand
+b) Australia
+c) Nepal
+d) Austria
+#QuestionEnd
+#AnswerStart
+Answer: b) Australia
+#AnswerEnd
+
+#QuestionStart
+Q96) The largest Botanical Garden of the world is at- [U.P.P.C.S. (Pre) 2015]
+a) Kew (England)
+b) Paris (France)
+c) Howrah (India)
+d) Tokyo (Japan)
+#QuestionEnd
+#AnswerStart
+Answer: a) Kew (England)
+#AnswerEnd
+
+#QuestionStart
+Q97) Which one of the following is not responsible for the extinction of a species? [U.P.P.C.S. (Pre) 2014]
+a) Broad niche
+b) Large body size
+c) Narrow niche
+d) Lack of genetic variability
+#QuestionEnd
+#AnswerStart
+Answer: a) Broad niche
+#AnswerEnd
+
+#QuestionStart
+Q98) Biodiversity means- [U.P.P.C.S. (Pre) 2014]
+a) Diverse kinds of plants and vegetation.
+b) Diverse kinds of animals.
+c) Diverse kinds of plants and animals in a particular area.
+d) Diverse kinds of exotic plants and animals.
+#QuestionEnd
+#AnswerStart
+Answer: c) Diverse kinds of plants and animals in a particular area.
+#AnswerEnd
+
+#QuestionStart
+Q99) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List! (Fark/Sanctuary) | List-II (State) |
+|---|---|
+| A. Dachigam Wildlife Sanctuary | 1. Madhya Pradesh |
+| B. Keoladeo Ghana Bird Sanctuary | 2. Rajasthan |
+| C. Kanha National Park | 3. Kerala |
+| D. Periyar Wildlife Sanctuary | 4. Jammu and Kashmir |
+Code: [UPPCS (Pre) 2014]
+a) A4, B2, C1, D3
+b) A1, B3, C2, D4
+c) A2, B1, C4, D3
+d) A3, B4, C2, D1
+#QuestionEnd
+#AnswerStart
+Answer: a) A4, B2, C1, D3
+#AnswerEnd
+
+#QuestionStart
+Q100) International ‘Tiger Day’ is observed on-[U.P.P.C.S. (Mains) 2014]
+a) 24th July
+b) 29th July
+c) 20th July
+d) 25th July
+#QuestionEnd
+#AnswerStart
+Answer: b) 29th July
+#AnswerEnd
+
+#QuestionStart
+Q101) Which of the following wetlands are designated as Ramsar sites? [U.P.P.C.S. (Pre) 2013]
+1. Chilika Lake
+2. Keoladeo
+3. Wular Lake
+4. Loktak
+Select the correct answer form the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1,2 and 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q102) The greatest diversity of plants and animals is characteristic of: [U.P.P.C.S. (Mains) 2013]
+a) Temperate deciduous forests
+b) Tropical moist forests
+c) Savanna
+d) Temperate grasslands
+#QuestionEnd
+#AnswerStart
+Answer: b) Tropical moist forests
+#AnswerEnd
+
+#QuestionStart
+Q103) The Marine National Park of India is located in- [U.P.P.C.S. (Mains) 2013]
+a) Kachchh
+b) Sundarbans
+c) Chilika Lake
+d) Nicobar Islands
+#QuestionEnd
+#AnswerStart
+Answer: a) Kachchh
+#AnswerEnd
+
+#QuestionStart
+Q104) As an ecosystem, wetlands are useful for which of the following? [U.P.P.C.S. (Pre) 2012]
+a) For nutrient-recovery and cycling
+b) For releasing heavy metals through absorption by plants.
+c) In reducing siltation of rivers by retaining sediments
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q105) The Periyar Game Sanctuary is famous for-[U.P.P.C.S (Pre) 2011]
+a) Lions
+b) Spotted deer
+c) Tigers
+d) Wild Elephants
+#QuestionEnd
+#AnswerStart
+Answer: d) Wild Elephants
+#AnswerEnd
+
+#QuestionStart
+Q106) The Yellowstone National Park is located in- [U.P.P.C.S. (Mains) 2011]
+a) Canada
+b) New Zealand
+c) South Africa
+d) The U.S.A.
+#QuestionEnd
+#AnswerStart
+Answer: d) The U.S.A.
+#AnswerEnd
+
+#QuestionStart
+Q107) The largest Tiger Habitat in India is in-[U.P.P.C.S. (Mains) 2011]
+a) Andhra Pradesh
+b) Karnataka
+c) Madhya Pradesh
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: a) Andhra Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q108) Which one of the following is the most important factor responsible for the decline of biodiversity? [U.P.P.C.S (Pre) 2010]
+a) Genetic assimilation
+b) Controlling assimilation
+c) Destruction of habitat
+d) Controlling pests
+#QuestionEnd
+#AnswerStart
+Answer: c) Destruction of habitat
+#AnswerEnd
+
+#QuestionStart
+Q109) Where is the wild ass sanctuary? [U.P.P.C.S (Pre) 2010]
+a) U.P.
+b) Assam
+c) Gujarat
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: c) Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q110) Which of the following gases is commonly used in Cryo-Bank for ex-situ conservation? [U.P.P.C.S. (Mains) 2009]
+a) Nitrogen
+b) Oxygen
+c) Carbon dioxide
+d) Methane
+#QuestionEnd
+#AnswerStart
+Answer: a) Nitrogen
+#AnswerEnd
+
+#QuestionStart
+Q111) Select the State from amongst the following, with the maximum number of National Park- [U.P.P.C.S. (Pre) 2008]
+a) Uttar Pradesh
+b) Rajasthan
+c) Madhya Pradesh
+d) West Bengal
+#QuestionEnd
+#AnswerStart
+Answer: c) Madhya Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one of the following is a ‘World Heritage’ site? [U.P.P.C.S. (Pre) 2008]
+a) Nanda Devi Biosphere Reserve
+b) Corbett National Park
+c) Rajaji National Park
+d) Gir Forest
+#QuestionEnd
+#AnswerStart
+Answer: a) Nanda Devi Biosphere Reserve
+#AnswerEnd
+
+#QuestionStart
+Q113) The Ramsar Convention was associated with the conservation of- [U.P.P.C.S. (Mains) 2008]
+a) Biofuels
+b) Forests
+c) Wetlands
+d) Drylands
+#QuestionEnd
+#AnswerStart
+Answer: c) Wetlands
+#AnswerEnd
+
+#QuestionStart
+Q114) Wetland Day is observed on- : [U.P.P.C.S. (Mains) 2008]
+a) 2nd February
+b) 2nd April
+c) 2nd May
+d) 2nd March
+#QuestionEnd
+#AnswerStart
+Answer: a) 2nd February
+#AnswerEnd
+
+#QuestionStart
+Q115) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Tiger Reserve) | List-II (State) |
+|---|---|
+| A. Bandipur | 1. West Bengal |
+| B. Melghat | 2. Karnataka |
+| C. Buxa | 3. Arunachal Pradesh |
+| D. Pakke | 4. Maharashtra |
+Code: [UPPCS (Mains) 2008]
+a) A3, B4, C2, D1
+b) A2, B4, C1, D3
+c) A2, B3, C1, D4
+d) A1, B2, C4, D3
+#QuestionEnd
+#AnswerStart
+Answer: b) A2, B4, C1, D3
+#AnswerEnd
+
+#QuestionStart
+Q116) Which of the following tiger reserves lies in two States? [U.P.P.C.S. (Mains) Spl. 2008]
+a) Kanha
+b) Manas
+c) Pench
+d) Sariska
+#QuestionEnd
+#AnswerStart
+Answer: c) Pench
+#AnswerEnd
+
+#QuestionStart
+Q117) The pugmark technique is used- [U.P.P.C.S. (Mains) 2008]
+a) For bird watching in forests
+b) For breeding rare wildlife in captivity
+c) For estimation of population of various wild animals
+d) For tattooing wildlife to distinguish one species from the other
+#QuestionEnd
+#AnswerStart
+Answer: c) For estimation of population of various wild animals
+#AnswerEnd
+
+#QuestionStart
+Q118) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List! (Sanctuary/National Park) | l.is< 11 (Main Protected Animal) |
+|---|---|
+| A, Kaziranga | 1. Tiger |
+| B. Gir | 2. Elephant |
+| C. Sunderban | 3. Lion |
+| D. Periyar | 4. Rhinoceros |
+Code: [1 JPPCS (Mains) 2006]
+a) A1, B4, C3, D2
+b) A2, B4, C1, D3
+c) A4, B3, C1, D2
+d) A4, B3, C2, D1
+#QuestionEnd
+#AnswerStart
+Answer: c) A4, B3, C1, D2
+#AnswerEnd
+
+#QuestionStart
+Q119) Which one of the following Indian birds is a highly endangered species? [U.P.P.C.S. (Mains) 2005]
+a) Golden Oriole
+b) Great Indian Bustard
+c) Indian Fantail Pigeon
+d) Indian Sunbird
+#QuestionEnd
+#AnswerStart
+Answer: b) Great Indian Bustard
+#AnswerEnd
+
+#QuestionStart
+Q120) A species is considered to be extinct if it has not been seen in its natural habitat for- [U.P.P.C.S. (Pre) 2005]
+a) 15 years
+b) 25 years
+c) 40 years
+d) 50 years
+#QuestionEnd
+#AnswerStart
+Answer: d) 50 years
+#AnswerEnd
+
+#QuestionStart
+Q121) The ‘Cloud Goats’ of the Nilgiri is found in-[U.P.P.C.S. (Mains) 2005]
+a) Eravikulam National Park
+b) Mann Forest
+c) Periyar Reserve
+d) Silent Valley
+#QuestionEnd
+#AnswerStart
+Answer: a) Eravikulam National Park
+#AnswerEnd
+
+#QuestionStart
+Q122) The Chinar Wildlife Sanctuary is located in- [U.P.P.C.S. (Mains) 2005]
+a) Jammu and Kashmir
+b) Kerala
+c) Sikkim
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b) Kerala
+#AnswerEnd
+
+#QuestionStart
+Q123) Sea buckthorn has a huge global market potential. The berries of this plant are rich in vitamins and nutrients. Genghis Khan used them to improve the stamina of his troops. Russian cosmonauts used its oil to combat radiation. Where is this plant found in India? [U.P.P.C.S. (Mains): 2004]
+a) Nagaland
+b) Ladakh
+c) Kodaikanal
+d) Pondicherry
+#QuestionEnd
+#AnswerStart
+Answer: b) Ladakh
+#AnswerEnd
+
+#QuestionStart
+Q124) The annual production of biomass is minimal in which of the following environments? [U.P.P.C.S. (Pre) 2002]
+a) Deep sea
+b) Prairie
+c) Deciduous forest
+d) Taiga
+#QuestionEnd
+#AnswerStart
+Answer: a) Deep sea
+#AnswerEnd
+
+#QuestionStart
+Q125) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (State) | List-II (National Park) |
+|---|---|
+| A. Assam | 1. Kaziranga |
+| B. Gujarat | 2. Kanha |
+| C. Madhya Pradesh | 3. Corbett |
+| D. Uttarakhand | 4. Gir |
+Code: [UPPCS (Mains) 2002]
+a) A3, B2, C4, D1
+b) A2, B4, C1, D3
+c) A1, B3, C2, D4
+d) A1, B4, C2, D3
+#QuestionEnd
+#AnswerStart
+Answer: d) A1, B4, C2, D3
+#AnswerEnd
+
+#QuestionStart
+Q126) The destruction of biodiversity is due to: [U.P.P.C.S. (Mains) 2002]
+a) The lack of natural habitats of the organism
+b) Environmental pollution
+c) Destruction of forests
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q127) While India’s Human population is growing at an outstanding pace, the bird population is shrinking fastly mainly because [U.P.P.C.S. (Pre) 2001]
+1. There has been an abnormal increase in the number of hunters.
+2. Bio-pesticides and organic manure are being used on a large scale.
+3. There has been a large-scale reduction in the habitats of the birds.
+4. There has been large-scale use of pesticides, chemical fertilizers and mosquito repellents.
+Select your answer correctly using the code given below:
+a) 1 and 2 are correct
+b) 2 and 3 are correct
+c) 3 and 4 are correct
+d) 1 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 are correct
+#AnswerEnd
+
+#QuestionStart
+Q128) Which one of the following States has the ideal habitat for the Siberian crane? [U.P.P.C.S. (Pre) 1996]
+a) Rajasthan
+b) Arunachal Pradesh
+c) Andhra Pradesh
+d) Odisha
+#QuestionEnd
+#AnswerStart
+Answer: a) Rajasthan
+#AnswerEnd
+
+#QuestionStart
+Q129) Which of the following plant, grown in non-forest area has been omitted from the definition of trees in the Indian Forest (Amendment) Act, 2017? [R.A.S./R.T.S. (Pre) 2018]
+a) Palm
+b) Canes
+c) Bamboo
+d) Banana
+#QuestionEnd
+#AnswerStart
+Answer: c) Bamboo
+#AnswerEnd
+
+#QuestionStart
+Q130) Among the mathematical indices for measuring biodiversity, which one shows the mean species diversity in a habitat at a local scale? [R.A.S./R.T.S. (Pre) 2018]
+a) Alpha index
+b) Beta index
+c) Gamma index
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Alpha index
+#AnswerEnd
+
+#QuestionStart
+Q131) Which of the following can be threats to the biodiversity of a geographical area? [R.A.S/RTS (Pre) 2016]
+1. Global warming
+2. Fragmentation of habitat
+3. Invasion of alien species
+4. Promotion of vegetarianism
+Select the correct answer using the code given below:
+a) 1,2 and 3
+b) 2 and 3
+c) 1 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q132) First National Park established in India is-[R.A.S./R.T.S. (Pre) 2016]
+a) Jim Corbett National Park
+b) Kanha National Park
+c) Kaziranga National Park
+d) Gir National Park
+#QuestionEnd
+#AnswerStart
+Answer: a) Jim Corbett National Park
+#AnswerEnd
+
+#QuestionStart
+Q133) Read the list of National Parks and Animals housed for conservation: [R.A.S/RTS (Pre) 2013]
+| (National Parks) | (Animals) |
+|---|---|
+| A. Bandipur | 1. Tiger Reserve |
+| B. Kaziranga | 2. Elephant Reserve |
+| C. Sunderbans | 3. One-horned Rhinoceros Reserve |
+| D. Similipal | 4. Biosphere and Tiger Reserve |
+Which one of the following is correctly matched?
+a) A2, B4, C1, D3
+b) A1, B3, C4, D2
+c) A4, B1, C3, D2
+d) A3, B1, C2, D4
+#QuestionEnd
+#AnswerStart
+Answer: b) A1, B3, C4, D2
+#AnswerEnd
+
+#QuestionStart
+Q134) Which of the following forests is known as the ‘lungs of the planet earth’? [R.A.S./R.T.S. (Pre) 2013]
+a) Rainforests of North-East India
+b) Taiga forest
+c) Tundra forest
+d) Amazon rain forest
+#QuestionEnd
+#AnswerStart
+Answer: d) Amazon rain forest
+#AnswerEnd
+
+#QuestionStart
+Q135) Sariska and Ranthambore are the reserves for which of the following animals? [R.A.S./R.T.S. (Pre) 2010]
+a) Lion
+b) Deer
+c) Tiger
+d) Bear
+#QuestionEnd
+#AnswerStart
+Answer: c) Tiger
+#AnswerEnd
+
+#QuestionStart
+Q136) Gavialis gangeticus are found plenty in-[R.A.S./R.T.S. (Pre) 1993]
+a) Ganga
+b) Godavari
+c) Krishna
+d) Cauvery
+#QuestionEnd
+#AnswerStart
+Answer: a) Ganga
+#AnswerEnd
+
+#QuestionStart
+Q137) Which of the following National Parks/ Sanctuary is known as ‘World Natural Heritage’? [R.A.S./R.T.S. (Pre) 1992]
+a) Ranthambore National Park, Sawai Madhopur
+b) Keoladeo National Park, Bharatpur
+c) Desert National Park, Jaisalmer
+d) Tai Chhapar Sanctuary, Churu
+#QuestionEnd
+#AnswerStart
+Answer: b) Keoladeo National Park, Bharatpur
+#AnswerEnd
+
+#QuestionStart
+Q138) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Wildlife Sanctuary) | List-II (State) |
+|---|---|
+| A. Namdapha | 1. Karnataka |
+| B. Bandipur | 2. Arunachal Pradesh |
+| C. Periyar | 3. Manipur |
+| D. Keibul Lamjao | 4. Kerala |
+Code: [UP Lower Sub. (Pre) 2015]
+a) A2, B1, C4, D3
+b) A4, B3, C2, D1
+c) A4, B2, C1, D3
+d) A2, B4, C3, D1
+#QuestionEnd
+#AnswerStart
+Answer: a) A2, B1, C4, D3
+#AnswerEnd
+
+#QuestionStart
+Q139) In which state Periyar Wildlife Sanctuary is located? [UP Lower Sub. (Pre) 2015]
+a) Uttar Pradesh
+b) Kerala
+c) Madhya Pradesh
+d) Maharashtra
+#QuestionEnd
+#AnswerStart
+Answer: b) Kerala
+#AnswerEnd
+
+#QuestionStart
+Q140) Which one of the following eco-regions of India is not correctly matched? [U.P. Lower Sub. (Pre) 2013]
+a) South-Western Ghats - Moist forests
+b) Tarai Duar - Broadleaf forests
+c) Rann of Kachchh - Grasslands
+d) Eastern Deccan Plateau - Moist forests
+#QuestionEnd
+#AnswerStart
+Answer: b) Tarai Duar - Broadleaf forests
+#AnswerEnd
+
+#QuestionStart
+Q141) Which of the following sanctuaries is not correctly matched with the specified protected species? [U.P. Lower Sub. (Pre) 2009]
+a) Jim Corbett - Tiger
+b) Ghana - Lion
+c) Kaziranga - Rhinoceros
+d) Periyar - Elephants
+#QuestionEnd
+#AnswerStart
+Answer: b) Ghana - Lion
+#AnswerEnd
+
+#QuestionStart
+Q142) Consider the following statements:
+Assertion (A): Coastal Odisha is most cyclone-prone area of India.
+Reason (R): There is a large amount of deforestation of Mangroves in Mahanadi delta area.
+Choose the correct answer in the given codes: [U.P. Lower Sub. (Spl) (Pre) 2006]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is false, but (R) is true.
+d) (A) is true, but (R) is false.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q143) Biosphere reserves are areas for conservation of- [U.P. Lower (Spl.) (Pre) 2004]
+a) Grasslands
+b) Agriculture production
+c) Atmospheric balance
+d) Genetic Variation
+#QuestionEnd
+#AnswerStart
+Answer: d) Genetic Variation
+#AnswerEnd
+
+#QuestionStart
+Q144) Study the following statements and choose the correct option:
+Statement I: Kanger Ghati is a National Park.
+Statement II: Kanger Ghati is not a Biosphere Reserve.
+Statement III: Kanger Ghati is spreaded starting from Tirathgarh Waterfalls to the Kolab river, the boundary of Odisha in the east.
+Code: [Chhattisgarh P.C.S. (Pre) 2020]
+a) Statement I, II and III are true
+b) Statement I, II and III all are false
+c) Statement I and III are true, but statement II is false
+d) Statement I and II are true, but statement III is false
+#QuestionEnd
+#AnswerStart
+Answer: a) Statement I, II and III are true
+#AnswerEnd
+
+#QuestionStart
+Q145) The rapid rate of decline in the vulture population in India is mainly due to: [Chhattisgarh P.C.S. (Pre) 2019]
+a) Overuse of Diclofenac drug
+b) Low death rate of animals
+c) High death rate of animals
+d) Cleanliness
+#QuestionEnd
+#AnswerStart
+Answer: a) Overuse of Diclofenac drug
+#AnswerEnd
+
+#QuestionStart
+Q146) ‘Gomarda’ Wildlife Sanctuary is situated? [Chhattisgarh P.C.S. (Pre) 2019]
+a) Dhamtari district
+b) Raipur district
+c) Raigarh district
+d) Sarguja district
+#QuestionEnd
+#AnswerStart
+Answer: c) Raigarh district
+#AnswerEnd
+
+#QuestionStart
+Q147) which of the following States Sundarbans mangrove is located? [CGPSC (Pre) 2018]
+a) Gujarat
+b) West Bengal
+c) Odisha
+d) Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) West Bengal
+#AnswerEnd
+
+#QuestionStart
+Q148) The richest biodiversity is found in the: [Chhattisgarh P.C.S. (Pre) 2011]
+a) Silent Valley
+b) Kashmir Valley
+c) Valley of Flowers
+d) Surma Valley
+#QuestionEnd
+#AnswerStart
+Answer: a) Silent Valley
+#AnswerEnd
+
+#QuestionStart
+Q149) Mangrove (Tidal Forests) vegetation in India is mostly found in- [Chhattisgarh P.C.S. (Pre) 2011]
+a) Malabar coast
+b) Sundarbans
+c) Rann of Kachchh
+d) Dandakaranya
+#QuestionEnd
+#AnswerStart
+Answer: b) Sundarbans
+#AnswerEnd
+
+#QuestionStart
+Q150) At which place India’s first Butterfly Park has been established? [Chhattisgarh P.C.S. (Pre) 2008]
+a) Bannerghatta Biological Park, Bangalore
+b) National Zoological Park, Kolkata
+c) Kaziranga National Park
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Bannerghatta Biological Park, Bangalore
+#AnswerEnd
+
+#QuestionStart
+Q151) Among the following states, which has highest forest density in India? [Jharkhand P.C.S. (Pre) 2021]
+a) Nagaland
+b) Mizoram
+c) Assam
+d) Gujrat
+#QuestionEnd
+#AnswerStart
+Answer: b) Mizoram
+#AnswerEnd
+
+#QuestionStart
+Q152) Mahuadanr Sanctuary is located in which district of Jharkhand? [JPSC (Pre) 2016]
+a) Palamu
+b) Ko derma
+c) Chatra
+d) Latehar
+#QuestionEnd
+#AnswerStart
+Answer: d) Latehar
+#AnswerEnd
+
+#QuestionStart
+Q153) Which of the following is not correctly matched? [Jharkhand PCS (Pre) 2003]
+a) Mahuatai Sanctuary - Palamu
+b) Topchanchi Sanctuary - Dhanbad
+c) Udhwa Bird Sanctuary - Kodarma
+d) Lawalong Sanctuary - Chatra
+#QuestionEnd
+#AnswerStart
+Answer: c) Udhwa Bird Sanctuary - Kodarma
+#AnswerEnd
+
+#QuestionStart
+Q154) Recently China has claimed rights over territories around the ‘Sakteng Wildlife Sanctuary’ claiming it as a ‘disputed region’. This Wildlife Sanctuary is located in- [67th BPSC (Pre) (Re-Exam) 2022]
+a) Arunachal Pradesh
+b) Bhutan
+c) Nepal
+d) Bangladesh
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Bhutan
+#AnswerEnd
+
+#QuestionStart
+Q155) Which of the following in Bihar started the Vulture’s Conservation Plan? [67th BPSC (Pre) (Re-Exam) 2022]
+a) Kaimur Tiger Reserve
+b) Rajgir Wildlife Sanctuary
+c) Valmiki Tiger Reserve
+d) Kanwar Lake Bird Sanctuary
+#QuestionEnd
+#AnswerStart
+Answer: c) Valmiki Tiger Reserve
+#AnswerEnd
+
+#QuestionStart
+Q156) The State of India with maximum number of wildlife sanctuaries is: [66th B.P.S.C. (Pre.) 2020]
+a) Karnataka
+b) Tamil Nadu
+c) Maharashtra
+d) Madhya Pradesh
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Maharashtra
+#AnswerEnd
+
+#QuestionStart
+Q157) India’s first Dolphin Observatory is being built in: [66th BPSC (Re-Exam) (Pre) 2020]
+a) Delhi
+b) Mumbai
+c) Bihar
+d) Odisha
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Bihar
+#AnswerEnd
+
+#QuestionStart
+Q158) The five rhino range nations, who signed a declaration ‘The New Delhi Declaration on Asian Rhinos 2019’ are India, Nepal, Malaysia, Indonesia and- [65th B.P.S.C. (Pre) 2019]
+a) Vietnam
+b) Thailand
+c) Myanmar
+d) Bhutan
+e) None of the above/more than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Bhutan
+#AnswerEnd
+
+#QuestionStart
+Q159) Which one of the following wildlife sanctuaries is situated in Munger district of Bihar? [BPSC (Pre) 2019]
+a) Valmiki
+b) Rajgir
+c) Bhimbandh
+d) Gautam Buddha
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Bhimbandh
+#AnswerEnd
+
+#QuestionStart
+Q160) Sultanpur Bird Sanctuary is situated in-[56th to 59th B.P.S.C. (Pre) 2015]
+a) Chandigarh
+b) Bharatpur
+c) Gurgaon
+d) Gandhi Nagar
+#QuestionEnd
+#AnswerStart
+Answer: c) Gurgaon
+#AnswerEnd
+
+#QuestionStart
+Q161) The tallest known living tree: [40th B.P.S.C. (Pre) 1995]
+a) Eucalyptus
+b) Sequoia
+c) Deodar
+d) Parnang
+#QuestionEnd
+#AnswerStart
+Answer: b) Sequoia
+#AnswerEnd
+
+#QuestionStart
+Q162) ‘Govind National Park’ includes: [Uttarakhand PCS (Pre) 2021]
+a) Source region of Bhagirathi River
+b) Source region of Bhilangna River
+c) Source region of Yamuna River
+d) Source region of Tons River
+#QuestionEnd
+#AnswerStart
+Answer: d) Source region of Tons River
+#AnswerEnd
+
+#QuestionStart
+Q163) The logo of International OrganizationWWF (World Wide Fund for Nature) is: [Uttarakhand PCS (Pre) 2021]
+a) Asiatic Lion
+b) Giant Panda
+c) Musk Deer
+d) Indian Wild Ass
+#QuestionEnd
+#AnswerStart
+Answer: b) Giant Panda
+#AnswerEnd
+
+#QuestionStart
+Q164) In Uttarakhand, Oak-Rhododendron are characteristic plants of- [Uttarakhand P.C.S. (Pre) 2016]
+a) Sub-tropical forest
+b) Sub-alpine forest
+c) Temperate forest
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Temperate forest
+#AnswerEnd
+
+#QuestionStart
+Q165) Which association shows correct sequence of sanctuaries from west to east location in Uttarakhand? [Uttarakhand PCS (Pre) 2016]
+a) Kedarnath - Askot - Nanda Devi - Binsar
+b) Kedarnath - Nanda Devi - Askot - Binsar
+c) Kedarnath - Nanda Devi - Binsar - Askot
+d) Nanda Devi - Kedarnath - Binsar - Askot
+#QuestionEnd
+#AnswerStart
+Answer: c) Kedarnath - Nanda Devi - Binsar - Askot
+#AnswerEnd
+
+#QuestionStart
+Q166) Maintenance of genetic diversity in National Parks is done by: [Uttarakhand P.C.S. (Pre) 2016]
+a) In-situ conservation
+b) Ex-situ conservation
+c) Gene pool
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) In-situ conservation
+#AnswerEnd
+
+#QuestionStart
+Q167) Great Himalayan National Park, which has been accorded the UNESCO World Heritage Site status, is located in: [Uttarakhand P.C.S. (Pre) 2012]
+a) Uttarakhand
+b) Himachal Pradesh
+c) Jammu-Kashmir
+d) Nagaland
+#QuestionEnd
+#AnswerStart
+Answer: b) Himachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q168) Biodiversity changes occur: [Uttarakhand P.C.S. (Pre) 2012]
+a) Increases towards the equator
+b) Decreases towards the equator
+c) Remains unchanged throughout the Earth
+d) Increases towards the poles
+#QuestionEnd
+#AnswerStart
+Answer: a) Increases towards the equator
+#AnswerEnd
+
+#QuestionStart
+Q169) Most of the wildlife protected areas in India are surrounded by- [Uttarakhand P.C.S. (Pre) 2006]
+a) Dense forests
+b) Rivers and lakes
+c) Human settlements
+d) Mountains and hills
+#QuestionEnd
+#AnswerStart
+Answer: a) Dense forests
+#AnswerEnd
+
+#QuestionStart
+Q170) ‘Salim All National Park’ is located in- [Uttarakhand P.C.S. (Pre) 2005]
+a) Maharashtra
+b) Jammu and Kashmir
+c) Madhya Pradesh
+d) Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Jammu and Kashmir
+#AnswerEnd
+
+#QuestionStart
+Q171) Which of the following is not correctly matched? [M.P.P.C.S. (Pre) 2020]
+a) Anshi NationalPark - Karnataka
+b) Balphakram National Park - Meghalaya
+c) Chandoli National Park - Gujarat
+d) Hemis National Park - Ladakh
+#QuestionEnd
+#AnswerStart
+Answer: c) Chandoli National Park - Gujarat
+#AnswerEnd
+
+#QuestionStart
+Q172) Phawngpui National Park in Mizoram is also known as which of the following? [M.P.P.C.S. (Pre) 2020]
+a) Black Mountain Park
+b) Blue Mountain Park ........
+c) Yellow Mountain Park
+d) Mizo Hills Park
+#QuestionEnd
+#AnswerStart
+Answer: b) Blue Mountain Park
+#AnswerEnd
+
+#QuestionStart
+Q173) Which one of the following is hdt correctly matched? [MPPCS (Pre) 2019]
+| (Wildlife Sanctuary) | (State) |
+|---|---|
+| (a) Mukambika | Karnataka |
+| (b) Dalma | Jharkhand |
+| (c) Neyyar | Chhattisgarh |
+| (d) Kotigaon | Goa |
+#QuestionEnd
+#AnswerStart
+Answer: c) Neyyar - Chhattisgarh
+#AnswerEnd
+
+#QuestionStart
+Q174) Kanha National Park is famous for-[MPPCS (Pre) 2018]
+a) Lions
+b) Cows
+c) Elephant
+d) Tigers
+#QuestionEnd
+#AnswerStart
+Answer: d) Tigers
+#AnswerEnd
+
+#QuestionStart
+Q175) Organization related to “Red Data Book” or “Red List is”: [M.P.P.C.S. (Pre) 2014]
+a) U.T.E.S. .
+b) I.L'.C.N.
+c) I.B.W.C. .
+d) W.W.E . .
+#QuestionEnd
+#AnswerStart
+Answer: b) I.L'.C.N.
+#AnswerEnd
+
+#QuestionStart
+Q176) One horned rhinoceros is found in the following States- [M.P.P.C.S. (Pre) 2008]
+a) Arunachal Pradesh and Tripura
+b) West Bengal and Assam
+c) Arunachal Pradesh and Assam
+d) West Bengal and Tripura
+#QuestionEnd
+#AnswerStart
+Answer: b) West Bengal and Assam
+#AnswerEnd
+
+#QuestionStart
+Q177) Free swimming macroscopic animals in an aquatic environment are referred to as [CAPF 2017]
+a) Plankton
+b) Periphyton
+c) Benthos
+d) Nekton
+#QuestionEnd
+#AnswerStart
+Answer: d) Nekton
+#AnswerEnd
+
+#QuestionStart
+Q178) The following item consists of two statements, statement I and statement II. Examine these two statements carefully and select the correct answer using the code given below:
+Statement I: Chameleon changes its skin colour to match with the colour of the surroundings.
+Statement II: The skin of chameleon emits light of the colour of the surroundings through fluorescence.
+Code: [CAPF 2017]
+a) Both the statements are individually true and statement II is the correct explanation of statement I.
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I.
+c) Statement I is true, but statement II is false.
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement I is true, but statement II is false.
+#AnswerEnd
+
+#QuestionStart
+Q179) Which of the following are examples carnivorous plants? [CAPF 2016]
+a) Sundew, Venus flytrap, Pitcher plant
+b) Cuscuta, Rafflesia, Mistletoe
+c) Sandalwood tree, Broom rape, Pitcher plant
+d) Cuscuta, Bladderwort, Mistletoe
+#QuestionEnd
+#AnswerStart
+Answer: a) Sundew, Venus flytrap, Pitcher plant
+#AnswerEnd
+
+#QuestionStart
+Q180) Which one of the following pairs of animals is warm- blooded? ' [CDS 2019 (I)]
+a) Crocodile and ostrich
+b) Hagfish and dogfish
+c) Tortoise and ostrich
+d) Peacock and camel
+#QuestionEnd
+#AnswerStart
+Answer: d) Peacock and camel
+#AnswerEnd
+
+#QuestionStart
+Q181) Which one of the following is a true fish as per the biological system of classification? [CDS 2018 (I)]
+a) Silverfish
+b) Jellyfish
+c) Cuttie fish
+d) Flying fish
+#QuestionEnd
+#AnswerStart
+Answer: d) Flying fish
+#AnswerEnd
+
+#QuestionStart
+Q182) Which one among the following pairs is not correctly matched? [CDS 2015 (I)]
+|  |  |
+|---|---|
+| (a) Sandalwood plant | Partial root parasite |
+| (b) Cuscuta | Parasite |
+| (c) Nepenthes | Carnivorous |
+| (d) Mushrooms | Autotroph |
+#QuestionEnd
+#AnswerStart
+Answer: d) Mushrooms - Autotroph
+#AnswerEnd
+
+#QuestionStart
+Q183) Among the following animals, choose the one having three pairs of legs. [CDS 2014 (I)]
+a) Spider
+b) Scorpion
+c) Bug
+d) Mite
+#QuestionEnd
+#AnswerStart
+Answer: c) Bug
+#AnswerEnd

@@ -1,0 +1,854 @@
+#QuestionStart
+Q31) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Pre) 2022]
+| List-I (God) | List-II (Symbol) |
+|---|---|
+| A. Shiva | 1. Chakra |
+| B. Vishnu | 2. Trident |
+| C. Ganesh | 3. Veena |
+| D. Saraswati | 4. Rope or noose |
+Code:
+a) A-4, B-3, C-1, D-2
+b) A-2, B-1, C-4, D-3
+c) A-1, B-2, C-3, D-4
+d) A-3, B-2, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q32) With reference to the Satavahana Rulers which of the following statement/s is/are true? [U.P.P.C.S. (Pre.) 2021]
+
+1. The Satavahana Kings were the nurtures of Prakrit language.
+2. Public aspect of the arts got more encouragement during the Satavahana period.
+  Select the correct answer using the codes given below.
+  a) Only 1
+  b) Both 1 and 2
+  c) Only 2
+  d) Neither 1 nor 2
+  #QuestionEnd
+  #AnswerStart
+  Answer: b) Both 1 and 2
+  #AnswerEnd
+
+#QuestionStart
+Q33) Match list-I with list-11 and select the correct answer using the codes given below the lists; [U.P.P.C.S. (Pre) 2020]
+| List-I | List-II |
+|---|---|
+| A. Jajmani | 1. North India |
+| B. Bara Balute | 2. Karnataka |
+| C. Mirasi | 3. Maharashtra |
+| D. Adade | 4. Tamil Nadu |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-1, B-3, C-2, D-4
+c) A-1, B-4, C-2, D-3
+d) A-1, B-3, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-1, B-3, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q34) Given below are two statements, one labelled as Assertion and the other as Reason (R): [U.P.P.C.S. (Pre) 2019]
+Assertion (A): Akbar, like Shershah, tried to regulate the currency of the state.
+Reason (R): As in Shershah’s currency, the chief copper coin of Akbar’s time was the Dam.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q35) Both Sankarshana and Vasudeva are depicted on the coins of which of the following rulers? [U.P.P.C.S. (Mains) 2017]
+a) Havishka
+b) Kanishka
+c) Samudragupta
+d) Agathocles
+#QuestionEnd
+#AnswerStart
+Answer: d) Agathocles
+#AnswerEnd
+
+#QuestionStart
+Q36) Who was the first Sultan of Delhi who introduced regular coins and declared Delhi the capital of his empire? [U.P.P.C.S. (Mains) 2014]
+a) Nasiruddin Mahmud
+b) Iltutmish
+c) Aram Shah
+d) Balban
+#QuestionEnd
+#AnswerStart
+Answer: b) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q37) Who was the medieval king responsible for introducing the silver coin called ‘Tanka’ in North India? [U.P.P.C.S. (Pre) 2013]
+a) Iltutmish
+b) Raziyya
+c) Alauddin Khalji
+d) Muhammad Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: a) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q38) Who among the following was not an ‘Aivar Saint’? [U.P. P.C.S. (Pre) 2013]
+a) Poigai
+b) Tirugyan
+c) Pudam
+d) Thirumangai
+#QuestionEnd
+#AnswerStart
+Answer: b) Tirugyan
+#AnswerEnd
+
+#QuestionStart
+Q39) The most learned ruler of the Delhi sultanate who was well versed in various branches of learning including Astronomy, Mathematics and Medicine was- [U.P.P.C.S. (Mains) 2012]
+a) Iltutmish
+b) Aland din Khalji
+c) Muhammad-Bin-Tughluq
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: c) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q40) On whose coins the name of the last Caliph of Baghdad appeared for the first time? [U.P.P.C.S. (Pre) 2012]
+a) Qutbuddin Aybak
+b) Iltutmish
+c) Alauddin Khalji
+d) Alauddin Masud Shah
+#QuestionEnd
+#AnswerStart
+Answer: b) Iltutmish
+#AnswerEnd
+
+#QuestionStart
+Q41) South Indian Festival of ‘Onam’ is associated with which of the following? [U.P.P.C.S (Pre) 2011]
+a) Ram’s Victory over Rawan
+b) Durga’s Killing of Mahishasur
+c) Shiva Shakti
+d) Mahabali
+#QuestionEnd
+#AnswerStart
+Answer: d) Mahabali
+#AnswerEnd
+
+#QuestionStart
+Q42) ‘Athapoo’ is associated with which of the following festivals? [U.P.P.C.S (Pre) 2011]
+a) Dol Yatra
+b) Onam
+c) Pongal
+d) Vishwakarma Puja
+#QuestionEnd
+#AnswerStart
+Answer: b) Onam
+#AnswerEnd
+
+#QuestionStart
+Q43) Who among the following rulers issued some coins with figures of Rama and Sita and De vanagar 1 legend ‘Rama-Siya’? [U.P.P.C.S. (Mains) 2011]
+a) Bhoja
+b) Siddharaja Jayasimha
+c) Zain-ul- Abidin
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q44) Buddha is depicted on the coins of: [U.P.P.C.S. (Pre) 2010]
+a) Vima Kadphises
+b) Kanishka
+c) Nahpaad
+d) Budhagupta
+#QuestionEnd
+#AnswerStart
+Answer: b) Kanishka
+#AnswerEnd
+
+#QuestionStart
+Q45) Which of the following Kings is credited to have issued gold coins for the first time? [U.R P.C.S. (Mains) 2009]
+a) Kujula Kadphises
+b) Vima Kadphises
+c) Kanishka
+d) Huvishka
+#QuestionEnd
+#AnswerStart
+Answer: b) Vima Kadphises
+#AnswerEnd
+
+#QuestionStart
+Q46) The earliest inscription on stone was in which language? [U.P.P.C.S. (Pre) 2009]
+a) Pali
+b) Sanskrit
+c) Prakrit
+d) Brahmi
+#QuestionEnd
+#AnswerStart
+Answer: c) Prakrit
+#AnswerEnd
+
+#QuestionStart
+Q47) In whose regime Guru Nanak Dev founded Sikh religion? [U.P.P.C.S. (Spl) (Pre) 2008]
+a) Firuz Shah Tughluq
+b) Sikandar Lodi
+c) Humayun
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: b) Sikandar Lodi
+#AnswerEnd
+
+#QuestionStart
+Q48) Who among the following deities is represented in art as holding the plough? [U.P.P.C.S. (Mains) 2007]
+a) Krishna
+b) Balarama
+c) Kartikeya
+d) Maitreya
+#QuestionEnd
+#AnswerStart
+Answer: b) Balarama
+#AnswerEnd
+
+#QuestionStart
+Q49) The Ochre-coloured Pottery (O.C.P.) was christened at: [U.P.P.C.S. (Mains) 2006]
+a) Hastinapur
+b) Ahichhatra
+c) Noh
+d) Red Fort
+#QuestionEnd
+#AnswerStart
+Answer: a) Hastinapur
+#AnswerEnd
+
+#QuestionStart
+Q50) Consider the following statements: [U.P.P.C.S. (Pre) 2006]
+Assertion (A): The scheme of the token currency of Muhammad Tughluq proved unsuccessful.
+Reason (R): Muhammad Tughluq did not have the proper control over currency issue.
+Choose the correct answer from the codes given below:
+a) Both (A) and (R) is individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) is individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) is individually true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q51) Match list-I with list-II and select the correct answer using the codes given below the lists: [U.P.P.C.S. (Mains) 2004]
+| List-I | List-II |
+|---|---|
+| A. Bihu | 1. Assam |
+| B. Onam | 2. Kerala |
+| C. Pongal | 3. Tamil Nadu |
+| D. Vaisakhi | 4. Punjab |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-4, B-2, C-3, D-1
+c) A-2, B-3, C-4, D-1
+d) A-1, B-3, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-1, B-2, C-3, D-4
+#AnswerEnd
+
+#QuestionStart
+Q52) For the first time, the token currency was introduced in India by: [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Akbar
+b) Alauddin Khalji
+c) Bahlul Lodi
+d) Muhammad-Bin-Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: d) Muhammad-Bin-Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q53) Which Kand of Ramayana describes the first meeting of Rama and Hanumana? [U.P.P.C.S. (Mains) 2004]
+a) Kishkindha Kand
+b) Sunder Kand
+c) Bal Kand
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Kishkindha Kand
+#AnswerEnd
+
+#QuestionStart
+Q54) Given below is a traditional list dresses of women along with States. Which one of them is not correctly matched? [U.P.P.C.S. (Pre) 2003]
+a) Boku - Sikkim
+b) Mekhala - Assam
+c) Mundu - Chhattisgarh
+d) Pheran - Kashmir
+#QuestionEnd
+#AnswerStart
+Answer: c) Mundu - Chhattisgarh
+#AnswerEnd
+
+#QuestionStart
+Q55) Kumbh Mela at Nasik is held on which of the following riverbank? [U.P.P.C.S. (Mains) 2003]
+a) Tapti River
+b) Narmada River
+c) Koyna River
+d) Godavari River
+#QuestionEnd
+#AnswerStart
+Answer: d) Godavari River
+#AnswerEnd
+
+#QuestionStart
+Q56) Losoong is a festival which is celebrated in: [U.P.P.C.S. (Pre) 2003]
+a) Tibet
+b) Arunachal Pradesh
+c) Sikkim
+d) Kerala
+#QuestionEnd
+#AnswerStart
+Answer: c) Sikkim
+#AnswerEnd
+
+#QuestionStart
+Q57) Who of the following is especially known for his contribution in the field of Algebra? [U.P.P.C.S. (Pre) 2002]
+a) Aryabhatta
+b) Brahmagupta
+c) Bhaskar
+d) Lall
+#QuestionEnd
+#AnswerStart
+Answer: c) Bhaskar
+#AnswerEnd
+
+#QuestionStart
+Q58) Mughals adopted “Navroj” festival from- [U.P. P.C.S. (Pre) 2001]
+a) Parsi
+b) Jews
+c) Mongols
+d) Turks
+#QuestionEnd
+#AnswerStart
+Answer: a) Parsi
+#AnswerEnd
+
+#QuestionStart
+Q59) Who among the following issued silver coins with Sanskrit legend on one side? [U.P.P.C.S. (Pre) 2000]
+a) Muhammad-Bin-Qasim
+b) Mahmud of Ghazni
+c) Sher Shah
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: b) Mahmud of Ghazni
+#AnswerEnd
+
+#QuestionStart
+Q60) In the course of pilgrimage. Emperor Ashoka visited the following places. Which route did he follow? Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 1999]
+1. Gaya
+2. Kapilavastu
+3. Kushinagar
+4. Lumbini
+5. Sarnath
+6. Shravasti
+Code:
+a) 1, 2, 3, 4, 5 and 6
+b) 1, 3, 4, 2, 5 and 6
+c) 4, 5, 6, 3, 2 and 1
+d) 4, 2, 1, 5, 3 and 6
+#QuestionEnd
+#AnswerStart
+Answer: d) 4, 2, 1, 5, 3 and 6
+#AnswerEnd
+
+#QuestionStart
+Q61) Ardhanarisvara, a figure of half Siva and half Parvati, represents: [U.P.P.C.S. (Pre) 1997]
+a) Union of male and female
+b) Union of God and Goddess
+c) Union of God with his Shakti
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Union of God with his Shakti
+#AnswerEnd
+
+#QuestionStart
+Q62) Who were the first to worship Vasudeva Krishna? [U.P.P.C.S. (Pre) 1997]
+a) Bhagavatas
+b) Vedic Aryans
+c) Tamilians
+d) Abhirs
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhagavatas
+#AnswerEnd
+
+#QuestionStart
+Q63) Which of the following statements are correct about Mauryan Kings? They developed— [U.P.P.C.S. (Pre) 1990]
+A. Culture, Art and Literature
+B. Gold coins
+C. Provincial Division
+D. Kingship to Hindukush
+Code:
+a) Only A
+b) Only B
+c) A, B and C
+d) A, C and D
+#QuestionEnd
+#AnswerStart
+Answer: d) A, C and D
+#AnswerEnd
+
+#QuestionStart
+Q64) Why is Good Friday of Christians celebrated? [U.P.P.C.S. (Pre) 1990]
+a) Jesus Christ had died
+b) Jesus Christ was born
+c) Jesus Christ crucified
+d) AD was introduced
+#QuestionEnd
+#AnswerStart
+Answer: c) Jesus Christ crucified
+#AnswerEnd
+
+#QuestionStart
+Q65) Name the holy place in which the main God is different from other three? [U.P. Lower Sub. (Pre) 2002]
+a) Amarnath
+b) Jagannath
+c) Kedarnath
+d) Vishwanath
+#QuestionEnd
+#AnswerStart
+Answer: b) Jagannath
+#AnswerEnd
+
+#QuestionStart
+Q66) Which of the following epic has primarily mentioned Krishna, son of Devaki? [R.A.S./R.T.S.(Pre) 1999]
+a) Mahabharata
+b) Chhandogya Upanishad
+c) Ashtadhyayi
+d) Bhagavata Purana
+#QuestionEnd
+#AnswerStart
+Answer: b) Chhandogya Upanishad
+#AnswerEnd
+
+#QuestionStart
+Q67) The originator of Bhagavata Religion was- [R.A.S./R.T.S. (Pre) 1993]
+a) Janak
+b) Krishna
+c) Yagyavalkya
+d) Surdas
+#QuestionEnd
+#AnswerStart
+Answer: b) Krishna
+#AnswerEnd
+
+#QuestionStart
+Q68) The spirit of Christians behind the festival of Easter is- [R.A.S./R.T.S. (Pre) 1992]
+a) Jesus preached this day
+b) Jesus departed from the world
+c) Jesus went to Nazareth
+d) The day of Resurrection of Christ
+#QuestionEnd
+#AnswerStart
+Answer: d) The day of Resurrection of Christ
+#AnswerEnd
+
+#QuestionStart
+Q69) In what context does ‘Panahi’ and ‘Upanah’ mentioned in the medieval Indian History? [M.P.P.C.S. (Pre.) 2020]
+a) Cloth
+b) Jewellery
+c) Accommodation
+d) Shoes
+#QuestionEnd
+#AnswerStart
+Answer: d) Shoes
+#AnswerEnd
+
+#QuestionStart
+Q70) The Rigvedic “Pani” belong to which class of citizens? [M.P.P.C.S. (Pre) 2019]
+a) Priests
+b) Ironsmiths
+c) Goldsmiths
+d) Traders
+#QuestionEnd
+#AnswerStart
+Answer: d) Traders
+#AnswerEnd
+
+#QuestionStart
+Q71) With which religion is Kalika Purana associated? [M.P.P.C.S. (Pre) 2018]
+a) Vaishnavism
+b) Shaktism
+c) Buddhism
+d) Jainism
+#QuestionEnd
+#AnswerStart
+Answer: b) Shaktism
+#AnswerEnd
+
+#QuestionStart
+Q72) Which of the following Mughal Emperors introduced educational reforms? [M.P.P.C.S. (Pre) 2014]
+a) Jahangir
+b) Shah Jahan
+c) Humayun
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q73) Match list-I with list-II and select the correct answer using the codes given below the lists: [MPPCS (Spl) (Pre) 2004]
+| List-I | List-II |
+|---|---|
+| A. Jainism | 1. Madina |
+| B. Hinduism | 2. Vatican |
+| C. Islam | 3. Pavapuri |
+| D. Christianity | 4. Varanasi |
+Code:
+a) A-3, B-1, C-4, D-2
+b) A-1, B-2, C-4, D-3
+c) A-3, B-4, C-1, D-2
+d) A-2, B-3, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q74) What is the Jewish place of worship called? [M.P.P.C.S. (Pre) 1995]
+a) Church
+b) Synagogue
+c) Mosque
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Synagogue
+#AnswerEnd
+
+#QuestionStart
+Q75) In which place Kumbh Mela is held every twelfth years? [M.P.P.S.C. (Pre) 1995]
+a) Prayag - Haridwar - Ujjain - Nashik
+b) Chitrakoot - Ujjain - Prayag - Haridwar
+c) Rameshwaram - Puri - Badrinath - Dwarika
+d) Ujjain - Puri - Prayag - Haridwar
+#QuestionEnd
+#AnswerStart
+Answer: a) Prayag - Haridwar - Ujjain - Nashik
+#AnswerEnd
+
+#QuestionStart
+Q76) Who established Gupta Samvat? [M.P.P.C.S. (Pre) 1991]
+a) Chandragupta-I
+b) Srigupta
+c) Chandragupta-II
+d) Ghatotkach
+#QuestionEnd
+#AnswerStart
+Answer: a) Chandragupta-I
+#AnswerEnd
+
+#QuestionStart
+Q77) The pure silver ‘rupiya’ was issued by- [Jharkhand P.C.S. (Pre) 2016]
+a) Akbar
+b) Sher Shah
+c) Jahangir
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: b) Sher Shah
+#AnswerEnd
+
+#QuestionStart
+Q78) Halbi is related to which language family? [Chhattisagarh P.C.S. (Pre) 2018]
+a) Aryan
+b) Dravidian
+c) Mundari
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Aryan
+#AnswerEnd
+
+#QuestionStart
+Q79) In context of Indian culture who among the following is called Ananga? [Chhattisgarh P.C.S. (Pre) 2016]
+a) Shiva
+b) Krishna
+c) Kama
+d) Laxman
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Kama
+#AnswerEnd
+
+#QuestionStart
+Q80) Which one of the following Ashokan inscription is in “Kharosthi” script? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Khaki
+b) Girnar
+c) Shahbazgarhi
+d) Meerut
+#QuestionEnd
+#AnswerStart
+Answer: c) Shahbazgarhi
+#AnswerEnd
+
+#QuestionStart
+Q81) Which ruler of Bengal founded the ancient University called ‘Vikramshila’? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Dharamapah
+b) Gopala
+c) DeVpala
+d) Mahtpah
+#QuestionEnd
+#AnswerStart
+Answer: a) Dharamapah
+#AnswerEnd
+
+#QuestionStart
+Q82) How many Jyotirlingah are there devoted to Lord Shiva? [Chhattisgarh P.C.S. (Pre) 2011]
+a) 6
+b) 12
+c) 24
+d) 18
+#QuestionEnd
+#AnswerStart
+Answer: b) 12
+#AnswerEnd
+
+#QuestionStart
+Q83) The famous ‘Gangasagar Mela’ is held in which of the following states of India? [Uttarakhand PCS (Pre) 2021]
+a) Gujarat
+b) West Bengal
+c) Andhra Pradesh
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: b) West Bengal
+#AnswerEnd
+
+#QuestionStart
+Q84) Which one of the following places was not the centre of learning during early medieval period? [Uttarakhand P.C.S. (Pre) 2016]
+a) Nalanda
+b) Vikramshila
+c) Taxila
+d) Uddantapur
+#QuestionEnd
+#AnswerStart
+Answer: c) Taxila
+#AnswerEnd
+
+#QuestionStart
+Q85) After the downfall of the Delhi Sultanate, who was the first ruler to issue the gold coins? [Uttarakhand P.C.S. (Pre) 2012]
+a) Akbar
+b) Humayun
+c) Shah Jahan
+d) Sher Shah
+#QuestionEnd
+#AnswerStart
+Answer: b) Humayun
+#AnswerEnd
+
+#QuestionStart
+Q86) The earliest reference of ‘Magnetic Compass’ is found in: [Uttarakhand P.C.S. (Pre) 2012]
+a) Miftahul Puzala
+b) Chachnama
+c) Ranazatu’s Safar
+d) Jawamiul Hikayat
+#QuestionEnd
+#AnswerStart
+Answer: d) Jawamiul Hikayat
+#AnswerEnd
+
+#QuestionStart
+Q87) What is ‘Kaaba’? [Uttarakhand P.C.S. (Pre) 2010]
+a) Hindu Shrine
+b) Jew’s Shrine
+c) Muslim Shrine
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Muslim Shrine
+#AnswerEnd
+
+#QuestionStart
+Q88) Coins of which Muslim ruler bear an image of Devi Lakshmi? [Uttarakhand P.C.S. (Pre) 2006]
+a) Muhammad Ghori
+b) Alauddin Khaiji
+c) Akbar
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Muhammad Ghori
+#AnswerEnd
+
+#QuestionStart
+Q89) In India, many pilgrims travel to Srisailam, which is one of the twelve Jyotirlingas, is located in- [Uttarakhand P.C.S. (J) (Pre) 2005]
+a) in Tapovan near Uttaranchal
+b) in Tamil Nadu near Arunachal
+c) in Andhra Pradesh near Kurnool
+d) in Kerala, near Kaladi
+#QuestionEnd
+#AnswerStart
+Answer: c) in Andhra Pradesh near Kurnool
+#AnswerEnd
+
+#QuestionStart
+Q90) In which among the following states, ‘Odantipur’ Education Centre was situated? [60th to 62nd B.RS.C. (Pre) 2016]
+a) Bengal
+b) Bihar
+c) Gujarat
+d) Tamil Nadu
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Bihar
+#AnswerEnd
+
+#QuestionStart
+Q91) Language used in the inscriptions of Ashoka is: [44th B.RS.C. (Pre) 2000]
+a) Sanskrit
+b) Prakrit
+c) Pali
+d) Hindi
+#QuestionEnd
+#AnswerStart
+Answer: b) Prakrit
+#AnswerEnd
+
+#QuestionStart
+Q92) Which colour was commonly used in the Harappan Pottery? [40th B.P.S.C. (Pre) 1995]
+a) Red
+b) Blue grey
+c) Yellow
+d) Blue
+#QuestionEnd
+#AnswerStart
+Answer: a) Red
+#AnswerEnd
+
+#QuestionStart
+Q93) Who contributes the most in the development of Bhagavata sect? [39th B.P.S.C. (Pre) 1994]
+a) Persian
+b) Indo-Greek people
+c) Kushan
+d) Gupta
+#QuestionEnd
+#AnswerStart
+Answer: d) Gupta
+#AnswerEnd
+
+#QuestionStart
+Q94) Which one of the following statements about coins struck during 200 BCE to 300 CE in the Indian sub - continent is not correct? [CAPF 2022]
+a) The Indo-Greeks introduced bilingual and biscript legends on their coins.
+b) The Kushanas minted large quantities of gold coins as well as copper coins of low denomination.
+c) The Satavahanas issued coins of silver, copper, lead and potin.
+d) Absence of Negama coins suggests the declining power and authority of merchant guilds.
+#QuestionEnd
+#AnswerStart
+Answer: d) Absence of Negama coins suggests the declining power and authority of merchant guilds.
+#AnswerEnd
+
+#QuestionStart
+Q95) Which of the following statements about Harappa Civilization is/are correct? [CAPF 2018]
+1. There is the extraordinary uniformity in artefacts as evident in pottery, seals, bricks and weights.
+2. The late Harappa sites also maintained the same construction techniques as were used in mature Harappa sites.
+Select the correct answer using the codes given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q96) Which one among the following is not true of bead-making as a salient feature of mature Harappan crafts? [CAPF 2014]
+a) Harappan beads were made of gold, copper, shell, lapis lazuli, ivory and a variety of semi-precious stones
+b) Archaeologists have identified bead-makers shops on the basis of assemblages of unfinished objects
+c) At Chanhudaro, tools, furnaces and beads in various stages of preparations have been found
+d) The structure of Banawali, yielded many beads in finished, semi-finished and unfinished states
+#QuestionEnd
+#AnswerStart
+Answer: d) The structure of Banawali, yielded many beads in finished, semi-finished and unfinished states
+#AnswerEnd
+
+#QuestionStart
+Q97) Which of the following statements is/are correct? [CAPF 2014]
+1. Humayun invented Taj-i-izzat.
+2. Taj-i-izzat was a head gear, composed of a cap and a wrapping cloth.
+Select the correct answer using the codes given below.
+Codes:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q98) In respect to Balutedars, which of the statements given below are correct? [CDS 2023 (I)]
+1. They were village servants and artisans.
+2. They were employed by individual peasant family.
+3. They existed in the Medieval Deccan and Maharashtra.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q99) Which one of the following statements about Gupta coins is not correct? [CDS 2020 (II)]
+a) Gupta kings issued a large number of gold coins known as Dinar.
+b) Chandragupta II, Kumaragupta I, Skandagupta and Budhagupta issued silver coins.
+c) The obverses of coins are carved with the images of the kings and on the reverse are carved deities.
+d) The largest number of coins issued by the Guptas were of copper.
+#QuestionEnd
+#AnswerStart
+Answer: d) The largest number of coins issued by the Guptas were of copper.
+#AnswerEnd
+
+#QuestionStart
+Q100) Which organization was started at the Haridwar Kumbh Mela in 1915? [CDS 2018 (II)]
+a) Sanatan Dharma Sabha
+b) Dev Samaj
+c) Brahmin Sabha
+d) Hindu Mahasabha
+#QuestionEnd
+#AnswerStart
+Answer: d) Hindu Mahasabha
+#AnswerEnd
+
+#QuestionStart
+Q101) Which one among the following statements about the coins of the Gupta rulers is correct? [CDS 2016 (I)]
+a) The obverse and reverse, both, had only the king’s portrait and date.
+b) The obverse and reverse, both, had only an image of a deity and date.
+c) The obverse generally had king’s portrait and reverse had an image of a deity or a motif.
+d) The obverse generally had king’s portrait and reverse always had a date.
+#QuestionEnd
+#AnswerStart
+Answer: c) The obverse generally had king’s portrait and reverse had an image of a deity or a motif.
+#AnswerEnd
+
+#QuestionStart
+Q102) The ruins of the Vijayanagara at Hampi were brought to light in 1800 by: [CDS 2014 (II)]
+a) Colonel Colin Mackenzie
+b) Sir John Shore
+c) Andrew Fraser
+d) John Marshall
+#QuestionEnd
+#AnswerStart
+Answer: a) Colonel Colin Mackenzie
+#AnswerEnd

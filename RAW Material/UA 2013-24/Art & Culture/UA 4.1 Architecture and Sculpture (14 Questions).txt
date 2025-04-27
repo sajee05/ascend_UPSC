@@ -1,0 +1,188 @@
+#QuestionStart
+Q1) Consider the following properties included in the World Heritage List released by UNESCO: (2024)
+1. Shantiniketan
+2. Rani-ki-Vav
+3. Sacred Ensembles of the Hoysalas
+4. Mahabodhi Temple Complex at Bodhgaya
+How many of the above properties were included in 2023?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple? (2022)
+1. Somnath Temple is one of the Jyotirlinga shrines.
+2. A description of the Somnath Temple was given by Al-Biruni.
+3. Pran Pratishtha of Somnath Temple (installation of the present-day temple) was done by President S. Radhakrishnan.
+Select the correct answer using the code given below :
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following statements is correct? (2021)
+a) Ajanta Caves lie in the gorge of Waghora river.
+b) Sanchi Stupa lies in the gorge of Chambal river.
+c) Pandu-lena Cave Shrines lie in the gorge of Narmada river.
+d) Amaravati Stupa lies in the gorge of Godavari river.
+#QuestionEnd
+#AnswerStart
+Answer: a) Ajanta Caves lie in the gorge of Waghora river.
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to Chausath Yogini Temple situated near Morena, consider the following statements : (2021)
+1. It is a circular temple built during the reign of Kachchhapaghata Dynasty.
+2. It is the only circular temple built in India.
+3. It was meant to promote the Vaishnava cult in the region.
+4. Its design has given rise to a popular belief that it was the inspiration behind the Indian Parliament building.
+Which of the statements given above are correct?
+a) 1 and 2
+b) 2 and 3 only
+c) 1 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q5) Building ‘Kalyana Mandapam’ was a notable feature in the temple construction in the kingdom of: (2019)
+a) Chalukya
+b) Chandela
+c) Rashtrakuta
+d) Vijayanagara
+#QuestionEnd
+#AnswerStart
+Answer: d) Vijayanagara
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the cultural history of India, consider the following statements: (2018)
+1. White marble was used in making Buland Darwaza and Khankah at Fatehpur Sikri.
+2. Red sandstone and marble were used in making Bara Imambara and Rumi Darwaza in Lucknow.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2 (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q7) Which of the following is/are famous for Sun temples? (2017)
+1. Arasavalli
+2. Amarkantak
+3. Omkareshwar
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q8) What is/are common to the two historical places known as Ajanta and Mahabalipuram? (2016)
+1. Both were built in the same period
+2. Both belong to the same religious denomination
+3. Both have rock-cut monuments
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) None of the statements given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to the art and archaeological history of India, which one among the following was made the earliest? (2015)
+a) Lingaraja Temple at Bhubaneswar
+b) Rock-cut Elephant at Dhauli
+c) Rock-cut Monuments at Mahabalipuram
+d) Varaha Image at Udayagiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Rock-cut Elephant at Dhauli
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to the cultural history of India, the term 'Panchayatan' refers to (2014)
+a) an assembly of village elders
+b) a religious sect
+c) a style of temple construction
+d) an administrative functionary
+#QuestionEnd
+#AnswerStart
+Answer: c) a style of temple construction
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to the Indian history of art and culture, consider the following pairs: (2014)
+| Famous work of sculpture | Site |
+|---|---|
+| 1. A grand image of Buddha's Mahaparinirvana with numerous celestial musicians above and the sorrowful figures of his followers below | Ajanta |
+| 2. A huge image of Varaha Avatar (boar incarnation) of Vishnu, as he rescues Goddess Earth from the deep and chaotic waters, sculpted on rock | Mount Abu |
+| 3. “Arjuna's Penance”/ “Descent of Ganga” sculpted on the surface of huge boulders | Mamallapuram |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to the history of Indian rock- cut architecture, consider the following statements: (2013)
+1. The caves at Badami are the oldest surviving rock-cut caves in India.
+2. The Barabar rock-cut caves were originally made for Ajivikas by Emperor Chandragupta Maurya.
+3. At Ellora, caves were made for different faiths.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Some Buddhist rock-cut caves are called Chaityas, while others are called Viharas. What is the difference between the two? (2013)
+a) Vihara is a place of worship, while Chaitya is the dwelling place of the monks
+b) Chaitya is a place of worship, while Vihara is the dwelling place of the monks
+c) Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it
+d) There is no material difference between the two
+#QuestionEnd
+#AnswerStart
+Answer: b) Chaitya is a place of worship, while Vihara is the dwelling place of the monks
+#AnswerEnd
+
+#QuestionStart
+Q14) The Nagara, the Dravida and the Vesara are the (2012)
+a) three main racial groups of the Indian subcontinent
+b) three main linguistic divisions into which the languages of Indian can be classified
+c) three main styles of Indian temple architecture
+d) three main musical Gharanas prevalent in India
+#QuestionEnd
+#AnswerStart
+Answer: c) three main styles of Indian temple architecture
+#AnswerEnd

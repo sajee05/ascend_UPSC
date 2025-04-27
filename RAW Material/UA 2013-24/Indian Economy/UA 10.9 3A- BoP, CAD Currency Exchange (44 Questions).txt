@@ -1,0 +1,599 @@
+#QuestionStart
+Q1) Consider the investments in the following assets: (2023)
+1. Brand recognition
+2. Inventory
+3. Intellectual property
+4. Mailing list of clients
+How many of the above are considered intangible investments?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the Indian economy, consider the following statements : (2022)
+1. A share of the household financial savings goes towards government borrowings.
+2. Dated securities issued at market- related rates in auctions form a large component of internal debt.
+Which of the above statements is/are correct ?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the expenditure made by an organization or a company, which of the following statements is/are correct ? (2022)
+1. Acquiring new technology is capital expenditure.
+2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.
+Select the correct answer using the code given below :
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to the Indian economy, consider the following statements: (2022)
+1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee.
+2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness.
+3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.
+Which of the above statements are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: (2022)
+1. Tight monetary policy of the US Federal Reserve could lead to capital flight.
+2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).
+3. Devaluation of domestic currency decreases the currency risk associated with ECBs.
+Which of the statements given above are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: X (Question dropped by UPSC)
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements : (2021)
+The effect of devaluation of a currency is that it necessarily
+1. improves the competitiveness of the domestic exports in the foreign markets
+2. increases the foreign value of domestic currency
+3. improves the trade balance
+Which of the above statements is/are correct?
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following : (2021)
+1. Foreign currency convertible bonds
+2. Foreign institutional investment with certain conditions
+3. Global depository receipts
+4. Non-resident external deposits
+Which of the above can be included in Foreign Direct Investments?
+a) 1, 2 and 3
+b) 3 only
+c) 2 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) Along with the Budget, the Finance Minister also places other documents before the Parliament which include ‘The Macro Economic Framework Statement’. The aforesaid document is presented because this is mandated by [2020]
+a) Long standing parliamentary convention
+b) Article 112 and Article 110(1) of the Constitution of India
+c) Article 113 of the Constitution of India
+d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#QuestionEnd
+#AnswerStart
+Answer: d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: [2020]
+1. The value of Indo-Sri Lanka trade has consistently increased in the last decade.
+2. “Textile and textile articles” constitute an important item of the trade between India and Bangladesh.
+3. In the last five years, Nepal has been the largest trading partner of India in South Asia.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Term ‘West Texas Intermediate’, sometimes found in news, refers to a grade of_ _ (Prelims-2020)
+a) Crude oil
+b) Bullion
+c) Rare earth elements
+d) Uranium
+#QuestionEnd
+#AnswerStart
+Answer: a) Crude oil
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to Foreign Direct Investment in India, which one of the following is considered its major characteristic? (2020)
+a) It is the investment through capital instruments essentially in a listed company.
+b) It is largely non-debt, creating capital flow.
+c) It is an investment which involves debt- servicing.
+d) It is the instrument made by foreign institutional investors in the Government securities.
+#QuestionEnd
+#AnswerStart
+Answer: b) It is largely non-debt, creating capital flow.
+#AnswerEnd
+
+#QuestionStart
+Q12) “Gold Tranche” (Reserve Tranche) refers to (2020)
+a) a loan system of the World Bank
+b) one of the operations of a Central Bank
+c) a credit system granted by WTO to its members
+d) a credit system granted by IMF to its members
+#QuestionEnd
+#AnswerStart
+Answer: d) a credit system granted by IMF to its members
+#AnswerEnd
+
+#QuestionStart
+Q13) If another global financial crisis happens in the near future, which of the following actions/policies are most likely to give some immunity to India? (2020)
+1. Not depending on the short-term foreign borrowings
+2. Opening up to more foreign banks
+3. Maintaining full capital account convertibility
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Among the following, which one is the largest exporter of rice in the world in the last five years? (2019)
+a) China
+b) India
+c) Myanmar
+d) Vietnam
+#QuestionEnd
+#AnswerStart
+Answer: b) India
+#AnswerEnd
+
+#QuestionStart
+Q15) Among the agricultural commodities imported by India, which one of the following accounts for the highest imports in terms of value in the last five years? (2019)
+a) Spices
+b) Fresh fruits
+c) Pulses
+d) Vegetable oils
+#QuestionEnd
+#AnswerStart
+Answer: d) Vegetable oils
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements: (2019)
+1. Most of India’s external debt is owed by governmental entities.
+2. All of India’s external debt is denominated in US dollars.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q17) In the context of India, which of the following factors is/are contributor/ contributors to reducing the risk of a currency crisis? (2019)
+1. The foreign currency earnings of India’s IT sector.
+2. Increasing government expenditure.
+3. Remittances from Indians abroad.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Which one of the following is not the most likely measure the Government/RBI takes to stop the slide of the Indian rupee? (2019)
+a) Curbing imports of non-essential goods and promoting exports.
+b) Encouraging Indian borrowers to issue rupee denominated Masala Bonds.
+c) Easing conditions relating to external commercial borrowing.
+d) Following an expansionary monetary policy.
+#QuestionEnd
+#AnswerStart
+Answer: d) Following an expansionary monetary policy.
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: (2019)
+1. Purchasing Power Parity (PPP) exchange rates are calculated by comparing the prices of the same basket of goods and services in different countries.
+2. In terms of PPP dollars, India is the sixth largest economy in the world.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Consider the following statements: (2018)
+1. The quantity of imported edible oils is more than the domestic production of edible oils in the last five years.
+2. The Government does not impose any customs duty on all the imported edible oils as a special case.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements: (2018)
+1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments.
+2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments.
+3. As per the Constitution of India, it is mandatory for a State to take the Central Government's consent for raising any loan if the former owes any outstanding liabilities to the latter.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following statements: (2017)
+1. Tax revenue as a per cent of GDP of India has steadily increased in the last decade.
+2. The fiscal deficit as a per cent of GDP of India has steadily increased in the last decade.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q23) Which of the following is/are included in the capital budget of the Government of India? (2016)
+1. Expenditure on acquisition of assets like roads, buildings, machinery, etc.
+2. Loans received from foreign governments.
+3. Loans and advances granted to the States and Union Territories.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q24) There has been a persistent deficit budget year after year. Which action/actions of the following can be taken by the government to reduce the deficit? (2016)
+1. Reducing revenue expenditure
+2. Introducing new welfare scheme
+3. Rationalizing subsidies
+4. Reducing import duty
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q25) What is/are the purpose/purposes of the Government’s ‘Sovereign Gold Bond Scheme’ and ‘Gold Monetization Scheme’? (2016)
+1. To bring the idle gold lying with Indian households into the economy
+2. To promote FDI in the gold and jewellery sector
+3. To reduce Indian’s dependence on gold imports
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q26) Recently, which one of the following currencies has been proposed to be added to the basket of IMF’s SDR? (2016)
+a) Rouble
+b) Rand
+c) Indian Rupee
+d) Renminbi
+#QuestionEnd
+#AnswerStart
+Answer: d) Renminbi
+#AnswerEnd
+
+#QuestionStart
+Q27) Which of the following best describes the term ‘import cover’, sometimes seen in the news? (2016)
+a) It is the ratio of value of imports to the Gross Domestic Product of a country.
+b) It is the total value of imports of a country in a year.
+c) It is the ratio between the value of exports and that of imports between two countries.
+d) It is the number of months of imports that could be paid for by a country’s international reserves.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the number of months of imports that could be paid for by a country’s international reserves.
+#AnswerEnd
+
+#QuestionStart
+Q28) The problem of international liquidity is related to the non-availability of: (2015)
+a) goods and services
+b) gold and silver
+c) dollars and other hard currencies
+d) exportable surplus
+#QuestionEnd
+#AnswerStart
+Answer: c) dollars and other hard currencies
+#AnswerEnd
+
+#QuestionStart
+Q29) Convertibility of rupee implies: (2015)
+a) being able to convert rupee notes into gold
+b) allowing the value of rupee to be fixed by market forces
+c) freely permitting the conversion of rupee to other currencies and vice versa
+d) developing an international market for currencies in India
+#QuestionEnd
+#AnswerStart
+Answer: c) freely permitting the conversion of rupee to other currencies and vice versa
+#AnswerEnd
+
+#QuestionStart
+Q30) There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit? (2015)
+1. Reducing revenue expenditure
+2. Introducing new welfare schemes
+3. Rationalizing subsidies
+4. Expanding industries
+Select the correct answer using the code given below.
+a) 1 and 3 only
+b) 2 and 3 only
+c) 1 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q31) With reference to the Fourteenth Finance Commission, which of the following statements is/are correct? (2015)
+1. It has increased the share of States in the central divisible pool from 32 percent to 42 percent.
+2. It has made recommendations concerning sector-specific grants.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q32) With reference to the Union Budget, which of the following is/are covered under Non- Plan Expenditure? (2014)
+1. Defence Expenditure
+2. Interest Payments
+3. Salaries and pensions
+4. Subsidies
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1, 2, 3 and 4
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q33) With reference to Balance of Payments, which of the following constitutes/ constitute the Current Account? (2014)
+1. Balance of Trade
+2. Foreign Assets
+3. Balance of Invisibles
+4. Special Drawing Rights
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q34) The Balance of Payments of a country is a systematic record of (2013)
+a) all import and export transactions of a country during a given period of time, normally a year
+b) goods exported from a country during a year
+c) economic transaction between the government of one country to another
+d) capital movements from one country to another
+#QuestionEnd
+#AnswerStart
+Answer: a) all import and export transactions of a country during a given period of time, normally a year
+#AnswerEnd
+
+#QuestionStart
+Q35) Which of the following constitute Capital Account? (2013)
+1. Foreign Loans
+2. Foreign Direct Investment
+3. Private Remittances
+4. Portfolio Investment
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 1, 2 and 4 only
+c) 2, 3 and 4 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following groups of items is included in India’s foreign – exchange reserves? (2013)
+a) Foreign – currency assets, Special Drawing Rights (SDRs) and loans from foreign countries.
+b) Foreign – currency assets, gold holdings of the RBI and SDRs.
+c) Foreign – currency assets, loans from the World Bank and SDRs.
+d) Foreign – currency assets, gold holdings of the RBI and loans from the World Bank.
+#QuestionEnd
+#AnswerStart
+Answer: b) Foreign – currency assets, gold holdings of the RBI and SDRs.
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following statements: (2012)
+The price of any currency in international market is decided by the
+1. World Bank
+2. demand for goods/services provided by the country concerned
+3. stability of the government of the concerned country
+4. economic potential of the country in question
+Which of the statements given above are correct?
+a) 1, 2, 3 and 4
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q38) Which of the following would include Foreign Direct Investment in India? (2012)
+1. Subsidiaries of companies in India
+2. Majority foreign equity holding in Indian companies
+3. Companies exclusively financed by foreign companies
+4. Portfolio investment
+Select the correct answer using the code given below:
+a) 1, 2, 3 and 4
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q39) In terms of economy, the visit by foreign nationals to witness the XIX Commonwealth Games in India amounted to (2011)
+a) Export
+b) Import
+c) Production
+d) Consumption
+#QuestionEnd
+#AnswerStart
+Answer: a) Export
+#AnswerEnd
+
+#QuestionStart
+Q40) Why is the Government of India disinvesting its equity in the Central Public Sector Enterprises (CPSEs)? (2011)
+1. The Government intends to use the revenue earned from the disinvestment mainly to pay back the external debt.
+2. The Government no longer intends to retain the management control of the CPSEs.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q41) Which one of the following statements appropriately describes the “fiscal stimulus”? (2011)
+a) It is a massive investment by the Government in the manufacturing sector to ensure the supply of goods to meet demand surge caused by rapid economic growth.
+b) It is an intense affirmative action of the Government to boost economic activity in the country.
+c) It is the Government’s intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation.
+d) It is an extreme affirmative action by the government to pursue its policy of financial inclusion.
+#QuestionEnd
+#AnswerStart
+Answer: b) It is an intense affirmative action of the Government to boost economic activity in the country.
+#AnswerEnd
+
+#QuestionStart
+Q42) Both Foreign Direct Investment (FDI) and Foreign Institutional Investor (FII) are related to investment in a country. Which of the following statements best represents an important difference between the two? (2011)
+a) FII helps bring better management skills and technology, while FDI only brings in capital.
+b) FII helps in increasing capital availability in general, while FDI only targets specific sectors.
+c) FDI flows only into the secondary market, while FII targets the primary market.
+d) FII is considered to be more stable than FDI.
+#QuestionEnd
+#AnswerStart
+Answer: b) FII helps in increasing capital availability in general, while FDI only targets specific sectors.
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following action which the Government can take: (2011)
+1. Devaluing the domestic currency.
+2. Reduction in export subsidy.
+3. Adopting suitable policies which attract greater FDI and more funds from FIIs.
+Which of the following action/actions can help in reducing the Current Account Deficit?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q44) With reference to the "Tea Board" in India, consider the following statements:
+1. The Tea Board is a statutory body.
+2. It is a regulatory body attached to the Minister of Agriculture and Farmers Welfare.
+3. The Tea Board's Head Office is situated in Bengaluru.
+4. The Board has overseas offices at Dubai and Moscow.
+Which of the statements given above are correct?
+a) 1 and 3
+b) 2 and 4
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd

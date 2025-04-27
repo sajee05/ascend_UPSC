@@ -1,0 +1,417 @@
+#QuestionStart
+Q1) "Membrane Bioreactors” are often discussed in the context of: (2024)
+a) Assisted reproductive technologies
+b) Drug delivery nanotechnologies
+c) Vaccine production technologies
+d) Wastewater treatment technologies
+#QuestionEnd
+#AnswerStart
+Answer: d) Wastewater treatment technologies
+#AnswerEnd
+
+#QuestionStart
+Q2) ‘Aerial metagenomics’ best refers to which one of the following situations? (2023)
+a) Collecting DNA samples from air in a habitat at one go
+b) Understanding the genetic makeup of avian species of a habitat
+c) Using air-borne devices to collect blood samples from moving animals
+d) Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies
+#QuestionEnd
+#AnswerStart
+Answer: a) Collecting DNA samples from air in a habitat at one go
+#AnswerEnd
+
+#QuestionStart
+Q3) ‘Microsatellite DNA’ is used in the case of which one of the following? (2023)
+a) Studying the evolutionary relationships among various species of fauna
+b) Stimulating ‘stem cells’ to transform into diverse functional tissues
+c) Promoting clonal propagation of horticultural plants
+d) Assessing the efficacy of drugs by conducting series of drug trials in a population
+#QuestionEnd
+#AnswerStart
+Answer: a) Studying the evolutionary relationships among various species of fauna
+#AnswerEnd
+
+#QuestionStart
+Q4) In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements : (2022)
+1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform.
+2. Sputnik V vaccine is manufactured using a vector based platform.
+3. COVAXIN is an inactivated pathogen based vaccine.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which one of the following statements best describes the role of B cells and T cells in the human body? (2022)
+a) They protect the body from environmental allergens.
+b) They alleviate the body’s pain and inflammation.
+c) They act as immunosuppressants in the body.
+d) They protect the body from diseases caused by pathogens.
+#QuestionEnd
+#AnswerStart
+Answer: d) They protect the body from diseases caused by pathogens.
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements : (2022)
+DNA Barcoding can be a tool to :
+1. assess the age of a plant or animal.
+2. distinguish among species that look alike.
+3. identify undesirable animal or plant materials in processed foods.
+Which of the statements given above is/are correct ?
+a) 1 only
+b) 3 only
+c) 1 and 2
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements : (2022)
+1. Biofilms can form on medical implants within human tissues.
+2. Biofilms can form on food and food processing surfaces.
+3. Biofilms can exhibit antibiotic resistance.
+Which of the statements given above are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to recent developments regarding ‘Recombinant Vector Vaccines’, consider the following statements: (2021)
+1. Genetic engineering is applied in the development of these vaccines.
+2. Bacteria and viruses are used as vectors.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q9) In the context of hereditary diseases, consider the following statements: (2021)
+1. Passing on mitochondrial diseases from parent to child can be prevented by mitochondrial replacement therapy either before or after in vitro fertilization of the egg.
+2. A child inherits mitochondrial diseases entirely from mother and not from father.
+Which of the statements given above is/ are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following: (2021)
+1. Bacteria
+2. Fungi
+3. Virus
+Which of the above can be cultured in artificial/synthetic medium?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q11) The term ‘ACE2’ is talked about in the context of (2021)
+a) genes introduced in the genetically modified plants
+b) development of India’s own satellite navigation system
+c) radio collars for wildlife tracking
+d) spread of viral diseases
+#QuestionEnd
+#AnswerStart
+Answer: d) spread of viral diseases
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements : (2021)
+1. Adenoviruses have single-stranded DNA genomes whereas retroviruses have double-stranded DNA genomes.
+2. Common cold is sometimes caused by an adenovirus whereas AIDS is caused by a retrovirus.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Bollgard I and Bollgard II technologies are mentioned in the context of (2021)
+a) clonal propagation of crop plants
+b) developing genetically modified crop plants
+c) production of plant growth substances
+d) production of biofertilizers
+#QuestionEnd
+#AnswerStart
+Answer: b) developing genetically modified crop plants
+#AnswerEnd
+
+#QuestionStart
+Q14) What is the importance of using Pneumococcal Conjugate Vaccines in India? (2020)
+1. These vaccines are effective against pneumonia as well as meningitis and sepsis.
+2. Dependence on antibiotics that are not effective against drug-resistant bacteria can be reduced.
+3. These vaccines have no side effects and cause no allergic reactions.
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following statements: (2020)
+1. Genetic changes can be introduced in the cells that produce eggs or sperms of a prospective parent.
+2. A person’s genome can be edited before birth at the early embryonic stage.
+3. Human induced pluripotent stem cells can be injected into the embryo of a pig.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q16) In the context of recent advances in human reproductive technology, ‘Pronuclear Transfer” is used for (2020)
+a) Fertilization of egg in vitro by the donor sperm
+b) Genetic modification of sperm producing cells
+c) Development of stem cells into functional embryos
+d) Prevention of mitochondrial diseases in offspring
+#QuestionEnd
+#AnswerStart
+Answer: d) Prevention of mitochondrial diseases in offspring
+#AnswerEnd
+
+#QuestionStart
+Q17) What is the Cas9 protein that is often mentioned in the news? (2019)
+a) A molecular scissors used in targeted gene editing.
+b) A biosensor used in the accurate detection of pathogens in patients.
+c) A gene that makes plants pest-resistant.
+d) A herbicidal substance synthesized in generally modified crops.
+#QuestionEnd
+#AnswerStart
+Answer: a) A molecular scissors used in targeted gene editing.
+#AnswerEnd
+
+#QuestionStart
+Q18) RNA interference (RNAi) technology has gained popularity in the last few years. Why? (2019)
+1. It is used in developing gene silencing therapies.
+2. It can be used in developing therapies for the treatment of cancer.
+3. It can be used to develop hormone replacement therapies.
+4. It can be used to produce crop plants that are resistant to virtual pathogens.
+Select the correct answer using the code given below:
+a) 1, 2 and 4 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to the recent developments in science, which one of the following statements is not correct? (2019)
+a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.
+b) Pieces of artificial functional DNA can be created in laboratories.
+c) A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.
+d) Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes.
+#QuestionEnd
+#AnswerStart
+Answer: a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.
+#AnswerEnd
+
+#QuestionStart
+Q20) With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements: (2018)
+1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.
+2. GM mustard has the genes that allow the plant cross-pollination and hybridization.
+3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q21) What is the application of Somatic Cell Nuclear Transfer Technology? (2017)
+a) Production of bio larvicides
+b) Manufacture of biodegradable plastics
+c) Reproductive cloning of animals
+d) Production of organisms free of diseases
+#QuestionEnd
+#AnswerStart
+Answer: c) Reproductive cloning of animals
+#AnswerEnd
+
+#QuestionStart
+Q22) With reference to agriculture in India, how can the technique of ‘genome sequencing', often seen in the news, be used in the immediate future? (2017)
+1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.
+2. This technique helps in reducing the time required to develop new varieties of crop plants.
+3. It can be used to decipher the host- pathogen relationships in crops.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q23) In the context of the developments in Bioinformatics, the term ‘transcriptome’, sometimes seen in the news, refers to (2016)
+a) A range of enzymes used in genome editing
+b) The full range of mRNA molecules expressed by an organism
+c) The description of the mechanism of gene expression
+d) A mechanism of genetic mutations taking place in cells
+#QuestionEnd
+#AnswerStart
+Answer: b) The full range of mRNA molecules expressed by an organism
+#AnswerEnd
+
+#QuestionStart
+Q24) Consider the following techniques/ phenomena: (2014)
+1. Budding and grafting in fruit plants
+2. Cytoplasmic male sterility
+3. Gene silencing
+Which of the above is/are used to create transgenic crops?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q25) Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to (2013)
+1. Resist drought and increase the absorptive area
+2. Tolerate extremes of pH
+3. Resist disease infestation
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q26) Recombinant DNA technology (Genetic Engineering) allows genes to be transferred (2013)
+1. across different species of plants
+2. from animals to plants
+3. from microorganisms to higher organisms
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q27) Other than resistance to pests, what are the prospects for which genetically engineered plants have been created? (2012)
+1. To enable them to withstand drought
+2. To increase the nutritive value of the produce
+3. To enable them to grow and do photosynthesis in spaceships and space stations
+4. To increase their shelf life.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q28) With reference to ‘stem cells’, frequently in the news, which of the following statements is/are correct? (2012)
+1. Stem cells can be derived from mammals only.
+2. Stem cells can be used for screening new drugs.
+3. Stem cells can be used for medical therapies.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q29) What are the reasons for the people's resistance to the introduction of BT brinjal in India? (2012)
+1. Bt brinjal has been created by inserting a gene from a soil fungus into its genome.
+2. The seeds of Bt brinjal are terminator seeds and therefore, the farmers have to buy the seeds before every season from the seed companies.
+3. There is an apprehension that the consumption of Bt brinjal may have adverse impact on health.
+4. There is some concern that the introduction of BT brinjal may have adverse effect on the biodiversity.
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q30) At present, scientists can determine the arrangement or relative positions of genes or DNA sequences on a chromosome. How does this knowledge benefit us? (2011)
+1. It is possible to know the pedigree of livestock.
+2. It is possible to understand the causes of all human diseases.
+3. It is possible to develop disease- resistant animal breeds.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q31) A genetically engineered form of brinjal, known as the Bt-Brinjal, has been developed. The objective of this is (2011)
+a) To make it pest-resistant
+b) To improve its taste and nutritive qualities
+c) To make it drought resistant
+d) To make its shelf-life longer
+#QuestionEnd
+#AnswerStart
+Answer: a) To make it pest-resistant
+#AnswerEnd

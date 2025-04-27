@@ -1,0 +1,1211 @@
+#QuestionStart
+Q1) ‘Pradhan Mantri Jan-Dhan Yojana’ has been launched for - 2015
+a) providing housing loan to poor people at cheaper interest rates
+b) promoting women’s Self-Help Groups in backward areas
+c) promoting financial inclusion in the country
+d) providing financial help to the marginalized communities
+#QuestionEnd
+#AnswerStart
+Answer: c) promoting financial inclusion in the country
+#AnswerEnd
+#QuestionStart
+Q2) With reference to the Fourteenth Finance Commission, which of the following statements is/are correct?
+(i) It has increased the share of States in the central divisible pool from 32 percent to 42 percent.
+(ii) It has made recommendations concerning sector-specific grants.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q3) The ‘Fortaleza Declaration’, recently in the news, is related to the affairs of - 2015
+a) ASEAN
+b) BRICS
+c) OECD
+d) WTO
+#QuestionEnd
+#AnswerStart
+Answer: b) BRICS
+#AnswerEnd
+#QuestionStart
+Q4) A decrease in tax to GDP ratio of a country indicates which of the following?
+(i) Slowing economic growth rate
+(ii) Less equitable distribution of national income
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q5) In the South Atlantic and South-Eastern Pacific regions in tropical latitudes, cyclone does not originate. What is the reason? - 2015
+a) Sea surface temperatures are low
+b) Inter-Tropical Convergence Zone seldom occurs
+c) Coriolis force is too weak
+d) Absence of land in those regions
+#QuestionEnd
+#AnswerStart
+Answer: b) Inter-Tropical Convergence Zone seldom occurs
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following pairs of States of India indicates the easternmost and westernmost State? - 2015
+a) Assam and Rajasthan
+b) Arunachal Pradesh and Rajasthan
+c) Assam and Gujarat
+d) Arunachal Pradesh and Gujarat
+#QuestionEnd
+#AnswerStart
+Answer: d) Arunachal Pradesh and Gujarat
+#AnswerEnd
+#QuestionStart
+Q7) Consider the following statements regarding the Directive Principles of State Policy :
+(i) The Principles spell out the socio-economic democracy in the country.
+(ii) The provisions contained in these Principles are not enforceable by any court.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q8) In the ‘Index of Eight Core Industries’, which one of the following is given the highest weight? - 2015
+a) Coal production
+b) Electricity generation
+c) Fertilizer production
+d) Steel production
+#QuestionEnd
+#AnswerStart
+Answer: b) Electricity generation
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following National Parks is unique in being a swamp with floating vegetation that supports a rich biodiversity? - 2015
+a) Bhitarkanika National Park
+b) Keibul Lamjao National Park
+c) Keoladeo Ghana National Park
+d) Sultanpur National Park
+#QuestionEnd
+#AnswerStart
+Answer: b) Keibul Lamjao National Park
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following statements is/are correct regarding National Innovation Foundation-India (NIF)?
+(i) NIF is an autonomous body of the Department of Science and Technology under the Central Government.
+(ii) NIF is an initiative to strengthen the highly advanced scientific research in India’s premier scientific institutions in collaboration with highly advanced foreign scientific institutions.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q11) What can be the impact of excessive/inappropriate use of nitrogenous fertilizers in agriculture?
+(i) Proliferation of nitrogen-fixing microorganisms in soil can occur.
+(ii) Increase in the acidity of soil can take place.
+(iii) Leaching of nitrate to the groundwater can occur.
+Select the correct answer using the code given below. - 2015
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q12) With reference to the International Union for Conservation of Nature and Natural Resources (IUCN) and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), which of the following statements is/are correct?
+(i) IUCN is an organ of the United Nations and CITES is an international agreement between governments.
+(ii) IUCN runs thousands of field projects around the world to better manage natural environments.
+(iii) CITES is legally binding on the States that have joined it, but this Convention does not take the place of national laws.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q13) Which of the following phenomena might have influenced the evolution of organisms?
+(i) Continental drift
+(ii) Glacial cycles
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q14) Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?
+(i) Construction of dams and barrages on rivers
+(ii) Increase in the population of crocodiles in rivers
+(iii) Getting trapped in fishing nets accidentally
+(iv) Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers
+Select the correct answer using the code given below. - 2015
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q15) The Radcliffe Committee was appointed to - 2015
+a) solve the problem of minorities in India
+b) give effect to the Independence Bill
+c) delimit the boundaries between India and Pakistan
+d) enquire into the riots in East Bengal
+#QuestionEnd
+#AnswerStart
+Answer: c) delimit the boundaries between India and Pakistan
+#AnswerEnd
+#QuestionStart
+Q16) Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?
+(i) They are highly resistant to degradation in the environment.
+(ii) They are able to accumulate in humans and animals.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following :
+(i) Bats
+(ii) Bears
+(iii) Rodents
+The phenomenon of hibernation can be observed in which of the above kinds of animals? - 2015
+a) 1 and 2 only
+b) 2 only
+c) 1, 2 and 3
+d) Hibernation cannot be observed in any of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following is the largest Committee of the Parliament? - 2015
+a) The Committee on Public Accounts
+b) The Committee on Estimates
+c) The Committee on Public Undertakings
+d) The Committee on Petitions
+#QuestionEnd
+#AnswerStart
+Answer: b) The Committee on Estimates
+#AnswerEnd
+#QuestionStart
+Q19) Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?
+(i) Volcanic action
+(ii) Respiration
+(iii) Photosynthesis
+(iv) Decay of organic matter
+Select the correct answer using the code given below. - 2015
+a) 1 and 3 only
+b) 2 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q20) If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects disturbed by their movement through grasses. Which of the following is/are such bird/birds?
+(i) Painted Stork
+(ii) Common Myna
+(iii) Black-necked Crane
+Select the correct answer using the code given below. - 2015
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q21) In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for - 2015
+a) military officers
+b) village headmen
+c) specialists in Vedic rituals
+d) chiefs of craft guilds
+#QuestionEnd
+#AnswerStart
+Answer: b) village headmen
+#AnswerEnd
+#QuestionStart
+Q22) Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of - 2015
+a) algae and bacteria
+b) algae and fungi
+c) bacteria and fungi
+d) fungi and mosses
+#QuestionEnd
+#AnswerStart
+Answer: b) algae and fungi
+#AnswerEnd
+#QuestionStart
+Q23) If you travel through the Himalayas, you are likely to see which of the following plants naturally growing there?
+(i) Oak
+(ii) Rhododendron
+(iii) Sandalwood
+Select the correct answer using the code given below. - 2015
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q24) Which of the following are some important pollutants released by steel industry in India?
+(i) Oxides of sulphur
+(ii) Oxides of nitrogen
+(iii) Carbon monoxide
+(iv) Carbon dioxide
+Select the correct answer using the code given below. - 2015
+a) 1, 3 and 4 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following Kingdoms were associated with the life of the Buddha?
+(i) Avanti
+(ii) Gandhara
+(iii) Kosala
+(iv) Magadha
+Select the correct answer using the code given below. - 2015
+a) 1, 2 and 3
+b) 2 and 4
+c) 3 and 4 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q26) Every year, a monthlong ecologically important campaign/festival is held during which certain communities/tribes plant saplings of fruit-bearing trees. Which of the following are such communities/tribes? - 2015
+a) Bhutia and Lepcha
+b) Gond and Korku
+c) Irula and Toda
+d) Sahariya and Agariya
+#QuestionEnd
+#AnswerStart
+Answer: b) Gond and Korku
+#AnswerEnd
+#QuestionStart
+Q27) The sales tax you pay while purchasing a toothpaste is a - 2015
+a) tax imposed by the Central Government
+b) tax imposed by the Central Government but collected by the State Government
+c) tax imposed by the State Government but collected by the Central Government
+d) tax imposed and collected by the State Government
+#QuestionEnd
+#AnswerStart
+Answer: d) tax imposed and collected by the State Government
+#AnswerEnd
+#QuestionStart
+Q28) What does venture capital mean? - 2015
+a) A short-term capital provided to industries
+b) A long-term start-up capital provided to new entrepreneurs
+c) Funds provided to industries at times of incurring losses
+d) Funds provided for replacement and renovation of industries
+#QuestionEnd
+#AnswerStart
+Answer: b) A long-term start-up capital provided to new entrepreneurs
+#AnswerEnd
+#QuestionStart
+Q29) The main objective of the 12th Five-Year Plan is - 2015
+a) inclusive growth and poverty reduction
+b) inclusive and sustainable growth
+c) sustainable and inclusive growth to reduce unemployment
+d) faster, sustainable and more inclusive growth
+#QuestionEnd
+#AnswerStart
+Answer: d) faster, sustainable and more inclusive growth
+#AnswerEnd
+#QuestionStart
+Q30) With reference to Balance of Payments, which of the following constitutes/constitute the Current Account?
+(i) Balance of trade
+(ii) Foreign assets
+(iii) Balance of invisibles
+(iv) Special Drawing Rights
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q31) The terms ‘Marginal Standing Facility Rate’ and ‘Net Demand and Time Liabilities’, sometimes appearing in news, are used in relation to - 2015
+a) banking operations
+b) communication networking
+c) military strategies
+d) supply and demand of agricultural products
+#QuestionEnd
+#AnswerStart
+Answer: a) banking operations
+#AnswerEnd
+#QuestionStart
+Q32) What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?
+(i) It enables the beneficiaries to draw their subsidies and social security benefits in their villages.
+(ii) It enables the beneficiaries in the rural areas to make deposits and withdrawals.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q33) In the context of Indian economy, which of the following is/are the purpose/purposes of ‘Statutory Reserve Requirements’?
+(i) To enable the Central Bank to control the amount of advances the banks can create
+(ii) To make the people’s deposits with banks safe and liquid
+(iii) To prevent the commercial banks from making excessive profits
+(iv) To force the banks to have sufficient vault cash to meet their day-to-day requirements
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q34) Recently, a series of uprisings of people referred to as ‘Arab Spring’ originally started from - 2015
+a) Egypt
+b) Lebanon
+c) Syria
+d) Tunisia
+#QuestionEnd
+#AnswerStart
+Answer: d) Tunisia
+#AnswerEnd
+#QuestionStart
+Q35) Consider the following countries :
+(i) Denmark
+(ii) Japan
+(iii) Russian Federation
+(iv) United Kingdom
+(v) United States of America
+Which of the above are the members of the ‘Arctic Council? - 2015
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 4 and 5
+d) 1, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 and 5
+#AnswerEnd
+#QuestionStart
+Q36) Consider the following pairs :
+| Region often in news | Country |
+|---|---|
+| 1. Chechnya | Russian Federation |
+| 2. Darfur | Mali |
+| 3. Swat Valley | Iraq |
+Which of the above pairs is/are correctly matched? - 2015
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q37) With reference to Agni-IV Missile, which of the following statements is/are correct?
+(i) It is a surface-to-surface missile.
+(ii) It is fuelled by liquid propellant only.
+(iii) It can deliver one-tonne nuclear warheads about 7500 km away.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q38) With reference to two non-conventional energy sources called ‘coalbed methane’ and ‘shale gas’, consider the following statements :
+(i) Coalbed methane is the pure methane gas extracted from coal seams, while shale gas is a mixture of propane and butane only that can be extracted from fine-grained sedimentary rocks.
+(ii) In India, abundant coalbed methane sources exist, but so far no shale gas sources have been found.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q39) With reference to ‘Changpa’ community of India, consider the following statements :
+(i) They live mainly in the State of Uttarakhand.
+(ii) They rear the Pashmina goats that yield a fine wool.
+(iii) They are kept in the category of Scheduled Tribes.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q40) In India, cluster bean (Guar) is traditionally used as a vegetable or animal feed, but recently the cultivation of this has assumed significance. Which one of the following statements is correct in this context? - 2015
+a) The oil extracted from seeds is used in the manufacture of biodegradable plastics
+b) The gum made from its seeds is used in the extraction of shale gas
+c) The leaf extract of this plant has the properties of anti-histamines
+d) It is a source of high quality biodiesel
+#QuestionEnd
+#AnswerStart
+Answer: d) It is a source of high quality biodiesel
+#AnswerEnd
+#QuestionStart
+Q41) Which of the following have coral reefs?
+(i) Andaman and Nicobar Islands
+(ii) Gulf of Kachchh
+(iii) Gulf of Mannar
+(iv) Sunderbans
+Select the correct answer using the code given below. - 2015
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q42) In India, the problem of soil erosion is associated with which of the following?
+(i) Terrace cultivation
+(ii) Deforestation
+(iii) Tropical climate
+Select the correct answer using the code given below. - 2015
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q43) The seasonal reversal of winds is the typical characteristic of - 2015
+a) Equatorial climate
+b) Mediterranean climate
+c) Monsoon climate
+d) All of the above climates
+#QuestionEnd
+#AnswerStart
+Answer: c) Monsoon climate
+#AnswerEnd
+#QuestionStart
+Q44) With reference to the cultural history of India, the term ‘Panchayatan’ refers to - 2015
+a) an assembly of village elders
+b) a religious sect
+c) a style of temple construction
+d) an administrative functionary
+#QuestionEnd
+#AnswerStart
+Answer: c) a style of temple construction
+#AnswerEnd
+#QuestionStart
+Q45) Consider the following rivers :
+(i) Barak
+(ii) Lohit
+(iii) Subansiri
+Which of the above flows/flow through Arunachal Pradesh? - 2015
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q46) Consider the following pairs :
+| Wetlands | Confluence of rivers |
+|---|---|
+| 1. Harike Wetlands | Confluence of Beas and Satluj/Sutlej |
+| 2. Keoladeo Ghana National Park | Confluence of Banas and Chambal |
+| 3. Kolleru Lake | Confluence of Musi and Krishna |
+Which of the above pairs is/are correctly matched? - 2015
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q47) Which one of the following pairs does not form part of the six systems of Indian Philosophy? - 2015
+a) Mimamsa and Vedanta
+b) Nyaya and Vaisheshika
+c) Lokayata and Kapalika
+d) Sankhya and Yoga
+#QuestionEnd
+#AnswerStart
+Answer: c) Lokayata and Kapalika
+#AnswerEnd
+#QuestionStart
+Q48) Consider the following pairs :
+| Hills | Region |
+|---|---|
+| 1. Cardamom Hills | Coromandel Coast |
+| 2. Kaimur Hills | Konkan Coast |
+| 3. Mahadeo Hills | Central India |
+| 4. Mikir Hills | North-East India |
+Which of the above pairs are correctly matched? - 2015
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4
+#AnswerEnd
+#QuestionStart
+Q49) Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection? - 2015
+a) Second Schedule
+b) Fifth Schedule
+c) Eighth Schedule
+d) Tenth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d) Tenth Schedule
+#AnswerEnd
+#QuestionStart
+Q50) The most important strategy for the conservation of biodiversity together with traditional human life is the establishment of - 2015
+a) biosphere reserves
+b) botanical gardens
+c) national parks
+d) wildlife sanctuaries
+#QuestionEnd
+#AnswerStart
+Answer: a) biosphere reserves
+#AnswerEnd
+#QuestionStart
+Q51) Turkey is located between - 2015
+a) Black Sea and Caspian Sea
+b) Black Sea and Mediterranean Sea
+c) Gulf of Suez and Mediterranean Sea
+d) Gulf of Aqaba and Dead Sea
+#QuestionEnd
+#AnswerStart
+Answer: b) Black Sea and Mediterranean Sea
+#AnswerEnd
+#QuestionStart
+Q52) What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north?
+(i) Bangkok
+(ii) Hanoi
+(iii) Jakarta
+(iv) Singapore
+Select the correct answer using the code given below. - 2015
+a) 4-2-1-3
+b) 3-2-4-1
+c) 3-4-1-2
+d) 4-3-2-1
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-4-1-2
+#AnswerEnd
+#QuestionStart
+Q53) The scientific view is that the increase in global temperature should not exceed 2 °C above pre-industrial level. If the global temperature increases beyond 3 °C above the pre-industrial level, what can be its possible impact/impacts on the world?
+(i) Terrestrial biosphere tends toward a net carbon source.
+(ii) Widespread coral mortality will occur.
+(iii) All the global wetlands will permanently disappear.
+(iv) Cultivation of cereals will not be possible anywhere in the world.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 1 and 2 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q54) The national motto of India, ‘Satyameva Jayate’ inscribed below the Emblem of India is taken from - 2015
+a) Katha Upanishad
+b) Chandogya Upanishad
+c) Aitareya Upanishad
+d) Mundaka Upanishad
+#QuestionEnd
+#AnswerStart
+Answer: d) Mundaka Upanishad
+#AnswerEnd
+#QuestionStart
+Q55) In the Constitution of India, promotion of international peace and security is included in the - 2015
+a) Preamble to the Constitution
+b) Directive Principles of State Policy
+c) Fundamental Duties
+d) Ninth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+#QuestionStart
+Q56) What are the benefits of implementing the ‘Integrated Watershed Development Programme’?
+(i) Prevention of soil runoff
+(ii) Linking the country’s perennial rivers with seasonal rivers
+(iii) Rainwater harvesting and recharge of groundwater table
+(iv) Regeneration of natural vegetation
+Select the correct answer using the code given below. - 2015
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q57) ‘Goldilocks Zone’ is often seen in the news in the context of - 2015
+a) the limits of habitable zone above the surface of the Earth
+b) regions inside the Earth where shale gas is available
+c) search for the Earth-like planets in outer space
+d) search for meteorites containing precious metals
+#QuestionEnd
+#AnswerStart
+Answer: c) search for the Earth-like planets in outer space
+#AnswerEnd
+#QuestionStart
+Q58) Who of the following organized a march on the Tanjore coast to break the Salt Law in April 1930? - 2015
+a) V. O. Chidambaram Pillai
+b) C. Rajagopalachari
+c) K. Kamaraj
+d) Annie Besant
+#QuestionEnd
+#AnswerStart
+Answer: b) C. Rajagopalachari
+#AnswerEnd
+#QuestionStart
+Q59) Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong? - 2015
+a) Amoghavarsha I
+b) Ballala II
+c) Harihara I
+d) Prataparudra II
+#QuestionEnd
+#AnswerStart
+Answer: c) Harihara I
+#AnswerEnd
+#QuestionStart
+Q60) Consider the following statements :
+(i) The first woman President of the Indian National Congress was Sarojini Naidu.
+(ii) The first Muslim President of the Indian National Congress was Badruddin Tyabji.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q61) Which of the following statements regarding ‘Green Climate Fund’ is/are correct?
+(i) It is intended to assist the developing countries in adaptation and mitigation practices to counter climate change.
+(ii) It is founded under the aegis of UNEP, OECD, Asian Development Bank and World Bank.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q62) Indira Gandhi Prize for Peace, Disarmament and Development for 2014 was given to which one of the following? - 2015
+a) Bhabha Atomic Research Centre
+b) Indian Institute of Science
+c) Indian Space Research Organization
+d) Tata Institute of Fundamental Research
+#QuestionEnd
+#AnswerStart
+Answer: c) Indian Space Research Organization
+#AnswerEnd
+#QuestionStart
+Q63) With reference to the Cabinet Mission, which of the following statements is/are correct?
+(i) It recommended a federal government.
+(ii) It enlarged the powers of the Indian courts.
+(iii) It provided for more Indians in the ICS.
+Select the correct answer using the code given below. - 2015
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q64) Which one of the following National Parks has a climate that varies from tropical to subtropical, temperate and arctic? - 2015
+a) Khangchendzonga National Park
+b) Nandadevi National Park
+c) Neora Valley National Park
+d) Namdapha National Park
+#QuestionEnd
+#AnswerStart
+Answer: d) Namdapha National Park
+#AnswerEnd
+#QuestionStart
+Q65) Amnesty International is - 2015
+a) an agency of the United Nations to help refugees of civil wars
+b) a global Human Rights Movement
+c) a non-governmental voluntary organization to help very poor people
+d) an inter-governmental agency to cater to medical emergencies in war-ravaged regions
+#QuestionEnd
+#AnswerStart
+Answer: b) a global Human Rights Movement
+#AnswerEnd
+#QuestionStart
+Q66) With reference to the art and archaeological history of India, which one among the following was made earliest? - 2015
+a) Lingaraja Temple at Bhubaneswar
+b) Rock-cut Elephant at Dhauli
+c) Rock-cut Monuments at Mahabalipuram
+d) Varaha Image at Udayagiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Rock-cut Elephant at Dhauli
+#AnswerEnd
+#QuestionStart
+Q67) With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?
+(i) A very strong centralized political authority and a very weak provincial or local political authority
+(ii) Emergence of administrative structure based on control and possession of land
+(iii) Creation of lord-vassal relationship between the feudal lord and his overlord
+Select the correct answer using the code given below. - 2015
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q68) ‘BioCarbon Fund Initiative for Sustainable Forest Landscapes’ is managed by the - 2015
+a) Asian Development Bank
+b) International Monetary Fund
+c) United Nations Environment Programme
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: d) World Bank
+#AnswerEnd
+#QuestionStart
+Q69) India is a member of which among the following?
+(i) Asia-Pacific Economic Cooperation
+(ii) Association of South-East Asian Nations
+(iii) East Asia Summit
+Select the correct answer using the code given below. - 2015
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) India is a member of none of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q70) In India, the steel production industry requires the import of - 2015
+a) saltpetre
+b) rock phosphate
+c) coking coal
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) coking coal
+#AnswerEnd
+#QuestionStart
+Q71) The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to - 2015
+a) protect the interests of Scheduled Tribes
+b) determine the boundaries between States
+c) determine the powers, authority and responsibilities of Panchayats
+d) protect the interests of all the border States
+#QuestionEnd
+#AnswerStart
+Answer: a) protect the interests of Scheduled Tribes
+#AnswerEnd
+#QuestionStart
+Q72) With reference to the Union Government, consider the following statements :
+(i) The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.
+(ii) No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.
+(iii) All the disbursements made from Public Account also need the authorization from the Parliament of India.
+Which of the statements given above is/are correct? - 2015
+a) 1 and 2 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+#QuestionStart
+Q73) Who/Which of the following is the custodian of the Constitution of India? - 2015
+a) The President of India
+b) The Prime Minister of India
+c) The Lok Sabha Secretariat
+d) The Supreme Court of India
+#QuestionEnd
+#AnswerStart
+Answer: d) The Supreme Court of India
+#AnswerEnd
+#QuestionStart
+Q74) Consider the following statements :
+(i) The Legislative Council of a State in India can be larger in size than half of the Legislative Assembly of that particular State.
+(ii) The Governor of a State nominates the Chairman of Legislative Council of that particular State.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q75) “To uphold and protect the Sovereignty, Unity and Integrity of India” is a provision made in the - 2015
+a) Preamble of the Constitution
+b) Directive Principles of State Policy
+c) Fundamental Rights
+d) Fundamental Duties
+#QuestionEnd
+#AnswerStart
+Answer: d) Fundamental Duties
+#AnswerEnd
+#QuestionStart
+Q76) The fundamental object of Panchayati Raj system is to ensure which among the following?
+(i) People’s participation in development
+(ii) Political accountability
+(iii) Democratic decentralization
+(iv) Financial mobilization
+Select the correct answer using the code given below. - 2015
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q77) The ideal of ‘Welfare State’ in the Indian Constitution is enshrined in its - 2015
+a) Preamble
+b) Directive Principles of State Policy
+c) Fundamental Rights
+d) Seventh Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+#QuestionStart
+Q78) There is a Parliamentary System of Government in India because the - 2015
+a) Lok Sabha is elected directly by the people
+b) Parliament can amend the Constitution
+c) Rajya Sabha cannot be dissolved
+d) Council of Ministers is responsible to the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d) Council of Ministers is responsible to the Lok Sabha
+#AnswerEnd
+#QuestionStart
+Q79) The “Red Data Books” published by the International Union for Conservation of Nature and Natural Resources (IUCN) contain lists of
+(i) Endemic plant and animal species present in the biodiversity hotspots.
+(ii) Threatened plant and animal species.
+(iii) Protected sites for conservation of nature and natural resources in various countries.
+Select the correct answer using the codes given below : - 2015
+a) 1 and 3
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q80) Why is the offering of “teaser loans” by commercial banks a cause of economic concern?
+(i) The teaser loans are considered to be an aspect of sub-prime lending and banks may be exposed to the risk of defaulters in future.
+(ii) In India, the teaser loans are mostly given to inexperienced entrepreneurs to set up manufacturing or export units.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q81) An artificial satellite orbiting around the Earth does not fall down. This is so because the attraction of Earth - 2015
+a) does not exist at such distance
+b) is neutralized by the attraction of the moon
+c) provides the necessary speed for its steady motion
+d) provides the necessary acceleration for its motion
+#QuestionEnd
+#AnswerStart
+Answer: d) provides the necessary acceleration for its motion
+#AnswerEnd
+#QuestionStart
+Q82) In the context of Indian economy, consider the following statements :
+(i) The growth rate of GDP has steadily increased in the last five years.
+(ii) The growth rate in per capita income has steadily increased in the last five years.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q83) In India, which of the following have the highest share in the disbursement of credit to agriculture and allied activities? - 2015
+a) Commercial Banks
+b) Cooperative Banks
+c) Regional Rural Banks
+d) Microfinance Institutions
+#QuestionEnd
+#AnswerStart
+Answer: a) Commercial Banks
+#AnswerEnd
+#QuestionStart
+Q84) Which of the following can aid in furthering the Government’s objective of inclusive growth?
+(i) Promoting Self-Help Groups
+(ii) Promoting Micro, Small and Medium Enterprises
+(iii) Implementing the Right to Education Act
+Select the correct answer using the codes given below : - 2015
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q85) Why is the Government of India disinvesting its equity in the Central Public Sector Enterprises (CPSEs)?
+(i) The Government intends to use the revenue earned from the disinvestment mainly to pay back the external debt.
+(ii) The Government no longer intends to retain the management control of the CPSEs.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q86) What is the difference between asteroids and comets?
+(i) Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.
+(ii) Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.
+(iii) Comets show a perceptible glowing tail, while asteroids do not.
+Which of the statements given above is/are correct? - 2015
+a) 1 and 2 only
+b) 1 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q87) Economic growth is usually coupled with - 2015
+a) Deflation
+b) Inflation
+c) Stagflation
+d) Hyperinflation
+#QuestionEnd
+#AnswerStart
+Answer: b) Inflation
+#AnswerEnd
+#QuestionStart
+Q88) The lowering of Bank Rate by the Reserve Bank of India leads to - 2015
+a) More liquidity in the market
+b) Less liquidity in the market
+c) No change in the liquidity in the market
+d) Mobilization of more deposits by commercial banks
+#QuestionEnd
+#AnswerStart
+Answer: a) More liquidity in the market
+#AnswerEnd
+#QuestionStart
+Q89) Westerlies in southern hemisphere are stronger and persistent than in northern hemisphere. Why?
+(i) Southern hemisphere has less landmass as compared to northern hemisphere.
+(ii) Coriolis force is higher in southern hemisphere as compared to northern hemisphere
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q90) Between India and East Asia, the navigation-time and distance can be greatly reduced by which of the following?
+(i) Deepening the Malacca straits between Malaysia and Indonesia.
+(ii) Opening a new canal across the Kra isthmus between the Gulf of Siam and Andaman Sea.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q91) Regular intake of fresh fruits and vegetables is recommended in the diet since they are a good source of antioxidants. How do antioxidants help a person maintain health and promote longevity? - 2015
+a) They activate the enzymes necessary for vitamin synthesis in the body and help prevent vitamin deficiency
+b) They prevent excessive oxidation of carbohydrates, fats and proteins in the body and help avoid unnecessary wastage of energy
+c) They neutralize the free radicals produced in the body during metabolism
+d) They activate certain genes in the cells of the body and help delay the ageing process
+#QuestionEnd
+#AnswerStart
+Answer: c) They neutralize the free radicals produced in the body during metabolism
+#AnswerEnd
+#QuestionStart
+Q92) Regarding the Indus Valley Civilization, consider the following statements :
+(i) It was predominantly a secular civilization and the religious element, though present, did not dominate the scene.
+(ii) During this period, cotton was used for manufacturing textiles in India.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q93) The lower Gangetic plain is characterized by humid climate with high temperature throughout the year. Which one among the following pairs of crops is most suitable for this region? - 2015
+a) Paddy and cotton
+b) Wheat and Jute
+c) Paddy and Jute
+d) Wheat and cotton
+#QuestionEnd
+#AnswerStart
+Answer: c) Paddy and Jute
+#AnswerEnd
+#QuestionStart
+Q94) What could be the main reason/reasons for the formation of African and Eurasian desert belt?
+(i) It is located in the sub-tropical high pressure cells.
+(ii) It is under the influence of warm ocean currents.
+Which of the statements given above is/are correct in this context? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q95) The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation?
+(i) There are no clouds or water vapour in the lower stratosphere
+(ii) There are no vertical winds in the lower stratosphere.
+Which of the statements given above is/are correct in this context? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q96) Consider the following statements :
+(i) Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes.
+(ii) Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q97) The Brahmaputra, Irrawady and Mekong rivers originate in Tibet and flow through narrow and parallel mountain ranges in their upper reaches. Of these rivers, Brahmaputra makes a “U” turn in its course to flow into India. This “U” turn is due to - 2015
+a) Uplift of folded Himalayan series
+b) Syntaxial bending of geologically young Himalayas
+c) Geo-tectonic disturbance in the tertiary folded mountain chains
+d) Both (a) and (b) above
+#QuestionEnd
+#AnswerStart
+Answer: b) Syntaxial bending of geologically young Himalayas
+#AnswerEnd
+#QuestionStart
+Q98) A state in India has the following characteristics :
+(i) Its northern part is arid and semi-arid
+(ii) Its central part produces cotton.
+(iii) Cultivation of cash crops is predominant over food crops.
+Which one of the following states has all of the above characteristics? - 2015
+a) Andhra Pradesh
+b) Gujarat
+c) Karnataka
+d) Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b) Gujarat
+#AnswerEnd
+#QuestionStart
+Q99) What is “Virtual Private Network”? - 2015
+a) It is a private computer network of an organization where the remote users can transmit encrypted information through the server of the organization
+b) It is a computer network across a public internet that provides users access to their organization’s network while maintaining the security of the information transmitted
+c) It is a computer network in which users can access a shared pool of computing resources through a service provider
+d) None of the statements (a), (b) and (c) given above is a correct description of Virtual Private Network
+#QuestionEnd
+#AnswerStart
+Answer: b) It is a computer network across a public internet that provides users access to their organization’s network while maintaining the security of the information transmitted
+#AnswerEnd
+#QuestionStart
+Q100) The “dharma” and “rita” depict a central idea of ancient Vedic civilization of India. In this context, consider the following statements :
+(i) Dharma was a conception of obligations and of the discharge of one’s duties to oneself and to others.
+(ii) Rita was the fundamental moral law governing the functioning of the universe and all it contained.
+Which of the statements given above is/are correct? - 2015
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd

@@ -1,0 +1,472 @@
+#QuestionStart
+Q1) According to the Environmental Protection Agency (EPA), which one of the following is the largest source of sulphur dioxide emissions? (2024)
+a) Locomotives using fossil fuels
+b) Ships using fossil fuels
+c) Extraction of metals from ores
+d) Power plants using fossil fuels
+#QuestionEnd
+#AnswerStart
+Answer: d) Power plants using fossil fuels
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2024)
+Statement-I: Many chewing gums found in the market are considered a source of environmental pollution.
+Statement-II: Many chewing gums contain plastic as gum base.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+b) Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I
+c) Statement-I is correct, but Statement- II is incorrect
+d) Statement-I is incorrect, but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II explains Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to perfluoroalkyl and polyfluoroalkyl substances (PFAS) that are used in making many consumer products, consider the following statements: (2024)
+1. PFAS are found to be widespread in drinking water, food and food packaging materials.
+2. PFAS are not easily degraded in the environment.
+3. Persistent exposure to PFAS can lead to bioaccumulation in animal bodies.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements regarding mercury pollution: (2023)
+1. Gold mining activity is a source of mercury pollution in the world.
+2. Coal-based thermal power plants cause mercury pollution.
+3. There is no known safe level of exposure to mercury.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following : (2022)
+1. Carbon monoxide
+2. Nitrogen oxide
+3. Ozone
+4. Sulphur dioxide
+Excess of which of the above in the environment is/are cause(s) of acid rain ?
+a) 1, 2 and 3
+b) 2 and 4 only
+c) 4 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Among the following crops, which one is the most important anthropogenic source of both methane and nitrous oxide ? (2022)
+a) Cotton
+b) Rice
+c) Sugarcane
+d) Wheat
+#QuestionEnd
+#AnswerStart
+Answer: b) Rice
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements : (2022)
+1. Its fibres can be blended with wool and cotton fibres to reinforce their properties.
+2. Containers made of it can be used to store any alcoholic beverage.
+3. Bottles made of it can be recycled into other products.
+4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.
+Which of the statements given above are correct?
+a) 1 and 3
+b) 2 and 4
+c) 1 and 4
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) In the context of WHO Air Quality Guidelines, consider the following statements : (2022)
+1. The 24-hour mean of PM2.5 should not exceed 15 μg/m3 and annual mean of PM2.5 should not exceed 5μg/m3.
+2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather.
+3. PM10 can penetrate the lung barrier and enter the bloodstream.
+4. Excessive ozone in the air can trigger asthma.
+Which of the statements given above are correct?
+a) 1, 3 and 4
+b) 1 and 4 only
+c) 2, 3 and 4
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Magnetite particles, suspected to cause neurodegenerative problems, are generated as environmental pollutants from which of the following? (2021)
+1. Brakes of motor vehicles
+2. Engines of motor vehicles
+3. Microwave stoves within homes
+4. Power plants
+5. Telephone lines
+Select the correct answer using the code given below.
+a) 1, 2, 3 and 5 only
+b) 1, 2 and 4 only
+c) 3, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Why is there a concern about copper smelting plants? (2021)
+1. They may release lethal quantities of carbon monoxide into the environment.
+2. The copper slag can cause the leaching of some heavy metals into the environment.
+3. They may release sulphur dioxide as a pollutant.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to furnace oil, consider the following statements : (2021)
+1. It is a product of oil refineries.
+2. Some industries use it to generate power.
+3. Its use causes sulphur emissions into the environment.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements: (2020)
+1. Coal ash contains arsenic, lead and mercury.
+2. Coal-fired power plants release sulphur dioxide and oxides of nitrogen into the environment.
+3. High ash content is observed in Indian coal.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q13) Which of the following are the reasons/ factors for exposure to benzene pollution? (2020)
+1. Automobile exhaust
+2. Tobacco smoke
+3. Wood burning
+4. Using varnished wooden furniture
+5. Using products made of polyurethane
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only (⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q14) In India, the use of carbofuran, methyl parathion, phorate and triazophos is viewed with apprehension. These chemicals are used as (2019)
+a) pesticides in agriculture.
+b) preservatives in processed foods.
+c) fruit-ripening agents.
+d) moisturising agents in cosmetics.
+#QuestionEnd
+#AnswerStart
+Answer: a) pesticides in agriculture.
+#AnswerEnd
+
+#QuestionStart
+Q15) In the context of which one of the following are the terms ‘pyrolysis and plasma gasification’ mentioned? (2019)
+a) Extraction of rare earth elements
+b) Natural gas extraction technologies
+c) Hydrogen fuel-based automobiles
+d) Waste-to-energy technologies
+#QuestionEnd
+#AnswerStart
+Answer: d) Waste-to-energy technologies
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following: (2019)
+1. Carbon monoxide
+2. Methane
+3. Ozone
+4. Sulphur dioxide
+Which of the above are released into the atmosphere due to the burning of crop/ biomass residue?
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: (2019)
+1. Agricultural soils release nitrogen oxides into the environment.
+2. Cattle release ammonia into the environment.
+3. The poultry industry releases reactive nitrogen compounds into the environment.
+Which of the statements given above is/are correct?
+a) 1 and 3 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q18) Why is there a great concern about the ‘microbeads' that are released into the environment? (2019)
+a) They are considered harmful to marine ecosystems.
+b) They are considered to cause skin cancer in children.
+c) They are small enough to be absorbed by crop plants in irrigated fields.
+d) They are often found to be used as food adulterants.
+#QuestionEnd
+#AnswerStart
+Answer: a) They are considered harmful to marine ecosystems.
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds? (2018)
+1. Decreased salinity in the river
+2. Pollution of groundwater
+3. Lowering of the water - table
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q20) In the context of solving pollution problems, what is/are the advantage/advantages of the bioremediation technique? (2017)
+1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.
+2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.
+3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.
+Select the correct option using the given code below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Biological Oxygen Demand (BOD) is a standard criterion for (2017)
+a) Measuring oxygen levels in the blood
+b) Computing oxygen levels in forest ecosystems
+c) Pollution assay in aquatic ecosystems
+d) Assessing oxygen levels in high-altitude regions
+#QuestionEnd
+#AnswerStart
+Answer: c) Pollution assay in aquatic ecosystems
+#AnswerEnd
+
+#QuestionStart
+Q22) In the cities of our country, which among the following atmospheric gases are normally considered in calculating the value of the Air Quality Index? (2016)
+1. Carbon dioxide
+2. Carbon monoxide
+3. Nitrogen dioxide
+4. Sulphur dioxide
+5. Methane
+Select the correct answer using the code given below.
+a) 1, 2 and 3 only
+b) 2, 3 and 4 only
+c) 1, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q23) Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use? (2014)
+1. They are highly resistant to degradation in the environment.
+2. They are able to accumulate in humans and animals.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q24) There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why? (2014)
+1. They can accumulate in the environment and contaminate water and soil.
+2. They can enter the food chains.
+3. They can trigger the production of free radicals.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following are some important pollutants released by the steel industry in India? (2014)
+1. Oxides of sulphur
+2. Oxide of nitrogen
+3. Carbon monoxide
+4. Carbon dioxide
+Select the correct answer using the code given below:
+a) 1, 3 and 4 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q26) Which of the following can be found as pollutants in the drinking water in some parts of India? (2013)
+1. Arsenic
+2. Sorbitol
+3. Fluoride
+4. Formaldehyde
+5. Uranium
+Select the correct answer using the code given below:
+a) 1 and 3 only
+b) 2, 4 and 5 only
+c) 1, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q27) Photochemical smog is a resultant of the reaction among (2013)
+a) NO , O and peroxyacetyl nitrate in the presence of sunlight
+b) CO, O2 and peroxyacetyl nitrate in the presence of sunlight
+c) CO, CO and NO at low temperature
+d) high concentration of NO , O and CO in the evening
+#QuestionEnd
+#AnswerStart
+Answer: a) NO , O and peroxyacetyl nitrate in the presence of sunlight
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements: (2012)
+Chlorofluorocarbons, known as ozone depleting substances, are used
+1. In the production of plastic foams
+2. In the production of tubeless tyres
+3. In cleaning certain electronic components
+4. As pressurizing agents in aerosol cans
+Which of the statements given above is/are correct?
+a) 1, 2 and 3 only
+b) 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Lead, ingested or inhaled, is a health hazard. After the addition of lead to petrol has been banned, what still are the sources of lead poisoning? (2012)
+1. Smelting units
+2. Pens and pencils
+3. Paints
+4. Hair oils and cosmetics
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 1 and 3 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q30) There is a concern over the increase in harmful algal blooms in the seawater of India. What could be the causative factors for this phenomenon? (2011)
+1. Discharge of nutrients from the estuaries.
+2. Run-off from the land during the monsoon.
+3. Upwelling in the seas.
+Select the correct answer from the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q31) Consider the following: (2011)
+1. Carbon dioxide
+2. Oxides of nitrogen
+3. Oxides of Sulphur
+Which of the above is/are the emission/ emissions from coal combustion at thermal power plants?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2, and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, and 3
+#AnswerEnd
+
+#QuestionStart
+Q32) The formation of ozone holes in the Antarctic Region has been a cause of concern. What could be the reason for the formation of this hole? (2011)
+a) Presence of prominent tropospheric turbulence; and inflow of chlorofluorocarbons
+b) Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons
+c) Absence of polar front and stratospheric clouds; and inflow of methane and chlorofluorocarbons
+d) Increased temperature at polar region due to global warming
+#QuestionEnd
+#AnswerStart
+Answer: b) Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons
+#AnswerEnd
+
+#QuestionStart
+Q33) Recently, “oilzapper’’ was in the news. What is it? (2011)
+a) It is an eco-friendly technology for the remediation of oily sludge and oil spills.
+b) It is the latest technology developed for undersea oil exploration.
+c) It is a genetically engineered high biofuel-yielding maize variety.
+d) It is the latest technology to control the accidentally caused flames from oil wells.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is an eco-friendly technology for the remediation of oily sludge and oil spills.
+#AnswerEnd

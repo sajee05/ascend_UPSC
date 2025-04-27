@@ -1,0 +1,3164 @@
+#QuestionStart
+Q1) Consider the following statements in respect of probiotics:
+1. Probiotics are made of both bacteria and yeast.
+2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.
+3. Probiotics help in the digestion of milk sugars.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2022]
+a) 1 only
+b) 2 only
+c) 1 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following statements best describes the role of B cells and T cells in the human body? [UPSC CSE Pre 2022]
+a) They protect the body from environmental allergens.
+b) They alleviate the body’s pain and inflammation.
+c) They act as immunosuppressants in the body.
+d) They protect the body from the diseases caused by pathogens.
+#QuestionEnd
+#AnswerStart
+Answer: d) They protect the body from the diseases caused by pathogens.
+#AnswerEnd
+
+#QuestionStart
+Q3) Certain species of which one of the following
+organisms are well known as cultivators of fungi? [UPSC CSE Pre 2022]
+a) Ant
+b) Cockroach Q
+c) Crab
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Ant
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following have species that can establish symbiotic relationship with other organisms?
+1. Cnidarians
+2. Fungi
+3. Protozoa
+Select the correct answer using the code given below. [UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following:
+1. Bacteria
+2. Fungi
+3. Virus
+Which of the above can be cultured in artificial/synthetic medium?
+[UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q6) In nature, which of the following is/are most likely to be found surviving on a surface without soil?
+1. Fern
+2. Lichen
+3. Moss
+4. Mushroom
+Select the correct answer using the code given below. [UPSC CSE Pre 2021]
+a) 1 and 4 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following?
+1. Area of the hole in the lid
+2. Temperature of the flame
+3. Weight of the lid
+Select the correct answer using the code given below: [UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to furnace oil, consider the following statements:
+1. It is a product of oil refineries.
+2. Some industries use it to generate power.
+3. Its use causes sulphur emissions into the environment.
+Which of the statements given above are correct? [UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q9) Why is there a concern about copper smelting plants?
+1. They may release lethal quantities of carbon monoxide into the environment.
+2. The copper slag can cause the leaching of some heavy metals into environment.
+3. They may release sulphur dioxide as a pollutant.
+Select the correct answer using the code given below. [UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Bisphenol A (BPA), a cause of concern is a structural/key component in the manufacture of which of the following kinds of plastics? [UPSC CSE Pre 2021]
+a) Low-density polyethylene
+b) Polycarbonate
+c) Polyethylene terephthalate
+d) Polyvinyl chloride
+#QuestionEnd
+#AnswerStart
+Answer: b) Polycarbonate
+#AnswerEnd
+
+#QuestionStart
+Q11) Water can dissolve more substances than any other liquid because: [UPSC CSE Pre 2021]
+a) It is dipolar in nature
+b) It is a good conductor of heat
+c) It has high value of specific heat
+d) It is an oxide of hydrogen
+#QuestionEnd
+#AnswerStart
+Answer: a) It is dipolar in nature
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following is a reason why astronomical distances are measured in light-years? [UPSC CSE Pre 2021]
+a) Distances among stellar bodies do not change.
+b) Gravity of stellar bodies does not change,
+c) Light always travels in straight line.
+d) Speed of light is always same.
+#QuestionEnd
+#AnswerStart
+Answer: d) Speed of light is always same.
+#AnswerEnd
+
+#QuestionStart
+Q13) Which of the following statements are correct regarding the general difference between plant and animals cells?
+1. Plant cells have cellulose cell walls while animal cells do not.
+• 2. Plant cells do not have plasma membrane unlike animal cells which do.
+3. Mature plant cells have one large vacuole whilst animal cells have many small vacuoles.
+Select the correct answer using the code given below: [UPSC CSE Pre 2020]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) Steel slag can be the material for which of the following?
+1. Construction of base road
+2. Improvement of agricultural soil
+3. Production of cement
+Select the correct answer using the code given below: [UPSC CSE Pre 2020]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) Goldsmiths blow the outermost zone of a flame with a metallic blow-pipe for melting gold and silver. For which one of the following reasons do they use the outermost zone of the flame? [UPSC CSE Pre. 2020]
+a) It is the hottest part providing most heat,
+b) This luminous zone doesn’t produce any ash.
+c) It is least-hottest part protecting the design of jewelry.
+d) Middle zone vaporizes gold leading to loss of metal.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is the hottest part providing most heat,
+#AnswerEnd
+
+#QuestionStart
+Q16) The word ‘Denisovan’ is sometimes mentioned in media in reference to: [UPSC CSE Pre 2019]
+a) fossils of a kind of dinosaurs
+b) an early human species
+c) a cave system found in North-East India
+d) a geological period in the history of Indian subcontinent
+#QuestionEnd
+#AnswerStart
+Answer: b) an early human species
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following statements is not correct? [UPSC CSE Pre. 2019]
+a) Hepatitis B virus is transmitted much like HIV.
+b) Hepatitis B unlike Hepatitis C, does not have a vaccine.
+c) Globally, the number of people infected with Hepatitis B and C viruses arc several times more than those infected with HIV.
+d) Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years.
+#QuestionEnd
+#AnswerStart
+Answer: b) Hepatitis B unlike Hepatitis C, does not have a vaccine.
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to the recent developments in science, which one of the following statements is not correct? [UPSC CSE Pre. 2019]
+a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.
+b) Pieces of artificial functional DNA can be created in laboratories.
+c) A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory.
+d) Cells taken out from plasma and animals can be made to undergo cell division in laboratory petri dishes.
+#QuestionEnd
+#AnswerStart
+Answer: a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species.
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: [UPSC CSE Pre. 2018]
+1. Light is affected by gravity.
+2. The Universe is constantly expanding.
+3. Matter warps its surrounding space-time.
+Which of the above is/are the prediction/ predictions of Albert Einstein’s General Theory of Relativity, often discussed in media?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q20) What is the reason for Non-Metals to be a bad conductor of electricity? [UPSC CSE Pre. 2018]
+a) High melting point at normal temperature
+b) Excessive free protons around nucleus
+c) Absence of readily available free electrons
+d) Low resistance to external factors
+#QuestionEnd
+#AnswerStart
+Answer: c) Absence of readily available free electrons
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following pairs: [UPSC CSE Pre. 2017]
+Commonly used/consumed materials | Unwanted or controversial chemicals likely to produce found in them
+|---------------------------------|---|-----------------------------------------------------------------------|
+| 1. Lipstick | Lead |
+| 2. Soft Drinks | Brominated vegetable oils |
+| 3. Chinese fast food | Monosodium glutamate |
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q22) Which of the following statements is/are correct? Viruses can infect:
+1. bacteria
+2. fungi
+3. plants
+Select the correct answer using the code given below. [UPSC CSE Pre. 2016]
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following pairs:
+| (Vitamin) | (Deficiency disease) |
+|---|---|
+| 1. Vitamin C | Scurvy |
+| 2. Vitamin D | Rickets |
+| 3. Vitamin E | Night blindness |
+Which of the pairs given above is/are correctly matched? [UPSC CSE Pre 2014]
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following is/are the example/ examples of chemical change?
+1. Crystallization of sodium chloride
+2. Melting of ice
+3. Souring of milk
+Select the correct answer using the code given below. [UPSC CSE Pre 2014]
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q25) Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of: [UPSC CSE Pre 2014]
+a) Algae and bacteria
+b) Algae and fungi
+c) Bacteria and fungi
+d) Fungi and mosses
+#QuestionEnd
+#AnswerStart
+Answer: b) Algae and fungi
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following is the process involved in photosynthesis? [UPSC CSE Pre 2014]
+a) Potential energy is released to form free energy
+b) Free energy is converted into potential energy and stored
+c) Food is oxidized to release carbon dioxide and water
+d) Oxygen is taken, and carbon dioxide and water vapour are given out
+#QuestionEnd
+#AnswerStart
+Answer: b) Free energy is converted into potential energy and stored
+#AnswerEnd
+
+#QuestionStart
+Q27) Among the following organisms, which one does not belong to the class of other three? [UPSC CSE Pre. 2014]
+a) Crab
+b) Mite
+c) Scorpion
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Crab
+#AnswerEnd
+
+#QuestionStart
+Q28) Which of the following statements is/are correct regarding vegetative propagation of plants?
+1. Vegetative propagation produces clonal population.
+2. Vegetative propagation helps in eliminating the virus.
+3. Vegetative propagation can be practiced most of the year.
+Select the correct answer using the code given below. [UPSC CSE Pre 2014]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q29) Fruits stored in a cold chamber exhibit longer storage life because [UPSC CSE Pre. 2013]
+a) exposure to sunlight is prevented
+b) concentration of carbon dioxide in the environment is increased
+c) rate of respiration is decreased
+d) there is an increase in humidity
+#QuestionEnd
+#AnswerStart
+Answer: c) rate of respiration is decreased
+#AnswerEnd
+
+#QuestionStart
+Q30) Many transplanted seedlings do not grow because [UPSC CSE Pre. 2013]
+a) the new soil does not contain favorable minerals
+b) most of the root hair grip the new soil too hard
+c) most of the root hairs are lost during transplantation
+d) leaves get damaged during transplantation
+#QuestionEnd
+#AnswerStart
+Answer: c) most of the root hairs are lost during transplantation
+#AnswerEnd
+
+#QuestionStart
+Q31) Which of the following statements is/are correct? [UPSC CSE Pre. 2013]
+1. Viruses lack enzymes necessary for the generation of energy.
+2. Viruses can be cultured in any synthetic medium.
+3. Viruses are transmitted from one organism to another by biological vectors only.
+Select the correct answer using the codes given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q32) Ball bearings are used in bicycles, cars, etc., because [UPSC CSE Pre. 2013]
+a) the actual area of contact between the wheel and axle is increased
+b) the effective area of contact between the wheel and axle is increased
+c) the effective area of contact between the wheel and axle is reduced
+d) None of the above statements is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) the effective area of contact between the wheel and axle is reduced
+#AnswerEnd
+
+#QuestionStart
+Q33) The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct? [UPSC CSE Pre. 2013]
+a) Gravity is the strongest of the four
+b) Electromagnetism acts only on particles with an electric charge
+c) Weak nuclear force causes radioactivity
+d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom
+#QuestionEnd
+#AnswerStart
+Answer: a) Gravity is the strongest of the four
+#AnswerEnd
+
+#QuestionStart
+Q34) Rainbow is produced when sunlight falls on drops of rain.
+Which of the following physical phenomena are responsible for this?
+1. Dispersion
+2. Refraction
+3. Internal reflection
+Select the correct answer using the codes below: [UPSC CSE Pre. 2013]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following phenomena:
+1. Size of the sun at dusk.
+2. Color of the sun at dawn
+3. Moon being visible at dawn
+4. Twinkle of stars in the sky
+5. Polestar being visible in the sky
+Which of the above are optical illusions? [UPSC CSE Pre. 2013]
+a) 1, 2 and 3
+b) 3, 4 and 5
+c) 1, 2 and 4
+d) 2, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q36) Consider the following minerals:
+1. Calcium
+2. Iron
+3. Sodium
+Which of the minerals given above is/ are required by the human body for the contraction of muscles? [UPSC CSE Pre 2013]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1> 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1> 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following animals:
+1. Sea cow
+2. Seahorse
+3. Sea lion
+Which of the above is/are mammal/ mammals? [UPSC CSE Pre 2013]
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q38) The efforts to detect the existence of Higgs boson particle have become frequent news in the recent past. What is/are the importance of discovering this particle?
+1. It will help us to understand as to why elementary particles have mass.
+2. It will enable us in the near future to develop the technology to transfer matter from one point to another without traversing the physical space between them.
+3. It will enable us to create better fuel for nuclear fission.
+Select the correct answer using the codes given below: [UPSC CSE Pre 2013]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q39) Consider the following kinds organisms:
+1. Bat
+2. Bee
+3. Bird
+Which of the above is/are pollinating agent/ agents? [UPSC CSE Pre 2012]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q40) Which one of the following sets of elements was primarily responsible for the origin of life on the Earth? [UPSC CSE Pre 2012]
+a) Hydrogen, Oxygen, Sodium
+b) Carbon, Hydrogen, Nitrogen
+c) Oxygen, Calcium, Phosphorus
+d) Carbon, Hydrogen, Potassium
+#QuestionEnd
+#AnswerStart
+Answer: b) Carbon, Hydrogen, Nitrogen
+#AnswerEnd
+
+#QuestionStart
+Q41) To meet its rapidly growing energy demand some opine that India should pursue research and development on thorium as the future fuel of nuclear energy. In this context, what advantage does thorium hold over uranium?
+1. Thorium is far more abundant in nature than uranium.
+2. On the basis of per unit mass of mined mineral, thorium can generate more energy compared to natural uranium.
+3. Thorium produces less harmful waste compared to uranium.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2012, Also CSE 2011]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2, and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, and 3
+#AnswerEnd
+
+#QuestionStart
+Q42) Electrically charged particles from space travelling at speeds of several hundred km/sec can severely harm living beings if they reach the surface of the Earth. What prevents them from reaching the surface of the Earth? [UPSC CSE Pre. 2012]
+a) The Earth’s magnetic field diverts them towards its poles
+b) Ozone layer around the Earth reflects them back to outer space
+c) Moisture in the upper layers of atmosphere prevents them from reaching the surface of the Earth
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) The Earth’s magnetic field diverts them towards its poles
+#AnswerEnd
+
+#QuestionStart
+Q43) The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason? [UPSC CSE Pre. 2011]
+a) Ice is a bad conductor of heat
+b) Since the surface of the lake is at the same temperature as the air, no heat is lost.
+c) The density of water is maximum at 4°C.
+d) None of the statements (a), (b) and (c) given is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) The density of water is maximum at 4°C.
+#AnswerEnd
+
+#QuestionStart
+Q44) A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and O negative. The blood group of the three sons is A positive, B positive, and O positive. The blood group of the adopted son is? [UPSC CSE Pre. 2011]
+a) O positive
+b) A positive
+c) B positive
+d) Cannot be determined on the basis of the given data
+#QuestionEnd
+#AnswerStart
+Answer: a) O positive
+#AnswerEnd
+
+#QuestionStart
+Q45) The function of heavy water in a nuclear reactor is to [UPSC CSE Pre. 2011]
+a) Slow down the speed of neutrons
+b) Increase the speed of neutrons
+c) Cool down the reactor
+d) Stop the nuclear reaction
+#QuestionEnd
+#AnswerStart
+Answer: a) Slow down the speed of neutrons
+#AnswerEnd
+
+#QuestionStart
+Q46) A company marketing food products advertises that its items do not contain trans fats. What does this campaign signify to the customers?
+1. The food products are not made out of hydrogenated oils.
+2. The food products are not made out of animal fats/oil.
+3. The oils used are not likely to damage the cardiovascular health of the consumers.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2011]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q47) When the bark of a tree is removed in a circular fashion all around near its base, it gradually dries up or dies because- [UPSC CSE Pre 2011]
+a) Water from soil cannot rise to aerial parts
+b) Roots are starved of energy
+c) Tree is infected by the soil microbes
+d) Roots do not receive oxygen for respiration
+#QuestionEnd
+#AnswerStart
+Answer: b) Roots are starved of energy
+#AnswerEnd
+
+#QuestionStart
+Q48) Regular intake of fresh fruits and vegetables is recommended in the diet since they are a good source of antioxidants. How do antioxidants help a person maintain health and promote longevity? [UPSC CSE Pre 2011]
+a) They activate the enzymes necessary for vitamin synthesis in the body and help prevent vitamin deficiency.
+b) They prevent excessive oxidation of carbohydrates, fats, and proteins in the body and help avoid unnecessary wastage of energy.
+c) They neutralize the free radicals produced in the body during metabolism.
+d) They activate certain genes in the cells of the body and help delay the aging process.
+#QuestionEnd
+#AnswerStart
+Answer: c) They neutralize the free radicals produced in the body during metabolism.
+#AnswerEnd
+
+#QuestionStart
+Q49) Aspartame is an artificial sweetener sold in the market. It consists of amino acids and provides calories like other amino acids. Yet, it is used as a low-calorie sweetening agent in food items. What is the basis of this use? [UPSC CSE Pre 2011]
+a) Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in the human body due to lack of requisite enzymes.
+b) When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation.
+c) Aspartame is as sweet as sugar but after ingestion into the body, it is converted into metabolites that yield no calories.
+d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation.
+#QuestionEnd
+#AnswerStart
+Answer: d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation.
+#AnswerEnd
+
+#QuestionStart
+Q50) What is the difference between a CFL and an LED Lamp?
+1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material.
+2. The average life span of a CFL is much longer than of an LED lamp.
+3. A CFL is less energy efficient as compared to an LED lamp.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2011]
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q51) A layer in the Earth’s atmosphere called Ionosphere facilitates radio communication. Why?
+1. The presence of ozone causes the ■' reflection of radio waves to Earth.
+2. Radio waves have a very long wavelength. Which of the statements given above is/are correct? [UPSC CSE Pre 2011]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q52) King Cobra is the only snake that makes its own nest. Why does it make its nest? [UPSC CSE Pre 2010]
+a) It is a snake-eater, and the nest helps attract other snakes
+b) It is a viviparous snake and needs a nest to give birth to its offspring
+c) It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched
+d) It is a large, cold-blooded animal and needs a nest to hibernate in the cold season
+#QuestionEnd
+#AnswerStart
+Answer: c) It is an oviparous snake and lays its eggs in the nest and guards the nest until they are hatched
+#AnswerEnd
+
+#QuestionStart
+Q53) Consider the following statements:
+1. Sweet orange plants are propagated by grafting techniques.
+2. Jasmine plants are propagated by layering techniques.
+Which of the statement(s) given above is/are correct? [UPSC CSE Pre 2009]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q54) The Panda belongs to the same family as that of: [UPSC CSE Pre 2009]
+a) Bear
+b) Cat
+c) Dog
+d) Rabbit
+#QuestionEnd
+#AnswerStart
+Answer: a) Bear
+#AnswerEnd
+
+#QuestionStart
+Q55) With reference to the evolution of living organisms, which one of the following sequences is correct? [UPSC CSE Pre 2009]
+a) Octopus-Dolphin-Shark
+b) Pangolin-Tortoise-Hawk
+c) Salamander-Python-Kangaroo
+d) Frog-Crab-Prawn
+#QuestionEnd
+#AnswerStart
+Answer: c) Salamander-Python-Kangaroo
+#AnswerEnd
+
+#QuestionStart
+Q56) In dry cells, which of the following are used as electrolytes? [UPSC CSE Pre 2009]
+a) Ammonium Chloride and Zinc Chloride
+b) Sodium Chloride and Calcium Chloride
+c) Magnesium Chloride and Zinc Chloride
+d) Ammonium Chloride and Calcium Chloride
+#QuestionEnd
+#AnswerStart
+Answer: a) Ammonium Chloride and Zinc Chloride
+#AnswerEnd
+
+#QuestionStart
+Q57) Which one among the following has the highest energy? [UPSC CSE Pre 2009]
+a) Blue light
+b) Green light
+c) Red light
+d) Yellow light
+#QuestionEnd
+#AnswerStart
+Answer: a) Blue light
+#AnswerEnd
+
+#QuestionStart
+Q58) In the context of alternative sources of energy, ethanol as a viable biofuel can be obtained from: [UPSC CSE Pre 2009]
+a) Potato
+b) Rice
+c) Sugarcane
+d) Wheat
+#QuestionEnd
+#AnswerStart
+Answer: c) Sugarcane
+#AnswerEnd
+
+#QuestionStart
+Q59) Consider the following:
+1. Camphor
+2. Chicory
+3. Vanilla
+Which of the above is/are plant product(s)? [UPSC CSE Pre 2009]
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q60) In making the saffron spice, which one of the following parts of the plant is used? [UPSC CSE Pre 2009]
+a) Leaf
+b) Petal
+c) Sepal
+d) Stigma
+#QuestionEnd
+#AnswerStart
+Answer: d) Stigma
+#AnswerEnd
+
+#QuestionStart
+Q61) A person is sitting in a car which is at rest. The reaction from the road at each of the four wheels of the car is R. When the car runs on a straight level road, how will the reaction at either of the front wheels vary? [UPSC CSE Pre 2008]
+a) It will be greater than R
+b) It will be less than R
+c) It will be equal to R
+d) It shall depend on the material of the road
+#QuestionEnd
+#AnswerStart
+Answer: b) It will be less than R
+#AnswerEnd
+
+#QuestionStart
+Q62) Consider the following statements about probiotic food:
+1. Probiotic food contains live bacteria which are considered beneficial to humans.
+2. Probiotic food helps in maintaining gut flora.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2008]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q63) Consider the following statements:
+Assertion (A): In the human body, the liver has an important role in fat digestion.
+Reason (R): Liver produces two important fat digesting enzymes.
+Code: [UPSC CSE Pre 2008]
+a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following is an insectivorous plant? [UPSC CSE Pre 2008]
+a) Passionflower plant
+b) Pitcher plant
+c) Night queen
+d) Flame of the forest
+#QuestionEnd
+#AnswerStart
+Answer: b) Pitcher plant
+#AnswerEnd
+
+#QuestionStart
+Q65) For which one of the following snakes is the diet mainly composed of other snakes? [UPSC CSE Pre 2008]
+a) Krait
+b) Russell’s viper
+c) Rattlesnake
+d) King Cobra
+#QuestionEnd
+#AnswerStart
+Answer: d) King Cobra
+#AnswerEnd
+
+#QuestionStart
+Q66) In which one of the following kinds of organisms is the phenomenon found wherein the female kills the male after copulation? [UPSC CSE Pre 2008]
+a) Dragonfly
+b) Honeybee
+c) Spider
+d) Pit Viper
+#QuestionEnd
+#AnswerStart
+Answer: c) Spider
+#AnswerEnd
+
+#QuestionStart
+Q67) Among the following, which one is not an ape [UPSC CSE Pre 2008]
+a) Gibbon
+b) Gorilla
+c) Langur
+d) Orangutan
+#QuestionEnd
+#AnswerStart
+Answer: c) Langur
+#AnswerEnd
+
+#QuestionStart
+Q68) Which among the following one lays eggs and does not produce young ones directly? [UPSC CSE Pre 2008]
+a) Echidna
+b) Kangaroo
+c) Porcupine
+d) Whale
+#QuestionEnd
+#AnswerStart
+Answer: a) Echidna
+#AnswerEnd
+
+#QuestionStart
+Q69) A mixture of which one of the following pairs of gases is the cause of occurrence of most of the explosions in mines? [UPSC CSE Pre 2008]
+a) Hydrogen and Oxygen
+b) Oxygen and Acetylene
+c) Methane and Air
+d) Carbon dioxide and Methane
+#QuestionEnd
+#AnswerStart
+Answer: c) Methane and Air
+#AnswerEnd
+
+#QuestionStart
+Q70) Which one of the following is also called ‘Stranger Gas’? [UPSC CSE Pre 2008]
+a) Argon
+b) Neon
+c) Xenon
+d) Nitrous Oxide
+#QuestionEnd
+#AnswerStart
+Answer: c) Xenon
+#AnswerEnd
+
+#QuestionStart
+Q71) What are Rubies and Sapphires chemically known as? [UPSC CSE Pre 2008]
+a) Silicon Dioxide
+b) Aluminium Oxide
+c) Lead Tetroxide
+d) Boron Nitride
+#QuestionEnd
+#AnswerStart
+Answer: b) Aluminium Oxide
+#AnswerEnd
+
+#QuestionStart
+Q72) Which one of the following pairs of metals constitutes the lightest metal and the heaviest metal, respectively? [UPSC CSE Pre 2008]
+a) Lithium and Mercury
+b) Lithium and Osmium
+c) Aluminium and Osmium
+d) Aluminium and Mercury
+#QuestionEnd
+#AnswerStart
+Answer: b) Lithium and Osmium
+#AnswerEnd
+
+#QuestionStart
+Q73) Consider the following statements:
+Assertion (A): Radio waves bend in a magnetic field.
+Reason (R): Radio waves are electromagnetic in nature.
+Code: [UPSC CSE Pre 2008]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q74) Consider the following statements:
+Assertion (A): In the visible spectrum of light, red light is more energetic than green light.
+Reason (R): The wavelength of red light is more than that of green light.
+Code: [UPSC CSE Pre 2008]
+a) Both A and R are individually true, and R is the correct explanation of A.
+b) Both A and R are individually true, but R is not a correct explanation of A
+c) A is true, but R is false
+d) A is false, but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d) A is false, but R is true
+#AnswerEnd
+
+#QuestionStart
+Q75) Four wires of same material and dimensions as mentioned below are stretched by a load of same magnitude separately. Which one of them will be elongated maximum? [UPSC CSE Pre 2007]
+a) Wire of 1 m length and 2 mm diameter
+b) Wire of 2 m length and 2 mm diameter
+c) Wire of 3 m length and 1.5 mm diameter
+d) Wire of 1 m length and 1 mm diameter
+#QuestionEnd
+#AnswerStart
+Answer: c) Wire of 3 m length and 1.5 mm diameter
+#AnswerEnd
+
+#QuestionStart
+Q76) Which one of the following parts of the human brain is the regulating centre for swallowing and vomiting? [UPSC CSE Pre 2007]
+a) Cerebellum
+b) Cerebrum
+c) Medulla oblongata
+d) Pons
+#QuestionEnd
+#AnswerStart
+Answer: c) Medulla oblongata
+#AnswerEnd
+
+#QuestionStart
+Q77) Which one of the following is the correct sequence in the order decreasing the length of the three structural parts given below, of the small intestine in the human body? [UPSC CSE Pre 2007]
+a) Jejunum - Duodenum - Ileum
+b) Ileum - Duodenum - Jejunum
+c) Jejunum - Ileum - Duodenum
+d) Ileum - Jejunum - Duodenum
+#QuestionEnd
+#AnswerStart
+Answer: d) Ileum - Jejunum - Duodenum
+#AnswerEnd
+
+#QuestionStart
+Q78) Which one of the following is not a digestive enzyme in the human system? [UPSC CSE Pre 2007]
+a) Trypsin
+b) Gastrin
+c) Ptyalin
+d) Pepsin
+#QuestionEnd
+#AnswerStart
+Answer: b) Gastrin
+#AnswerEnd
+
+#QuestionStart
+Q79) Which one of the following parts of the pitcher plants becomes modified into a pitcher? [UPSC CSE Pre 2007]
+a) Stem
+b) Leaf
+c) Stipule
+d) Petiole
+#QuestionEnd
+#AnswerStart
+Answer: b) Leaf
+#AnswerEnd
+
+#QuestionStart
+Q80) How do most insects respire? [UPSC CSE Pre 2007]
+a) Through skin
+b) Through gills
+c) By lungs
+d) By tracheal system
+#QuestionEnd
+#AnswerStart
+Answer: d) By tracheal system
+#AnswerEnd
+
+#QuestionStart
+Q81) Consider the following statements:
+1. A flute of smaller length produces waves of lower frequency.
+2. Sound travels in rocks in the form of longitudinal elastic waves only.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2007]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q82) Consider the following statements:
+Assertion (A): A jet aircraft moving at mach number equal to 1 travels faster at an altitude of 15 km than while moving at mach number equal to 1 near the sea level.
+Reason (R): The velocity of sound depends on the temperature of the surrounding medium.
+Codes: [UPSC CSE Pre 2007]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q83) Consider the following statements:
+1. If magenta and yellow coloured circles intersect, the intersected area will have a red colour.
+2. If cyan and magenta coloured circles intersect, the intersected area will have a blue colour.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2007]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q84) In the human body, which one of the following hormones regulates blood calcium and phosphate? [UPSC CSE Pre 2007]
+a) Glucagon
+b) Growth hormone
+c) Parathyroid hormone
+d) Thyroxine
+#QuestionEnd
+#AnswerStart
+Answer: c) Parathyroid hormone
+#AnswerEnd
+
+#QuestionStart
+Q85) In human beings, normally in which one of the following parts, does the sperm fertilize the ovum? [UPSC CSE Pre 2007]
+a) Cervix
+b) Fallopian tube
+c) Lower part of uterus
+d) Upper part of uterus
+#QuestionEnd
+#AnswerStart
+Answer: b) Fallopian tube
+#AnswerEnd
+
+#QuestionStart
+Q86) Consider the following statements:
+1. During the process of osmosis, the solvent travels from the concentrated solution to the dilute solution.
+2. In the reverse osmosis, external pressure is applied to the dilute solution.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2005]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q87) Consider the following statements:
+Assertion (A): Amoeba reproduces by fission.
+Reason (R): All unicellular organisms reproduce by asexual methods.
+Code: [UPSC CSE Pre 2005]
+a) (A) and (R) both correct, and (R) is the correct explanation of (A).
+b) (A) and (R) both correct, but (R) is not the correct explanation of (A).
+c) (A) is correct, but (R) is wrong.
+d) (A) is wrong, but (R) is correct.
+#QuestionEnd
+#AnswerStart
+Answer: a) (A) and (R) both correct, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q88) Consider the following statements:
+Assertion (A): All the proteins in our food are digested in small intestine only.
+Reason (R): The protein-digesting enzyme from the pancreas is released into the small intestine.
+Code: [UPSC CSE Pre 2005]
+a) Both (A) and (R) are individually true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q89) Consider the following statements:
+1. Liquefied Natural Gas (LNG) is liquefied under extremely cold temperatures and high pressure to facilitate storage or transportation in specially designed vessels.
+2. First LNG terminal in India was built in Hassan.
+3. Natural Gas Matters (NGM) are separated from LPG, and these include ethane, propane, butane and natural gasoline.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2005]
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q90) Consider the following statements:
+Assertion (A): The main component of liquefied petroleum gas is methane.
+Reason (R): Methane can be used directly for burning in homes and factories where it can be supplied through pipelines.
+Code: [UPSC CSE Pre 2005]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q91) Consider the following statements:
+1. Anhydrous Sodium carbonate is commonly known as baking sodium (baking soda).
+2. Baking soda is used as a fire extinguisher.
+3. Bleaching powders are produced in Hasnclaver plant.
+Which of these statements is/are right? [UPSC CSE Pre 2005]
+a) 1,2 and 3
+b) 2 and 3 only
+c) 3 only
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q92) Which one of the following statements is not correct? [UPSC CSE Pre 2003]
+a) Milk contains none of the B vitamins.
+b) Vitamin A (retinol) deficiency leads to dry and scaly skin.
+c) One of the symptoms of scurvy is pain in the joints.
+d) Vitamin Bl (thiamine) deficiency can lead to heart failure.
+#QuestionEnd
+#AnswerStart
+Answer: a) Milk contains none of the B vitamins.
+#AnswerEnd
+
+#QuestionStart
+Q93) Consider the following statements:
+Assertion (A): Unsaturated fats are more reactive compared with the saturated fats.
+Reason (R): Unsaturated fats have only single bonds in their structure.
+Code: [UPSC CSE Pre 2003]
+a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q94) Consider the following statements:
+Assertion (A): In the periodic table of chemical elements, electron affinity is always found to increase from top to bottom in a group.
+Reason (R): In a group, the atomic radii generally increase from top to bottom.
+Code: [UPSC CSE Pre 2003]
+a) Both (A) and (R) are individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are individually true, but R is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q95) Which one of the following statements is not correct? [UPSC CSE Pre 2003]
+a) The presence of NaCl increases the rate of setting of Plaster of Paris
+b) Gypsum is added to the cement to slow down its rate of setting
+c) All alkaline earth metals form hydrated salts
+d) Barium and Strontium are found free in nature
+#QuestionEnd
+#AnswerStart
+Answer: d) Barium and Strontium are found free in nature
+#AnswerEnd
+
+#QuestionStart
+Q96) Consider the following statements:
+Sodium silicate and sodium sulphate are mixed as detergents in washing powders so that-
+1. To maintain the dryness of the powder.
+2. To maintain the basicity of powder.
+Which of the following statements is correct? [UPSC CSE Pre 2003]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q97) With reference to ionic compounds, consider the following statements:
+1. Ionic compounds are insoluble in alcohol.
+2. Ionic compounds in the solid state are a good conductor of electricity.
+Which of these statements is/are correct? [UPSC CSE Pre 2003]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q98) Which one of the following statements is correct? [UPSC CSE Pre 2003] (⭐ please re-check)
+a) Liquid sodium is employed as a coolant in nuclear reactors
+b) Calcium carbonate is an ingredient of toothpaste
+c) Bordeaux mixture consists of sodium sulphate and lime
+d) Zinc amalgams are used as a dental filling
+#QuestionEnd
+#AnswerStart
+Answer: b) Calcium carbonate is an ingredient of toothpaste
+#AnswerEnd
+
+#QuestionStart
+Q99) A hydrogen-inflated polythene balloon is released from the surface of the earth. As the balloon rises to an altitude up in the atmosphere, it will [UPSC CSE Pre 2003]
+a) Decrease in size
+b) Flatten into disc-like shape
+c) Increase in size
+d) Maintain the same size and shape
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase in size
+#AnswerEnd
+
+#QuestionStart
+Q100) Which one of the following statements is not correct? [UPSC CSE Pre 2003]
+a) The velocity of sound in air increases with the increase of temperature
+b) The velocity of sound in air is independent of pressure
+c) The velocity of sound in air decreases as the humidity increases
+d) The velocity of sound in air is not affected by the change in amplitude and frequency
+#QuestionEnd
+#AnswerStart
+Answer: c) The velocity of sound in air decreases as the humidity increases
+#AnswerEnd
+
+#QuestionStart
+Q101) Consider the following statements:
+1. Steam at 1000C and boiling water at 1000C contain same amount of heat.
+2. Latent heat of fusion of ice is equal to the latent heat of vaporization of water.
+3. In an air-conditioner, heat is extracted from the room air at the evaporator coils and is ejected out at the condenser coils.
+Which of these statements is/are correct? [UPSC CSE Pre 2003]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 2 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q102) Diffusion of light in the atmosphere takes place due to: [UPSC CSE Pre 2003]
+a) Carbon dioxide
+b) Dust particles
+c) Helium
+d) Water vapours
+#QuestionEnd
+#AnswerStart
+Answer: b) Dust particles
+#AnswerEnd
+
+#QuestionStart
+Q103) Octopus is: [UPSC CSE Pre 2003]
+a) An arthropod
+b) An echinoderm
+c) A hemichordate
+d) A mollusc
+#QuestionEnd
+#AnswerStart
+Answer: d) A mollusc
+#AnswerEnd
+
+#QuestionStart
+Q104) With reference to normal human beings, consider the following statements:
+1. In response to the presence of HCI, secretin is produced from the duodenum.
+2. Enterogastrone is produced in the small intestine in response to the presence of fatty acids.
+Which of these statements is/are correct? [UPSC CSE Pre 2003]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q105) If the radius of the earth were to shrink by one percent, its mass remaining the same, the value of ‘g’ on the earth’s surface would: [UPSC CSE Pre 2003]
+a) Increase by 0.5%
+b) Increase by 2%
+c) Decrease by 0.5%
+d) Decrease by 2%
+#QuestionEnd
+#AnswerStart
+Answer: b) Increase by 2%
+#AnswerEnd
+
+#QuestionStart
+Q106) An oil tanker is partially filled with oil and moves forward on a level road with uniform acceleration. The free surface of oil then-[UPSC CSE Pre 2003]
+a) Remains horizontal
+b) Is inclined to the horizontal with smaller depth at the rear end
+c) Is inclined to the horizontal with larger depth at the rear end
+d) Assumes parabolic curve
+#QuestionEnd
+#AnswerStart
+Answer: c) Is inclined to the horizontal with larger depth at the rear end
+#AnswerEnd
+
+#QuestionStart
+Q107) Consider the following statements:
+A 4-wheel vehicle moving in a sharp circular path at high speed will:
+1. Overturn about its outer wheels
+2. Overturn about its inner wheels
+3. Skid outwards
+4. Skid inwards
+Which of these statements are correct? [UPSC CSE Pre 2003]
+a) 1 and 3 only
+b) 2 and 4 only
+c) 2 and 3 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q108) Consider the following statements:
+Assertion (A): An iron ball floats on mercury but gets immersed in water.
+Reason (R): The specific gravity of iron is more than that of mercury.
+Code: [UPSC CSE Pre 2002]
+a) Both (A) and (R) are true, and (R) is the correct explanation of
+b) Both (A) and (R) are true, but (R) is not a correct explanation of
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false
+#AnswerEnd
+
+#QuestionStart
+Q109) With reference to the blood in a normal person, which one of the following statements is correct? [UPSC CSE Pre 2002]
+a) Compared to arteries, veins are less numerous and hold less of the body’s blood at any given time
+b) Blood cells constitute about 70 percent of the total volume of the blood
+c) White blood cells (WBC) are made by lymph nodes only
+d) The blood has more platelets than WBC
+#QuestionEnd
+#AnswerStart
+Answer: d) The blood has more platelets than WBC
+#AnswerEnd
+
+#QuestionStart
+Q110) Which one of the following statements is correct? [UPSC CSE Pre 2002]
+a) Prions are the smallest free-living cells.
+b) The cell wall of Mycoplasmas is made up of amino sugars.
+c) Viroids consist of single-stranded RNA molecules
+d) Rickettsias lack cell wall
+#QuestionEnd
+#AnswerStart
+Answer: c) Viroids consist of single-stranded RNA molecules
+#AnswerEnd
+
+#QuestionStart
+Q111) With reference to the work of human kidney, consider the following statements:
+1. After the waste is removed in the kidney, the cleaner blood is sent back through the renal artery.
+2. From Bowman’s capsule, the filtered liquid passes through tiny tubes where much of the glucose is reabsorbed and sent back to the blood in the renal vein.
+Which of these statements is/are correct? [UPSC CSE Pre 2002]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one of the following statements is not correct? [UPSC CSE Pre 2002]
+a) All echinoderms are viviparous.
+b) Roundworm has no circulatory system.
+c) In bony fishes, swim bladder is usually present.
+d) In cartilaginous fishes, fertilization is internal.
+#QuestionEnd
+#AnswerStart
+Answer: a) All echinoderms are viviparous.
+#AnswerEnd
+
+#QuestionStart
+Q113) Consider the following statements:
+Assertion (A): Human diet should compulsorily contain glycine, serine and tyrosine.
+Reason (R): Essential amino acids cannot be synthesized in the human body.
+Code: [UPSC CSE Pre 2002]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q114) Ticks and mites are actually: [UPSC CSE Pre 2002]
+a) Arachnids
+b) Crustaceans
+c) Insects
+d) Myriapods
+#QuestionEnd
+#AnswerStart
+Answer: a) Arachnids
+#AnswerEnd
+
+#QuestionStart
+Q115) Un the context of organic evolution, the loss of limbs in snakes is explained by the phenomenon of: [UPSC CSE Pre 2002]
+a) Use and disuse of organs
+b) Adaptation to living in burrows
+c) Natural selection
+d) Inheritance of acquired characters
+#QuestionEnd
+#AnswerStart
+Answer: a) Use and disuse of organs
+#AnswerEnd
+
+#QuestionStart
+Q116) Among living organisms, which one of the following is the most responsible factor for bringing about the origin of a new species? [UPSC CSE Pre 2002]
+a) Isolation
+b) Mutation
+c) Natural selection
+d) Sexual reproduction
+#QuestionEnd
+#AnswerStart
+Answer: b) Mutation
+#AnswerEnd
+
+#QuestionStart
+Q117) Consider the following statements:
+Assertion (A): Synthetic detergents can make more lather in hard water.
+Reason (R): Synthetic detergents form soluble calcium and magnesium salts with hard water.
+Code: [UPSC CSE Pre 2002]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q118) Which of the following statement is not true: [UPSC CSE Pre 2002]
+a) Boiling point of any water solution is higher than pure water.
+b) Addition of solute to a solution increases its water potential.
+c) Water vapour pressure of any solution is lower than vapour pressure of pure water.
+d) When a solution is separated with the help of semipermeable membrane then water flow can be stopped by giving pressure to the solution.
+#QuestionEnd
+#AnswerStart
+Answer: b) Addition of solute to a solution increases its water potential.
+#AnswerEnd
+
+#QuestionStart
+Q119) Consider the following statements:
+1. Light of longer wavelength is scattered much more than the light of shorter wavelength.
+2. The speed of visible light in water is 0.95 times the speed in vacuum.
+3. Radio waves are produced by rapidly oscillating electrical currents.
+4. To detect the over speeding vehicles, police use the Doppler effect of reflected short radio waves.
+Which of these statements are correct? [UPSC CSE Pre 2002]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 4
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q120) With reference to the human body, consider the following statements:
+1. The production of somatotropin goes up when a person exercises.
+2. Men’s testes produce progesterone.
+3. Women’s adrenal glands secrete testosterone.
+4. Stress causes the adrenals to release very less amount of cortisol than usual.
+Which of these statements are correct? [UPSC CSE Pre 2002]
+a) 1, 2, 3 and 4
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q121) Consider the following natural phenomena:
+1. Terrestrial heating
+2. Reflection of light
+3. Refraction of light
+4. Diffraction of light
+Due to which of these phenomena is mirage formed? [UPSC CSE Pre 2002]
+a) 1 and 2 only
+b) 2, 3 and 4 only
+c) 1 and 3 only
+d) 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q122) In a bisexual flower, if androecium and gynoecium mature at different times, the phenomenon is known as: [UPSC CSE Pre 2002]
+a) Dichogamy
+b) Herkogamy
+c) Heterogamy
+d) Monogamy
+#QuestionEnd
+#AnswerStart
+Answer: a) Dichogamy
+#AnswerEnd
+
+#QuestionStart
+Q123) Consider the following plants:
+1. Bougainvillea
+2. Carnation
+3. Cocoa
+4. Grapes
+Which of these plants are propagated by stem cuttings? [UPSC CSE Pre 2002]
+a) 1 and 2
+b) 2, 3 and 4
+c) 1, 2 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q124) Which organelle in the cell, other than the nucleus, contains DNA? [UPSC CSE Pre 2001]
+a) Centriole
+b) Golgi apparatus
+c) Lysosome
+d) Mitochondria
+#QuestionEnd
+#AnswerStart
+Answer: d) Mitochondria
+#AnswerEnd
+
+#QuestionStart
+Q125) Which of the following cell organelles play the most significant role in protein synthesis? [UPSC CSE Pre 2001 ]
+a) Lysosome and Centrosome
+b) Endoplasmic reticulum and Ribosome
+c) Golgi apparatus and Mitochondria
+d) Lysosome and Mitochondria
+#QuestionEnd
+#AnswerStart
+Answer: b) Endoplasmic reticulum and Ribosome
+#AnswerEnd
+
+#QuestionStart
+Q126) The cellular and molecular control of programmed cell death are known as: [UPSC CSE Pre 2001]
+a) Apoptosis
+b) Ageing
+c) Degeneration
+d) Necrosis
+#QuestionEnd
+#AnswerStart
+Answer: a) Apoptosis
+#AnswerEnd
+
+#QuestionStart
+Q127) Which of the following features of DNA makes it uniquely suited to store and transmit genetic information from generation to generation? [UPSC CSE Pre 2001]
+a) Complementarity of the two strands
+b) Double helix
+c) Number of base-pairs per turn
+d) Sugar-phosphate backbone
+#QuestionEnd
+#AnswerStart
+Answer: a) Complementarity of the two strands
+#AnswerEnd
+
+#QuestionStart
+Q128) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Characteristics) | List-II (Particle) |
+|---|---|
+| A. Zero mass | 1. Positron |
+| B. Fractional charge | 2. Neutrino |
+| C. Fractional spin | 3. Quark |
+| D. Integral spin | 4. Phonon |
+Code: [UPSC CSE Pre 2001]
+a) A2, B3, C1, D4
+b) A3, B2, C4, D1
+c) A2, B3, C4, D1
+d) A3, B2, C1, D4
+#QuestionEnd
+#AnswerStart
+Answer: a) A2, B3, C1, D4
+#AnswerEnd
+
+#QuestionStart
+Q129) Consider the following statements:
+1. Tapeworm is a hermaphrodite.
+2. Roundworm has separate sexes.
+3. Filaria is caused by a nematode.
+4. Guineaworm is an annelid.
+Which of these are correct? [UPSC CSE Pre 2001]
+a) 1 and 2 only
+b) 1,2 and 3 only
+c) 3 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q130) Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons? [UPSC CSE Pre 2001]
+a) Methane, Ethane, Propane and Butane
+b) Propane, Butane, Ethane and Methane
+c) Butane, Ethane, Propane and Methane
+d) Butane, Propane, Ethane and Methane
+#QuestionEnd
+#AnswerStart
+Answer: a) Methane, Ethane, Propane and Butane
+#AnswerEnd
+
+#QuestionStart
+Q131) An aqueous solution of copper sulphate is acidic in nature because the salt undergoes-[UPSC CSE Pre 2001]
+a) dialysis
+b) electrolysis
+c) hydrolysis
+d) photolysis
+#QuestionEnd
+#AnswerStart
+Answer: c) hydrolysis
+#AnswerEnd
+
+#QuestionStart
+Q132) Consider the following statements with reference to the periodic table of chemical elements:
+1. Ionization potential gradually decreases along a period.
+2. In a group of elements, electron affinity decreases as the atomic weight increases.
+3. In a given period, electronegativity decreases as the atomic number increases.
+Which of these statement(s) is/are correct? [UPSC CSE Pre 2001]
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q133) Two wires have their lengths, diameters and resistivities all in the ratio of 1 : 2. If the resistance of the thinner wire is 10 ohm, the resistance of the thicker wire is: [UPSC CSE Pre 2001]
+a) 5 ohm
+b) 10 ohm
+c) 20 ohm
+d) 40 ohm
+#QuestionEnd
+#AnswerStart
+Answer: b) 10 ohm
+#AnswerEnd
+
+#QuestionStart
+Q134) Consider the following statements:
+Assertion (A): A chemical reaction becomes faster at a higher temperature.
+Reason (R): At higher temperature, molecular motion becomes more rapid.
+Code: [UPSC CSE Pre 2001]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q135) A radioactive substance has a half-life of four months. Three-fourth of the substance would decay in - [UPSC CSE Pre 2001 ]
+a) 3 months
+b) 4 months
+c) 8 months
+d) 12 months
+#QuestionEnd
+#AnswerStart
+Answer: c) 8 months
+#AnswerEnd
+
+#QuestionStart
+Q136) Consider the following statements:
+In a nuclear reactor, self-sustained chain reaction is possible, because:
+1. More neutrons are released in each of the fission reactions.
+2. The neutrons immediately take part in the fission process.
+3. The fast neutrons are slowed down by graphite.
+4. Every neutron released in the fission reaction initiates further fission.
+Which of these statements are correct? [UPSC CSE Pre 2001]
+a) 1, 2 and 3
+b) 1 and 3
+c) 2 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q137) Cloudy nights are warmer compared to clear cloudless nights, because clouds- [UPSC CSE Pre 2001]
+a) Prevent cold waves from the sky from descending on earth.
+b) Reflect back the heat given off by earth.
+c) Produce heat and radiate it towards earth.
+d) Absorb heat from the atmosphere and send it toward earth.
+#QuestionEnd
+#AnswerStart
+Answer: b) Reflect back the heat given off by earth.
+#AnswerEnd
+
+#QuestionStart
+Q138) Consider the following statements:
+Assertion (A): The boiling point of water decreases as the altitude increases.
+Reason (R): The atmospheric pressure increases with altitude.
+Code: [UPSC CSE Pre 2001]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q139) Consider the following statements:
+Assertion (A): A piece of copper and a piece of glass are heated to the same temperature. When touched, thereafter, the copper piece appears hotter than the glass piece.
+Reason (R): The density of copper is more than that of glass.
+Code: [UPSC CSE Pre 2001]
+a) Both A and R are true, and R is the correct explanation of A
+b) Both A and R are true, but R is not a correct explanation of A
+c) A is true, but R is false
+d) A is false, but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b) Both A and R are true, but R is not a correct explanation of A
+#AnswerEnd
+
+#QuestionStart
+Q140) Consider the following statements:
+Assertion (A): A stick is dipped in water in a slanting position. If observed sideways, the stick appears short and bent at the surface of the water.
+Reason (R): A light coming from the stick undergoes scattering from water molecules giving the stick a short and bent appearance.
+Code: [UPSC CSE Pre 2001]
+a) Both (A) and (R) are true, and (R) is the correct explanation of
+b) Both (A) and (R) are true, but (R) is not a correct explanation of
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false
+#AnswerEnd
+
+#QuestionStart
+Q141) When light waves pass from air to glass the variable affected are-[UPSC CSE Pre 2001]
+a) Wavelength, frequency and velocity
+b) Velocity and frequency
+c) Wavelength and frequency
+d) Wavelength and velocity
+#QuestionEnd
+#AnswerStart
+Answer: d) Wavelength and velocity
+#AnswerEnd
+
+#QuestionStart
+Q142) When water is heated from 00C to 1000 C.
+Its volume: [UPSC CSE Pre 2001]
+a) Increases
+b) Decreases
+c) Does not change
+d) First decreases and then increases
+#QuestionEnd
+#AnswerStart
+Answer: d) First decreases and then increases
+#AnswerEnd
+
+#QuestionStart
+Q143) A sudden fall in barometer reading indicates that the weather will be: [UPSC CSE Pre 2001]
+a) Stormy weather
+b) Rainy weather
+c) Cool dry weather
+d) Hot and humid weather
+#QuestionEnd
+#AnswerStart
+Answer: a) Stormy weather
+#AnswerEnd
+
+#QuestionStart
+Q144) The mass of a body on the Earth is 100 kg (acceleration due to gravity, ge = 10m/s2). If acceleration due to gravity on the Moon is (ge/6), then the mass of the body on the Moon is: [UPSC CSE Pre 2001]
+a) 100/6 kg
+b) 60 kg
+c) 100 kg
+d) 600 kg
+#QuestionEnd
+#AnswerStart
+Answer: c) 100 kg
+#AnswerEnd
+
+#QuestionStart
+Q145) Consider the following statements:
+A Simple Pendulum is set into oscillation, then:
+1. the acceleration is zero when the bob passes through the mean position.
+2. in each cycle the bob attains a given velocity twice.
+3. both acceleration and velocity of the bob are zero when it reaches its extreme position during the oscillation.
+4. the amplitude of oscillation of the simple pendulum decreases with time.
+Which of these statements are correct? [UPSC CSE Pre 2001]
+a) 1 and 2
+b) 3 and 4
+c) 1, 2 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q146) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Bones) | List-II |
+|---|---|
+| A. Breastbone | 1. Clavicle |
+| B. Collarbone | 2. Patella |
+| C. Knee-up | 3. Scapula |
+| D. Shoulder blade | 4. Sternum |
+Code: [UPSC CSE Pre 2001]
+a) A4, B1, C3, D2
+b) A1, B4, C2, D3
+c) A1, B4, C3, D2
+d) A4, B1, C2, D3
+#QuestionEnd
+#AnswerStart
+Answer: d) A4, B1, C2, D3
+#AnswerEnd
+
+#QuestionStart
+Q147) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-11 |
+|---|---|
+| A. Ptyalin | 1. Converts angiotensinogen in blood into angiotensin |
+| B. Pepsin | 2. Digests starch |
+| C. Renin | 3. Digests proteins |
+| D. Oxytocin | 4. Hydrolyses fats |
+|  | 5. Induces contraction of smooth muscles |
+Code: [UPSC CSE Pre 2001]
+a) A2, B3, C1, D5
+b) A3, B4, C2, D5
+c) A2, B3, C5, D1
+d) A3, B1, C2, D4
+#QuestionEnd
+#AnswerStart
+Answer: a) A2, B3, C1, D5
+#AnswerEnd
+
+#QuestionStart
+Q148) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List II |
+|---|---|
+| A. Cracking | 1. Rubber |
+| B. Smelting | 2. Petroleum |
+| C. Hydrogenation | 3. Copper |
+| D. Vulcanization | 4. Edible Fats |
+Code: [UPSC CSE Pre 2000]
+a) A3, B2, C1, D4
+b) A2, B3, C4, D1
+c) A2, B3, C1, D4
+d) A3, B2, C4, D1
+#QuestionEnd
+#AnswerStart
+Answer: b) A2, B3, C4, D1
+#AnswerEnd
+
+#QuestionStart
+Q149) The ‘stones’ formed in human kidney consist mostly of: [UPSC CSE Pre 2000]
+a) Calcium oxalate
+b) Sodium acetate
+c) Magnesium sulphate
+d) Calcium
+#QuestionEnd
+#AnswerStart
+Answer: a) Calcium oxalate
+#AnswerEnd
+
+#QuestionStart
+Q150) Consider the following statements:
+Assertion (A): In human being, the females play a major role in determining the sex of the offspring.
+Reason (R): Women have two 'X chromosomes.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false, but (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q151) At which stage in its life cycle, does the silkworm yield the fibre of commerce? [UPSC CSE Pre 2000]
+a) Egg
+b) Larva
+c) Pupa
+d) Imago
+#QuestionEnd
+#AnswerStart
+Answer: c) Pupa
+#AnswerEnd
+
+#QuestionStart
+Q152) Consider the following statements:
+Hard water is not suitable for-
+1. Drinking
+2. Washing clothes with soap
+3. Use in boilers
+4. Irrigating crops
+Which of these statements are correct? [UPSC CSE Pre 2000]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1,2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q153) Which one of the following materials is very hard and very ductile? [UPSC CSE Pre 2000]
+a) Carborundum
+b) Tungsten
+c) Cast iron
+d) Nichrome
+#QuestionEnd
+#AnswerStart
+Answer: d) Nichrome
+#AnswerEnd
+
+#QuestionStart
+Q154) Fluorescent tubes are fitted with a choke. The choke coil- [UPSC CSE Pre 2000]
+a) Steps up the line voltage
+b) Steps down the line voltage
+c) Reduces current in the circuit
+d) Chokes low frequency current
+#QuestionEnd
+#AnswerStart
+Answer: a) Steps up the line voltage
+#AnswerEnd
+
+#QuestionStart
+Q155) Consider the following statements:
+Assertion (A): Large cold storage plants use ammonia as refrigerant while domestic refrigerators use chlorofluorocarbons.
+Reason (R): Ammonia can be liquefied at ambient temperatures at low pressures.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q156) Which one of the following does a TV remote control unit use to operate a TV set? [ UPSC CSE Pre 2000]
+a) Light waves
+b) Sound waves
+c) Microwaves
+d) Radio waves
+#QuestionEnd
+#AnswerStart
+Answer: d) Radio waves
+#AnswerEnd
+
+#QuestionStart
+Q157) Consider the following statements:
+Assertion (A): Small glass beads fixed on traffic signals glow brightly when light falls upon them.
+Reason (R): Light is totally reflected when the angle of incidence exceeds a certain critical value and light travelling in a denser medium is reflected from a rarer medium.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of
+b) Both (A) and (R) are true, but (R) is not a correct explanation of
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of
+#AnswerEnd
+
+#QuestionStart
+Q158) Consider the following statements:
+Assertion (A): In a motion picture, usually 24 frames are projected every second over the whole length of the film.
+Reason (R): An image formed on the retina of eye persists for about 0.1s after the removal of the stimulus.
+Code: [UPSC CSE Pre 2000]
+a) Both (A) and (R) are true, and (R) is the correct explanation of
+b) Both (A) and (R) are true, but (R) is not a correct explanation of
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false
+#AnswerEnd
+
+#QuestionStart
+Q159) For reproducing sound, a CD (Compact Disc) audio player uses a: [UPSC CSE Pre 2000]
+a) Quartz crystal
+b) Titanium needle
+c) Laser beam
+d) Barium titanic ceramic
+#QuestionEnd
+#AnswerStart
+Answer: c) Laser beam
+#AnswerEnd
+
+#QuestionStart
+Q160) When a CD (compact disc used in audio and video systems) is seen in sunlight, rainbowlike colours are seen. This can be explained on the basis of the phenomenon of [UPSC CSE Pre 2000]
+a) Reflection and diffraction
+b) Reflection and transmission
+c) Diffraction and transmission
+d) Refraction, diffraction, and transmission
+#QuestionEnd
+#AnswerStart
+Answer: a) Reflection and diffraction
+#AnswerEnd
+
+#QuestionStart
+Q161) Consider the following statements:
+Assertion (A): A man standing on a completely frictionless surface can propel himself by whistling.
+Reason (R): If no external force acts on a system, its momentum cannot change.
+Code: [UPSC CSE Pre 2000]
+a) Both A and R are true, and R is the correct explanation of A
+b) Both A and R are true, but R is not a correct explanation of A
+c) A is true, but R is false
+d) A is false, but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both A and R are true, and R is the correct explanation of A
+#AnswerEnd
+
+#QuestionStart
+Q162) Canola refers to a special type of oilseed mustard varieties breed for human consumption. The main characteristic of these varieties is that the: [UPSC CSE Pre 2000]
+a) Seeds have very high oil content
+b) Oil is rich in unsaturated fatty acids
+c) Oil has long shelf-life
+d) Oil has very low erucic acid content
+#QuestionEnd
+#AnswerStart
+Answer: d) Oil has very low erucic acid content
+#AnswerEnd
+
+#QuestionStart
+Q163) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I If | List-II |
+|---|---|
+| A. German silver | 1. Tin |
+| B. Solder | 2. Nickel |
+| C. Bleaching powder | 3. Sodium |
+| D. Hypo | 4. Chlorine |
+Code: [UPSC CSE Pre 2000]
+a) A2, B1, C4, D3
+b) A2, B1, C3, D4
+c) A1, B2, C3, D4
+d) A2, B1, C4, D3
+#QuestionEnd
+#AnswerStart
+Answer: d) A2, B1, C4, D3
+#AnswerEnd
+
+#QuestionStart
+Q164) Consider the following statements:
+Assertion (A): To dilute sulphuric acid> acid is added to water and not water to acid.
+Reason (R): Specific heat of water is very high
+Code: [UPSC CSE Pre 1999]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q165) Consider the following statements:
+1. If a person looks at a coin which is in a bucket of water, the coin will appear to be closer than it really is.
+2. If a person underwater looks at a coin above the water surface, the coin will appear to be at a higher level than it really is.
+Which of the above statements is/are correct? [UPSC CSE Pre 1999]
+a) 1 and 2 only
+b) 1 only
+c) 2 only
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q166) When ants bite, they inject? [UPSC CSE Pre 1999]
+a) Glacial acetic acid
+b) Methanol
+c) Formic acid
+d) Stearic acid
+#QuestionEnd
+#AnswerStart
+Answer: c) Formic acid
+#AnswerEnd
+
+#QuestionStart
+Q167) Which one of the following is a useful functional association between fungi and the roots of higher plants? [UPSC CSE Pre 1999]
+a) Biofertilizer
+b) Coralloid root
+c) Lichens
+d) Mycorrhiza
+#QuestionEnd
+#AnswerStart
+Answer: d) Mycorrhiza
+#AnswerEnd
+
+#QuestionStart
+Q168) Consider the following statements:
+Glass can be etched or scratched by-
+1. Diamond
+2. Hydrofluoric Acid
+3. Aquaregia
+4. Cone. Sulphuric Acid
+Which of these statements are correct? [UPSC CSE Pre 1999]
+a) 1 and 4 only
+b) 2 and 3 only
+c) 1 and 2 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q169) Consider the following statements regarding a motor car battery:
+1. The voltage is usually 12 V.
+2. Electrolyte used is hydrochloric acid.
+3. Electrodes are lead and copper.
+4. Capacity is expressed in ampere-hour.
+Which of the above statements are correct? [UPSC CSE Pre 1999]
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q170) Consider the following statements:
+An ordinary light bulb has a rather short life because the:
+1. Filament wire is not uniform.
+2. Bulb cannot be evacuated completely.
+3. Wires supporting the filament melt at high temperatures.
+Which of the above statements are correct? [UPSC CSE Pre 1999]
+a) 1 and 3
+b) 2 and 3
+c) 1 and 2
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q171) Strips of two metals A and B are firmly jointed together as shown in the figure. [UPSC CSE Pre 1999]
+[image: image.png]
+On heating, A expands more than B does. If this jointed strip is heated, then it will appear as:
+a) [image: image.png]
+b) [image: image.png]
+c) [image: image.png]
+d) [image: image.png]
+#QuestionEnd
+#AnswerStart
+Answer: b) [image: image.png]
+#AnswerEnd
+
+#QuestionStart
+Q172) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Adrenaline | 1. Anger, fear, danger |
+| B. Estrogen | 2. Attracting partners through sense of smell |
+| C. Insulin | 3. Females |
+| D. Pheromones | 4. Glucose |
+Code: [UPSC CSE Pre 1999]
+a) A3, B1, C4, D2
+b) A1, B3, C2, D4
+c) A1, B3, C4, D2
+d) A3, B1, C2, D4
+#QuestionEnd
+#AnswerStart
+Answer: c) A1, B3, C4, D2
+#AnswerEnd
+
+#QuestionStart
+Q173) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Neela Thotha | 1. Sodium Bicarbonate |
+| B. Epsom Salt | 2. Sodium Hydroxide |
+| C. Baking Soda | 3. Magnesium Sulphate |
+| D. Caustic Soda | 4. Copper Sulphate |
+Code: [UPSC CSE Pre 1998]
+a) A3, B4, C2, D1
+b) A4, B3, C2, D1
+c) A3, B4, C1, D2
+d) A4, B3, C1, D2
+#QuestionEnd
+#AnswerStart
+Answer: d) A4, B3, C1, D2
+#AnswerEnd
+
+#QuestionStart
+Q174) Which one of the following type of microorganisms is most widely used in industries? [UPSC CSE Pre 1998]
+a) Bacteria
+b) Bacteria and fungi
+c) Bacteria and algae
+d) Bacteria, microalgae and fungi
+#QuestionEnd
+#AnswerStart
+Answer: d) Bacteria, microalgae and fungi
+#AnswerEnd
+
+#QuestionStart
+Q175) The complete conversion of glucose, in the presence of oxygen, into carbon dioxide and water with release of energy is called: [UPSC CSE Pre 1998]
+a) Aerobic respiration
+b) Anaerobic respiration
+c) Glycolysis
+d) Hydrolysis
+#QuestionEnd
+#AnswerStart
+Answer: a) Aerobic respiration
+#AnswerEnd
+
+#QuestionStart
+Q176) Consumption of fish is considered to be healthy when compared to the flesh of other animals because fish contains: [UPSC CSE Pre 1998]
+a) Polyunsaturated fatty acids
+b) Saturated fatty acids
+c) Essential vitamins
+d) More carbohydrates and proteins
+#QuestionEnd
+#AnswerStart
+Answer: a) Polyunsaturated fatty acids
+#AnswerEnd
+
+#QuestionStart
+Q177) Which one of the following statements regarding starch and cellulose is not correct? [UPSC CSE Pre 1998]
+a) Both of them are of plant origin
+b) Both of them are polymers
+c) Both of them give colour with iodine
+d) Both of them are made up of glucose molecules
+#QuestionEnd
+#AnswerStart
+Answer: c) Both of them give colour with iodine
+#AnswerEnd
+
+#QuestionStart
+Q178) Consider the following statements about acetylene:
+1. It is used in the welding industry.
+2. It is a raw material for preparing plastics.
+3. It is easily obtained by mixing silicon carbide and water.
+Of these statements- [UPSC CSE Pre 1998]
+a) 1 and 2 are correct
+b) 1 and 3 are correct
+c) 2 and 3 are correct
+d) 1, 2 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 are correct
+#AnswerEnd
+
+#QuestionStart
+Q179) Consider the following statements:
+Assertion (A): The temperature of a metal wire rises when an electric current is passed through it.
+Reason (R): Collision of metal atoms with each other releases heat energy.
+Code: [UPSC CSE Pre 1998]
+a) Both (A) and (R) are true, and (R) is the correct explanation of
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false
+#AnswerEnd
+
+#QuestionStart
+Q180) Consider the following statements:
+Assertion (A): Sodium metal is stored under kerosene.
+Reason (R): Metallic sodium melts when exposed to air.
+Code: [UPSC CSE Pre 1998]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q181) A ball is dropped from the top of a high building with a constant acceleration of 9.8 m/s. What will be its velocity after 3 seconds? [UPSC CSE Pre 1998]
+a) 9.8 m/s
+b) 19.6 m/s
+c) 29.4 m/s
+d) 39.2 m/s
+#QuestionEnd
+#AnswerStart
+Answer: c) 29.4 m/s
+#AnswerEnd
+
+#QuestionStart
+Q182) Consider the following statements:
+Assertion (A): Formic Acid is a stronger acid than Acetic acid.
+Reason (R): Formic Acid is an organic acid.
+Code: [UPSC CSE Pre 1998]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q183) Consider the following statements:
+Assertion (A): Phenyl is used as a household germicide.
+Reason (R): Phenyl is a phenol derivative and phenol is an effective germicide.
+Code: [UPSC CSE Pre 1998]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q184) The pituitary gland by virtue of its tropic hormones controls the secretion activity of other endocrine glands. Which one of the following endocrine glands can function independent of the pituitary gland? [UPSC CSE Pre 1997]
+a) Thyroid
+b) Gonads
+c) Adrenals
+d) Parathyroid
+#QuestionEnd
+#AnswerStart
+Answer: d) Parathyroid
+#AnswerEnd
+
+#QuestionStart
+Q185) Corpus luteum is a mass of cells found in: [UPSC CSE Pre 1997]
+a) Brain
+b) Ovary
+c) Pancreas
+d) Spleen
+#QuestionEnd
+#AnswerStart
+Answer: b) Ovary
+#AnswerEnd
+
+#QuestionStart
+Q186) Oxygen transportation in a human body takes place through:
+1. Blood
+2. Lungs
+3. Tissue
+The correct sequence of transportation is: [UPSC CSE Pre 1997]
+a) 1,2,3
+b) 3, 1, 2
+c) 2, 1, 3
+d) 1,3,2
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 1, 3
+#AnswerEnd
+
+#QuestionStart
+Q187) Which one of the following is present in the largest amount in terms of percent by mass in the earth’s crust? [UPSC CSE Pre 1997]
+a) Silicon
+b) Oxygen
+c) Carbon
+d) Calcium
+#QuestionEnd
+#AnswerStart
+Answer: b) Oxygen
+#AnswerEnd
+
+#QuestionStart
+Q188) The characteristic odour of garlic is due to: [UPSC CSE Pre 1997]
+a) A chloro compound
+b) A sulphur compound
+c) A fluorine compound
+d) Acetic acid
+#QuestionEnd
+#AnswerStart
+Answer: b) A sulphur compound
+#AnswerEnd
+
+#QuestionStart
+Q189) Which one of the following is a vector quantity? [UPSC CSE Pre 1997]
+a) Momentum
+b) Pressure
+c) Energy
+d) Work
+#QuestionEnd
+#AnswerStart
+Answer: a) Momentum
+#AnswerEnd
+
+#QuestionStart
+Q190) Which one of the following is used as an anti-freeze for automobile engines? [UPSC CSE Pre 1997]
+a) Propyl alcohol
+b) Ethanol
+c) Methanol
+d) Ethylene glycol
+#QuestionEnd
+#AnswerStart
+Answer: d) Ethylene glycol
+#AnswerEnd
+
+#QuestionStart
+Q191) The most reactive among the halogens is-[UPSC CSE Pre 1997]
+a) Fluorine
+b) Chlorine
+c) Bromine
+d) Iodine
+#QuestionEnd
+#AnswerStart
+Answer: a) Fluorine
+#AnswerEnd
+
+#QuestionStart
+Q192) The tendency of a liquid drop to contract and occupy minimum area is due to: [UPSC CSE Pre 1997]
+a) Surface tension
+b) Viscosity
+c) Density
+d) Vapour pressure
+#QuestionEnd
+#AnswerStart
+Answer: a) Surface tension
+#AnswerEnd
+
+#QuestionStart
+Q193) Which one of the following is paramagnetic in nature? [UPSC CSE Pre 1997]
+a) Iron
+b) Hydrogen
+c) Oxygen
+d) Nitrogen
+#QuestionEnd
+#AnswerStart
+Answer: c) Oxygen
+#AnswerEnd
+
+#QuestionStart
+Q194) What is the average fat content of buffalo milk? [UPSC CSE Pre 1997]
+a) 7.2%
+b) 4.5%
+c) 9.0%
+d) 10.0%
+#QuestionEnd
+#AnswerStart
+Answer: a) 7.2%
+#AnswerEnd
+
+#QuestionStart
+Q195) A girl is swinging on a swing in a sitting position. When the girl stands up, the period of the swing will: [UPSC CSE Pre 1997]
+a) Be shorter
+b) Be longer
+c) Depends on the height of the girl
+d) Not change
+#QuestionEnd
+#AnswerStart
+Answer: a) Be shorter
+#AnswerEnd
+
+#QuestionStart
+Q196) The working principle of a washing machine is: [UPSC CSE Pre 1997]
+a) Centrifugation
+b) Dialysis
+c) Reverse osmosis
+d) Diffusion
+#QuestionEnd
+#AnswerStart
+Answer: a) Centrifugation
+#AnswerEnd
+
+#QuestionStart
+Q197) If the number representing volume and surface area of a cube are equal, then the length of the edge of the cube in terms of the unit of measurement will be- [UPSC CSE Pre 1997]
+a) 3
+b) 4
+c) 5
+d) 6
+#QuestionEnd
+#AnswerStart
+Answer: d) 6
+#AnswerEnd
+
+#QuestionStart
+Q198) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Vitamin | 1. Pepsin |
+| B. Enzyme | 2. Carotene |
+| C. Hormone | 3. Keratin |
+| D. Protein | 4. Testosterone/ Progesterone |
+Code: [UPSC CSE Pre 1996]
+a) A1, B2, C3, D4
+b) A2, B1, C4, D3
+c) A2, B1, C3, D4
+d) A1, B2, C4, D3
+#QuestionEnd
+#AnswerStart
+Answer: b) A2, B1, C4, D3
+#AnswerEnd
+
+#QuestionStart
+Q199) Fat present below the skin surface in our body, acts as a barrier against: [UPSC CSE Pre 1996]
+a) Loss of heat from the body
+b) Loss of essential body fluids
+c) Loss of salts from the body
+d) Entry of harmful microorganisms from the environment.
+#QuestionEnd
+#AnswerStart
+Answer: a) Loss of heat from the body
+#AnswerEnd
+
+#QuestionStart
+Q200) Which of the following would lead to malnutrition?
+1. Overnutrition
+2. Undernutrition
+3. Imbalanced nutrition
+Select the correct answer by using the codes given below: [UPSC CSE Pre 1996]
+a) 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q201) Besides proteins and carbohydrates, other elements of nutritional value found in milk, include: [UPSC CSE Pre 1996]
+a) calcium, potassium and iron
+b) calcium and potassium
+c) potassium and iron
+d) calcium and iron
+#QuestionEnd
+#AnswerStart
+Answer: b) calcium and potassium
+#AnswerEnd
+
+#QuestionStart
+Q202) Given below are two statements, one labelled as Assertion and the other labelled as Reason (R).
+Assertion (A): Transformer is useful for stepping up or stepping down voltages.
+Reason (R): Transformer is a device used in D.C. circuits.
+In the context of the above two statements, which one of the following is correct? [UPSC CSE Pre 1996]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q203) Which of the following professional(s) are more likely to run the risk of a permanent change in their cell’s DNA?
+1, Researchers using carbon 14 isotope
+2. X-ray technician
+3. Coal miner
+4. Dyer and painter
+Select the correct answer by using the codes given below: [UPSC CSE Pre 1996]
+a) 2 only
+b) 1, 2 and 3 only
+c) 1,2 and 4 only
+d) 1,3, and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q204) Living organisms require at least 27 elements, of which, 15 are metals. Among these, those required in major quantities, include [UPSC CSE Pre 1996]
+a) Potassium, manganese, molybdenum and calcium
+b) Potassium, molybdenum, copper and calcium
+c) Potassium, sodium, magnesium and calcium
+d) Sodium, magnesium, copper and • manganese
+#QuestionEnd
+#AnswerStart
+Answer: c) Potassium, sodium, magnesium and calcium
+#AnswerEnd
+
+#QuestionStart
+Q205) The offending substance in the liquor tragedies leading to blindness etc. is- [UPSC CSE Pre 1996]
+a) Ethyl alcohol
+b) Amyl alcohol
+c) Benzyl alcohol
+d) Methyl alcohol
+#QuestionEnd
+#AnswerStart
+Answer: d) Methyl alcohol
+#AnswerEnd
+
+#QuestionStart
+Q206) The alpha particle carries two positive charges. Its mass is very nearly equal to that of- [UPSC CSE Pre 1996]
+a) Two protons
+b) Nucleus of an atom of helium
+c) Sum of masses of two positrons and two neutrons
+d) Two positrons, as each positron carries a single positive charge
+#QuestionEnd
+#AnswerStart
+Answer: b) Nucleus of an atom of helium
+#AnswerEnd
+
+#QuestionStart
+Q207) Domestic electrical wiring is basically a: [UPSC CSE Pre 1996]
+a) Series connection
+b) Parallel connection
+c) Combination of series and parallel connections
+d) Series connection within each room and parallel connection elsewhere
+#QuestionEnd
+#AnswerStart
+Answer: b) Parallel connection
+#AnswerEnd
+
+#QuestionStart
+Q208) When a mirror is rotated by an angle 0, will the reflected ray rotate by? [UPSC CSE Pre 1996]
+a) 0
+b) 0/2
+c) 0
+d) 20
+#QuestionEnd
+#AnswerStart
+Answer: d) 20
+#AnswerEnd
+
+#QuestionStart
+Q209) When an air bubble at the bottom of lake rises to the top, it will— [UPSC CSE Pre 1996]
+a) Increased in size
+b) Decreased in size
+c) Maintain its size
+d) Flatten into a disc like shape
+#QuestionEnd
+#AnswerStart
+Answer: a) Increased in size
+#AnswerEnd
+
+#QuestionStart
+Q210) A truck, a car, and a motorcycle have equal kinetic energies. If equal stopping forces are applied and they stop after traveling a distance of X, Y and Z respectively, then- [UPSC CSE Pre 1996]
+a) X>Y>Z
+b) X < Y < Z
+c) X = Y = Z
+d) X = 4Y = 8 Z
+#QuestionEnd
+#AnswerStart
+Answer: c) X = Y = Z
+#AnswerEnd
+
+#QuestionStart
+Q211) A simple machine helps a person in doing: [UPSC CSE Pre 1996]
+a) Less work
+b) The same amount of work with lesser force
+c) The same amount of work slowly
+d) The same amount of work much faster
+#QuestionEnd
+#AnswerStart
+Answer: b) The same amount of work with lesser force
+#AnswerEnd
+
+#QuestionStart
+Q212) It is possible to produce seedless tomato fruits by: [UPSC CSE Pre 1996]
+a) Applying trace elements in tomato fruits
+b) Spraying mineral solution on plants
+c) Spraying hormones on flowers
+d) Applying fertilizers containing radioactive elements
+#QuestionEnd
+#AnswerStart
+Answer: c) Spraying hormones on flowers
+#AnswerEnd
+
+#QuestionStart
+Q213) The clouds float in the atmosphere because of their low: [UPSC CSE Pre 1995]
+a) Temperature
+b) Velocity
+c) Pressure
+d) Density
+#QuestionEnd
+#AnswerStart
+Answer: d) Density
+#AnswerEnd
+
+#QuestionStart
+Q214) Which one of the following hormones contains iodine? [UPSC CSE Pre 1995]
+a) Thyroxine
+b) Testosterone
+c) Insulin
+d) Adrenaline
+#QuestionEnd
+#AnswerStart
+Answer: a) Thyroxine
+#AnswerEnd
+
+#QuestionStart
+Q215) The variations in temperature from 0°C to 100°C with respect to time of two liquids P, Q are shown in the graph given below:
+[image: image.png]
+Which of the following statements is correct? [UPSC CSE Pre 1995]
+a) During heating, liquid P has always warmer than Q.
+b) At no point of time during heating did the two liquids have the same temperature.
+c) P attained the temperature of 100°C faster than Q.
+d) Q attained the temperature of 100°C faster than P.
+#QuestionEnd
+#AnswerStart
+Answer: d) Q attained the temperature of 100°C faster than P.
+#AnswerEnd
+
+#QuestionStart
+Q216) Which of the following elements are present in all proteins?
+1. Carbon
+2. Hydrogen
+3. Oxygen
+4. Nitrogen
+Code: [UPSC CSE Pre 1995]
+a) 2 and 3 only
+b) 1,2 and 4 only
+c) 1, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q217) Which one of the following pairs of materials serve as electrodes in chargeable batteries commonly used in devices such as torchlights, electric shavers etc.? [UPSC CSE Pre 1995]
+a) Nickel and Cadmium
+b) Zinc and Carbon
+c) Lead peroxide and Lead
+d) Iron and Cadmium
+#QuestionEnd
+#AnswerStart
+Answer: a) Nickel and Cadmium
+#AnswerEnd
+
+#QuestionStart
+Q218) The difference between nuclear reactor and atom bomb is that: [UPSC CSE Pre 1995]
+a) There is no chain reaction in nuclear reactor whereas this happens in atom bomb
+b) The chain reaction in nuclear reactor is controlled
+c) The chain reaction in nuclear reactor is not controlled
+d) Atom bomb is based on nuclear fusion whereas in nuclear reactor, nuclear fission occurs.
+#QuestionEnd
+#AnswerStart
+Answer: b) The chain reaction in nuclear reactor is controlled
+#AnswerEnd
+
+#QuestionStart
+Q219) Which one of the following can be used to confirm whether drinking water contains a gamma emitting isotope or not? [UPSC CSE Pre 1995]
+a) Microscope
+b) Lead plate
+c) Scintillation counter
+d) Spectrophotometer
+#QuestionEnd
+#AnswerStart
+Answer: c) Scintillation counter
+#AnswerEnd
+
+#QuestionStart
+Q220) When the same tone is played on a sitar and a flute, the sound produced can be distinguished from each other because of the difference in: [UPSC CSE Pre 1995]
+a) pitch, loudness, and quality
+b) pitch and loudness
+c) quality only
+d) loudness only
+#QuestionEnd
+#AnswerStart
+Answer: c) quality only
+#AnswerEnd
+
+#QuestionStart
+Q221) An air bubble in water will act like a: [UPSC CSE Pre 1995]
+a) Convex mirror
+b) Convex lens
+c) Concave mirror
+d) Concave lens
+#QuestionEnd
+#AnswerStart
+Answer: d) Concave lens
+#AnswerEnd
+
+#QuestionStart
+Q222) Suppose a Rocketship is proceeding from the earth at a speed of 2/10th the velocity of light. A light in the Rocketship appears blue to the passengers on the ship. What colour would it appear to an observer on the earth? [UPSC CSE Pre 1995]
+a) Blue
+b) Orange
+c) Yellow
+d) Yellow-Orange
+#QuestionEnd
+#AnswerStart
+Answer: c) Yellow
+#AnswerEnd
+
+#QuestionStart
+Q223) Given below are two statements, one labeled as Assertion and other labeled as Reason (R):
+Assertion (A): A diamond sparkles more than a glass imitation cut to the same shape.
+Reason (R): The refractive index of diamond is less than that of glass.
+In the context of the above two statements, which one of the following is correct? [UPSC CSE Pre 1995]
+a) Both A and R are true, and R is the correct explanation of A
+b) Both A and R are true, but R is not a correct explanation of A
+c) A is true, but R is false
+d) A is false, but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c) A is true, but R is false
+#AnswerEnd
+
+#QuestionStart
+Q224) Optical fiber works on the principle of: [UPSC CSE Pre 1995]
+a) Total internal reflection
+b) Refraction
+c) Scattering
+d) Interference
+#QuestionEnd
+#AnswerStart
+Answer: a) Total internal reflection
+#AnswerEnd
+
+#QuestionStart
+Q225) Who among the following anticipated Newton by declaring that all things gravitate to the earth? [UPSC CSE Pre 1995]
+a) Aryabhatta
+b) Varahamihira
+c) Buddhagupta
+d) Brahmagupta
+#QuestionEnd
+#AnswerStart
+Answer: d) Brahmagupta
+#AnswerEnd
+
+#QuestionStart
+Q226) The heart of human embryo starts beating? [UPSC CSE Pre 1994]
+a) In the first week of development
+b) In the third week of its development
+c) In the fourth week of its development
+d) In the sixth week of its development
+#QuestionEnd
+#AnswerStart
+Answer: b) In the third week of its development
+#AnswerEnd
+
+#QuestionStart
+Q227) Even though an animal is fed with carbohydrates rich diet, its blood sugar concentration tends to remain constant. This is on account of the fact that is the case of an animal- [UPSC CSE Pre 1994]
+a) Hormones of pituitary glands control metabolic process.
+b) Hormones of pancreas cause such a condition.
+c) Blood sugar is readily absorbed by the liver.
+d) Glucose undergoes autolysis.
+#QuestionEnd
+#AnswerStart
+Answer: b) Hormones of pancreas cause such a condition.
+#AnswerEnd
+
+#QuestionStart
+Q228) If the blood group of father is A and mother is ‘O’ then what will be the blood group of son- [UPSC CSE Pre 1994]
+a) B
+b) AB
+c) O
+d) B, AB or O
+#QuestionEnd
+#AnswerStart
+Answer: c) O
+#AnswerEnd
+
+#QuestionStart
+Q229) Which of the following are characteristics shown in a breast-fed baby when compared to a bottle-fed baby?
+1. It is less obese.
+2. It shows greater capacity to resist diseases.
+3. It gets more vitamins and protein.
+4. Its growth in height is abnormal.
+Code: [UPSC CSE Pre 1994]
+a) 1, 2 and 3
+b) 1, 2 and 4
+c) 1, 3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q230) Rennin and lactase, the enzymes required to digest milk, disappear in the human body by the age of: [UPSC CSE Pre 1994]
+a) Two
+b) Three
+c) Five
+d) Eight
+#QuestionEnd
+#AnswerStart
+Answer: d) Eight
+#AnswerEnd
+
+#QuestionStart
+Q231) Which one of the following animal’s stores waters in the intestine? [UPSC CSE Pre 1994]
+a) Moloch
+b) Camel
+c) Zebra
+d) Uromastix
+#QuestionEnd
+#AnswerStart
+Answer: b) Camel
+#AnswerEnd
+
+#QuestionStart
+Q232) The speed of light will be minimum while passing through- [UPSC CSE Pre 1994]
+a) Glass
+b) Vacuum
+c) Water
+d) Air
+#QuestionEnd
+#AnswerStart
+Answer: a) Glass
+#AnswerEnd
+
+#QuestionStart
+Q233) Which one of the following is the correct sequential order in which these appeared under simulated primitive earth condition? [UPSC CSE Pre 1994]
+a) Methane, Hydrogen Cyanide, Nitrile, Amino Acid
+b) Hydrogen Cyanide, Methane, Nitrile, Amino Acid
+c) Amino Acid, Nitrile, Hydrogen Cyanide, Methane
+d) Nitrile, Amino Acid, Methane, Hydrogen Cyanide
+#QuestionEnd
+#AnswerStart
+Answer: a) Methane, Hydrogen Cyanide, Nitrile, Amino Acid
+#AnswerEnd
+
+#QuestionStart
+Q234) Water is a good solvent of ionic salts because [UPSC CSE Pre 1994]
+a) It has a high boiling point
+b) It has a high dipole moment
+c) It has a high specific heat
+d) It has no colour
+#QuestionEnd
+#AnswerStart
+Answer: b) It has a high dipole moment
+#AnswerEnd
+
+#QuestionStart
+Q235) The half-life of a radioactive element is 5 years then the fraction of the radioactive substance that remains after 20 years is-[UPSC CSE Pre 1994]
+a) 1/2
+b) 1/4
+c) 1/8
+d) 1/16
+#QuestionEnd
+#AnswerStart
+Answer: d) 1/16
+#AnswerEnd
+
+#QuestionStart
+Q236) A glass bottle containing water and tightly closed, breaks when it is kept in freezer, because- [UPSC CSE Pre 1994]
+a) Bottle shrinks on freezing.
+b) The volume of water decreases on freezing.
+c) The volume of water increases on freezing,
+d) Glass is the bad conductor of heat.
+#QuestionEnd
+#AnswerStart
+Answer: c) The volume of water increases on freezing,
+#AnswerEnd
+
+#QuestionStart
+Q237) The colour of an opaque object is due to the colour it- [UPSC CSE Pre 1994]
+a) Absorbs
+b) Refracts
+c) Reflects
+d) Scatters
+#QuestionEnd
+#AnswerStart
+Answer: c) Reflects
+#AnswerEnd
+
+#QuestionStart
+Q238) If a gas is compressed to half of its original volume at 27°C, to what temperature should it be heated to make it occupy its original volume? [UPSC CSE Pre 1994]
+a) 327°C
+b) 600°C
+c) 54°C
+d) 300°C
+#QuestionEnd
+#AnswerStart
+Answer: a) 327°C
+#AnswerEnd
+
+#QuestionStart
+Q239) Normally the pitch of females are - [UPSC CSE Pre 1994]
+a) More than that of males
+b) Slightly low than that of males
+c) Very low than that of males
+d) Exactly same as that of males
+#QuestionEnd
+#AnswerStart
+Answer: a) More than that of males
+#AnswerEnd
+
+#QuestionStart
+Q240) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Symptoms) | List-II (Creature) |
+|---|---|
+| A. Wingless insect | 1. Kiwi |
+| B. Flight less birds | 2. Silverfish |
+| C. Limbless Reptiles | 3. Kurma |
+| D. Lungless creature | 4. Snakes |
+|  | 5. Fish |
+Code: [UPSC CSE Pre 1993]
+a) A1, B3, C2, D5
+b) A2, B1, C4, D5
+c) A2, B1, C3, D4
+d) A3, B1, C4, D2
+#QuestionEnd
+#AnswerStart
+Answer: b) A2, B1, C4, D5
+#AnswerEnd
+
+#QuestionStart
+Q241) Which one of the following is a man-made cereal, not found in nature? [UPSC CSE Pre 1993]
+a) Dwarf wheat
+b) Hybrid maize
+c) Triticale
+d) Soybean
+#QuestionEnd
+#AnswerStart
+Answer: c) Triticale
+#AnswerEnd
+
+#QuestionStart
+Q242) Poison gland of snakes is homologous to: [UPSC CSE Pre 1993]
+a) Electric organ of fishes
+b) Stings of rays
+c) Sebaceous glands of mammals
+d) Salivary gland of vertebrates
+#QuestionEnd
+#AnswerStart
+Answer: d) Salivary gland of vertebrates
+#AnswerEnd
+
+#QuestionStart
+Q243) Which of the following archaeological samples is adopted to determine the age of firewood bone and shell? [UPSC CSE Pre 1993]
+a) Uranium-238
+b) Argon-Isotopes
+c) Carbon-14
+d) Strontium-90
+#QuestionEnd
+#AnswerStart
+Answer: c) Carbon-14
+#AnswerEnd
+
+#QuestionStart
+Q244) The Government of India has totally banned the export of burnt coal (Jhama) because it contains recoverable amount of a metal/ element which is used in transistors. Which one of the following is that element? [UPSC CSE Pre 1993]
+a) Phosphorus
+b) Germanium
+c) Silicon
+d) Tungsten
+#QuestionEnd
+#AnswerStart
+Answer: b) Germanium
+#AnswerEnd
+
+#QuestionStart
+Q245) Give a thought to these statements:
+Assertion (A): Temperature below 0°C is achieved by the mixture of salt and ice.
+Reason (R): Salt increases the freezing point of ice.
+In the context of above statements which one of the following is correct: [UPSC CSE Pre 1993]
+a) (A) and (R) both correct, and (R) is the correct explanation of (A).
+b) (A) and (R) both correct, but (R) is not the correct explanation of (A).
+c) (A) is correct, but (R) is wrong.
+d) (A) is wrong, but (R) is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is correct, but (R) is wrong.
+#AnswerEnd
+
+#QuestionStart
+Q246) Which type of colloidal system is expressed in the fog: [UPSC CSE Pre 1993]
+a) Liquid in a gas
+b) Gas in a liquid
+c) Solid in a gas
+d) Liquid in Liquid
+#QuestionEnd
+#AnswerStart
+Answer: a) Liquid in a gas
+#AnswerEnd
+
+#QuestionStart
+Q247) When there is depletion of ozone in the stratosphere, the wavelength of radiation striking the earth’s surface will be- [UPSC CSE Pre 1993]
+a) 10-10 m
+b) 10-7 m
+c) 10-2 m
+d) 100 m
+#QuestionEnd
+#AnswerStart
+Answer: b) 10-7 m
+#AnswerEnd
+
+#QuestionStart
+Q248) Consider the figures of a metal ball and a metal ring given below:
+[image: image.png]
+Ball Annulus
+The metal ball can just pass through the hole of a metal ring formed out of a strip. When the ball is heated it gets stuck. But when the metal is heated- [UPSC CSE Pre 1993]
+a) The ball can still pass through the ring as diameter expands on heating.
+b) The ball gets stuck because the diameter of the hole decreases on expansion.
+c) The ball will still pass through because the hole diameter does not change.
+d) The ball will pass through because there is no change in the ring.
+#QuestionEnd
+#AnswerStart
+Answer: a) The ball can still pass through the ring as diameter expands on heating.
+#AnswerEnd
+
+#QuestionStart
+Q249) At what temperature are the reading of a Centigrade and Fahrenheit thermometer the same? [ UPSC CSE Pre 1993]
+a) -40
+b) 212
+c) 40
+d) 100
+#QuestionEnd
+#AnswerStart
+Answer: a) -40
+#AnswerEnd
+
+#QuestionStart
+Q250) The formation of glittering colours in thin foam of soap is the result of which of the following phenomenon— [UPSC CSE Pre 1993]
+a) Total reflection and interference
+b) Total refraction and dispersion
+c) Diffraction and dispersion
+d) Polarization and interference
+#QuestionEnd
+#AnswerStart
+Answer: a) Total reflection and interference
+#AnswerEnd

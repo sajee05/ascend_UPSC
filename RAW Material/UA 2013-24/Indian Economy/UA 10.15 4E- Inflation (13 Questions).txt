@@ -1,0 +1,168 @@
+#QuestionStart
+Q1) Consider the following statements : (2023)
+Statement-I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.
+Statement-II : Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following is likely to be the most inflationary in its effects? (2021)
+a) Repayment of public debt
+b) Borrowing from the public to finance a budget deficit
+c) Borrowing from the banks to finance a budget deficit
+d) Creation of new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creation of new money to finance a budget deficit
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the Indian economy, demand-pull inflation can be caused / increased by which of the following? (2021)
+1. Expansionary policies
+2. Fiscal stimulus
+3. Inflation-indexing wages
+4. Higher purchasing power
+5. Rising interest rates
+Select the correct answer using the code given below:
+a) 1, 2 and 4 only
+b) 3, 4 and 5 only
+c) 1, 2, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: (2020)
+1. The weightage of food in Consumer Price Index (CPI) is higher than that in Wholesale Price Index (WPI).
+2. The WPI does not capture changes in the prices of services, which CPI does.
+3. The Reserve Bank of India has now adopted WPI as its key measure of inflation and to decide on changing the key policy rates.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following brings out the 'Consumer Price Index Number for Industrial Workers'? [2015]
+a) The Reserve Bank of India
+b) The Department of Economic Affairs
+c) The Labour Bureau
+d) The Department of Personnel and Training
+#QuestionEnd
+#AnswerStart
+Answer: c) The Labour Bureau
+#AnswerEnd
+
+#QuestionStart
+Q6) In the Index of Eight Core Industries, which one of the following is given the highest weight? (2015)
+a) Coal Production
+b) Electricity generation
+c) Fertilizer Production
+d) Steel Production
+#QuestionEnd
+#AnswerStart
+Answer: b) Electricity generation
+#AnswerEnd
+
+#QuestionStart
+Q7) A rise in general level of prices may be caused by (2013)
+1. an increase in the money supply
+2. a decrease in the aggregate level of output
+3. an increase in the effective demand
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following is likely to be the most inflationary in its effect? (2013)
+a) Repayment of public debt
+b) Borrowing from the public to finance a budget deficit
+c) Borrowing from banks to finance a budget deficit
+d) Creating new money to finance a budget deficit
+#QuestionEnd
+#AnswerStart
+Answer: d) Creating new money to finance a budget deficit
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: (2013)
+1. Inflation benefits the debtors.
+2. Inflation benefits the bondholders.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q10) In India, deficit financing is used for raising resources for: (2013)
+a) economic development
+b) redemption of public debt
+c) adjusting the balance of payments
+d) reducing the foreign debt
+#QuestionEnd
+#AnswerStart
+Answer: a) economic development
+#AnswerEnd
+
+#QuestionStart
+Q11) In India the overall Index of Industrial Production, the Indices of Eight Core Industries have a combined weight of 37.90%. Which of the following are among those Eight Core Industries? (2012)
+1. Cement
+2. Fertilizers
+3. Natural Gas
+4. Refinery products
+5. Textiles
+Select the correct answer using the code given below:
+a) 1 and 5 only
+b) 2, 3 and 4 only
+c) 1, 2, 3 and 4 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Economic growth is usually coupled with (2011)
+a) Deflation
+b) Inflation
+c) Stagflation
+d) Hyperinflation
+#QuestionEnd
+#AnswerStart
+Answer: b) Inflation
+#AnswerEnd
+
+#QuestionStart
+Q13) A rapid increase in the rate of inflation is sometimes attributed to the “base effect”. What is “base effect”? (2011)
+a) It is the impact of drastic deficiency in supply due to failure of crops.
+b) It is the impact of the surge in demand due to rapid economic growth.
+c) It is the impact of the price levels of previous year on the calculation of inflation rate.
+d) None of the statements (a), (b) and (c) given above is correct in this context.
+#QuestionEnd
+#AnswerStart
+Answer: c) It is the impact of the price levels of previous year on the calculation of inflation rate.
+#AnswerEnd

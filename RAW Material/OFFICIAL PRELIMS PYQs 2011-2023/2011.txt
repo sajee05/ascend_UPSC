@@ -1,0 +1,1225 @@
+#QuestionStart
+Q1) In the Union Budget 2011-12, a full exemption from the basic customs duty was extended to the bio-based asphalt (bioasphalt). What is the importance of this material ?
+(i) Unlike traditional asphalt, bio-asphalt is not based on fossil fuels.
+(ii) Bioasphalt can be made from non-renewable resources.
+(iii) Bioasphalt can be made from organic waste materials.
+(iv) It is eco-friendly to use bioasphalt for surfacing of the roads.
+Which of the statements given above are correct ? - 2011
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following :
+(i) Carbon dioxide
+(ii) Oxides of Nitrogen
+(iii) Oxides of Sulphur
+Which of the above is/are the emission/ emissions from coal combustion at thermal power plants ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when :
+(i) The orbit is geosynchronous.
+(ii) The orbit is circular.
+(iii) The orbit lies in the plane of the Earth’s equator.
+(iv) The orbit is at an altitude of 22,236 km.
+Select the correct answer using the codes given below : - 2011
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q4) India has experienced persistent and high food inflation in the recent past. What could be the reasons ?
+(i) Due to a gradual switchover to the cultivation of commercial crops, the area under the cultivation of food grains has steadily decreased in the last five years by about 30%.
+(ii) As a consequence of increasing incomes, the consumption patterns of the people have undergone a significant change.
+(iii) The food supply chain has structural constraints.
+Which of the statements given above are correct ? - 2011
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q5) At present, scientists can determine the arrangement or relative positions of genes or DNA sequences on a chromosome. How does this knowledge benefit us ?
+(i) It is possible to know the pedigree of livestock.
+(ii) It is possible to understand the causes of all human diseases.
+(iii) It is possible to develop disease-resistant animal breeds.
+Which of the statements given above is/are correct ? - 2011
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q6) In terms of economy, the visit by foreign nationals to witness the XIX Common Wealth Games in India amounted to - 2011
+a) Export
+b) Import
+c) Production
+d) Consumption
+#QuestionEnd
+#AnswerStart
+Answer: a) Export
+#AnswerEnd
+#QuestionStart
+Q7) Microbial fuel cells are considered a source of sustainable energy. Why ?
+(i) They use living organisms as catalysts to generate electricity from certain substrates.
+(ii) They use a variety of inorganic materials as substrates.
+(iii) They can be installed in waste water treatment plants to cleanse water and produce electricity.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following statements appropriately describes the “fiscal stimulus” ? - 2011
+a) It is a massive investment by the Government in manufacturing sector to ensure the supply of goods to meet the demand surge caused by rapid economic growth
+b) It is an intense affirmative action of the Government to boost economic activity in the country
+c) It is Government's intensive action on financial institutions to ensure disbursement of loans to agriculture and allied sectors to promote greater food production and contain food inflation
+d) It is an extreme affirmative action by the Government to pursue its policy of financial inclusion
+#QuestionEnd
+#AnswerStart
+Answer: b) It is an intense affirmative action of the Government to boost economic activity in the country
+#AnswerEnd
+#QuestionStart
+Q9) The formation of ozone hole in the Antarctic region has been a cause of concern. What could be the reason for the formation of this hole ? - 2011
+a) Presence of prominent tropospheric turbulence; and inflow of chlorofluorocarbons
+b) Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons
+c) Absence of polar front and stratospheric clouds; and inflow of methane and chlorofluorocarbons
+d) Increased temperature at polar region due to global warming
+#QuestionEnd
+#AnswerStart
+Answer: b) Presence of prominent polar front and stratospheric clouds; and inflow of chlorofluorocarbons
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following actions which the Government can take :
+(i) Devaluing the domestic currency.
+(ii) Reduction in the export subsidy.
+(iii) Adopting suitable policies which attract greater FDI and more funds from FIIs.
+Which of the above action/actions can help in reducing the current account deficit ? - 2011
+a) 1 and 2
+b) 2 and 3
+c) 3 only
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q11) The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following ?
+(i) Constitution of District Planning Committees.
+(ii) State Election Commissions to conduct all panchayat elections.
+(iii) Establishment of State Finance Commissions.
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q12) Two important rivers — one with its source in Jharkhand (and known by a different name in Odisha), and another, with its source in Odisha — merge at a place only a short distance from the coast of Bay of Bengal before flowing into the sea. This is an important site of wildlife and biodiversity and a protected area. Which one of the following could be this ? - 2011
+a) Bhitarkanika
+b) Chandipur-on-sea
+c) Gopalpur-on-sea
+d) Simlipal
+#QuestionEnd
+#AnswerStart
+Answer: a) Bhitarkanika
+#AnswerEnd
+#QuestionStart
+Q13) A rapid increase in the rate of inflation is sometimes attributed to the “base effect”. What is “base effect” ? - 2011
+a) It is the impact of drastic deficiency in supply due to failure of crops
+b) It is the impact of the surge in demand due to rapid economic growth
+c) It is the impact of the price levels of previous year on the calculation of inflation rate
+d) None of the statements (a), (b) and (c) given above is correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: c) It is the impact of the price levels of previous year on the calculation of inflation rate
+#AnswerEnd
+#QuestionStart
+Q14) India is regarded as a country with “Demographic Dividend”. This is due to - 2011
+a) Its high population in the age group below 15 years
+b) Its high population in the age group of 15- 64 years
+c) Its high population in the age group above 65 years
+d) Its high total population
+#QuestionEnd
+#AnswerStart
+Answer: b) Its high population in the age group of 15- 64 years
+#AnswerEnd
+#QuestionStart
+Q15) Regarding “carbon credits”, which one of the following statements is not correct ? - 2011
+a) The carbon credit system was ratified in conjunction with the Kyoto Protocol
+b) Carbon credits are awarded to countries or groups that have reduced greenhouse gases below their emission quota
+c) The goal of the carbon credit system is to limit the increase of carbon dioxide emission
+d) Carbon credits are traded at a price fixed from time to time by the United Nations Environment Programme
+#QuestionEnd
+#AnswerStart
+Answer: c) The goal of the carbon credit system is to limit the increase of carbon dioxide emission
+#AnswerEnd
+#QuestionStart
+Q16) Which one of the following is not a feature of “Value Added Tax” ? - 2011
+a) It is a multi-point destination-based system of taxation
+b) It is a tax levied on value addition at each stage of transaction in the production-distribution chain
+c) It is a tax on the final consumption of goods or services and must ultimately be borne by the consumer
+d) It is basically a subject of the Central Government and the State Governments are only a facilitator for its successful implementation
+#QuestionEnd
+#AnswerStart
+Answer: d) It is basically a subject of the Central Government and the State Governments are only a facilitator for its successful implementation
+#AnswerEnd
+#QuestionStart
+Q17) A “closed economy” is an economy in which - 2011
+a) the money supply is fully controlled
+b) deficit financing takes place
+c) only exports take place
+d) neither exports nor imports take place
+#QuestionEnd
+#AnswerStart
+Answer: d) neither exports nor imports take place
+#AnswerEnd
+#QuestionStart
+Q18) When the bark of a tree is removed in a circular fashion all around near its base, it gradually dries up and dies because - 2011
+a) Water from soil cannot rise to aerial parts
+b) Roots are starved of energy
+c) Tree is infected by soil microbes
+d) Roots do not receive oxygen for respiration
+#QuestionEnd
+#AnswerStart
+Answer: b) Roots are starved of energy
+#AnswerEnd
+#QuestionStart
+Q19) The “New START” treaty was in the news. What is this treaty ? - 2011
+a) It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation
+b) It is a multilateral energy security cooperation treaty among the members of the East Asia Summit
+c) It is a treaty between the Russian Federation and the European Union for the energy security cooperation
+d) It is a multilateral cooperation treaty among the BRICS countries for the promotion of trade
+#QuestionEnd
+#AnswerStart
+Answer: a) It is a bilateral strategic nuclear arms reduction treaty between the USA and the Russian Federation
+#AnswerEnd
+#QuestionStart
+Q20) Three of the following criteria have contributed to the recognition of Western Ghats-Sri Lanka and Indo-Burma regions as hotspots of biodiversity :
+(i) Species richness
+(ii) Vegetation density
+(iii) Endemism
+(iv) Ethno-botanical importance
+(v) Threat perception
+(vi) Adaptation of flora and fauna to warm and humid conditions
+Which three of the above are correct criteria in this context ? - 2011
+a) 1, 2 and 6
+b) 2, 4 and 6
+c) 1, 3 and 5
+d) 3, 4 and 6
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5
+#AnswerEnd
+#QuestionStart
+Q21) Human activities in the recent past have caused the increased concentration of carbon dioxide in the atmosphere, but a lot of it does not remain in the lower atmosphere because of
+(i) its escape into the outer stratosphere.
+(ii) the photosynthesis by phytoplankton in the oceans.
+(iii) the trapping of air in the polar ice caps.
+Which of the statements given above is/are correct ? - 2011
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q22) In the context of ecosystem productivity, marine upwelling zones are important as they increase the marine productivity by bringing the
+(i) decomposer microorganisms to the surface.
+(ii) nutrients to the surface.
+(iii) bottom-dwelling organisms to the surface.
+Which of the statements given above is/are correct ? - 2011
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q23) If a tropical rain forest is removed, it does not regenerate quickly as compared to a tropical deciduous forest. This is because - 2011
+a) the soil of rain forest is deficient in nutrients
+b) propagules of the trees in a rain forest have poor viability
+c) the rain forest species are slow-growing
+d) exotic species invade the fertile soil of rain forest
+#QuestionEnd
+#AnswerStart
+Answer: a) the soil of rain forest is deficient in nutrients
+#AnswerEnd
+#QuestionStart
+Q24) The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this phenomenon ? - 2011
+a) It has a high rainfall that supports luxuriant vegetative growth
+b) It is a confluence of different bio-geographical zones
+c) Exotic and invasive species have not been introduced in this region
+d) It has less human interference
+#QuestionEnd
+#AnswerStart
+Answer: b) It is a confluence of different bio-geographical zones
+#AnswerEnd
+#QuestionStart
+Q25) With reference to India, consider the following Central Acts :
+(i) Import and Export (Control) Act, 1947
+(ii) Mining and Mineral Development (Regulation) Act, 1957
+(iii) Customs Act, 1962
+(iv) Indian Forest Act, 1927
+Which of the above Acts have relevance to/bearing on the biodiversity conservation in the country ? - 2011
+a) 1 and 3 only
+b) 2, 3 and 4 only
+c) 1, 2, 3 and 4
+d) None of the above Acts
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q26) Karl Marx explained the process of class struggle with the help of which one of the following theories ? - 2011
+a) Empirical liberalism
+b) Existentialism
+c) Darwin’s theory of evolution
+d) Dialectical materialism
+#QuestionEnd
+#AnswerStart
+Answer: d) Dialectical materialism
+#AnswerEnd
+#QuestionStart
+Q27) A layer in the Earth’s atmosphere called Ionosphere facilitates radio communication. Why ?
+(i) The presence of ozone causes the reflection of radio waves to Earth.
+(ii) Radio waves have a very long wavelength.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q28) Both Foreign Direct Investment (FDI) and Foreign Institutional Investor (FII) are related to investment in a country. Which one of the following statements best represents an important difference between the two ? - 2011
+a) FII helps bring better management skills and technology, while FDI only brings in capital
+b) FII helps in increasing capital availability in general, while FDI only targets specific sectors
+c) FDI flows only into the secondary market, while FII targets primary market
+d) FII is considered to be more stable than FDI
+#QuestionEnd
+#AnswerStart
+Answer: b) FII helps in increasing capital availability in general, while FDI only targets specific sectors
+#AnswerEnd
+#QuestionStart
+Q29) A genetically engineered form of brinjal, known as the Bt-brinjal, has been developed. The objective of this is - 2011
+a) To make it pest-resistant
+b) To improve its taste and nutritive qualities
+c) To make it drought-resistant
+d) To make its shelf-life longer
+#QuestionEnd
+#AnswerStart
+Answer: a) To make it pest-resistant
+#AnswerEnd
+#QuestionStart
+Q30) With reference to “Aam Admi Bima Yojana”, consider the following statements :
+(i) The member insured under the scheme must be the head of the family or an earning member of the family in a rural landless household.
+(ii) The member insured must be in the age group of 30 to 65 years.
+(iii) There is a provision for free scholarship for up to two children of the insured who are studying between classes 9 and 12.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q31) In the context of global oil prices, “Brent crude oil” is frequently referred to in the news. What does this term imply ?
+(i) It is a major classification of crude oil.
+(ii) It is sourced from North Sea.
+(iii) It does not contain sulphur.
+Which of the statements given above is/are correct ? - 2011
+a) 2 only
+b) 1 and 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q32) The function of heavy water in a nuclear reactor is to - 2011
+a) Slow down the speed of neutrons
+b) Increase the speed of neutrons
+c) Cool down the reactor
+d) Stop the nuclear reaction
+#QuestionEnd
+#AnswerStart
+Answer: a) Slow down the speed of neutrons
+#AnswerEnd
+#QuestionStart
+Q33) In India, if a religious sect/community is given the status of a national minority, what special advantages it is entitled to ?
+(i) It can establish and administer exclusive educational institutions.
+(ii) The President of India automatically nominates a representative of the community to Lok Sabha.
+(iii) It can derive benefits from the Prime Minister’s 15-Point Programme.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q34) India is home to lakhs of persons with disabilities. What are the benefits available to them under the law ?
+(i) Free schooling till the age of 18 years in government-run schools.
+(ii) Preferential allotment of land for setting up business.
+(iii) Ramps in public buildings.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q35) With what purpose is the Government of India promoting the concept of “Mega Food Parks” ?
+(i) To provide good infrastructure facilities for the food processing industry.
+(ii) To increase the processing of perishable items and reduce wastage.
+(iii) To provide emerging and eco-friendly food processing technologies to entrepreneurs.
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q36) The authorization for the withdrawal of funds from the Consolidated Fund of India must come from - 2011
+a) The President of India
+b) The Parliament of India
+c) The Prime Minister of India
+d) The Union Finance Minister
+#QuestionEnd
+#AnswerStart
+Answer: b) The Parliament of India
+#AnswerEnd
+#QuestionStart
+Q37) All revenues received by the Union Government by way of taxes and other receipts for the conduct of Government business are credited to the - 2011
+a) Contingency Fund of India
+b) Public Account
+c) Consolidated Fund of India
+d) Deposits and Advances Fund
+#QuestionEnd
+#AnswerStart
+Answer: c) Consolidated Fund of India
+#AnswerEnd
+#QuestionStart
+Q38) Microfinance is the provision of financial services to people of low-income groups. This includes both the consumers and the self-employed. The service/services rendered under microfinance is/are :
+(i) Credit facilities
+(ii) Savings facilities
+(iii) Insurance facilities
+(iv) Fund Transfer facilities
+Select the correct answer using the codes given below the lists : - 2011
+a) 1 only
+b) 1 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q39) Southeast Asia has captivated the attention of global community over space and time as a geostrategically significant region. Which among the following is the most convincing explanation for this global perspective ? - 2011
+a) It was the hot theatre during the Second World War
+b) Its location between the Asian powers of China and India
+c) It was the arena of superpower confrontation during the Cold War period
+d) Its location between the Pacific and Indian oceans and its pre-eminent maritime character
+#QuestionEnd
+#AnswerStart
+Answer: d) Its location between the Pacific and Indian oceans and its pre-eminent maritime character
+#AnswerEnd
+#QuestionStart
+Q40) A company marketing food products advertises that its items do not contain trans-fats. What does this campaign signify to the customers ?
+(i) The food products are not made out of hydrogenated oils.
+(ii) The food products are not made out of animal fats/oils.
+(iii) The oils used are not likely to damage the cardiovascular health of the consumers.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q41) Among the following who are eligible to benefit from the “Mahatma Gandhi National Rural Employment Guarantee Act” ? - 2011
+a) Adult members of only the scheduled caste and scheduled tribe households
+b) Adult members of below poverty line (BPL) households
+c) Adult members of households of all backward communities
+d) Adult members of any household
+#QuestionEnd
+#AnswerStart
+Answer: d) Adult members of any household
+#AnswerEnd
+#QuestionStart
+Q42) With reference to “Look East Policy” of India, consider the following statements :
+(i) India wants to establish itself as an important regional player in the East Asian affairs.
+(ii) India wants to plug the vacuum created by the termination of Cold War.
+(iii) India wants to restore the historical and cultural ties with its neighbours in Southeast and East Asia.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 1 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q43) When the annual Union Budget is not passed by the Lok Sabha, - 2011
+a) the Budget is modified and presented again
+b) the Budget is referred to the Rajya Sabha for suggestions
+c) the Union Finance Minister is asked to resign
+d) the Prime Minister submits the resignation of Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: d) the Prime Minister submits the resignation of Council of Ministers
+#AnswerEnd
+#QuestionStart
+Q44) Under the Constitution of India, which one of the following is not a fundamental duty ? - 2011
+a) To vote in public elections
+b) To develop the scientific temper
+c) To safeguard public property
+d) To abide by the Constitution and respect its ideals
+#QuestionEnd
+#AnswerStart
+Answer: a) To vote in public elections
+#AnswerEnd
+#QuestionStart
+Q45) With reference to the Finance Commission of India, which of the following statements is correct ? - 2011
+a) It encourages the inflow of foreign capital for infrastructure development
+b) It facilitates the proper distribution of finances among the Public Sector Undertakings
+c) It ensures transparency in financial administration
+d) None of the statements (a), (b) and (c) given above is correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the statements (a), (b) and (c) given above is correct in this context
+#AnswerEnd
+#QuestionStart
+Q46) Consider the following :
+(i) Right to education.
+(ii) Right to equal access to public service.
+(iii) Right to food.
+Which of the above is/are Human Right/Human Rights under “Universal Declaration of Human Rights” ? - 2011
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q47) There is a concern over the increase in harmful algal blooms in the seawaters of India. What could be the causative factors for this phenomenon ?
+(i) Discharge of nutrients from the estuaries.
+(ii) Run-off from the land during the monsoon.
+(iii) Upwelling in the seas.
+Select the correct answer from the codes given below : - 2011
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q48) Consider the following :
+(i) Photosynthesis
+(ii) Respiration
+(iii) Decay of organic matter
+(iv) Volcanic action
+Which of the above add carbon dioxide to the carbon cycle on Earth ? - 2011
+a) 1 and 4 only
+b) 2 and 3 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q49) Recently, the USA decided to support India’s membership in multi-lateral export control regimes called the “Australia Group” and the “Wassenaar Arrangement”. What is the difference between them ?
+(i) The Australia Group is an informal arrangement which aims to allow exporting countries to minimize the risk of assisting chemical and biological weapons proliferation, whereas the Wassenaar Arrangement is a formal group under the OECD holding identical objectives.
+(ii) The Australia Group comprises predominantly of Asian, African and North American countries, whereas the member countries of Wassenaar Arrangement are predominantly from the European Union and American continents.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q50) The surface of a lake is frozen in severe winter, but the water at its bottom is still liquid. What is the reason ? - 2011
+a) Ice is a bad conductor of heat
+b) Since the surface of the lake is at the same temperature as the air, no heat is lost
+c) The density of water is maximum at 4°C
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Ice is a bad conductor of heat
+#AnswerEnd
+#QuestionStart
+Q51) A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area but its existence is threatened due to the destruction of its habitat. Which one of the following could be that animal ? - 2011
+a) Indian wild buffalo
+b) Indian wild ass
+c) Indian wild boar
+d) Indian gazelle
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian wild ass
+#AnswerEnd
+#QuestionStart
+Q52) La Niña is suspected to have caused recent floods in Australia. How is La Niña different from El Niño ?
+(i) La Niña is characterised by unusually cold ocean temperature in equatorial Indian Ocean whereas El Niño is characterised by unusually warm ocean temperature in the equatorial Pacific Ocean.
+(ii) El Niño has adverse effect on south-west monsoon of India, but La Niña has no effect on monsoon climate.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q53) The tendency for increased litigation was visible after the introduction of the land settlement system of Lord Cornwallis in 1793. The reason for this is normally traced to which of the following provisions ? - 2011
+a) Making Zamindar’s position stronger vis-à-vis the ryot
+b) Making East India Company an overlord of Zamindars
+c) Making judicial system more efficient
+d) None of the (a), (b) and (c) above
+#QuestionEnd
+#AnswerStart
+Answer: c) Making judicial system more efficient
+#AnswerEnd
+#QuestionStart
+Q54) Which one of the following observations is not true about the Quit India Movement of 1942 ? - 2011
+a) It was a non-violent movement
+b) It was led by Mahatma Gandhi
+c) It was a spontaneous movement
+d) It did not attract the labour class in general
+#QuestionEnd
+#AnswerStart
+Answer: b) It was led by Mahatma Gandhi
+#AnswerEnd
+#QuestionStart
+Q55) Which amongst the following provided a common factor for tribal insurrection in India in the 19th century ? - 2011
+a) Introduction of a new system of land revenue and taxation of tribal products
+b) Influence of foreign religious missionaries in tribal areas
+c) Rise of a large number of money lenders, traders and revenue farmers as middlemen in tribal areas
+d) The complete disruption of the old agrarian order of the tribal communities
+#QuestionEnd
+#AnswerStart
+Answer: d) The complete disruption of the old agrarian order of the tribal communities
+#AnswerEnd
+#QuestionStart
+Q56) India maintained its early cultural contacts and trade links with Southeast Asia across the Bay of Bengal. For this pre-eminence of early maritime history of Bay of Bengal, which of the following could be the most convincing explanation/explanations ? - 2011
+a) As compared to other countries, India had a better ship-building technology in ancient and medieval times
+b) The rulers of southern India always patronized traders, brahmin priests and buddhist monks in this context
+c) Monsoon winds across the Bay of Bengal facilitated sea voyages
+d) Both (a) and (b) are convincing explanations in this context
+#QuestionEnd
+#AnswerStart
+Answer: c) Monsoon winds across the Bay of Bengal facilitated sea voyages
+#AnswerEnd
+#QuestionStart
+Q57) What is the difference between Bluetooth and Wi-Fi devices ?
+(a) Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band
+(b) Bluetooth is used for Wireless Local Area Networks (WLAN) only, whereas Wi-Fi is used for Wireless Wide Area Networks (WWAN) only
+(c) When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other
+(d) The statements (a) and (b) given above are correct in this context - 2011
+a) Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band
+b) Bluetooth is used for Wireless Local Area Networks (WLAN) only, whereas Wi-Fi is used for Wireless Wide Area Networks (WWAN) only
+c) When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other
+d) The statements (a) and (b) given above are correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: a) Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band
+#AnswerEnd
+#QuestionStart
+Q58) With reference to micro-irrigation, which of the following statements is/are correct ?
+(i) Fertilizer/nutrient loss can be reduced.
+(ii) It is the only means of irrigation in dry land farming.
+(iii) In some areas of farming, receding of ground water table can be checked.
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q59) With reference to the period of colonial rule in India, “Home Charges” formed an important part of drain of wealth from India. Which of the following funds constituted “Home Charges” ?
+(i) Funds used to support the India Office in London.
+(ii) Funds used to pay salaries and pensions of British personnel engaged in India.
+(iii) Funds used for waging wars outside India by the British.
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q60) What was the reason for Mahatma Gandhi to organize a satyagraha on behalf of the peasants of Kheda ?
+(i) The Administration did not suspend the land revenue collection in spite of a drought.
+(ii) The Administration proposed to introduce Permanent Settlement in Gujarat.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q61) Biodiversity forms the basis for human existence in the following ways :
+(i) Soil formation
+(ii) Prevention of soil erosion
+(iii) Recycling of waste
+(iv) Pollination of crops
+Select the correct answer using the codes given below. - 2011
+a) 1, 2 and 3 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q62) Aspartame is an artificial sweetener sold in the market. It consists of amino acids and provides calories like other amino acids. Yet, it is used as a low-calorie sweetening agent in food items. What is the basis of this use ? - 2011
+a) Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to lack of requisite enzymes
+b) When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation
+c) Aspartame is as sweet as sugar, but after ingestion into the body, it is converted into metabolites that yield no calories
+d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation
+#QuestionEnd
+#AnswerStart
+Answer: c) Aspartame is as sweet as sugar, but after ingestion into the body, it is converted into metabolites that yield no calories
+#AnswerEnd
+#QuestionStart
+Q63) What was the purpose with which Sir William Wedderburn and W. S. Caine had set up the Indian Parliamentary Committee in 1893 ? - 2011
+a) To agitate for Indian political reforms in the House of Commons
+b) To campaign for the entry of Indians into the Imperial Judiciary
+c) To facilitate a discussion on India’s Independence in the British Parliament
+d) To agitate for the entry of eminent Indians into the British Parliament
+#QuestionEnd
+#AnswerStart
+Answer: a) To agitate for Indian political reforms in the House of Commons
+#AnswerEnd
+#QuestionStart
+Q64) What is the difference between a CFL and an LED lamp ?
+(i) To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material.
+(ii) The average life span of a CFL is much longer than that of an LED lamp.
+(iii) A CFL is less energy-efficient as compared to an LED lamp.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q65) Recently, “oilzapper” was in the news. What is it ? - 2011
+a) It is an eco-friendly technology for the remediation of oily sludge and oil spills
+b) It is the latest technology developed for under sea oil exploration
+c) It is a genetically engineered high biofuel yielding maize variety
+d) It is the latest technology to control the accidentally caused flames from oil wells
+#QuestionEnd
+#AnswerStart
+Answer: a) It is an eco-friendly technology for the remediation of oily sludge and oil spills
+#AnswerEnd
+#QuestionStart
+Q66) A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and O negative. The blood group of the three sons is A positive, B positive, and O positive. The blood group of the adopted son is - 2011
+a) O positive
+b) A positive
+c) B positive
+d) Cannot be determined on the basis of the given data
+#QuestionEnd
+#AnswerStart
+Answer: a) O positive
+#AnswerEnd
+#QuestionStart
+Q67) Mahatma Gandhi said that some of his deepest convictions were reflected in a book titled, “Unto this Last” and the book transformed his life. What was the message from the book that transformed Mahatma Gandhi ? - 2011
+a) Uplifting the oppressed and poor is the moral responsibility of an educated man
+b) The good of individual is contained in the good of all
+c) The life of celibacy and spiritual pursuit are essential for a noble life
+d) All the statements (a), (b) and (c) are correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: b) The good of individual is contained in the good of all
+#AnswerEnd
+#QuestionStart
+Q68) With reference to Indian freedom struggle, Usha Mehta is well-known for - 2011
+a) Running the secret Congress Radio in the wake of Quit India Movement
+b) Participating in the Second Round Table Conference
+c) Leading a contingent of Indian National Army
+d) Assisting in the formation of Interim Government under Pandit Jawaharlal Nehru
+#QuestionEnd
+#AnswerStart
+Answer: a) Running the secret Congress Radio in the wake of Quit India Movement
+#AnswerEnd
+#QuestionStart
+Q69) A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In what way is it different from the traditional DVD ?
+(i) DVD supports Standard Definition video while BD supports High Definition video.
+(ii) Compared to a DVD, the BD format has several times more storage capacity.
+(iii) Thickness of BD is 2.4 mm while that of DVD is 1.2 mm.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q70) With reference to the period of Indian freedom struggle, which of the following was/were recommended by the Nehru report ?
+(i) Complete Independence for India.
+(ii) Joint electorates for reservation of seats for minorities.
+(iii) Provision of fundamental rights for the people of India in the Constitution.
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q71) Among the following States, which one has the most suitable climatic conditions for the cultivation of a large variety of orchids with minimum cost of production, and can develop an export oriented industry in this field ? - 2011
+a) Andhra Pradesh
+b) Arunachal Pradesh
+c) Madhya Pradesh
+d) Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b) Arunachal Pradesh
+#AnswerEnd
+#QuestionStart
+Q72) Which one of the following is not a site for in-situ method of conservation of flora ? - 2011
+a) Biosphere Reserve
+b) Botanical Garden
+c) National Park
+d) Wildlife Sanctuary
+#QuestionEnd
+#AnswerStart
+Answer: b) Botanical Garden
+#AnswerEnd
+#QuestionStart
+Q73) Consider the following statements :
+In India, a Metropolitan Planning Committee - 2011
+(i) is constituted under the provisions of the Constitution of India.
+(ii) prepares the draft development plans for metropolitan area.
+(iii) has the sole responsibility for implementing Government sponsored schemes in the metropolitan area.
+Which of the statements given above is/are correct ?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q74) What is the difference between “vote-on-account” and “interim budget” ?
+(i) The provision of a “vote-on-account” is used by a regular Government, while an “interim budget” is a provision used by a caretaker Government.
+(ii) A “vote-on-account” only deals with the expenditure in Government’s budget, while an “interim budget” includes both expenditure and receipts.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q75) The Reserve Bank of India (RBI) acts as a bankers’ bank. This would imply which of the following ?
+(i) Other banks retain their deposits with the RBI.
+(ii) The RBI lends funds to the commercial banks in times of need.
+(iii) The RBI advises the commercial banks on monetary matters.
+Select the correct answer using the codes given below : - 2011
+a) 2 and 3 only
+b) 1 and 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q76) Under which of the following circumstances may ‘capital gains’ arise ?
+(i) When there is an increase in the sales of a product
+(ii) When there is a natural increase in the value of the property owned
+(iii) When you purchase a painting and there is a growth in its value due to increase in its popularity
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q77) Which of the following measures would result in an increase in the money supply in the economy ?
+(i) Purchase of government securities from the public by the Central Bank
+(ii) Deposit of currency in commercial banks by the public
+(iii) Borrowing by the government from the Central Bank
+(iv) Sale of government securities to the public by the Central Bank
+Select the correct answer using the codes given below : - 2011
+a) 1 only
+b) 2 and 4 only
+c) 1 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+#QuestionStart
+Q78) Which of the following would include Foreign Direct Investment in India ?
+(i) Subsidiaries of foreign companies in India
+(ii) Majority foreign equity holding in Indian companies
+(iii) Companies exclusively financed by foreign companies
+(iv) Portfolio investment
+Select the correct answer using the codes given below : - 2011
+a) 1, 2, 3 and 4
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q79) Consider the following statements :
+The price of any currency in international market is decided by the
+(i) World Bank
+(ii) demand for goods/services provided by the country concerned
+(iii) stability of the government of the concerned country
+(iv) economic potential of the country in question
+Which of the statements given above are correct ? - 2011
+a) 1, 2, 3 and 4
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q80) The basic aim of Lead Bank Scheme is that - 2011
+a) big banks should try to open offices in each district
+b) there should be stiff competition among the various nationalized banks
+c) individual banks should adopt particular districts for intensive development
+d) all the banks should make intensive efforts to mobilize deposits
+#QuestionEnd
+#AnswerStart
+Answer: c) individual banks should adopt particular districts for intensive development
+#AnswerEnd
+#QuestionStart
+Q81) Consider the following :
+(i) Assessment of land revenue on the basis of nature of the soil and the quality of crops
+(ii) Use of mobile cannons in warfare
+(iii) Cultivation of tobacco and red chillies
+Which of the above was/were introduced into India by the English ? - 2011
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q82) With reference to the guilds (Shreni) of ancient India that played a very important role in the country’s economy, which of the following statements is/are correct ?
+(i) Every guild was registered with the central authority of the State and the king was the chief administrative authority on them.
+(ii) The wages, rules of work, standards and prices were fixed by the guild.
+(iii) The guild had judicial powers over its own members.
+Select the correct answer using the codes given below : - 2011
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q83) The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the - 2011
+a) Morley-Minto Reforms, 1909
+b) Montagu-Chelmsford Act, 1919
+c) Government of India Act, 1935
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) Government of India Act, 1935
+#AnswerEnd
+#QuestionStart
+Q84) Despite having large reserves of coal, why does India import millions of tonnes of coal ?
+(i) It is the policy of India to save its own coal reserves for future, and import it from other countries for the present use.
+(ii) Most of the power plants in India are coal-based and they are not able to get sufficient supplies of coal from within the country.
+(iii) Steel companies need large quantity of coking coal which has to be imported.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q85) A person stood alone in a desert on a dark night and wanted to reach his village which was situated 5 km east of the point where he was standing. He had no instruments to find the direction but he located the polestar. The most convenient way now to reach his village is to walk in the - 2011
+a) direction facing the polestar
+b) direction opposite to the polestar
+c) direction keeping the polestar to his left
+d) direction keeping the polestar to his right
+#QuestionEnd
+#AnswerStart
+Answer: c) direction keeping the polestar to his left
+#AnswerEnd
+#QuestionStart
+Q86) Recently, there has been a concern over the short supply of a group of elements called ‘rare earth metals’. Why ?
+(i) China, which is the largest producer of these elements, has imposed some restrictions on their export.
+(ii) Other than China, Australia, Canada and Chile, these elements are not found in any country.
+(iii) Rare earth metals are essential for the manufacture of various kinds of electronic items and there is a growing demand for these elements.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q87) Consider the following protected areas :
+(i) Bandipur
+(ii) Bhitarkanika
+(iii) Manas
+(iv) Sunderbans
+Which of the above are declared Tiger Reserves ? - 2011
+a) 1 and 2 only
+b) 1, 3 and 4 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q88) Consider the following statements :
+(i) The duration of the monsoon decreases from southern India to northern India.
+(ii) The amount of annual rainfall in the northern plains of India decreases from east to west.
+Which of the statements given above is/are correct ? - 2011
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q89) Which one of the following is the characteristic climate of the Tropical Savannah Region ? - 2011
+a) Rainfall throughout the year
+b) Rainfall in winter only
+c) An extremely short dry season
+d) A definite dry and wet season
+#QuestionEnd
+#AnswerStart
+Answer: d) A definite dry and wet season
+#AnswerEnd
+#QuestionStart
+Q90) In which one among the following categories of protected areas in India are local people not allowed to collect and use the biomass ? - 2011
+a) Biosphere Reserves
+b) National Parks
+c) Wetlands declared under Ramsar Convention
+d) Wildlife Sanctuaries
+#QuestionEnd
+#AnswerStart
+Answer: b) National Parks
+#AnswerEnd
+#QuestionStart
+Q91) Consider the following kinds of organisms :
+(i) Bat
+(ii) Bee
+(iii) Bird
+Which of the above is/are pollinating agent/agents? - 2011
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q92) Which one of the following groups of animals belongs to the category of endangered species ? - 2011
+a) Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass
+b) Kashmir Stag, Cheetal, Blue Bull and Great Indian Bustard
+c) Snow Leopard, Swamp Deer, Rhesus Monkey and Saras (Crane)
+d) Lion-tailed Macaque, Blue Bull, Hanuman Langur and Cheetal
+#QuestionEnd
+#AnswerStart
+Answer: a) Great Indian Bustard, Musk Deer, Red Panda and Asiatic Wild Ass
+#AnswerEnd
+#QuestionStart
+Q93) Consider the following statements :
+If there were no phenomenon of capillarity
+(i) it would be difficult to use a kerosene lamp
+(ii) one would not be able to use a straw to consume a soft drink
+(iii) the blotting paper would fail to function
+(iv) the big trees that we see around would not have grown on the Earth
+Which of the statements given above are correct ? - 2011
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q94) The Millennium Ecosystem Assessment describes the following major categories of ecosystem services—provisioning, supporting, regulating, preserving and cultural. Which one of the following is supporting service ? - 2011
+a) Production of food and water
+b) Control of climate and disease
+c) Nutrient cycling and crop pollination
+d) Maintenance of diversity
+#QuestionEnd
+#AnswerStart
+Answer: c) Nutrient cycling and crop pollination
+#AnswerEnd
+#QuestionStart
+Q95) What is the difference between the antelopes Oryx and Chiru? - 2011
+a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains
+b) Oryx is poached for its antlers whereas Chiru is poached for its musk
+c) Oryx exists in western India only whereas Chiru exists in north-east India only
+d) None of the statements (a), (b) and (c) given above is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains
+#AnswerEnd
+#QuestionStart
+Q96) Which of the following can be threats to the biodiversity of a geographical area ?
+(i) Global warming
+(ii) Fragmentation of habitat
+(iii) Invasion of alien species
+(iv) Promotion of vegetarianism
+Select the correct answer using the codes given below : - 2011
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q97) Consider the following :
+(i) Black-necked crane
+(ii) Cheetah
+(iii) Flying squirrel
+(iv) Snow leopard
+Which of the above are naturally found in India? - 2011
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q98) Consider the following agricultural practices :
+(i) Contour bunding
+(ii) Relay cropping
+(iii) Zero tillage
+In the context of global climate change, which of the above helps/help in carbon sequestration/storage in the soil ? - 2011
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+#QuestionStart
+Q99) What would happen if phytoplankton of an ocean is completely destroyed for some reason?
+(i) The ocean as a carbon sink would be adversely affected.
+(ii) The food chains in the ocean would be adversely affected.
+(iii) The density of ocean water would drastically decrease.
+Select the correct answer using the codes given below : - 2011
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q100) Vultures which used to be very common in Indian countryside some years ago are rarely seen nowadays. This is attributed to - 2011
+a) the destruction of their nesting sites by new invasive species
+b) a drug used by cattle owners for treating their diseased cattle
+c) scarcity of food available to them
+d) a widespread, persistent and fatal disease among them
+#QuestionEnd
+#AnswerStart
+Answer: b) a drug used by cattle owners for treating their diseased cattle
+#AnswerEnd

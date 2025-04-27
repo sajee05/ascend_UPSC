@@ -1,0 +1,130 @@
+#QuestionStart
+Q1) With reference to the ‘Banks Board Bureau (BBB)’, which of the following statements are correct ? (2022)
+1. The Governor of RBI is the Chairman of BBB.
+2. BBB recommends for the selection of heads for Public Sector Banks.
+3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.
+Select the correct answer using the code given below :
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: (2021)
+1. The Governor of the Reserve Bank of India (RBI) is appointed by the Central Government.
+2. Certain provisions in the Constitution of India give the Central Government the right to issue directions to the RBI in public interest.
+3. The Governor of the RBI draws his power from the RBI Act.
+Which of the above statements are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q3) What is the importance of the term “Interest Coverage Ratio” of a firm in India? (2020)
+1. It helps in understanding the present risk of a firm that a bank is going to give loan to.
+2. It helps in evaluating the emerging risk of a firm that a bank is going to give loan to.
+3. The higher a borrowing firm’s level of Interest Coverage Ratio, the worse is its ability to service its debt.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) What was the purpose of the Inter-Creditor Agreement signed by Indian banks and financial institutions recently?[2019]
+a) To lessen the Government of India's perennial burden of fiscal deficit and current account deficit
+b) To support the infrastructure projects of Central and State Governments
+c) To act as independent regulator in case of applications for loans of Rs 50 crore or more
+d) To aim at faster resolution of stressed assets of Rs 50 crore or more which are under consortium lending.
+#QuestionEnd
+#AnswerStart
+Answer: d) To aim at faster resolution of stressed assets of Rs 50 crore or more which are under consortium lending.
+#AnswerEnd
+
+#QuestionStart
+Q5) The Chairman of public sector banks are selected by the: (2019)
+a) Banks Board Bureau
+b) Reserve Bank of India
+c) Union Ministry of Finance
+d) Management of concerned bank
+#QuestionEnd
+#AnswerStart
+Answer: a) Banks Board Bureau
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the governance of public sector banking in India, consider the following statements: (2018)
+1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.
+2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements: (2018)
+1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account holders fail to repay dues.
+2. CAR is decided by each individual bank.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Which of the following statements best describes the term ‘Scheme for Sustainable Structuring of Stressed Assets (S4A)’, recently seen in the news? (2017)
+a) It is a procedure for considering ecological costs of developmental schemes formulated by the Government.
+b) It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.
+c) It is a disinvestment plan of the Government regarding Central Public Sector Undertakings.
+d) It is an important provision in ‘The Insolvency and Bankruptcy Code’ recently implemented by the Government.
+#QuestionEnd
+#AnswerStart
+Answer: b) It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties.
+#AnswerEnd
+
+#QuestionStart
+Q9) ‘Basel III Accord’ or simply ‘Basel III’, often seen in the news, seeks to: (2015)
+a) develop national strategies for the conservation and sustainable use of biological diversity
+b) improve banking sector’s ability to deal with financial and economic stress and improve risk management
+c) reduce the greenhouse gas emissions but places a heavier burden on developed countries
+d) transfer technology from developed Countries to poor countries to enable them to replace the use of chlorofluorocarbons in refrigeration with harmless chemicals
+#QuestionEnd
+#AnswerStart
+Answer: b) improve banking sector’s ability to deal with financial and economic stress and improve risk management
+#AnswerEnd
+
+#QuestionStart
+Q10) Why is the offering of “teaser loans” by commercial banks a cause of economic concern? (2011)
+1. The teaser loans are considered to be an aspect of subprime lending and banks may be exposed to the risk of defaulters in future.
+2. In India, the teaser loans are mostly given to inexperienced entrepreneurs to set up manufacturing or export units.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd

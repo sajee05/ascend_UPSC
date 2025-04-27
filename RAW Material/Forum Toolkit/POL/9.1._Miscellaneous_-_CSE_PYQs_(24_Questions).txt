@@ -1,0 +1,337 @@
+#QuestionStart
+Q1) With reference to Home Guards, consider the following statements:
+1. Home Guards are raised under the Home Guards Act and Rules of the Central Government.
+2. The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security.
+3. To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to India, consider the following pairs:
+| Action | The Act under which it is covered |
+|---|---|
+| 1. Unauthorized wearing of police or military uniforms | The Official Secrets Act, 1923 |
+| 2. Knowingly misleading: or otherwise interfering with a police officer or military officer when engaged in their duties | The Indian Evidence Act, 1872 |
+| 3. Celebratory gunfire which can endanger the personal safety of others | The Arms (Amendment) Act, 2019 |
+How many of the above pairs are correctly matched? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements in respect of the National Flag of India according to the Flag Code of India, 2002:
+Statement-I:
+One of the standard sizes of the National Flag of India is 600 mm x 400 mm.
+Statement-II:
+The ratio of the length to the height (width) of the Flag shall be 3:2.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-1
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-1 is correct but Statement-II is incorrect is incorrect
+d) Statement-1 is incorrect Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-1 is incorrect Statement-II is correct
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to anti-defection law in India, consider the following statements: [UPSC CSE Pre. 2022]
+1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.
+2. The law does not provide any time-frame within which the presiding officer has to decide a defection case.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to the “Tea Board” in India, consider the following statements:
+1. The Tea Board is a statutory body.
+2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare.
+3. The Tea Board’s Head Office is situated in Bengaluru.
+4. The Board has overseas office at Dubai and Moscow.
+Which of the statements given above are correct? [UPSC CSE Pre 2022]
+a) 1 and 3
+b) 2 and 4
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements:
+1. "Right to the city” is an agreed human right and the UN-Habitat monitors the Commitments made by each country in this regard.
+2. “Right to the City” gives every occupant of the city the right to reclaim public spaces and public participation in the city.
+3. “Right to the City” means that the State cannot deny any public service or facility to the unauthorized colonies in the city.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2021]
+a) 1 only
+b) 3 only
+c) 1 and 2
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements in respect of Bharat Ratna and Padma Awards: [UPSC CSE Pre. 2021]
+1. Bharat Ratna and Padma awards are titles under the Article 18 (1) of the Constitution of India.
+2. Padma Awards, which were instituted in the year 1954, were suspended only once.
+3. The number of Bharat Ratna Awards is restricted to a maximum of five in a particular year.
+Which of the above statements are not correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements: [UPSC CSE Pre. 2020]
+1. Aadhaar metadata cannot be stored for more than three months.
+2. State cannot enter into any contract with private corporations for sharing of Aadhaar data.
+3. Aadhaar is mandatory for obtaining insurance products.
+4. Aadhaar is mandatory for getting benefits funded out of the Consolidated Fund of India.
+Which of the statements given above is/are correct?
+a) 1 and 4 only
+b) 2 and 4 only
+c) 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Along with the Budget, the Finance Minister also places other documents before the Parliament which include “The Macro Economic Framework Statement’. The aforesaid document is presented because this is mandated by [UPSC CSE Pre. 2020]
+a) Long standing parliamentary convention
+b) Article 112 and Article 110(1) of the Constitution of India
+c) Article 113 of the Constitution of India
+d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#QuestionEnd
+#AnswerStart
+Answer: d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#AnswerEnd
+
+#QuestionStart
+Q10) One common agreement between Gandhism and Marxism is: [UPSC CSE Pre. 2020]
+a) the final goal of a stateless society
+b) class struggle
+c) abolition of private property
+d) economic determinism
+#QuestionEnd
+#AnswerStart
+Answer: a) the final goal of a stateless society
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: [UPSC CSE Pre. 2019]
+1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of ‘Office of Profit’.
+2. The above-mentioned Act was amended five times.
+3. The term ‘Office of Profit’ is well-defined in the Constitution of India.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q12) For election to the Lok Sabha, a nomination paper can be filed by: [UPSC CSE Pre. 2017]
+a) anyone residing in India.
+b) a resident of the constituency from which the election is to be contested.
+c) any citizen of India whose name appears in the electoral roll of a constituency.
+d) any citizen of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) any citizen of India whose name appears in the electoral roll of a constituency.
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: [UPSC CSE Pre. 2017]
+1. The Election Commission of India is a five-member body.
+2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.
+3. Election Commission resolves the disputes relating to splits/mergers of recognized political parties.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) The National Green Tribunal Act, 2010 was enacted in consonance with which of the following provisions of the Constitution of India? [UPSC CSE Pre. 2012]
+1. Right to healthy environment, construed as a part of Right to life under Article 21
+2. Provision of grants for raising the level of administration in the Scheduled Areas for the welfare of Scheduled Tribes under Article 275(1)
+3. Powers and functions of Gram Sabha as mentioned under Article 243(A)
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following statements: [UPSC CSE Pre. 2012]
+1. Union Territories are not represented in the Rajya Sabha.
+2. It is within the purview of the Chief Election Commissioner to adjudicate the election disputes.
+3. According to the Constitution of India, the Parliament consists of the Lok Sabha and the Rajya Sabha only.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to the Delimitation Commission, consider the following statements: [UPSC CSE Pre. 2012]
+1. The orders of the Delimitation Commission cannot be challenged in a Court of Law.
+2. When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, they cannot effect any modifications in the orders.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: [UPSC CSE Pre. 2011]
+1. Central Administrative Tribunal (CAT) was set up during the Prime Ministership of Lal Bahadur Shastri.
+2. The Members of CAT are drawn from both judicial and administrative streams.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following statements:
+1. The Commonwealth has no charter, treaty or constitution.
+2. All the territories/countries once under the British Empire (jurisdiction/rule/ mandate) automatically joined the Commonwealth as its members.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2010]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Which Article of the Constitution provides that ever y state shall endeavour to provide an adequate facility for instruction in mothertongue at primary stage of education? [UPSC CSE Pre 2001]
+a) Article 349
+b) Article 350
+c) Article 350-A
+d) Article 351
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 350-A
+#AnswerEnd
+
+#QuestionStart
+Q20) Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):
+Assertion (A): The reservation of thirty-three percent of seats for women in Parliament and State Legislature does not require a Constitutional amendment.
+Reason (R): Political parties contesting elections can allocate thirty-three percent of seats they contest to women candidates without any Constitutional amendment.
+In the context of the above two statements which one of the following is correct? [UPSC CSE Pre 1997]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true but, (R) is false.
+d) (A) is false hut, (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: d) (A) is false hut, (R) is true.
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following is not a principle of Panchsheel? [UPSC CSE Pre 1997]
+a) Non-alignment
+b) Peaceful Co-existence
+c) Mutual respect for each other’s territorial integrity and sovereignty
+d) Mutual non-interference in each other’s internal affairs
+#QuestionEnd
+#AnswerStart
+Answer: a) Non-alignment
+#AnswerEnd
+
+#QuestionStart
+Q22) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Functionaries) | List-II (Oaths of affirmations) |
+|---|---|
+| A. President of India | 1. Secrecy of Information |
+| B. Judges of Supreme Court | 2. Faithful discharge of Duties |
+| C. Members of Parliament | 3. Faith and Allegiance to the Constitution of India |
+| D. Ministers for the Union | 4. Upholding the sanctity of the Constitution and Law |
+Code: [UPSC CSE Pre 1997]
+a) A3 B4 C1 D2
+b) A4 B3 C2 D1
+c) A3 B4 C2 D1
+d) A4 B3 C1 D2
+#QuestionEnd
+#AnswerStart
+Answer: c) A3 B4 C2 D1
+#AnswerEnd
+
+#QuestionStart
+Q23) Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):
+Assertion (A): In India, the political parties which formed the governments represented the majority of seats secured in the elections to the House of the People at the Centre and the Legislative Assemblies in the States but not the majority of votes.
+Reason (R): The result of elections based on the majority-vote-system is decided on the basis of the relative majority of votes secured.
+In the context of the above two statements which one of the following is correct? [UPSC CSE Pre 1994]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true but, (R) is false.
+d) (A) is false but, (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q24) According io the United Nations Charter which of the following statements is not true regarding exercise of veto power in the Security Council? [UPSC CSE Pre 1994]
+a) For the Security Council decision on every procedural matter there should be 9 affirmative votes of its members including the 5 votes of five permanent members.
+b) Every permanent member of the Security Council may by use of Veto Power, withhold acceptance on any decision.
+c) The word ‘Veto’ has been used under Article 27 of the UN Charter so that any permanent member may stop a resolution going to be passed with a majority.
+d) Any member of the Security Council may use Veto Power to stop a resolution going to be passed with a majority.
+#QuestionEnd
+#AnswerStart
+Answer: d) Any member of the Security Council may use Veto Power to stop a resolution going to be passed with a majority.
+#AnswerEnd

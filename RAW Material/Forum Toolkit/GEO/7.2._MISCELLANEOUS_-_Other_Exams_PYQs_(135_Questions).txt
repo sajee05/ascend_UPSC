@@ -1,0 +1,1643 @@
+#QuestionStart
+Q57) Which of the following coasts is the largest tidal energy-producing area in India? [UPPCS (Pre) 2022]
+a) Mannar Coast
+b) Kerala Coast
+c) North Circars Coast
+d) Khambhat Coast
+#QuestionEnd
+#AnswerStart
+Answer: d) Khambhat Coast
+#AnswerEnd
+
+#QuestionStart
+Q58) Which one of the following is a land locked country? [UPPCS (Pre) 2022]
+a) Suriname
+b) Bolivia
+c) Uruguay
+d) Peru
+#QuestionEnd
+#AnswerStart
+Answer: b) Bolivia
+#AnswerEnd
+
+#QuestionStart
+Q59) With reference to Borneo Island, located in Southeast Asia, which of the following statements is/are true? [UPPCS (Pre) 2022]
+1. It is divided into three countries.
+2. It has been formed due to volcano deposition.
+Select the correct answer using the codes given below.
+a) Both 1 and 2
+b) Only 1
+c) Neither 1 nor 2
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q60) Which of the following countries is not located on the bank of the Black Sea? [U.P.P.C.S. (Pre) 2021]
+a) Syria
+b) Turkey
+c) Georgia
+d) Bulgaria
+#QuestionEnd
+#AnswerStart
+Answer: a) Syria
+#AnswerEnd
+
+#QuestionStart
+Q61) Nobi and Kanto plains are located in which of the following countries? [U.P.P.C.S. (Pre) 2021]
+a) North Korea
+b) South Korea
+c) Japan
+d) China
+#QuestionEnd
+#AnswerStart
+Answer: c) Japan
+#AnswerEnd
+
+#QuestionStart
+Q62) With, reference to Socotra Island, which of the following statements is/are correct? [U.P.P.C.S. (Pre) 2021]
+1. It is an Island of Oman, situated in the Arabian Sea.
+2. It was designated as a world natural heritage site by UNESCO in 2008.
+Select the correct answer using the codes given below.
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q63) Which of the following is the correct sequence of the Islands of Indonesia from West to East? [U.P.P.C.S. (Pre) 2021]
+a) Java, Sumatra, Lombok, Bali
+b) Sumatra, Java, Bali, Lombok
+c) Sumatra, Java, Lombok, Bali
+d) Bali, Sumatra, Java, Lombok
+#QuestionEnd
+#AnswerStart
+Answer: b) Sumatra, Java, Bali, Lombok
+#AnswerEnd
+
+#QuestionStart
+Q64) Which of the following Islands is not located in the Caribbean Sea? [U.P.P.C.S. (Pre) 2021]
+a) Grenada
+b) Montserrat
+c) Madeira
+d) Anguilla
+#QuestionEnd
+#AnswerStart
+Answer: c) Madeira
+#AnswerEnd
+
+#QuestionStart
+Q65) Darling range is situated along which of the following coasts of Australia? [UPPCS (Pre) 2020]
+a) North-Eastern Coast
+b) Southern Coast
+c) Eastern Coast
+d) South-Western Coast
+#QuestionEnd
+#AnswerStart
+Answer: d) South-Western Coast
+#AnswerEnd
+
+#QuestionStart
+Q66) Which one of the following is not correctly matched? [UPPCS (Pre) 2020]
+| (Country) | (Capital) |
+|---|---|
+| (a) Morocco | Rabat |
+| (b) Tunisia | Tunis |
+| (c) Algeria | Algiers |
+| (d)Cape Verde | Bamako |
+#QuestionEnd
+#AnswerStart
+Answer: d)Cape Verde | Bamako
+#AnswerEnd
+
+#QuestionStart
+Q67) In the Suez Canal region, the correct order of lakes lying from North to South direction is: [U.P.P.C.S. (Pre) 2019]
+a) Lake Timsah - Little Bitter Lake - Great Bitter Lake - Lake Manzala
+b) Great Bitter Lake - Little Bitter lake - lake Timsah - Lake Manzala
+c) Lake Manzala - Great Bitter lake - Little Bitter Lake - Lake Timsah
+d) Lake Manzala - Lake Timsah - Great Bitter Lake - Little Bitter Lake
+#QuestionEnd
+#AnswerStart
+Answer: d) Lake Manzala - Lake Timsah - Great Bitter Lake - Little Bitter Lake
+#AnswerEnd
+
+#QuestionStart
+Q68) At which of the following places is the Secretariat of the International Solar Alliance (ISA) located at present? [UPPCS (Pre) 2019]
+a) Paris
+b) New Delhi
+c) Gurugram
+d) New York
+#QuestionEnd
+#AnswerStart
+Answer: c) Gurugram
+#AnswerEnd
+
+#QuestionStart
+Q69) Telegraphic Plateau is a part of: [U.P.P.C.S. (Pre) 2019]
+a) North Atlantic Ridge
+b) South Atlantic Ridge
+c) Indian Ocean Ridge
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) North Atlantic Ridge
+#AnswerEnd
+
+#QuestionStart
+Q70) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| (Grassland/Hill Station) | (Location/State) |
+|---|---|
+| A. Banni Grassland | 1. Uttarakhand |
+| B. Bugyal Grassland | 2. Jammu and Kashmir |
+| C. Khajjiar | 3. Gujarat |
+| D. Pahalgam | 4. Himachal Pradesh |
+Code: [UPPCS (Mains) 2017]
+a) A-1, B-3, C-2, D-4
+b) A-3, B-1, C-4, D-2
+c) A-3, B-1, C-2, D-4
+d) A-4, B-2, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-1, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q71) Which one amongst the following is the largest plateau? [U.P.P.C.S. (Pre) 2017]
+a) Coconino
+b) Aquarius
+c) Colorado
+d) Columbia
+#QuestionEnd
+#AnswerStart
+Answer: c) Colorado
+#AnswerEnd
+
+#QuestionStart
+Q72) Israel has common borders with: [U.P.P.C.S. (Pre) 2017]
+a) Lebanon, Syria, Jordan and Egypt
+b) Lebanon, Syria, Turkey and Jordan
+c) Cyprus, Turkey, Jordan and Egypt
+d) Turkey, Syria, Iraq and Yemen
+#QuestionEnd
+#AnswerStart
+Answer: a) Lebanon, Syria, Jordan and Egypt
+#AnswerEnd
+
+#QuestionStart
+Q73) Red Sea is an example of- [U.P.P.C.S. (Pre) 2017]
+a) Volcanic Valley
+b) Eroded valley
+c) Axial trough
+d) U-shaped valley
+#QuestionEnd
+#AnswerStart
+Answer: c) Axial trough
+#AnswerEnd
+
+#QuestionStart
+Q74) Which of the following is not correctly matched? [UPPCS (Mains) 2016]
+| (Desert) | (Country) |
+|---|---|
+| (a)Sonoran | United States of America |
+| (b) Taklamakan | China |
+| (c) Karakum | Turkmenistan |
+| (d) Gibson | Brazil |
+#QuestionEnd
+#AnswerStart
+Answer: d) Gibson | Brazil
+#AnswerEnd
+
+#QuestionStart
+Q75) Which of the following is not correctly matched? [UPPCS (Pre) 2016]
+| (Ports) | (Country) |
+|---|---|
+| (a) Rotterdam | The Netherland |
+| (b)Igarka | China |
+| (c) Montevideo | Uruguay |
+| (d) Jakarta | Indonesia |
+#QuestionEnd
+#AnswerStart
+Answer: b)Igarka | China
+#AnswerEnd
+
+#QuestionStart
+Q76) Where is the Central Research Institute for Dryland Agriculture (CRIDA) located? [U.P.P.C.S. (Mains) 2015]
+a) Hyderabad
+b) Hissar
+c) New Delhi
+d) Rajkot
+#QuestionEnd
+#AnswerStart
+Answer: a) Hyderabad
+#AnswerEnd
+
+#QuestionStart
+Q77) Which one of the following continents has the largest number of countries? [U.P.P.C.S. (Mains) 2015]
+a) Africa
+b) Europe
+c) Asia
+d) South America
+#QuestionEnd
+#AnswerStart
+Answer: a) Africa
+#AnswerEnd
+
+#QuestionStart
+Q78) Which one of the following is known as the ‘Sea of Mountains’? [U.P.P.C.S. (Mains) 2015]
+a) Japan
+b) British Columbia
+c) West Coast of South America
+d) South-East Asia
+#QuestionEnd
+#AnswerStart
+Answer: b) British Columbia
+#AnswerEnd
+
+#QuestionStart
+Q79) Dasht-e-Lut is located in- [U.P.P.C.S. (Mains) 2015]
+a) Iran
+b) Libya
+c) Kenya
+d) Nigeria
+#QuestionEnd
+#AnswerStart
+Answer: a) Iran
+#AnswerEnd
+
+#QuestionStart
+Q80) Which one of the following countries has the longest coastal line? [U.P.P.C.S. (Pre) 2015]
+a) India
+b) Canada
+c) Australia
+d) Brazil
+#QuestionEnd
+#AnswerStart
+Answer: b) Canada
+#AnswerEnd
+
+#QuestionStart
+Q81) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Golden Triangle | 1. Myanmar |
+| B. Bermuda Triangle | 2. Opium producing area of Southeast Asia |
+| C. Rice Bowl of Far East | 3. China |
+| D. Red Basin | 4. North Atlantic Ocean |
+Code: [UPPCS (Pre) (Re-Exam) 2015]
+a) A-3, B-2, C-4, D-1
+b) A-2, B-4, C-1, D-3
+c) A-4, B-3, C-2, D-1
+d) A-1, B-4, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-4, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q82) The name of which of the following countries closely means ‘country of 40 tribes? [U.P.P.C.S. (Pre) (Re-Exam) 2015]
+a) Kazakhstan
+b) Kyrgyzstan
+c) Tajikistan
+d) Uzbekistan
+#QuestionEnd
+#AnswerStart
+Answer: b) Kyrgyzstan
+#AnswerEnd
+
+#QuestionStart
+Q83) Which pair amongst the foilowing is not correctly matched? [U.P.P.C.S. (Pre) 2015]
+a) The queen of Adriatic Sea - Rome
+b) Lorraine Coal Fields - France
+c) West Midlands - Birmingham
+d) Tula - Russia
+#QuestionEnd
+#AnswerStart
+Answer: a) The queen of Adriatic Sea - Rome
+#AnswerEnd
+
+#QuestionStart
+Q84) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (World Islands) | List-II (Owner Country) |
+|---|---|
+| A. Aleutian Islands | 1. Russia |
+| B. Bear Islands | 2. Denmark |
+| C. Greenland | 3. Norway |
+| D. Franz Josef Island | 4. USA |
+Code: [UPPCS (Mains) 2014]
+a) A-4, B-3, C-2, D-1
+b) A-1, B-2, C-3, D-4
+c) A-3, B-1, C-4, D-2
+d) A-2, B-4, C-1, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q85) Which of the following does not have the ‘National Museum of Natural History’? [U.P.P.C.S. (Mains) 2013]
+a) Mysore
+b) Hyderabad
+c) Bhuvaneshwar
+d) Bhopal
+#QuestionEnd
+#AnswerStart
+Answer: b) Hyderabad
+#AnswerEnd
+
+#QuestionStart
+Q86) Which of the following are the natural ports of India?
+1. Chennai
+2. Cochin
+3. Tuticorin
+4. Vishakhapatnam
+Select the correct answer from the code given below: [U.P.P.C.S. (Pre) 2013]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q87) Which of the following is a specific example of‘Out Port’? [U.P.P.C.S. (Mains) 2012]
+a) Porbandar
+b) Haldia
+c) Panaji
+d) Vishakhapatnam
+#QuestionEnd
+#AnswerStart
+Answer: b) Haldia
+#AnswerEnd
+
+#QuestionStart
+Q88) The most populated desert in the world is- [U.P.P.C.S. (Pre) 2012]
+a) Sahara
+b) Gobi
+c) Thar
+d) Kalahari
+#QuestionEnd
+#AnswerStart
+Answer: c) Thar
+#AnswerEnd
+
+#QuestionStart
+Q89) Which of the following pairs of countries are around the Aral Sea? [U.P.P.C.S. (Pre) 2012]
+a) Kazakhstan - Uzbekistan
+b) Kazakhstan - Turkmenistan
+c) Azerbaijan - Uzbekistan
+d) Kazakhstan - Russia
+#QuestionEnd
+#AnswerStart
+Answer: a) Kazakhstan - Uzbekistan
+#AnswerEnd
+
+#QuestionStart
+Q90) The highest share in power generation in India is of: [U.P.P.C.S. (Mains) 2011]
+a) Atomic power
+b) Hydropower
+c) Thermal power
+d) All above have equal shares
+#QuestionEnd
+#AnswerStart
+Answer: c) Thermal power
+#AnswerEnd
+
+#QuestionStart
+Q91) Which one of the following is a temperate desert? [U.P.P.C.S. (Mains) 2011]
+a) Arabian Desert
+b) Atacama Desert
+c) Kalahari Desert
+d) Patagonian Desert
+#QuestionEnd
+#AnswerStart
+Answer: d) Patagonian Desert
+#AnswerEnd
+
+#QuestionStart
+Q92) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Mountain) | List-II (Country) |
+|---|---|
+| A. Allegheny | 1. Canada |
+| B. Cantabrian | 2. Iran |
+| C. Elburz | 3. Spain |
+| D. Mackenzie | 4. USA |
+Code: [UPPCS (Mains) 2010]
+a) A-4, B-3, C-2, D-1
+b) A-4, B-1, C-3, D-2
+c) A-2, B-3, C-4, D-1
+d) A-1, B-4, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q93) Which one of the following African countries does not border with the Mediterranean Sea? [U.P.P.C.S. (Mains) 2010]
+a) Algeria
+h) Chad
+c) Morocco
+d) Tunisia
+#QuestionEnd
+#AnswerStart
+Answer: h) Chad
+#AnswerEnd
+
+#QuestionStart
+Q94) Which one of the following rivers of Asia flows towards the south? [U.P.P.C.S. (Mains) 2010]
+a) Amur
+b) Lena
+c) Ob
+d) Salween
+#QuestionEnd
+#AnswerStart
+Answer: d) Salween
+#AnswerEnd
+
+#QuestionStart
+Q95) The Prime Meridian passes through-
+1. Algeria
+2. France
+3. Nigeria
+4. Portugal
+Use the code below to select the correct answer. [U.P.P.C.S. (Spl) (Mains) 2008]
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q96) The Kalahari Desert lies in- [U.P.P.C.S. (Mains) 2008]
+1. Botswana
+2. Namibia
+3. Zaire
+4. Zambia
+Select the correct answer from the code given below.
+a) 1 only
+b) 2 only
+c) 1 and 2 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q97) Rio Grande River makes boundary between- [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Canada and USA
+b) Mexico and USA
+c) Mexico and Guatemala
+d) Guatemala and Honduras
+#QuestionEnd
+#AnswerStart
+Answer: b) Mexico and USA
+#AnswerEnd
+
+#QuestionStart
+Q98) The country which provides the best example of radial drainage is- [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Australia
+b) France
+c) Sri Lanka
+d) Zaire
+#QuestionEnd
+#AnswerStart
+Answer: c) Sri Lanka
+#AnswerEnd
+
+#QuestionStart
+Q99) Which of the following pair is not correctly matched? [UPPCS (Spl) (Mains) 2008]
+| (River) | (Country) |
+|---|---|
+| (a) Dnieper | Ukraine |
+| (b)Po | Italy |
+| (c) Rhine | Germany |
+| (d)Rhone | Spain |
+#QuestionEnd
+#AnswerStart
+Answer: d)Rhone | Spain
+#AnswerEnd
+
+#QuestionStart
+Q100) Which of the following is not coastline country of Persian Gulf? [U.P.P.C.S. (Mains) 2008]
+a) Kuwait
+b) Oman
+c) Qatar
+d) United Arab Emirates
+#QuestionEnd
+#AnswerStart
+Answer: b) Oman
+#AnswerEnd
+
+#QuestionStart
+Q101) Which one of the following statements is not true regarding the Atacama? [U.P.P.C.S. (Mains) 2006]
+a) It is a desert in South America.
+b) It is World’s driest desert.
+c) It lies in Southern Chile.
+d) It has rich reserves of nitrates.
+#QuestionEnd
+#AnswerStart
+Answer: c) It lies in Southern Chile.
+#AnswerEnd
+
+#QuestionStart
+Q102) The Tropic of Cancer does not pass through- [U.P.P.C.S. (Pre) 2005]
+a) Egypt
+b) India
+c) Iran
+d) Myanmar
+#QuestionEnd
+#AnswerStart
+Answer: c) Iran
+#AnswerEnd
+
+#QuestionStart
+Q103) Which of the following countries is not a land-locked country? [U.P.P.C.S. (Pre) 2005]
+a) Afghanistan
+b) Liberia
+c) Laos
+d) Luxembourg
+#QuestionEnd
+#AnswerStart
+Answer: b) Liberia
+#AnswerEnd
+
+#QuestionStart
+Q104) Which one of the following continents has no landlocked country? [U.P.P.C.S. (Mains) 2005]
+a) Africa
+b) Asia
+c) Europe
+d) North America
+#QuestionEnd
+#AnswerStart
+Answer: d) North America
+#AnswerEnd
+
+#QuestionStart
+Q105) Consider the following statements: [U.P.P.C.S. (Mains) 2005]
+Assertion (A): Egypt is the Gift of the Nile.
+Reason (R): It is an oasis of the Sahara Desert.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A)
+c) (A) is true, but (R) is false
+d) (A) is false, but (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A)
+#AnswerEnd
+
+#QuestionStart
+Q106) Which one of the following pairs is correctly matched? [U.P.P.C.S. (Mains) 2003]
+a) Gulf of Bothnia - France
+b) Baffin Bay - Argentina
+c) Gulf of Carpentaria - Canada
+d) Gulf of Tonkin - Vietnam
+#QuestionEnd
+#AnswerStart
+Answer: d) Gulf of Tonkin - Vietnam
+#AnswerEnd
+
+#QuestionStart
+Q107) Consider the following statements: Assertion (A): North Atlantic Sea route is the busiest sea route in the world.
+Reason (R): It connects two major industrial zones of the world.
+In the context of the above statements which of the following is correct? [U.P.P.C.S. (Pre) 2003]
+a) (A) and (R) both are true, and (R) is correct explanation of (A).
+b) (A) and (R) both are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (R) is true, but (A) is false.
+#QuestionEnd
+#AnswerStart
+Answer: a) (A) and (R) both are true, and (R) is correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q108) Think about the following countries:
+1. Australia
+2. Namibia
+3. Brazil
+4. Chile
+The Tropic of Capricorn passes through which of the following countries. [U.P.P.C.S. (Pre) 2003]
+a) Only 1
+b) 3, and 4
+c) 1, 2 and 3
+d) 1,2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q109) Which one of the following is correctly matched? [U.P.P.C.S. (Mains) 2002]
+a) Paraguay - Pampas
+b) U.S.A. - Manitoba
+c) Morocco - Atlas Mountains
+d) Australia - Kimberley
+#QuestionEnd
+#AnswerStart
+Answer: c) Morocco - Atlas Mountains
+#AnswerEnd
+
+#QuestionStart
+Q110) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Country) | List-II (Dependent Territory) |
+|---|---|
+| A. Australia | 1. Martinique |
+| B. Denmark | 2. Santa Cruz |
+| C. France | 3. Greenland |
+| D. Spain | 4. Christmas Island |
+Code: [UPPCS (Pre) 2000]
+a) A-1, B-2, C-3, D-4
+b) A-4, B-3, C-1, D-2
+c) A-1, B-3, C-2, D-4
+d) A-2, B-1, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q111) ‘Horn of Africa’ consists of- [U.P.P.C.S. (Pre) 1999]
+a) Algeria, Morocco and West Sahara
+b) Libya, Sudan and Egypt
+c) Somalia, Ethiopia and Djibouti
+d) Zimbabwe, Botswana and Angola
+#QuestionEnd
+#AnswerStart
+Answer: c) Somalia, Ethiopia and Djibouti
+#AnswerEnd
+
+#QuestionStart
+Q112) Which of the following rivers flows through a rift valley? [U.P.P.C.S. (Pre) 1998]
+a) Amazon
+b) Indus
+c) Volga
+d) Rhine
+#QuestionEnd
+#AnswerStart
+Answer: d) Rhine
+#AnswerEnd
+
+#QuestionStart
+Q113) Datum line: [U.P.P.C.S. (Pre) 1991]
+a) Is a horizontal line to the sea level from where heights and depths are measured
+b) Is the mean of primary and secondary data
+c) International date line
+d) Is an imaginary line which passes through zero-degree meridian
+#QuestionEnd
+#AnswerStart
+Answer: a) Is a horizontal line to the sea level from where heights and depths are measured
+#AnswerEnd
+
+#QuestionStart
+Q114) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Rail Coach Factory | 1. Bangalore |
+| B. Wheel and Axle Plant | 2. Perambur |
+| C. Diesel Locomotive Works | 3. Kapurthala |
+| D. Integral Coach Factory | 4. Varanasi |
+Code: [U.P.P.C.S. (Pre) 1991]
+a) A-1, B-2, C-3, D-4
+b) A-4, B-3, C-2, D-1
+c) A-1, B-3, C-4, D-2
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-3, B-1, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q115) Where are the Bermuda Islands located? [CDS 2022(1)]
+a) Caribbean Sea
+b) North Atlantic Ocean
+c) Gulf of Mexico
+d) Mediterranean Sea
+#QuestionEnd
+#AnswerStart
+Answer: b) North Atlantic Ocean
+#AnswerEnd
+
+#QuestionStart
+Q116) An avalanche is a type of which one of the following disasters? [CDS 2021 (II)]
+a) Atmospheric
+b) Terrestrial
+c) Aquatic
+d) Biological
+#QuestionEnd
+#AnswerStart
+Answer: b) Terrestrial
+#AnswerEnd
+
+#QuestionStart
+Q117) Which one of the following rivers does not drain into Black Sea? [CDS 2020 (I)]
+a) Volga
+b) Dnieper
+c) Don
+d) Danube
+#QuestionEnd
+#AnswerStart
+Answer: a) Volga
+#AnswerEnd
+
+#QuestionStart
+Q118) Which one of the following cities is closest to the Equator? [CDS 2020 (II)]
+a) Mogadishu
+b) Singapore
+c) Colombo
+d) Manila
+#QuestionEnd
+#AnswerStart
+Answer: b) Singapore
+#AnswerEnd
+
+#QuestionStart
+Q119) The largest Barrier Reef System in the world is found at [CDS 2020 (II)]
+a) East Australian Coast
+b) West Australian Coast
+c) North Australian Coast
+d) South Australian Coast
+#QuestionEnd
+#AnswerStart
+Answer: a) East Australian Coast
+#AnswerEnd
+
+#QuestionStart
+Q120) Which one of the following countries is not located on the Tropic of Capricorn? [CDS 2020 (II)]
+a) Chile
+b) Brazil
+c) Paraguay
+d) Uruguay
+#QuestionEnd
+#AnswerStart
+Answer: d) Uruguay
+#AnswerEnd
+
+#QuestionStart
+Q121) Which one of the following mountains separates Black Sea and Caspian Sea? [CDS 2019 (II)]
+a) Urals
+b) Caucasus
+c) Carpathians
+d) Balkan mountains
+#QuestionEnd
+#AnswerStart
+Answer: b) Caucasus
+#AnswerEnd
+
+#QuestionStart
+Q122) Which one of the following statements with regard to growth of coral reefs is not correct? [CDS 2018 (II)]
+a) Coral can grow abundantly in fresh water,
+b) It requires warm water between 23°C-25°C.
+c) It requires shallow saltwater, not deeper than 50 m.
+d) It requires plenty of sunlight to aid photosynthesis.
+#QuestionEnd
+#AnswerStart
+Answer: a) Coral can grow abundantly in fresh water,
+#AnswerEnd
+
+#QuestionStart
+Q123) Match List I with List II and select the correct answer using the codes given below the lists
+| List I (Major Dam) | List II (State) |
+|---|---|
+| A. Cheruthoni Dam | 1. Madhya Pradesh |
+| B. Indira Sagar Dam | 2. Tamil Nadu |
+| C. Krishnaraja Sagar | 3. Karnataka |
+| D. Mettur Dam | 4. Kerala |
+Code: [CDS 2018 (II)]
+a) A-2, B-1, C-3, D-4
+b) A-2, B-3, C-1, D-4
+c) A-4, B-3, C-1, D-2
+d) A-4, B-1, C-3, D-2
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-1, C-3, D-2
+#AnswerEnd
+
+#QuestionStart
+Q124) Match List I with List II and select the correct answer using the codes given below the lists
+| List I (Strait) | List II (Countries) |
+|---|---|
+| A. Bass Strait | 1. UK and France |
+| B. Davis Strait | 2. Australia and Tasmania |
+| C. Dover Strait | 3. USA and Cuba |
+| D. Florida Strait | 4. Canada and Greenland |
+Code: [CDS 2017 (II)]
+a) A-2, B-4, C-1, D-3
+b) A-2, B-1, C-4, D-3
+c) A-3, B-4, C-1, D-2
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-2, B-4, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q125) Which one of the following island is the largest? [CDS 2017 (II)]
+a) Borneo
+b) Madagascar
+c) New Guinea
+d) Sumatra
+#QuestionEnd
+#AnswerStart
+Answer: c) New Guinea
+#AnswerEnd
+
+#QuestionStart
+Q126) The following consist of two statements, statement I and statement II. Examine these two statements carefully and select the correct answer using the codes given below. Statement I: Global warming signifies the rise in global surface temperature.
+Statement II: The increase of concentration of greenhouse gases in the atmosphere causes the rise in global surface temperature.
+Codes [CDS 2017 (II)]
+a) Both the statements are individually true and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and statement II is the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q127) The boundary layer of the forest at which the energy exchange occurs, and some insolation is returned directly to space is [CAPF 2022]
+a) forest floor
+b) forest soil
+c) forest canopy
+d) forest litter
+#QuestionEnd
+#AnswerStart
+Answer: c) forest canopy
+#AnswerEnd
+
+#QuestionStart
+Q128) Which of the following factors are needed for the growth of corals?
+1. Freshwater
+2. Clear shallow salt water
+3. Plenty of sunlight for photosynthesis
+4. Warm water between 23°C and 25°C
+Select the correct answer using the codes given below: [CAPF 2021]
+a) 1,3 and 4 only
+b) 2, 3 and 4 only
+c) 1 and 2 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q129) Which one of the following does NOT illustrate the importance of the Coral Reef? [CAPF 2020]
+a) They provide employment to the people
+b) They supply building materials
+c) They protect shoreline from storms
+d) They protect communities from earthquakes
+#QuestionEnd
+#AnswerStart
+Answer: d) They protect communities from earthquakes
+#AnswerEnd
+
+#QuestionStart
+Q130) Which one of the following is NOT Mediterranean country? [CAPF 2020]
+a) Tunisia
+b) Libya
+c) North Sudan
+d) Egypt
+#QuestionEnd
+#AnswerStart
+Answer: c) North Sudan
+#AnswerEnd
+
+#QuestionStart
+Q131) Singapore is known as Port of Call because [CAPF 2020]
+a) it deals in the processing and shipping of oil
+b) it is a deep-water port built away from the actual port
+c) it is on main sea route where ships use to anchor for refuelling, watering and taking food items
+d) it serves the parent ports by receiving the ships which are unable to approach due to their large size
+#QuestionEnd
+#AnswerStart
+Answer: c) it is on main sea route where ships use to anchor for refuelling, watering and taking food items
+#AnswerEnd
+
+#QuestionStart
+Q132) The Tropic of Cancer passes through which one of the following countries? [CAPF 2018]
+a) North Sudan
+b) Chad
+c) Mali
+d) Yemen
+#QuestionEnd
+#AnswerStart
+Answer: c) Mali
+#AnswerEnd
+
+#QuestionStart
+Q133) Which of the following cities experience the warm temperate Mediterranean climate?
+1. Cape Town
+2. Los Angeles
+3. Adelaide
+4. Santiago
+Select the correct answer using the code given below. [CAPF 2018]
+a) 1 and 2 only
+b) 3 and 4 only
+c) 1, 2 and 3 only
+d) 1,2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q134) Which one of the following pairs of Island and Sea/Ocean is not correctly matched? [CAPF 2017]
+a) Cyprus: Mediterranean Sea
+b) Falkland: Atlantic Ocean
+c) Chagos: North Pacific Ocean
+d) Islas Cocos: Indian Ocean
+#QuestionEnd
+#AnswerStart
+Answer: c) Chagos: North Pacific Ocean
+#AnswerEnd
+
+#QuestionStart
+Q135) Which one of the following is located at the southernmost latitude? [CAPF 2017]
+a) South Africa
+b) Australia
+c) Chile
+d) Polynesia
+#QuestionEnd
+#AnswerStart
+Answer: c) Chile
+#AnswerEnd
+
+#QuestionStart
+Q136) Which one of the following cities has greater annual range of temperature? [CAPF 2016]
+a) Kuala Lumpur
+b) New Delhi
+c) Shanghai
+d) Ulaanbaatar
+#QuestionEnd
+#AnswerStart
+Answer: d) Ulaanbaatar
+#AnswerEnd
+
+#QuestionStart
+Q137) Match list I with list II and select the correct answer using the code given below the lists.
+| List I (Climate type in letter code) | List II (Major area) |
+|---|---|
+| A. Aw | 1. Central California |
+| B. Af | 2. India Subcontinent |
+| C. Cs | 3. North and South of Amazon Forests |
+| D. Am | 4. Western Equatorial Africa |
+Codes: [CAPF 2016]
+a) A-3, B-1, C-4, D-2
+b) A-2, B-4, C-1, D-3
+c) A-3, B-4, C-1, D-2
+d) A-2, B-1, C-4, D-3
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q138) Which one of the following is the correct order of formation of geological systems in India in terms of their age? (Starting with the oldest) [CAPF 2016]
+a) Dharwars -Aravallis - Vindhyans -Cuddapahs
+b) Aravallis - Dharwars - Cuddapahs -Vindhyans
+c) Vindhyans - Dharwars - Aravallis -Cuddapahs
+d) Cuddapahs - Vindhyans - Dharwars -Aravallis
+#QuestionEnd
+#AnswerStart
+Answer: b) Aravallis - Dharwars - Cuddapahs -Vindhyans
+#AnswerEnd
+
+#QuestionStart
+Q139) Which one among the following countries of Asia is land-locked? [CAPF 2014]
+a) Vietnam
+b) Cambodia
+c) Laos
+d) Thailand
+#QuestionEnd
+#AnswerStart
+Answer: c) Laos
+#AnswerEnd
+
+#QuestionStart
+Q140) Which of the following Islands are made of small coral atolls and reefs in the Arabian Sea? [CAPF 2014]
+a) Maldives
+b) Andaman
+c) Sri Lanka
+d) Lakshadweep
+#QuestionEnd
+#AnswerStart
+Answer: d) Lakshadweep
+#AnswerEnd
+
+#QuestionStart
+Q141) Which meridian forms the boundary line between the Indian Ocean and the Pacific Ocean? [CAPF 2014]
+a) The meridian of Cape of Tasmania
+b) The meridian of Cape Town
+c) The meridian of Wellington
+d) The meridian of Perth
+#QuestionEnd
+#AnswerStart
+Answer: a) The meridian of Cape of Tasmania
+#AnswerEnd
+
+#QuestionStart
+Q142) Which one of the following pairs is not correctly matched? [Jharkhand PCS (Pre) 2016]
+| (Area) | (Important Resources) |
+|---|---|
+| (a)Kolhan | Mineral Resources |
+| (b) Kutch | Forest Resources |
+| (c) Malabar Coast | Water Resources |
+| (d) Middle Ganga Plain | Soil Resources |
+#QuestionEnd
+#AnswerStart
+Answer: b) Kutch | Forest Resources
+#AnswerEnd
+
+#QuestionStart
+Q143) The power plant of Manikaran based on geothermal energy is in the State of- [Jharkhand P.C.S. (Pre) 2013]
+a) Arunachal Pradesh
+b) Himachal Pradesh
+c) Jammu and Kashmir
+d) Uttarakhand
+#QuestionEnd
+#AnswerStart
+Answer: b) Himachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q144) What is the most accurate method of representing relief features? [Jharkhand P.C.S. (Pre) 2013]
+a) Contours
+b) Hachures
+c) Layer colouring
+d) Hill shading
+#QuestionEnd
+#AnswerStart
+Answer: a) Contours
+#AnswerEnd
+
+#QuestionStart
+Q145) The Indian Institute of Remote Sensing is located at- [Chhattisgarh P.C.S. (Pre) 2018]
+a) Bengaluru
+b) Hyderabad
+c) Ahmedabad
+d) Dehradun
+#QuestionEnd
+#AnswerStart
+Answer: d) Dehradun
+#AnswerEnd
+
+#QuestionStart
+Q146) Which of the following is the National Water Way number 1? [Chhattisgarh P.C.S. (Pre) 2017]
+a) Godavari-Krishna Basin Water Way
+b) Mahanadi-Brahmani River Water Way
+c) Brahmaputra River Water Way
+d) Ganga-Bhagirathi-Hugli River Water Way
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: d) Ganga-Bhagirathi-Hugli River Water Way
+#AnswerEnd
+
+#QuestionStart
+Q147) ‘Jawahar Tunnel’ passes through which place? [Chhattisgarh P.C.S. (Pre) 2014]
+a) Pir Panjal
+b) Banihal
+c) Burjila
+d) Jojila
+#QuestionEnd
+#AnswerStart
+Answer: b) Banihal
+#AnswerEnd
+
+#QuestionStart
+Q148) 38th Parallel border lines divide which of the two following countries? [Chhattisgarh PCS (Pre) 2008]
+a) Poland and Germany
+b) Pakistan and Afghanistan
+c) India and Tibet
+d) North Korea and South Korea
+#QuestionEnd
+#AnswerStart
+Answer: d) North Korea and South Korea
+#AnswerEnd
+
+#QuestionStart
+Q149) Isobaths are used to show- [Chhattisgarh P.C.S. (Pre) 2003]
+a) Rainfall
+b) Pressure
+c) Time
+d) Depth
+#QuestionEnd
+#AnswerStart
+Answer: d) Depth
+#AnswerEnd
+
+#QuestionStart
+Q150) Which one of the following pairs is not correctly matched? [Uttarakhand PCS (Pre) 2021]
+a) Foehn - Alps Mountain
+b) Bora - Siberia
+c) Mistral - Rhone Valley
+d) Khamsin - Egypt
+#QuestionEnd
+#AnswerStart
+Answer: b) Bora - Siberia
+#AnswerEnd
+
+#QuestionStart
+Q151) What is Dakshin Gangotri? [Uttarakhand P.C.S. (Pre) 2016]
+a) River Valley in Andhra Pradesh
+b) Indian Research Station in Antarctica
+c) Second source of river Ganga in the South of Gangotri
+d) Island in the Indian Ocean near Antarctica
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian Research Station in Antarctica
+#AnswerEnd
+
+#QuestionStart
+Q152) Which of the following is not included in the geographical group of countries designated with the name Oceania? [Uttarakhand P.C.S. (Pre) 2010]
+a) Indonesia
+b) Melanesia
+c) Micronesia
+d) Australia
+#QuestionEnd
+#AnswerStart
+Answer: a) Indonesia
+#AnswerEnd
+
+#QuestionStart
+Q153) The largest part of our hydrosphere is- [Uttarakhand P.C.S. (Pre) 2010]
+a) Atlantic Ocean
+b) Indian Ocean
+c) Pacific Ocean
+d) Antarctica Ocean
+#QuestionEnd
+#AnswerStart
+Answer: c) Pacific Ocean
+#AnswerEnd
+
+#QuestionStart
+Q154) Which one of the following has the largest harbour in the world? [Uttarakhand P.C.S. (Pre) 2005]
+a) London
+b) Colombo
+c) Rotterdam
+d) New York
+#QuestionEnd
+#AnswerStart
+Answer: c) Rotterdam
+#AnswerEnd
+
+#QuestionStart
+Q155) Match Iist-I with list-II and select the correct answer using the codes given below the lists:
+| List-1 (Site) | List-ll (Energy) |
+|---|---|
+| A. Pavagada | 1. Wind |
+| B. Tattapani | 2. Solar |
+| C. Muppandal | 3. Geo-thermal |
+| D. Kakrapar | 4. Atomic |
+Code: [RAS/RTS (Pre) 2021]
+a) A-3, B-2, C-1, D-4
+b) A-1, B-3, C-2, D-4
+c) A-1, B-2, C-3, D-4
+d) A-2, B-3, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: d) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q156) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Landform) | List-n (Continent) |
+|---|---|
+| A. Aconcagua | 1. Australia |
+| B. Meseta | 2. Africa |
+| C. Serengeti Plains | 3. Europe |
+| D. Gibson desert | 4. South America |
+Code: [RAS/RTS (Pre) 2021]
+a) A-3, B-2, C-4, D-1
+b) A-2, B-4, C-1, D-3
+c) A-4, B-2, C-3, D-1
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q157) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Mountain Peak) | List-II (Location/ Country) |
+|---|---|
+| A. Elbrus | 1. New Zealand |
+| B. Kilimanjaro | 2. USA |
+| C. Mt. Cook | 3. Tanzania |
+| D. McKinley | 4. Russia |
+Code: [RAS/RTS (Pre) 2018]
+a) A-3, B-4, C-2, D-1
+b) A-4, B-2, C-3, D-1
+c) A-4, B-3, C-1, D-2
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q158) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Mountain Peak) | List-Il (Continent) |
+|---|---|
+| A. Kosciuszko | 1. Europe |
+| B. McKinley | 2. Africa |
+| C. Elbrus | 3. Australia |
+| D. Kilimanjaro | 4. North America |
+Code: [RAS/RTS (Pre) 2016]
+a) A-3, B-4, C-1., D-2
+b) A-2, B-4, C-3, D-1
+c) A-4, B-3, C-2, D-1
+d) A-3, B-1, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: a) A-3, B-4, C-1., D-2
+#AnswerEnd
+
+#QuestionStart
+Q159) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Strait of Gibraltar | 1. Between Indonesia & Malaysia |
+| B. Strait of Malacca | 2. Between Gulf of Persia and Gulf of Oman |
+| C. Strait of Bering | 3. Between Africa and Europe |
+| D. Strait of Hormuz | 4. Between Asia and North America |
+Code: [RAS/RTS (Pre) (Re-Exam) 2013]
+a) A-4, B-2, C-3, D-1
+b) A-3, B-4, C-1, D-2
+c) A-3, B-1, C-4, D-2
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-1, C-4, D-2
+#AnswerEnd
+
+#QuestionStart
+Q160) Which of the railway connecting the following two stations has been recognized as heritage railway line by UNESCO? [R.A.S./R.T.S. (Pre) 2013]
+a) Siliguri and Darjeeling
+b) Allahabad and Varanasi
+c) Mumbai and Thane
+d) Amritsar and Ludhiana
+#QuestionEnd
+#AnswerStart
+Answer: a) Siliguri and Darjeeling
+#AnswerEnd
+
+#QuestionStart
+Q161) Arrange the following countries in descending order of their area and select the correct answer using codes given below-
+(i) Brazil
+(ii) Canada
+(ii i) China
+(iv) U.S.A.
+Code: [R.A.S./R.T.S. (Pre) 2012]
+a) iii, iv, i, ii
+b) ii, iii, iv, i
+c) ii, iv, iii, i
+d) i, iii, ii, iv
+#QuestionEnd
+#AnswerStart
+Answer: c) ii, iv, iii, i
+#AnswerEnd
+
+#QuestionStart
+Q162) Generally, where are coral reefs found? [R.A.S./R.T.S. (Pre) 2008]
+a) In temperate climate above 18°C
+b) Between Tropic of Cancer and Tropic of Capricorn coastal areas
+c) On both east and west coasts of continents and islands only
+d) On colder seacoasts
+#QuestionEnd
+#AnswerStart
+Answer: b) Between Tropic of Cancer and Tropic of Capricorn coastal areas
+#AnswerEnd
+
+#QuestionStart
+Q163) The largest river of the world in terms of drainage area is- [R.A.S./R.T.S. (Pre) 1999]
+a) Nile
+b) Amazon
+c) Congo
+d) Mississippi-Missouri
+#QuestionEnd
+#AnswerStart
+Answer: b) Amazon
+#AnswerEnd
+
+#QuestionStart
+Q164) The inland sea is the: [R.A.S./R.T.S. (Pre) 1999]
+a) White Sea
+b) Black Sea
+c) Caspian Sea
+d) Sea of Japan
+#QuestionEnd
+#AnswerStart
+Answer: c) Caspian Sea
+#AnswerEnd
+
+#QuestionStart
+Q165) Kandla port is located on: [R.A.S./R.T.S. (Pre) 1996]
+a) Gulf of Khambhat
+b) Tropic of Cancer
+c) Rann of Kutch
+d) Gulf of Kutch
+#QuestionEnd
+#AnswerStart
+Answer: d) Gulf of Kutch
+#AnswerEnd
+
+#QuestionStart
+Q166) Where is Sargasso Sea situated? [MPPCS (Pre) 2021]
+a) North Atlantic Ocean
+b) South Atlantic Ocean
+c) Indian Ocean
+d) North Pacific Ocean
+#QuestionEnd
+#AnswerStart
+Answer: a) North Atlantic Ocean
+#AnswerEnd
+
+#QuestionStart
+Q167) Out of the following which combination is incorrect? [M.P.P.C.S. (Pre) 2019]
+a) Telegraph Plateau - Indian Ocean
+b) Cocoa Ridge - Pacific Ocean
+c) Walvis Ridge - Atlantic Ocean
+d) Agulhas Basin - Indian Ocean
+#QuestionEnd
+#AnswerStart
+Answer: a) Telegraph Plateau - Indian Ocean
+#AnswerEnd
+
+#QuestionStart
+Q168) Golden Quadrilateral Project of India joins- [M.P.P.C.S. (Pre) 2016]
+a) Delhi-Mumbai-Chennai-Kolkata
+b) Delhi-Jhansi-Bengaluru-Kanyakumari
+c) Srinagar-Delhi-Kanpur-Kolkata
+d) Porbandar-Bengaluru-Kolkata-Kanpur
+#QuestionEnd
+#AnswerStart
+Answer: a) Delhi-Mumbai-Chennai-Kolkata
+#AnswerEnd
+
+#QuestionStart
+Q169) Which is not a renewable resource? [M.P.P.C.S. (Pre) 2015]
+a) Energy of water
+b) Energy of Sun
+c) Energy of Earth
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q170) Which one of the following is known as the ‘Coffee port’ of the world? [M.P.P.C.S. (Pre) 2015]
+a) Sao Paulo
+b) Santos
+c) Rio de Janeiro
+d) Buenos Aires
+#QuestionEnd
+#AnswerStart
+Answer: b) Santos
+#AnswerEnd
+
+#QuestionStart
+Q171) The line joining the areas having the same rainfall is called- [M.P.P.C.S. (Pre) 2015]
+a) Isobar
+b) Isohyet
+c) Isotherm
+d) Isohaline
+#QuestionEnd
+#AnswerStart
+Answer: b) Isohyet
+#AnswerEnd
+
+#QuestionStart
+Q172) Which of these countries forms the longest territorial border with India? [M.P.P.C.S. (Pre) 2013]
+a) China
+b) Pakistan
+c) Bangladesh
+d) Nepal
+#QuestionEnd
+#AnswerStart
+Answer: c) Bangladesh
+#AnswerEnd
+
+#QuestionStart
+Q173) The biggest desert in the world is: [M.P.P.C.S. (Pre) 2010]
+a) Kalahari
+b) Gobi
+c) Sahara
+d) Thar
+#QuestionEnd
+#AnswerStart
+Answer: c) Sahara
+#AnswerEnd
+
+#QuestionStart
+Q174) Arrange the following from west to east and select the correct answer from the codes given below:
+1. London
+2. Lisbon
+3. Frankfurt
+4. Beirut
+Code: [M.P.P.C.S. (Pre) 2008]
+a) 1,2, 3,4
+b) 2, 1, 3, 4
+c) 2, 1,4, 3
+d) 1, 2, 4, 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 1, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q175) White Mountains are founded in [U.P.U.D.A./L.D.A. (Pre) 2001]
+a) Canada
+b) Norway
+c) Russia
+d) United States of America
+#QuestionEnd
+#AnswerStart
+Answer: d) United States of America
+#AnswerEnd
+
+#QuestionStart
+Q176) Chisapani Gorge is located in- [U.P. Lower Sub. (Pre) 2015]
+a) India
+b) Nepal
+c) Bangladesh
+d) Pakistan
+#QuestionEnd
+#AnswerStart
+Answer: b) Nepal
+#AnswerEnd
+
+#QuestionStart
+Q177) Which of the following islands are known as ‘Sheep Islands’? [U.P. Lower Sub. (Pre) 2015]
+a) Canary Islands
+b) Madeira Islands
+c) Faroe Islands
+d) Wellington Islands
+#QuestionEnd
+#AnswerStart
+Answer: c) Faroe Islands
+#AnswerEnd
+
+#QuestionStart
+Q178) Which of the following rivers crosses the Equator twice? [U.P. Lower Sub. (Pre) 2015]
+a) Zaire
+b) Niger
+c) Nile
+d) Amazon
+#QuestionEnd
+#AnswerStart
+Answer: a) Zaire
+#AnswerEnd
+
+#QuestionStart
+Q179) Which of the following countries is transContinental? [U.P. Lower Sub. (Pre) 2009]
+1. Laos
+2. Georgia
+3. Turkey
+4. Tunisia
+Select the correct answer from the codes given below:
+a) 1 and 2
+b) 2 and 3
+c) 1 and 4
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q180) The Great Artesian Basin (GAB) is located in- [U.P. Lower Sub. (Spl 2003]
+a) U.S.A
+b) Australia
+c) Russia
+d) Brazil
+#QuestionEnd
+#AnswerStart
+Answer: b) Australia
+#AnswerEnd
+
+#QuestionStart
+Q181) Isogonic lines are: [U.P. Lower Sub. (Pre) 1998]
+a) Same atmospheric pressure lines
+b) Same temperature lines
+c) Same salinity lines
+d) Same magnetic declination line
+#QuestionEnd
+#AnswerStart
+Answer: d) Same magnetic declination line
+#AnswerEnd
+
+#QuestionStart
+Q182) Three mountain ranges determining the boundary between India and Myanmar are- [U.P. Lower Sub. (Pre) 1998]
+a) Khasi, Patkoi and Arakan Yoma
+b) Akai Mountain Range
+c) Great Dividing Range
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q183) Which of the following countries does not have a land border with the Dead Sea? [67th BPSC (Pre) 2022]
+a) Lebanon
+b) Jordan
+c) Israel
+d) Palestine
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Lebanon
+#AnswerEnd
+
+#QuestionStart
+Q184) Addu Atoll, is situated in which ocean? [66th B.P.C.S. (Pre) (Re-Exam) 2020]
+a) Atlantic Ocean
+b) Arctic Ocean
+c) Indian Ocean
+d) Pacific Ocean
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Indian Ocean
+#AnswerEnd
+
+#QuestionStart
+Q185) The Great Victorian Desert is located at- [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Australia
+b) India
+c) Egypt
+d) North Africa
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Australia
+#AnswerEnd
+
+#QuestionStart
+Q186) Which strait connects the Red Sea and the Indian Ocean? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Bab-El-Mandeb
+b) Hormuz
+c) Bosphorus
+d) Malacca
+#QuestionEnd
+#AnswerStart
+Answer: a) Bab-El-Mandeb
+#AnswerEnd
+
+#QuestionStart
+Q187) Where is ‘Ninety East Ridge’ situated? [53rd. to 55th B.P.S.C. (Pre) 2011]
+a) Pacific Ocean
+b) Indian Ocean
+c) Atlantic Ocean
+d) Arctic Ocean
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian Ocean
+#AnswerEnd
+
+#QuestionStart
+Q188) Which is known as ‘Roof of the World’? [44th B.P.S.C. (Pre) 2000]
+a) Aravalli
+b) Satpura
+c) Pamir
+d) Myanmar
+#QuestionEnd
+#AnswerStart
+Answer: c) Pamir
+#AnswerEnd
+
+#QuestionStart
+Q189) Which one of the following is not a sea-port city? [40th B.P.S.C. (Pre) 1995]
+a) Tokyo
+b) Canberra
+c) New York
+d) London
+#QuestionEnd
+#AnswerStart
+Answer: b) Canberra
+#AnswerEnd
+
+#QuestionStart
+Q190) On the sea level, nearest place to the center of earth? [38th B.P.S.C. (Pre) 1992]
+a) North pole
+b) Tropic of Capricorn
+c) Tropic of Cancer
+d) Tropic of equator
+#QuestionEnd
+#AnswerStart
+Answer: a) North pole
+#AnswerEnd

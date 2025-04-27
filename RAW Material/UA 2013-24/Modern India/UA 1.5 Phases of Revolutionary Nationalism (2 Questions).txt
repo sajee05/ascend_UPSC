@@ -1,0 +1,25 @@
+#QuestionStart
+Q1) Consider the following freedom fighters: (2022)
+1. Barindra Kumar Ghosh
+2. Jogesh Chandra Chatterjee
+3. Rash Behari Bose
+Who of the above was/were actively associated with the Ghadar Party?
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) The Ghadr (Ghadar) was a: (2014)
+a) Revolutionary association of Indians with headquarters at San Francisco
+b) Nationalist organization operating from Singapore
+c) Militant organization with headquarters at Berlin
+d) Communist movement for India’s freedom with headquarters at Tashkent
+#QuestionEnd
+#AnswerStart
+Answer: a) Revolutionary association of Indians with headquarters at San Francisco
+#AnswerEnd

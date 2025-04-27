@@ -1,0 +1,1220 @@
+#QuestionStart
+Q46) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2022]
+| List-I (Philosopher) | List-II (Philosophy) |
+|---|---|
+| A. Ramanuja | 1. Suddhadvait |
+| B. Madhavacharya | 2. Dvaitadvait |
+| C. Nimbarka | 3. Dvaita |
+| D. Vallabhacharya | 4. Vishishtadvaita |
+Code:
+a) A-3, B-1, C-4, D-2
+b) A-4, B-3, C-2, D-1
+c) A-2, B-4, C-1, D-3
+d) A-1, B-2, C-3, D-4
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q47) With reference to Hath Yog, which of the following statement is/are correct? [U.P.P.C.S. (Pre) 2019]
+1. Hath Yog was practised by Nathpanthis.
+2. Hath Yog technique was also adopted by the Sufis.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q48) Parshvanatha, the Jain ‘Thirthankara’ was associated mainly with which of the following places? [U.P.P.C.S. (Mains) 2016]
+a) Varanasi
+b) Kaushambi
+c) Giribraja
+d) Champa
+#QuestionEnd
+#AnswerStart
+Answer: a) Varanasi
+#AnswerEnd
+
+#QuestionStart
+Q49) Which one of the following is the seventh part of the State according to Saptang Theory of State? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) Janapada
+b) Durga
+c) Mitra
+d) Kosha
+#QuestionEnd
+#AnswerStart
+Answer: c) Mitra
+#AnswerEnd
+
+#QuestionStart
+Q50) Which of the following religions does not trust in the concept of ‘final annihilation of the world’? [U.P.P.C.S. (Mains) 2014]
+a) Buddhism
+b) Jainism
+c) Hinduism
+d) Islam
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q51) Select the correct chronological order of the Bhakti Saints from the following: [U.P.P.C.S. (Mains) 2014]
+a) Kabir, Guru Nanak, Chaitanya, Mirabai
+b) Kabir, Chaitanya, Guru Nanak, Mirabai
+c) Kabir, Mirabai, Chaitanya, Guru Nanak
+d) Guru Nanak, Chaitanya, Mirabai, Kabir
+#QuestionEnd
+#AnswerStart
+Answer: a) Kabir, Guru Nanak, Chaitanya, Mirabai
+#AnswerEnd
+
+#QuestionStart
+Q52) Which of the events of Buddha’s life is known as ‘Mahabhinishkramana’? [U.P.P.C.S. (Mains) 2014]
+a) His death
+b) His birth
+c) His departure from home
+d) His attainment of enlightenment
+#QuestionEnd
+#AnswerStart
+Answer: c) His departure from home
+#AnswerEnd
+
+#QuestionStart
+Q53) Which of the following order of Sufism was against music: [U.P.P.C.S. (Mains) 2013]
+a) Chishtiya
+b) Suhrawardiya
+c) Qadiriya
+d) Naqshbandiya
+#QuestionEnd
+#AnswerStart
+Answer: d) Naqshbandiya
+#AnswerEnd
+
+#QuestionStart
+Q54) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Mains) 2013]
+| List-I | List-II |
+|---|---|
+| A. Khwaja Muinuddin Chisti | Suhrawardiya |
+| B. Shaikh Ahmad Sirhindi | Qadiriya |
+| C. Dara Shukoh | Chishtiya |
+| D. Shaikh Shahabuddin | Naqshbandiya |
+Code:
+a) A-2, B-3, C-1, D-4
+b) A-1, B-4, C-2, D-3
+c) A-3, B-4, C-2, D-1
+d) A-4, B-2, C-3, D-1
+#QuestionEnd
+#AnswerStart
+Answer: c) A-3, B-4, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q55) Which of the following Buddhist sacred place is situated on the Bank of River Niranjana? [U.P.P.C.S. (Pre) 2012]
+a) Bodhgaya
+b) Kushinagar
+c) Lumbini
+d) Rishipatan
+#QuestionEnd
+#AnswerStart
+Answer: a) Bodhgaya
+#AnswerEnd
+
+#QuestionStart
+Q56) The writer of Mahabhashya ‘Patanjali’ was contemporary of- [U.P.P.C.S. (Pre) 2011]
+a) Chandragupta Maurya
+b) Ashoka
+c) Pushyamitra Shunga
+d) Chandragupta I
+#QuestionEnd
+#AnswerStart
+Answer: c) Pushyamitra Shunga
+#AnswerEnd
+
+#QuestionStart
+Q57) Gautam Buddha attained “Mahaparinirvana” in kingdom of- [U.P.P.C.S. (Pre) 2011]
+a) Aung
+b) Magadha
+c) Malla
+d) Vatsa
+#QuestionEnd
+#AnswerStart
+Answer: c) Malla
+#AnswerEnd
+
+#QuestionStart
+Q58) Gautam Buddha gave the maximum sermons at which place? [U.P.P.C.S. (Pre) 2011]
+a) Vaishali
+b) Shravasti
+c) Kaushambi
+d) Rajgriha
+#QuestionEnd
+#AnswerStart
+Answer: b) Shravasti
+#AnswerEnd
+
+#QuestionStart
+Q59) The entry of women as a “Bhikshuni” into the Buddhist Sangha was allowed by Gautam Buddha at- [U.P.P.C.S. (Pre) 2010]
+a) Shravasti
+b) Vaishali
+c) Rajgriha
+d) Kushinagar
+#QuestionEnd
+#AnswerStart
+Answer: b) Vaishali
+#AnswerEnd
+
+#QuestionStart
+Q60) Who among the following is known as the ‘Light of Asia’? [U.P.P.C.S. (Mains) 2010]
+a) Gautama Buddha
+b) Mahatma Gandhi
+c) Mahavir Swami
+d) Swami Vivekanand
+#QuestionEnd
+#AnswerStart
+Answer: a) Gautama Buddha
+#AnswerEnd
+
+#QuestionStart
+Q61) Yapaniya was the sect of- [U.P.P.C.S (Pre) 2010]
+a) Buddhist
+b) Jainism
+c) Shaivists
+d) Vaishnavists
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q62) ‘Let no man ask a man’s sect or caste’ whose dictum was this? [U.P.P.C.S. (Pre) 2009]
+a) Kabir
+b) Ramananda
+c) Ramanuja
+d) Chaitanya
+#QuestionEnd
+#AnswerStart
+Answer: a) Kabir
+#AnswerEnd
+
+#QuestionStart
+Q63) Sarnath Buddha image of Bhumisparsha Mudra belongs to- [U.P.P.C.S.(Mains) 2009]
+a) Maurya period
+b) Shunga period
+c) Kushana period
+d) Gupta period
+#QuestionEnd
+#AnswerStart
+Answer: d) Gupta period
+#AnswerEnd
+
+#QuestionStart
+Q64) The reason included in the expansion of Buddhism: [U.P.P.C.S. (Pre) 2009]
+1. The simplicity of religion
+2. Special appeal towards Dalits
+3. Missionary concept of religion
+4. Regional language
+5. The soundness of Vedic spirit by Philosophers
+Code:
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 2, 3 and 4
+d) 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q65) Pre-Ashokan Brahmi script was found at: [U.P.P.C.S. (Spl) (Pre) 2008]
+a) Nagarjunakonda
+b) Anuradhapura
+c) Brahmagiri
+d) Maski
+#QuestionEnd
+#AnswerStart
+Answer: b) Anuradhapura
+#AnswerEnd
+
+#QuestionStart
+Q66) Who propagated ‘Yoga Darshan’? [U.P.P.C.S. (Pre) 2007]
+a) Patanjali
+b) Gautam
+c) Jaimini
+d) Shankaracharya
+#QuestionEnd
+#AnswerStart
+Answer: a) Patanjali
+#AnswerEnd
+
+#QuestionStart
+Q67) Lord Buddha preached the following four noble truths. Put them in correct order using the codes given below: [U.P.P.C.S. (Pre) 2006]
+A. There is suffering.
+B. There is a cessation of suffering.
+C. There is a path leading to the cessation of suffering.
+D. There is the cause of suffering.
+Code:
+a) ADBC
+b) ADCB
+c) ACBD
+d) ABDC
+#QuestionEnd
+#AnswerStart
+Answer: a) ADBC
+#AnswerEnd
+
+#QuestionStart
+Q68) Which one of the following is the distinctive features of a nastika and astika system in India? [U.P.P.C.S. (Mains) 2005]
+a) Belief in the existence of God.
+b) Belief in the doctrine of re-birth.
+c) Belief in the authenticity of the Vedas.
+d) Belief in the existence of heaven and hell.
+#QuestionEnd
+#AnswerStart
+Answer: c) Belief in the authenticity of the Vedas.
+#AnswerEnd
+
+#QuestionStart
+Q69) Kundalpur is the birthplace of- [U.P.P.C.S. (Spl) (Pre) 2004]
+a) Emperor Ashoka
+b) Gautam Buddha
+c) Mahavira Swami
+d) Chaitanya Mahaprabhu
+#QuestionEnd
+#AnswerStart
+Answer: c) Mahavira Swami
+#AnswerEnd
+
+#QuestionStart
+Q70) Which one of the following was not a Jain Tirthankara? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) Chandraprabhu
+b) Nathamuni
+c) Nemi
+d) Sambhav
+#QuestionEnd
+#AnswerStart
+Answer: b) Nathamuni
+#AnswerEnd
+
+#QuestionStart
+Q71) Consider the following statements: [U.P.P.C.S. (Spl) (Pre) 2004]
+Assertion (A): Kushinagar was the capital of Malla Republic.
+Reason (R): Lord Buddha’s Mahaparinirvana took place in Kushinagar.
+Select the correct answer using the code given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q72) A collection of dialogues between Kabir and Dharamdas is titled: [U.P.P.C.S. (Pre) 2003]
+a) Sabad
+b) Amarmul
+c) Sakhi
+d) Ramaini
+#QuestionEnd
+#AnswerStart
+Answer: b) Amarmul
+#AnswerEnd
+
+#QuestionStart
+Q73) Vaishnavism in Kamarupa was popularised by- [U.P.P.C.S. (Mains) 2002]
+a) Chaitanya
+b) Nimbarka
+c) Ramananda
+d) Shankaradeva
+#QuestionEnd
+#AnswerStart
+Answer: d) Shankaradeva
+#AnswerEnd
+
+#QuestionStart
+Q74) Which event of Buddha’s life is represented by the wheel with deer, in Indian Art? [U.P.P.C.S. (Mains) 2002]
+a) Great departure
+b) Enlightenment
+c) First preaching
+d) Nirvana
+#QuestionEnd
+#AnswerStart
+Answer: c) First preaching
+#AnswerEnd
+
+#QuestionStart
+Q75) Which of the following place is known as a place of Pilgrimages because of being related to Parshvanath? [U.P.P.C.S. (Pre) 2002]
+a) Champa
+b) Pava
+c) Sammed Shikhar
+d) Urjyant
+#QuestionEnd
+#AnswerStart
+Answer: c) Sammed Shikhar
+#AnswerEnd
+
+#QuestionStart
+Q76) The Doctrine of void (Shunyata) was propounded by the Buddhist philosopher: [U.P.P.C.S. (Pre) 1998]
+a) Nagarjuna
+b) Nagasena
+c) Ananda
+d) Ashvaghosha
+#QuestionEnd
+#AnswerStart
+Answer: a) Nagarjuna
+#AnswerEnd
+
+#QuestionStart
+Q77) The concept of ‘Sulh-i-Kul’ (universal peace and fraternity) adopted by Akbar was the result of: [U.P.P.C.S. (Pre) 1998]
+a) Political generosity
+b) Religious tolerance
+c) Liberal cultural attitude
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q78) The theory of Karma is related with: [U.P.P.C.S. (Pre) 1997]
+a) Nyaya
+b) Mimansa
+c) Vedanta
+d) Vaisheshika
+#QuestionEnd
+#AnswerStart
+Answer: b) Mimansa
+#AnswerEnd
+
+#QuestionStart
+Q79) Which of the following Buddhist texts contains the rules of Monastic life? [U.P.P.C.S. (Pre) 1996]
+a) Digha-Nikaya
+b) Vinaya Pitaka
+c) Abhidhamma Pitaka
+d) Vibhasha Shastra
+#QuestionEnd
+#AnswerStart
+Answer: b) Vinaya Pitaka
+#AnswerEnd
+
+#QuestionStart
+Q80) The thought of which of the following Sufi saint have been incorporated in the religious book ‘Adi Granth’ of the Sikh? [U.P.P.C.S. (Pre) 1994]
+a) Shaikh Muinuddin Chishti
+b) Qutbuddin Bakhtiyar Kaki
+c) Fariduddin-Ganj-i-Shakar
+d) Shaikh Nizamuddin Auliya
+#QuestionEnd
+#AnswerStart
+Answer: c) Fariduddin-Ganj-i-Shakar
+#AnswerEnd
+
+#QuestionStart
+Q81) The Bhakti culture reborn in India during- [U.P.P.C.S. (Pre) 1993]
+a) Vedic age
+b) 10th century AD
+c) 12th century AD
+d) 15th-16th century AD
+#QuestionEnd
+#AnswerStart
+Answer: d) 15th-16th century AD
+#AnswerEnd
+
+#QuestionStart
+Q82) The word Tirthankara is related to- [U.P.P.C.S. (Pre) 1993]
+a) Buddhists
+b) Christians
+c) Hindus
+d) Jains
+#QuestionEnd
+#AnswerStart
+Answer: d) Jains
+#AnswerEnd
+
+#QuestionStart
+Q83) Which of the following is/are true about Gautam Buddha? [U.P.P.C.S. (Pre) 1992]
+1. He believes in “Karma”
+2. He believes in rebirth
+3. He believes attaining Nirvana
+4. Belief in the power of God
+Code:
+a) Only 1, 2, 3
+b) Only 1, 2
+c) Only 1
+d) All are true
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1, 2, 3
+#AnswerEnd
+
+#QuestionStart
+Q84) The teachings of Buddha are related to- [U.P.P.C.S. (Pre) 1991]
+a) Spirit disputes
+b) Celibacy
+c) Religious rituals
+d) Purity and holiness of conduct
+#QuestionEnd
+#AnswerStart
+Answer: d) Purity and holiness of conduct
+#AnswerEnd
+
+#QuestionStart
+Q85) Who was the founder of Visistadvaita Siddhanta? [Jharkhand P.C.S. (Pre.) 2021]
+a) Ramanujacharya
+b) Vallabhacharya
+c) Srikanthacharya
+d) Madhavacharya
+#QuestionEnd
+#AnswerStart
+Answer: a) Ramanujacharya
+#AnswerEnd
+
+#QuestionStart
+Q86) The most orthodox Sufi order was- [Jharkhand P.C.S. (Pre) 2016]
+a) Chishti
+b) Suhrawardi
+c) Naqshbandi
+d) Qadiri
+#QuestionEnd
+#AnswerStart
+Answer: c) Naqshbandi
+#AnswerEnd
+
+#QuestionStart
+Q87) Which one of the following sequences indicates the correct chronological order? [Jharkhand P.C.S. (Pre) 2011]
+a) Shankaracharya—Ramanuja—Chaitanya
+b) Ramanuja—Shankaracharya—Chaitanya
+c) Ramanuja—Chaitanya—Shankaracharya
+d) Shankaracharya—Chaitanya—Ramanuja
+#QuestionEnd
+#AnswerStart
+Answer: a) Shankaracharya—Ramanuja—Chaitanya
+#AnswerEnd
+
+#QuestionStart
+Q88) Read the following statements and choose the correct option: [Chhattisgarh P.C.S. (Pre) 2020]
+Statement I : Kapila is the earliest exponent of Samkhya system.
+Statement II: Kapila teaches that a man’s life is shaped by the forces of nature and not by any divine agency.
+a) Statement I and Statement II both are true.
+b) Statement I is false, but Statement II is true.
+c) Statement I and Statement II both are false.
+d) Statement I is true, but Statement II is false.
+#QuestionEnd
+#AnswerStart
+Answer: a) Statement I and Statement II both are true.
+#AnswerEnd
+
+#QuestionStart
+Q89) Read the following statements related to Jaina Literature and choose the appropriate option: [Chhattisgarh P.C.S. (Pre) 2020]
+Statement I: The Shvetambara Canon included the 12 Angas.
+Statement II: According to Shvetambara tradition, the Angas were compiled at a council held at Vallabhi.
+Code:
+a) Statement I and Statement II both are true
+b) Statement I is false, but Statement II is true
+c) Statement I and Statement II both are false
+d) Statement I is true, but Statement II is false
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement I is true, but Statement II is false
+#AnswerEnd
+
+#QuestionStart
+Q90) Who advocated ‘Neo-Buddhism’? [Chhattisgarh P.C.S. (Pre) 2019]
+a) Radhakrishnan
+b) Tagore
+c) Ambedkar
+d) Vivekananda
+#QuestionEnd
+#AnswerStart
+Answer: c) Ambedkar
+#AnswerEnd
+
+#QuestionStart
+Q91) Sankaras philosophy is called as- [Chhattisgarh P.C.S. (Pre) 2019]
+a) Monism
+b) Integral Monism
+c) Dualism
+d) Non-dualism
+#QuestionEnd
+#AnswerStart
+Answer: d) Non-dualism
+#AnswerEnd
+
+#QuestionStart
+Q92) Who is called ‘Crypto-Buddhist’? [Chhattisgarh P.C.S. (Pre) 2019]
+a) Shankara
+b) Kapil
+c) Ramanuja
+d) Patanjali
+#QuestionEnd
+#AnswerStart
+Answer: a) Shankara
+#AnswerEnd
+
+#QuestionStart
+Q93) Who accepts only Perception? [Chhattisgarh P.C.S. (Pre) 2018]
+a) Jaina
+b) Charvaka
+c) Bauddha
+d) Samkhya
+#QuestionEnd
+#AnswerStart
+Answer: b) Charvaka
+#AnswerEnd
+
+#QuestionStart
+Q94) The doctrine of Apurva is related to- [Chhattisgarh P.C.S. (Pre) 2018]
+a) Charvaka
+b) Jaina
+c) Buddha
+d) Mimamsa
+#QuestionEnd
+#AnswerStart
+Answer: d) Mimamsa
+#AnswerEnd
+
+#QuestionStart
+Q95) Who has propounded the doctrine of momentariness? [Chhattisgarh P.C.S. (Pre) 2017]
+a) Buddha
+b) Jaina
+c) Charvaka
+d) Nyaya
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Buddha
+#AnswerEnd
+
+#QuestionStart
+Q96) Which one of the following is highest value according to Charvaka? [Chhattisgarh P.C.S. (Pre) 2017]
+a) Dharma
+b) Artha
+c) Kama
+d) Moksha
+e) Bhakti
+#QuestionEnd
+#AnswerStart
+Answer: c) Kama
+#AnswerEnd
+
+#QuestionStart
+Q97) Anatmavada (no-self) is the doctrine of- [Chhattisgarh P.C.S. (Pre) 2017]
+a) Sankhya
+b) Vedanta
+c) Buddhism
+d) Jainism
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Buddhism
+#AnswerEnd
+
+#QuestionStart
+Q98) “Samadhi Maran” is related to which Philosophy? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Buddhist Philosophy
+b) Jain Philosophy
+c) Yoga Philosophy
+d) Lokayat Philosophy
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Jain Philosophy
+#AnswerEnd
+
+#QuestionStart
+Q99) Which one of the following is not part of “Ashtangayoga” ? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Anusmriti
+b) Pratyahara
+c) Dhyana
+d) Dharana
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Anusmriti
+#AnswerEnd
+
+#QuestionStart
+Q100) By which of the following according to Advaita Vedanta, Mukti can be obtained? [Chhattisgarh P.C.S. (Pre) 2015]
+a) Gyana
+b) Karma
+c) Bhakti
+d) Yoga
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Gyana
+#AnswerEnd
+
+#QuestionStart
+Q101) The Founder of Advait Philosophy is- [Chhattisgarh P.C.S. (Pre) 2014]
+a) Sankaracharya
+b) Ramanujacharya
+c) Madhvacharya
+d) Mahatma Buddha
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) Sankaracharya
+#AnswerEnd
+
+#QuestionStart
+Q102) Which of the following schools of philosophy is of the opinion that Vedas contain the eternal truth? [Chhattisgarh P.C.S (Pre) 2013]
+a) Sankhya
+b) Vaisheshika
+c) Mimansa
+d) Nyaya
+e) Yoga
+#QuestionEnd
+#AnswerStart
+Answer: c) Mimansa
+#AnswerEnd
+
+#QuestionStart
+Q103) Who among the following Bhakti saints did not belong to Nirguna School of Bhakti? [CAPF 2021]
+a) Kabir
+b) Nanak
+c) Dadu
+d) Chaitanya
+#QuestionEnd
+#AnswerStart
+Answer: d) Chaitanya
+#AnswerEnd
+
+#QuestionStart
+Q104) Madhyamika Karika, the basic text of Madhyamika School, was composed by [CAPF 2021]
+a) Nagarjuna
+b) Asanga
+c) Vasubandhu
+d) Dharmakirti
+#QuestionEnd
+#AnswerStart
+Answer: a) Nagarjuna
+#AnswerEnd
+
+#QuestionStart
+Q105) Which one of the following statements about the Bhakti Movement in South India is NOT correct? [CAPF 2020]
+a) The Nalayira Divyaprabandham was also known as the Tamil Veda.
+b) Andal was an Alvar.
+c) Karaikkal Ammaiyar was a devotee of Vishnu.
+d) Metal images of the saints Appar and Sundarar were made and then consecrated in a Shiva temple.
+#QuestionEnd
+#AnswerStart
+Answer: c) Karaikkal Ammaiyar was a devotee of Vishnu.
+#AnswerEnd
+
+#QuestionStart
+Q106) Consider the following statements about the Lingayats: [CAPF 2020]
+1. They bury their dead.
+2. They are great believers in the caste system, especially in the theory of purity and pollution.
+3. They are against child marriage and favour widow remarriage.
+Which of the statements given above is/are correct?
+a) 1 and 2
+b) 1 only
+c) 2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q107) Consider the following statements about sulh-i kul: [CAPF 2020]
+1. It means ‘absolute peace’.
+2. It provided for freedom of expression to all religions and schools of thought.
+3. The ideal of sulh-i kul was implemented through state policies.
+Which of the statement(s) given above is/are correct?
+a) 1 and 2 only
+b) 1, 2 and 3
+c) 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q108) Which of the following statements about Bodhisattas is/are correct? [CAPF 2018]
+1. They were perceived as deeply compassionate beings who accumulated merit through their efforts.
+2. They made attempt to attain Nibbana.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q109) Who among the following was Buddha’s foster mother? [CAPF 2018]
+a) Puma
+b) Gajalakshmi
+c) Maya
+d) Mahapajapati Gotami
+#QuestionEnd
+#AnswerStart
+Answer: d) Mahapajapati Gotami
+#AnswerEnd
+
+#QuestionStart
+Q110) Which of the following statements about the ideology of Utilitarianism in the context of British India is/are correct? [CAPF 2016]
+1. Utilitarianism believed that the rule of law was necessary for societal betterment.
+2. James Mill expounded the principles of Utilitarianism in his famous book, ‘Utilitarians and the Raj’.
+3. Utilitarians differed from the liberals in significant ways.
+4. Utilitarianism had distinct authoritarian tendencies.
+Select the correct answer using the code given below:
+a) Only 1
+b) 1 and 2 only
+c) 3 and 4 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q111) Which one among the following is NOT true for the Brahmo Samaj? [CAPF 2014]
+a) It considered Vedic scriptures as infallible.
+b) It opposed idolatry.
+c) It emphasized the worship of one God.
+d) It emphasized the worship of God without the mediation of priests.
+#QuestionEnd
+#AnswerStart
+Answer: a) It considered Vedic scriptures as infallible.
+#AnswerEnd
+
+#QuestionStart
+Q112) Which one among the following is NOT true for the Theosophical Society of Madam H P Blavatsky? [CAPF 2014]
+a) It was founded outside India
+b) It advocated the revival of ancient religions
+c) It recognized the doctrine of transmigration of soul
+d) It was silent on the idea of Universal Brotherhood
+#QuestionEnd
+#AnswerStart
+Answer: d) It was silent on the idea of Universal Brotherhood
+#AnswerEnd
+
+#QuestionStart
+Q113) Which one of the following pairs denoting various forms of ‘Bhakti’ is NOT correctly matched? [CDS 2023 (I)]
+a) Saguna : Belief in Gods with attributes
+b) Nirguna: Belief in Gods without attributes
+c) Alvars : Believed in devotion of Shakti
+d) Nayanars : Believed in devotion of Shiva
+#QuestionEnd
+#AnswerStart
+Answer: c) Alvars : Believed in devotion of Shakti
+#AnswerEnd
+
+#QuestionStart
+Q114) To which one of the following schools of philosophy did Kumarila Prabhakara belong? [CDS 2022 (II)]
+a) Lokayata
+b) Madhyamika
+c) Purva-Mimamsa
+d) Uttara-Mimamsa
+#QuestionEnd
+#AnswerStart
+Answer: c) Purva-Mimamsa
+#AnswerEnd
+
+#QuestionStart
+Q115) Which among the following are Charvaka Schools of Philosophy? [CDS 2022 (II)]
+1. Dhurtta
+2. Nyaya
+3. Sushikshita
+4. Vaisheshika
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 2 and 3 only
+c) 2 and 4 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q116) Who among the following was the founder of the Virashaiva Movement in Karnataka? [CDS 2022(1)]
+a) Basavanna
+b) Appar
+c) Sambandar
+d) Sundarar
+#QuestionEnd
+#AnswerStart
+Answer: a) Basavanna
+#AnswerEnd
+
+#QuestionStart
+Q117) Which one of the following was NOT a part of Kautilya’s Saptanga Theory of the State? [CDS 2022(1)]
+a) Amatya
+b) janapada
+c) Durga
+d) Dhamma
+#QuestionEnd
+#AnswerStart
+Answer: d) Dhamma
+#AnswerEnd
+
+#QuestionStart
+Q118) Who were Alvars? [CDS 2019 (II)]
+a) Those who immersed in devotion to Vishnu.
+b) Devotees of Shiva.
+c) Those who worshipped abstract form of God.
+d) Devotees of Shakti.
+#QuestionEnd
+#AnswerStart
+Answer: a) Those who immersed in devotion to Vishnu.
+#AnswerEnd
+
+#QuestionStart
+Q119) Which Indian social theorist had argued that the idea of a homogenised Hinduism was constructed through the ‘cultural arrogance of post-enlightenment Europe?’ [CDS 2019 (I)]
+a) Ashis Nandy
+b) Partha Chatterjee
+c) TK Oommen
+d) Rajni Kothari
+#QuestionEnd
+#AnswerStart
+Answer: a) Ashis Nandy
+#AnswerEnd
+
+#QuestionStart
+Q120) The idea of ‘Farr-i-Izadi’, on which the Mughal kingship was based, was first developed by which one of the following Sufi saints? [CDS 2018 (I)]
+a) Shihabuddin Suhrawardi
+b) Nizamuddin Auliya
+c) Ibn al-Arabi
+d) Bayazid Bistami
+#QuestionEnd
+#AnswerStart
+Answer: a) Shihabuddin Suhrawardi
+#AnswerEnd
+
+#QuestionStart
+Q121) Around twelfth century, Sufi Silsilas began to crystallise in different parts of the Islamic world to signify [CDS 2018 (I)]
+1. Continuous link between the master and disciple.
+2. Unbroken spiritual genealogy to the Prophet Muhammad.
+3. The transmission of spiritual power and blessings to devotees.
+Which of the statement(s) given above is/are correct?
+a) 1 and 2
+b) Only 2
+c) 1 and 3
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: d) All of these
+#AnswerEnd
+
+#QuestionStart
+Q122) What was/were the formative influence(s) on the philosophy of Mahatma Gandhi? [CDS 2017 (I)]
+1. Gandhiji was influenced by the 18th Century Pranami sect that advocated the unity of faiths.
+2. Gandhiji was influenced by the theosophists.
+3. Gandhiji was an admirer of the writings of Romantics like Wordsworth.
+Select the correct answer using the codes given below:
+a) 1 and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q123) Which of the following statements about the philosopher Shankara is/are correct? [CDS 2016 (H)]
+1. Shankara espoused a form of Vedanta called Advaita.
+2. He elaborated on the philosophy of Gaudapada.
+3. Shankara tried to demonstrate that the Upanishads and Brahmasutras contain a unified, systematic philosophy.
+4. Shankara founded the Amanaya Mathas.
+Select the correct answer using the codes given below:
+a) 1 and 2
+b) 1, 2 and 3
+c) 3 and 4
+d) 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q124) Which of the following statement(s) is/are correct? [CDS 2014 (II)]
+1. Early Buddhist literature is generally composed of the canonical text.
+2. The Buddhist schools classify their canonical literature as only the Pitakas.
+Select the correct answer using the codes given below:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q125) Consider the following statements and answer the questions using the codes given below: [CDS 2014 (II)]
+Statement I: The 12th century witnessed the emergence of a new movement in Karnataka led by a Brahmana named Basavanna.
+Statement II: The Lingayats worshipped Shiva in his manifestation as a Linga.
+a) Both (A) and (R) is individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) is individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) is individually true, but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q126) Triratna or Three Jewels, i.e., right knowledge, right faith and right action are related to which of the following? [66th B.P.S.C. (Pre.) 2020]
+a) Buddhism
+b) Hinduism
+c) Jainism
+d) Christianity
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q127) Which of the following philosophies of India propounded the atom theory? [66th B.P.S.C. (Pre) 2020]
+a) Yoga
+b) Nyaya
+c) Sankhya
+d) Vaisheshika
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Vaisheshika
+#AnswerEnd
+
+#QuestionStart
+Q128) Who promulgated Din-i-elahi? [66th B.P.S.C. Re-Exam (Pre) 2020]
+a) Babar
+b) Akbar
+c) Jahangir
+d) Shah Jahan
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q129) A common feature to all Bhakti Saints was that they- [47th B.P.S.C. (Pre) 2005]
+a) Composed their verses in the language understood by their followers
+b) Rejected the authority of the priestly class
+c) Encouraged women to go to the temples
+d) Encouraged idol worship
+#QuestionEnd
+#AnswerStart
+Answer: a) Composed their verses in the language understood by their followers
+#AnswerEnd
+
+#QuestionStart
+Q130) Which one of the following is not common between Buddhism and Jainism? [44th B.P.S.C. (Pre) 2000]
+a) Ahimsa
+b) Indifference to Vedas
+c) Self-mortification
+d) Rejection of Rituals
+#QuestionEnd
+#AnswerStart
+Answer: c) Self-mortification
+#AnswerEnd
+
+#QuestionStart
+Q131) The meaning of ‘Jihad’ carried on by Aurangzeb is- [43rd B.P.S.C. (Pre) 1999]
+a) Darul-Harb
+b) Dar-ul-Islam
+c) Holy War
+d) Jizya
+#QuestionEnd
+#AnswerStart
+Answer: b) Dar-ul-Islam
+#AnswerEnd
+
+#QuestionStart
+Q132) Which of the following Doctrines are associated with Jainism? [R.A.S./R.T.S. (Pre.) 2021]
+(i) Anekantavada
+(ii) Sarvastivada
+(iii) Sunyavada
+(iv) Syadvada
+Select the correct answer using the code given below:
+a) (i) and (iv)
+b) (ii) and (iv)
+c) (i), (ii) and (iii)
+d) (ii) and (iii)
+#QuestionEnd
+#AnswerStart
+Answer: a) (i) and (iv)
+#AnswerEnd
+
+#QuestionStart
+Q133) Who among the following does NOT belong to the Chishti order? [R.A.S./R.T.S. (Pre) 2016]
+a) Khwaja Qutbuddin Bakhtiar Kaki
+b) Shaikh Abdul Jilani
+c) Shaikh Moinuddin
+d) Shaikh Nizamuddin Auliya
+#QuestionEnd
+#AnswerStart
+Answer: b) Shaikh Abdul Jilani
+#AnswerEnd
+
+#QuestionStart
+Q134) The sect which believed in abiding nature of destiny: [R.A.S./R.T.S. (Pre) (Re. Exam) 2013]
+a) Jainism
+b) Ajivakas
+c) Charvaka
+d) Buddhism
+#QuestionEnd
+#AnswerStart
+Answer: b) Ajivakas
+#AnswerEnd
+
+#QuestionStart
+Q135) ‘Tripitaka’ texts are related to which religion? [R.A.S./R.T.S.(Pre) 2012]
+a) Vedic religion
+b) Buddhism
+c) Jainism
+d) Shaivism
+#QuestionEnd
+#AnswerStart
+Answer: b) Buddhism
+#AnswerEnd
+
+#QuestionStart
+Q136) ‘God knows man’s virtues and enquires not his caste, in the next world there is no caste. This was the theory of which Bhakti saint? [R.A.S./R.T.S. (Pre) 2010]
+a) Ramanand
+b) Dadu
+c) Nanak
+d) Ramanuja
+#QuestionEnd
+#AnswerStart
+Answer: c) Nanak
+#AnswerEnd
+
+#QuestionStart
+Q137) Who was the first founder of Shwetambar creed during the first partition of Jain creed? [R.A.S./R.T.S. (Pre) 1999]
+a) Sthulabhadra
+b) Bhadrabahu
+c) Kalakacharya
+d) Deverdhi Kshama Sharaman
+#QuestionEnd
+#AnswerStart
+Answer: a) Sthulabhadra
+#AnswerEnd
+
+#QuestionStart
+Q138) “In spite of being Buddhist, Ashoka did not leave belief in Hinduism” validation of this fact is: [R.A.S./R.T.S. (Pre) 1999]
+a) Pilgrims
+b) Belief in Moksha
+c) Epithet of ‘Devanampriya’
+d) establishment of veterinary hospitals
+#QuestionEnd
+#AnswerStart
+Answer: c) Epithet of ‘Devanampriya’
+#AnswerEnd
+
+#QuestionStart
+Q139) The common belief of life of both Buddha and Mirabai was- [R.A.S./R.T.S. (Pre) 1992]
+a) Following ahimsa
+b) Austerity of Nirvana
+c) The world is full of sorrow
+d) Speak of truth
+#QuestionEnd
+#AnswerStart
+Answer: c) The world is full of sorrow
+#AnswerEnd
+
+#QuestionStart
+Q140) Who of the following is not associated with the Bhakti Movement? [Uttarakhand P.C.S. (Mains) 2006]
+a) Vallabhacharya
+b) Chaitanya
+c) Guru Nanak
+d) Amir Khusrau
+#QuestionEnd
+#AnswerStart
+Answer: d) Amir Khusrau
+#AnswerEnd
+
+#QuestionStart
+Q141) Whom of the following did Gautam Buddha nominate for the leadership of Buddhist Sangha after his death? [Uttarakhand P.C.S. (Pre) 2002]
+a) Ananda
+b) Mahakassapa
+c) Upali
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q142) Who among the following is not related to the Philosophy of Vedanta? [M.P.P.C.S. (Pre) 2014]
+a) Shankaracharya
+b) Abhinav Gupta
+c) Ramanuja
+d) Madhava
+#QuestionEnd
+#AnswerStart
+Answer: b) Abhinav Gupta
+#AnswerEnd
+
+#QuestionStart
+Q143) Match list-I with list-II and select the correct answer using the codes given below the lists: [UP RO/ARO (Pre) 2017]
+| List-I | List-II |
+|---|---|
+| A. Lakulisa | 1. Ajivaka |
+| B. Nagarjuna | 2. Sunyavada |
+| C. Bhadrabahu | 3. Pasupat |
+| D. Gosala | 4. Jain |
+Code:
+a) A-2, B-3, C-4, D-1
+b) A-3, B-2, C-4, D-1
+c) A-1, B-2, C-3, D-4
+d) A-3, B-1, C-4, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-2, C-4, D-1
+#AnswerEnd
+
+#QuestionStart
+Q144) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPBEO (Pre) 2019]
+| List-I (Philosophy) | List-II (Methods of achieve salvation) |
+|---|---|
+| A. Nyaya Darshan | 1. Acquisition of real knowledge |
+| B. Mimamsa Darshan | 2. Knowledge of self |
+| C. Sankhya Darshan | 3. Performing vedic rituals |
+| D. Vedanta Darshan | 4. Logical thinking |
+Code:
+a) A-2, B-4, C-1, D-3
+b) A-4, B-3, C-1, D-2
+c) A-1, B-4, C-2, D-3
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q145) Which one of the following is NOT associated with the Court of Kanishka? [U.P. Lower Sub. (Spl) (Pre) 2008]
+a) Ashvaghosha
+b) Charaka
+c) Nagarjuna
+d) Patanjali
+#QuestionEnd
+#AnswerStart
+Answer: d) Patanjali
+#AnswerEnd
+
+#QuestionStart
+Q146) Where are the four monasteries established by Adi ‘Shankaracharya’ situated? [U.P.P.C.S. (Pre) 2006]
+a) Sringeri, Dwarka, Joshimath, Prayaga
+b) Dwarka, Joshimath, Prayaga, Kanchi
+c) Joshimath, Dwarka, Puri, Sringeri
+d) Puri, Sringeri, Dwarka, Varanasi
+#QuestionEnd
+#AnswerStart
+Answer: c) Joshimath, Dwarka, Puri, Sringeri
+#AnswerEnd

@@ -1,0 +1,580 @@
+#QuestionStart
+Q1) “Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects.” The above statement reflects one of the core beliefs of which one of the following religious sects of ancient India? [UPSC CSE Pre 2023]
+a) Buddhism
+b) Jainism
+c) Shaivism
+d) Vaishnavism
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q2) The world’s second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently. Which one of the following statements correctly represents the teachings of Ramanuja? [UPSC CSE Pre. 2022]
+a) The best means of salvation was devotion.
+b) Vedas are eternal, self-existent and wholly authoritative.
+c) Logical arguments were essential means for the highest bliss.
+d) Salvation was to be obtained through meditation.
+#QuestionEnd
+#AnswerStart
+Answer: a) The best means of salvation was devotion.
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to Indian history, consider the following texts: [UPSC CSE Pre. 2022]
+1. Nettipakarana
+2. Parishishtaparvan
+3. Avadanashataka
+4. Trishashtilakshana Mahapurana
+Which of the above are Jaina texts?
+a) 1, 2 and 3
+b) 2 and 4 only
+c) 1, 3 and 4
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to Indian history, consider the following pairs: [UPSC CSE Pre. 2022]
+| Historical person | Known as |
+|---|---|
+| 1. Aryadeva | Jaina scholar |
+| 2. Dignaga | Buddhist scholar |
+| 3. Nathamuni | Vaishnava scholar |
+How many pairs given above are correctly matched?
+a) None of the pairs
+b) Only one pair
+c) Only two pairs
+d) All three pairs
+#QuestionEnd
+#AnswerStart
+Answer: c) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous: [UPSC CSE Pre 2021]
+a) Jain monks
+b) playwrights
+c) temple architects
+d) philosophers
+#QuestionEnd
+#AnswerStart
+Answer: b) playwrights
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the cultural history of India, which one of the following is the correct description of the term ‘paramitas’? [UPSC CSE Pre. 2020]
+a) The earliest Dharmashastra texts written in aphoristic (sutra) style.
+b) Philosophical schools that did not accept the authority of Vedas.
+c) Perfections whose attainment led to the Bodhisattva path.
+d) Powerful merchant guilds of early medieval South India.
+#QuestionEnd
+#AnswerStart
+Answer: c) Perfections whose attainment led to the Bodhisattva path.
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the religious history of India, consider the following statements: [UPSC CSE Pre. 2020]
+1. Sthaviravadins belong to Mahayana Buddhism.
+2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.
+3. The deification of Buddha by Mahasanghikas fostered Mahayana Buddhism.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the cultural history of India, consider the following pairs: [UPSC CSE Pre. 2020]
+|   |   |
+|---|---|
+| 1. Parivrajaka | Renunciant and Wanderer |
+| 2. Shramana | Priest with a high status |
+| 3. Upasaka | Lay follower of Buddhism |
+Which of the pairs given above are correctly matched?
+a) 1 and 2 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: [UPSC CSE Pre. 2019]
+1. Saint Nimbarka was a contemporary of Akbar.
+2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following: [UPSC CSE Pre. 2019]
+1. Deification of the Buddha.
+2. Treading the path of Bodhisattvas.
+3. Image worship and rituals.
+Which of the above is/are the feature/ features of Mahayana Buddhism?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to the Indian History, who among the following is a future Buddha, yet to come to save the world? [UPSC CSE Pre. 2018]
+a) Avalokiteshvara
+b) Lokesvara
+c) Maitreya
+d) Padmapani
+#QuestionEnd
+#AnswerStart
+Answer: c) Maitreya
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to the religious practices in India, the “Sthanakvasi” sect belongs to [UPSC CSE Pre. 2018]
+a) Buddhism
+b) Jainism
+c) Vaishnavism
+d) Shaivism
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following statements correctly describes the meaning of legal tender money? (⭐ Please Re-check) [UPSC CSE Pre. 2018]
+a) The money which is tendered in courts of law to defray the fee of legal cases
+b) The money which a creditor is under compulsion to accept in settlement of his claims
+c) The bank money in the form of cheques, drafts, bills of exchange, etc.
+d) The metallic money in circulation in a country
+#QuestionEnd
+#AnswerStart
+Answer: b) The money which a creditor is under compulsion to accept in settlement of his claims
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to the religious history of India, consider the following statements: [UPSC CSE Pre. 2017]
+1. Sautrantika and Sammitiya were the sects of Jainism.
+2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to the religious history of India, consider the following statements: [UPSC CSE Pre. 2016]
+1. The concept of Bodhisattva is central to Hinayana sect of Buddhism.
+2. Bodhisattva is a compassionate one on his way to enlightenment.
+3. Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following Kingdoms were associated with the life of the Buddha? [UPSC CSE Pre. 2014]
+1. Avanti
+2. Gandhara
+3. Kosala
+4. Magadha
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 2 and 4 only
+c) 3 and 4 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following Bhakti Saints: [UPSC CSE Pre. 2013]
+1. Dadu Dayal
+2. Guru Nanak
+3. Tyagaraja
+Who among the above was/were preaching when the Lodi dynasty fell and Babur took over?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Which one of the following describes best the concept of Nirvana in Buddhism? [UPSC CSE Pre. 2013]
+a) The extinction of the flame of desire.
+b) The complete annihilation of self.
+c) A state of bliss and rest.
+d) A mental stage beyond all comprehension.
+#QuestionEnd
+#AnswerStart
+Answer: a) The extinction of the flame of desire.
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the following statements is/are applicable to Jain doctrine? [UPSC CSE Pre. 2013]
+1. The surest way of annihilating Karma is to practice penance.
+2. Every object, even the smallest particle has a soul.
+3. Karma is the bane of the soul and must be ended.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q20) With reference to the religious history of medieval India, the Sufi mystics were known to pursue which of the following practices? [UPSC CSE Pre. 2012]
+1. Meditation and control of breath.
+2. Severe ascetic exercises in a lonely place.
+3. Recitation of holy songs to arouse a state of ecstasy in their audience.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q21) With reference to the history of ancient India, which of the following was/were common to both Buddhism and Jainism? [UPSC CSE Pre. 2012]
+1. Avoidance of extremities of penance and enjoyment.
+2. Indifference to the authority of the Vedas
+3. Denial of efficacy of rituals.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Lord Buddha’s image is sometimes shown with the hand gesture called ‘Bhumisparsha Mudra’. It symbolizes [UPSC CSE Pre. 2012]
+a) Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation
+b) Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara
+c) Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus this life is transitory
+d) Both the statements a and b are correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: b) Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara
+#AnswerEnd
+
+#QuestionStart
+Q23) The Jain philosophy holds that the world is created and maintained by [UPSC CSE Pre. 2011]
+a) Universal Law
+b) Universal Truth
+c) Universal Faith
+d) Universal Soul
+#QuestionEnd
+#AnswerStart
+Answer: a) Universal Law
+#AnswerEnd
+
+#QuestionStart
+Q24) Among the following, who was not a proponent of Bhakti cult? [UPSC CSE Pre 2010]
+a) Nagarjuna
+b) Tukaram
+c) Tyagaraja
+d) Vallabhacharya
+#QuestionEnd
+#AnswerStart
+Answer: a) Nagarjuna
+#AnswerEnd
+
+#QuestionStart
+Q25) Why did Buddhism start declining in India in the early medieval times? [UPSC CSE Pre 2010]
+1. Buddha was by that time considered as one of the incarnations of Vishnu and thus became a part of Vaishnavism.
+2. The invading tribes from Central Asia till the time of the last Gupta king adopted Hinduism and persecuted Buddhists.
+3. The Kings of Gupta dynasty were strongly opposed to Buddhism.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 3
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q26) Mahamastakabhisheka, a great religious event, is associated with and done for who of the following? [UPSC CSE Pre 2009]
+a) Bahubali
+b) Buddha
+c) Mahavirji
+d) Natraja
+#QuestionEnd
+#AnswerStart
+Answer: a) Bahubali
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following statements: [UPSC CSE Pre 2006]
+1. The Ikshvaku rulers of Southern India were antagonistic towards Buddhism.
+2. The Pala rulers of Eastern India were Patrons of Buddhism.
+Which of the statement(s) given above is/ are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q28) According to Mimamsa system of philosophy, liberation is possible by means of: [UPSC CSE Pre 2005]
+a) Gyan
+b) Bhakti
+c) Yoga
+d) Karma
+#QuestionEnd
+#AnswerStart
+Answer: d) Karma
+#AnswerEnd
+
+#QuestionStart
+Q29) With reference to ancient Jainism, which one of the following statements is correct? [UPSC CSE Pre 2004]
+a) Jainism was spread in South India under the leadership of Sthulabhadra
+b) The Jains who remained under the leadership of Bhadrabahu were called Shvetambaras after the Council held at Pataliputra
+c) Jainism enjoyed the patronage of the Kalinga king Kharavela in the first century BC
+d) In the initial stage of Jainism, the Jainas worshipped image unlike Buddhist
+#QuestionEnd
+#AnswerStart
+Answer: c) Jainism enjoyed the patronage of the Kalinga king Kharavela in the first century BC
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the following statements: [UPSC CSE Pre 2003]
+1. Vardhamana Mahavira’s mother was the daughter of Lichchhavi King Chetaka.
+2. Gautama Buddha’s mother was a princess from the Koliyan dynasty.
+3. Parshvanatha, the twenty-third Tirthankara, belonged to Banaras.
+Which of these statements is/are correct?
+a) Only 1
+b) Only 2
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q31) Who among the following was the first Bhakti Saint to use Hindi for the propagation of his message? [UPSC CSE Pre 2002]
+a) Dadu
+b) Kabir
+c) Ramananda
+d) Tulsidas
+#QuestionEnd
+#AnswerStart
+Answer: c) Ramananda
+#AnswerEnd
+
+#QuestionStart
+Q32) In ancient Indian Buddhist monasteries, a ceremony called Pavarana used to be held. It was the: [UPSC CSE Pre 2002]
+a) Occasion to elect the Sanghparinayaka and two speakers one on Dhamma and the other on Vinaya
+b) Confession by monks of their offences committed during their stay in the monasteries during the rainy season
+c) Ceremony of initiation of new person into the Buddhist Sangha in which the head is shaved and when yellow robes are offered
+d) Gathering of Buddhist monks on the next day to the full-moon day of Ashadha when they take up a fixed abode for the next four months of rainy season
+#QuestionEnd
+#AnswerStart
+Answer: b) Confession by monks of their offences committed during their stay in the monasteries during the rainy season
+#AnswerEnd
+
+#QuestionStart
+Q33) The concept of Eightfold path forms the theme of: [UPSC CSE Pre 1998]
+a) Dipavamsa
+b) Divyavadana
+c) Mahaparinibban
+d) Dharma Chakra Pravartana Sutta
+#QuestionEnd
+#AnswerStart
+Answer: d) Dharma Chakra Pravartana Sutta
+#AnswerEnd
+
+#QuestionStart
+Q34) In the Mahayana Buddhism, the Bodhisattva Avalokitesvara was also known as: [UPSC CSE Pre 1997]
+a) Vajrapani
+b) Manjusri
+c) Padmapani
+d) Maitreya
+#QuestionEnd
+#AnswerStart
+Answer: c) Padmapani
+#AnswerEnd
+
+#QuestionStart
+Q35) Given below are two statements, one labeled as Assertion (A) and the other labelled as Reason (R). [UPSC CSE Pre 1997]
+Assertion (A): The sponsor and the most prominent figure of the Chishti order of Sufis in India is Khwaja Muinuddin Chishti.
+Reason (R): The Chishti order takes its name from a village Chishti in Ajmer.
+In the context of the above two statements, which one of the following is correct?
+a) Both (A) and (R) is individually true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) is individually true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q36) The Sufi saint who maintained that devotional music was one way of coming close to God was: [UPSC CSE Pre 1996]
+a) Muinuddin Chishti
+b) Baba Farid
+c) Sayyid Muhammad Gisudaraz
+d) Shah Alam Bukhari
+#QuestionEnd
+#AnswerStart
+Answer: a) Muinuddin Chishti
+#AnswerEnd
+
+#QuestionStart
+Q37) Which of the following were common to both Buddhism and Jainism? [UPSC CSE Pre 1996]
+1. Avoidance of extremities of penance and enjoyment.
+2. Indifference to the authority of the Vedas.
+3. Denial of efficiency of rituals.
+4. Non-injury to animal life.
+Select the answer using the code given below:
+a) 1, 2, 3 and 4
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q38) Which of the following pairs is correctly matched? [UPSC CSE Pre 1996]
+a) Guru Amar Das : Miri and Piri
+b) Guru Arjun Dev : Adi Granth
+c) Guru Ramdas : Dal Khalsa
+d) Guru Gobind Singh : Manji
+#QuestionEnd
+#AnswerStart
+Answer: b) Guru Arjun Dev : Adi Granth
+#AnswerEnd
+
+#QuestionStart
+Q39) Which one of the following is not a part of early Jain literature? [UPSC CSE Pre 1996]
+a) Therigatha
+b) Acarangasutra
+c) Sutrakritanga
+d) Brihatkalpasutra
+#QuestionEnd
+#AnswerStart
+Answer: a) Therigatha
+#AnswerEnd
+
+#QuestionStart
+Q40) The concept of Anuvrata was advocated by: [UPSC CSE Pre 1995]
+a) Mahayana Buddhism
+b) Hinayana Buddhism
+c) Jainism
+d) The Lokayata school
+#QuestionEnd
+#AnswerStart
+Answer: c) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q41) “Live well, as long as you live. Live well even by borrowing, for once cremated, there is no return.” This rejection of afterlife is an aphorism of the: [UPSC CSE Pre 1994]
+a) Kapalika Sects
+b) Sunyavada of Nagarjuna
+c) Ajivikas
+d) Charvakas
+#QuestionEnd
+#AnswerStart
+Answer: d) Charvakas
+#AnswerEnd
+
+#QuestionStart
+Q42) Name the ‘Mudra’ which is represented by the Gandharan Buddha image of Sarnath first Sermon. [UPSC CSE Pre 1994]
+a) Abhaya
+b) Dhyana
+c) Dharm Chakra
+d) Bhumisparsha
+#QuestionEnd
+#AnswerStart
+Answer: c) Dharm Chakra
+#AnswerEnd
+
+#QuestionStart
+Q43) ‘Mahayana* sect and Buddhism emerged during the reign of- [UPSC CSE Pre 1993]
+a) Ajatshatru
+b) Ashoka
+c) Dharmapala
+d) Kanishka
+#QuestionEnd
+#AnswerStart
+Answer: d) Kanishka
+#AnswerEnd
+
+#QuestionStart
+Q44) Who was the last one in the order of Jain Tirthankaras? [UPSC CSE Pre 1993]
+a) Parshvanath
+b) Risabhdev
+c) Mahavira
+d) Manisuvrata
+#QuestionEnd
+#AnswerStart
+Answer: c) Mahavira
+#AnswerEnd
+
+#QuestionStart
+Q45) In Jain Religion, which word is used for ‘Complete Intellect’? [UPSC CSE Pre 1993]
+a) Jin
+b) Ratna
+c) Kaivalya
+d) Nirvana
+#QuestionEnd
+#AnswerStart
+Answer: c) Kaivalya
+#AnswerEnd
+
+#QuestionStart
+Q46) What is the fundamental difference between Hinayana and Mahayana sects of Buddhism? [UPSC CSE Pre 1992]
+a) Belief in Non-violence
+b) Caste free society
+c) Worship of God and Goddess
+d) Worship of stupas
+#QuestionEnd
+#AnswerStart
+Answer: c) Worship of God and Goddess
+#AnswerEnd

@@ -1,0 +1,91 @@
+#QuestionStart
+Q1) With reference to India's decision to levy an equalization tax of 6% on online advertisement services offered by non- resident entities, which of the following statements is/are correct? (2018)
+1. It is introduced as a part of the Income Tax Act.
+2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the "Double Taxation Avoidance Agreements".
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements: [2015]
+1. The Rajya Sabha has no power either to reject or to amend a Money Bill.
+2. The Rajya Sabha cannot vote on the Demands for Grants.
+3. The Rajya Sabha cannot discuss the Annual Financial Statement.
+Which of the statements given above is / are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the Union Government, consider the following statements. (2015)
+1. The Department of Revenue is responsible for the preparation of the Union Budget that is presented to the Parliament.
+2. No amount can be withdrawn from the Consolidated Fund of India without the authorization of the Parliament of India.
+3. All the disbursements made from Public Account also need Authorization from the Parliament of India.
+Which of the following statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) What will follow if a Money Bill is substantially amended by the Rajya Sabha? [2013 - I]
+a) The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha
+b) The Lok Sabha cannot consider the bill further
+c) The Lok Sabha may send the Bill to the Rajya Sabha for reconsideration
+d) The President may call a joint sitting for passing the Bill
+#QuestionEnd
+#AnswerStart
+Answer: a) The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q5) Under which of the following circumstances may 'capital gains' arise? (2012)
+1. When there is an increase in the sales of a product
+2. When there is a natural increase in the value of the property owned
+3. When you purchase a painting and there is a growth in its value due to increase in its popularity
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) The authorization for the withdrawal of funds from the Consolidated Fund of India must come from [2011 - I]
+a) The President of India
+b) The Parliament of India
+c) The Prime Minister of India
+d) The Union Finance Minister
+#QuestionEnd
+#AnswerStart
+Answer: b) The Parliament of India
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following is responsible for the preparation and presentation of Union Budget to the Parliament? [2010]
+a) Department of Revenue
+b) Department of Economic Affairs
+c) Department of Financial Services
+d) Department of Expenditure
+#QuestionEnd
+#AnswerStart
+Answer: b) Department of Economic Affairs
+#AnswerEnd

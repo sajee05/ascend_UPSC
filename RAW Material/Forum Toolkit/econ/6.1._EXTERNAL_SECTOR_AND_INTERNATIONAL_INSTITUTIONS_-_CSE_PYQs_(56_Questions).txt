@@ -1,0 +1,736 @@
+#QuestionStart
+Q1) Consider the following statements:
+Statement-I:
+Switzerland is one of the leading exporters of gold in terms of value.
+Statement-II:
+Switzerland has the second largest gold reserves in the world.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.
+b) Both Statement-1 and Statement-II are correct and Statement-II is not the correct explanation for Statement-I.
+c) Statement-1 is correct but Statement-II is incorrect.
+d) Statement-I is incorrect but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-1 is correct but Statement-II is incorrect.
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements about G-20:
+1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.
+2. Digital public infrastructure is one of India’s G-20 priorities.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2023]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements:
+Statement-I:
+Recently, the United States of America (USA) and the European Union (EU) have launched the Trade and Technology Council”.
+Statement-II:
+The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-1 is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-1 is correct but Statement-II is incorrect
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements:
+The Stability and Growth Pact of the European Union is a treaty that
+1. limits the levels of the budgetary deficit of the countries of the European Union
+2. makes the countries of the European Union to share their infrastructure facilities
+3. enables the countries of the European Union to share their technologies
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+
+#QuestionStart
+Q5) “Rapid Financing Instrument” and “Rapid Credit Facility” are related to the provisions of lending by which one of the following? [UPSC CSE Pre. 2022]
+a) Asian Development Bank
+b) International Monetary Fund
+c) United Nations Environment Programme Finance Initiative
+d) World Bank
+#QuestionEnd
+#AnswerStart
+Answer: b) International Monetary Fund
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the Indian economy, consider the following statements;
+1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee.
+2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness.
+3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.
+Which of the above statements are correct? [UPSC CSE Pre. 2022]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the “G20 Common Framework”, consider the following statements;
+1. It is an initiative endorsed by the G20 together with the Paris Club.
+2. It is an initiative to support Low Income Countries with unsustainable debt.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following statements:
+The effect of devaluation of a currency is that it necessarily
+1. Improves the competitiveness of the domestic export in the foreign markets
+2. Increases the foreign value of domestic currency
+3. Improves the trade balance
+Which of the above statements is/are correct? [UPSC CSE Pre. 2021]
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q9) “Gold Tranche” (Reserve Tranche) refers to [UPSC CSE Pre. 2020]
+a) a loan system of the World Bank
+b) one of the operations of a Central Bank
+c) a credit system granted by WTO to its members
+d) a credit system granted by IMF to its members
+#QuestionEnd
+#AnswerStart
+Answer: d) a credit system granted by IMF to its members
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to Trade Related Investment Measures (TRIMS), which of the following statements is/are correct?
+1. Quantitative restrictions on imports by foreign investors are prohibited.
+2. They apply to investment m easures related to trade in both goods and services.
+3. They are not concerned with the regulation of foreign investment.
+Select the correct answer using the code given below: [UPSC CSE Pre. 2020]
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q11) If another global financial crisis happens in the near future, which of the following action/policies are most likely to give some immunity to India?
+1. Not depending on short-term foreign borrowings
+2. Opening up to more foreign banks
+3. Maintaining full capital account convertibility
+Select the correct answer using the code given below: [UPSC CSE Pre. 2020]
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following statements:
+1. Most of India’s external debt is owed by governmental entities.
+2. All of India’s external debt is denominated in US dollars.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2019]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q13) In the context of India, which of the following factors is/are contributor/ contributors to reducing the risk of a currency crisis?
+1. The foreign currency earnings of India’s IT sector
+2. Increasing the government expenditure
+3. Remittances from Indians abroad
+Select the correct answer using the code given below. [UPSC CSE Pre. 2019]
+a) 1 only
+b) 1 and 3 only
+c) 2 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) India enacted the Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to [UPSC CSE Pre. 2018]
+a) ILO
+b) IMF
+c) UNCTAD
+d) WTO
+#QuestionEnd
+#AnswerStart
+Answer: d) WTO
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to the ‘National Intellectual Property Rights Policy’, consider the following statements:
+1. It reiterates India’s commitment to the Doha Development Agenda and the TRIPS Agreement.
+2. Department of Industrial Policy and Promotion is the nodal agency for regulating intellectual property rights in India.
+Which of the above statements is/are correct? [UPSC CSE Pre. 2017]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q16) In the context of which of the following do you sometimes find the terms ‘amber box, blue box and green box’ in the news? [UPSC CSE Pre. 2016]
+a) WTO affairs
+b) SAARC affairs
+c) UNFCCC affairs
+d) India-EU negotiations on FTA
+#QuestionEnd
+#AnswerStart
+Answer: a) WTO affairs
+#AnswerEnd
+
+#QuestionStart
+Q17) With reference to the International Monetary and Financial Committee (IMFC), consider the following statements:
+1. IMFC discusses matters of concern affecting the global economy, and advises the International Monetary Fund (IMF) on the direction of its work.
+2. The World Bank participates as observer in IMFC’s meetings.
+Which of the statements given above is/are correct? [UPSC CSE Pre. 2016]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q18) Which of the following best describes the term ‘import cover’, sometimes seen in the news? [UPSC CSE Pre. 2016]
+a) It is the ratio of value of imports to the Gross Domestic Product of a country.
+b) It is the total value of imports of a country in a year.
+c) It is the ratio between the value of exports and that of imports between two countries.
+d) It is the number of months of imports that could be paid for by a country’s international reserves.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the number of months of imports that could be paid for by a country’s international reserves.
+#AnswerEnd
+
+#QuestionStart
+Q19) Convertibility of rupee implies [UPSC CSE Pre. 2015]
+a) being able to convert rupee notes into gold
+b) allowing the value of rupee to be fixed by market forces
+c) freely permitting the conversion of rupee to other currencies and vice versa.
+d) developing an international market for currencies in India.
+#QuestionEnd
+#AnswerStart
+Answer: c) freely permitting the conversion of rupee to other currencies and vice versa.
+#AnswerEnd
+
+#QuestionStart
+Q20) The problem of international liquidity is related to the non availability of [UPSC CSE Pre. 2015]
+a) goods and services
+b) gold and silver
+c) dollars and other hard currencies
+d) exportable surplus
+#QuestionEnd
+#AnswerStart
+Answer: c) dollars and other hard currencies
+#AnswerEnd
+
+#QuestionStart
+Q21) Which of the following organizations brings out the publication known as ‘World Economic Outlook? [UPSC CSE Pre. 2014]
+a) The International Monetary Fund
+b) The United Nations Development Programme
+c) The World Economic Forum
+d) The World Bank
+#QuestionEnd
+#AnswerStart
+Answer: a) The International Monetary Fund
+#AnswerEnd
+
+#QuestionStart
+Q22) With reference to Balance of Payments, which of the following constitutes/ constitute the Current Account? [UPSC CSE Pre. 2014]
+1. Balance of trade
+2. Foreign assets
+3. Balance of invisibles
+4. Special Drawing Rights
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) The balance of payments of a country is a systematic record of [UPSC CSE Pre. 2013]
+a) all import and export transactions of a country during a given period normally a year
+b) goods exported from a country during a year
+c) economic transaction between the government of one country to another
+d) capital movements from one country to another
+#QuestionEnd
+#AnswerStart
+Answer: a) all import and export transactions of a country during a given period normally a year
+#AnswerEnd
+
+#QuestionStart
+Q24) Which of the following constitute Capital Account?
+1. Foreign Loans
+2. Foreign Direct Investment
+3. Private Remittances
+4. Portfolio Investment
+Select the correct answer using the codes given below. [UPSC CSE Pre. 2013]
+a) 1, 2 and 3 only
+b) 1,2 and 4 only
+c) 2, 3 and 4 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q25) Which one of the following groups of items is included in India’s foreign-exchange reserves? [UPSC CSE Pre. 2013]
+a) Foreign-currency assets, Special Drawing Rights (SDRs) and loans from foreign countries
+b) Foreign-currency assets, gold holdings of the RBI and SDRs
+c) Foreign-currency assets, loans from the World Bank and SDRs
+d) Foreign-currency assets, gold holdings of the RBI and loans from the World Bank
+#QuestionEnd
+#AnswerStart
+Answer: b) Foreign-currency assets, gold holdings of the RBI and SDRs
+#AnswerEnd
+
+#QuestionStart
+Q26) Which of the following would include Foreign Direct Investment on India?
+I. Subsidiaries of foreign companies in India
+2. Majority foreign equity holding in Indian companies
+3. Companies exclusively financed by foreign companies
+4. Portfolio investment
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1, 2, 3 and 4
+b) 2 and 4 only
+c) 1 and 3 only
+d) 1, 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following statement;
+The price of any currency in international market is decided by the
+1, World Bank.
+2. Demand for goods/services provided by the country concerned.
+3. Stability of the government of the concerned country.
+4. Economic potential of the country in question.
+Select the correct answer using the codes given below: [UPSC CSE Pre. 2012]
+a) 1, 2, 3 and 4
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q28) In terms of economy, the visit by foreign nationals to witness the XIX Common Wealth Games in India amounted to [UPSC CSE Pre. 2011]
+a) Export
+b) Import
+c) Production
+d) Consumption
+#QuestionEnd
+#AnswerStart
+Answer: a) Export
+#AnswerEnd
+
+#QuestionStart
+Q29) Both Foreign Direct Investment (FDI) and Foreign Institutional Investor (FII) are related to investment in a country. Which one of the following statements best represents an important difference between the two? [UPSC CSE Pre. 2011]
+a) FII helps bring better management skills and technology, while FDI only brings in capital
+b) FII helps in increasing capital availability in general, while FDI only targets specific sectors
+c) FDI flows only into the secondary market, while FII targets primary market
+d) FII is considered to be more stable than FDI
+#QuestionEnd
+#AnswerStart
+Answer: b) FII helps in increasing capital availability in general, while FDI only targets specific sectors
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the following actions which the Government can take:
+1. Devaluing the domestic currency.
+2. Reduction in the export subsidy.
+3. Adopting suitable policies which attract greater FDI and more funds from Fils.
+Which of the above action/actions can help in reducing the current account deficit? [UPSC CSE Pre. 2011]
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q31) As regards the use of international food safety standards as reference point for the dispute settlements, which one of the following does WTO collaborates with? [UPSC CSE Pre 2010]
+a) Codex Alimentarius Commission
+b) International Federation of Standards Users
+c) International Organization for Standardization
+d) World Standards Cooperation
+#QuestionEnd
+#AnswerStart
+Answer: a) Codex Alimentarius Commission
+#AnswerEnd
+
+#QuestionStart
+Q32) ThelnternationalDevelopmentAssociation, a lending agency, is administered by the: [UPSC CSE Pre 2010]
+a) International Bank for Reconstruction and Development
+b) International Fund for Agricultural Development
+c) United Nations Development Programme
+d) United Nations Industrial Development Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) International Bank for Reconstruction and Development
+#AnswerEnd
+
+#QuestionStart
+Q33) In the context of the affairs of which of the following is the phrase ‘Special Safeguard Mechanisms’ mentioned in the news frequently? [UPSC CSE Pre 2010]
+a) United Nations Environment Programme
+b) World Trade Organization
+c) ASEAN- India Free Trade Agreement
+d) G-20 Summits
+#QuestionEnd
+#AnswerStart
+Answer: b) World Trade Organization
+#AnswerEnd
+
+#QuestionStart
+Q34) In order to comply with TRIPS Agreement, India enacted the Geoprahical Indications of Goods (Registration and Protection) Act, 1999. The difference/differences between a ‘Trade Mark’ and a ‘Geographical Indication’ is/are:
+1. A Trade Mark is an individual or a company’s right whereas a Geographical Indication is a community’s right.
+2. A Trade Mark can be licensed whereas a Geographical Indication cannot be licensed.
+3. A Trademark is assigned to the manufactured goods whereas the Geographical Indication is assigned to the agricultural goods/products and handicraft only.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2010]
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q35) Which of the following is/are treated as artificial currency? [UPSC CSE Pre 2010]
+a) ADR
+b) GDR
+c) SDR
+d) Both ADR and SDR
+#QuestionEnd
+#AnswerStart
+Answer: c) SDR
+#AnswerEnd
+
+#QuestionStart
+Q36) Which one of the following is not related to United Nations? [UPSC CSE Pre 2010]
+a) Multilateral Investment Guarantee Agency
+b) International Finance Corporation
+c) International Centre for Settlement of Investment Disputes
+d) Bank for International Settlements
+#QuestionEnd
+#AnswerStart
+Answer: d) Bank for International Settlements
+#AnswerEnd
+
+#QuestionStart
+Q37) To integrate cultural leaders into its meetings, which one of the following gives ‘Crystal Award’? [UPSC CSE Pre 2009]
+a) Asia-Pacific Economic Cooperation
+b) International Bank for Reconstruction and Development
+c) World Health Organization
+d) World Economic Forum
+#QuestionEnd
+#AnswerStart
+Answer: d) World Economic Forum
+#AnswerEnd
+
+#QuestionStart
+Q38) Consider the following pairs:
+| Organization | Location of Headquarters |
+|---|---|
+| 1. Asian Development Bank | Tokyo |
+| 2. Asia-Pacific Economic Cooperation | Singapore |
+| 3. Association of South-East Asian Nations | Bangkok |
+Which of the above pair(s) is/are correctly matched? [UPSC CSE Pre 2009]
+a) 1 and 2
+b) 2 only
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q39) India is a member of which of the following?
+1. Asian Development Bank
+2. Asia-Pacific Economic Cooperation
+3. Colombo Plan
+4. Organization for Economic Cooperation and Development (OECD)
+Select the correct answer using the code given below: [UPSC CSE Pre 2008]
+a) 1 and 3
+b) 2 and 4
+c) 1,2 and 3
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q40) For which one of the following items, is Tirupur well-known as a huge exporter to many parts of the world? [UPSC CSE Pre 2005]
+a) Gems and Jewellery
+b) Leather goods
+c) Knitted garments
+d) Handicrafts
+#QuestionEnd
+#AnswerStart
+Answer: c) Knitted garments
+#AnswerEnd
+
+#QuestionStart
+Q41) In which one of the following countries is Rupee its currency? [UPSC CSE Pre 2003]
+a) Bhutan
+b) Malaysia
+c) Maldives
+d) Seychelles
+#QuestionEnd
+#AnswerStart
+Answer: d) Seychelles
+#AnswerEnd
+
+#QuestionStart
+Q42) A country is said to be in debt trap if: [UPSCCSEPre 2002]
+a) it has to abide by the conditionalities imposed by the International Monetary Fund
+b) it has to borrow to make interest payments on outstanding loans
+c) it has been refused loans or aid by creditors abroad
+d) the World Bank charges a very high rate of interest on outstanding as well as new loans
+#QuestionEnd
+#AnswerStart
+Answer: b) it has to borrow to make interest payments on outstanding loans
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following statements:
+Full convertibility of the rupee may mean -
+1. Its free float with other international currencies
+2. Its direct exchange with any other international currency at any prescribed place inside and outside the country.
+3. It acts just like any other international currency.
+Which of these statements are correct? [UPSC CSE Pre 2002]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q44) Consider the following statements about the European Union:
+1. The European Union was known earlier as the European Community.
+2. The Single European Act (1986) and the Maastricht Treaty were milestones in its formation.
+3. Citizens of European Union countries enjoy dual citizenship.
+4. Switzerland is a member of the European Union.
+Which of the above statements are correct? [UPSC CSE Pre 1999]
+a) 2 and 4
+b) 1 and 3
+c) 3 and 4
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q45) Consider the following statements and select the correct answer from the code given below : [UPSC CSE Pre 1999]
+Assertion (A) : Devaluation of a currency may promote export.
+Reason. (R) : Price of the country’s products in the international market may fall due to devaluation.
+a) Both A and R are true and R is the correct explanation of A
+b) Both A and R are true, but R is not a correct explanation of A
+c) A is true, but R is false
+d) A is false, but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both A and R are true and R is the correct explanation of A
+#AnswerEnd
+
+#QuestionStart
+Q46) The Capital Account Convertibility of the Indian Rupee implies: [UPSC(Pre) 1998]
+a) that the Indian Rupee can be exchanged by the authorised dealers for travel
+b) that the Indian Rupee can be exchanged for any major currency for the purpose of trade in goods and services
+c) that the Indian Rupee can be exchanged for any major currency for the purpose of trading financial assets
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) that the Indian Rupee can be exchanged for any major currency for the purpose of trading financial assets
+#AnswerEnd
+
+#QuestionStart
+Q47) Which of the following were the aims behind the setting up of the World Trade Organization (WTO)?
+1. Promotion of free trade and resource flows across countries
+2. Protection of intellectual property rights
+3. Managing balanced trade between different countries
+4. Promotion of trade between the former East Bloc countries and the western world
+Select the correct answer by using the codes given below: [UPSCCSEPre 1996]
+a) 1,2,3, and 4
+b) 1 and 2
+c) 2 and 3
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2,3, and 4
+#AnswerEnd
+
+#QuestionStart
+Q48) Hawala transactions are related to payments: [UPSC CSE Pre 1996]
+a) received in rupees against overseas currencies and vice versa without going through the official channels
+b) received for sale/transfer of shares without going through the established stock exchanges
+c) received as commission for services rendered to overseas investors/buyers/ sellers in assisting them to get over the red tape and/or in getting preferential treatment
+d) made to political parties or to individuals for meeting election expenses
+#QuestionEnd
+#AnswerStart
+Answer: a) received in rupees against overseas currencies and vice versa without going through the official channels
+#AnswerEnd
+
+#QuestionStart
+Q49) Consider the following statements:
+Most international agencies which fund development programmes in India on intergovernmental bilateral agreements, mainly provide:
+1. Technical assistance
+2. Soft loans which are required to be paid back with interest
+3. Grants, not required to be paid back
+4. Food assistance to alleviate poverty
+Which of these statements are correct? [UPSCCSEPre 1996]
+a) 2 and 4 are correct
+b) 1,2 and 3 are correct
+c) 1, 2, and 4 are correct
+d) 3 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 are correct
+#AnswerEnd
+
+#QuestionStart
+Q50) Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R).
+Assertion (A) : An important policy instrument of economic liberalization is reduction in import duties on capital goods. Reason (R) : Reduction in import duties would help the local entrepreneurs to improve technology to face the global markets.
+In the context of the above two statements, which one of the following is correct? [UPSCCSEPre 1996]
+a) Both A and R are true and R is the correct explanation
+b) Both A and R are true but R is not a correct explanation
+c) A is true but R is false
+d) A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both A and R are true and R is the correct explanation
+#AnswerEnd
+
+#QuestionStart
+Q51) Which of the following constitute the World Bank?
+1. International Bank for Reconstruction and Development
+2. International Finance Corporation
+3. International Development Association
+4. International Monetary Fund
+Select the correct answer using codes given below: [UPSCCSEPre 1995]
+a) 1, 2 and 3
+b) 1, and 2
+c) 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q52) The main function of the IMF is to: [UPSCCSEPre 1994]
+a) arrange international deposits from banks
+b) help to solve balance of payments problems of member countries
+c) act as a private sector lending arm of the World Bank
+d) finance investment loans to developing countries
+#QuestionEnd
+#AnswerStart
+Answer: b) help to solve balance of payments problems of member countries
+#AnswerEnd
+
+#QuestionStart
+Q53) Devaluation of a currency means: [UPSC(Pre) 1994]
+a) reduction in the value of a currency vis-a-vis major internationally traded currencies
+b) permitting the currency to seek its worth in the international market
+c) fixing the value of the currency in conjunction with the movement in the value of a basket of predetermined currencies
+d) fixing the value of a currency in multilateral consultation with the IMF, the World Bank and major trading partners
+#QuestionEnd
+#AnswerStart
+Answer: a) reduction in the value of a currency vis-a-vis major internationally traded currencies
+#AnswerEnd
+
+#QuestionStart
+Q54) The earnings of India from diamond export is quite high. Which one of the following factors has contributed to it? [UPSCCSEPre 1993]
+a) Pre-independence stockpiling of diamonds in the country which are now exported
+b) Large production of industrial diamonds in the Country
+c) Expertise available for cutting and polishing of imported diamonds which are then exported
+d) As in the past, India produces huge quantity of gem diamonds which are exported
+#QuestionEnd
+#AnswerStart
+Answer: c) Expertise available for cutting and polishing of imported diamonds which are then exported
+#AnswerEnd
+
+#QuestionStart
+Q55) Eurodollars are: [UPSC CSE Pre 1993]
+a) a currency issued by European Monetary Union
+b) special currency issued by the federal government of USA, to be used only in Europe
+c) U.S. dollars circulating in Europe
+d) European currencies exchanged for the US Dollar in USA
+#QuestionEnd
+#AnswerStart
+Answer: c) U.S. dollars circulating in Europe
+#AnswerEnd
+
+#QuestionStart
+Q56) Which one of the following pairs is correctly matched? [UPSCCSEPre 1993]
+a) Rationing - Fiscal Control
+b) Cash Reserve Ratio - Selective credit control
+c) Licensing - Comprehensive Control
+d) Import Quota - Physical Control
+#QuestionEnd
+#AnswerStart
+Answer: d) Import Quota - Physical Control
+#AnswerEnd

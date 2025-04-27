@@ -1,0 +1,351 @@
+#QuestionStart
+Q1) In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located? [UPSC CSE Pre 2023]
+a) Andhra
+b) Gandhara
+c) Kalinga
+d) Magadha
+#QuestionEnd
+#AnswerStart
+Answer: a) Andhra
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as: [UPSC CSE Pre 2023]
+a) capital cities
+b) ports
+c) centres of iron-and-steel making
+d) shrines of Jain Tirthankaras
+#QuestionEnd
+#AnswerStart
+Answer: b) ports
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following explains the practice of “Vattakirutal” as mentioned in Sangam poems? [UPSC CSE Pre 2023]
+a) Kings employing women bodyguards
+b) Learned persons assembling in royal courts to discuss religious and philosophical matters
+c) Young girls keeping watch over agricultural fields and driving away birds and animals
+d) A king defeated in a battle committing ritual suicide by starving himself to death.
+#QuestionEnd
+#AnswerStart
+Answer: d) A king defeated in a battle committing ritual suicide by starving himself to death.
+#AnswerEnd
+
+#QuestionStart
+Q4) From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India? [UPSC CSE Pre 2021]
+1. The Guptas of Magadha
+2. The Paramaras of Malwa
+3. The Pushyabhutis of Thanesar
+4. The Maukharis of Kanauj
+5. The Yadavas of Devagiri
+6. The Maitrakas of Valabhi
+Select the correct answer using the code given below:
+a) 1, 2 and 5
+b) 1, 3, 4 and 6
+c) 2, 3 and 4
+d) 5 and 6
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3, 4 and 6
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following events in the history of India: [UPSC CSE Pre. 2020]
+1. Rise of Pratiharas under King Bhoja
+2. Establishment of Pallava power under Mahendravarman-I
+3. Establishment of Chola power by Parantaka-I
+4. Pala dynasty founded by Gopala
+What is the correct chronological order of the above events, starting from the earliest time?
+a) 2 - 1 - 4 - 3
+b) 3 - 1 - 4 - 2
+c) 2 - 4 - 1 - 3
+d) 3 - 4 - 1 - 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 - 4 - 1 - 3
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the history of India, consider the following pairs: [UPSC CSE Pre. 2020]
+| Famous Place | Present State |
+|---|---|
+| 1. Bhilsa | Madhya Pradesh |
+| 2. Dwarasamudra | Maharashtra |
+| 3. Girinagar | Gujarat |
+| 4. Sthanesvara | Uttar Pradesh |
+Which of the pairs given above are correctly matched?
+a) 1 and 3 only
+b) 1 and 4 only
+c) 2 and 3 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were known as: [UPSC CSE Pre. 2020]
+a) ports handling foreign trade
+b) capitals of powerful kingdoms
+c) places of exquisite stone art and architecture
+d) important of Buddhist pilgrimage centres
+#QuestionEnd
+#AnswerStart
+Answer: a) ports handling foreign trade
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the history of India, the terms ‘kulyavapa’ and ‘dronavapa’ denote; [UPSC CSE Pre. 2020]
+a) measurement of land
+b) coins of different monetary value
+c) classification of urban land
+d) religious rituals
+#QuestionEnd
+#AnswerStart
+Answer: a) measurement of land
+#AnswerEnd
+
+#QuestionStart
+Q9) With reference to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct? [UPSC CSE Pre. 2019]
+a) It was considered a source of income for the State, a sort of tax paid by the people.
+b) It was totally absent in the Madhya Pradesh and Kathiawar regions of the Gupta Empire.
+c) The forced labourer was entitled to weekly wages.
+d) The eldest son of the labourer was sent as the forced labourer.
+#QuestionEnd
+#AnswerStart
+Answer: a) It was considered a source of income for the State, a sort of tax paid by the people.
+#AnswerEnd
+
+#QuestionStart
+Q10) Which one of the following was a very important seaport in the Kakatiya kingdom? [UPSC CSE Pre. 2017]
+a) Kakinada
+b) Motupalli
+c) Machilipatnam
+d) Nelluru
+#QuestionEnd
+#AnswerStart
+Answer: b) Motupalli
+#AnswerEnd
+
+#QuestionStart
+Q11) In the context of the history of India, consider the following pairs: [UPSC CSE Pre. 2016]
+| Term | Description |
+|---|---|
+| 1. Eripatti | Land, revenue from which was set apart for the maintenance of the village tank |
+| 2. Taniyurs | Villages donated to a single Brahmin or a group of Brahmins |
+| 3. Ghatikas | Colleges generally attached to the temples |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2
+b) 3 only
+c) 2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q12) The Chinese traveller Yuan Chwang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct? [UPSC CSE Pre. 2013]
+1. The roads and river-routes were completely immune from robbery.
+2. As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt of a person.
+3. The tradesmen had to pay duties at ferries and barrier stations.
+Select the correct answer using the codes given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to the guilds (Shreni) of ancient India that played a very important role in the country’s economy, which of the following statements is/are correct? [UPSC CSE Pre. 2012]
+1. Every guild was registered with the central authority of the State and the king was the chief administrative authority on them.
+2. The wages, rules of work, standards and prices were fixed by the guild.
+3. The guild had judicial powers over its own members.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) India maintained its early cultural contacts and trade links with Southeast Asia across the Bay of Bengal. For this pre-eminence of early maritime history of Bay of Bengal, which of the following could be the most convincing explanation/explanations? [UPSC CSE Pre. 2011]
+a) As compared to other countries, India had a better ship-building technology in ancient and medieval times
+b) The rulers of southern India always patronized traders, Brahmin priests and Buddhist monks in this context
+c) Monsoon winds across the Bay of Bengal facilitated sea voyages
+d) Both a and b are convincing explanations in this context
+#QuestionEnd
+#AnswerStart
+Answer: c) Monsoon winds across the Bay of Bengal facilitated sea voyages
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to the invaders in ancient India, which one of the following is the correct chronological order? [UPSC CSE Pre 2006]
+a) Greeks-Sakas-Kushanas
+b) Greeks-Kushanas-Sakas
+c) Sakas-Greeks-Kushanas
+d) Sakas-Kushanas-Greeks
+#QuestionEnd
+#AnswerStart
+Answer: a) Greeks-Sakas-Kushanas
+#AnswerEnd
+
+#QuestionStart
+Q16) Who among the following was not a contemporary of the other three? [UPSC CSE Pre 2005]
+a) Bimbisara
+b) Gautama Buddha
+c) Milinda
+d) Prasenjit
+#QuestionEnd
+#AnswerStart
+Answer: c) Milinda
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following statements: [UPSC CSE Pre 2004]
+1. The Chinese pilgrim Fa-Hien attended the fourth Great Buddhist Council held by Kanishka.
+2. The Chinese pilgrim Hiuen-Tsang met Harsha and found him to be antagonistic to Buddhism.
+Which of the statements given above is/are correct?
+a) 1 Only
+b) 2 Only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q18) ‘Mrichchhakatika, an ancient Indian book written by Shudraka deals with: [UPSC CSE Pre 2003]
+a) The love affair of a rich merchant with the daughter of a courtesan
+b) The victory of Chandragupta II over the Shaka Kshatrapas of western India
+c) The military expeditions and exploits of Samudragupta
+d) The love affairs between a Gupta King and a Princess of Kamarupa
+#QuestionEnd
+#AnswerStart
+Answer: a) The love affair of a rich merchant with the daughter of a courtesan
+#AnswerEnd
+
+#QuestionStart
+Q19) Emperor Harsha’s Southward march was stopped on the Narmada River by: [UPSC CSE Pre 2003]
+a) Pulakeshin-I
+b) Pulakeshin-II
+c) Vikramaditya-I
+d) Vikramaditya-II
+#QuestionEnd
+#AnswerStart
+Answer: b) Pulakeshin-II
+#AnswerEnd
+
+#QuestionStart
+Q20) The ancient Indian play Mudrarakshasa of Visakhadutt has its subject on: [UPSC CSE Pre 2002]
+a) a conflict between Gods and Demons of ancient Hindu lore
+b) a romantic story of an Aryan prince and a tribal woman
+c) the story of the power struggle between two Aryan tribes
+d) the court intrigues at the time of Chandragupta Maurya
+#QuestionEnd
+#AnswerStart
+Answer: d) the court intrigues at the time of Chandragupta Maurya
+#AnswerEnd
+
+#QuestionStart
+Q21) From the third century AD when the Huna invasion ended the Roman Empire, the Indian merchants relied more and more on the: [UPSC CSE Pre 1999]
+a) African trade
+b) Western-European trade
+c) South-East Asian trade
+d) Middle-Eastern trade
+#QuestionEnd
+#AnswerStart
+Answer: c) South-East Asian trade
+#AnswerEnd
+
+#QuestionStart
+Q22) Which one of the following ports handled the North Indian trade during the Gupta period? [UPSC CSE Pre 1999]
+a) Tamralipti
+b) Bhadoch
+c) Kalyan
+d) Cambay
+#QuestionEnd
+#AnswerStart
+Answer: a) Tamralipti
+#AnswerEnd
+
+#QuestionStart
+Q23) Which one of the following sculptures invariably used green schist as the medium? [UPSC CSE Pre 1996]
+a) Mauryan sculptures
+b) Mathura sculptures
+c) Bharhut sculptures
+d) Gandhara sculptures
+#QuestionEnd
+#AnswerStart
+Answer: d) Gandhara sculptures
+#AnswerEnd
+
+#QuestionStart
+Q24) The silver coins issued by the Guptas were called: [UPSC CSE Pre 1996]
+a) Karshapana
+b) Dinara
+c) Rupaka
+d) Nisc
+#QuestionEnd
+#AnswerStart
+Answer: c) Rupaka
+#AnswerEnd
+
+#QuestionStart
+Q25) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre 1995]
+| List-I (Eras) | List-II (Reckoned from) |
+|---|---|
+| A. Vikrama era | 1. 3102 BCE |
+| B. Saka era | 2. 320 CE |
+| C. Gupta era | 3. 78 CE |
+| D. Kali era | 4. 58 BCE |
+|  | 5. 248 BCE |
+Code:
+a) A-2, B-4, C-5, D-1
+b) A-1, B-3, C-2, D-4
+c) A-4, B-5, C-2, D-3
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: d) A-4, B-3, C-2, D-1
+#AnswerEnd
+
+#QuestionStart
+Q26) In Sanskrit plays written during the Gupta period, women and Sudras speak: [UPSC CSE Pre 1995]
+a) Sanskrit
+b) Prakrit
+c) Pali
+d) Sauraseni
+#QuestionEnd
+#AnswerStart
+Answer: b) Prakrit
+#AnswerEnd
+
+#QuestionStart
+Q27) Torman was from the racial group of- [UPSC CSE Pre 1995]
+a) Sithian
+b) Huna
+c) Yaochi
+d) Saka
+#QuestionEnd
+#AnswerStart
+Answer: b) Huna
+#AnswerEnd
+
+#QuestionStart
+Q28) Who among the following is not associated with medicine in ancient India? [UPSC CSE Pre 1993]
+a) Dhanvantari
+b) Bhaskaracharya
+c) Charaka
+d) Susruta
+#QuestionEnd
+#AnswerStart
+Answer: b) Bhaskaracharya
+#AnswerEnd

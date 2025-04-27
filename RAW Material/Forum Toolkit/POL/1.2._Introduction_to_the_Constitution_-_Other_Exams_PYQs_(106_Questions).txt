@@ -1,0 +1,1367 @@
+#QuestionStart
+Q35) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Third Schedule | 1. Allocation of seats in the Council of States |
+| B. Fourth Schedule | 2. Forms of Oath or Affirmations |
+| C. Seventh Schedule | 3. Languages |
+| D. Eighth Schedule | 4. List of subject matter of laws to be made by the Parliament and by State Legislatures |
+Code: [UPPCS Pre 2022]
+a) A3 B4 C2 D1
+b) A1 B2 C3 D4
+c) A4 B3 C1 D2
+d) A2 B1 C4 D3
+#QuestionEnd
+#AnswerStart
+Answer: d) A2 B1 C4 D3
+#AnswerEnd
+
+#QuestionStart
+Q36) Consider the following subjects and arrange them into sequential order as mentioned in the Constitution:
+1. The Union and its territory
+2. Fundamental duties
+3. Citizenship
+4. Directive Principles of State Policy
+Select the correct answer from the code given below. [UPPCS Pre 2022]
+a) 4, 2, 3, 1
+b) 1,3, 4,2
+c) 2,4, 1, 3
+d) 3, 1, 2,4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,3, 4,2
+#AnswerEnd
+
+#QuestionStart
+Q37) Which one of the following is not correctly matched? [UPPCS Pre 2021 ]
+| Provisions | Sources |
+|---|---|
+| (a) Fundamental Rights | USA |
+| (b) Directive Principles of State Policy | Ireland |
+| (c) Residual Powers of Center | Australia |
+| (c) Emergency Powers | Germany |
+#QuestionEnd
+#AnswerStart
+Answer: c) Residual Powers of Center Australia
+#AnswerEnd
+
+#QuestionStart
+Q38) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List -I (Article) | List-II (Provision) |
+|---|---|
+| A. Article 61 | 1. Removal of Deputy Chairman of Rajya Sabha |
+| B. Article 67 (b) | 2. Impeachment of President |
+| C. Article 94 | 3. Removal of Vice- President |
+| D. Article 90 | 4. Removal of Speaker |
+Code: [UPPCS Pre 2020]
+a) A2 B4 C3 D1
+b) A3 B2 C4 D1
+c) A2 B3 C4 D1
+d) A4 B1 C3 D2
+#QuestionEnd
+#AnswerStart
+Answer: c) A2 B3 C4 D1
+#AnswerEnd
+
+#QuestionStart
+Q39) Which of the following is not correctly matched? [UPPCS Pre 2019]
+a) Public Health and Sanitation State List
+b) Census Union List
+c) Allocation of seats in the council of States Second Schedule
+d) Anti- Defection Tenth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: c) Allocation of seats in the council of States Second Schedule
+#AnswerEnd
+
+#QuestionStart
+Q40) The concept of “A Union of States in the Indian Constitution” has been derived from [UPPCS Pre 2017]
+a) The American Declaration of Independence
+b) The Australian Constitution
+c) The British North American Act
+d) The Swiss Constitution
+#QuestionEnd
+#AnswerStart
+Answer: c) The British North American Act
+#AnswerEnd
+
+#QuestionStart
+Q41) Which of the following are enshrined in the third schedule of the Indian Constitution?
+1. Form of oath of office for a Minister for the Union.
+2. Form of oath to be made by the Chief Justice of Supreme Court.
+3. Form of oath of office for the President of India.
+4. Form of oath to be made by a Member of Parliament.
+Select the correct answer using the code given below: [UPPCS Pre 2017]
+a) 1,2 and 3 only
+b) 2, 3 and 4 only
+c) 1,2 and 4 only
+d) 1 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q42) Coelho case is related to which Schedule of the Constitution of India? [UPPCS (Mains) 2017]
+a) Seventh
+b) Eight
+c) Ninth
+d) Tenth
+#QuestionEnd
+#AnswerStart
+Answer: c) Ninth
+#AnswerEnd
+
+#QuestionStart
+Q43) In which case did the Supreme Court first declare that the Preamble is not a part of the Constitution? [U.P. P.C.S. (Mains) 2017]
+a) Berubari
+b) Sajjan Singh
+c) Golak Nath
+d) Keshvanand Bharti
+#QuestionEnd
+#AnswerStart
+Answer: a) Berubari
+#AnswerEnd
+
+#QuestionStart
+Q44) A citizen of India will loose his or her citizenship if he or she
+1. renounces Indian citizenship.
+2. voluntarily acquires the citizenship of another country.
+3. marries a citizen of another country.
+4. criticizes the government.
+Select the correct answer using the codes given below: [U.P. P.C.S. (Mains) 2017]
+a) 1, 2 and 3 only
+b) 2, 3 and 4 only
+c) 1 and 2 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q45) Match list-I with list-II and select the correct answer using the codes given below the lists
+| List-I | List-II |
+|---|---|
+| A. Constitutional Amendments | 1. Article 360 |
+| B. Finance Commission | 2. Article 312 |
+| C. Financial Emergency | 3. Article 280 |
+| D. All India Services | 4. Article 368 |
+Code: [UPPCS Pre 2016]
+a) A2 B3 C4 D1
+b) A4 B3 C1 D2
+c) A3 B4 C1 D2
+d) A1 B2 C3 D4
+#QuestionEnd
+#AnswerStart
+Answer: b) A4 B3 C1 D2
+#AnswerEnd
+
+#QuestionStart
+Q46) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II (Articles) |
+|---|---|
+| A. Comptroller and Auditor General of India | 1. Article 315 |
+| B. Finance Commission | 2. Article 280 |
+| C. Administrative Tribunal | 3. Article 148 |
+| D. Union Public Service Commission | 4. Article 323 (A) |
+Code: [UPPCS Pre 2016]
+a) A3 B2 C4 D1
+b) A3 B4 C2 D1
+c) A1 B2 C4 D3
+d) A4 B1 C3 D2
+#QuestionEnd
+#AnswerStart
+Answer: a) A3 B2 C4 D1
+#AnswerEnd
+
+#QuestionStart
+Q47) The Sixth Schedule of the Constitution of India deals with the administration of tribal areas of which of the following States? [UPPCS (Mains) 2016]
+a) Bihar, Chhattisgarh, Goa
+b) Meghalaya, Tripura, Mizoram
+c) Uttarakhand, Manipur, Jharkhand
+d) Nagaland, Arunachal Pradesh, Tripura
+#QuestionEnd
+#AnswerStart
+Answer: b) Meghalaya, Tripura, Mizoram
+#AnswerEnd
+
+#QuestionStart
+Q48) The idea of the Preamble has been borrowed in Indian Constitution from the Constitution of- [UPPCS Pre 2015]
+a) Italy
+b) Canada
+c) France
+d) USA
+#QuestionEnd
+#AnswerStart
+Answer: d) USA
+#AnswerEnd
+
+#QuestionStart
+Q49) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Article 76 | 1. Comptroller and Auditor General of India |
+| B. Article 148 | 2. Jurisdiction of Supreme Court |
+| C. Article 75 (1) | 3. Attorney General of India |
+| D. Article 131 | 4. Appointment of Union Ministers |
+Code: [UPPCS (Mains) 2015]
+a) A1 B2 C3 D4
+b) A3 B1 C4 D2
+c) A4 B1 C2 D3
+d) A2 B3 C4 D1
+#QuestionEnd
+#AnswerStart
+Answer: b) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q50) Fourth Schedule of the Constitution of India deals with UPPCS (Mains) 2015]
+a) Allocation of seats the Council of States
+b) Political defection
+c) Panchayat system
+d) Languages
+#QuestionEnd
+#AnswerStart
+Answer: a) Allocation of seats the Council of States
+#AnswerEnd
+
+#QuestionStart
+Q51) The Eleventh Schedule of the Constitution is related to which of the following? [UPPCS Pre 2015]
+a) Municipality
+b) Panchayati Raj
+c) Centre-State relationship
+d) Removal of corruption
+#QuestionEnd
+#AnswerStart
+Answer: b) Panchayati Raj
+#AnswerEnd
+
+#QuestionStart
+Q52) Which part of the Indian Constitution has been described as the ‘Soul’ of the Constitution? [U.P.P.C.S. (Mains) 2015]
+a) Fundamental Rights
+b) Directive Principles of State Policy
+c) The Preamble
+d) Right to Constitutional Remedies
+#QuestionEnd
+#AnswerStart
+Answer: d) Right to Constitutional Remedies
+#AnswerEnd
+
+#QuestionStart
+Q53) Which one of the following features of citizenship in India is correct? [U.P.P.C.S. Pre 2015]
+a) Dual Citizenship of the State and Nation
+b) Single Citizenship of a State
+c) Single Citizenship of whole of India
+d) Dual Citizenship of India and another Country
+#QuestionEnd
+#AnswerStart
+Answer: c) Single Citizenship of whole of India
+#AnswerEnd
+
+#QuestionStart
+Q54) By which one of the following Acts was the Federal Court in India created? [UPPCS Pre 2014]
+a) Indian Council Act, 1861
+b) Government of India Act, 1909
+c) Government of India Act, 1919
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q55) Who among the following were the members of the drafting committee of the Constitution?
+1. N. Gop alaswami
+2. Jawaharlal Nehru
+3. Alladi Krishnaswamy Ayyar
+4. Sardar Patel
+Select the correct answer using the codes given below. [UPPCS Pre 2014]
+a) 1,3 and 4
+b) 1 and 4 only
+c) 1 and 3 only
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q56) Who was the Constitution Advisor at the time of the formation of the Constitution? [UPPCS Pre 2014]
+a) Dr. B. R. Ambedkar
+b) Dr. Rajendra Prasad
+c) B. N. Rau
+d) K. M. Munshi
+#QuestionEnd
+#AnswerStart
+Answer: c) B. N. Rau
+#AnswerEnd
+
+#QuestionStart
+Q57) The first-day session of Indian Constituent Assembly was chaired by- [UPPCS (Mains) 2013]
+a) Dr. Rajendra Prasad
+b) Dr. Sachchidanand Sinha
+c) Dr. B. Ambedkar
+d) Pt. Jawaharlal Nehru
+#QuestionEnd
+#AnswerStart
+Answer: b) Dr. Sachchidanand Sinha
+#AnswerEnd
+
+#QuestionStart
+Q58) In Indian political system which one is supreme? [UPPCS (Mains) 2013]
+a) The Supreme Court
+b) The Constitution
+c) The Parliament
+d) Religion
+#QuestionEnd
+#AnswerStart
+Answer: b) The Constitution
+#AnswerEnd
+
+#QuestionStart
+Q59) Which part of our Constitution envisages a three-tier system of Panchayats? [UPPCS Pre 2013]
+a) Part IX
+b) Part X
+c) Part XI
+d) Part XII
+#QuestionEnd
+#AnswerStart
+Answer: a) Part IX
+#AnswerEnd
+
+#QuestionStart
+Q60) Which one of the following is not correctly matched? [UPPCS Pre 2013]
+a) Article 39A Equal Justice and Free Legal Aid
+b) Article 40 Organization of Village Panchayats
+c) Article 44 Uniform Civil Code
+d) Article 48 Separation of Judiciary from Executive
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 48 Separation of Judiciary from Executive
+#AnswerEnd
+
+#QuestionStart
+Q61) Who/which of the following is competent to prescribe conditions for acquisition of citizenship? [U.P.P.C.S. (Mains) 2013]
+a) Election Commission
+b) President
+c) Parliament and State Legislatures jointly
+d) Parliament
+#QuestionEnd
+#AnswerStart
+Answer: d) Parliament
+#AnswerEnd
+
+#QuestionStart
+Q62) Which Act for the first time made it possible for Indians to take some share in the administration of their country? [UPPCS Pre 2012]
+a) Charter Act, 1833
+b) Charter Act, 1853
+c) Government of India Act, 1858
+d) Indian Councils Act, 1861
+#QuestionEnd
+#AnswerStart
+Answer: d) Indian Councils Act, 1861
+#AnswerEnd
+
+#QuestionStart
+Q63) Which part and chapter of the Indian Constitution deal with the legislative relation between the Union and the States? [UPPCS (Mains) 2012]
+a) Part XI and Chapter I
+b) Part XI and Chapter II
+c) Part XII and Chapter I
+d) Part XII and Chapter II
+#QuestionEnd
+#AnswerStart
+Answer: a) Part XI and Chapter I
+#AnswerEnd
+
+#QuestionStart
+Q64) In which of the following cases Supreme Court held that ‘The Preamble forms part of the Constitution? [U.P.P.C.S. Pre 2012]
+a) Union of India Vs. Dr. Kohli
+b) Banarsidas Vs. State of UP.
+c) Bommai Vs. Union of India
+d) Malak Singh Vs. State of Punjab
+#QuestionEnd
+#AnswerStart
+Answer: c) Bommai Vs. Union of India
+#AnswerEnd
+
+#QuestionStart
+Q65) Which one of the following Acts led to the separation of Burma from India? [UPPCS (Mains) 2011]
+a) The Indian Councils Act, 1909
+b) Government of India Act, 1919
+c) Government of India Act, 1935
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) Government of India Act, 1935
+#AnswerEnd
+
+#QuestionStart
+Q66) Who amongst the following advised that the Indian National Congress should be disbanded as a political party after the independence of India? [UPPCS (Mains) 2011]
+a) C. Rajagopalachari
+b) Jai Prakash Narayan
+c) Acharya Kripalani
+d) Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: d) Mahatma Gandhi
+#AnswerEnd
+
+#QuestionStart
+Q67) Match list-I with list-II and select the correct answer by using the codes given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Part IX of the Indian Constitution | 1. Union Territories |
+| B. Part VIII of the Indian Constitution | 2. Municipalities |
+| C. Part IV A of the Indian Constitution | 3. Panchayats |
+| D. Part IX A of the Indian Constitution | 4. Fundamental Duties |
+Code: [UPPCS (Mains) 2009]
+a) A3 B1 C4 D2
+b) A1 B2 C3 D4
+c) A2 B4 C1 D3
+d) A4 B3 C2 D1
+#QuestionEnd
+#AnswerStart
+Answer: a) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q68) Consider the following statements in regard to the Preamble of Constitution and select the correct one using the code given below:
+1. The objectives Resolution by Jawaharlal Nehru finally became Preamble.
+2. It is non-Justiciable.
+3. It can’t be amended.
+4. Preamble cannot override the specific provision of the Constitution.
+Code: [U.P.P.C.S. Pre 2009]
+a) Only 1 and 2
+b) Only 1, 2 and 4
+c) Only 1, 2 and 3
+d) Only 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q69) Under which of the following Acts, Dyarchy was introduced at Central level? [UPPCS Pre 2008]
+a) Act of 1909
+b) Government of India Act, 1919
+c) Government of India Act, 1935
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) Government of India Act, 1935
+#AnswerEnd
+
+#QuestionStart
+Q70) The Indian Legislature was made bicameral for the first time by [UPPCS (Mains)2008]
+a) Indian Council Act of 1892
+b) Indian Council Act of 1909
+c) The Government of India Act of 1919
+d) The Government of India Act of 1935
+#QuestionEnd
+#AnswerStart
+Answer: c) The Government of India Act of 1919
+#AnswerEnd
+
+#QuestionStart
+Q71) The power of the President to issue ordinance is a relic of [UPPCS (Mains) 2008]
+a) GOI Act, 1919
+b) GOI Act, 1935
+c) GOI Act, 1909
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: b) GOI Act, 1935
+#AnswerEnd
+
+#QuestionStart
+Q72) The proposal for framing of the Constitution of India by an elected Constituent Assembly was made by [UPPCS (Spl) (Mains) 2008]
+a) Simon Commission
+b) Government of India Act, 1935
+c) Crips Mission
+d) British Cabinet Delegation
+#QuestionEnd
+#AnswerStart
+Answer: c) Crips Mission
+#AnswerEnd
+
+#QuestionStart
+Q73) Who was the Chairman of the Provincial Constitution Committee of the Constituent Assembly? [UPPCS (Mains) 2008]
+a) Dr. B. R. Ambedkar
+b) Pt. Jawaharlal Nehru
+c) Dr. Rajendra Prasad
+d) Sardar Patel
+#QuestionEnd
+#AnswerStart
+Answer: d) Sardar Patel
+#AnswerEnd
+
+#QuestionStart
+Q74) The feature of Federal system of the Indian Constitution is inspired by the constitution of- [UPPCS (Mains) 2006]
+a) Canada
+b) United Kingdom
+c) USA "
+d) Ireland
+#QuestionEnd
+#AnswerStart
+Answer: a) Canada
+#AnswerEnd
+
+#QuestionStart
+Q75) Which one of the following describes India as a Secular State? [U.P.P.C.S. (Mains) 2005]
+a) Fundamental Rights
+b) Preamble to the Constitution
+c) 9th Schedule
+d) Directive Principles
+#QuestionEnd
+#AnswerStart
+Answer: b) Preamble to the Constitution
+#AnswerEnd
+
+#QuestionStart
+Q76) Which among the following is the correct expression of the term ‘Secular’ in India? [U.P.P.C.S. (Mains) 2005]
+a) India has many religions.
+b) Indians have religious freedom.
+c) Following religion depends upon the will of an individual.
+d) There is no religion of the State in India.
+#QuestionEnd
+#AnswerStart
+Answer: d) There is no religion of the State in India.
+#AnswerEnd
+
+#QuestionStart
+Q77) The ideals and objectives outlined in the Preamble of the Indian Constitution have been further elaborated in- [U.P. P.C.S. (Mains) 2004]
+a) The Chapter on Fundamental Rights
+b) The Chapter on Directive Principles of State Policy
+c) The Chapter on Directive Principles of State Policy, Fundamental Rights, and Fundamental Duties
+d) Nowhere else in the text of the Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: c) The Chapter on Directive Principles of State Policy, Fundamental Rights, and Fundamental Duties
+#AnswerEnd
+
+#QuestionStart
+Q78) Match the following:
+| List-I | List-II |
+|---|---|
+| A. Union List | 1. Police and Public Order |
+| B. State List | 2. Space Research |
+| C. Concurrent List | 3. Census |
+| D. Residuary Subject | 4. Population Control and Family Planning |
+Code: [UPPCS (Mains) 2004]
+a) A3 B1 C4 D2
+b) A2 B3 C1 D4
+c) A1 B2 C3 D4
+d) A4 B1 C2 D3
+#QuestionEnd
+#AnswerStart
+Answer: a) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q79) Match list-I with list-II and select the correct answer from the code given below the lists:
+| List-I | List-II |
+|---|---|
+| A. Establishment of Board of Control | 1. Regulating Act, 1773 " |
+| B. Establishment of Supreme Court | 2. Pitt’s India Act, 1784 |
+| C. Permission to English Missionaries to work in India | 3. Charter Act, 1813 |
+| D. Appointment of Law Member in Governor- General Council | 4. Charter Act, 1833 |
+Code: [UPPCS Pre 2003]
+a) A1 B2 C3 D4
+b) A2 B1 C3 D4
+c) A1 B2 C4 D3
+d) A2 B4 C1 D3
+#QuestionEnd
+#AnswerStart
+Answer: b) A2 B1 C3 D4
+#AnswerEnd
+
+#QuestionStart
+Q80) By which of the following Act, Legislative Council of India received the power to discuss the budget? [UPPCS Pre 2003]
+a) Indian Council Act, 1861
+b) Indian Council Act, 1892
+c) Indian Council Act, 1909
+d) Indian Council Act, 1919
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian Council Act, 1892
+#AnswerEnd
+
+#QuestionStart
+Q81) To give constitutional protection, state land reforms laws have been included in the- [UPPCS (Mains) 2003]
+a) 7th Schedule
+b) 9th Schedule
+c) 8th Schedule
+d) 10th Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b) 9th Schedule
+#AnswerEnd
+
+#QuestionStart
+Q82) In giving representation to talent, experience, and service in the composition of the Council of States, the constitution makers of India were influenced by the example of [UPPCS Pre 1998]
+a) Irish Republic
+b) Canada
+c) USA
+d) Australia
+#QuestionEnd
+#AnswerStart
+Answer: a) Irish Republic
+#AnswerEnd
+
+#QuestionStart
+Q83) Who was the chairman of the National Flag Committee? [UPPCS Pre 1991]
+a) C. Rajagopalachari
+b) Dr. Rajendra Prasad
+c) J. B. Kripalani
+d) Dr. B. R. Ambedkar
+#QuestionEnd
+#AnswerStart
+Answer: b) Dr. Rajendra Prasad
+#AnswerEnd
+
+#QuestionStart
+Q84) Prevention of cruelty to animals is listed in which list of the India Constitution? [66th BPSC (Pre, Re-Exam) 2020]
+a) Union List
+b) State List
+c) Concurrent List
+d) Preamble
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Concurrent List
+#AnswerEnd
+
+#QuestionStart
+Q85) January 26 was selected as the date for the inauguration of the Constitution, because [53rd to 55th BPSC Pre 2011]
+a) The Congress had observed it as the Independence Day in 1930.
+b) On that day the Quit India Movement was started in 1942.
+c) It was considered to be an auspicious day.
+d) None of the above.
+#QuestionEnd
+#AnswerStart
+Answer: a) The Congress had observed it as the Independence Day in 1930.
+#AnswerEnd
+
+#QuestionStart
+Q86) Land Reform comes under the subjects of-[43rd BPSC Pre 1999]
+a) Union List
+b) Concurrent List
+c) State List
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) State List
+#AnswerEnd
+
+#QuestionStart
+Q87) Which one of the following is matched correctly - [UP Lower Sub. Pre 2002]
+a) Article 17 : Equality before Law
+b) Article 78 : Establishment of Parliament
+c) Article 192 : Salaries and Allowances of Parliament Members
+d) Article 352 ¡Proclamation of Emergency
+#QuestionEnd
+#AnswerStart
+Answer: d) Article 352 ¡Proclamation of Emergency
+#AnswerEnd
+
+#QuestionStart
+Q88) The goal of Constitution is to secure/assure all its citizens-
+1. Justice, Social and Economic
+2. Liberty of Thought and Expression
+3. Equality of Opportunity
+4. Dignity of the Individual
+Choose the correct answer by using code: [U.P. Lower Sub. Pre 1998]
+a) 1 and 2
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q89) Indian Constituent Assembly was established under- [Uttarakhand PCS Pre 2012]
+a) Government of India Act, 1935
+b) Cripps Mission, 1942
+c) Cabinet Mission, 1946
+d) Indian Independence Act, 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) Cabinet Mission, 1946
+#AnswerEnd
+
+#QuestionStart
+Q90) Under the Constitution of India, Economic Planning is a subject: [Uttarakhand PCS Pre 2002]
+a) In the State List
+b) In the Union List
+c) In the Concurrent List
+d) Not Specified any list
+#QuestionEnd
+#AnswerStart
+Answer: c) In the Concurrent List
+#AnswerEnd
+
+#QuestionStart
+Q91) Which among the following introduced the Provincial Autonomy in British India? [Jharkhand PCS Pre 2021]
+a) Cabinet Mission
+b) Simon Commission
+c) Government of India Act, 1935
+d) Government of India Act, 1919
+#QuestionEnd
+#AnswerStart
+Answer: c) Government of India Act, 1935
+#AnswerEnd
+
+#QuestionStart
+Q92) Which of the following was inserted in the ‘Preamble’ of the Constitution of India, through 42ⁿd Constitutional Amendment Act? [Jharkhand PCS (Mains) 2016]
+a) Sovereignty
+b) Dignity of person
+c) Socialist, Secular
+d) Privacy
+#QuestionEnd
+#AnswerStart
+Answer: c) Socialist, Secular
+#AnswerEnd
+
+#QuestionStart
+Q93) The provision that “no bill imposing tax can be introduced in the Legislature except on the recommendation of the President” is covered in the Constitution of India under- [Jharkhand PCS Pre 2013]
+a) Article 117
+b) Article 266
+c) Article 306
+d) Article 307
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 117
+#AnswerEnd
+
+#QuestionStart
+Q94) Concurrent List included in Indian Constitution is given by: [Jharkhand PCS Pre 2003]
+a) The Soviet Union
+b) Australia
+c) Italy
+d) Canada
+#QuestionEnd
+#AnswerStart
+Answer: b) Australia
+#AnswerEnd
+
+#QuestionStart
+Q95) Which of the following Act for the first time provided for communal representation in British India? [MPPCS Pre 2019]
+a) Indian Councils Act, 1892
+b) Morley-Minto Reforms, 1909
+c) Montague-Chelmsford Reforms, 1919
+d) Govt, of India Act, 1935
+#QuestionEnd
+#AnswerStart
+Answer: b) Morley-Minto Reforms, 1909
+#AnswerEnd
+
+#QuestionStart
+Q96) Which of the following Acts introduced the ‘Principle of Constitutional Autocracy’? [MPPCS Pre 2017]
+a) The Indian Councils Act of 1909
+b) The Government of India Act of 1919
+c) The Government of India Act of 1935
+d) The Indian Independence Act of 1947
+#QuestionEnd
+#AnswerStart
+Answer: c) The Government of India Act of 1935
+#AnswerEnd
+
+#QuestionStart
+Q97) Who was the Chairman of Advisory Committee on Fundamental Rights and Minorities constituted by the Constituent Assembly? [MPPCS Pre 2014]
+a) Pandit Nehru
+b) Sardar Patel
+c) B. N. Rao
+d) B. R. Ambedkar
+#QuestionEnd
+#AnswerStart
+Answer: b) Sardar Patel
+#AnswerEnd
+
+#QuestionStart
+Q98) The Constitution of India was adopted on which date? [MPPCS Pre 2010, MPPCS Pre 1998]
+a) 26 January, 1950
+b) 26 November, 1949
+c) 26 January, 1949
+d) 15 July, 1947
+#QuestionEnd
+#AnswerStart
+Answer: b) 26 November, 1949
+#AnswerEnd
+
+#QuestionStart
+Q99) Which one of the following said, “A Constitution, like a machine, is a lifeless thing. It acquires life because of the men who control it, and India needs today nothing more than a set of honest men who will have the interest of the country before them”? [RAS/RTS Pre 2021]
+a) Dr. Rajendra Prasad
+b) Jawahar Lal Nehru
+c) Dr. B. R. Ambedkar
+d) Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: a) Dr. Rajendra Prasad
+#AnswerEnd
+
+#QuestionStart
+Q100) One amongst the following was not a salient feature of the Government of India Act, 1935: [RAS/RTS Pre 2016]
+a) The Act provided for an All-India Federation
+b) Residuary subjects were allocated to provincial Legislatures.
+c) It marked the beginning of the Provincial Autonomy.
+d) It abolished Diarchy at the Provincial level and introduced it at the Centre.
+#QuestionEnd
+#AnswerStart
+Answer: b) Residuary subjects were allocated to provincial Legislatures.
+#AnswerEnd
+
+#QuestionStart
+Q101) Match List-I with list-II and select the correct answer by using the codes given below:
+| List-I | List-II |
+|---|---|
+| A. First Vice- President of Constituent Assembly | 1. V. T. Krishnamachari |
+| B. Originally the only Congress Member of Drafting Committee | 2. Jawaharlal Nehru |
+| C. Member of Constituent Assembly representing Rajasthan’s Princely State | 3. K. M. Munshi |
+| D. Chairman of Union Constitution Committee | 4. H. C. Mukherjee |
+Code: [RAS/RTS Pre 2013]
+a) A1 B4 C2 D3
+b) A4 B3 C1 D2
+c) A1 B2 C3 D4
+d) A3 B4 C1 D2
+#QuestionEnd
+#AnswerStart
+Answer: b) A4 B3 C1 D2
+#AnswerEnd
+
+#QuestionStart
+Q102) What is/are true in relation to Autonomous Districts?
+1. Each Autonomous District Council has 30 members
+2. 24 members of Autonomous District Council are elected via voting and rest 6 are nominated by Governor
+3. Rights to direct the Acts passed by Parliament of India in Autonomous Districts of Assam lies with Governor
+Code: [Chhattisgarh PCS Pre 2021]
+a) 1,2 and 3
+b) 1 and 3 only
+c) 1 and 2 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q103) By which Amendment of the Constitution of India forests were transferred from the State list to the Concurrent List? [Chhattisgarh PCS Pre 2020]
+a) 41st
+b) 42ⁿd
+c) 43rd
+d) 45th
+#QuestionEnd
+#AnswerStart
+Answer: b) 42ⁿd
+#AnswerEnd
+
+#QuestionStart
+Q104) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (Subjects) | List-II (Parts of I the Constitution) |
+|---|---|
+| A. Abolition ofTitles | 1. Directive Principles of State Policy |
+| B. Organisation of village panchayats | 2. The Union and its Territories |
+| C. To provide the opportunities for education to the child/ward between 6 to 14 years of age | 3. Fundamental Rights |
+| D. India, that is Bharat, is the Union of States | 4. Fundamental Duties |
+Code: [Chhattisgarh PCS Pre 2019]
+a) A1 B2 C3 D4
+b) A3 B1 C4 D2
+c) A4 B3 C2 D1
+d) A2 B4 C1 D3
+#QuestionEnd
+#AnswerStart
+Answer: b) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q105) In which list of the Indian Constitution the ‘Panchayati Raj’ subject is included? [Chhattisgarh PCS Pre 2011]
+a) Union List
+b) State List
+c) Concurrent List
+d) Residuary List
+#QuestionEnd
+#AnswerStart
+Answer: b) State List
+#AnswerEnd
+
+#QuestionStart
+Q106) Which one of the following pairs (Institutions and Articles of the Constitution) is properly matched? [Chhattisgarh PCS Pre 2008]
+a) Supreme Court of India ¡Article 318
+b) Election Commission of India ¡Article 324
+c) Union Public Service Commission ¡Article 332
+d) Attorney General ¡Article 351
+#QuestionEnd
+#AnswerStart
+Answer: b) Election Commission of India ¡Article 324
+#AnswerEnd
+
+#QuestionStart
+Q107) The Citizenship Act, 1955 deals with the determination of citizenship on or after [CDS 2023 (I)]
+a) 26th January, 1950
+b) 26th November, 1949
+c) 15th August, 1947
+d) 14th August, 1947
+#QuestionEnd
+#AnswerStart
+Answer: a) 26th January, 1950
+#AnswerEnd
+
+#QuestionStart
+Q108) Consider the following pairs of Schedule and Content of the Constitution of India:
+1. First Schedule Forms of Oaths or Affirmations
+2. Third Schedule Allocation of seats in the Council of States
+3. Fifth Schedule Provisions related to the administration of Scheduled Areas and Scheduled Tribes
+4. Ninth Schedule Provisions related to the administration of tribal areas in certain States
+How many of the above pairs is/are correctly matched? [CDS 2022 (II)]
+a) 1
+b) 2
+c) 3
+d) 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1
+#AnswerEnd
+
+#QuestionStart
+Q109) Which of the following statements with regard to the Preamble to the Constitution of India is/are correct?
+1. Equality of status and equality of opportunity find mention in the Preamble.
+2. The expression ‘unity and integrity of the Nation was not there in the Preamble since the beginning.
+Select the correct answer using the code given below:- [CDS 2022 (I)]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q110) Which of the following terms were added to the Preamble of the Constitution of India by the Constitutional Amendment, 1976?
+1. Socialist
+2. Secular
+3. Integrity
+4. Fraternity
+Select the correct answer using the codes given below. [CDS 2020 (II)]
+a) 1 and 2
+b) 1,2 and 3
+c) 2 and 4
+d) 1,3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q111) The Citizenship (Amendment) Act falls under which one of the following parts of the Constitution of India? [CDS 2020 (II)]
+a) Part I
+b) Part II
+c) Part IV
+d) Part VI
+#QuestionEnd
+#AnswerStart
+Answer: b) Part II
+#AnswerEnd
+
+#QuestionStart
+Q112) Which of the following statements about Aliadi Krishnaswami Ayyar, as a drafting member of the Constitution of India, are correct?
+1. He favoured the role of the Supreme Court in taking important decisions related to the interpretation of the Constitution of India.
+2. He felt that the Supreme Court had to draw the line between liberty and social control.
+3. He believed in the dominance of the executive over the judiciary
+4. He favoured a dictatorial form of governance.
+Select the correct answer using the codes given below. [CDS Pre. 2019 I]
+a) 1 and 2
+b) 1, 2 and 3
+c) 3 and 4
+d) 1.2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q113) Which one of the following Schedules to the Constitution of India provides for setting up of Autonomous District Councils? [CDS Pre. 2018 II]
+a) Third Schedule
+b) Fourth Schedule
+c) Fifth Schedule
+d) Sixth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d) Sixth Schedule
+#AnswerEnd
+
+#QuestionStart
+Q114) Which of the following statements relating to the Government of India Act, 1858 is/are correct?
+1. The British Crown assumed sovereignty over India from the East India Company.
+2. The British Parliament enacted the first statute for the governance of India under the direct rule of the British.
+3. This Act was dominated by the principle of absolute imperial control without any population participation in the administration of the country.
+Select the correct answer using the codes given below : [CDS Pre. 2018 II]
+a) 1 and 2
+b) Only 2
+c) 1,2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q115) Which of the following statements relating to the Indian Councils Act, 1861 is/are correct?
+1. The Act introduced a grain of popular element by including non-official members in the Governor-General’s Executive Council
+2. The members were nominated, and their functions were confined exclusively to consideration of legislative proposals placed before it by the Governor-General.
+3. The Governor-General did not have effective legislative power
+Select the correct answer using the codes given below: [CDS Pre. 2018 II]
+a) 1 and 2
+b) 2 and 3
+c) 1,2 and 3
+d) Only 1
+#QuestionEnd
+#AnswerStart
+Answer: d) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q116) Which of the following features were borrowed by the Constitution of India from the British Constitution?
+1. Rule of Law
+2. Law making Procedure
+3. Independence of Judiciary
+4. Parliamentary System
+Select the correct answer using the codes given below: [CDS Pre. 2017 II]
+a) 1 and 2
+b) 2, 3 and 4
+c) 1 and 4
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q117) Which one of the following statements with regard to the Ninth Schedule of the Constitution of India is not correct? [CDS Pre. 2016 II]
+a) It was inserted by the Constitution (First Amendment) Act, 1951
+b) The acts and regulations specified in the Ninth Schedule shall become void on the ground that it violates AFundamental Right in Part III of the Constitution.
+c) The supreme court has power of judicial review of an act included in the Ninth Schedule on the doctrine of basic structure.
+d) The appropriate legislature can repeal or amend an act specified in the Ninth Schedule.
+#QuestionEnd
+#AnswerStart
+Answer: b) The acts and regulations specified in the Ninth Schedule shall become void on the ground that it violates AFundamental Right in Part III of the Constitution.
+#AnswerEnd
+
+#QuestionStart
+Q118) On 26th November, 1949, which of the following provisions of the Constitution of India came into effect?
+1. Citizenship
+2. Elections
+3. Provisional Parliament
+4. Fundamental Rights
+Select the correct answer using the codes given below: [CDS Pre. 2016 II]
+a) 2, 3 and 4
+b) 1, 2 and 3
+c) 1 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q119) Which one of the following languages is not recognised in the Eighth Schedule to the Constitution of India? [CDS Pre. 2016 I]
+a) English
+b) Sanskrit
+c) Urdu
+d) Nepali
+#QuestionEnd
+#AnswerStart
+Answer: a) English
+#AnswerEnd
+
+#QuestionStart
+Q120) Which of the following is/are not central tenet(s) of the Constitution of India?
+1. Prohibits discrimination on grounds of religion.
+2. Gives official status to certain religions.
+3. Provides freedom to profess any religion.
+4. Ensures equality of all citizens within religious communities.
+Select the correct answer using the codes given below: [CDS Pre. 2015 II]
+a) 1, 2 and 3
+b) 3 and 4
+c) 2, 3 and 4
+d) Only 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q121) Which of the following statement(s) about the formation of the Constituent Assembly is/are correct?
+1. The members of the Constituent Assembly were chosen on the basis of the Provincial Elections of 1946.
+2. The Constituent Assembly did not include representatives of the princely states.
+3. The discussions within the Constituent Assembly were not influenced by opinions expressed by the public.
+4. In order to create a sense of collective participation, submissions were solicited from the public
+Select the correct answer using the codes given below: [CDS Pre. 2015 II]
+a) Only 1
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q122) Which of the following statements with regard to citizenship provisions of the Constitution of India is/are correct?
+1. No person shall be a citizen of India by virtue of Article 5, or be deemed to be a citizen of India by virtue of Article 6 or Article 8, if he/she has voluntarily acquired the citizenship of any foreign state.
+2. The Parliament has power to make any provision with respect to the acquisition and termination of citizenship and all other matters relating to citizenship.
+Select the correct answer using the codes given below : [CDS Pre. 2015 II]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q123) Which of the statement(s) is/are not correct for the 9th Schedule of the Constitution of India?
+1. It was inserted by the First Amendment in 1951.
+2. It includes those laws which are beyond the purview of judicial review.
+3. It was inserted by the 42nd Amendment.
+4. The laws in the 9th Schedule are primarily those which pertain to the matters of national security.
+Select the correct answer using the codes given below: [CDS Pre. 2015 I]
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) Only 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q124) Consider the following statements about democracy
+1. It consists with the formation of government elected by the people
+2. In democracy, those currently in power have a fair chance of losing
+3. Each vote has one value.
+Which of the statement(s) given above is/are correct? [CDS Pre. 2014 (I)]
+a) 1 and 2
+b) 1,2 and 3
+c) Only 1
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q125) The Draft Constitution as framed only provides a machinery for the government of the country. It is not a contrivance to install any particular party in power as has been done in some countries. Who should be in power is left to be determined by the people, as it must be, if the system is to satisfy the test of democracy’.
+The above passage from Constituent Assembly debates is attributed to: [CDS Pre. 2014 I]
+a) Pandit Jawaharlal Nehru
+b) Dr BR Ambedkar
+c) Maulana Abdul Kalam Azad
+d) Acharya JB Kriplani
+#QuestionEnd
+#AnswerStart
+Answer: b) Dr BR Ambedkar
+#AnswerEnd
+
+#QuestionStart
+Q126) The citizenship means
+1. full civil and political rights of the citizens.
+2. the right of suffrage for election to the House of the People (of the Union) and the Legislative Assembly of every state.
+3. the right to become a Member of the Parliament and Member of Legislative Assemblies.
+Select the correct answer using the codes given below : [CDS Pre. 2014 I]
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: d) All of these
+#AnswerEnd
+
+#QuestionStart
+Q127) Who among the following warned his colleagues that the Constituent Assembly was British made and was “working the British plan as the British should like it to be worked out”? [CAPF 2021]
+a) Somnath Lahiri
+b) B.R. Ambedkar
+c) Shyama Prasad Mukherjee
+d) B.N. Rau
+#QuestionEnd
+#AnswerStart
+Answer: a) Somnath Lahiri
+#AnswerEnd
+
+#QuestionStart
+Q128) Which one of the following statements with regard to the preamble to the Constitution of India is not correct? [CAPF 2021]
+a) The term ‘Secular Democratic Republic’ was not there in the Preamble originally.
+b) The Preamble contains the basic structure of the Constitution of India.
+c) By itself, the Preamble is not enforceable in a court of law.
+d) The Supreme Court has held that the preamble cannot be considered as an aid to the legal interpretation of the Constitution, where the language is ambiguous.
+#QuestionEnd
+#AnswerStart
+Answer: d) The Supreme Court has held that the preamble cannot be considered as an aid to the legal interpretation of the Constitution, where the language is ambiguous.
+#AnswerEnd
+
+#QuestionStart
+Q129) As per provisions of the Constitution of India which one of the following is correct? [CAPF 2020]
+a) Only Parliament has the power to legislate over a subject under the Concurrent list
+b) Both Parliament and State Legislatures have the power to legislate over a subject under the Concurrent list.
+c) A legislation made under the Concurrent list by Parliament should be ratified by half of the State Legislatures so as to become a law of the country
+d) Only State Legislatures are empowered to make laws under Concurrent list
+#QuestionEnd
+#AnswerStart
+Answer: b) Both Parliament and State Legislatures have the power to legislate over a subject under the Concurrent list.
+#AnswerEnd
+
+#QuestionStart
+Q130) Which of the following statement(s) regarding passing a law under the State list is/are correct?
+1. Even in the sphere (State list) exclusively reserved for the States, Parliament can legislate under certain circumstances.
+2. Parliament cannot legislate a subject under the State list under any circumstances.
+3. A resolution supported by two-thirds of the members present and voting is required to be passed by Rajya Sabha to pass a law under the State list
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1, 2 and 3
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1 Only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q131) Which of the following pairs of list and contents is/are correctly matched?
+1. State List: Public health and sanitation
+2. Union List: Citizenship, naturalization and aliens
+3. Concurrent List: Legal, medical and other professions
+Select the correct answer using the code given below: [CAPF 2019]
+a) 1 only
+b) 1, 2 and 3
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q132) Which of the following statements about the Constitution of India is/are correct?
+1. The ‘Objectives Resolution was moved by Sardar Vallabhbhai Patel.
+2. Dr. BR Ambedkar served as the Chairman of the Drafting Committee in his capacity as the Law Minister.
+Select the correct answer using the codes given below. [CAPF 2018]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q133) Which one of the following statements about the Constitution of India is correct? [CAPF 2018]
+a) It was framed between December 1946 and December 1949
+b) The drafts of the Constitution were discussed in public meetings
+c) It is the shortest document of a constitution in the world.
+d) It came fully into operation immediately after the drafting was completed in December 1949
+#QuestionEnd
+#AnswerStart
+Answer: a) It was framed between December 1946 and December 1949
+#AnswerEnd
+
+#QuestionStart
+Q134) Which one of the following is not a characteristic feature of the Independence Act, 1947? [CAPF 2018]
+a) The Dominion of India got the residuary territory of India, excluding the provinces of Sind, Baluchistan, West Punjab, East Bengal and NWFP.
+b) The Act sought to lay down a Constitution by the Legislative will of the British Parliament
+c) The Act proposed to set up two independent Dominions
+d) The Constituent Assembly of each Dominion was to have unlimited power to frame and adopt any Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: b) The Act sought to lay down a Constitution by the Legislative will of the British Parliament
+#AnswerEnd
+
+#QuestionStart
+Q135) Which one of the following was the mandate of the Dhar Commission (1948)? [CAPF 2017]
+a) To study the classification of States
+b) To recommend whether the States can be reorganized on linguistic basis
+c) To study the Centre-State relations
+d) To examine whether Madras city can be transferred to Andhra
+#QuestionEnd
+#AnswerStart
+Answer: b) To recommend whether the States can be reorganized on linguistic basis
+#AnswerEnd
+
+#QuestionStart
+Q136) Which of the following statements regarding the Constituent Assembly are correct?
+1. It was not based on an adult franchise.
+2. It resulted from direct election.
+3. It was a multi-party body.
+4. It worked through several committees.
+Select correct answer using the code given below. [CAPF 2016]
+a) 1,2 and 4
+b) 2 and 3
+c) 1 and 4
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q137) According to Granville Austin, which of the following was/were the most significant contributions of India to constitutionmaking? [CAPF 2015]
+a) Majority Rule and Minority Rights
+b) Consensus and Accommodation
+c) Social revolution and Political Freedom
+d) Asymmetrical Federal Structure
+#QuestionEnd
+#AnswerStart
+Answer: b) Consensus and Accommodation
+#AnswerEnd
+
+#QuestionStart
+Q138) According to Article 3 of the Constitution of India, the Parliament may by law
+1. declare war on any country.
+2. alter the boundaries of any State.
+3. increase the area of any State
+4. establish an Autonomous Council within any State.
+Select the correct answer using the code given below. ' [CAPF 2015]
+a) Only 3
+b) 1,2 and 4
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q139) Which of the following are true regarding the Preamble of the Constitution of India?
+1. The Objective Resolution was proposed by Jawaharlal Nehru and passed by the Constituent Assembly which ultimately became the preamble.
+2. The idea of the preamble was borrowed from the Constitution of the USA.
+3. The words Socialist and Secular were adopted by the 42nd Amendment in 1976.
+4. The preamble incorporates the Fundamental Rights of the citizens of India.
+Select the correct answer using the codes given below. [CAPF 2014]
+Codes:
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1, 3 and 4
+d) 1,2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q140) Consider the following statements about Constitutional Government.
+1. It is a form of limited government.
+2. One where the Constitution is the basis of public authority.
+3. One where the Monarch is the formal head of the state.
+4. One where there is always a universal adult franchise.
+Which of the statements given above are correct? [CAPF 2014]
+a) 1 and 2
+b) 2 and 4
+c) 1,2 and 4
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd

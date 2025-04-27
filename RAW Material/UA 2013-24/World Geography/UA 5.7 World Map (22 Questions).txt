@@ -1,0 +1,322 @@
+#QuestionStart
+Q1) The longest border between any two countries in the world is between: (2024)
+a) Canada and the United States of America
+b) Chile and Argentina
+c) China and India
+d) Kazakhstan and Russian Federation
+#QuestionEnd
+#AnswerStart
+Answer: a) Canada and the United States of America
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following countries: (2024)
+1. Finland
+2. Germany
+3. Norway
+4. Russia
+How many of the above countries have a border with the North Sea?
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following is a part of the Congo Basin? (2023)
+a) Cameroon
+b) Nigeria
+c) South Sudan
+d) Uganda
+#QuestionEnd
+#AnswerStart
+Answer: a) Cameroon
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following countries: (2023)
+1. Bulgaria
+2. Czech Republic
+3. Hungary
+4. Latvia
+5. Lithuania
+6. Romania
+How many of the above-mentioned countries share a land border with Ukraine?
+a) Only two
+b) Only three
+c) Only four
+d) Only five
+#QuestionEnd
+#AnswerStart
+Answer: a) Only two
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following pairs: (2022)
+| Region often mentioned in the news | Country |
+|---|---|
+| 1. Anatolia | Turkey |
+| 2. Amhara | Ethiopia |
+| 3. Cabo Delgado | Spain |
+| 4. Catalonia | Italy |
+How many pairs given above are correctly matched?
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following countries: (2022)
+1. Azerbaijan
+2. Kyrgyzstan
+3. Tajikistan
+4. Turkmenistan
+5. Uzbekistan
+Which of the above have borders with Afghanistan?
+a) 1, 2 and 5 only
+b) 1, 2, 3 and 4 only
+c) 3, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 3, 4 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q7) The term “Levant” often heard in the news roughly corresponds to which of the following regions? (2022)
+a) Region along the eastern Mediterranean shores
+b) Region along North African shores stretching from Egypt to Morocco
+c) Region along Persian Gulf and Horn of Africa
+d) The entire coastal areas of Mediterranean Sea
+#QuestionEnd
+#AnswerStart
+Answer: a) Region along the eastern Mediterranean shores
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following lakes of West Africa has become dry and turned into a desert? (2022)
+a) Lake Victoria
+b) Lake Faguibine
+c) Lake Oguta
+d) Lake Volta
+#QuestionEnd
+#AnswerStart
+Answer: b) Lake Faguibine
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following pairs: (2019)
+| Sea | Bordering country |
+|---|---|
+| 1. Adriatic Sea | Albania |
+| 2. Black Sea | Croatia |
+| 3. Caspian Sea | Kazakhstan |
+| 4. Mediterranean Sea | Morocco |
+| 5. Red Sea | Syria |
+Which of the pairs given above are correctly matched?
+a) 1, 2 and 4 only
+b) 1, 3 and 4 only
+c) 2 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following pairs: (2018)
+| Regions sometimes mentioned in news | Country |
+|---|---|
+| 1. Catalonia | Spain |
+| 2. Crimea | Hungary |
+| 3. Mindanao | Philippines |
+| 4. Oromia | Nigeria |
+Which of the pairs given above are correctly matched?
+a) 1, 2 and 3
+b) 3 and 4 only
+c) 1 and 3 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following pairs: (2018)
+| Towns sometimes mentioned in news | Country |
+|---|---|
+| 1. Aleppo | Syria |
+| 2. Kirkuk | Yemen |
+| 3. Mosul | Palestine |
+| 4. Mazar-i-sharif | Afghanistan |
+Which of the pairs given above are correctly matched?
+a) 1 and 2 only
+b) 1 and 4 only
+c) 2 and 3 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q12) The Mediterranean Sea is a border of which of the following countries? (2017)
+1. Jordan
+2. Iraq
+3. Lebanon
+4. Syria
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 2 and 3 only
+c) 3 and 4 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Which one of the following countries of South-West Asia does not open out to the Mediterranean Sea? (2015)
+a) Syria
+b) Jordan
+c) Lebanon
+d) Israel
+#QuestionEnd
+#AnswerStart
+Answer: b) Jordan
+#AnswerEnd
+
+#QuestionStart
+Q14) Turkey is located between (2014)
+a) Black Sea and Caspian Sea
+b) Black Sea and Mediterranean Sea
+c) Gulf of Suez and Mediterranean Sea
+d) Gulf of Aqaba and Dead Sea
+#QuestionEnd
+#AnswerStart
+Answer: b) Black Sea and Mediterranean Sea
+#AnswerEnd
+
+#QuestionStart
+Q15) What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north? (2014)
+1. Bangkok
+2. Hanoi
+3. Jakarta
+4. Singapore
+Select the correct answer using the code given below:
+a) 4-2-1-3
+b) 3-2-4-1
+c) 3-4-1-2
+d) 4-3-2-1
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-4-1-2
+#AnswerEnd
+
+#QuestionStart
+Q16) Which one of the following pairs is correctly matched? (2013)
+| Geographical Feature | Region |
+|---|---|
+| a) Abyssinian Plateau | Arabia |
+| b) Atlas Mountains | North-Western Africa |
+| c) Guiana Highlands | South-Western Africa |
+| d) Okavango Basin | Patagonia |
+#QuestionEnd
+#AnswerStart
+Answer: b) Atlas Mountains | North-Western Africa
+#AnswerEnd
+
+#QuestionStart
+Q17) Between India and East Asia, the navigation time and distance can be greatly reduced by which of the following? (2011)
+1. Deepening the Malacca straits between Malaysia and Indonesia.
+2. Opening a new canal across the Kra Isthmus between the Gulf of Siam and Andaman Sea.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to ‘Indian Ocean Rim Association for Regional Cooperation (IOR- ARC)’, Consider the following statements: (2015)
+1. It was established very recently in response to incidents of piracy and accidents of oil spills.
+2. It is an alliance meant for maritime security only.
+Which of the following statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q19) India is a member of which of the following? (2015)
+1. Asia-Pacific Economic Cooperation
+2. Association of South-East Asian Nations
+3. East Asia Summit
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) India is a member of none of them
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q20) With reference to a grouping of countries known as BRICS, consider the following statements: (2014)
+1. The First Summit of BRICS was held in Rio de Janeiro in 2009.
+2. South Africa was the last to join the BRICS grouping.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following countries: (2014)
+1. Denmark
+2. Japan
+3. Russian Federation
+4. United Kingdom
+5. United States of America
+Which of the above are the members of the 'Arctic Council'?
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1, 4 and 5
+d) 1, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 and 5
+#AnswerEnd
+
+#QuestionStart
+Q22) Recently, the USA decided to support India's membership in multilateral export control regimes called the "Australia Group" and the "Wassenaar Arrangement". What is the difference between them? (2011)
+1. The Australia Group is an informal arrangement which aims to allow exporting countries to minimize the risk of assisting chemical and biological weapons proliferation, whereas the Wassenaar- Arrangement is a formal group under the OECD holding identical objectives.
+2. The Australia Group comprises predominantly of Asian, African, and North American countries, whereas the member countries of Wassenaar Arrangement are predominantly from the European Union and American continents.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd

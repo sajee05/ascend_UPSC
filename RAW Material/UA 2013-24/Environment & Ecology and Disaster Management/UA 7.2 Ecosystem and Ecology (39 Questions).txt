@@ -1,0 +1,520 @@
+#QuestionStart
+Q1) The organisms ‘’Cicada, Froghopper and Pond skater” are: (2024)
+a) Birds
+b) Fish
+c) Insects
+d) Reptiles
+#QuestionEnd
+#AnswerStart
+Answer: c) Insects
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following pairs: (2024)
+| Country: | Animal found in its natural habitat |
+|---|---|
+| 1. Brazil | Indri |
+| 2. Indonesia | Elk |
+| 3. Madagascar | Bonobo |
+How many of the pairs given above are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q3) Which one of the following shows a unique relationship with an insect that has coevolved with it and that is the only Insect that can pollinate this tree? (2024)
+a) Fig
+b) Mahua
+c) Sandalwood
+d) Silk cotton
+#QuestionEnd
+#AnswerStart
+Answer: a) Fig
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following: (2024)
+1. Butterflies
+2. Fish
+3. Frogs
+How many of the above have poisonous species among them?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements : (2023)
+1. Some microorganisms can grow in environments with temperature above the boiling point of water.
+2. Some microorganisms can grow in environments with temperature below the freezing point of water.
+3. Some microorganisms can grow in a highly acidic environment with a pH below 3.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q6) Certain species of which one of the following organisms are well known as cultivators of fungi? (2022)
+a) Ant
+b) Cockroach
+c) Crab
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Ant
+#AnswerEnd
+
+#QuestionStart
+Q7) The “Miyawaki method” is well known for the : (2022)
+a) Promotion of commercial farming in arid and semi-arid areas
+b) Development of gardens using genetically modified flora
+c) Creation of mini forests in urban areas
+d) Harvesting wind energy on coastal areas and on sea surfaces
+#QuestionEnd
+#AnswerStart
+Answer: c) Creation of mini forests in urban areas
+#AnswerEnd
+
+#QuestionStart
+Q8) “Biorock technology” is talked about in which one of the following situations? (2022)
+a) Restoration of damaged coral reefs
+b) Development of building materials using plant residues
+c) Identification of areas for exploration/ extraction of shale gas
+d) Providing salt licks for wild animals in forests/protected areas
+#QuestionEnd
+#AnswerStart
+Answer: a) Restoration of damaged coral reefs
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following are nitrogen-fixing plants? (2022)
+1. Alfalfa
+2. Amaranth
+3. Chickpea
+4. Clover
+5. Purslane (Kulfa)
+6. Spinach
+Select the correct answer using the code given below :
+a) 1, 3 and 4 only
+b) 1, 3, 5 and 6 only
+c) 2, 4, 5 and 6 only
+d) 1, 2, 4, 5 and 6
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) “If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.” Which one of the following functions of wetlands best reflects the above statement ? (2022)
+a) The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.
+b) Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.
+c) Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.
+d) Aquatic plants absorb heavy metals and excess nutrients.
+#QuestionEnd
+#AnswerStart
+Answer: d) Aquatic plants absorb heavy metals and excess nutrients.
+#AnswerEnd
+
+#QuestionStart
+Q11) What is blue carbon? (2021)
+a) Carbon captured by oceans and coastal ecosystems
+b) Carbon sequestered in forest biomass and agricultural soils
+c) Carbon contained in petroleum and natural gas
+d) Carbon present in atmosphere
+#QuestionEnd
+#AnswerStart
+Answer: a) Carbon captured by oceans and coastal ecosystems
+#AnswerEnd
+
+#QuestionStart
+Q12) In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrients to enter the cycle? (2021)
+a) Carbon cycle
+b) Nitrogen cycle
+c) Phosphorus cycle
+d) Sulphur cycle
+#QuestionEnd
+#AnswerStart
+Answer: c) Phosphorus cycle
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following kinds of organisms : (2021)
+1. Copepods
+2. Cyanobacteria
+3. Diatoms
+4. Foraminifera
+Which of the above are primary producers in the food chains of oceans?
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q14) In the nature, which of the following is/ are most likely to be found surviving on a surface without soil? (2021)
+1. Fern
+2. Lichen
+3. Moss
+4. Mushroom
+Select the correct answer using the code given below.
+a) 1 and 4 only
+b) 2 only
+c) 2 and 3
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q15) Which of the following are detritivores? (2021)
+1. Earthworms
+2. Jellyfish
+3. Millipedes
+4. Seahorses
+5. Woodlice
+Select the correct answer using the code given below.
+a) 1, 2 and 4 only
+b) 2, 3, 4 and 5 only
+c) 1, 3 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following have species that can establish a symbiotic relationship with other organisms? (2021)
+1. Cnidarians
+2. Fungi
+3. Protozoa
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q17) Consider the following animals : (2021)
+1. Hedgehog
+2. Marmot
+3. Pangolin
+To reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/ protect its/ their vulnerable parts?
+a) 1 and 2
+b) 2 only
+c) 3 only
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q18) The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions? (2021)
+1. Burrowing animals and termites
+2. Fire
+3. Grazing herbivores
+4. Seasonal rainfall
+5. Soil properties
+Select the correct answer using the code given below.
+a) 1 and 2
+b) 4 and 5
+c) 2, 3 and 4
+d) 1, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q19) "Leaf litter decomposes faster than in any other biome and as a result the soil surface is often almost bare. Apart from trees, the vegetation is largely composed of plant forms that reach up into the canopy vicariously, by climbing the trees or growing as epiphytes, rooted on the upper branches of trees." This is the most likely description of (2021)
+a) coniferous forest
+b) dry deciduous forest
+c) mangrove forest
+d) tropical rainforest
+#QuestionEnd
+#AnswerStart
+Answer: d) tropical rainforest
+#AnswerEnd
+
+#QuestionStart
+Q20) Why is a plant called Prosopis juliflora often mentioned in the news? (2018)
+a) Its extract is widely used in cosmetics.
+b) It tends to reduce the biodiversity in the area in which it grows.
+c) Its extract is used in the synthesis of pesticides.
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) It tends to reduce the biodiversity in the area in which it grows.
+#AnswerEnd
+
+#QuestionStart
+Q21) Which of the following leaf modifications occur(s) in desert areas to inhibit water loss? (2018)
+1. Hard and waxy leaves
+2. Tiny leaves
+3. Thorns instead of leaves
+Select the correct answer using the code given below:
+a) 2 and 3 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q22) Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/ consequences? (2017)
+1. Pollination of some plants could be adversely affected.
+2. There could be a drastic increase in the fungal infections of some cultivated plants.
+3. It could lead to a fall in the population of some species of wasps, spiders, and birds.
+Select the correct one using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q23) Which one of the following is the best description of the term 'ecosystem'? (2015)
+a) A community of organisms interacting with one another
+b) That part of the Earth that is inhabited by living organisms
+c) A community of organisms together with the environment in which they live
+d) The flora and fauna of a geographical area
+#QuestionEnd
+#AnswerStart
+Answer: c) A community of organisms together with the environment in which they live
+#AnswerEnd
+
+#QuestionStart
+Q24) Which one of the following regions of India has a combination of mangrove forest, evergreen forest, and deciduous forest? (2015)
+a) North Coastal Andhra Pradesh
+b) South-West Bengal
+c) Southern Saurashtra
+d) Andaman and Nicobar Islands
+#QuestionEnd
+#AnswerStart
+Answer: d) Andaman and Nicobar Islands
+#AnswerEnd
+
+#QuestionStart
+Q25) Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth? (2014)
+1. Volcanic action
+2. Respiration
+3. Photosynthesis
+4. Decay of organic matter
+Select the correct answer using the code given below:
+a) 1 and 3 only
+b) 2 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q26) Consider the following: (2014)
+1. Bats
+2. Bears
+3. Rodents
+The phenomenon of hibernation can be observed in which of the above kinds of animals?
+a) 1 and 2 only
+b) 2 only
+c) 1, 2 and 3
+d) Hibernation cannot be observed in any of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q27) Which one of the following is the correct sequence of a food chain? (2014)
+a) Diatoms-Crustaceans-Herrings
+b) Crustaceans-Diatoms-Herrings
+c) Diatoms-Herrings-Crustaceans
+d) Crustaceans-Herrings-Diatoms
+#QuestionEnd
+#AnswerStart
+Answer: a) Diatoms-Crustaceans-Herrings
+#AnswerEnd
+
+#QuestionStart
+Q28) Among the following organisms, which one does not belong to the class of the other three? (2014)
+a) Crab
+b) Mite
+c) Scorpion
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Crab
+#AnswerEnd
+
+#QuestionStart
+Q29) Which one of the following is the process involved in photosynthesis? (2014)
+a) Potential energy is released to form free energy.
+b) Free energy is converted into potential energy and stored.
+c) Food is oxidised to release carbon dioxide and water.
+d) Oxygen is taken, and carbon dioxide and water vapour are given out.
+#QuestionEnd
+#AnswerStart
+Answer: b) Free energy is converted into potential energy and stored.
+#AnswerEnd
+
+#QuestionStart
+Q30) With reference to the food chains in ecosystems, which of the following kinds of organism is/are known as decomposer organism/organisms? (2013)
+1. Virus
+2. Fungi
+3. Bacteria
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q31) In the grasslands, trees do not replace the grasses as a part of an ecological succession because of (2013)
+a) insects and fungi
+b) limited sunlight and paucity of nutrients
+c) water limits and fire
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) water limits and fire
+#AnswerEnd
+
+#QuestionStart
+Q32) Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity? (2013)
+a) Oceans, lakes, grasslands, mangroves
+b) Mangroves, oceans, grasslands, lakes
+c) Mangroves, grasslands, lakes, oceans
+d) Oceans, mangroves, lakes, grasslands
+#QuestionEnd
+#AnswerStart
+Answer: c) Mangroves, grasslands, lakes, oceans
+#AnswerEnd
+
+#QuestionStart
+Q33) Due to improper/indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste? (2013)
+1. Beryllium
+2. Cadmium
+3. Chromium
+4. Heptachlor
+5. Mercury
+6. Lead
+7. Plutonium
+Select the correct answer using the code given below:
+a) 1, 3, 4, 6, and 7 only
+b) 1, 2, 3, 5, and 6 only
+c) 2, 4, 5, and 7 only
+d) 1, 2, 3, 4, 5, 6 and 7
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2, 3, 5, and 6 only
+#AnswerEnd
+
+#QuestionStart
+Q34) Acid rain is caused by the pollution of environment by (2013)
+a) carbon dioxide and nitrogen
+b) carbon monoxide and carbon dioxide
+c) ozone and carbon dioxide
+d) nitrous oxide and sulphur dioxide
+#QuestionEnd
+#AnswerStart
+Answer: d) nitrous oxide and sulphur dioxide
+#AnswerEnd
+
+#QuestionStart
+Q35) With reference to food chains in ecosystems, consider the following statements: (2013)
+1. A food chain illustrates the order in which a chain of organisms feeds upon each other.
+2. Food chains are found within the populations of a species.
+3. A food chain illustrates the numbers of each organism that are eaten by others.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q36) Which of the following adds/add nitrogen to the soil? (2013)
+1. Excretion of urea by animals
+2. Burning of coal by man
+3. Death of vegetation
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q37) Which one of the following terms describes not only the physical space occupied by an organism but also its functional role in the community of organisms? (2013)
+a) Ecotone
+b) Ecological niche
+c) Habitat
+d) Home range
+#QuestionEnd
+#AnswerStart
+Answer: b) Ecological niche
+#AnswerEnd
+
+#QuestionStart
+Q38) Consider the following kinds of organisms: (2012)
+1. Bat
+2. Bee
+3. Bird
+Which of the above is/are pollinating agent/ agents?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q39) The Millennium Ecosystem Assessment describes the following major categories of ecosystem services-provisioning, supporting, regulating, preserving and cultural. Which one of the following is supporting service? (2012)
+a) Production of food and water
+b) Control of climate and disease
+c) Nutrient cycling and crop pollination
+d) Maintenance of diversity
+#QuestionEnd
+#AnswerStart
+Answer: c) Nutrient cycling and crop pollination
+#AnswerEnd

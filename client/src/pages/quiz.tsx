@@ -40,6 +40,7 @@ export default function Quiz() {
   const [quizStarted, setQuizStarted] = useState(false);
   const [quizCompleted, setQuizCompleted] = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isInitialized, setIsInitialized] = useState(false); // Flag to track initialization
   
   // End quiz dialog state
   const [showEndQuizDialog, setShowEndQuizDialog] = useState(false);
@@ -60,29 +61,37 @@ export default function Quiz() {
   const { data: existingAnswers, isLoading: isLoadingAnswers } = useQuery<UserAnswer[]>({
     queryKey: [`/api/attempts/${attemptId}/answers`],
     enabled: !!attemptId,
-    onSuccess: (data) => {
-      // Initialize answered questions and user answers
+  });
+
+  // Process existing answers ONCE when data is available and component hasn't initialized
+  useEffect(() => {
+    // Only run initialization once existingAnswers are loaded and we haven't initialized yet
+    if (existingAnswers && questions && questions.length > 0 && !isInitialized) {
       const answered = new Set<number>();
       const answers = new Map<number, UserAnswer>();
-      
-      data.forEach(answer => {
+
+      existingAnswers.forEach(answer => {
         const questionId = answer.questionId;
         answered.add(questionId);
         answers.set(questionId, answer);
       });
-      
-      setAnsweredQuestions(answered);
-      setUserAnswers(answers);
-      
-      // Set current question to first unanswered question
-      if (questions && questions.length > 0) {
-        const firstUnansweredIndex = questions.findIndex(q => !answered.has(q.id));
-        if (firstUnansweredIndex !== -1) {
-          setCurrentQuestionIndex(firstUnansweredIndex);
-        }
+
+      setAnsweredQuestions(answered); // Set based on fetched answers
+      setUserAnswers(answers);        // Set based on fetched answers
+
+      // Set initial question index based on fetched answers
+      const firstUnansweredIndex = questions.findIndex(q => !answered.has(q.id));
+      if (firstUnansweredIndex !== -1) {
+        setCurrentQuestionIndex(firstUnansweredIndex);
+      } else if (answered.size === questions.length && questions.length > 0) {
+        // If all questions were already answered, go to last question
+        setCurrentQuestionIndex(questions.length - 1);
+        // Consider marking quiz completed here if needed
       }
+      
+      setIsInitialized(true); // Mark as initialized
     }
-  });
+  }, [existingAnswers, questions, isInitialized]); // Depend on isInitialized flag
 
   // Timer effect
   useEffect(() => {
@@ -95,31 +104,24 @@ export default function Quiz() {
     return () => clearInterval(interval);
   }, [quizStarted, quizCompleted]);
 
-  // Start quiz when data is loaded
+  // Start quiz flag effect - Start the quiz once data is loaded and initialization is done
   useEffect(() => {
+    // Start the quiz once questions are loaded, attempt exists, is not completed,
+    // and the initial state has been processed (isInitialized is true)
     if (
-      questions && 
-      questions.length > 0 && 
-      attempt && 
-      !attempt.completed && 
-      !quizStarted
+      questions &&
+      questions.length > 0 &&
+      attempt &&
+      !attempt.completed &&
+      !quizStarted &&
+      isInitialized // Ensure initialization is done before starting
     ) {
       setQuizStarted(true);
     }
-  }, [questions, attempt, quizStarted]);
+  }, [questions, attempt, quizStarted, isInitialized]); // Add isInitialized dependency
 
-  // Check if quiz is completed
-  useEffect(() => {
-    if (
-      questions && 
-      answeredQuestions.size >= questions.length && 
-      quizStarted && 
-      !quizCompleted && 
-      !isSubmitting
-    ) {
-      completeQuiz();
-    }
-  }, [questions, answeredQuestions, quizStarted, quizCompleted, isSubmitting]);
+  // Removed useEffect hook that automatically completed the quiz.
+  // Completion is now handled within handleNextQuestion after the last question's meta-cognitive input.
 
   // Handle answer selection
   const handleAnswerSelected = async (option: string) => {
@@ -239,8 +241,10 @@ export default function Quiz() {
       }
       
       // If all questions are answered, stay on the current one
+      // If all questions are answered, complete the quiz
       if (loopCount >= questions.length) {
-        return prevIndex;
+        completeQuiz();
+        return prevIndex; // Keep the index the same while navigating away
       }
       
       return nextIndex;
@@ -417,7 +421,7 @@ export default function Quiz() {
                   onSkip={handleSkip}
                   onLeave={handleLeave}
                   timer={timer}
-                  questionNumber={currentQuestion.questionNumber}
+                  questionNumber={currentQuestionIndex + 1} // Use the index state
                   totalQuestions={questionCount}
                 />
               </motion.div>
@@ -435,6 +439,7 @@ export default function Quiz() {
                   question={currentQuestion}
                   userAnswer={currentUserAnswer}
                   onNext={handleNextQuestion}
+                  questionNumber={currentQuestionIndex + 1} // Pass the correct number
                 />
               </motion.div>
             )}

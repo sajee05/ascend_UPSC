@@ -1,0 +1,493 @@
+#QuestionStart
+Q1) Consider the following freedom fighters: [UPSC CSE Pre 2022]
+1. Barindra Kumar Ghosh
+2. Jogesh Chandra Chatterjee
+3. Rash Behari Bose
+Who of the above was/were actively associated with the Ghadar Party?
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following is not a political method of the moderates in the National Movement? [UPSC CSE Pre. 2021]
+a) Overthrow of alien rule
+b) Constitutional agitation
+c) Slow, orderly political progress
+d) Mobilisation of public opinion
+#QuestionEnd
+#AnswerStart
+Answer: a) Overthrow of alien rule
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to Swadeshi Movement consider the following statements: [UPSC CSE Pre. 2019]
+1. It contributed to the revival of the indigenous artisan crafts and industries.
+2. The National Council of Education was established as a part of Swadeshi Movement.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following pairs: [UPSC CSE Pre. 2017]
+| 1. Radhakanta Deb | First President of the British Indian Association |
+|---|---|
+| 2. Gazulu Lakshminarasu Chetty | Founder of the Madras Mahajana Sabha |
+| 3. Surendranath Banerjee | Founder of the Indian Association |
+Which of the above pairs is/are correctly matched?
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) What was the main reason for the split in the Indian National Congress at Surat in 1907? [UPSC CSE Pre. 2016]
+a) Introduction of communalism into Indian politics by Lord Minto.
+b) Extremists’ lack of faith in the capacity of the moderates to negotiate with the British Government.
+c) Foundation of Muslim League.
+d) Aurobindo Ghosh’s inability to be elected as the President of the Indian National Congress.
+#QuestionEnd
+#AnswerStart
+Answer: b) Extremists’ lack of faith in the capacity of the moderates to negotiate with the British Government.
+#AnswerEnd
+
+#QuestionStart
+Q6) The ‘Swadeshi’ and ‘Boycott’ were adopted as methods of struggle for the first time during the- [UPSC CSE Pre. 2016]
+a) agitation against the Partition of Bengal
+b) Home Rule Movement
+c) Non-Cooperation Movement
+d) visit of the Simon Commission to India
+#QuestionEnd
+#AnswerStart
+Answer: a) agitation against the Partition of Bengal
+#AnswerEnd
+
+#QuestionStart
+Q7) Who of the following was/were economic critic/ critics of colonialism in India? [UPSC CSE Pre. 2015]
+1. Dadabhai Naoroji
+2. G. Subramania Iyer
+3. R. C. Dutt
+Select the correct answer using the code given below.
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following movements has contributed to a split in the Indian National Congress resulting in the emergence of ‘moderates’ and ‘extremists’? [UPSC CSE Pre. 2015]
+a) Swadeshi Movement
+b) Quit India Movement
+c) Non-Cooperation Movement
+d) Civil Disobedience Movement
+#QuestionEnd
+#AnswerStart
+Answer: a) Swadeshi Movement
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements [UPSC CSE Pre. 2015]
+1. The first woman President of the Indian National Congress was Sarojini Naidu.
+2. The first Muslim President of the Indian National Congress was Badruddin Tyabji.
+Which of the statements given above is / are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) The Partition of Bengal made by Lord Curzon in 1905 lasted until [UPSC CSE Pre. 2014]
+a) the First World War when Indian troops were needed by the British and the partition was ended.
+b) King George V abrogated Curzons Act at the Royal Durbar in Delhi in 1911.
+c) Gandhiji launched his Civil Disobedience Movement.
+d) the Partition of India in 1947 when East Bengal became East Pakistan.
+#QuestionEnd
+#AnswerStart
+Answer: b) King George V abrogated Curzons Act at the Royal Durbar in Delhi in 1911.
+#AnswerEnd
+
+#QuestionStart
+Q11) The Ghadr (Ghadar) was a [UPSC CSE Pre. 2014]
+a) revolutionary association of Indians with headquarters at San Francisco.
+b) nationalist organization operating from Singapore.
+c) militant organization with headquarters at Berlin.
+d) communist movement for India’s freedom with headquarters at Tashkent.
+#QuestionEnd
+#AnswerStart
+Answer: a) revolutionary association of Indians with headquarters at San Francisco.
+#AnswerEnd
+
+#QuestionStart
+Q12) The Ilbert Bill controversy was related to the [UPSC CSE Pre. 2013]
+a) imposition of certain restrictions to carry arms by the Indians.
+b) imposition of restrictions on newspapers and magazines published in Indian languages.
+c) removal of disqualifications imposed on the Indian magistrates with regard to the trial of the Europeans.
+d) removal of a duty on imported cotton cloth.
+#QuestionEnd
+#AnswerStart
+Answer: c) removal of disqualifications imposed on the Indian magistrates with regard to the trial of the Europeans.
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: The most effective contribution made by Dadabhai Naoroji to the cause of Indian National Movement was that he [UPSC CSE Pre. 2012]
+1. exposed the economic exploitation of India by the British.
+2. interpreted the ancient Indian texts and restore the self-confidence of Indians.
+3. stressed the need for eradicati on of all the social evils before anything else.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to the period of colonial rule in India, “Home Charges” formed an important part of drain of wealth from India. Which of the following funds constituted “Home Charges” ? [UPSC CSE Pre. 2011]
+1. Funds used to support the India office in London.
+2. Funds used to pay salaries and pensions of British personnel engaged in India.
+3. Funds used for waging wars outside India by the British.
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) What was the purpose with which Sir William Wedderburn and W.S. Caine had set up the Indian Parliamentary Committee in 1893? [UPSC CSE Pre. 2011]
+a) To agitate for Indian political reforms in the House of Commons.
+b) To campaign for the entry of Indians into the Imperial Judiciary.
+c) To facilitate a discussion on India’s Independence in the British Parliament.
+d) To agitate for the entry of eminent Indians into the British Parliament.
+#QuestionEnd
+#AnswerStart
+Answer: a) To agitate for Indian political reforms in the House of Commons.
+#AnswerEnd
+
+#QuestionStart
+Q16) What was the immediate cause for the launch of the Swadeshi Movement? [UPSC CSE Pre. 2010]
+a) The partition of Bengal done by Lord Curzon.
+b) A sentence of 18 months rigorous imprisonment imposed on Lokmanya Tilak.
+c) The arrest and deportation of Lala Lajpat Rai and Ajit Singh; and passing of the Punjab Colonization Bill.
+d) Death sentence pronounced on the Chapekar brothers.
+#QuestionEnd
+#AnswerStart
+Answer: a) The partition of Bengal done by Lord Curzon.
+#AnswerEnd
+
+#QuestionStart
+Q17) In the context of the Indian Freedom Struggle, 16th October 1905 is well-known for which one of the following reasons? [UPSC CSE Pre. 2009]
+a) The formal proclamation of Swadeshi Movement was made in Calcutta town hall.
+b) Partition of Bengal came into effect.
+c) Dadabhai Naoroji declared that the goal of Indian National Congress was Swaraj.
+d) Lokmanya Tilak started Swadeshi Movement in Poona.
+#QuestionEnd
+#AnswerStart
+Answer: b) Partition of Bengal came into effect.
+#AnswerEnd
+
+#QuestionStart
+Q18) Who was the Viceroy of India when the Rowlatt Act was passed? [UPSC CSE Pre. 2008]
+a) Lord Irwin
+b) Lord Reading
+c) Lord Chelmsford
+d) Lord Wavell
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Chelmsford
+#AnswerEnd
+
+#QuestionStart
+Q19) The first conference of Indian National Congress held at- [UPSC CSE Pre. 2008]
+a) Kolkata
+b) Lahore
+c) Mumbai
+d) Pune
+#QuestionEnd
+#AnswerStart
+Answer: c) Mumbai
+#AnswerEnd
+
+#QuestionStart
+Q20) Consider the following statements about Madam Bhikaji Cama: [UPSC CSE Pre. 2006]
+1. Madam Cama unfurled the National Flag at the International Socialist Conference in Paris in the year 1907.
+2. Madam Cama served as private secretary to Dadabhai Naoroji.
+3. Madam Cama was born to Parsi.
+Which of the statement (s) given above is/are correct?
+a) 1,2 and 3
+b) 2 and 3 only
+c) 1 and 2 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q21) What was Kamagatamaru? [UPSC CSE Pre. 2005]
+a) A political party based in Taiwan
+b) Peasant Communist leader of China
+c) A naval ship of Voyage to Canada
+d) A Chinese village where Mao Tse lung began his long march.
+#QuestionEnd
+#AnswerStart
+Answer: c) A naval ship of Voyage to Canada
+#AnswerEnd
+
+#QuestionStart
+Q22) Where were the Ghadar revolutionaries, who became active during the outbreak of World War I based? [UPSC CSE Pre. 2005]
+a) Central America
+b) North America
+c) West America
+d) South America
+#QuestionEnd
+#AnswerStart
+Answer: b) North America
+#AnswerEnd
+
+#QuestionStart
+Q23) The name of the famous person of India who returned the Knighthood conferred on him by the British Government as a token of protest against the atrocities in Punjab in 1919 was: [UPSC CSE Pre. 2004]
+a) Tej Bahadur Sapru
+b) Ashutosh Mukherjee
+c) Rabindra Nath Tagore
+d) Syed Ahmed Khan
+#QuestionEnd
+#AnswerStart
+Answer: c) Rabindra Nath Tagore
+#AnswerEnd
+
+#QuestionStart
+Q24) With reference to the period of extremist nationalist movement in India with its spirit of Swadeshi, which one of the following statements is NOT correct? [UPSC CSE Pre. 2002]
+a) Liyakat Hussain led the Muslim peasants of Barisal in their agitations.
+b) In 1889, the scheme of national education was formulated by Satish Chandra Mukherjee.
+c) The Bengal National College was founded in 1906 with Aurobindo as the Principle.
+d) Tagore preached the cult of Atmasakti, the main plank of which was social and economic regeneration of the villages.
+#QuestionEnd
+#AnswerStart
+Answer: a) Liyakat Hussain led the Muslim peasants of Barisal in their agitations.
+#AnswerEnd
+
+#QuestionStart
+Q25) Which one of the following submitted in 1875 a petition to the House of Commons demanding India’s direct representation in the British Parliament? [UPSC CSE Pre. 2002]
+a) The Deccan Association
+b) The Indian Association
+c) The Madras Mahajan Sabha
+d) The Poona Sarvajanik Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d) The Poona Sarvajanik Sabha
+#AnswerEnd
+
+#QuestionStart
+Q26) The Hunter Committee was appointed after the: [UPSC CSE Pre. 2001]
+a) Blackhole incident
+b) Jalianwalla Bagh massacre
+c) Uprising of 1857
+d) Partition of Bengal
+#QuestionEnd
+#AnswerStart
+Answer: b) Jalianwalla Bagh massacre
+#AnswerEnd
+
+#QuestionStart
+Q27) Who among the following organized the famous Chittagong armoury raid? [UPSC CSE Pre. 2001]
+a) Laxmi Sehgal
+b) Surya Sen
+c) Batukeshwar Datta
+d) J.M. Sengupta
+#QuestionEnd
+#AnswerStart
+Answer: b) Surya Sen
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements about the Indian National Congress: [UPSC CSE Pre. 2000]
+1. Sarojini Naidu was the first woman to be the President of the Congress.
+2. C.R. Das was in prison when he functioned as the President of the Congress.
+3. The first Britisher to become the President of the Congress was Alan Octavian Hume.
+4. Alfred Webb was the President of the Congress in 1894.
+Which of these statements are correct?
+a) 1 and 3
+b) 2 and 4
+c) 2, 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q29) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 2000]
+| List-1 | List H |
+|---|---|
+| A. Chhittagaon Armoury Raid | 1. Kalpana Dutt |
+| B. Abhinav Bharat | 2. Guru Ram Singh |
+| C. Anushilan Samiti | 3. Vinayak Damodar Savarkar |
+| D. Kuka Movement | 4. Aurobindo Ghosh |
+Code:
+a) 1A, 3B, 4C, 2D
+b) 1A, 3B, 2C, 4D
+c) 3A, 1B, 2C, 4D
+d) 3A, 1B, 4C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: a) 1A, 3B, 4C, 2D
+#AnswerEnd
+
+#QuestionStart
+Q30) While delivering the presidential address, the Congress President who advocated the introduction of Roman script for the Hindi language was: [UPSC CSE Pre. 2000]
+a) Mahatma Gandhi
+b) Jawaharlal Nehru
+c) Abul Kalam Azad
+d) Subhash Chandra Bose
+#QuestionEnd
+#AnswerStart
+Answer: d) Subhash Chandra Bose
+#AnswerEnd
+
+#QuestionStart
+Q31) Which one of the following Indian leaders was dismissed by the British from the Indian Civil Service? [UPSC CSE Pre. 1999]
+a) Satyendranath Tagore
+b) Surendranath Banerji
+c) R.C. Dutt
+d) Subhash Chandra Bose
+#QuestionEnd
+#AnswerStart
+Answer: b) Surendranath Banerji
+#AnswerEnd
+
+#QuestionStart
+Q32) The first venture of Gandhi in all-India politics was the: [UPSC CSE Pre. 1999]
+a) Non-Cooperation Movement
+b) Rowlatt Satyagraha
+c) Champaran Movement
+d) Dandi March
+#QuestionEnd
+#AnswerStart
+Answer: b) Rowlatt Satyagraha
+#AnswerEnd
+
+#QuestionStart
+Q33) Which one of the following defines extremist ideology during the early phase of Indian freedom movement? [UPSC CSE Pre. 1998]
+a) Stimulating the production of indigenous articles by giving them preference over imported commodities.
+b) Obtaining Self-Government by aggressive means in place of petitions and constitutional ways.
+c) Providing national educational according to the requirements of the country.
+d) Organizing coups against the British empire through military revolt.
+#QuestionEnd
+#AnswerStart
+Answer: b) Obtaining Self-Government by aggressive means in place of petitions and constitutional ways.
+#AnswerEnd
+
+#QuestionStart
+Q34) The Indian Muslims, in general, were NOT attracted to the extremist movement because of the: [UPSC CSE Pre. 1998]
+a) influence of Sir Sayyid Ahmed Khan
+b) anti-Muslim attitude of extremist leaders
+c) the indifference is shown to Muslim aspirations
+d) extremist’s policy of harping on Hindu part
+#QuestionEnd
+#AnswerStart
+Answer: d) extremist’s policy of harping on Hindu part
+#AnswerEnd
+
+#QuestionStart
+Q35) Who was the leader of the Ghadar Party? [UPSC CSE Pre. 1998]
+a) Bhagat Singh
+b) Lala Hardayal
+c) Bal Gangadhar Tilak
+d) V.D. Savarkar
+#QuestionEnd
+#AnswerStart
+Answer: b) Lala Hardayal
+#AnswerEnd
+
+#QuestionStart
+Q36) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 1996]
+| List-I | List-II |
+|---|---|
+| A. Abhinav Bharat Society | 1. Sri Aurobindo Ghosh |
+| B. Anushilan Samiti | 2. Lala Hardayal |
+| C. Gadar Party | 3. C.R. Das |
+| D. Swaraj Party | 4. V.D. Savarkar |
+Code:
+a) 4A, 1B, 3C, 2D
+b) 1A, 4B, 3C, 2D
+c) 1A, 4B, 2C, 3D
+d) 4A, 1B, 2C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: d) 4A, 1B, 2C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q37) The Anarchical and Revolutionary Crime Act (1919) was popularly known as the: [UPSC CSE Pre. 1996]
+a) Rowlatt Act
+b) Pitt’s India Act
+c) Indian Arms Act
+d) Ilbert Bill
+#QuestionEnd
+#AnswerStart
+Answer: a) Rowlatt Act
+#AnswerEnd
+
+#QuestionStart
+Q38) The Barrah dacoity was the first major venture of the revolutionary terrorists of the freedom movement in: [UPSC CSE Pre. 1995]
+a) Bombay-Karnataka
+b) Punjab
+c) East Bengal
+d) The Madras Presidency
+#QuestionEnd
+#AnswerStart
+Answer: c) East Bengal
+#AnswerEnd
+
+#QuestionStart
+Q39) Which of the following international events influenced the course of the national movement in India before the advent of Mahatma Gandhi? [UPSC CSE Pre. 1994]
+1. Italian-Abyssinian War, 1898
+2. Boxer Movement in China
+3. Revolutionary Movement in Ireland
+4. Victory of Japan in the Russo-Japanese War
+Code:
+a) only 1, 2 and 3
+b) only 1, 2 and 4
+c) only 3 and 4
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q40) What was common among Madam Bhikaji Cama, M. Barkahtulla, V.V.S Iyer and M.N. Roy? [UPSC CSE Pre. 1994]
+a) All of them were leading members of the International Communist Movement.
+b) M. Barkatulla was the Prime Minister and the rest were ministers in the Provisional Government of free India established by a group of revolutionaries at Kabul.
+c) All of them were among the prominent revolutionaries outside India operating in different countries during the freedom movement.
+d) All of them were accused in the case relating to the throwing of a bomb on Lord Hardinge.
+#QuestionEnd
+#AnswerStart
+Answer: c) All of them were among the prominent revolutionaries outside India operating in different countries during the freedom movement.
+#AnswerEnd

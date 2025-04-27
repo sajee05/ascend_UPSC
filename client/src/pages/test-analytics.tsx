@@ -1,5 +1,6 @@
 import { useParams, useLocation } from "wouter";
 import { TestSummary } from "@/components/analytics/test-summary";
+import { BasicAnalyticsTable } from "@/components/analytics/BasicAnalyticsTable"; // Import the new component
 import { AdvancedCharts } from "@/components/analytics/advanced-charts";
 import { AIAnalytics } from "@/components/analytics/ai-analytics";
 import { AnalyticsExport } from "@/components/analytics/analytics-export";
@@ -153,10 +154,15 @@ export default function TestAnalyticsPage() {
           {/* Test Summary Header */}
           <TestSummary analytics={analytics} />
           
+          {/* Basic Analytics Table (New) */}
+          <BasicAnalyticsTable analytics={analytics} />
+          
           {/* Advanced Charts */}
-          <AdvancedCharts 
-            overallStats={analytics.overallStats} 
-            subjectStats={analytics.subjectStats} 
+          {/* TODO: Consider renaming "Advanced Charts" section header if needed */}
+          <AdvancedCharts
+            overallStats={analytics.overallStats}
+            subjectStats={analytics.subjectStats}
+            trendData={analytics.overallStats.dataPoints || []} // Pass trend data from overallStats
           />
           
           {/* AI Analytics */}

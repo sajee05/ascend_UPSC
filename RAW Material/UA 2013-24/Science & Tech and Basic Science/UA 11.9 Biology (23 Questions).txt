@@ -1,0 +1,314 @@
+#QuestionStart
+Q1) Which one of the following is synthesised in the human body that dilates blood vessels and increases blood flow? (2024)
+a) Nitric oxide
+b) Nitrous oxide
+c) Nitrogen dioxide
+d) Nitrogen pentoxide
+#QuestionEnd
+#AnswerStart
+Answer: a) Nitric oxide
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following statements in respect of probiotics : (2022)
+1. Probiotics are made of both bacteria and yeast.
+2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut.
+3. Probiotics help in the digestion of milk sugars.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) 1 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the current trends in the cultivation of sugarcane in India, consider the following statements: (2020)
+1. A substantial saving in seed material is when ‘bud chip settlings’ are raised in a nursery and transplanted in the main field.
+2. When direct planting of seeds is done, the germination percentage is better with single-budded sets as compared to sets with many buds.
+3. If bad weather conditions prevail when seeds are directly planted, single- budded setts have better survival as compared to large sets.
+4. Sugarcane can be cultivated using settlings prepared from tissue culture.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Which of the following statements are correct regarding the general difference between plant and animal cells? (2020)
+1. Plant cells have cellulose cell walls whilst animal cells do not.
+2. Plant cells do not have plasma membranes unlike animal cells which do.
+3. Mature plant cell has one large vacuole whilst an animal cell has many small vacuoles.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which of the following statements is not correct? (2019)
+a) Hepatitis B virus is transmitted much like HIV.
+b) Hepatitis B, unlike Hepatitis C, does not have a vaccine.
+c) Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.
+d) Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years.
+#QuestionEnd
+#AnswerStart
+Answer: b) Hepatitis B, unlike Hepatitis C, does not have a vaccine.
+#AnswerEnd
+
+#QuestionStart
+Q6) Which of the following are the reasons for the occurrence of multidrug resistance in microbial pathogens in India? (2019)
+1. Genetic predisposition of some people.
+2. Taking incorrect doses of antibiotics to cure diseases.
+3. Using antibiotics in livestock farming.
+4. Multiple chronic diseases in some people.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following: (2018)
+1. Birds
+2. Dust blowing
+3. Rain
+4. Wind blowing
+Which of the above spread plant diseases?
+a) 1 and 3 only
+b) 3 and 4 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q8) Which of the following statements is/are correct? (2016)
+Viruses can infect
+1. bacteria
+2. fungi
+3. plants
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following diseases (2014)
+1. Diphtheria
+2. Chickenpox
+3. Smallpox
+Which of the above diseases has/have been eradicated in India?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: (2014)
+1. Maize can be used for the production of starch.
+2. Oil extracted from maize can be a feedstock for biodiesel.
+3. Alcoholic beverages can be produced by using maize.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q11) Which of the following statements is/are correct regarding vegetative propagation of plants? (2014)
+1. Vegetative propagation produces a clonal population.
+2. Vegetative propagation helps in eliminating the virus.
+3. Vegetative propagation can be practised most of the year.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following pairs: (2014)
+| Vitamin | Deficiency disease |
+|---|---|
+| 1. Vitamin C | Scurvy |
+| 2. Vitamin D | Rickets |
+| 3. Vitamin E | Night blindness |
+Which of the pairs given above is/are correctly matched?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q13) Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of (2014)
+a) algae and bacteria
+b) algae and fungi
+c) bacteria and fungi
+d) fungi and mosses
+#QuestionEnd
+#AnswerStart
+Answer: b) algae and fungi
+#AnswerEnd
+
+#QuestionStart
+Q14) Fruits stored in a cold chamber exhibit longer storage life because (2013)
+a) exposure to sunlight is prevented
+b) concentration of carbon dioxide in the is increased environment
+c) rate of respiration is decreased
+d) there is an increase in humidity
+#QuestionEnd
+#AnswerStart
+Answer: c) rate of respiration is decreased
+#AnswerEnd
+
+#QuestionStart
+Q15) Many transplanted seedlings do not grow because (2013)
+a) the new soil does not contain favourable minerals
+b) most of the root hairs grip the new soil too hard
+c) most of the root hairs are lost during transplantation
+d) leaves get damaged during transplantation
+#QuestionEnd
+#AnswerStart
+Answer: c) most of the root hairs are lost during transplantation
+#AnswerEnd
+
+#QuestionStart
+Q16) Which of the following statements is/are correct? (2013)
+1. Viruses lack enzymes necessary for the generation of energy.
+2. Viruses can be cultured in any synthetic medium.
+3. Viruses are transmitted from one organism to another by biological vectors only.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Which of the following diseases can be transmitted from one person to another through tattooing? (2013)
+1. Chikungunya
+2. Hepatitis B
+3. HIV-AIDS
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Consider the following minerals (2013)
+1. Calcium
+2. Iron
+3. Sodium
+Which of the minerals given above is/ are required by the human body for the contraction of muscles?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q19) Regular intake of fresh fruits and vegetables is recommended in the diet since they are a good source of antioxidants. How do antioxidants help a person maintain health and promote longevity? (2011)
+a) They activate the enzyme necessary for vitamin synthesis in the body and help prevent vitamin deficiency.
+b) They prevent excessive oxidation of carbohydrates, fats and protein in the body and help avoid unnecessary wastage of energy.
+c) They neutralise the free radical produced in the body during metabolism.
+d) They activate certain genes in the cells of the body and help delay the ageing process.
+#QuestionEnd
+#AnswerStart
+Answer: c) They neutralise the free radical produced in the body during metabolism.
+#AnswerEnd
+
+#QuestionStart
+Q20) A company marketing food product advertises that its items do not contain trans-fats. What does this campaign signify to the customers? (2011)
+1. The food products are not made out of hydrogenated oils.
+2. The food products are not made out of animal fats/oils.
+3. The oils used are not likely to damage the cardiovascular health of the consumers.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Aspartame is an artificial sweetener sold in the market. It consists of amino acids and provides calories like other amino acids. Yet, it is used as a low-calorie sweetening agent in food items. What is the basis of this use? (2011)
+a) Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidised in the human body due to lack of requisite enzymes.
+b) When aspartame is used in food processing, the sweet taste remains, but it becomes resistant to oxidation.
+c) Aspartame is as sweet as sugar, but after ingestion into the body, it is converted into metabolites that yield no calories.
+d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation.
+#QuestionEnd
+#AnswerStart
+Answer: d) Aspartame is several times sweeter than table sugar, hence food items made with small quantities of aspartame yield fewer calories on oxidation.
+#AnswerEnd
+
+#QuestionStart
+Q22) A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and O negative. The blood group of the three sons is A positive, B positive, and O positive. The blood group of the adopted son is? (2011)
+a) O positive
+b) A positive
+c) B positive
+d) Cannot be determined on the basis of the given data
+#QuestionEnd
+#AnswerStart
+Answer: a) O positive
+#AnswerEnd
+
+#QuestionStart
+Q23) When the bark of a tree is removed in a circular fashion all around near its base, it gradually dries up and dies because? (2011)
+a) Water from soil cannot rise to aerial parts.
+b) Roots are starved of energy.
+c) Tree is infected by soil microbes.
+d) Roots do not receive oxygen for respiration.
+#QuestionEnd
+#AnswerStart
+Answer: b) Roots are starved of energy.
+#AnswerEnd

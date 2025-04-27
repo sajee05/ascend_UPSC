@@ -1,0 +1,501 @@
+#QuestionStart
+Q1) According to Kautilya’s Arthashastra, consider the following statements: [UPSC CSE Pre. 2022]
+1. A person could be a slave as a result of a judicial punishment.
+2. If a female slave bore her master a son, she was legally free.
+3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master’s son.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the history of ancient India, which of the following statements is/ are correct? [UPSC CSE Pre. 2021]
+1. Mitakshara was the civil law for upper castes and Dayabhaga was the civil law for lower castes.
+2. In the Mitakshara system, the sons can claim right to the property during the lifetime of the father, whereas in the Dayabhaga system, it is only after the death of the father that the sons can claim right to the property.
+3. The Mitakshara system deals with the matters related to the property held by male members only of a family, whereas the Dayabhaga system deals with the matters related to the property held by both male and female members of a family.
+Select the correct answer using the code given below:
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the scholars/litterateurs of ancient India, consider the following statements: [UPSC CSE Pre. 2020]
+1. Panini is associated with Pushyamitra.
+2. Amarasimha is associated with Harshavardhana.
+3. Kalidasa is associated with Chandra Gupta-II.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to culture history of India, consider the following statements: [UPSC CSE Pre. 2018]
+1. Most of the Tyagaraja Kritis are devotional songs in praise of Lord Krishna.
+2. Tyagaraja created several new ragas.
+3. Annamacharya and Tyagaraja are contemporaries.
+4. Annamacharya kirtnas are devotional songs in praise of Lord Venkateshwara.
+Which of the statements given above are correct?
+a) 1 and 3 only
+b) 2 and 4 only
+c) 1, 2 and 3 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following pairs: [UPSC CSE Pre. 2018]
+| Tradition | State |
+|---|---|
+| 1. Chapchar Kut Festival | Mizoram |
+| 2. Khongjom Parba ballad | Manipur |
+| 3. Thang-Ta Dance | Sikkim |
+Which of the pairs given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 1 and 2 only (⭐ Please Re-check)
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to Manipuri Sankirtana, consider the following statements: [UPSC CSE Pre. 2017]
+1. It is a song and dance performance.
+2. Cymbals are the only musical instruments used in the performance.
+3. It is performed to narrate the life and deeds of Lord Krishna.
+Which of the statements given above is/are correct?
+a) 1, 2 and 3
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following books of ancient India has the love story of the son of the founder of Sunga dynasty? [UPSC CSE Pre. 2016]
+a) Swapnavasavadatta
+b) Malavikagnirnitra
+c) Meghadoota
+d) Ratnavali
+#QuestionEnd
+#AnswerStart
+Answer: b) Malavikagnirnitra
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to the famous Sattriya dance, consider the following statements: [UPSC CSE Pre. 2014]
+1. Sattriya is a combination of music, dance and drama.
+2. It is a centuries-old living tradition of Vaishnavites of Assam.
+3. It is based on classical Ragas and Talas of devotional songs composed by Tulsidas, Kabir and Mirabai.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following pairs: [UPSC CSE Pre. 2014]
+1. Garba: Gujarat
+2. Mohiniattam: Odisha
+3. Yakshagana: Karnataka
+Which of the pairs given above is/are correctly matched?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q10) A community of people called Manganiyars is well-known for their: [UPSC CSE Pre. 2014]
+a) martial arts in North-East India
+b) musical tradition in North-West India
+c) classical vocal music in South India
+d) pietra dura tradition in Central India
+#QuestionEnd
+#AnswerStart
+Answer: b) musical tradition in North-West India
+#AnswerEnd
+
+#QuestionStart
+Q11) In the context of the cultural history of India, a pose in dance and dramatics called Tribhanga has been a favourite of Indian artists from ancient times till today. Which one of the following statements best describes this pose? [UPSC CSE Pre. 2013]
+a) One leg is bent and the body is slightly but oppositely curved at waist and neck.
+b) Facial expressions, hand gestures and make-up are combined to symbolize certain epic or historical characters.
+c) Movements of body, face and hands are used to express oneself or to tell a story.
+d) A little smile, slightly curved waist and certain hand gestures are emphasized to express the feelings of love or eroticism.
+#QuestionEnd
+#AnswerStart
+Answer: a) One leg is bent and the body is slightly but oppositely curved at waist and neck.
+#AnswerEnd
+
+#QuestionStart
+Q12) How do you distinguish between Kuchipudi and Bharatanatyam dances? [UPSC CSE Pre. 2012]
+1. Dancers occasionally speaking dialogues is found in Kuchipudi dance but not in Bharatanatyam.
+2. Dancing on the brass plate by keeping the feet on its edges is a feature of Bharatanatyam, but Kuchipudi dance does not have such a form of movements.
+Which of the statements given above is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to Dhrupad, one of the major traditions of India that has been kept alive for centuries, which of the following statements are correct? [UPSC CSE Pre. 2012]
+1. Dhrupad originated and developed in the Rajput kingdoms during the Mughal period.
+2. Dhrupad is primalrily a devotional and spiritual music.
+3. Dhrupad Alap uses Sanskrit syllables from Mantras.
+Select the correct answer using the codes given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) None of the above is correct
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) In Indian history, who was Abdul Hamid Lahori? [UPSC CSE Pre. 2006]
+a) An important military commander during Akbar’s reign.
+b) An official historian of the reign of Shah Jahan.
+c) An important noble and confidant of Aurangzeb.
+d) A chronicler and poet during the reign of Muhammad Shah.
+#QuestionEnd
+#AnswerStart
+Answer: b) An official historian of the reign of Shah Jahan.
+#AnswerEnd
+
+#QuestionStart
+Q15) ‘Mrichchhakatika’ an ancient Indian book written by Shudraka deals with: [UPSC CSE Pre. 2003]
+a) The love affair of a rich merchant with the daughter of a courtesan
+b) The victory of Chandragupta II over the Shaka Kshatrapas of western India
+c) The military expeditions and exploits of Samudragupta
+d) The love affairs between a Gupta King and a Princess of Kamarupa
+#QuestionEnd
+#AnswerStart
+Answer: a) The love affair of a rich merchant with the daughter of a courtesan
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements: [UPSC CSE Pre. 2003]
+1. Kitab-i-Nauras, a collection of songs in praise of Hindu deities and Muslim saints, was written by Ibrahim Adil Shah II.
+2. Amir Khusrau was the originator in India of the early form of the musical style known as Qawwali.
+Which of these statements is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q17) The ancient Indian play Mudrarakshasa of Visakhadutt has its subject on: [UPSC CSE Pre. 2002]
+a) a conflict between Gods and Demons of ancient Hindu lore
+b) a romantic story of an Aryan prince and a tribal woman
+c) the story of the power struggle between two Aryan tribes
+d) the court intrigues at the time of Chandragupta Maurya
+#QuestionEnd
+#AnswerStart
+Answer: d) the court intrigues at the time of Chandragupta Maurya
+#AnswerEnd
+
+#QuestionStart
+Q18) The Raga which is sung early in the morning is: [UPSC CSE Pre. 2000]
+a) Todi
+b) Darbari
+c) Bhopali
+d) Bhimpalasi
+#QuestionEnd
+#AnswerStart
+Answer: a) Todi
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements regarding the Chakiarkoothu form of dance: [UPSC CSE Pre. 2000]
+1. It is performed by Chakiar caste.
+2. It cannot be traditionally witnessed by the higher caster Hindus.
+3. Mizhavu is the accompanying instrument.
+4. Its theatre form is called Koothambalam.
+Which of these statements are correct?
+a) 1, 3 and 4
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q20) The first writer to use Urdu as the medium of poetic expression was: [UPSC CSE Pre. 1999]
+a) Amir Khusrau
+b) Mirza Ghalib
+c) Bahadur Shah Zafar
+d) Faiz
+#QuestionEnd
+#AnswerStart
+Answer: a) Amir Khusrau
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following pairs of folkdance forms and States is not correctly matched? [UPSC CSE Pre. 1999]
+a) Korku - Maharashtra
+b) Jhumar - Haryana
+c) Thali - Himachal Pradesh
+d) Mukna - Manipur
+#QuestionEnd
+#AnswerStart
+Answer: c) Thali - Himachal Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q22) The first feature film (talkie) to be produced in India was: [UPSC CSE Pre. 1999]
+a) Hatimtai
+b) Alam Ara
+c) Pundalik
+d) Raja Harishchandra
+#QuestionEnd
+#AnswerStart
+Answer: b) Alam Ara
+#AnswerEnd
+
+#QuestionStart
+Q23) Which of the following pairs are correctly matched? [UPSC CSE Pre. 1998]
+1. Mrichchhakatikam - Sudraka
+2. Buddhacharita - Vasuvandhu
+3. Mudrarakshasa - Vishakhadatta
+4. Harshacharita - Banabhatta
+Select the correct answer using the codes given below:
+a) 1, 2, 3 and 4
+b) 1, 3 and 4
+c) 1 and 4
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q24) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 1997]
+| List-I (Author) | List-II (Text) |
+|---|---|
+| A. Varahamihira | 1. Prabandha Chintamani |
+| B. Vishakhadatta | 2. Mrichchha-Katikam |
+| C. Sudraka | 3. Brihat Samhita |
+| D. Bilhana | 4. Devi-Chandraguptam |
+|  | 5. Vikramanka devacharita |
+Code:
+a) A-3, B-4, C-5, D-2
+b) A-3, B-4, C-2, D-5
+c) A-5, B-3, C-4, D-1
+d) A-1, B-3, C-5, D-2
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-2, D-5
+#AnswerEnd
+
+#QuestionStart
+Q25) The famous dialogue between Nachiketa and Yama is mentioned in the: [UPSC CSE Pre. 1997]
+a) Brihadaranyaka Upanishad
+b) Chhandogyopanishad
+c) Kathopanishad
+d) Kenopanishad
+#QuestionEnd
+#AnswerStart
+Answer: c) Kathopanishad
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following dances involves solo performance? [UPSC CSE Pre. 1997]
+a) Bharatanatyam
+b) Kuchipudi
+c) Mohiniattam
+d) Odissi
+#QuestionEnd
+#AnswerStart
+Answer: c) Mohiniattam
+#AnswerEnd
+
+#QuestionStart
+Q27) Milindapanha is in the form of a dialogue between king Menander and Buddhist monk: [UPSC CSE Pre. 1997]
+a) Nagarjuna
+b) Nagabhatta
+c) Nagasena
+d) Kumarilabhatta
+#QuestionEnd
+#AnswerStart
+Answer: c) Nagasena
+#AnswerEnd
+
+#QuestionStart
+Q28) Prem Vatika, poems on the life of Krishna, was composed by: [UPSC CSE Pre. 1996]
+a) Bihari
+b) Surdas
+c) Raskhan
+d) Kabir
+#QuestionEnd
+#AnswerStart
+Answer: c) Raskhan
+#AnswerEnd
+
+#QuestionStart
+Q29) Nastaliq was- [UPSC CSE Pre. 1996]
+a) A Persian script used in medieval India
+b) A raga composed by Tansen
+c) A cess levied by the Mughal rulers
+d) A manual of code of conduct for the Ulemas
+#QuestionEnd
+#AnswerStart
+Answer: a) A Persian script used in medieval India
+#AnswerEnd
+
+#QuestionStart
+Q30) Which one of the following is not a part of early Jain literature? [UPSC CSE Pre. 1996]
+a) Therigatha
+b) Acarangasutra
+c) Sutrakritanga
+d) Brihatkalpasutra
+#QuestionEnd
+#AnswerStart
+Answer: a) Therigatha
+#AnswerEnd
+
+#QuestionStart
+Q31) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre. 1996]
+| List-I | List-II |
+|---|---|
+| A. Vishakhadatta | 1. Medicine |
+| B. Varahamihira | 2. Drama |
+| C. Charaka | 3. Astronomy |
+| D. Brahmagupta | 4. Mathematics |
+Code:
+a) A-1, B-3, C-4, D-2
+b) A-2, B-1, C-3, D-4
+c) A-2, B-3, C-1, D-4
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: c) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q32) Which one of the following texts of ancient India allows divorce to a wife deserted by her husband? [UPSC CSE Pre. 1996]
+a) Kamasutra
+b) Manavadharmashastra
+c) Sukra Nitisara
+d) Arthashastra
+#QuestionEnd
+#AnswerStart
+Answer: d) Arthashastra
+#AnswerEnd
+
+#QuestionStart
+Q33) The term ‘Apabhramsa’ was used in medieval Sanskrit texts to denote: [UPSC CSE Pre. 1996]
+a) Outcasts among the Rajputs
+b) Deviations from Vedic rituals
+c) Early forms of some of the modern Indian languages
+d) Non-Sanskrit verse metres
+#QuestionEnd
+#AnswerStart
+Answer: c) Early forms of some of the modern Indian languages
+#AnswerEnd
+
+#QuestionStart
+Q34) The ‘Modi script’ was employed in the documents of the: [UPSC CSE Pre. 1995]
+a) Wodeyars
+b) Zamorins
+c) Hoysalas
+d) Marathas
+#QuestionEnd
+#AnswerStart
+Answer: d) Marathas
+#AnswerEnd
+
+#QuestionStart
+Q35) Who among the following wrote historical records in the Mughal period? [UPSC CSE Pre. 1994]
+a) Gulbadan Begum
+b) Nur Jahan Begum
+c) Jahanara Begum
+d) Zebunnisa Begum
+#QuestionEnd
+#AnswerStart
+Answer: a) Gulbadan Begum
+#AnswerEnd
+
+#QuestionStart
+Q36) Vidushaka, a common character in Sanskrit drama is invariably- [UPSC CSE Pre. 1994]
+a) Brahmana
+b) Kshatriya
+c) Vaisya
+d) Shudra
+#QuestionEnd
+#AnswerStart
+Answer: a) Brahmana
+#AnswerEnd
+
+#QuestionStart
+Q37) Among the four works mentioned below which one is encyclopedic in nature? [UPSC CSE Pre. 1993]
+a) Amarakosha
+b) Siddhantasiromani
+c) Brihat Samhita
+d) Ashtangahidayam
+#QuestionEnd
+#AnswerStart
+Answer: c) Brihat Samhita
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the following pairs of kings of Ancient and Medieval periods of Indian History and the works by them is correctly matched? [UPSC CSE Pre. 1993]
+a) Krishnadeva Raya: Samaranganasutradhar
+b) Mahendravarman: Mattavilasaprahasana
+c) Bhojadeva : Manasollasa
+d) Somesvara : Amuktamalyada
+#QuestionEnd
+#AnswerStart
+Answer: b) Mahendravarman: Mattavilasaprahasana
+#AnswerEnd
+
+#QuestionStart
+Q39) Given below are two statements, one is labeled. Assertion and other is labelled as Reason (R). [UPSC CSE Pre. 1993]
+Assertion (A): Babur wrote his memoirs in Turki.
+Reason (R); Turki was the official language of the Mughal Court.
+In the context of the above two statements which one of the following is correct?
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false,
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false,
+#AnswerEnd

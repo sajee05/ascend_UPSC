@@ -1,0 +1,344 @@
+#QuestionStart
+Q1) By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India? [UPSC CSE Pre 2023]
+a) The Regulating Act
+b) The Pitt’s India Act
+c) The Charter Act of 1793
+d) The Charter Act of 1833
+#QuestionEnd
+#AnswerStart
+Answer: d) The Charter Act of 1833
+#AnswerEnd
+
+#QuestionStart
+Q2) In the Government of India Act 1919, the functions of Provincial Government were divided into “Reserved” and “Transferred” subjects. Which of the following were treated as “Reserved” subjects? [UPSC CSE Pre 2022]
+1. Administration of Justice
+2. Local Self-Government
+3. Land Revenue
+4. Police
+Select the correct answer using the code given below:
+a) 2, 3 and 4
+b) 1,2 and 3
+c) 1, 3 and 4
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: [UPSC CSE Pre 2021]
+1. The Montagu-Chelmsford Reforms of 1919 recommended granting voting rights to all the women above the age of 21.
+2. The Government of India Act of 1935 gave women reserved seats in legislature.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q4) The ‘Instrumentation of Instructions” contained in the Government of India Act, 1935 have been incorporated in the Constitution of India in the year 1950 as: [UPSC CSE Pre 2010]
+a) Fundamental Rights
+b) Directive Principles of State Policy
+c) Extent of Executive Power of State
+d) Conduct of Business of the Government of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Directive Principles of State Policy
+#AnswerEnd
+
+#QuestionStart
+Q5) By a Regulation in 1793, the District Collector was deprived of his judicial powers and made the collecting agent only. What was the reason for such regulation? [UPSC CSE Pre 2010]
+a) Lord Cornwallis felt that the District Collector’s efficiency of revenue collection would enormously increase without the burden of other work.
+b) Lord Cornwallis felt that judicial power should compulsorily be in the hands of Europeans, while Indians can be given the job of revenue collection in the districts.
+c) Lord Cornwallis was alarmed at the extent of power concentrated in the District Collector and felt that such absolute power was undesirable in one person.
+d) The judicial work demanded a deep knowledge of India and a good training in law and Lord Cornwallis felt that District Collector should be only a revenue collector.
+#QuestionEnd
+#AnswerStart
+Answer: c) Lord Cornwallis was alarmed at the extent of power concentrated in the District Collector and felt that such absolute power was undesirable in one person.
+#AnswerEnd
+
+#QuestionStart
+Q6) In collaboration with David Hare and Alexander Duff, who of the following established Hindu College at Calcutta? [UPSC CSE Pre 2009]
+a) Henry Louis Vivian Derozio
+b) Ishwar Chandra Vidyasagar
+c) Keshab Chandra Sen
+d) Raja Ram Mohan Roy
+#QuestionEnd
+#AnswerStart
+Answer: d) Raja Ram Mohan Roy
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following was a journal brought out by Abul Kalam Azad? [UPSC CSE Pre 2008]
+a) Al-Hilal
+b) Comrade
+c) The Indian Sociologist
+d) Zamindar
+#QuestionEnd
+#AnswerStart
+Answer: a) Al-Hilal
+#AnswerEnd
+
+#QuestionStart
+Q8) Who among the following started the newspaper ‘Som Prakash’? [UPSC CSE Pre 2007]
+a) Dayanand Saraswati
+b) Ishwar Chandra Vidyasagar
+c) Raja Rammohan Roy
+d) Surendranath Banerjee
+#QuestionEnd
+#AnswerStart
+Answer: b) Ishwar Chandra Vidyasagar
+#AnswerEnd
+
+#QuestionStart
+Q9) Consider the following statements: [UPSC CSE Pre 2006]
+1. The Charter Act, 1853 abolished East India Company monopoly of Indian trade.
+2. Under the Government of India Act, 1858 the British Parliament abolished the East India Company altogether and undertook the responsibility of ruling India directly.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements: [UPSC CSE Pre 2005]
+1. Warren Hastings was the first GovernorGeneral who established a regular police force in India on the British pattern.
+2. A Supreme Court was established at Calcutta by the Regulating Act, 1773.
+3. The Indian Penal Code came into effect in the year 1860.
+Which of the statements given above are correct?
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: Government of India Act, 1935 provided for- [UPSC CSE Pre 2005]
+1. provincial autonomy.
+2. The establishment of the Federal Court.
+3. All India Federation at the Centre.
+Which of the following statements given above are correct?
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q12) Who among the following repealed the Vernacular Press Act of 1878? [UPSC CSE Pre 2005]
+a) Lord Ripon
+b) Lord Lytton
+c) Lord Curzon
+d) Lord Minto
+#QuestionEnd
+#AnswerStart
+Answer: a) Lord Ripon
+#AnswerEnd
+
+#QuestionStart
+Q13) Consider the following statements: Some of the main features of the Government of India Act, 1935 were the: [UPSC CSE Pre 2004]
+1. Abolition of diarchy in the Governor’s provinces.
+2. The power of the Governors to veto legislative action and to legislate on their own.
+3. Abolition of the principle of communal representation.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q14) During the colonial period in India, what was the purpose of the Whitley Commission? [UPSC CSE Pre 2003]
+a) To review the fitness of India for further political reforms
+b) To report on existing conditions of labour and to make recommendations
+c) To draw up a plan for financial reforms for India
+d) To develop a comprehensive scheme for Civil Services in India
+#QuestionEnd
+#AnswerStart
+Answer: b) To report on existing conditions of labour and to make recommendations
+#AnswerEnd
+
+#QuestionStart
+Q15) Which one of the following provisions was not made in the Charter Act of 1833? [UPSC CSE Pre 2003]
+a) The trading activities of the East India Company were to be abolished.
+b) The designation of the supreme authority was to be changed as the Governor General of India-in-Council.
+c) All law-making powers to be conferred on Governor-General-in-council.
+d) An Indian was to be appointed as a Law Member of the Governor-General’s Council.
+#QuestionEnd
+#AnswerStart
+Answer: d) An Indian was to be appointed as a Law Member of the Governor-General’s Council.
+#AnswerEnd
+
+#QuestionStart
+Q16) Which one of the following Acts of British India strengthened the Viceroy’s authority over his executive council by substituting “portfolio” or departmental system for corporate functioning? [UPSC CSE Pre 2002]
+a) Indian Councils Act, 1861
+b) Government of India Act, 1858
+c) Indian Councils Act, 1892
+d) Indian Councils Act, 1909
+#QuestionEnd
+#AnswerStart
+Answer: a) Indian Councils Act, 1861
+#AnswerEnd
+
+#QuestionStart
+Q17) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre 2002]
+| List-I (Acts of Colonial Government of India) | List-II (Provisions) |
+|---|---|
+| A. Charter Act, 1813 | 1. Set up a Board of Control in Britain to fully regulate the East India Company. |
+| B. Regulating Act, 1773 | 2. Company’s trade monopoly in India was ended. |
+| C. Act of 1858 | 3. The power to govern was transferred from the East India Company to the British Crown. |
+| D. Pitt’s India Act, 1784 | 4. The Company’s directors were asked to present to the British Government all correspondence and documents pertaining to the administration of the company. |
+Code:
+a) 2A, 4B, 3C, 1D
+b) 1A, 3B, 4C, 2D
+c) 2A, 3B, 4C, 1D
+d) 1A, 4B, 3C, 2D
+#QuestionEnd
+#AnswerStart
+Answer: a) 2A, 4B, 3C, 1D
+#AnswerEnd
+
+#QuestionStart
+Q18) The real intention of the British to include the Princely States in the Federal Union proposed by the India Act of 1935 was to: [UPSC CSE Pre 2002]
+a) Exercise more and direct political and administrative.
+b) Involve the princes actively in the administration of the colony.
+c) Finally effect the complete political and administrative take-over of all the princely States by the British.
+d) Use the princes to counterbalance the anti-imperialist doctrines of the nationalist leaders.
+#QuestionEnd
+#AnswerStart
+Answer: d) Use the princes to counterbalance the anti-imperialist doctrines of the nationalist leaders.
+#AnswerEnd
+
+#QuestionStart
+Q19) Under the Permanent Settlement, 1793, the Zamindars were required to issue pattas to the farmer which were not issued by many of the Zamindars. The reason was: [UPSC CSE Pre 2001]
+a) the Zamindars were trusted by the farmers
+b) there was no officials check upon the Zamindars
+c) it was the responsibility of the British government
+d) the farmers were not interested in getting pattas
+#QuestionEnd
+#AnswerStart
+Answer: b) there was no officials check upon the Zamindars
+#AnswerEnd
+
+#QuestionStart
+Q20) Who amongst the following Englishmen, first translated Bhagavad-Gita into English? [UPSC CSE Pre 2001]
+a) William Jones
+b) Charles Wilkins
+c) Alexander Cunningham
+d) John Marshall
+#QuestionEnd
+#AnswerStart
+Answer: b) Charles Wilkins
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following is not a feature of the Government of India Act of 1935? [UPSC CSE Pre 2000]
+a) Dyarchy at the Centre as well as in the provinces
+b) A bicameral Legislature
+c) Provincial Autonomy
+d) An All-India Federation
+#QuestionEnd
+#AnswerStart
+Answer: a) Dyarchy at the Centre as well as in the provinces
+#AnswerEnd
+
+#QuestionStart
+Q22) The term “imperial preference” was applied to the: [UPSC CSE Pre 1999]
+a) Special privileges on British imports in India
+b) Racial discrimination by the Britishers
+c) Subordination of Indian interest to that of the British
+d) Preference was given to British political agents over Indian Princes
+#QuestionEnd
+#AnswerStart
+Answer: a) Special privileges on British imports in India
+#AnswerEnd
+
+#QuestionStart
+Q23) There was no independent development of industries in India during British rule because of the: [UPSC CSE Pre 1999]
+a) Absence of heavy industries
+b) Scarcity of foreign capital
+c) Scarcity of natural resources
+d) Preference of the rich to invest in land
+#QuestionEnd
+#AnswerStart
+Answer: d) Preference of the rich to invest in land
+#AnswerEnd
+
+#QuestionStart
+Q24) The most short-lived of all of Britain’s constitutional experiments in India was: [UPSC CSE Pre 1999]
+a) The Indian Council Act of 1861
+b) Indian Council Act of 1892
+c) Indian Council Act of 1909
+d) Government of India Act of 1919
+#QuestionEnd
+#AnswerStart
+Answer: c) Indian Council Act of 1909
+#AnswerEnd
+
+#QuestionStart
+Q25) Match List I with List II and select the correct answer using the codes given below the lists: [UPSC CSE Pre 1997]
+| List-I | List-II |
+|---|---|
+| A. Butler Committee Report | 1. Jallianwala Bagh massacre |
+| B. Hartog Committee Report | 2. Relationship between the Indian State and Paramount Power |
+| C. Hunter Inquiry Committee Report | 3. Working of Dyarchy as laid down in the Montague- Chelmsford Reforms |
+| D. Muddiman Committee Report | 4. The growth of education in British India and potentialities of its further progress |
+Code:
+a) 3A, 2B, 1C, 4D
+b) 1A, 4B, 2C, 3D
+c) 2A, 1B, 3C, 4D
+d) 2A, 4B, 1C, 3D
+#QuestionEnd
+#AnswerStart
+Answer: d) 2A, 4B, 1C, 3D
+#AnswerEnd
+
+#QuestionStart
+Q26) Who among the following leaders did not believe in the drain theory of Dadabhai Naoroji? [UPSC CSE Pre 1996]
+a) B.G. Tilak
+b) R.C. Dutt
+c) M.G. Ranade
+d) Sir Syed Ahmad Khan
+#QuestionEnd
+#AnswerStart
+Answer: d) Sir Syed Ahmad Khan
+#AnswerEnd
+
+#QuestionStart
+Q27) Which one of the following statements correctly defines the term ‘Drain Theory’ as propounded by Dadabhai Naoroji? [UPSC CSE Pre 1993]
+a) That the resources of the country were being utilized in the interest of Britain.
+b) That a part of Indians national wealth or total annual product was being exported to Britain for which India got no material returns.
+c) That the British industrialists were being given an opportunity to invest in India under the protection of the imperial power.
+d) That the British goods was being imported to the country making it miserable day by day.
+#QuestionEnd
+#AnswerStart
+Answer: b) That a part of Indians national wealth or total annual product was being exported to Britain for which India got no material returns.
+#AnswerEnd
+
+#QuestionStart
+Q28) The foundation of the modern educational system in India was laid by: [UPSC CSE Pre 1993]
+a) The Charter Act of 1813
+b) Macaulay’s Minutes of 1835
+c) The Hunter Commission of 1882
+d) Woods Dispatch of 1854
+#QuestionEnd
+#AnswerStart
+Answer: b) Macaulay’s Minutes of 1835
+#AnswerEnd

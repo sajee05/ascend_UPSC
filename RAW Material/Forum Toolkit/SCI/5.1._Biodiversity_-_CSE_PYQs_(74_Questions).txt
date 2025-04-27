@@ -1,0 +1,1000 @@
+#QuestionStart
+Q1) Consider the following statements:
+Statement-I: Marsupials are not naturally found in India.
+Statement-II: Marsupials can thrive only in montane grasslands with no predators.
+Which one of the following is correct in respect of the above statements? [UPSC CSE Pre 2023]
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct Statement-II is incorrect.
+d) Statement-I incorrect but Statement-II is correct.
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct Statement-II is incorrect.
+#AnswerEnd
+
+#QuestionStart
+Q2) Consider the following fauna:
+1. Lion-tailed Macaque
+2. Malabar Civet
+3. Sambar Deer
+How many of the above are generally nocturnal or most active after sunset? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q3) Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food? [UPSC CSE Pre 2023]
+a) Butterflies
+b) Dragonflies
+c) Honeybees
+d) Wasps
+#QuestionEnd
+#AnswerStart
+Answer: c) Honeybees
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements:
+1. Some mushrooms have medicinal properties.
+2. Some mushrooms have psycho- active properties.
+3. Some mushrooms have insecticidal properties.
+4. Some mushrooms have bioluminescent properties.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: d) All four
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements regarding the Indian squirrels:
+1. They build nests by making burrows in the ground.
+2. They store their food materials like nuts and seeds in the ground.
+3. They are omnivorous.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following statements:
+1. Some microorganisms can grow in environments with temperature above the boiling point of water.
+2. Some microorganisms can grow in environments with temperature below the freezing point of water.
+3. Some microorganisms can grow in highly acidic environment with a pH below 3.
+How many of the above statements are correct? [UPSC CSE Pre 2023]
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+
+#QuestionStart
+Q7) Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood? [UPSC CSE Pre 2023]
+a) Fishing cat
+b) Orangutan
+c) Otter
+d) Sloth bear
+#QuestionEnd
+#AnswerStart
+Answer: b) Orangutan
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to “Gucchi” sometimes mentioned in the news, consider the following statements:
+1. It is a fungus.
+2. It grows in some Himalayan Forest areas.
+3. It is commercially cultivated in the Himalayan foothills of north-eastern India.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2022]
+a) 1 only
+b) 3 only
+c) 1 and 2 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following is not a bird? [UPSC CSE Pre 2022]
+a) Golden Mahseer
+b) Indian Nightjar
+c) Spoonbill
+d) White Ibis
+#QuestionEnd
+#AnswerStart
+Answer: a) Golden Mahseer
+#AnswerEnd
+
+#QuestionStart
+Q10) “Biorock technology” is talked about in which one of the following situations? [UPSC CSE Pre 2022]
+a) Restoration of damaged coral reefs
+b) Development of building materials using plant residues
+c) Identification of areas for exploration/ extraction of shale gas
+d) Providing salt licks for wild animals in forests/protected areas
+#QuestionEnd
+#AnswerStart
+Answer: a) Restoration of damaged coral reefs
+#AnswerEnd
+
+#QuestionStart
+Q11) The “Miyawaki method” is well known for the: [UPSC CSE Pre 2022]
+a) Promotion of commercial farming in arid and semi-arid areas
+b) Development of gardens Using genetically modified flora
+c) Creation of mini forests in urban areas
+d) Harvesting wind energy on coastal areas and on sea surfaces
+#QuestionEnd
+#AnswerStart
+Answer: c) Creation of mini forests in urban areas
+#AnswerEnd
+
+#QuestionStart
+Q12) Certain species of which one of the following organisms are well known as cultivators of fungi? [UPSC CSE Pre 2022]
+a) Ant
+b) Cockroach
+c) Crab
+d) Spider
+#QuestionEnd
+#AnswerStart
+Answer: a) Ant
+#AnswerEnd
+
+#QuestionStart
+Q13) In the nature, which of the following is/ are most likely to be found surviving on a surface without soil?
+1. Fern
+2. Lichen
+3. Moss
+4. Mushroom
+Select the correct answer using the code given below: [UPSC CSE Pre 2021]
+a) 1 and 4 only
+b) 2 only
+c) 2 and 3only
+d) 1,3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3only
+#AnswerEnd
+
+#QuestionStart
+Q14) Which one of the following is used in preparing a natural mosquito repellent? [UPSC CSE Pre 2021]
+a) Congress grass
+b) Elephant grass
+c) Lemongrass
+d) Nut grass
+#QuestionEnd
+#AnswerStart
+Answer: c) Lemongrass
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following kinds of organisms:
+1. Copepods
+2. Cyanobacteria
+3. Diatoms
+4. Foraminifera
+Which of the above are primary producers in the food chains of oceans? [UPSC CSE Pre 2021]
+a) 1 and 2
+b) 2 and 3
+c) 3 and 4
+d) 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following animals:
+1. Hedgehog
+2. Marmot
+3. Pangolin
+To reduce the chance of being captured by predators, which of the above organisms rolls up/roll up and protects/ protect its/their vulnerable parts? [UPSC CSE Pre 2021]
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following is a filter feeder? [UPSC CSE Pre 2021]
+a) Catfish
+b) Octopus
+c) Oyster
+d) Pelican
+#QuestionEnd
+#AnswerStart
+Answer: c) Oyster
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to Indian elephants, consider the following statements: [UPSC CSE Pre. 2020]
+1. The leader of an elephant group is a female.
+2. The maximum gestation period can be 22 months.
+3. An elephant can normally go on calving till the age of 40 years only.
+4. Among the States in India, the highest elephant population is in Kerala.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 4 only
+c) 3 only
+d) 1, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Which one of the following protected areas is well-known for the conservation of a sub-species of the Indian swamp deer (Barasinga) that thrives well in hard ground and is exclusively graminivorous? [UPSC CSE Pre. 2020]
+a) Kanha National Park
+b) Manas National Park
+c) Mudumalai Wildlife Sanctuary
+d) Tai Chhapar Wildlife Sanctuary
+#QuestionEnd
+#AnswerStart
+Answer: a) Kanha National Park
+#AnswerEnd
+
+#QuestionStart
+Q20) If a particular plant species is placed under Schedule VI of The Wildlife Protection Act, 1972, what is the implication? [UPSC CSE Pre. 2020]
+a) A licence is required to cultivate that plant.
+b) Such a plant cannot be cultivated under any circumstances.
+c) It is a Genetically Modified crop plant.
+d) Such a plant is invasive and harmful to the ecosystem.
+#QuestionEnd
+#AnswerStart
+Answer: a) A licence is required to cultivate that plant.
+#AnswerEnd
+
+#QuestionStart
+Q21) With reference to India’s biodiversity, Ceylon frogmouth, Coppersmith barbet, Gray -chinned minivet and White -throated redstart are [UPSC CSE Pre. 2020]
+a) Birds
+b) Primates
+c) Reptiles
+d) Amphibians
+#QuestionEnd
+#AnswerStart
+Answer: a) Birds
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following States:
+1. Chhattisgarh
+2. Madhya Pradesh
+3. Maharashtra
+4. Odisha
+With reference to the States mentioned above, in terms of percentage of forest cover to the total area of the State, which one of the following is the correct ascending order? [UPSC CSE Pre 2019]
+a) 2-3-1-4
+b) 2-3-4-1
+c) 3-2-4-1
+d) 3-2-1-4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3-2-4-1
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following statements: [UPSC CSE Pre. 2019]
+1. Asiatic lion is naturally found in India only.
+2. Double-humped camel is naturally found in India only.
+3. One-horned rhinoceros is naturally found in India only.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q24) Consider the following pairs: [UPSC CSE Pre. 2019]
+| Wildlife | Naturally found in |
+|---|---|
+| 1. Blue-finned Mahseer | Cauvery River |
+| 2. Irrawaddy Dolphin | Chambal River |
+| 3. Rusty-spotted Cat | Eastern Ghats |
+Which of the pairs given above are correctly matched?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q25) As per the Solid Waste Management Rules, 2016 in India, which one of the following statements is correct? [UPSC CSE Pre. 2019]
+a) Waste generator has to segregate the waste into five categories.
+b) The Rules are applicable to notified urban local bodies, notified towns and all industrial townships only.
+c) The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities.
+d) It is mandatory the part of waste generator that the waste generated in one district cannot be moved to another district.
+#QuestionEnd
+#AnswerStart
+Answer: c) The Rules provide for exact and elaborate criteria for the identification of sites for landfills and waste processing facilities.
+#AnswerEnd
+
+#QuestionStart
+Q26) Consider the following statements: [UPSC CSE Pre. 2019]
+The Environment Protection Act, 1986 empowers the Government of India to-
+1. state the requirement of public participation in the process of environmental protection, and the procedure and manner in which it is sought.
+2. lay down the standards for emission or discharge of environmental pollutants from various sources.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following statements: [UPSC CSE Pre. 2019]
+1. As per recent amendment to the Indian Forest Act, 1927, forest dwellers have the right to fell the bamboos grown on forest areas.
+2. As per the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, bamboo is a minor forest produce.
+3. The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forests Rights) Act, 2006 allows ownership of minor forest produce to forest dwellers.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements: [UPSC CSE Pre. 2019]
+1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.
+2. People’s participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q29) In India, ‘extended producer responsibility’ was introduced as an important feature in which of the following? [UPSC CSE Pre. 2019]
+a) The Bio -medical Waste (Management and Handling) Rules, 1998
+b) The Recycled Plastic (Manufacturing and Usage) Rules, 1999
+c) The e -Waste (Management and Handling) Rules, 2011
+d) The Food Safety and Standard Regulations, 2011
+#QuestionEnd
+#AnswerStart
+Answer: c) The e -Waste (Management and Handling) Rules, 2011
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the following statements: [UPSC CSE Pre. 2018]
+1. The definition of “Critical Wildlife Habitat” is incorporated in the Forest Rights Act, 2006.
+2. For the first time in India, Baigas have been given Habitat Rights.
+3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q31) Why is a plant called Prosopis juliflora often mentioned in news? [UPSC CSE Pre. 2018]
+a) Its extract is widely used in cosmetics.
+b) It tends to reduce the biodiversity in the area in which it grows.
+c) Its extract is used in the synthesis of pesticides.
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) It tends to reduce the biodiversity in the area in which it grows.
+#AnswerEnd
+
+#QuestionStart
+Q32) If you want to see gharials in their natural habitat, which one of the following is the best place to visit? [UPSC CSE Pre. 2017]
+a) Bhitarkanika Mangroves
+b) Chambal River
+c) Pulicat Lake
+d) Deepor Beel
+#QuestionEnd
+#AnswerStart
+Answer: b) Chambal River
+#AnswerEnd
+
+#QuestionStart
+Q33) In which of the following regions of India are you most likely to come across the ‘Great Indian Hornbill’ in its natural habitat? [UPSC CSE Pre. 2016]
+a) Sand deserts of north-west India
+b) Higher Himalayas of Jammu and Kashmir
+c) Salt marshes of western Gujarat
+d) Western Ghats
+#QuestionEnd
+#AnswerStart
+Answer: d) Western Ghats
+#AnswerEnd
+
+#QuestionStart
+Q34) What is/are unique about ‘Kharai camel’, a breed found in India? [UPSC CSE Pre. 2016]
+1. It is capable of swimming up to three kilometres in seawater.
+2. It survives by grazing on mangroves.
+3. It lives in the wild and cannot be domesticated.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q35) With reference to ‘Red Sanders’, sometimes seen in the news, consider the following statements: [UPSC CSE Pre. 2016]
+1. It is a tree species found in a part of South India.
+2. It is one of the most important trees in the tropical rain forest areas of South India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q36) With reference to ‘dugong’, a mammal found in India, which of the following statements is/are correct? [UPSC CSE Pre. 2015]
+1. It is a herbivorous marine animal.
+2. It is found along the entire coast of India.
+3. It is given legal protection under Schedule I of the Wildlife (Protection) Act, 1972.
+Select the correct answer using the codes given below.
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q37) Which one of the following is the national aquatic animal of India? [UPSC CSE Pre. 2015]
+a) Saltwater crocodile
+b) Olive ridley turtle
+c) Gangetic dolphin
+d) Gharial
+#QuestionEnd
+#AnswerStart
+Answer: c) Gangetic dolphin
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the following regions of India - has a combination of mangrove forest, evergreen forest and deciduous forest? [UPSC CSE Pre. 2015]
+a) Coastal Andhra Pradesh
+b) South-West Bengal
+c) Southern Saurashtra
+d) Andaman and Nicobar Islands
+#QuestionEnd
+#AnswerStart
+Answer: d) Andaman and Nicobar Islands
+#AnswerEnd
+
+#QuestionStart
+Q39) Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins? [UPSC CSE Pre. 2014]
+1. Construction of dams and barrages on rivers
+2. Increase in the population of crocodiles in rivers.
+3. Getting trapped in fishing nets accidentally
+4. Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1,3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q40) If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects disturbed by their movement through grasses. Which one of the following is/are such bird/birds? [UPSC CSE Pre. 2014]
+1. Painted Stork
+2. Common Myna
+3. Black-necked Crane
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 only
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q41) Consider the following fauna of India: [UPSC CSE Pre. 2013]
+1. Gharial
+2. Leatherback turtle
+3. Swamp deer
+Which of the above is/are endangered?
+a) 1 and 2 only
+b) 3 only
+c) 1,2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q42) Consider the following: [UPSC CSE Pre. 2013]
+1. Star tortoise
+2. Monitor lizard
+3. Pygmy hog
+4. Spider monkey
+Which of the above are naturally found in India?
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 1 and 4 only
+d) 1,2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following animals: [UPSC CSE Pre. 2013]
+1. Sea cow
+2. Sea horse
+3. Sea lion
+Which ofthe above is/are mammal/mammals?
+a) 1 only
+b) 1 and 3 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q44) In which of the following States is liontailed macaque found in its natural habitat? [UPSC CSE Pre. 2013]
+1. Tamil Nadu
+2. Kerala
+3. Karnataka
+4. Andhra Pradesh
+Select the correct answer using the codes given below:
+a) 1,2 and 3 only
+b) 2 only
+c) 1,3 and 4 only
+d) 1,2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q45) What is the difference between the antelopes Oryx and Chiru? [UPSC CSE Pre. 2012]
+a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains.
+b) Oryx is poached for its antlers whereas Chiru is poached for its musk.
+c) Oryx exists in western India only whereas Chiru exists in north-east India only.
+d) None of the statements (a), (b) and (c) given above is correct.
+#QuestionEnd
+#AnswerStart
+Answer: a) Oryx is adapted to live in hot and arid areas whereas Chiru is adapted to live in steppes and semi-desert areas of cold high mountains.
+#AnswerEnd
+
+#QuestionStart
+Q46) Consider the following statements: [UPSC CSE Pre. 2011]
+1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes.
+2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q47) Biodiversity forms the basis for human existence in the following ways: [UPSC CSE Pre. 2011]
+1. Soil formation
+2. Prevention of soil erosion
+3. Recycling of waste
+4. Pollination of crops
+Select the correct answer using the codes given below:
+a) 1,2 and 3 only
+b) 2, 3 and 4 only
+c) 1 and 4 only
+d) 1,2 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q48) A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area but its existence is threatened due to the destruction of its habitat. Which one of the following could be that animal? [UPSC CSE Pre. 2011]
+a) Indian wild buffalo
+b) Indian wild ass
+c) Indian wild boar
+d) Indian gazelle
+#QuestionEnd
+#AnswerStart
+Answer: b) Indian wild ass
+#AnswerEnd
+
+#QuestionStart
+Q49) Three of the following criteria have contributed to the recognition of Western Ghats-Sri Lanka and Indo-Burma regions as hotspots of biodiversity: [UPSC CSE Pre. 2011]
+1. Species richness
+2. Vegetation density
+3. Endemism
+4. Ethno-botanical importance
+5. Threat perception
+6. Adaptation of flora and fauna to warm and humid conditions
+Which three of the above are correct criteria in this context?
+a) 1, 2 and 6
+b) 2, 4 and 6
+c) 1,3 and 5
+d) 3, 4 and 6
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 and 5
+#AnswerEnd
+
+#QuestionStart
+Q50) The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this phenomenon? [UPSC CSE Pre. 2011]
+a) It has high rainfall that supports luxuriant vegetative growth
+b) It is a confluence of different biogeographical zones
+c) Exotic and invasive species have not been introduced in this region
+d) It has less human interference
+#QuestionEnd
+#AnswerStart
+Answer: b) It is a confluence of different biogeographical zones
+#AnswerEnd
+
+#QuestionStart
+Q51) Consider the following statements: [UPSC CSE Pre 2010]
+1. Biodiversity hotspots are located only in tropical regions.
+2. India has four biodiversity hotspots i.e., Eastern Himalayas, Western Himalayas, Western Ghats and Andaman and the Nicobar Islands.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q52) India is a party to the Ramsar Convention and has declared many areas as Ramsar Sites. Which of the following statements best describes as to how we should maintain these sites in the context of this Convention? [UPSC CSE Pre 2010]
+a) Keep all the sites completely inaccessible to man so that they cannot be exploited.
+b) Conserve all the sites through an ecosystem approach and permit tourism and recreation only.
+c) Conserve all the sites through ecosystem approach for a specific period without any exploitation, with specific criteria and specific period for each site, and then allow sustainable use of them by future generations.
+d) Conserve all the sites through ecosystem approach and allow their simultaneous sustainable use.
+#QuestionEnd
+#AnswerStart
+Answer: d) Conserve all the sites through ecosystem approach and allow their simultaneous sustainable use.
+#AnswerEnd
+
+#QuestionStart
+Q53) Consider the following statements:
+1. The Taxus tree naturally found in the Hiimalayas.
+2. The Taxus tree is listed in the Red Data Book.
+3. A drug called ‘taxol’ is obtained from Taxus tree which is effective against Parkinsons disease.
+Which of the statements given above is/are correct? [UPSC CSE Pre 2010]
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q54) Consider the following statements: [UPSC CSE Pre 2010]
+1. The boundaries of a National Park are defined by legislation.
+2. A Biosphere Reserve is declared to conserve a few specific species of flora and fauna.
+3. In a Wildlife Sanctuary, limited biotic interference is permitted.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q55) Consider the following pairs:
+| (Protected area) | (Well-known for) |
+|---|---|
+| 1. Bhitarkanika, Orissa | Saltwater Crocodile |
+| 2. Desert National Park, Rajasthan | Great Indian Bustard |
+| 3. Eravikulam, Kerala | Hoolock Gibbon |
+Which of the pairs given above is/are correctly matched? [UPSC CSE Pre 2010]
+a) 1 only
+b) 1 and 2 only
+c) 2 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q56) Consider the following regions: [UPSC CSE Pre 2009]
+1. Eastern Himalayas
+2. Eastern Mediterranean region
+3. North-western Australia
+Which of the above is/are Biodiversity Hotspot(s)?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q57) In the context of Indian wildlife, the flying fox is a: [UPSC CSE Pre 2009]
+a) Bat
+b) Kite
+c) Stork
+d) Vulture
+#QuestionEnd
+#AnswerStart
+Answer: a) Bat
+#AnswerEnd
+
+#QuestionStart
+Q58) The marine animal called dugong which is vulnerable to extinction is a/an: [UPSC CSE Pre 2009]
+a) Amphibian
+b) Bony fish
+c) Shark
+d) Mammal
+#QuestionEnd
+#AnswerStart
+Answer: d) Mammal
+#AnswerEnd
+
+#QuestionStart
+Q59) In India, which one of the following states has the largest inland saline wetland? [UPSC CSE Pre 2009]
+a) Gujarat
+b) Haryana
+c) Madhya Pradesh
+d) Rajasthan
+#QuestionEnd
+#AnswerStart
+Answer: d) Rajasthan
+#AnswerEnd
+
+#QuestionStart
+Q60) Consider the following statements: [UPSC CSE Pre 2007]
+1. In India, Red Panda is naturally found in the western Himalayas only.
+2. In India, Slow Loris lives in the dense forests of the North-East.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following is located in the Bastar region? [UPSC CSE Pre 2007]
+a) Bandhavgarh National Park
+b) Dandeli Sanctuary
+c) Rajaji National Park
+d) Indravati National Park
+#QuestionEnd
+#AnswerStart
+Answer: d) Indravati National Park
+#AnswerEnd
+
+#QuestionStart
+Q62) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (National Park/Wildlife Sanctuary) | List-II (Nearby Town) |
+|---|---|
+| A. Chandra Prabha | 1. Jaipur |
+| B. Karera | 2. Jhansi |
+| C. Jaisamand | 3. Agra |
+| D. Nahargarh | 4. Varanasi |
+|  | 5. Udaipur |
+Code: [UPSC CSE Pre 2006]
+a) A4, B1, C5, D2
+b) A5, B2, C3, D1
+c) A4, B2, C5, D1
+d) A5, B1, C3, D2
+#QuestionEnd
+#AnswerStart
+Answer: c) A4, B2, C5, D1
+#AnswerEnd
+
+#QuestionStart
+Q63) Consider the following statements:
+1. The forest cover in India constitutes around 20% of its geographical area. Out of the total forest cover, dense forest constitutes around 40%.
+2. The National Forestry Action Programme aims at bringing one-third of the area of India under tree/forest cover.
+Which of these statements given above is/are correct? [UPSC CSE Pre 2005]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following is not a Biosphere Reserve? [UPSC CSE Pre 2005]
+a) Agasthyamali
+b) Nallamalai
+c) Nilgiri
+d) Panchmarhi
+#QuestionEnd
+#AnswerStart
+Answer: b) Nallamalai
+#AnswerEnd
+
+#QuestionStart
+Q65) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-I (National Park/ Wildlife Sanctuary) | List-II (Nearby Town) |
+|---|---|
+| A. Bondla Wildlife Sanctuary | 1. Odisha |
+| B. Kangerghat National Park | 2. Assam |
+| C. Orang Sanctuary | 3. Chhattisgarh |
+| D. Ushkothi Wildlife Sanctuary | 4. Goa |
+|  | 5. Tripura |
+Code: [UPSC CSE Pre 2005]
+a) A2, B1, C5, D3
+b) A4, B3, C2, D1
+c) A2, B3, C5, D1
+d) A4, B1, C2, D3
+#QuestionEnd
+#AnswerStart
+Answer: b) A4, B3, C2, D1
+#AnswerEnd
+
+#QuestionStart
+Q66) Consider the following animals of India:
+1. Crocodile
+2. Elephant
+Which of these is/are endangered species? [UPSC CSE Pre 2003]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q67) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List-1 (Indian Wildlife Species) | List-II (Scientific Names) |
+|---|---|
+| A. Asiatic Wild Ass | 1. Boselaphus tragocamelus |
+| B. Barasingha | 2. Cervus duvauceli |
+| C. Chinkara | 3. Equus hemionus |
+| D. Nilgai | 4. Gazella Benetty |
+Code: [UPSC CSE Pre 2002]
+a) A2, B3, C1, D4
+b) A3, B2, C4, D1
+c) A2, B3, C4, D1
+d) A3, B2, C1, D4
+#QuestionEnd
+#AnswerStart
+Answer: b) A3, B2, C4, D1
+#AnswerEnd
+
+#QuestionStart
+Q68) The first marine sanctuary in India with coral reefs, molluscs, dolphins, tortoises and various kinds of sea birds, within its bounds, has been established in: [UPSC CSE Pre 1999]
+a) Sundarbans
+b) Chilka Lake
+c) Gulf of Kachchh
+d) Lakshadweep
+#QuestionEnd
+#AnswerStart
+Answer: c) Gulf of Kachchh
+#AnswerEnd
+
+#QuestionStart
+Q69) The minimum land area recommended for forest cover to maintain proper ecological balance in India is: [UPSC CSE Pre 1999]
+a) 25%
+b) 33%
+c) 43%
+d) 53%
+#QuestionEnd
+#AnswerStart
+Answer: b) 33%
+#AnswerEnd
+
+#QuestionStart
+Q70) A tree species in Mauritius failed to reproduce because of the extinction of a fruit-eating bird. Which one of the following was that bird? [UPSC CSE Pre 1998]
+a) Dove
+b) Dodo
+c) Condor
+d) Skua
+#QuestionEnd
+#AnswerStart
+Answer: b) Dodo
+#AnswerEnd
+
+#QuestionStart
+Q71) Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R):
+Assertion (A): Mangroves are very specialized forest ecosystems of tropical and subtropical regions bordering certain seacoasts.
+Reason (R): They stabilize the shoreline and act as a bulwark against encroachments by sea.
+In the context of the above two statements which one of the following is correct? [UPSC CSE Pre 1996]
+a) Both A and R are true, and R is the correct explanation of A
+b) Both A and R are true, but R is not a correct c donation of A
+c) A is true but R is false
+d) A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both A and R are true, and R is the correct explanation of A
+#AnswerEnd
+
+#QuestionStart
+Q72) Consider the following programmes:
+1. Afforestation and development of wastelands.
+2. Reforestation and replantation in existing forests.
+3. Encouraging wood substitutes and supplying other types of fuel.
+4. Promotion of the wide use of insecticides and pesticides to restrict the loss of forest area from degradation caused by pests and insects.
+The National Forest Policy of 1988 includes: [UPSC CSE Pre 1996]
+a) 1, 2, 3 and 4
+b) 2 and 4
+c) 1,3 and 4
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q73) “Monoculture of commercially viable trees is destroying the unique natural profile of Thoughtless exploitation of timber, deforesting vast tracts for palm cultivation, destruction of mangroves, illegal logging by tribals and poaching only compound the problem. Freshwater pockets are fast drying up due to deforestation and destruction of mangroves.” The place referred to this quotation is: [UPSC CSE Pre 1995]
+a) Sunderbans
+b) Kerala coast
+c) Orissa coast
+d) Andaman and Nicobar Island
+#QuestionEnd
+#AnswerStart
+Answer: a) Sunderbans
+#AnswerEnd
+
+#QuestionStart
+Q74) The greatest diversity of animal and plant species occurs in: [UPSC CSE Pre 1994]
+a) Temperate deciduous forests
+b) Tropical moist forests
+c) Heavily polluted rivers
+d) Deserts and Savanna
+#QuestionEnd
+#AnswerStart
+Answer: b) Tropical moist forests
+#AnswerEnd

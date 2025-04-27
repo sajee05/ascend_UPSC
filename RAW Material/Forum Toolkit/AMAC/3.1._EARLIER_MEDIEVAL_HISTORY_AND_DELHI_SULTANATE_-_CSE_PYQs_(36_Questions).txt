@@ -1,0 +1,442 @@
+#QuestionStart
+Q1) Consider the following dynasties: [UPSC CSE Pre 2023]
+1. Hoysala
+2. Gahadavala
+3. Kakatiya
+4. Yadava
+How many of the above dynasties established their kingdoms in early eighth century AD?
+a) Only one
+b) Only two
+c) Only three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to Indian history, consider the following statements: [UPSC CSE Pre 2022]
+1. The first Mongol invasion of India happened during the reign of Jalal-uddin Khalji.
+2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city.
+3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.
+Which of the statements given above is/are correct?
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to Indian history, who of the following were known as “Kulah-Daran”? [UPSC CSE Pre. 2022]
+a) Arab merchants
+b) Qalandars
+c) Persian calligraphists
+d) Sayyids
+#QuestionEnd
+#AnswerStart
+Answer: d) Sayyids
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following pairs: [UPSC CSE Pre. 2022]
+| King | Dynasty |
+|---|---|
+| 1. Nanuka | Chandela |
+| 2. Jayashakti | Parmara |
+| 3. Nagabhata II | Gurjara-Pratihara |
+| 4. Bhoja | Rashtrakuta |
+How many pairs given above are correctly matched:
+a) Only one pair
+b) Only two pairs
+c) Only three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q5) Consider the following statements: [UPSC CSE Pre 2021]
+1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince.
+2. It was during the reign of Muhammad bin Tughluq that Taimur occupied Multan and crossed the Indus.
+3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2
+c) 3 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q6) Which of the following phrases defines the nature of the ‘Hundi’ generally referred to in the sources of the post-Harsha period? [UPSC CSE Pre. 2020]
+a) An advisory issued by the king to his subordinates.
+b) A diary to be maintained for daily accounts.
+c) A bill of exchange.
+d) An order from the feudal lord to his subordinates.
+#QuestionEnd
+#AnswerStart
+Answer: c) A bill of exchange.
+#AnswerEnd
+
+#QuestionStart
+Q7) Consider the following statements: [UPSC CSE Pre. 2019]
+1. In the revenue administration of Delhi Sultanate, the in-charge of revenue collection was known as AmiF.
+2. The Iqta system of Sultans of Delhi was an ancient indigenous institution.
+3. The office of ‘Mir Bakshi’ came into existence during the reign of Khalji Sultans of Delhi.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India? [UPSC CSE Pre. 2018]
+a) Francois Bernier
+b) Jean-Baptiste Tavernier
+c) Jean de Thevenot
+d) Abbe Barthelemy Carre
+#QuestionEnd
+#AnswerStart
+Answer: b) Jean-Baptiste Tavernier
+#AnswerEnd
+
+#QuestionStart
+Q9) In Medieval India, the designations ‘Mahattara’ and ‘Pattakila⁵ were used for [UPSC CSE Pre. 2014]
+a) military officers
+b) village headmen
+c) specialists in Vedic rituals
+d) chiefs of craft guilds
+#QuestionEnd
+#AnswerStart
+Answer: b) village headmen
+#AnswerEnd
+
+#QuestionStart
+Q10) Who among the following laid the foundation of Rashtrakuta Empire? [UPSC CSE Pre 2006]
+a) Amoghavarsha-I
+b) Danti Durga
+c) Dhruva
+d) Krishna-I
+#QuestionEnd
+#AnswerStart
+Answer: b) Danti Durga
+#AnswerEnd
+
+#QuestionStart
+Q11) Consider the following statements: [UPSC CSE Pre 2006]
+Assertion (A): Muhammad-Bin-Tughluq issued a new gold coin which was called Dinar by Ibn Battuta.
+Reason (R) : Muhammad-Bin-Tughluq wanted to issue token currency in gold coins to promote trade with West Asian and North African countries.
+Code:
+a) Both ‘A’ and ‘R’ are true individually true and ‘R’ is the correct explanation of ‘A’.
+b) Both ‘A’ and ‘R’ are individually true but ‘R’ is not the correct explanation of ‘A’.
+c) A’ is true but ‘R’ is false.
+d) ‘A’ is false but ‘R’ is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) A’ is true but ‘R’ is false.
+#AnswerEnd
+
+#QuestionStart
+Q12) Which one of the following is the correct chronological order of the Afghan rulers to the throne of Delhi? [UPSC CSE Pre 2006]
+a) Sikandar Shah-Ibrahim Lodi-Bahlul Khan Lodi.
+b) Sikandar Shah-Bahlul Khan Lodi-Lodi Ibrahim.
+c) Bahlul Khan Lodi - Lodi Sikandar Shah-Ibrahim Lodi.
+d) Bahlul Khan Lodi - Lodi Ibrahim Lodi -Lodi Sikandar Shah.
+#QuestionEnd
+#AnswerStart
+Answer: c) Bahlul Khan Lodi - Lodi Sikandar Shah-Ibrahim Lodi.
+#AnswerEnd
+
+#QuestionStart
+Q13) Who was the last ruler of the Tughluq dynasty of the Delhi Sultanate? [UPSC CSE Pre 2004]
+a) Firuz Shah Tughluq
+b) Ghiyasuddin Tughluq Shah-II
+c) Nasiruddin Mahmud
+d) Nusrat Shah
+#QuestionEnd
+#AnswerStart
+Answer: c) Nasiruddin Mahmud
+#AnswerEnd
+
+#QuestionStart
+Q14) Supreme rural officials of land revenue in Sultanate period [UPSC CSE Pre 2004]
+a) Chaudhary
+b) Ravat
+c) Malik
+d) Patwari
+#QuestionEnd
+#AnswerStart
+Answer: a) Chaudhary
+#AnswerEnd
+
+#QuestionStart
+Q15) Consider the following statements: [UPSC CSE Pre 2003]
+1. The Cholas defeated Pandya and Chera rulers and established their domination over peninsular India in the early medieval times.
+2. The Cholas sent an expedition against the Sailendra Empire of Southeast Asia and conquered some of the areas.
+Which of these statements is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q16) How did Sultan Qutbuddin Aybak die? [UPSC CSE Pre 2003]
+a) He was treacherously stabbed to death by one of his ambitious nobles.
+b) He was killed in a battle with TaJ-u-din Yilduz the ruler of Ghazni who entered into a contest with him over the capture of Punjab.
+c) He sustained injuries while besieging the fortress of Kalinjar in Bundelkhand and succumbed to them later.
+d) He died after a fall from his horse while playing Chaugan.
+#QuestionEnd
+#AnswerStart
+Answer: d) He died after a fall from his horse while playing Chaugan.
+#AnswerEnd
+
+#QuestionStart
+Q17) Which one of the following statements is not correct? [U.P.S.C.(Pre) 2002]
+a) The statue of Gomateshwara at Sravanabelagola represents the last Tirthankara of Jains
+b) India’s largest Buddhist monastery is in Arunachal Pradesh
+c) The Khajuraho temples were built under Chandela Kings
+d) The Hoyseleswara temple is dedicated to Shiva
+#QuestionEnd
+#AnswerStart
+Answer: a) The statue of Gomateshwara at Sravanabelagola represents the last Tirthankara of Jains
+#AnswerEnd
+
+#QuestionStart
+Q18) With reference to medieval Indian rulers, which one of the following statements is correct? [UPSC CSE Pre 2002]
+a) Alauddin Khalji first set up a separate Ariz’s department.
+b) Balban introduced the branding system of horses of his military.
+c) Muhammad-Bin-Tughluq was succeeded by his uncle to the military.
+d) Firuz Tughluq set up a separate department of slaves.
+#QuestionEnd
+#AnswerStart
+Answer: d) Firuz Tughluq set up a separate department of slaves.
+#AnswerEnd
+
+#QuestionStart
+Q19) The historian Barani did not consider the state in India under Delhi Sultans as truly Islamic because- [UPSC CSE Pre 2002]
+a) The majority of the population did not follow Islam.
+b) The Muslim theologists were often disregarded.
+c) The Sultan supplemented the Muslim law by framing his regulations.
+d) The religious freedom was accorded to non-Muslims.
+#QuestionEnd
+#AnswerStart
+Answer: c) The Sultan supplemented the Muslim law by framing his regulations.
+#AnswerEnd
+
+#QuestionStart
+Q20) Which one of the Chola kings conquered Ceylon? [UPSC CSE Pre 2001]
+a) Aditya-1
+b) Rajaraja-I
+c) Rajendra-I
+d) Vijayalaya
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajendra-I
+#AnswerEnd
+
+#QuestionStart
+Q21) Which of the following pairs is correctly matched? [UPSC CSE Pre 2001]
+a) Dewan-i-Bandagan : Tughluq
+b) Dewan-i-Mustakhraj : Balban
+c) Dewan -i-Kohi: Alauddin Khalji
+d) Dewan-i-Arz : Muhammad Tughluq
+#QuestionEnd
+#AnswerStart
+Answer: a) Dewan-i-Bandagan : Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following events: [UPSC CSE Pre 2000]
+1. Reign of Krishna Deva of Vijayanagara
+2. Construction of Qutb Minar
+3. Arrival of Portuguese in India
+4. Death of Firuz Tughluq
+The correct chronological sequence of these events is:
+a) 2, 4, 3, 1
+b) 2, 4, 1, 3
+c) 4, 2, 1, 3
+d) 4, 2, 3, 1
+#QuestionEnd
+#AnswerStart
+Answer: a) 2, 4, 3, 1
+#AnswerEnd
+
+#QuestionStart
+Q23) To which Lodi Sultan does the given map relate and what town lies the side marked A on the map represent? [UPSC CSE Pre 1999]
+(Image of a map showing the extent of Lodi Sultanate)
+a) Bahlul Lodi, Jaunpur
+b) Sikandar Lodi, Aligarh
+c) Ibrahim Lodi, Jaunpur
+d) Ibrahim Lodi, Aligarh
+#QuestionEnd
+#AnswerStart
+Answer: a) Bahlul Lodi, Jaunpur
+#AnswerEnd
+
+#QuestionStart
+Q24) Fawazil in the Sultanate period meant- [UPSC CSE Pre 1998]
+a) Extra payment to the nobles
+b) Revenue assigned in lieu of salary
+c) Excess amount paid to the exchequer by the Iqtadars
+d) Illegal exactions extracted from the peasants
+#QuestionEnd
+#AnswerStart
+Answer: c) Excess amount paid to the exchequer by the Iqtadars
+#AnswerEnd
+
+#QuestionStart
+Q25) The Sultan of Delhi who is reputed to have built the biggest network of canals in India was: [UPSC CSE Pre 1998]
+a) Iltutmish
+b) Ghiyasuddin Tughluq
+c) Firuz Shah Tughluq
+d) Sikandar Lodi
+#QuestionEnd
+#AnswerStart
+Answer: c) Firuz Shah Tughluq
+#AnswerEnd
+
+#QuestionStart
+Q26) Which one of the following was a corporation of merchants in ancient India? [UPSC CSE Pre 1997]
+a) Chaturvedimangalam
+b) Parishad
+c) Ashtadiggaja
+d) Manigramam
+#QuestionEnd
+#AnswerStart
+Answer: d) Manigramam
+#AnswerEnd
+
+#QuestionStart
+Q27) After consolidating his power, Balban assumed the grand title of- [UPSC CSE Pre 1997]
+a) Tuti-e-Hind
+b) Kaiser-e-Hind
+c) Zil-e-Ilahi
+d) Din-e-Ilahi
+#QuestionEnd
+#AnswerStart
+Answer: c) Zil-e-Ilahi
+#AnswerEnd
+
+#QuestionStart
+Q28) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPSC CSE Pre 1997]
+| List-I | List-II |
+|---|---|
+| A. Gupta | 1. Badami |
+| B. Chandela | 2. Panamalai |
+| C. Chalukya | 3. Khajuraho |
+| D. Pallava | 4. Deogarh |
+Code:
+a) A-4, B-3, C-1, D-2
+b) A-4, B-2, C-3, D-1
+c) A-2, B-3, C-4, D-1
+d) A-3, B-4, C-1, D-2
+#QuestionEnd
+#AnswerStart
+Answer: a) A-4, B-3, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q29) Who among the following was not a famous jurists of medieval India? [UPSC CSE Pre 1995]
+a) Vigyanesvara
+b) Hemadri
+c) Rajashekhara
+d) Jimutavahana
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajashekhara
+#AnswerEnd
+
+#QuestionStart
+Q30) Consider the map given below: [UPSC CSE Pre 1995]
+(Image of a map showing a southward route from Delhi)
+The route indicated on the map was followed, during the course of his military exploits, by:
+a) Chandragupta-II
+b) Harshavardhana
+c) Rajendra Chola
+d) Malik Kafur
+#QuestionEnd
+#AnswerStart
+Answer: d) Malik Kafur
+#AnswerEnd
+
+#QuestionStart
+Q31) Bronze icons of Nataraja cast during the Chola period invariably show the deity with: [UPSC CSE Pre 1995]
+a) Eight hands
+b) Six hands
+c) Four hands
+d) Two hands
+#QuestionEnd
+#AnswerStart
+Answer: c) Four hands
+#AnswerEnd
+
+#QuestionStart
+Q32) The name of poet Kalidasa is mentioned in the: [UPSC CSE Pre 1994]
+a) Allahabad Pillar Inscription
+b) Aihole Inscription
+c) Alapadu Grant
+d) Hanumankonda Inscription
+#QuestionEnd
+#AnswerStart
+Answer: b) Aihole Inscription
+#AnswerEnd
+
+#QuestionStart
+Q33) Which one of the following is considered to be the world’s greatest iconographical creations made by sthapatis of South India, particularly during the Chola period? [UPSC CSE Pre 1993]
+a) Mahishasuramardini
+b) Nataraja
+c) Rama
+d) Somaskanda
+#QuestionEnd
+#AnswerStart
+Answer: b) Nataraja
+#AnswerEnd
+
+#QuestionStart
+Q34) A lot of details regarding the village administration under the Cholas is provided by the inscription at: [UPSC CSE Pre 1993]
+a) Thanjavur
+b) Uraiyur
+c) Kanchipuram
+d) Uttaramerur
+#QuestionEnd
+#AnswerStart
+Answer: d) Uttaramerur
+#AnswerEnd
+
+#QuestionStart
+Q35) Who among the following introduced the famous Persian festival ‘Navroz’ in India? [UPSC CSE Pre 1993]
+a) Balban
+b) Iltutmish
+c) Firuj Tughluq
+d) Alauddin Khalji
+#QuestionEnd
+#AnswerStart
+Answer: a) Balban
+#AnswerEnd
+
+#QuestionStart
+Q36) Under the following passage: [UPSC CSE Pre 1993]
+“In the course of a career on the road spanning almost thirty years, he crossed the breadth of the eastern hemisphere, visited territories equivalent to about 44 modern countries and put behind him a total distance of approximately 73,000 miles.”
+The world’s greatest traveller of premodern times to whom the above passage refers is:
+a) Megasthenes
+b) Fa-Hien
+c) Marco Polo
+d) Ibn Battuta
+#QuestionEnd
+#AnswerStart
+Answer: d) Ibn Battuta
+#AnswerEnd

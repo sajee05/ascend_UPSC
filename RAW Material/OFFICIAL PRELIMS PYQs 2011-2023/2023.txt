@@ -1,0 +1,1275 @@
+#QuestionStart
+Q1) Consider the following statements :
+(i) Jhelum River passes through Wular Lake.
+(ii) Krishna River directly feeds Kolleru Lake.
+(iii) Meandering of Gandak River formed Kanwar Lake.
+How many of the statements given above are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following pairs :
+| Port | Well known as |
+|---|---|
+| 1. Kamarajar Port | First major port in India registered as a company |
+| 2. Mundra Port | Largest privately owned port in India |
+| 3. Visakhapatnam Port | Largest container port in India |
+How many of the above pairs are correctly matched? - 2023
+a) Only one pair
+b) Only two pairs
+c) All three pairs
+d) None of the pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following trees :
+(i) Jackfruit (Artocarpus heterophyllus)
+(ii) Mahua (Madhuca indica)
+(iii) Teak (Tectona grandis)
+How many of the above are deciduous trees? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements :
+(i) India has more arable area than China.
+(ii) The proportion of irrigated area is more in India as compared to China.
+(iii) The average productivity per hectare in Indian agriculture is higher than that in China.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following is the best example of repeated falls in sea level, giving rise to present-day extensive marshland? - 2023
+a) Bhitarkanika Mangroves
+b) Marakkanam Salt Pans
+c) Naupada Swamp
+d) Rann of Kutch
+#QuestionEnd
+#AnswerStart
+Answer: d) Rann of Kutch
+#AnswerEnd
+#QuestionStart
+Q6) Ilmenite and rutile, abundantly available in certain coastal tracts of India, are rich sources of which one of the following? - 2023
+a) Aluminium
+b) Copper
+c) Iron
+d) Titanium
+#QuestionEnd
+#AnswerStart
+Answer: d) Titanium
+#AnswerEnd
+#QuestionStart
+Q7) About three-fourths of world's cobalt, a metal required for the manufacture of batteries for electric motor vehicles, is produced by - 2023
+a) Argentina
+b) Botswana
+c) the Democratic Republic of the Congo
+d) Kazakhstan
+#QuestionEnd
+#AnswerStart
+Answer: c) the Democratic Republic of the Congo
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following is a part of the Congo Basin? - 2023
+a) Cameroon
+b) Nigeria
+c) South Sudan
+d) Uganda
+#QuestionEnd
+#AnswerStart
+Answer: a) Cameroon
+#AnswerEnd
+#QuestionStart
+Q9) Consider the following statements :
+(i) Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.
+(ii) Biligirirangan Hills constitute the easternmost part of Satpura Range.
+(iii) Seshachalam Hills constitute the southernmost part of Western Ghats.
+How many of the statements given above are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q10) With reference to India's projects on connectivity, consider the following statements :
+(i) East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.
+(ii) Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.
+(iii) Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following statements :
+Statement-I : India, despite having uranium deposits, depends on coal for most of its electricity production.
+Statement-II : Uranium, enriched to the extent of at least 60%, is required for the production of electricity.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements :
+Statement-I : Marsupials are not naturally found in India.
+Statement-II : Marsupials can thrive only in montane grasslands with no predators.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q13) 'Invasive Species Specialist Group' (that develops Global Invasive Species Database) belongs to which one of the following organizations? - 2023
+a) The International Union for Conservation of Nature
+b) The United Nations Environment Programme
+c) The United Nations World Commission for Environment and Development
+d) The World Wide Fund for Nature
+#QuestionEnd
+#AnswerStart
+Answer: a) The International Union for Conservation of Nature
+#AnswerEnd
+#QuestionStart
+Q14) Consider the following fauna :
+(i) Lion-tailed Macaque
+(ii) Malabar Civet
+(iii) Sambar Deer
+How many of the above are generally nocturnal or most active after sunset? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q15) Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food? - 2023
+a) Butterflies
+b) Dragonflies
+c) Honeybees
+d) Wasps
+#QuestionEnd
+#AnswerStart
+Answer: c) Honeybees
+#AnswerEnd
+#QuestionStart
+Q16) Consider the following statements :
+(i) Some mushrooms have medicinal properties.
+(ii) Some mushrooms have psycho-active properties.
+(iii) Some mushrooms have insecticidal properties.
+(iv) Some mushrooms have bioluminescent properties.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements regarding the Indian squirrels :
+(i) They build nests by making burrows in the ground.
+(ii) They store their food materials like nuts and seeds in the ground.
+(iii) They are omnivorous.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q18) Consider the following statements :
+(i) Some microorganisms can grow in environments with temperature above the boiling point of water.
+(ii) Some microorganisms can grow in environments with temperature below the freezing point of water.
+(iii) Some microorganisms can grow in highly acidic environment with a pH below 3.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood? - 2023
+a) Fishing cat
+b) Orangutan
+c) Otter
+d) Sloth bear
+#QuestionEnd
+#AnswerStart
+Answer: b) Orangutan
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following :
+(i) Aerosols
+(ii) Foam agents
+(iii) Fire retardants
+(iv) Lubricants
+In the making of how many of the above are hydrofluorocarbons used? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q21) Consider the following statements :
+Statement-I : Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.
+Statement-II : InvITs are recognized as borrowers under the 'Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002'.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement-II is correct
+#AnswerEnd
+#QuestionStart
+Q22) Consider the following statements :
+Statement-I : In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.
+Statement-II : Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+#AnswerEnd
+#QuestionStart
+Q23) Consider the following statements :
+Statement-I : Carbon markets are likely to be one of the most widespread tools in the fight against climate change.
+Statement-II : Carbon markets transfer resources from the private sector to the State.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q24) Which one of the following activities of the Reserve Bank of India is considered to be part of 'sterilization'? - 2023
+a) Conducting 'Open Market Operations'
+b) Oversight of settlement and payment systems
+c) Debt and cash management for the Central and State Governments
+d) Regulating the functions of Non-banking Financial Institutions
+#QuestionEnd
+#AnswerStart
+Answer: a) Conducting 'Open Market Operations'
+#AnswerEnd
+#QuestionStart
+Q25) Consider the following markets :
+(i) Government Bond Market
+(ii) Call Money Market
+(iii) Treasury Bill Market
+(iv) Stock Market
+How many of the above are included in capital markets? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q26) Which one of the following best describes the concept of 'Small Farmer Large Field'? - 2023
+a) Resettlement of a large number of people, uprooted from their countries due to war, by giving them a large cultivable land which they cultivate collectively and share the produce
+b) Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations
+c) Many marginal farmers in an area together make a contract with a corporate body and surrender their land to the corporate body for a fixed term for which the corporate body makes a payment of agreed amount to the farmers
+d) A company extends loans, technical knowledge and material inputs to a number of small farmers in an area so that they produce the agricultural commodity required by the company for its manufacturing process and commercial production
+#QuestionEnd
+#AnswerStart
+Answer: b) Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations
+#AnswerEnd
+#QuestionStart
+Q27) Consider the following statements :
+(i) The Government of India provides Minimum Support Price for niger (Guizotia abyssinica) seeds.
+(ii) Niger is cultivated as a Kharif crop.
+(iii) Some tribal people in India use niger seed oil for cooking.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+#QuestionStart
+Q28) Consider the investments in the following assets :
+(i) Brand recognition
+(ii) Inventory
+(iii) Intellectual property
+(iv) Mailing list of clients
+How many of the above are considered intangible investments? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q29) Consider the following :
+(i) Demographic performance
+(ii) Forest and ecology
+(iii) Governance reforms
+(iv) Stable government
+(v) Tax and fiscal efforts
+For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance? - 2023
+a) Only two
+b) Only three
+c) Only four
+d) All five
+#QuestionEnd
+#AnswerStart
+Answer: b) Only three
+#AnswerEnd
+#QuestionStart
+Q30) Consider the following infrastructure sectors :
+(i) Affordable housing
+(ii) Mass rapid transport
+(iii) Health care
+(iv) Renewable energy
+On how many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q31) In essence, what does 'Due Process of Law' mean? - 2023
+a) The principle of natural justice
+b) The procedure established by law
+c) Fair application of law
+d) Equality before law
+#QuestionEnd
+#AnswerStart
+Answer: a) The principle of natural justice
+#AnswerEnd
+#QuestionStart
+Q32) Consider the following statements :
+Statement-I : In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons.
+Statement-II : In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q33) Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country? - 2023
+a) It determines the objective for the making of necessary laws.
+b) It enables the creation of political offices and a government.
+c) It defines and limits the powers of government.
+d) It secures social justice, social equality and social security.
+#QuestionEnd
+#AnswerStart
+Answer: c) It defines and limits the powers of government.
+#AnswerEnd
+#QuestionStart
+Q34) In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of the Fundamental Rights? - 2023
+a) 1st Amendment
+b) 42nd Amendment
+c) 44th Amendment
+d) 86th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: a) 1st Amendment
+#AnswerEnd
+#QuestionStart
+Q35) Consider the following organizations/ bodies in India :
+(i) The National Commission for Backward Classes
+(ii) The National Human Rights Commission
+(iii) The National Law Commission
+(iv) The National Consumer Disputes Redressal Commission
+How many of the above are constitutional bodies? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+#QuestionStart
+Q36) Consider the following statements :
+(i) If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid.
+(ii) Election for the post of the President of India can be postponed on the ground that some Legislative Assemblies have been dissolved and elections are yet to take place.
+(iii) When a Bill is presented to the President of India, the Constitution prescribes time limits within which he/she has to declare his/her assent.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q37) With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements :
+(i) When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.
+(ii) When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.
+(iii) In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+#QuestionStart
+Q38) Consider the following statements :
+Once the Central Government notifies an area as a 'Community Reserve'
+(i) the Chief Wildlife Warden of the State becomes the governing authority of such forest
+(ii) hunting is not allowed in such area
+(iii) people of such area are allowed to collect non-timber forest produce
+(iv) people of such area are allowed traditional agricultural practices
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q39) With reference to 'Scheduled Areas' in India, consider the following statements :
+(i) Within a State, the notification of an area as Scheduled Area takes place through an Order of the President.
+(ii) The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.
+(iii) The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q40) Consider the following statements :
+Statement-I : The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.
+Statement-II : Article 335 of the Constitution of India defines the term 'efficiency of administration'.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q41) In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located? - 2023
+a) Andhra
+b) Gandhara
+c) Kalinga
+d) Magadha
+#QuestionEnd
+#AnswerStart
+Answer: a) Andhra
+#AnswerEnd
+#QuestionStart
+Q42) With reference to ancient India, consider the following statements :
+(i) The concept of Stupa is Buddhist in origin.
+(ii) Stupa was generally a repository of relics.
+(iii) Stupa was a votive and commemorative structure in Buddhist tradition.
+How many of the statements given above are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q43) With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as - 2023
+a) capital cities
+b) ports
+c) centres of iron-and-steel making
+d) shrines of Jain Tirthankaras
+#QuestionEnd
+#AnswerStart
+Answer: b) ports
+#AnswerEnd
+#QuestionStart
+Q44) Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems? - 2023
+a) Kings employing women bodyguards
+b) Learned persons assembling in royal courts to discuss religious and philosophical matters
+c) Young girls keeping watch over agricultural fields and driving away birds and animals
+d) A king defeated in a battle committing ritual suicide by starving himself to death
+#QuestionEnd
+#AnswerStart
+Answer: d) A king defeated in a battle committing ritual suicide by starving himself to death
+#AnswerEnd
+#QuestionStart
+Q45) Consider the following dynasties :
+(i) Hoysala
+(ii) Gahadavala
+(iii) Kakatiya
+(iv) Yadava
+How many of the above dynasties established their kingdoms in early eighth century AD? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q46) With reference to ancient Indian History, consider the following pairs :
+| Literary work | Author |
+|---|---|
+| 1. Devichandragupta | Bilhana |
+| 2. Hammira-Mahakavya | Nayachandra Suri |
+| 3. Milinda-panha | Nagarjuna |
+| 4. Nitivakyamrita | Somadeva Suri |
+How many of the above pairs are correctly matched? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q47) "Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects."
+The above statement reflects one of the core beliefs of which one of the following religious sects of ancient India? - 2023
+a) Buddhism
+b) Jainism
+c) Shaivism
+d) Vaishnavism
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+#QuestionStart
+Q48) Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city? - 2023
+a) Devaraya I
+b) Mallikarjuna
+c) Vira Vijaya
+d) Virupaksha
+#QuestionEnd
+#AnswerStart
+Answer: a) Devaraya I
+#AnswerEnd
+#QuestionStart
+Q49) Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese? - 2023
+a) Ahmad Shah
+b) Mahmud Begarha
+c) Bahadur Shah
+d) Muhammad Shah
+#QuestionEnd
+#AnswerStart
+Answer: c) Bahadur Shah
+#AnswerEnd
+#QuestionStart
+Q50) By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India? - 2023
+a) The Regulating Act
+b) The Pitt's India Act
+c) The Charter Act of 1793
+d) The Charter Act of 1833
+#QuestionEnd
+#AnswerStart
+Answer: d) The Charter Act of 1833
+#AnswerEnd
+#QuestionStart
+Q51) In essence, what does 'Due Process of Law' mean? - 2023
+a) The principle of natural justice
+b) The procedure established by law
+c) Fair application of law
+d) Equality before law
+#QuestionEnd
+#AnswerStart
+Answer: c) Fair application of law
+#AnswerEnd
+#QuestionStart
+Q52) Consider the following statements :
+Statement-I : In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons.
+Statement-II : In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q53) Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country? - 2023
+a) It determines the objective for the making of necessary laws.
+b) It enables the creation of political offices and a government.
+c) It defines and limits the powers of government.
+d) It secures social justice, social equality and social security.
+#QuestionEnd
+#AnswerStart
+Answer: c) It defines and limits the powers of government.
+#AnswerEnd
+#QuestionStart
+Q54) In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of the Fundamental Rights? - 2023
+a) 1st Amendment
+b) 42nd Amendment
+c) 44th Amendment
+d) 86th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: a) 1st Amendment
+#AnswerEnd
+#QuestionStart
+Q55) Consider the following organizations/ bodies in India :
+(i) The National Commission for Backward Classes
+(ii) The National Human Rights Commission
+(iii) The National Law Commission
+(iv) The National Consumer Disputes Redressal Commission
+How many of the above are constitutional bodies? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+#QuestionStart
+Q56) Consider the following statements :
+(i) If the election of the President of India is declared void by the Supreme Court of India, all acts done by him/her in the performance of duties of his/her office of President before the date of decision become invalid.
+(ii) Election for the post of the President of India can be postponed on the ground that some Legislative Assemblies have been dissolved and elections are yet to take place.
+(iii) When a Bill is presented to the President of India, the Constitution prescribes time limits within which he/she has to declare his/her assent.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q57) With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements :
+(i) When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.
+(ii) When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.
+(iii) In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: a) Only one
+#AnswerEnd
+#QuestionStart
+Q58) Consider the following statements :
+Once the Central Government notifies an area as a 'Community Reserve'
+(i) the Chief Wildlife Warden of the State becomes the governing authority of such forest
+(ii) hunting is not allowed in such area
+(iii) people of such area are allowed to collect non-timber forest produce
+(iv) people of such area are allowed traditional agricultural practices
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q59) Consider the following statements :
+(i) Statement-I : The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.
+(ii) Statement-II : Article 335 of the Constitution of India defines the term 'efficiency of administration'.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q60) Which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located? - 2023
+a) Andhra
+b) Gandhara
+c) Kalinga
+d) Magadha
+#QuestionEnd
+#AnswerStart
+Answer: a) Andhra
+#AnswerEnd
+#QuestionStart
+Q61) With reference to ancient India, consider the following statements :
+(i) The concept of Stupa is Buddhist in origin.
+(ii) Stupa was generally a repository of relics.
+(iii) Stupa was a votive and commemorative structure in Buddhist tradition.
+How many of the statements given above are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q62) With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as - 2023
+a) capital cities
+b) ports
+c) centres of iron-and-steel making
+d) shrines of Jain Tirthankaras
+#QuestionEnd
+#AnswerStart
+Answer: b) ports
+#AnswerEnd
+#QuestionStart
+Q63) Which one of the following explains the practice of 'Vattakirutal' as mentioned in Sangam poems? - 2023
+a) Kings employing women bodyguards
+b) Learned persons assembling in royal courts to discuss religious and philosophical matters
+c) Young girls keeping watch over agricultural fields and driving away birds and animals
+d) A king defeated in a battle committing ritual suicide by starving himself to death
+#QuestionEnd
+#AnswerStart
+Answer: d) A king defeated in a battle committing ritual suicide by starving himself to death
+#AnswerEnd
+#QuestionStart
+Q64) Consider the following dynasties :
+(i) Hoysala
+(ii) Gahadavala
+(iii) Kakatiya
+(iv) Yadava
+How many of the above dynasties established their kingdoms in early eighth century AD? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q65) With reference to ancient Indian History, consider the following pairs :
+| Literary work | Author |
+|---|---|
+| 1. Devichandragupta | Bilhana |
+| 2. Hammira-Mahakavya | Nayachandra Suri |
+| 3. Milinda-panha | Nagarjuna |
+| 4. Nitivakyamrita | Somadeva Suri |
+How many of the above pairs are correctly matched? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q66) "Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects."
+The above statement reflects one of the core beliefs of which one of the following religious sects of ancient India? - 2023
+a) Buddhism
+b) Jainism
+c) Shaivism
+d) Vaishnavism
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+#QuestionStart
+Q67) Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city? - 2023
+a) Devaraya I
+b) Mallikarjuna
+c) Vira Vijaya
+d) Virupaksha
+#QuestionEnd
+#AnswerStart
+Answer: a) Devaraya I
+#AnswerEnd
+#QuestionStart
+Q68) Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese? - 2023
+a) Ahmad Shah
+b) Mahmud Begarha
+c) Bahadur Shah
+d) Muhammad Shah
+#QuestionEnd
+#AnswerStart
+Answer: c) Bahadur Shah
+#AnswerEnd
+#QuestionStart
+Q69) By which one of the following Acts was the Governor General of Bengal designated as the Governor General of India? - 2023
+a) The Regulating Act
+b) The Pitt's India Act
+c) The Charter Act of 1793
+d) The Charter Act of 1833
+#QuestionEnd
+#AnswerStart
+Answer: d) The Charter Act of 1833
+#AnswerEnd
+#QuestionStart
+Q70) Which one of the following statements about Sangam literature in ancient South India is correct? - 2023
+a) Sangam poems are devoid of any reference to material culture.
+b) The social classification of Varna was known to Sangam poets.
+c) Sangam poems have no reference to warrior ethic.
+d) Sangam literature refers to magical forces as irrational.
+#QuestionEnd
+#AnswerStart
+Answer: c) Sangam poems have no reference to warrior ethic.
+#AnswerEnd
+#QuestionStart
+Q71) "Yogavasistha" was translated into Persian by Nizamuddin Panipati during the reign of : - 2023
+a) Akbar
+b) Humayun
+c) Shahjahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: a) Akbar
+#AnswerEnd
+#QuestionStart
+Q72) The world’s second tallest statue in sitting pose of Ramanuja was inaugurated by the Prime Minister of India at Hyderabad recently. Which one of the following statements correctly represents the teachings of Ramanuja ? - 2023
+a) The best means of salvation was devotion.
+b) Vedas are eternal, self-existent and wholly authoritative.
+c) Logical arguments were essential means for the highest bliss.
+d) Salvation was to be obtained through meditation.
+#QuestionEnd
+#AnswerStart
+Answer: a) The best means of salvation was devotion.
+#AnswerEnd
+#QuestionStart
+Q73) The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple ?
+(i) Somnath Temple is one of the Jyotirlinga shrines.
+(ii) A description of Somnath Temple was given by Al-Biruni.
+(iii) Pran Pratishtha of Somnath Temple (installation of the present day temple) was done by President S. Radhakrishnan.
+Select the correct answer using the code given below : - 2023
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q74) Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood? - 2023
+a) Fishing cat
+b) Orangutan
+c) Otter
+d) Sloth bear
+#QuestionEnd
+#AnswerStart
+Answer: b) Orangutan
+#AnswerEnd
+#QuestionStart
+Q75) Consider the following :
+(i) Aerosols
+(ii) Foam agents
+(iii) Fire retardants
+(iv) Lubricants
+In the making of how many of the above are hydrofluorocarbons used? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q76) Consider the following statements :
+(i) In a seismograph, P waves are recorded earlier than S waves.
+(ii) In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.
+Which of the statements given above is/are correct? - 2023
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q77) With reference to coal-based thermal power plants in India, consider the following statements :
+(i) None of them uses seawater.
+(ii) None of them is set up in water-stressed district.
+(iii) None of them is privately owned.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q78) ‘Wolbachia method’ is sometimes talked about with reference to which one of the following? - 2023
+a) Controlling the viral diseases spread by mosquitoes
+b) Converting crop residues into packing material
+c) Producing biodegradable plastics
+d) Producing biochar from thermo-chemical conversion of biomass
+#QuestionEnd
+#AnswerStart
+Answer: a) Controlling the viral diseases spread by mosquitoes
+#AnswerEnd
+#QuestionStart
+Q79) Consider the following statements :
+Statement-I : Carbon markets are likely to be one of the most widespread tools in the fight against climate change.
+Statement-II : Carbon markets transfer resources from the private sector to the State.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q80) Which one of the following activities of the Reserve Bank of India is considered to be part of 'sterilization'? - 2023
+a) Conducting 'Open Market Operations'
+b) Oversight of settlement and payment systems
+c) Debt and cash management for the Central and State Governments
+d) Regulating the functions of Non-banking Financial Institutions
+#QuestionEnd
+#AnswerStart
+Answer: a) Conducting 'Open Market Operations'
+#AnswerEnd
+#QuestionStart
+Q81) Consider the following markets :
+(i) Government Bond Market
+(ii) Call Money Market
+(iii) Treasury Bill Market
+(iv) Stock Market
+How many of the above are included in capital markets? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q82) Which one of the following best describes the concept of 'Small Farmer Large Field'? - 2023
+a) Resettlement of a large number of people, uprooted from their countries due to war, by giving them a large cultivable land which they cultivate collectively and share the produce
+b) Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations
+c) Many marginal farmers in an area together make a contract with a corporate body and surrender their land to the corporate body for a fixed term for which the corporate body makes a payment of agreed amount to the farmers
+d) A company extends loans, technical knowledge and material inputs to a number of small farmers in an area so that they produce the agricultural commodity required by the company for its manufacturing process and commercial production
+#QuestionEnd
+#AnswerStart
+Answer: b) Many marginal farmers in an area organize themselves into groups and synchronize and harmonize selected agricultural operations
+#AnswerEnd
+#QuestionStart
+Q83) Consider the following statements :
+(i) The Government of India provides Minimum Support Price for niger (Guizotia abyssinica) seeds.
+(ii) Niger is cultivated as a Kharif crop.
+(iii) Some tribal people in India use niger seed oil for cooking.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+#QuestionStart
+Q84) Consider the investments in the following assets :
+(i) Brand recognition
+(ii) Inventory
+(iii) Intellectual property
+(iv) Mailing list of clients
+How many of the above are considered intangible investments? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q85) Consider the following :
+(i) Demographic performance
+(ii) Forest and ecology
+(iii) Governance reforms
+(iv) Stable government
+(v) Tax and fiscal efforts
+For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance? - 2023
+a) Only two
+b) Only three
+c) Only four
+d) All five
+#QuestionEnd
+#AnswerStart
+Answer: b) Only three
+#AnswerEnd
+#QuestionStart
+Q86) Consider the following infrastructure sectors :
+(i) Affordable housing
+(ii) Mass rapid transport
+(iii) Health care
+(iv) Renewable energy
+On how many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: c) Only three
+#AnswerEnd
+#QuestionStart
+Q87) Consider the following statements :
+(i) Statement-I : India accounts for 3.2% of global export of goods.
+(ii) Statement-II : Many local companies and some foreign companies operating in India have taken advantage of India’s ‘Production-linked Incentive’ scheme.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement-II is correct
+#AnswerEnd
+#QuestionStart
+Q88) Consider the following statements :
+(i) Statement-I : Recently, the United States of America (USA) and the European Union (EU) have launched the ‘Trade and Technology Council’.
+(ii) Statement-II : The USA and the EU claim that through this they are trying to bring technological progress and physical productivity under their control.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q89) Consider the following statements :
+(i) Statement-I : India accounts for 3.2% of global export of goods.
+(ii) Statement-II : Many local companies and some foreign companies operating in India have taken advantage of India’s ‘Production-linked Incentive’ scheme.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement-II is correct
+#AnswerEnd
+#QuestionStart
+Q90) Consider the following statements :
+(i) Statement-I : Recently, all the countries of the United Nations have adopted the first-ever compact for international migration, the ‘Global Compact for Safe, Orderly and Regular Migration (GCM)’.
+(ii) Statement-II : The objectives and commitments stated in the GCM are binding on the UN member countries.
+(iii) Statement-II : The GCM addresses internal migration or internally displaced people also in its objectives and commitments.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q91) Consider the following statements :
+(i) Statement-I : Home Guards are raised under the Home Guards Act and Rules of the Central Government.
+(ii) Statement-II : The role of the Home Guards is to serve as an auxiliary force to the police in maintenance of internal security.
+(iii) Statement-II : To prevent infiltration on the international border/coastal areas, the Border Wing Home Guards Battalions have been raised in some States.
+How many of the above statements are correct? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q92) With reference to India, consider the following pairs :
+| Action | The Act under which it is covered |
+|---|---|
+| 1. Unauthorized wearing of police or military uniforms | The Official Secrets Act, 1923 |
+| 2. Knowingly misleading or otherwise interfering with a police officer or military officer when engaged in their duties | The Indian Evidence Act, 1872 |
+| 3. Celebratory gunfire which can endanger the personal safety of others | The Arms (Amendment) Act, 2019 |
+How many of the above pairs are correctly matched? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q93) Consider the following pairs :
+| Regions often mentioned in news | Reason for being in news |
+|---|---|
+| 1. North Kivu and Ituri | War between Armenia and Azerbaijan |
+| 2. Nagorno-Karabakh | Insurgency in Mozambique |
+| 3. Kherson and Zaporizhzhia | Dispute between Israel and Lebanon |
+How many of the above pairs are correctly matched? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q94) Consider the following statements :
+(i) Statement-I : Israel has established diplomatic relations with some Arab States.
+(ii) Statement-II : The ‘Arab Peace Initiative’ mediated by Saudi Arabia was signed by Israel and Arab League.
+Which one of the following is correct in respect of the above statements? - 2023
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement-II is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement-I is correct but Statement-II is incorrect
+#AnswerEnd
+#QuestionStart
+Q95) Consider the following pairs with regard to sports awards :
+(i) Major Dhyan Chand Khel Ratna Award : For the most spectacular and outstanding performance by a sportsperson over period of last four years
+(ii) Arjuna Award : For the lifetime achievement by a sportsperson
+(iii) Dronacharya Award : To honour eminent coaches who have successfully trained sportspersons or teams
+(iv) Rashtriya Khel Protsahan Puraskar : To recognize the contribution made by sportspersons even after their retirement
+How many of the above pairs are correctly matched? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q96) Consider the following statements in respect of the 44th Chess Olympiad, 2022 :
+(i) It was the first time that Chess Olympiad was held in India.
+(ii) The official mascot was named ‘Thambi’.
+(iii) The trophy for the winning team in the open section is the Vera Menchik Cup.
+(iv) The trophy for the winning team in the women’s section is the Hamilton-Russell Cup.
+How many of the statements given above are correct? - 2023
+a) Only one
+b) Only two
+c) Only three
+d) All four
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+#QuestionStart
+Q97) Consider the following pairs :
+| Area of conflict mentioned in news | Country where it is located |
+|---|---|
+| 1. Donbas | Syria |
+| 2. Kachin | Ethiopia |
+| 3. Tigray | North Yemen |
+How many of the above pairs are correctly matched? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+#QuestionStart
+Q98) In the recent years Chad, Guinea, Mali and Sudan caught the international attention for which one of the following reasons common to all of them? - 2023
+a) Discovery of rich deposits of rare earth elements
+b) Establishment of Chinese military bases
+c) Southward expansion of Sahara Desert
+d) Successful coups
+#QuestionEnd
+#AnswerStart
+Answer: d) Successful coups
+#AnswerEnd
+#QuestionStart
+Q99) Consider the following heavy industries :
+(i) Fertilizer plants
+(ii) Oil refineries
+(iii) Steel plants
+Green hydrogen is expected to play a significant role in decarbonizing how many of the above industries? - 2023
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: c) All three
+#AnswerEnd
+#QuestionStart
+Q100) Consider the following statements about G-20 :
+(i) The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.
+(ii) Digital public infrastructure is one of India’s G-20 priorities.
+Which of the statements given above is/are correct? - 2023
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd

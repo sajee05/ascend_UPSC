@@ -1,0 +1,52 @@
+#QuestionStart
+Q1) Consider the following items: (2018)
+1. Cereal grains hulled
+2. Chicken eggs cooked
+3. Fish processed and canned
+4. Newspapers containing advertising material
+Which of the above items is/are exempted under GST (Good and Services Tax)?
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q2) What is/are the most likely advantages of implementing 'Goods and Services Tax (GST)'? (2017)
+1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.
+2. It will drastically reduce the 'Current Account Deficit' of India and will enable it to increase its foreign exchange reserves.
+3. It will enormously increase the growth and size of the economy of India and will enable it to overtake China in the near future.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q3) The sales tax you pay while purchasing a toothpaste is: (2014)
+a) tax imposed by the Central Government
+b) tax imposed by the Central Government but collected by the State Government
+c) tax imposed by the State Government but collected by Central Government
+d) tax imposed and collected by State Government
+#QuestionEnd
+#AnswerStart
+Answer: d) tax imposed and collected by State Government
+#AnswerEnd
+
+#QuestionStart
+Q4) Which one of the following is not a feature of “Value Added Tax”? (2011)
+a) It is a multi-point destination-based system of tax.
+b) It is a tax levied on value addition at each stage of transaction in the production distribution chain.
+c) It is a tax on the final consumption of goods or services and must ultimately be borne by the consumer.
+d) It is basically a subject of the Central Government, and the State Governments are only a facilitator for its successful implementation.
+#QuestionEnd
+#AnswerStart
+Answer: d) It is basically a subject of the Central Government, and the State Governments are only a facilitator for its successful implementation.
+#AnswerEnd

@@ -1,0 +1,349 @@
+#QuestionStart
+Q1) With reference to ancient India, Gautama Buddha was generally known by which of the following epithets? (2024)
+1. Nayaputta
+2. Shakyamuni
+3. Tathagata
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1, 2 and 3
+d) None of the above are epithets of Gautama Buddha
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q2) Which one of the following is a work attributed to playwright Bhasa? (2024)
+a) Kavyalankara
+b) Natyashastra
+c) Madhyama-vyayoga
+d) Mahabhashya
+#QuestionEnd
+#AnswerStart
+Answer: c) Madhyama-vyayoga
+#AnswerEnd
+
+#QuestionStart
+Q3) In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located? (2023)
+a) Andhra
+b) Gandhara
+c) Kalinga
+d) Magadha
+#QuestionEnd
+#AnswerStart
+Answer: a) Andhra
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to ancient India, consider the following statements: (2023)
+1. The concept of Stupa is Buddhist in origin.
+2. Stupa was generally a repository of relics.
+3. Stupa was a votive and commemorative structure in Buddhist tradition.
+How many of the statements given above are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q5) "Souls are not only the property of animal and plant life, but also of rocks, running water and many other natural objects not looked on as living by other religious sects."
+The above statement reflects one of the core beliefs of which one of the following religious sects of ancient India? (2023)
+a) Buddhism
+b) Jainism
+c) Shaivism
+d) Vaishnavism
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q6) Consider the following pairs: (2023)
+| Site : | Well Known for |
+|---|---|
+| 1. Besnagar : | Shaivite cave shrine |
+| 2. Bhaja : | Buddhist cave shrine |
+| 3. Sittanavasal : | Jain cave shrine |
+How many of the above pairs are correctly matched?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q7) According to Kautilya’s Arthashastra, which of the following are correct ? (2022)
+1. A person could be a slave as a result of a judicial punishment.
+2. If a female slave bore her master a son, she was legally free.
+3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master’s son.
+Which of the statements given above are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q8) Consider the following pairs : (2022)
+| Site of Ashoka’s major rock edicts | Location in the State of |
+|---|---|
+| 1. Dhauli | Odisha |
+| 2. Erragudi | Andhra Pradesh |
+| 3. Jaugada | Madhya Pradesh |
+| 4. Kalsi | Karnataka |
+How many pairs given above are correctly matched ?
+a) Only one pair
+b) Only two pairs
+c) Only: three pairs
+d) All four pairs
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two pairs
+#AnswerEnd
+
+#QuestionStart
+Q9) Who among the following rulers advised his subjects through this inscription? (2020)
+“Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.”
+a) Ashoka
+b) Samudragupta
+c) Harshavardhana
+d) Krishanadeva Raya
+#QuestionEnd
+#AnswerStart
+Answer: a) Ashoka
+#AnswerEnd
+
+#QuestionStart
+Q10) With reference to the religious history of India, consider the following statements: (2020)
+1. Sthaviravadins belong to Mahayana Buddhism.
+2. Lokottaravadin sect was an offshoot of Mahasanghika sect of Buddhism.
+3. The deification of Buddha by Mahasanghikas fostered Mahayana Buddhism.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to the cultural history of India, which one of the following is the correct description of the term 'paramitas'? (2020)
+a) The earliest Dharmashastra texts written in aphoristic (sutra) style
+b) Philosophical schools that did not accept the authority of Vedas
+c) Perfections whose attainment led to the Bodhisattva path
+d) Powerful merchant guilds of early medieval South India
+#QuestionEnd
+#AnswerStart
+Answer: c) Perfections whose attainment led to the Bodhisattva path
+#AnswerEnd
+
+#QuestionStart
+Q12) Consider the following: (2019)
+1. Deification of the Buddha.
+2. Treading the path of Bodhisattvas.
+3. Image worship and rituals.
+Which of the above is/are the feature / features of Mahayana Buddhism?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q13) In which of the following relief sculpture inscriptions is ‘Ranyo Ashoka’ (King Ashoka) mentioned along with the stone portrait of Ashoka? (2019)
+a) Kanganahalli
+b) Sanchi
+c) Shahbazgarhi
+d) Sohgaura
+#QuestionEnd
+#AnswerStart
+Answer: a) Kanganahalli
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to the religious practices in India, the “Sthanakvasi” sect belongs to (2018)
+a) Buddhism
+b) Jainism
+c) Vaishnavism
+d) Shaivism
+#QuestionEnd
+#AnswerStart
+Answer: b) Jainism
+#AnswerEnd
+
+#QuestionStart
+Q15) With reference to India history, who among the following is a future Buddha, yet to come to save the world? (2018)
+a) Avalokiteshvara
+b) Lokesvara
+c) Maitreya
+d) Padmapani
+#QuestionEnd
+#AnswerStart
+Answer: c) Maitreya
+#AnswerEnd
+
+#QuestionStart
+Q16) With reference to the religious history of India, consider the following statements: (2017)
+1. Sautrantika and Sammitiya were the sects of Jainism.
+2. Sarvastivadin held that the constituents of phenomena were not wholly momentary but existed forever in a latent form.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Who of the following had first deciphered the edicts of Emperor Ashoka? (2016)
+a) Georg Buhler
+b) James Prinsep
+c) Max Muller
+d) William Jones
+#QuestionEnd
+#AnswerStart
+Answer: b) James Prinsep
+#AnswerEnd
+
+#QuestionStart
+Q18) With the reference to the religious history of India, consider the following statement: (2016)
+1. The concept of Bodhisattva is central to the Hinayana sect of Buddhism.
+2. Bodhisattva is the compassionate one on his way to enlightenment.
+3. Bodhisattva delays achieving his own salvation to help all sentient beings on their path to it.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 2 only
+d) 1, 2, and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q19) Which of the following kingdoms were associated with the life of Buddha? (2015)
+1. Avanti
+2. Gandhara
+3. Kosala
+4. Magadha
+Select the correct answer using the code given below:
+a) 1, 2 and 3 only
+b) 2 and 3 only
+c) 1, 3 and 4 only
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Which of the following Kingdoms were associated with the life of the Buddha? (2014)
+1. Avanti
+2. Gandhara
+3. Kosala
+4. Magadha
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 2 and 4
+c) 3 and 4 only
+d) 1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following describes best the concept of Nirvana in Buddhism? (2013)
+a) The extinction of the flame of desire
+b) The complete annihilation of self
+c) A state of bliss and rest
+d) A mental stage beyond all comprehension
+#QuestionEnd
+#AnswerStart
+Answer: a) The extinction of the flame of desire
+#AnswerEnd
+
+#QuestionStart
+Q22) Which of the following statements is/are applicable to Jain doctrine? (2013)
+1. The surest way of annihilating Karma is to practice penance.
+2. Every object, even the smallest particle, has a soul.
+3. Karma is the bane of the soul and must be ended.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q23) With reference to the history of ancient India, which of the following was/were common to both Buddhism and Jainism? (2012)
+1. Avoidance of extremities of penance and enjoyment
+2. Indifference to the authority of the Vedas
+3. Denial of efficacy of rituals
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q24) Lord Buddha’s image is sometimes shown with the hand gesture called 'Bhumisparsha Mudra'. It symbolises: (2012)
+a) Buddha’s calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation.
+b) Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara.
+c) Buddha’s reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus this life is transitory.
+d) Both the statements (a) and (b) are correct in this context
+#QuestionEnd
+#AnswerStart
+Answer: b) Buddha’s calling of the Earth to witness his purity and chastity despite the temptations of Mara.
+#AnswerEnd
+
+#QuestionStart
+Q25) With reference to the guilds (Shreni) of ancient India that played a very important role in the country’s economy, which of the following statements is/are correct? (2012)
+1. Every guild was registered with the central authority of the State and the king was the chief administrative authority on them.
+2. The wages, rules of work, standards and prices were fixed by the guild.
+3. The guild had judicial powers over its own members.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q26) The Jain philosophy holds that the world is created and maintained by (2011)
+a) Universal Law
+b) Universal Truth
+c) Universal Faith
+d) Universal Soul
+#QuestionEnd
+#AnswerStart
+Answer: a) Universal Law
+#AnswerEnd

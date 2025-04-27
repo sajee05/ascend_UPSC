@@ -1,0 +1,2196 @@
+#QuestionStart
+Q41) Which Mughal ruler patronaged Kavindra Acharya Saraswati of Banaras, a great scholar of Sanskrit and Hindi? [UPPCS (Pre) 2022]
+a) Jahangir
+b) Humayun
+c) Shahjahan
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: c) Shahjahan
+#AnswerEnd
+
+#QuestionStart
+Q42) From which place Jayata and Kumpa were associated who impressed Shershah with their valour? [UPPCS (Pre) 2022]
+a) Malwa
+b) Mewar
+c) Bundelkhand
+d) Marwar
+#QuestionEnd
+#AnswerStart
+Answer: d) Marwar
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following events of the reign of Aurangzeb and arrange them in chronological order: [UPPCS (Pre) 2022]
+1. Battle of Deorai
+2. Defeat of Shuja near Banaras
+3. Battle of Samugarh
+4. Victory at Dharmat
+Select the correct answer from the code given below.
+a) 1, 3, 4 and 2
+b) 4, 2, 1 and 3
+c) 2, 4, 3 and 1
+d) 3, 4, 2 and 1
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 4, 3 and 1
+#AnswerEnd
+
+#QuestionStart
+Q44) Given below are two statements, one is labelled as Assertion and other as Reason (R): [U.P.P.C.S. (Pre.) 2021]
+Assertion (A): The Mughal Empire was originally a Military State.
+Reason (R): The vitality of the development of the Central Government System depended on its military power.
+Select the correct answer using the the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q45) Arrange the following foreign travellers in chronological order of their arrival in India: [U.P.P.C.S. (Pre.) 2021]
+I. William Hawkins
+II. Ralph Fitch
+III. Sir Thomas Roe
+IV. Nicholsa Dawnton
+Select the correct answer using the codes given below.
+a) II, I, IV and III
+b) IV, II, I and III
+c) I, III, II and IV
+d) III, II, IV and I
+#QuestionEnd
+#AnswerStart
+Answer: a) II, I, IV and III
+#AnswerEnd
+
+#QuestionStart
+Q46) Which of the following Mughal period canals, was constructed by restoring the Rajabwah of Firoz Shah? [UPPCS (Pre) 2020]
+a) Shekhnu-Ni
+b) Shahab Nahr
+c) Nahr-i-Bihisht
+d) Nahr-i-Agra
+#QuestionEnd
+#AnswerStart
+Answer: b) Shahab Nahr
+#AnswerEnd
+
+#QuestionStart
+Q47) Match list-I with list-II and select the correct answer using the codes given below the lists: [UPPCS (Pre) 2020]
+| List-I (Officer) | List-II (Assign Duty) |
+|---|---|
+| A. Diwan-i-Tan | 1. Look after the office |
+| B. Mustarfi | 2. Maintained a proper list of main events and Firmans |
+| C. Mushrif | 3. Look after the Jagir and Salaries |
+| D. Vakianvis | 4. Examine the income expenditure of State |
+Code:
+a) A-2, B-4, C-1, D-3
+b) A-3, B-4, C-1, D-2
+c) A-1, B-3, C-2, D-4
+d) A-4, B-1, C-2, D-3
+#QuestionEnd
+#AnswerStart
+Answer: b) A-3, B-4, C-1, D-2
+#AnswerEnd
+
+#QuestionStart
+Q48) Which of the following statement/s is/are correct? [U.P.P.C.S. (Pre) 2020]
+1. Akbar tried to fix the age of marriage for boys and girls.
+2. Akbar gave freedom to girls to marry at their own will and not under parental pressure.
+Select the correct answer using the codes given below.
+Codes:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q49) Which of the following is not correctly matched? [UPPCS (Pre) 2019]
+a) Dam : Copper coin
+b) Desai : Revenue Collector
+c) Diwan : Revenue Chief of a province
+d) Jarib : A type of tax
+#QuestionEnd
+#AnswerStart
+Answer: d) Jarib : A type of tax
+#AnswerEnd
+
+#QuestionStart
+Q50) Given below a re two statements, one labelled as Assertion and the other as Reason (R): [U.P.P.C.S. (Pre) 2019]
+Assertion (A): Akbar, like Shershah, tried to regulate the currency of the state.
+Reason (R): As in Shershah’s currency, the chief copper coin of Akbar’s time was the Dam.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q51) Arrange the following battles in chronological order, and select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2019]
+I. Battle of Sarnal
+II. Battle of Bilgram
+III. Battle of Dharmat
+IV. Battle of Jajau
+Codes:
+a) II, I, III, IV
+b) II, III, IV, I
+c) III, II, I, IV
+d) III, I, II, IV
+#QuestionEnd
+#AnswerStart
+Answer: a) II, I, III, IV
+#AnswerEnd
+
+#QuestionStart
+Q52) The term ‘Chakia⁵ has been used in Medieval Indian History sources. This was- [U.P.P.C.S. (Pre). 2018]
+a) Identical to Paragnah
+b) Identical to Sarkar
+c) Territorial unit between Subah and Paragnah, but not identical to Sarkar
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Territorial unit between Subah and Paragnah, but not identical to Sarkar
+#AnswerEnd
+
+#QuestionStart
+Q53) Arrange the following into chronological order and select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2018]
+A. Muhammand Shah
+B. Jahandar Shah
+C. Alamgir II
+D. Ahmadshah
+Codes:
+a) A, C, D, B
+b) B, A, D, C
+c) C, A, B, D
+d) D, B, C, A
+#QuestionEnd
+#AnswerStart
+Answer: b) B, A, D, C
+#AnswerEnd
+
+#QuestionStart
+Q54) The Maratha claim of revenue for protection is known by what name? [U.P.P.C.S. (Pre) 2018]
+a) Sardesh Mukhi
+b) Chauth
+c) Abwab
+d) Jamadani
+#QuestionEnd
+#AnswerStart
+Answer: b) Chauth
+#AnswerEnd
+
+#QuestionStart
+Q55) Which of the following systems were prevailing basis of land revenue collection in the Deccan during the reign of Akbar? [UPPCS (Pre) 2017]
+a) Kankut
+b) Number of plows
+c) Zabt
+d) Gallabakshi
+#QuestionEnd
+#AnswerStart
+Answer: b) Number of plows
+#AnswerEnd
+
+#QuestionStart
+Q56) Who among the following foreign travellers visited India during the reign of Jahangir? [U.P.P.C.S. (Pre) 2017]
+a) Father Anthony Monserate
+b) Francisco Pelsaert
+c) Niccolo Manucci
+d) Francois Bernier
+#QuestionEnd
+#AnswerStart
+Answer: b) Francisco Pelsaert
+#AnswerEnd
+
+#QuestionStart
+Q57) Which city was founded by Krishnadeva Raya? [U.P.P.C.S. (Pre) 2016]
+a) Warangal
+b) Nagalapura
+c) Udayagiri
+d) Chandragiri
+#QuestionEnd
+#AnswerStart
+Answer: b) Nagalapura
+#AnswerEnd
+
+#QuestionStart
+Q58) Who amongst the following got ‘Purana Quila’ of Delhi built in the present form? [U.P.P.C.S. (Mains) 2016]
+a) Sher Shah Suri
+b) Akbar
+c) Babur
+d) Shahjahan
+#QuestionEnd
+#AnswerStart
+Answer: a) Sher Shah Suri
+#AnswerEnd
+
+#QuestionStart
+Q59) Babur adopted the title of ‘Padshah’ first at- [U.P.P.C.S. (Mains) 2015]
+a) Ferghana
+b) Kabul
+c) Delhi
+d) Samarqand
+#QuestionEnd
+#AnswerStart
+Answer: b) Kabul
+#AnswerEnd
+
+#QuestionStart
+Q60) Who of the following was not a member of Noorjahan’s Junta? [U.P.P.C.S. (Mains) 2015]
+a) Jahangir
+b) Ghiyas Beg
+c) Asaf Khan
+d) Khurram
+#QuestionEnd
+#AnswerStart
+Answer: a) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q61) Which of the following forts was not constructed in the reign of Akbar? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) Red Fort of Delhi
+b) Agra Fort
+c) Allahabad Fort
+d) Lahore Fort
+#QuestionEnd
+#AnswerStart
+Answer: a) Red Fort of Delhi
+#AnswerEnd
+
+#QuestionStart
+Q62) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Re. Exam) (Pre) 2015]
+a) First Battle of Panipat: 1526
+b) Battle of Khanwa : 1527
+c) Battle of Ghaghara : 1529
+d) Battle of Chanderi: 1530
+#QuestionEnd
+#AnswerStart
+Answer: d) Battle of Chanderi: 1530
+#AnswerEnd
+
+#QuestionStart
+Q63) Who were Polygars of South India? [U.P.P.C.S. (Re-Exam) (Pre) 2015]
+a) Ordinary Zamindars
+b) Mahajans
+c) Territorial Administrative and Military Governors
+d) Newly enriched traders
+#QuestionEnd
+#AnswerStart
+Answer: c) Territorial Administrative and Military Governors
+#AnswerEnd
+
+#QuestionStart
+Q64) The famous diamond ‘Kohinoor’ was presented to Shah Jahan by- [U.P.P.C.S. (Mains) 2015]
+a) Aurangzeb
+b) Murad
+c) Mir Jumla
+d) Abul Hasan Qutb Shah
+#QuestionEnd
+#AnswerStart
+Answer: c) Mir Jumla
+#AnswerEnd
+
+#QuestionStart
+Q65) The Battle of Talikota was fought between- [U.P.P.C.S. (Mains) 2014]
+a) Akbar and Sultan of Malwa
+b) Vijayanagara and the Bahmani Kingdom
+c) Vijayanagara and combined forces of Bijapur, Ahmadnagar and Golconda
+d) Sher Shah and Humayun
+#QuestionEnd
+#AnswerStart
+Answer: c) Vijayanagara and combined forces of Bijapur, Ahmadnagar and Golconda
+#AnswerEnd
+
+#QuestionStart
+Q66) Who one of the following painters of Jahangir’s reign was conferred the title of ‘Nadir-ul-Asra’? [U.P.P.C.S. (Mains) 2014]
+a) Daulat
+b) Bishandas
+c) Manohar
+d) Mansoor
+#QuestionEnd
+#AnswerStart
+Answer: d) Mansoor
+#AnswerEnd
+
+#QuestionStart
+Q67) Ashtapradhan was a Council of Ministers: [U.P.P.C.S. (Mains) 2013]
+a) In the Gupta administration
+b) In the Chola administration
+c) In the Vijayanagara administration
+d) In the Maratha administration
+#QuestionEnd
+#AnswerStart
+Answer: d) In the Maratha administration
+#AnswerEnd
+
+#QuestionStart
+Q68) Who translated the Ramayan into the Persian language in accordance with the wishes of Akbar? [U.P. P.C.S. (Pre) 2013]
+a) Abul Fazl
+b) Abul Qadir Badauni
+c) Faizi
+d) Abdr Rahim Khan-i-Khanan
+#QuestionEnd
+#AnswerStart
+Answer: b) Abul Qadir Badauni
+#AnswerEnd
+
+#QuestionStart
+Q69) Of the following who had rebelled against the Mughal Emperor Jahangir? [U.P.P.C.S. (Pre) 2013]
+1. Asif Khan
+2. Khurram
+3. Mahabat Khan
+4. Khusrau
+Code:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 2 and 4 only
+d) 2, 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q70) Who among the following painters was given the title of ‘Nadir-ul-Zaman’ by Jahangir? [U.P.P.C.S. (Mains) 2013]
+a) Abul Hassan
+b) Farrukh Beg
+c) Bishandas
+d) Agha Raza
+#QuestionEnd
+#AnswerStart
+Answer: a) Abul Hassan
+#AnswerEnd
+
+#QuestionStart
+Q71) Who among these was famous for Telugu translation? [U.P.P.C.S. (Pre) 2012]
+1. Kamban
+2. Kuttan
+3. Nannaya
+4. Tikkana
+Select the correct answer using the code given below.
+a) only 1 and 2
+b) only 2 and 3
+c) only 3 and 4
+d) only 4 and 1
+#QuestionEnd
+#AnswerStart
+Answer: c) only 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q72) Who succeeded Aurangzeb after his death in 1707 A.D.? [U.P.P.C.S. (Mains) 2012]
+a) Bahadur Shah-I
+b) Jahandar Shah
+c) Muhammad Shah
+d) Akbar-II
+#QuestionEnd
+#AnswerStart
+Answer: a) Bahadur Shah-I
+#AnswerEnd
+
+#QuestionStart
+Q73) The Mausoleum (Dargah) of which Chishti Saint was visited by Akbar? [U.P.P.C.S. (Mains) 2012]
+a) Muinuddin Chishti
+b) Shaikh Nasimuddin Chirag Dehalvi
+c) Qutbuddin Bakhtiyar Kaki
+d) Shaikh Farid Ganj-ai-Shakar
+#QuestionEnd
+#AnswerStart
+Answer: a) Muinuddin Chishti
+#AnswerEnd
+
+#QuestionStart
+Q74) The First Battle of Panipat was fought between- [UPPCS (Mains) 2012]
+a) Babur and Rana Sanga
+b) Sher Shah and Akbar
+c) Humayun and Ibrahim Lodi.
+d) Babur and Ibrahim Lodi
+#QuestionEnd
+#AnswerStart
+Answer: d) Babur and Ibrahim Lodi
+#AnswerEnd
+
+#QuestionStart
+Q75) Who among the following rulers issued some coins with figures of Rama and Sita and Devanagari legend ‘Rama-Siya’? [U.P.P.C.S. (Mains) 2011]
+a) Bhoja
+b) Siddharaja Jayasimha
+c) Zain-ul-Abidin
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q76) Who among the following was the founder of the independent Kingdom of Hyderabad? [U.P.P.C.S. (Mains) 2011]
+a) Qamaruddin Khan
+b) Muhammad Amin Khan
+c) Asad Khan
+d) Chin Qilich Khan
+#QuestionEnd
+#AnswerStart
+Answer: d) Chin Qilich Khan
+#AnswerEnd
+
+#QuestionStart
+Q77) Which Mughal Emperor abolished the Persian Court Custom of ‘Sijda’ which was begun by Balban? [U.P. P.C.S. (Mains) 2010]
+a) Akbar
+b) Jahangir
+c) Shah Jahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: c) Shah Jahan
+#AnswerEnd
+
+#QuestionStart
+Q78) During which one of the following battles, did Babur deciare ‘Jehad’? [U.P.P.C.S. (Mains) 2009]
+a) Battle of Panipat
+b) Battle of Khanwa
+c) Battle of Chanderi
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Battle of Khanwa
+#AnswerEnd
+
+#QuestionStart
+Q79) Which medieval ruler introduced the system of “patta” and “qabuliyat” to help the peasants? [U.P.P.C.S. (Mains) 2009]
+a) Alauddin Khalji
+b) Muhammad-Bin-Tughluq
+c) Sher Shah
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: c) Sher Shah
+#AnswerEnd
+
+#QuestionStart
+Q80) Who among the following emperors may be called “an enlightened despot”? [U.P.P.C.S. (Mains) 2009]
+a) Babur
+b) Humayun
+c) Akbar
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: c) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q81) With which Mughal General did Shivaji sign the Treaty of Purandar is 1665? [U.P.P.C.S. (Mains) 2009]
+a) Diler Khan
+b) Jai Singh
+c) Jaswant Singh
+d) Shaista Khan
+#QuestionEnd
+#AnswerStart
+Answer: b) Jai Singh
+#AnswerEnd
+
+#QuestionStart
+Q82) Saint Ramdas is associated with the period of rule of: [U.P.P.C.S. (Mains) 2009]
+a) Akbar
+b) Jahangir
+c) Shah Jahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: d) Aurangzeb
+#AnswerEnd
+
+#QuestionStart
+Q83) Who among the following was appointed as a physician in the Mughal service? [U.P.P.C.S. (Spl) (Mains) 2008]
+a) Bernier
+b) Coreri
+c) Manned,
+d) Tavernier
+#QuestionEnd
+#AnswerStart
+Answer: c) Manned,
+#AnswerEnd
+
+#QuestionStart
+Q84) Sayana, the famous commentator of the Vedic texts was patronized by- [U.P.P.C.S. (Mains) 2008]
+a) Paramara rulers
+b) Satavahana rulers
+c) Vijayanagara rulers
+d) Vakataka rulers
+#QuestionEnd
+#AnswerStart
+Answer: c) Vijayanagara rulers
+#AnswerEnd
+
+#QuestionStart
+Q85) Who among the following was the first Nawab of Oudh? [UPPCS (Spl) (Mains) 2008]
+a) Asaf-ud-Daula
+b) Saadat Khan
+c) Shuja-ud-Daula
+d) Safdarjung
+#QuestionEnd
+#AnswerStart
+Answer: b) Saadat Khan
+#AnswerEnd
+
+#QuestionStart
+Q86) Who among the following shifted the capital of the Empire from Agra to Delhi? [U.P.P.C.S. (Spi) (Mains) 2008]
+a) Akbar
+b) Jahangir
+c) Shah Jahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: c) Shah Jahan
+#AnswerEnd
+
+#QuestionStart
+Q87) Ruins of which of the following represent the old capital of Vijayanagara? [U.P.P.C.S. (Mains) 2008]
+a) Ahmadnagar
+b) Bijapur
+c) Golconda
+d) Hampi
+#QuestionEnd
+#AnswerStart
+Answer: d) Hampi
+#AnswerEnd
+
+#QuestionStart
+Q88) Maharaja Sawai Jai Singh (Jain Singh-II) established the astronomical observatory at which of the following sites? [U.P. P.C.S. (Mains) 2007]
+1. Delhi
+2. Jaipur
+3. Ujjain
+4. Varanasi
+Code:
+a) 1 and 2
+b) 1 and 3
+c) 2 and 3
+d) 1, 2, 3, and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3, and 4
+#AnswerEnd
+
+#QuestionStart
+Q89) Which one of the following places was called “Shiraz of India”? [U.P.P.C.S. (Mains) 2005]
+a) Agra
+b) Allahabad
+c) Jaunpur
+d) Lucknow
+#QuestionEnd
+#AnswerStart
+Answer: c) Jaunpur
+#AnswerEnd
+
+#QuestionStart
+Q90) The Mughal Emperor who prohibited the use of tobacco was- [U.P.P.C.S. (Mains) 2005]
+a) Akbar
+b) Babur
+c) Jahangir
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: c) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q91) Shivaji defeated the Mughals in the battle of- [U.P.P.C.S. (Mains) 2005]
+a) Purandar
+b) Raigarh
+c) Salher
+d) Shivner
+#QuestionEnd
+#AnswerStart
+Answer: c) Salher
+#AnswerEnd
+
+#QuestionStart
+Q92) Arrange the following in the correct chronological order: [U.P.P.C.S. (Mains) 2005]
+1. Chhatrapati Shahuji
+2. Rajaram
+3. Sambhaji
+4. Shivaji-II
+Select the correct answer from the codes given below:
+a) 3, 2, 1, 4
+b) 3, 2, 4, 1
+c) 2, 3, 1, 4
+d) 1, 2, 3, 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 3, 2, 4, 1
+#AnswerEnd
+
+#QuestionStart
+Q93) The ruler of Mewar who was defeated in the Battle of Khanwa by Babur in 1527 was- [U.P.P.C.S. (Mains) 2004]
+a) Rana Pratap
+b) Man Singh
+c) Sawai Uday Singh
+d) Rana Sanga
+#QuestionEnd
+#AnswerStart
+Answer: d) Rana Sanga
+#AnswerEnd
+
+#QuestionStart
+Q94) Name the pair which is not correctly matched: [U.P.P.C.S. (Pre) 2004]
+a) Baz Bahadur : Malwa
+b) Qutb Shah : Golconda
+c) Sultan Muzaffar Shah : Gujarat
+d) Yusuf Adil Shah : Ahmadnagar
+#QuestionEnd
+#AnswerStart
+Answer: d) Yusuf Adil Shah : Ahmadnagar
+#AnswerEnd
+
+#QuestionStart
+Q95) A group of eunuchs and ladies dominated in the Government under- [U.P.P.C.S. (Mains) 2004]
+a) Muhammad Shah (1719-48)
+b) Ahmad Shah (1748-54)
+c) Alamgir (1754-59)
+d) Shah Alam II (1759-1806)
+#QuestionEnd
+#AnswerStart
+Answer: b) Ahmad Shah (1748-54)
+#AnswerEnd
+
+#QuestionStart
+Q96) In Mughal era, Duty of Mir Bakshi was: [U.P.P.C.S. (Spl) (Pre) 2004]
+a) Charged Tax from farmers
+b) Maintaining accounts of income and Expenses
+c) Justice
+d) Supervisions of land revenue officials
+#QuestionEnd
+#AnswerStart
+Answer: d) Supervisions of land revenue officials
+#AnswerEnd
+
+#QuestionStart
+Q97) Two of the following states, which Aurangzeb had conquered in Deccan, were: [U.P.P.C.S. (Pre) 2004]
+a) Ahmadnagar and Bijapur
+b) Bidar and Bijapur
+c) Bijapur and Golconda
+d) Golconda and Ahmednagar
+#QuestionEnd
+#AnswerStart
+Answer: c) Bijapur and Golconda
+#AnswerEnd
+
+#QuestionStart
+Q98) The first matrimonial alliance with the Rajputs was established by Akbar with the house of: [U.P.P.C.S. (Pre) 2004]
+a) Bundelas
+b) Kachhwahas
+c) Rathores
+d) Sisodias
+#QuestionEnd
+#AnswerStart
+Answer: b) Kachhwahas
+#AnswerEnd
+
+#QuestionStart
+Q99) Arrange the following in the chronological order of their rule: [U.P.P.C.S. (Spl) (Mains) 2004]
+1. Bajirao
+2. Balaji Bajirao
+3. Balaji Vishwanath
+4. Madhavrao
+Select the correct answer using the codes given below.
+a) 4, 3, 1, 2
+b) 1, 2, 3, 4
+c) 3, 1, 2, 4
+d) 2, 1, 4, 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 3, 1, 2, 4
+#AnswerEnd
+
+#QuestionStart
+Q100) What is thé modern name of Hoysaleshvara’s ancient capital of Dwarasamudra? [U.P.P.C.S. (Mains) 2003]
+a) Sringeri
+b) Befor
+c) Halebid
+d) S cmn athpur
+#QuestionEnd
+#AnswerStart
+Answer: c) Halebid
+#AnswerEnd
+
+#QuestionStart
+Q101) Arrange the following events of Akbar’s regime in their chronological order: [U.P. P.C.S. (Mains) 2003]
+1. Abolition of Jizya
+2. Construction of Ibadat Khana
+3. Singing of Mahzar
+4. Foundation of Din-i-Ilahi
+Select the correct answer from the codes given below:
+a) 1, 2, 3, 4
+b) 2, 3, 4, 1
+c) 1, 3, 2, 4
+d) 3, 4, 1, 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q102) Who among the following had ordered that a man should marry only one wife and could marry another only when the first wife was barren? [U.P.P.C.S. (Mains) 2002]
+a) Alauddin Khalji
+b) Sher Shah
+c) Akbar
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q103) The Jain monk who stayed for a few years in the Court of Akbar and was honoured with the title of Jagadguru was- [U.P.P.C.S. (Mains) 2002]
+a) Hemachandra
+b) Hari Vijay Suri
+c) Jinasena
+d) Umaswati
+#QuestionEnd
+#AnswerStart
+Answer: b) Hari Vijay Suri
+#AnswerEnd
+
+#QuestionStart
+Q104) Who re-imposed Jizya? [U.P.P.C.S. (Pre) 2002]
+a) Akbar
+b) Aurangzeb
+c) Jahangir
+d) Humayun
+#QuestionEnd
+#AnswerStart
+Answer: b) Aurangzeb
+#AnswerEnd
+
+#QuestionStart
+Q105) Indian ruler, contemporary of Queen Elizabeth-I of England, was- [U.P.P.C.S. (Mains) 2002]
+a) Akbar
+b) Shah Jahan
+c) Aurangzeb
+d) Bahadur Shah
+#QuestionEnd
+#AnswerStart
+Answer: a) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q106) Which of the following Mughal Emperor wrote his autobiography in Persian? [U.P.P.C.S.(Pre) 2001}
+a) Babur
+b) Akbar
+c) Jahangir
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: c) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q107) Who had led a deputation of Banaras pandits before the Mughal emperor to seek the abolition of pilgrim tax on Benaras and Allahabad? [U.P.P.C.S. (Pre) 2000]
+a) Haranth
+b) Jagannath
+c) Kavindracharya
+d) Kavi Hariram
+#QuestionEnd
+#AnswerStart
+Answer: c) Kavindracharya
+#AnswerEnd
+
+#QuestionStart
+Q108) The lady poet who described the victorious expeditions of her husband in her work ‘Madhur a-Vijayam’ was: [U.P.P.C.S. (Pre) 2000]
+a) Bharati
+b) Ganga Devi
+c) Varadambika
+d) Vijjika
+#QuestionEnd
+#AnswerStart
+Answer: b) Ganga Devi
+#AnswerEnd
+
+#QuestionStart
+Q109) The concept of ‘Sulh-i-KuF (universal peace and fraternity) adopted by Akbar ’was the result of: [U.P.P.C.S. (Pre) 1998]
+a) Political generosity
+b) Religious tolerance
+c) Liberal cultural attitude
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q110) At which of the following battles was artillery used for the first time by one of the two armies? [U.P.P.C.S. (Pre) 1996]
+a) First Battle of Panipat
+b) Battle of Khanwa
+c) Battle of Plassey
+d) Third Battle of Panipat
+#QuestionEnd
+#AnswerStart
+Answer: a) First Battle of Panipat
+#AnswerEnd
+
+#QuestionStart
+Q111) Which Hindu State has been mentioned by Babur in his Babur Nama: [U.P.P.C.S. (Pre) 1995]
+a) Orissa
+b) Gujarat
+c) Mewar
+d) Kashmir
+#QuestionEnd
+#AnswerStart
+Answer: c) Mewar
+#AnswerEnd
+
+#QuestionStart
+Q112) Who of the following was awarded with the honour of ‘Zari qalam’ by King Akbar? [U.P.P.C.S. (Pre) 1995]
+a) Muhammad Hussain
+b) Muqammal Khan
+c) Abdussamad
+d) Mir Sayyid Ali
+#QuestionEnd
+#AnswerStart
+Answer: a) Muhammad Hussain
+#AnswerEnd
+
+#QuestionStart
+Q113) What was the principal source of State income in Mughal India: [U.P.P.C.S. (Pre) 1995]
+a) Booty
+b) Escheat
+c) Land Revenue
+d) Tax
+#QuestionEnd
+#AnswerStart
+Answer: c) Land Revenue
+#AnswerEnd
+
+#QuestionStart
+Q114) Consider the following statements: [U.P.P.C.S. (Pre) 1994]
+Assertion (A): Aurangzeb succeeded Shah Jahan to the Mughal throne.
+Reason (R): The law of primogeniture was followed.
+Select the correct answer from the codes given below:
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd
+
+#QuestionStart
+Q115) Military system in the reign of Akbar was based on: [U.P.P.C.S. (Pre) 1992]
+a) Mansabdari
+b) Zamindari
+c) Feudalistic
+d) Ain-i-Dahsala
+#QuestionEnd
+#AnswerStart
+Answer: a) Mansabdari
+#AnswerEnd
+
+#QuestionStart
+Q116) Which is/are correct reasons of Maratha’s Rise? [U.P.P.C.S. (Pre) 1992]
+a) Religious Consciousness
+b) Geographical Security
+c) Political awakening
+d) High quality of leadership
+e) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q117) Where was the capital of Shivaji? [U.P.P.C.S. (Pre) 1990]
+a) Raigarh
+b) Satara
+c) Purandar
+d) Tanjore
+#QuestionEnd
+#AnswerStart
+Answer: a) Raigarh
+#AnswerEnd
+
+#QuestionStart
+Q118) Causes of Akbar’s popularity were- [U.P.P.C.S. (Pre) 1990]
+A. Mansabdari system
+B. Religious policy
+C. Land Revenue System
+D. Social reforms
+Select the correct answer by using codes given below:
+a) A and B
+b) B only
+c) C only
+d) A, B, C and D
+#QuestionEnd
+#AnswerStart
+Answer: d) A, B, C and D
+#AnswerEnd
+
+#QuestionStart
+Q119) Which one of the following pairs of Deccan Sultanates and their respective regions is not correctly matched? [CAPF 2021]
+a) Nizam Shahis : Bijapur
+b) Barid Shahis : Bidar
+c) Qutb Shahis : Golkonda
+d) Imad Shahis : Berar
+#QuestionEnd
+#AnswerStart
+Answer: a) Nizam Shahis : Bijapur
+#AnswerEnd
+
+#QuestionStart
+Q120) Consider the following statements: [CAPF 2021]
+1. Under Akbar, the system of Zabt was established over a large area from Punjab to Awadh.
+2. In the seventeenth century North India, the system of Zabt lost much ground to the system of Kankut.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q121) Which of the following statements about Akbar are correct? [CAPF 2021]
+1. In 1560s, Akbar had the Fort of Agra constructed.
+2. In 1570s, Akbar decided to build a new capital at Fatehpur Sikri.
+3. Akbar also commissioned a white marble tomb of Shaikh Salim Chishti at Sikri.
+4. In 1585, Akbar decided to shift the capital back to Agra.
+Select the correct answer using the codes given below.
+a) 1, 2 and 4
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) 3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q122) Which of the following statements about Amaranayakas of Vijayanagara are correct? [CAPF 2021]
+1. The Amaranayakas were military commanders who were given territories to govern by the Raya.
+2. In lieu of their service and also to maintain their contingents, they were paid in cash.
+3. They maintained stipulated contingents and elephants.
+4. They used to send tribute, to the king annually and personally appeared in the royal court with gifts to express their loyalty.
+Select the correct answer using the codes given below.
+a) 1, 2 and 3 only
+b) 1, 3 and 4 only
+c) 2 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q123) Who among the following assumed the title of Nizam-ul-Mulk Asaf Jah to set himself an independent ruler with his base in Hyderabad? [CAPF 2021]
+a) Kartalab Khan
+b) Bahadur Shah
+c) Alivardi Khan
+d) Chin Qilich Khan
+#QuestionEnd
+#AnswerStart
+Answer: d) Chin Qilich Khan
+#AnswerEnd
+
+#QuestionStart
+Q124) Consider the following statements about sulh-i kul: [CAPF 2020]
+1. It means ‘absolute peace’.
+2. It provided for freedom of expression to all religions and schools of thought.
+3. The ideal of sulh-i kul was implemented through state policies.
+Which of the statement(s) given above is/are correct?
+a) 1 and 2 only
+b) 1, 2 and 3
+c) 3 only
+d) 2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q125) Which one of the following statements about the religious policies of the Mughal kings is NOT correct? [CAPF 2020]
+a) The tax on pilgrimage was abolished in 1563, and the Jizya tax on non-Muslim Subjects was abolished in 1564.
+b) Akbar issued instructions to his officers to follow the policy of religious toleration
+c) Not all Mughal emperors gave grants for the building and maintenance of places of worship
+d) Grants were issued for the repair of a number of temples in the reigns of Shah Jahan and Aurangzeb, after they had been destroyed during war
+#QuestionEnd
+#AnswerStart
+Answer: c) Not all Mughal emperors gave grants for the building and maintenance of places of worship
+#AnswerEnd
+
+#QuestionStart
+Q126) On which one of the following conditions, did the Marathas agree to serve the Mughal king with a cavalry contingent of 15,000 in the early 18th century? [CAPF 2020]
+a) Grant of the jagir of Malwa province
+b) Control of the resources of Gujarat
+c) The right to levy Chauth and Sardeshmukhi in the Deccan and South India
+d) The right to mint coins in their own name
+#QuestionEnd
+#AnswerStart
+Answer: c) The right to levy Chauth and Sardeshmukhi in the Deccan and South India
+#AnswerEnd
+
+#QuestionStart
+Q127) Which one of the following dynasties ruled under the suzerainty of Kingdom of Vijaynagar? [CAPF 2017]
+a) Sangamas, Saluvas, Tuluvas and Aravidus
+b) Sangamas, Hoysalas, Aravidus and Tuluvas
+c) Hoysalas, Saluvas. Poligars and Sangamas
+d) Yadavas of Devagiri, Hoysalas, Saluvas and Aravidus
+#QuestionEnd
+#AnswerStart
+Answer: a) Sangamas, Saluvas, Tuluvas and Aravidus
+#AnswerEnd
+
+#QuestionStart
+Q128) Which one of the following pairs of term and meaning is not correctly matched? [CAPF 2017]
+a) Khalisa: Villages whose income went directly to the State Treasury
+b) Mauza: Rebellious territory
+c) Inam: Land allotted to learned and religious man
+d) Jagir: Territorial assignment given to Mansabdars in lieu of salary
+#QuestionEnd
+#AnswerStart
+Answer: b) Mauza: Rebellious territory
+#AnswerEnd
+
+#QuestionStart
+Q129) Which one among the following regarding the Ahadis of the Mughal period is NOT true? [CAPF 2014]
+a) They were individual troopers
+b) They were placed under a separate Diwan and Bakhshi
+c) They were ordinarily not placed under the Mansabdars
+d) Their salary was at par with the Mansabdars
+#QuestionEnd
+#AnswerStart
+Answer: d) Their salary was at par with the Mansabdars
+#AnswerEnd
+
+#QuestionStart
+Q130) Which one among the following cannot be attributed to Shahjahan’s reign? [CAPF 2014]
+a) Moti Masjid
+b) Qila-i-Kuhna Masjid
+c) Jama Masjid
+d) Rang Mahal
+#QuestionEnd
+#AnswerStart
+Answer: b) Qila-i-Kuhna Masjid
+#AnswerEnd
+
+#QuestionStart
+Q131) Which of the following statements is/are correct? [CAPF 2014]
+1. Humayun invented Taj-i-izzat.
+2. Taj-i-izzat was a head gear, composed of a cap and a wrapping cloth.
+Select the correct answer using the codes given below.
+Codes:
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q132) The ruling dynasties Sangama, Saluva, Tuluva were associated with [CAPF 2014]
+a) Warangal
+b) Kashmir
+c) Bengal
+d) Vijayanagara
+#QuestionEnd
+#AnswerStart
+Answer: d) Vijayanagara
+#AnswerEnd
+
+#QuestionStart
+Q133) In respect to Balutedars, which of the statements given below are correct? [CDS 2023 (I)]
+1. They were village servants and artisans.
+2. They were employed by individual peasant family.
+3. They existed in the Medieval Deccan and Maharashtra.
+Select the correct answer using the code given below.
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q134) Francois Bernier was physician to [CDS 2021 (I)]
+a) Prince Murad
+b) Princess Jahanara
+c) Emperor Shah Jahan
+d) Prince Dara Shikon
+#QuestionEnd
+#AnswerStart
+Answer: d) Prince Dara Shikon
+#AnswerEnd
+
+#QuestionStart
+Q135) Which of the following statements about ‘Mughal Mansab’ system are correct? [CDS 2020 (I)]
+1. ‘Zat’ rank was an indicator ofaMansabdar’s position in the imperial hierarchy and the salary of the Mansabdar.
+2. ‘Sawar’ rank indicated the number of horsemen the Mansabdar was required to maintain.
+3. In the seventeenth century, Mansabdars holding 1000 or above ‘Sawar’ rank were designated as nobles (Umara).
+Codes:
+a) 1 and 2
+b) 2 and 3
+c) 1 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q136) Name the platform used for ritual purposes by the kings of the Vijayanagara Empire. [CDS 2018 (I)]
+a) Mahanavami Dibba
+b) Lotus Maha
+c) Hazara Rama
+d) Virupaksha
+#QuestionEnd
+#AnswerStart
+Answer: a) Mahanavami Dibba
+#AnswerEnd
+
+#QuestionStart
+Q137) The term Upari refers to which one of the following? [CDS 2016 (II)]
+a) A category of proprietary tenure under the Mughal rule
+b) A category of tenancy tenure under the Maratha rule
+c) A soldier in the Maratha army
+d) A village headman in the Mughal period
+#QuestionEnd
+#AnswerStart
+Answer: b) A category of tenancy tenure under the Maratha rule
+#AnswerEnd
+
+#QuestionStart
+Q138) Consider the following statements and choose the answer using the codes given below: [CDS 2016 (II)]
+Statement I: The Zamindars were an exploitative class in Mughal India.
+Statement II: The Zamindars often received the support of the peasantry in a large number of agrarian uprisings in North India in the 17th century.
+Codes
+a) Both the statements are individually true, and statement II is the correct explanation of statement I
+b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+c) Statement I is true, but statement II is false
+d) Statement I is false, but statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both the statements are individually true, but statement II is not the correct explanation of statement I
+#AnswerEnd
+
+#QuestionStart
+Q139) Which of the following statement(s) about the Vijayanagara empire is/are true? [CDS 2016 (I)]
+1. The kings claimed to rule on behalf of the God Virupaksha.
+2. Rulers used the title ‘Hindu Suratrana’ to indicate their close links with Gods.
+3. All royal orders were signed in Kannada, Sanskrit and Tamil.
+4. Royal portrait sculpture was now displayed in temples.
+Select the correct answer using the codes given below:
+a) 4 only
+b) 1 and 2 only
+c) 1, 2 and 3
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q140) After the death of Shivaji, there was a fight for succession between [CDS 2015 (II)]
+a) Shambhaji and the widow of Shivaji
+b) Shambhaji and Bajirao
+c) Rajaram and Shambhaji
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Rajaram and Shambhaji
+#AnswerEnd
+
+#QuestionStart
+Q141) Which empire did Nicolo de Conti, Abdur Razzaq, Afanasy Nikitin and Fernao Nuniz visit? [CDS 2015 (I)]
+a) The empire of Kannauj
+b) Vijayanagara empire
+c) Hoysala empire
+d) Rashtrakuta empire
+#QuestionEnd
+#AnswerStart
+Answer: b) Vijayanagara empire
+#AnswerEnd
+
+#QuestionStart
+Q142) Which of the following features of the State of Arcot in 18th century South India are correct? [CDS 2015 (I)]
+1. The founders of the dynasty that ruled Arcot were Daud Khan Panni and Saadatullah Khan.
+2. Arcot became the site of a protracted struggle between the English and Dutch East India Companies from the 1740s.
+3. Decentralisation was a key feature of the State of Arcot in the 18th century.
+4. The other major State to emerge in South India at this time was Mysore.
+Select the correct answer using the codes given below:
+a) 1 and 2
+b) 1, 2 and 4
+c) 3 and 4
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 4
+#AnswerEnd
+
+#QuestionStart
+Q143) Which of the statements given below about the Mughal rule in India is false? [CDS 2014 (II)]
+a) Peasant communities were a united and homogeneous group.
+b) There was an abundance of food grain.
+c) The state encouraged those crops that brought in more revenue
+d) Most regions produced two crops in a year
+#QuestionEnd
+#AnswerStart
+Answer: a) Peasant communities were a united and homogeneous group.
+#AnswerEnd
+
+#QuestionStart
+Q144) The ruins of the Vijayanagara at Hampi were brought to light in 1800 by [CDS 2014 (II)]
+a) Colonel Colin Mackenzie
+b) Sir John Shore
+c) Andrew Fraser
+d) John Marshall
+#QuestionEnd
+#AnswerStart
+Answer: a) Colonel Colin Mackenzie
+#AnswerEnd
+
+#QuestionStart
+Q145) Consider the following statements about Sher Shah’s administration [CDS 2014 (I)]
+1. He divided his empire into Sarkars, which were further subdivided into Parganas.
+2. The Sarkars and the Parganas were directly administered by Sher Shah without the help of any other officials.
+Which of the statement(s) given above is/are correct?
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q146) Who was the first Mughal ruler who fought against the British? [67th BPSC (Pre) (Re-Exam) 2022]
+a) Jahangir
+b) Aurangzeb
+c) Shah Jahan
+d) Bahadur Shah Zafar
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Aurangzeb
+#AnswerEnd
+
+#QuestionStart
+Q147) Where is Sher Shah’s tomb located? [67th BPSC (Pre) 2022]
+a) Sasaram
+b) Maner
+c) Sitamarhi
+d) Pavapuri
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Sasaram
+#AnswerEnd
+
+#QuestionStart
+Q148) Who was the founder of the Vijayanagara Empire? [67th B.P.S.C. (Pre) 2022]
+a) Deva Raya I
+b) Krishnadeva Raya
+c) Harihara-Bukka
+d) Vira Narasimha Raya
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Harihara-Bukka
+#AnswerEnd
+
+#QuestionStart
+Q149) Who promulgated Din-i-elahi? [66th B.P.S.C. Re-Exam (Pre) 2020]
+a) Babar
+b) Akbar
+c) Jahangir
+d) Shah Jahan
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q150) In medieval India, why was the mansabdari system introduced? [65th B.P.S.C. (Pre) 2019]
+a) For revenue collection
+b) Facilitating recruitment to the army
+c) To establish religious harmony
+d) Ensuring clean administration
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Facilitating recruitment to the army
+#AnswerEnd
+
+#QuestionStart
+Q151) Who among the following rulers divided his troops into units of two hundred, two hundred fifty and five hundred? [64th BPSC (Pre) 2018]
+a) Bahlul Lodi
+b) Sikandar Shah
+c) Sher Shah
+d) Islam Shah
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) None of the above/More than one of the above
+#AnswerEnd
+
+#QuestionStart
+Q152) Who stated that five thousand to twenty thousand men worked for forty years to build the palace of forty pillars at Allahabad in Akbar’s time? [B.P.S.C. (Pre) 2018]
+a) Manucci
+b) Tavernier
+c) William Finch
+d) Abdul Hamid Lahori
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) William Finch
+#AnswerEnd
+
+#QuestionStart
+Q153) Who was the ruler of India when the English East India Company was formed? [63rd B.P.S.C (Pre.) 2017]
+a) Aurangzeb
+b) Akbar
+c) Jahangir
+d) Humayun
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q154) The remains of Vijayanagara empire are found in- [63rd B.P.S.C. (Pre.) 2017]
+a) Bijapur
+b) Golconda
+c) Hampi
+d) Baroda
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Hampi
+#AnswerEnd
+
+#QuestionStart
+Q155) Which among the following King’s reign Persian traveller ‘Abdur Razzak’ came to India? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Dev Rai I
+b) Krishnadeva Raya I
+c) Dev Rai II
+d) Krishna Rai II
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Dev Rai II
+#AnswerEnd
+
+#QuestionStart
+Q156) Who was the founder of Bahamani Kingdom? [60th to 62nd B.P.S.C. (Pre) 2016]
+a) Alauddin Hasan
+b) Firuz Shah
+c) Mahmud Gaonwa
+d) Asaf Khan
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Alauddin Hasan
+#AnswerEnd
+
+#QuestionStart
+Q157) Who was the commander of Rana Pratap’s army in the Battle of Haldighati? [56th to 59th B.P.S.C. (Pre) 2015]
+a) Amar Singh
+b) Man Singh
+c) Hakim Khan
+d) Shakti Singh
+#QuestionEnd
+#AnswerStart
+Answer: c) Hakim Khan
+#AnswerEnd
+
+#QuestionStart
+Q158) Who of the following Muslim rulers abolished the pilgrimage tax? [53rd to 55th B.P.S.C. (Pre) 2011]
+a) Bahlul Lodi
+b) Sher Shah
+c) Humayun
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q159) Who among the following has constructed mausoleum for his emperor husband? [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Shah Begum
+b) Haji Begum
+c) Mumtaz Mahal Begum
+d) Nurnissa Begum
+#QuestionEnd
+#AnswerStart
+Answer: b) Haji Begum
+#AnswerEnd
+
+#QuestionStart
+Q160) Itmad-ud-Daula’s tomb at Agra was built by- [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Akbar
+b) Jahangir
+c) Nur Jahan
+d) Shah Jahan
+#QuestionEnd
+#AnswerStart
+Answer: c) Nur Jahan
+#AnswerEnd
+
+#QuestionStart
+Q161) The meaning of word ‘Batai’ during Medieval period was? [48th to 52nd B.P.S.C. (Pre) 2008]
+a) Religious Tax
+b) System of calculating revenue
+c) Wealth tax
+d) Property tax
+#QuestionEnd
+#AnswerStart
+Answer: b) System of calculating revenue
+#AnswerEnd
+
+#QuestionStart
+Q162) In the Mughal administration ‘Muhtasib’ was- [47th B.P.S.C. (Pre) 2005]
+a) Military Officer
+b) Head of Foreign Affairs
+c) an Officer-in-Charge of public morals
+d) Officer of Correspondence Department
+#QuestionEnd
+#AnswerStart
+Answer: c) an Officer-in-Charge of public morals
+#AnswerEnd
+
+#QuestionStart
+Q163) Who introduced ‘Do-aspa and Sih-aspa’ system? [46th B.P.S.C. (Pre) 2004]
+a) Akbar
+b) Jahangir
+c) Shah Jahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: b) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q164) ‘Madad-i-Mash’ indicates in Mughal administration“ [46th B.P.S.C. (Pre) 2003]
+a) Toll Tax
+b) Revenue free land granted to learned person
+c) Pension provided to military officials
+d) Cultivation Tax
+#QuestionEnd
+#AnswerStart
+Answer: b) Revenue free land granted to learned person
+#AnswerEnd
+
+#QuestionStart
+Q165) Which of the following rulers at first assumed the title of ‘Hazrat-e-AIa’ and afterwards ‘Sultan’? [44th B.P.S.C. (Pre) 2000]
+a) Bahlul Lodi
+b) Sikandar Lodi
+c) Sher Shah Suri
+d) Islam. Shah Suri
+#QuestionEnd
+#AnswerStart
+Answer: c) Sher Shah Suri
+#AnswerEnd
+
+#QuestionStart
+Q166) The meaning of ‘Jihad’ carried on by Aurangzeb is- [43rd B.P.S.C. (Pre) 1999]
+a) DaruTHarb
+b) Dar-uTlslam
+c) Holy War
+d) Jizya
+#QuestionEnd
+#AnswerStart
+Answer: b) Dar-uTlslam
+#AnswerEnd
+
+#QuestionStart
+Q167) With whom the king of Vijayanagara, Krishnadeva Raya fought the battle of Gokonda? [43rd B.P.S.C. (Pre) 1999]
+a) Quli Qutb Shah
+b) Qutbuddin Aybak
+c) Ismail-Adil Khan
+d) Gajapati
+#QuestionEnd
+#AnswerStart
+Answer: a) Quli Qutb Shah
+#AnswerEnd
+
+#QuestionStart
+Q168) Arrange properly as per dates of four important battles fought by Humayun, the names of battlefields are given below- [41st B.P.S.C. (Pre) 1996]
+a) Chausa, Devara, Kanauj, Sirhind
+b) Devara, Kanauj, Chausa, Sirhind
+c) Sirhind, Devara, Chausa, Kanauj
+d) Devara, Chausa, Kanauj, Sirhind
+#QuestionEnd
+#AnswerStart
+Answer: d) Devara, Chausa, Kanauj, Sirhind
+#AnswerEnd
+
+#QuestionStart
+Q169) Who was the last Mughal Emperor to sit on Mayur Singhasan? [40th B.P.S.C. (Pre) 1995]
+a) Shah Alam I
+b) Muhammad Shah
+c) Bahadur Shah
+d) Jahandar Shah
+#QuestionEnd
+#AnswerStart
+Answer: b) Muhammad Shah
+#AnswerEnd
+
+#QuestionStart
+Q170) Identify the first ruler of Vijayanagar who captured Goa from Bahamani’s? [40th B.P.S.C. (Pre) 1995]
+a) Harihara-I
+b) Harihara-II
+c) Bukka-II
+d) Devaraya-II
+#QuestionEnd
+#AnswerStart
+Answer: b) Harihara-II
+#AnswerEnd
+
+#QuestionStart
+Q171) The main reason for Babur’s victory in the battle of Panipat was- [39th B.P.S.C. (Pre) 1994]
+a) His horse-riding force
+b) His skilled warfare
+c) Tulghuma system
+d) Internal disputes among Afghans
+#QuestionEnd
+#AnswerStart
+Answer: b) His skilled warfare
+#AnswerEnd
+
+#QuestionStart
+Q172) Zabti system was introduced by- [39th B.P.S.C. (Pre) 1994]
+a) Ghiyasuddin Tughluq
+b) Sikandar Lodi
+c) Sher Shah
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q173) What was the root of the dispute between the Shah of Iran and Mughal rulers? [39th B.P.S.C. (Pre) 1994]
+a) Kabul
+b) Qandahar
+c) Kunduz
+d) Ghazni
+#QuestionEnd
+#AnswerStart
+Answer: b) Qandahar
+#AnswerEnd
+
+#QuestionStart
+Q174) Saranzami system was related to- [39th B.P.S.C. (Pre) 1994]
+a) Land revenue system of Maratha
+b) Taluqdari system
+c) Qutb Shahi administration
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Land revenue system of Maratha
+#AnswerEnd
+
+#QuestionStart
+Q175) What was the chief characteristic of the financial system of Vijayanagara Empire? [39th B.P.S.C. (Pre) 1994]
+a) Surplus rent
+b) Land Revenue
+c) Income from seaports
+d) Monetary system
+#QuestionEnd
+#AnswerStart
+Answer: b) Land Revenue
+#AnswerEnd
+
+#QuestionStart
+Q176) Consider the following statements related to the mughal emperor Akbar and choose the correct answer: [Chhattisgarh P.C.S. (Pre) 2020]
+Statement I: ‘Tansen’ was the title given to Rambali Pandey by the Mughal emperor Akbar.
+Statement II: Akbar was married with the sister of Raja Man Singh.
+Statement III: Abul Fazl was the author of ‘Ain-i- Akbari’.
+Statement IV: Raja Todarmal was the commander- in-chief of Akbar’s army.
+Code:
+a) Only Statement I and II are correct
+b) Only Statement III and IV are correct
+c) Only Statement III is correct
+d) Only Statement IV is correct
+#QuestionEnd
+#AnswerStart
+Answer: c) Only Statement III is correct
+#AnswerEnd
+
+#QuestionStart
+Q177) Who of the following rulers constructed a road from East Bengal to Peshawar called Sadak-e-Azam? [Chhattisgarh P.C.S. (Pre) 2018]
+a) Akbar
+b) Jahangir
+c) Islamshah
+d) Sher Shah
+#QuestionEnd
+#AnswerStart
+Answer: d) Sher Shah
+#AnswerEnd
+
+#QuestionStart
+Q178) Among the following which is a composition of Darasikoh? [Chhattisgarh PCS (Pre) 2018]
+a) Tabakat-e-Nasiri
+b) Kitab-ul-Hind
+c) Tahakik-e-hind
+d) Mazzmaul Bahainna
+#QuestionEnd
+#AnswerStart
+Answer: d) Mazzmaul Bahainna
+#AnswerEnd
+
+#QuestionStart
+Q179) The following were the Officers in the ‘Ashtapradhan’ of Shivaji: [Chhattisgarh P.C.S. (Pre) 2017]
+1. Mazumdar
+2. Dabir
+3. Waknis
+4. Sumis
+Select the correct answer:
+a) 1, 2, 3
+b) 2, 3, 4
+c) 1, 2, 4
+d) 1, 3, 4
+e) 1, 2, 3, 4
+#QuestionEnd
+#AnswerStart
+Answer: e) 1, 2, 3, 4
+#AnswerEnd
+
+#QuestionStart
+Q180) Which of the following was the first capital of the Bahamani Kingdom? [Chhattisgarh P.C.S. (Pre) 2014]
+a) Bidar
+b) Gulbarga
+c) Daulatabad
+d) Hussainabad
+e) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) Gulbarga
+#AnswerEnd
+
+#QuestionStart
+Q181) Match list-I (Mughal Ruler) with list-II (Place of Tomb) on the basis of codes: [Chhattisgarh P.C.S. (Pre) 2008]
+| List-I | List-II |
+|---|---|
+| A. Babur | 1. Delhi |
+| B. Humayun | 2. Kabul |
+| C. Akbar | 3. Lahore |
+| D. Jahangir | 4. Sikandara |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-2, B-1, C-4, D-3
+c) A-3, B-4, C-1, D-2
+d) A-4, B-3, C-2, D-1
+#QuestionEnd
+#AnswerStart
+Answer: b) A-2, B-1, C-4, D-3
+#AnswerEnd
+
+#QuestionStart
+Q182) Arrange the following battles of the Mughal period in chronological order- [Chhattisgarh P.C.S. (Pre) 2008]
+1. Battle of Ghaghra
+2. Battle of Khanwa
+3. Battle of Chausa
+4. Battle of Samugarh
+Select the answer from the codes given below:
+a) 2, 1, 3 and 4
+b) 1, 3, 2 and 4
+c) 3, 2, 1 and 4
+d) 2, 3, 1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 2, 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q183) Which ruler of Vijayanagara had sent his ambassador to the emperor of China? [Chhattisgarh P.C.S. (Pre) 2008]
+a) Hariharaa-I
+b) Bukka-I
+c) Krishnadcva Raya
+d) Saluva Narasimha
+#QuestionEnd
+#AnswerStart
+Answer: b) Bukka-I
+#AnswerEnd
+
+#QuestionStart
+Q184) Who was Nicolo Conti? [M.P.P.C.S. (Pre) 2016]
+a) A famous painter
+b) An Italian traveller who visited Vijayanagara empire
+c) A Portuguese traveller
+d) A Persian traveller
+#QuestionEnd
+#AnswerStart
+Answer: b) An Italian traveller who visited Vijayanagara empire
+#AnswerEnd
+
+#QuestionStart
+Q185) What was the name of Shivaji’s Guru? [M.P.P.C.S. (Pre) 2016]
+a) Ramdas
+b) Tukaram
+c) Vaman Pandit
+d) Gaga Bhatt
+#QuestionEnd
+#AnswerStart
+Answer: a) Ramdas
+#AnswerEnd
+
+#QuestionStart
+Q186) Which Mughal emperor is known by the name of ‘Rangila’? [M.P.P.C.S. (Pre) 2014]
+a) Farrukh Siyar
+b) Rafi-ud-Darazat
+c) Muhammad Shah
+d) Rafi-ud-Daula
+#QuestionEnd
+#AnswerStart
+Answer: c) Muhammad Shah
+#AnswerEnd
+
+#QuestionStart
+Q187) Which of the following Mughal Emperors introduced educational reforms? [M.P.P.C.S. (Pre) 2014]
+a) Jahangir
+b) Shah Jahan
+c) Humayun
+d) Akbar
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbar
+#AnswerEnd
+
+#QuestionStart
+Q188) The famous Hazara temple of Vijayanagara was built during the reign of- [M.P.P.C.S. (Pre) 2014]
+a) Krishnadeva Raya
+b) Deva Raya-I
+c) Deva Raya-II
+d) Hariharaa-I
+#QuestionEnd
+#AnswerStart
+Answer: c) Deva Raya-II
+#AnswerEnd
+
+#QuestionStart
+Q189) Durgavati, who fought against Akbar, was the queen of- [M.P.P.C.S. (Pre) 2010]
+a) Mandla
+b) Mandu
+c) Asirgarh
+d) Ramgarh
+#QuestionEnd
+#AnswerStart
+Answer: a) Mandla
+#AnswerEnd
+
+#QuestionStart
+Q190) Match the following events with their respective years: [M.P. P.C.S. (Pre) 1994]
+| List-I | List-II |
+|---|---|
+| A. Massacres in Delhi by Nadir Shah | 1. 1556 |
+| B. First battle of Panipat was fought between Babur and Ibrahim Lodi | 2. 1526 |
+| C. Second battle of Panipat was fought between Hemu and Akbar | 3. 1761 |
+| D. Third battle of Panipat was fought between Ahmad Shah Abdali and Marathas | 4. 1739 |
+Code:
+a) A-1, B-4, C-3, D-2
+b) A-3, B-1, C-4, D-2
+c) A-4, B-2, C-1, D-3
+d) A-1, B-3, C-2, D-4
+#QuestionEnd
+#AnswerStart
+Answer: c) A-4, B-2, C-1, D-3
+#AnswerEnd
+
+#QuestionStart
+Q191) Jahangir Mahal is located at- [M.P.P.C.S. (Pre) 1990]
+a) Delhi
+b) Aurangabad
+c) Agra
+d) Lahore
+#QuestionEnd
+#AnswerStart
+Answer: c) Agra
+#AnswerEnd
+
+#QuestionStart
+Q192) What is Golconda called at present? [M.P.P.C.S. (Pre) 1990]
+a) Hyderabad
+b) Karnataka
+c) Bijapur
+d) Banglore
+#QuestionEnd
+#AnswerStart
+Answer: a) Hyderabad
+#AnswerEnd
+
+#QuestionStart
+Q193) Which one of the following buildings is known as ‘Shah-i-Fatehpur’? [Uttarakhand P.C.S. (Pre) 2016]
+a) Buland Darwazah
+b) Turky Sultana ka Mahal
+c) Jama Masjid
+d) Shahjadi Umber ka Mahal
+#QuestionEnd
+#AnswerStart
+Answer: c) Jama Masjid
+#AnswerEnd
+
+#QuestionStart
+Q194) Which monument is not at Fatehpur Sikri? [Uttarakhand P.C.S. (Pre) 2012]
+a) Golden Palace
+b) Panch Mahal
+c) Jodha Bai Palace
+d) Akbari Mahal
+#QuestionEnd
+#AnswerStart
+Answer: d) Akbari Mahal
+#AnswerEnd
+
+#QuestionStart
+Q195) After the downfall of the Delhi Sultanate, who was the first ruler to issue the gold coins? [Uttarakhand P.C.S. (Pre) 2012]
+a) Akbar
+b) Humayun
+c) Shah Jahan
+d) Sher Shah
+#QuestionEnd
+#AnswerStart
+Answer: b) Humayun
+#AnswerEnd
+
+#QuestionStart
+Q196) What was "district’ known as during the Mughal administration? [Uttarakhand P.C.S. (Pre) 2004]
+a) Ahar
+b) Vishyas
+c) Suba
+d) Sarkar
+#QuestionEnd
+#AnswerStart
+Answer: d) Sarkar
+#AnswerEnd
+
+#QuestionStart
+Q197) Match list-I with list-II and select the correct answer by using the codes given below: [Uttarakhand P.C.S. (Pre) 2003]
+| List-I | List-II |
+|---|---|
+| A. Adil Shahi | 1. Ahmednagar |
+| B. Qutb Shahi | 2. Bijapur |
+| C. Nizarn Shahi | 3. Golconda |
+| D. Sharqi Shahi | 4. Jaunpur |
+Code:
+a) A-1, B-2, C-3, D-4
+b) A-2, B-3, C-4, D-1
+c) A-3, B-4, C-1, D-2
+d) A-2, B-3, C-1, D-4
+#QuestionEnd
+#AnswerStart
+Answer: d) A-2, B-3, C-1, D-4
+#AnswerEnd
+
+#QuestionStart
+Q198) The empire of Babur included- [Uttarakhand P.C.S. (Pre) 2003]
+1. The area of Kabul
+2. The area of Punjab
+3. The area of modern Uttar Pradesh
+4. The area of modern Rajasthan
+Which of these statements are correct?
+a) J. and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q199) Which improvements among these done by Slier Shah Suri? [Uttarakhand P.C.S. (Pre) 2003]
+1. Revenue reforms
+2. Administrative reforms
+3. Military reforms
+4. Currency system reforms
+Select the right answer by using the code given below.
+a) 1 and 2
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q200) Arrange the following four foreign invasions in chronological order and find the correct answer from the code given below: [Uttarakhand PCS (Pre) 2002]
+1. Ahmad Shah Abdali
+2. Genghis Khan
+3. Nadir Shah
+4. Timur
+Code:
+a) 1, 2, 3, 4
+b) 4, 3, 2, 1
+c) 2, 4, 3, 1
+d) 2, 4, 1, 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 4, 3, 1
+#AnswerEnd
+
+#QuestionStart
+Q201) Which Mughal emperor followed Ottoman system of war in India [Jharkhand PCS (Mains) 2016]
+a) Akbar
+b) Shah Jahan
+c) Babar
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Babar
+#AnswerEnd
+
+#QuestionStart
+Q202) The pure silver ‘rupiya’ was issued by- [Jharkhand P.C.S. (Pre) 2016]
+a) Akbar
+b) Sher Shah
+c) Jahangir
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: b) Sher Shah
+#AnswerEnd
+
+#QuestionStart
+Q203) Which monument built by Akbar architected alike Buddhist Monastery? [Jharkhand P.C.S. (Pre) 2003]
+a) Panch Mahal
+b) Diwan-i-Khas
+c) Jodha Bai Mahal
+d) Buland Darwaza
+#QuestionEnd
+#AnswerStart
+Answer: a) Panch Mahal
+#AnswerEnd
+
+#QuestionStart
+Q204) First Englishman visited Akbar’s court was- [Jharkhand P.C.S. (Pre) 2003]
+a) Ralph Fitch
+b) Sir Thomas Roe
+c) John Hawkins
+d) Peter Mundi
+#QuestionEnd
+#AnswerStart
+Answer: a) Ralph Fitch
+#AnswerEnd
+
+#QuestionStart
+Q205) Which Mughal Emperor was known as ‘Zinda Peer’? [Jharkhand P.C.S. (Pre) 2003]
+a) Akbar
+b) Aurangzeb
+c) Shah Jahan
+d) Jahangir
+#QuestionEnd
+#AnswerStart
+Answer: b) Aurangzeb
+#AnswerEnd
+
+#QuestionStart
+Q206) Consider the following statements and choose the correct answer using the code given below. [R.A.S./R.T.S. (Pre.) 2021]
+Statement 1: Krishnadevaraya, ruler of Vijaynagar wrote the treatise Amuktamalyada.
+Statement 2: Krishnadevaraya is also known by the name of Andhra Bhoj.
+Statement 3: Allasani Peddana, the poet laureate well versed in Sanskrit and Tamil, adorned his court.
+Code:
+a) Statement 1 is true
+b) Statement 2 is true
+c) Both the statements 1 & 2 are true
+d) All the three statements are true
+#QuestionEnd
+#AnswerStart
+Answer: c) Both the statements 1 & 2 are true
+#AnswerEnd
+
+#QuestionStart
+Q207) The Persian translation of Mahabharata, which was done in the 16th century is called- [R.A.S./R.T.S. (Pre) 2016]
+a) Alamgirnama
+b) Razmanama
+c) Hamzanama
+d) Badshahnama
+#QuestionEnd
+#AnswerStart
+Answer: b) Razmanama
+#AnswerEnd
+
+#QuestionStart
+Q208) Read the statement and below and choose the correct answer from the codes given below: [R.A.S./R.T.S.(Pre) 2013]
+1. Not all the Mansabdars were military officers.
+2. Those who held high civil posts under the Mughals were also mansabdars and were graded accordingly.
+Code:
+a) both 1 and 2 are false.
+b) both l and 2 are true.
+c) 1 is true, while 2 is false.
+d) 1 is false, while 2 is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) both l and 2 are true.
+#AnswerEnd
+
+#QuestionStart
+Q209) Which Rajput ruler continued his struggle for independence against Mughals and did not surrender? [R.A.S./R.T.S.(Pre) 2012]
+a) Raja Rai Singh of Bikaner
+b) Rao Chandrasena of Marwar
+c) Raja Bharmal of Amber
+d) Maharana Amar Singh of Mewar
+#QuestionEnd
+#AnswerStart
+Answer: b) Rao Chandrasena of Marwar
+#AnswerEnd
+
+#QuestionStart
+Q210) During Akbar period, land revenue system “Ain-i-Dahsala” was developed by: [R.A.S./R.T.S. (Pre) 2010]
+a) Shahnawaz Khan
+b) Abdur Rahim Khan-i-Khanan
+c) Todarmal
+d) Mulla Do Pyaza
+#QuestionEnd
+#AnswerStart
+Answer: c) Todarmal
+#AnswerEnd
+
+#QuestionStart
+Q211) The Ashtadiggajas’ were associated with which of the following rulers? [R.A.S./R.T.S. (Pre) 2010]
+a) Shiva]i
+b) Krishnadeva Raya
+c) Rajendra-I
+d) Yashovarman
+#QuestionEnd
+#AnswerStart
+Answer: b) Krishnadeva Raya
+#AnswerEnd
+
+#QuestionStart
+Q212) The book’ Jiz Muhammad Shahi’ related to knowledge of Astrology produced in 1773 is written by: [R.A.S./R.T.S.(Pre) 2007]
+a) Darbar Jaswant Singh of Jodhpur
+b) Raja Bharmal of Amber
+c) Swai Jai Singh of Jaipur
+d) Maharana Amar Singh of Udaipur
+#QuestionEnd
+#AnswerStart
+Answer: c) Swai Jai Singh of Jaipur
+#AnswerEnd
+
+#QuestionStart
+Q213) Which historical monument in Delhi is a synthesis of Persian and Indian styles of Architectures? [R.A.S./R.T.S.(Pre) 2003]
+a) Qutb Minar
+b) Lodis Tomb
+c) Humayuns Tomb
+d) Red Fort
+#QuestionEnd
+#AnswerStart
+Answer: c) Humayuns Tomb
+#AnswerEnd
+
+#QuestionStart
+Q214) Who built famous Jama Masjid of Delhi? [R.A.S./R.T.S. (Pre) 1997]
+a) Humayun
+b) Shah Jahan
+c) Akbar
+d) Ibrahim Lodi
+#QuestionEnd
+#AnswerStart
+Answer: b) Shah Jahan
+#AnswerEnd
+
+#QuestionStart
+Q215) Which one of the following factors is not conducive in establishing Akbar as a nationalist- [R.A.S./R.T.S. (Pre) 1994]
+a) Akbar had forsaken Islam
+b) Administrative unity and unity in Law
+c) Akbar’s effort at cultural unity
+d) Akbar’s religious policy
+#QuestionEnd
+#AnswerStart
+Answer: a) Akbar had forsaken Islam
+#AnswerEnd
+
+#QuestionStart
+Q216) Ruler of Kashmir who was also known as Akbar of Kashmir’ was- [R.A.S./R.T.S. (Pre) 1993]
+a) Shamshuddin Shah
+b) Sikandar Butshikan
+c) Haidar Shah
+d) Zain-ul-Abidin
+#QuestionEnd
+#AnswerStart
+Answer: d) Zain-ul-Abidin
+#AnswerEnd
+
+#QuestionStart
+Q217) The main aim of Akbar in fighting the Battle of Haldighati was- [R.A.S. / R.T.S. (Pre) 1992]
+a) To subdue Rana Pratap
+b) To polarise Rajputs
+c) To satisfy sentiments of Man Singh
+d) Imperial policy
+#QuestionEnd
+#AnswerStart
+Answer: a) To subdue Rana Pratap
+#AnswerEnd
+
+#QuestionStart
+Q218) The famous painter of Mughal Emperor Akbar was- [R.A.S./R.T.S. (Pre) 1992]
+a) Abul Hasan
+b) Daswant
+c) Kisan Das
+d) Ustad Mansoor
+#QuestionEnd
+#AnswerStart
+Answer: b) Daswant
+#AnswerEnd
+
+#QuestionStart
+Q219) Who among the following defeated Babur in the Battle of Sar-e-Pul? [U.P. Lower Sub. (Pre) 2015]
+a) Abdullah Khan Uzbeg
+b) Shaybani Khan
+c) Ubaydullah Khan
+d) Jani Begh
+#QuestionEnd
+#AnswerStart
+Answer: b) Shaybani Khan
+#AnswerEnd
+
+#QuestionStart
+Q220) In whose reign was the ‘Treaty of Chittor’ signed between Mughal and the Rana of Mewar? [U.P. Lower Sub. (Pre) 2008]
+a) Akbar
+b) Jahangir
+c) Shah Jahan
+d) Aurangzeb
+#QuestionEnd
+#AnswerStart
+Answer: b) Jahangir
+#AnswerEnd
+
+#QuestionStart
+Q221) Which of the following Rajputana state did not accept the supremacy of Akbar willingly? [U.P. Lower Sub. (Pre) 2004]
+a) Amber
+b) Mewar
+c) Marwar
+d) Bikaner
+#QuestionEnd
+#AnswerStart
+Answer: b) Mewar
+#AnswerEnd
+
+#QuestionStart
+Q222) Consider the following statements: [U.P. Lower Sub. (Pre) 1998]
+Assertion(A): Akbar constructed ‘Buland Darwaza at Fatehpur Sikari.
+Reason(R): Akbar built this monument to commemorate the birth of his son Jahangir.
+Which one of the following is correct in reference of above?
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: c) (A) is true, but (R) is false.
+#AnswerEnd

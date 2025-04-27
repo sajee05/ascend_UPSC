@@ -1,0 +1,170 @@
+#QuestionStart
+Q1) With reference to the Digital India Land Records Modernisation Programme, consider the following statements: (2024)
+1. To implement the scheme, the Central Government provides 100% funding.
+2. Under the Scheme, Cadastral Maps are digitised.
+3. An initiative has been undertaken to transliterate the Records of Rights from local language to any of the languages recognized by the Constitution of India.
+Which of the statements given above are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the rule/rules imposed by the Reserve Bank of India while treating foreign banks, consider the following statements: (2024)
+1. There is no minimum capital requirement for wholly owned banking subsidiaries in India.
+2. For wholly owned banking subsidiaries in India, at least 50% of the board members should be Indian nationals.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to Corporate Social Responsibility (CSR) rules in India, consider the following statements: (2024)
+1. CSR rules specify that expenditures that benefit the company directly or its employees will not be considered as CSR activities.
+2. CSR rules do not specify minimum spending on CSR activities.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements: (UPSC- 2022)
+1. Vietnam has been one of the fastest growing economies in the world in the recent years.
+2. Vietnam is led by a multi-party political system.
+3. Vietnam's economic growth is linked to its integration with global supply chains and focus on exports.
+4. For a long time Vietnam's low labour costs and stable exchange rates have attracted global manufacturers.
+5. Vietnam has the most productive eservice sector in the Indo-Pacific region.
+Which of the statements given above are correct?
+a) 2 and 4
+b) 3 and 5
+c) 1, 3 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to casual workers employed in India, consider the following statements: (2021)
+1. All casual workers are entitled for Employees Provident Fund coverage.
+2. All casual workers are entitled for regular working hours and overtime payment.
+3. The government can by a notification specify that an establishment or industry shall pay wages only through its bank account.
+Which of the above statements are correct?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q6) With reference to the Indian Economy after the 1991 economic liberalization, consider the following statements: (2020)
+1. Worker productivity (rupees per worker at 2004-05 prices) increased in urban areas while it decreased in rural areas.
+2. The percentage share of rural areas in the workforce steadily increased.
+3. In rural areas, the growth in the non- farm economy increased.
+4. The growth rate in rural employment decreased.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 and 4 only
+c) 3 only
+d) 1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q7) With reference to land reforms in independent India, which one of the following statements is correct? (2019)
+a) The ceiling laws were aimed at family holdings and not individual holdings.
+b) The major aim of land reforms was providing agricultural land to all the landless.
+c) It resulted in cultivation of cash crops as a predominant form of cultivation.
+d) Land reforms permitted no exemptions to the ceiling limits.
+#QuestionEnd
+#AnswerStart
+Answer: b) The major aim of land reforms was providing agricultural land to all the landless.
+#AnswerEnd
+
+#QuestionStart
+Q8) With reference to India’s Five-Year Plans, which of the following statements is/are correct? (2019)
+1. From the Second Five-Year Plan, there was a determined thrust towards substitution of basic and capital goods industries.
+2. The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.
+3. In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following have occurred in India after its liberalization of economic policies in 1991? (2017)
+1. Share of agriculture in GDP increased enormously.
+2. Share of India's exports in world trade increased.
+3. FDI inflows increased.
+4. India's foreign exchange reserves increased enormously.
+Select the correct answer using the codes given below:
+a) 1 and 4 only
+b) 2, 3 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 and 4 only
+#AnswerEnd
+
+#QuestionStart
+Q10) The main objective of the 12th Five-Year Plan is: (2014)
+a) inclusive growth and poverty reduction
+b) inclusive and sustainable growth
+c) sustainable and inclusive growth to reduce unemployment
+d) faster, sustainable, and more inclusive growth
+#QuestionEnd
+#AnswerStart
+Answer: d) faster, sustainable, and more inclusive growth
+#AnswerEnd
+
+#QuestionStart
+Q11) Disguised unemployment generally means: (2013)
+a) large number of people remain unemployed
+b) alternative employment is not available
+c) marginal productivity of labour is zero
+d) productivity of workers is low
+#QuestionEnd
+#AnswerStart
+Answer: c) marginal productivity of labour is zero
+#AnswerEnd
+
+#QuestionStart
+Q12) How do District Rural Development Agencies (DRDAs) help in the reduction of rural poverty in India? (2012)
+1. DRDAs act as Panchayati Raj Institutions in certain specified backward regions of the country.
+2. DRDAs undertake area-specific scientific study of the causes of poverty and malnutrition and prepare detailed remedial measures.
+3. DRDAs secure inter-sectoral and inter-departmental coordination and cooperation for effective implementation of anti-poverty programmes.
+4. DRDAs watch over and ensure effective utilization of the funds intended for anti-poverty programmes.
+Which of the statements given above is/are correct?
+a) 1, 2 and 3 only
+b) 3 and 4 only
+c) 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 and 4 only
+#AnswerEnd

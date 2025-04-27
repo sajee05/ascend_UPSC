@@ -1,0 +1,2227 @@
+#QuestionStart
+Q41) Which one of the following pairs is NOT correctly matched? [U.P.P.C.S. (Pre) 2022]
+| State | Number of Members in the Legislative Assembly |
+|---|---|
+| (a) Goa | 40 |
+| (b) Uttarakhand | 70 |
+| (c) Manipur | 62 |
+| (d) Uttar Pradesh | 403 |
+#QuestionEnd
+#AnswerStart
+Answer: c) Manipur 62
+#AnswerEnd
+
+#QuestionStart
+Q42) The Public Accounts Committee of Indian Parliament scrutinizes the- [U.P. P.C.S. (Pre) 2021]
+a) Report of the comptroller and auditor general
+b) Consolidated fund of India
+c) Public Account of India
+d) Contingency fund of India
+#QuestionEnd
+#AnswerStart
+Answer: a) Report of the comptroller and auditor general
+#AnswerEnd
+
+#QuestionStart
+Q43) Which of the following Articles of the Indian Constitution is related to Contingency Fund? [U.P.P.C.S. (Pre) 2021]
+a) Article 265
+b) Article 266
+c) Article 267
+d) Article 268
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 267
+#AnswerEnd
+
+#QuestionStart
+Q44) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List -I | List-II |
+|---|---|
+| A. Indian Arms Act | 1. 1876 |
+| B. Royal Title Act | 2. 1878 |
+| C. Indian High Court | 3. 1869 |
+| D. Indian Divorce Act | 4. 1861 |
+[UPPCS (Pre) 2020]
+Code:
+a) A2 B3 C1 D4
+b) A3 B1 C2 D4
+c) A1 B2 C3 D4
+d) A2 B1 C4 D3
+#QuestionEnd
+#AnswerStart
+Answer: d) A2 B1 C4 D3
+#AnswerEnd
+
+#QuestionStart
+Q45) Mazdoor Kisan Shakti Sangathan (MKSS), a Social Movement has been associated with which of the following in India? [U.P.P.C.S. (Pre) 2019]
+a) RTE Act
+b) RTIAct
+c) MGNREGA
+d) National Health Mission (NHM)
+#QuestionEnd
+#AnswerStart
+Answer: b) RTIAct
+#AnswerEnd
+
+#QuestionStart
+Q46) The Council of States has exclusive powers in relation to which of the following? [U.P.P.C.S. (Pre) 2018]
+a) To initiate proceedings for the removal of the President
+b) To initiate proceedings for the removal of a judges of the Supreme Court
+c) To recommend creation of a new All India Service
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) To recommend creation of a new All India Service
+#AnswerEnd
+
+#QuestionStart
+Q47) What can be the maximum representation from the Union Territories to the Lok Sabha? [U.P.P.C.S. (Pre) 2018]
+a) 15
+b) 20
+c) 25
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 20
+#AnswerEnd
+
+#QuestionStart
+Q48) After how many days of absence from Parliament without permission can an M.P. be disqualified? [U.P.P.C.S. (Pre) 2018]
+a) 30 days
+b) 60 days
+c) 90 days
+d) 120 days
+#QuestionEnd
+#AnswerStart
+Answer: b) 60 days
+#AnswerEnd
+
+#QuestionStart
+Q49) What is the quorum to constitute a meeting of Lok Sabha? [U.P.P.C.S. (Pre) 2017]
+a) One sixth of the total members of the House.
+b) One tenth of the total members of the House.
+c) One fourth of the total members of the House
+d) One third of the total members of the House
+#QuestionEnd
+#AnswerStart
+Answer: b) One tenth of the total members of the House.
+#AnswerEnd
+
+#QuestionStart
+Q50) Which one of the following is not a collective privilege of the members of Parliament? [U.P.P.C.S. (Pre) 2017]
+a) Freedom of debates and proceedings.
+b) The Rights to regulate the internal matters of the Parliament
+c) Freedom from attendance as Witness.
+d) The privileges of excluding strangers from the house.
+#QuestionEnd
+#AnswerStart
+Answer: c) Freedom from attendance as Witness.
+#AnswerEnd
+
+#QuestionStart
+Q51) A Bill which merely involves expenditure and does not include any of the matters specified in Article 110 can be: [U.P.P.C.S. (Mains) 2016]
+a) Initiated only in Lok Sabha
+b) Initiated in either House of Parliament
+c) Initiated only in Rajya Sabha
+d) Initiated only in joint session of both House of Parliament
+#QuestionEnd
+#AnswerStart
+Answer: b) Initiated in either House of Parliament
+#AnswerEnd
+
+#QuestionStart
+Q52) In case the Deputy Speaker is presiding the Lok Sabha he has right to [U.P.P.C.S. (Mains) 2016]
+a) Take part in its deliberations
+b) Vote on any proposition before the house as a member
+c) Vote in the event of equality of votes
+d) No right to preside a joint sitting of the House of Parliament in case the Speaker is absent
+#QuestionEnd
+#AnswerStart
+Answer: c) Vote in the event of equality of votes
+#AnswerEnd
+
+#QuestionStart
+Q53) Who among the following is the final authority to decide any question relating to disqualification of a Member of a House of Legislature of a State? [U.P.P.C.S. (Mains) 2016]
+a) Governor
+b) Speaker of the Legislative Assembly
+c) Chief Minister
+d) High Court
+#QuestionEnd
+#AnswerStart
+Answer: a) Governor
+#AnswerEnd
+
+#QuestionStart
+Q54) Which one of the following Articles of the Constitution provides that the Speaker shall have and exercise a casting vote in the case of an equality of votes? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Article 99
+b) Article 103
+c) Article 100
+d) Article 102
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 100
+#AnswerEnd
+
+#QuestionStart
+Q55) Who can legislate on the subjects which are not included in any of the lists of subjects given in the Constitution? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Supreme Court
+b) Parliament
+c) State Legislature
+d) Regional Councils
+#QuestionEnd
+#AnswerStart
+Answer: b) Parliament
+#AnswerEnd
+
+#QuestionStart
+Q56) The Union Territories get representation in- [U.P.P.C.S. (Mains) 2015]
+a) Lok Sabha
+b) Rajya Sabha
+c) Both Houses of Parliament
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Both Houses of Parliament
+#AnswerEnd
+
+#QuestionStart
+Q57) Which one of the following is authorized to prorogue the session of the House of the People? [U.P.P.C.S. (Mains) 2015]
+a) Speaker
+b) Attorney General
+c) Minister of Parliamentary
+d) President
+#QuestionEnd
+#AnswerStart
+Answer: d) President
+#AnswerEnd
+
+#QuestionStart
+Q58) Which of the following is related to the Right to Information Act, 2005? [U.P.P.C.S. (Pre) (Re. Exam) 2015]
+a) Lily Thomas v/s Union of India
+b) Nandini Sundar v/s State of Chhattisgarh
+c) Namit Sharma v/s Union of India
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Namit Sharma v/s Union of India
+#AnswerEnd
+
+#QuestionStart
+Q59) Which of the following are correct about the Rajya Sabha?
+1. It is not subject to dissolution.
+2. It has a term of five years.
+3. One-third of its members retire after every two years.
+4. Its members shall not be less than 25 years of age.
+Select the correct answer using the code given below: [U.P.P.C.S. (Pre) 2014]
+a) 1, 2 and 3
+b) 2, 3 and 4
+c) 1 and 3
+d) 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3
+#AnswerEnd
+
+#QuestionStart
+Q60) Who among the following presides over a joint sitting of two houses of Parliament? [U.P.P.C.S. (Pre) 2014]
+a) President
+b) Prime Minister
+c) Chairman of the Rajya Sabha
+d) Speaker of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d) Speaker of the Lok Sabha
+#AnswerEnd
+
+#QuestionStart
+Q61) Parliament may legislate on any subject of State List when- [U.P.P.C.S. (Pre) 2012]
+a) There is assent of President
+b) Resolution thereof has been passed by State
+c) In any situation
+d) General permission of State Legislative Assembly has been received
+#QuestionEnd
+#AnswerStart
+Answer: b) Resolution thereof has been passed by State
+#AnswerEnd
+
+#QuestionStart
+Q62) On which of the following, a Parliamentary Committee has not been set up? [U.P.P.C.S. (Mains) 2012]
+a) Public Undertakings
+b) Government Assurances
+c) Estimates
+d) Welfare of Minorities
+#QuestionEnd
+#AnswerStart
+Answer: d) Welfare of Minorities
+#AnswerEnd
+
+#QuestionStart
+Q63) No money Billcanbeintroducedin Assembly of a State, except on the recommendations of- [U.P.P.C.S. (Pre) 2012]
+a) The Parliament
+b) The Governor of the State
+c) The President of India
+d) A special Committee of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: b) The Governor of the State
+#AnswerEnd
+
+#QuestionStart
+Q64) Which one of the following is not correct with regard to the elections to the Lok Sabha? [U.P.P.C.S. (Mains) 2011]
+a) The elections are on the basis of adult suffrage.
+b) The Election Commission is required to conduct the elections.
+c) The electoral rolls are prepared under the direction and control of the President of India.
+d) On the request oftheElection Commission, the President is required to make available to the Election Commission such staff as may be necessary for the discharge of its functions.
+#QuestionEnd
+#AnswerStart
+Answer: c) The electoral rolls are prepared under the direction and control of the President of India.
+#AnswerEnd
+
+#QuestionStart
+Q65) Which one of the following terms does not appear in the Constitution of India? [U.P.P.C.S. (Mains) 2011]
+a) Annual Financial Statement
+b) Appropriation Bill
+c) Budget
+d) Consolidated Fund of India
+#QuestionEnd
+#AnswerStart
+Answer: c) Budget
+#AnswerEnd
+
+#QuestionStart
+Q66) Which one of the following statements about Rajya Sabha is correct? [U.P.P.C.S. (Mains) 2011]
+a) It is not subject to dissolution.
+b) Its members are chosen by direct election from territorial constituencies in the States.
+c) It is required to choose, as soon as may be a member of the Rajya Sabha to be the Chairman thereof.
+d) The Attorney General of India does not have the right to speak in Rajya Sabha.
+#QuestionEnd
+#AnswerStart
+Answer: a) It is not subject to dissolution.
+#AnswerEnd
+
+#QuestionStart
+Q67) Which one of the following expenditures is not charged on the Consolidated Fund of India? [U.P.P.C.S. (Mains) 2011]
+a) Salary and allowances of the Chief Justice of India
+b) Salary and allowances of the Comptroller and Auditor General of India
+c) Salary and allowances of the Prime Minister of India.
+d) Salary and allowances of the Chairman of the Union Public Service Commission.
+#QuestionEnd
+#AnswerStart
+Answer: c) Salary and allowances of the Prime Minister of India.
+#AnswerEnd
+
+#QuestionStart
+Q68) Which one of the following is not covered by the Anti-Defection Law? [U.P.P.C.S. (Mains) 2010]
+a) An-bloc defections in a Party.
+b) Large defections in a Party in various spells.
+c) Smaller defection in a single spell.
+d) Party members in Parliament casting vote either to topple or support a government.
+#QuestionEnd
+#AnswerStart
+Answer: b) Large defections in a Party in various spells.
+#AnswerEnd
+
+#QuestionStart
+Q69) Which one of the following pairs is not correctly matched? [U.P.P.C.S. (Mains) 2009]
+a) Hindu Marriage Act: 1955
+b) Hindu Succession Act: 1956
+c) 73rd Constitutional Amendment Act: Reservation of seats for women in the election of local bodies in urban areas
+d) Sati (Prevention) Act: 1987
+#QuestionEnd
+#AnswerStart
+Answer: c) 73rd Constitutional Amendment Act: Reservation of seats for women in the election of local bodies in urban areas
+#AnswerEnd
+
+#QuestionStart
+Q70) Which is the only State in India to have the Common Civil Code? [U.P.P.C.S. (Mains) 2009]
+a) Jammu & Kashmir
+b) Mizoram
+c) Nagaland
+d) Goa
+#QuestionEnd
+#AnswerStart
+Answer: d) Goa
+#AnswerEnd
+
+#QuestionStart
+Q71) Members of the Rajya Sabha are not associated with- [U.P.P.C.S. (Spl) (Mains) 2008]
+1. Public Accounts Committee
+2. Estimates Committee
+3. Committee on Public Undertakings
+Choose your answer from the given code,
+a) 1 and 2
+b) Only 3
+c) Only 2
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) Only 2
+#AnswerEnd
+
+#QuestionStart
+Q72) Which of the Constitutional Provision lays down that taxes can neither be levied nor collected without the authority of law? [U.P.P.C.S. (Mains) 2007]
+a) Article 265
+b) Article 266
+c) Article 300
+d) Article 368
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 265
+#AnswerEnd
+
+#QuestionStart
+Q73) At which of the following stages general discussion on a Bill takes place in the Lok Sabha? [U.P.P.C.S. (Mains) 2006]
+a) During introduction of the Bill
+b) During second reading
+c) During report stage
+d) During third reading
+#QuestionEnd
+#AnswerStart
+Answer: b) During second reading
+#AnswerEnd
+
+#QuestionStart
+Q74) Union Parliament may legislate on any subject of State List- [U.P.P.C.S. (Mains) 2005]
+1. To Implement International Agreements
+2. By consent of State
+3. When Proclamation of Emergency is in operation.
+4. In national interest and after a resolution passed by Council of states with 2/3 majority.
+Choose the correct option using codes given below:
+a) 1,2 and 3
+b) 2, 3 and 4
+c) 1,2 and 4
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q75) Match list-I with list-II and select the correct answer using the codes given below the lists:
+| List -I | List-II |
+|---|---|
+| A. Public Accounts Committee | 1. Ad hoc Committee |
+| B. Committee on Petitions | 2. Standing Committee |
+| C. Joint Committee on Stock Market Scam | 3. Financial Committee |
+| D. Departmental Committees | 4. Functional Committee |
+Code: [U.P.P.C.S. (Mains) 2005]
+a) A1 B4 C3 D2
+b) A2 B3 C4 D1
+c) A3 B4 C1 D2
+d) A4 B2 C1 D3
+#QuestionEnd
+#AnswerStart
+Answer: c) A3 B4 C1 D2
+#AnswerEnd
+
+#QuestionStart
+Q76) Which one of the following States has the highest number of reserve seats for the Scheduled Tribes in the Lok Sabha? [U.P.P.C.S. (Mains) 2005]
+a) Bihar
+b) Uttar Pradesh
+c) Madhya Pradesh
+d) Gujarat
+#QuestionEnd
+#AnswerStart
+Answer: c) Madhya Pradesh
+#AnswerEnd
+
+#QuestionStart
+Q77) Which one of the following is the period for the Legislative Council to detain the ordinary bills? [U.P.P.C.S. (Mains) 2005]
+a) 3 months
+b) 4 months
+c) 6 months
+d) 14 days
+#QuestionEnd
+#AnswerStart
+Answer: b) 4 months
+#AnswerEnd
+
+#QuestionStart
+Q78) Which of the following are exclusive powers of Lok Sabha in comparison to the Rajya Sabha?
+1. A Money/Finance Bill can be introduced only in the House of the People.
+2. Regarding the rejection or amendment of the Money Bill.
+3. The accountability of the Council of Ministers.
+4. Concerning the creation of one or more All India Services.
+Select the correct answer from the code given below: [U.P.P.C.S. (Spl) (Mains) 2004]
+a) 1, 2, 3, 4
+b) 1,2,3
+c) 1,3,4
+d) 3,4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2,3
+#AnswerEnd
+
+#QuestionStart
+Q79) Economic Survey is presented in Parliament every year- [U.P.P.C.S. (Mains) 2004]
+a) Before presentation of the Budget for the coming year
+b) After presentation of the Budget for the coming year
+c) After presentation of Finance Bill
+d) And has no relation with presentation of the Budget
+#QuestionEnd
+#AnswerStart
+Answer: a) Before presentation of the Budget for the coming year
+#AnswerEnd
+
+#QuestionStart
+Q80) ‘Zero Hour’ is the contribution of which country to the Parliamentary System? [U.P.P.C.S. (Spl) (Mains) 2004]
+a) India
+b) America
+c) Britain
+d) Switzerland
+#QuestionEnd
+#AnswerStart
+Answer: a) India
+#AnswerEnd
+
+#QuestionStart
+Q81) The sitting of House of the People may the terminated by: [U.P.P.C.S. (Pre) 2000]
+a) Adjournment sine die
+b) Prorogation
+c) Dissolution
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q82) Who has the right to issue money from the Consolidated Fund of India? [U.P.P.C.S. (Pre) 2000]
+a) Comptroller and Auditor General
+b) Finance Minister of India
+c) Authorized Minister
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q83) Reservation of seats for Scheduled Tribes in the Lok Sabha does not exist in the states of: [U.P.P.C.S. (Pre) 1998]
+a) Kerala and Tamil Nadu
+b) Karnataka and Kerala
+c) Tamil Nadu and Karnataka
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Kerala and Tamil Nadu
+#AnswerEnd
+
+#QuestionStart
+Q84) Which of the following is not a Social Act? [U.P.P.C.S. (Pre) 1991]
+a) MISA Act
+b) Anti-Dowry Act
+c) Protection of Civil Rights Act
+d) Prevention of Immoral Traffic Act
+#QuestionEnd
+#AnswerStart
+Answer: a) MISA Act
+#AnswerEnd
+
+#QuestionStart
+Q85) How can the President spend from Contingency Fund? [U.P.P.C.S. (Pre) 1991]
+a) In time of natural calamity
+b) After Authorization of parliament.
+c) Before Authorization of Parliament.
+d) Cannot spend.
+#QuestionEnd
+#AnswerStart
+Answer: c) Before Authorization of Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q86) The members of Council of States are elected by- [U.P.P.C.S. (Pre) 1990]
+a) Members of Legislative Assembly of States.
+b) Members of Legislative Council of States.
+c) Members of both Legislative Assembly and Council.
+d) Members of Municipalities and Gram Panchayat.
+#QuestionEnd
+#AnswerStart
+Answer: a) Members of Legislative Assembly of States.
+#AnswerEnd
+
+#QuestionStart
+Q87) Which of the following is a Parliamentary Committee relating to delegation of power to make rules and regulations to the Executive? [67th B.P.S.C. (Pre), 2021]
+a) Committee on Executive Legislation
+b) Committee on Subordinate Legislation
+c) Committee on Administrative Legislation
+d) Committee on Delegated Legislation
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Committee on Subordinate Legislation
+#AnswerEnd
+
+#QuestionStart
+Q88) What constitutes the definition of money bill under article 110 of the Indian Constitution? [66th B.P.S.C. (Pre) (Re-Exam), 2020]
+a) The imposition, abolition, alteration or regulation of any tax
+b) The regulation of borrowings of money
+c) The appropriation of money out of the consolidated fund of India
+d) Declaration of any expenditure to be charged on the consolidated fund of India
+e) None of the above / More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: e) None of the above / More than one of the above
+#AnswerEnd
+
+#QuestionStart
+Q89) In which Article of the Constitution of India was the provision for reservation of scheduled castes in the Lok Sabha made? [64th B.P.C.S. (Pre) 2018]
+a) Article 330
+b) Article 331
+c) Article 332
+d) Article 333
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 330
+#AnswerEnd
+
+#QuestionStart
+Q90) The Rajya Sabha consists of- [53rd to 55th B.P.S.C. (Pre) 2011]
+a) 280 members of which 20 members are nominated by the President of India.
+b) 275 members of which 18 members are nominated by the President of India.
+c) 250 members of which 12 members are nominated by the President of India.
+d) 252 members of which 12 members are nominated by the President of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) 250 members of which 12 members are nominated by the President of India.
+#AnswerEnd
+
+#QuestionStart
+Q91) The Public Accounts Committee submits its reports to- [53rd to 55th B.P.S.C. (Pre) 2011]
+a) The Comptroller and Auditor General
+b) The Speaker of the Lok Sabha
+c) The Minister of Parliamentary Affairs
+d) The President of India
+#QuestionEnd
+#AnswerStart
+Answer: b) The Speaker of the Lok Sabha
+#AnswerEnd
+
+#QuestionStart
+Q92) What is the minimum age laid down for a person to seek election to the Lok Sabha? [45th B.P.S.C. (Pre) 2001]
+a) 18 years
+b) 21 years
+c) 25 years
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) 25 years
+#AnswerEnd
+
+#QuestionStart
+Q93) Before completing its term, the Lok Sabha can be dissolved-[42nd B.P.C.S. (Pre) 1997]
+a) By the discretion of President
+b) By the discretion of Prime Minister
+c) By the discretion of the Speaker of the Lok Sabha
+d) By the President on the recommendation of Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: d) By the President on the recommendation of Prime Minister
+#AnswerEnd
+
+#QuestionStart
+Q94) As per Indian Constitution, Legislature of States consists- [41st B.P.S.C. (Pre) 1996]
+1. Legislative Council and Governor
+2. Legislative Assembly and legislative Council
+3. Legislative Assembly and Governor
+4. Governor, Legislative Assembly and Legislative Council where it exists
+Select your answer out of the following codes-
+a) 3 Only
+b) 2 and 3 Only
+c) 3 and 4 Only
+d) 4 Only
+#QuestionEnd
+#AnswerStart
+Answer: d) 4 Only
+#AnswerEnd
+
+#QuestionStart
+Q95) A candidate of Lok Sabha Poll loses his security amount if he/she does not get- [40th B.P.S.C. (Pre) 1995]
+a) 1/3 of valid votes
+b) 1/4 of valid votes
+c) 1/5 of valid votes
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q96) If the Speaker of Legislative Assembly of a State wants to resign, he will give his resignation to- [40th B.P.S.C. (Pre) 1995]
+a) Chief Minister
+b) Governor
+c) Deputy Speaker
+d) President of India
+#QuestionEnd
+#AnswerStart
+Answer: c) Deputy Speaker
+#AnswerEnd
+
+#QuestionStart
+Q97) Which of the following Articles of Indian Constitution consists of the provision of the election of Legislative Assemblies of States- [40th B.P.S.C. (Pre) 1995]
+a) Article 170
+b) Article 176
+c) Article 178
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 170
+#AnswerEnd
+
+#QuestionStart
+Q98) Who is the leader of the Lok Sabha? [42nd B.P.S.C. (Pre) 1995]
+a) President
+b) Prime Minister
+c) Speaker
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Prime Minister
+#AnswerEnd
+
+#QuestionStart
+Q99) Joint Session of both the Houses of Parliament is concerned- [40th B.P.S.C. (Pre) 1995]
+1. For the election of the President of India
+2. For the election of the vice-President of India
+3. To pass the Bill relating to the amendment of Constitution
+4. To discuss and pass such a Bill where both Houses have different opinion
+Select your answer from the following code
+a) 1 and 4
+b) 3 and 4
+c) 1 and 2
+d) only 4
+#QuestionEnd
+#AnswerStart
+Answer: d) only 4
+#AnswerEnd
+
+#QuestionStart
+Q100) The Representation of States in Council of States is based on-[38th B.P.S.C. (Pre) 1992]
+a) Equal for all States
+b) Ratio of their Population
+c) Ratio of their Area
+d) Ratio of their Revenue
+#QuestionEnd
+#AnswerStart
+Answer: b) Ratio of their Population
+#AnswerEnd
+
+#QuestionStart
+Q101) Who among the following can impose the penalty under Section 20 of the Right to Information Act? [M.P.P.C.S. (Pre), 2021]
+a) Central Information Commission only
+b) State Information Commission only
+c) Central Information Commission or State Information Commission
+d) High Court or Central Information Commission or State Information Commission
+#QuestionEnd
+#AnswerStart
+Answer: c) Central Information Commission or State Information Commission
+#AnswerEnd
+
+#QuestionStart
+Q102) An appeal under Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 shall lie from any Judgement, sentence or order to the high Court: [M.P.P.C.S. (Pre) 2019]
+a) Only on facts
+b) Only on law
+c) Both on facts and law
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Both on facts and law
+#AnswerEnd
+
+#QuestionStart
+Q103) How many seats are reserved for Scheduled Castes in the Lok Sabha? [M.P. P.C.S. (Pre) 2018]
+a) 59
+b) 69
+c) 79
+d) 84
+#QuestionEnd
+#AnswerStart
+Answer: d) 84
+#AnswerEnd
+
+#QuestionStart
+Q104) Who has/had the power to make rules for carrying out the purposes of the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989? [M.P.P.C.S. (Pre) 2016]
+a) The State Government
+b) The Central Government
+c) Both and
+d) The Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: b) The Central Government
+#AnswerEnd
+
+#QuestionStart
+Q105) Offences are tried under the Protection of Civil Rights Act, 1955 by the Courts of- " [M.P.P.C.S. (Pre) 2014]
+a) Sessions Court
+b) Judicial Magistrate First Class
+c) Judicial Magistrate Second Class
+d) Chief Judicial Magistrate
+#QuestionEnd
+#AnswerStart
+Answer: b) Judicial Magistrate First Class
+#AnswerEnd
+
+#QuestionStart
+Q106) Who is empowered for imposition and realization of a collective fine under SC and ST (Prevention of Atrocities) Act, 1989 [M.P.P.C.S. (Pre) 2014]
+a) District Magistrate
+b) State Government
+c) Special Court
+d) High Court
+#QuestionEnd
+#AnswerStart
+Answer: b) State Government
+#AnswerEnd
+
+#QuestionStart
+Q107) Which Article of the Indian Constitution provides the provision of Vidhan Parishad in the State? [M.P.P.C.S. (Pre) 2014]
+a) Article 170
+b) Article 171
+c) Article 172
+d) Article 173
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 171
+#AnswerEnd
+
+#QuestionStart
+Q108) Under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act 1989, which of the following is barred? [M.P.P.C.S. (Pre) 2013]
+a) Anticipatory Bail
+b) Post-arrest bail
+c) Benefit of probation
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Anticipatory Bail
+#AnswerEnd
+
+#QuestionStart
+Q109) The State Government can specify a Court of Session to be a Special Court to try the offences under the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 with the concurrence of the- [M.P.P.C.S. (Pre) 2013]
+a) Governor
+b) Chief Justice of High Court
+c) Session Judge of concerned district
+d) Ministry of Law
+#QuestionEnd
+#AnswerStart
+Answer: b) Chief Justice of High Court
+#AnswerEnd
+
+#QuestionStart
+Q110) A court can presume that any act constituting offence was committed on the ground of untouchability - if such offence is committed in relation to- [M.P.P.C.S. (Pre) 2013]
+a) a member of Scheduled Castes
+b) a member of Scheduled Tribes
+c) a member of any community
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) a member of Scheduled Castes
+#AnswerEnd
+
+#QuestionStart
+Q111) The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act is a special provision for the advancement of Scheduled Castes and Scheduled Tribes which is based on which one of the following doctrines? [M.P.P.C.S. (Pre) 2012]
+a) Doctrine of Severability
+b) Doctrine of Preferred Position
+c) Doctrine of Protective discrimination
+d) Doctrine of Harmonious Construction
+#QuestionEnd
+#AnswerStart
+Answer: c) Doctrine of Protective discrimination
+#AnswerEnd
+
+#QuestionStart
+Q112) Who was the First Speaker of Lok Sabha? [M.P.P.C.S. (Pre) 2012]
+a) Mavalankar
+b) Hukum Singh
+c) B.D. Jatti
+d) V.V. Giri
+#QuestionEnd
+#AnswerStart
+Answer: a) Mavalankar
+#AnswerEnd
+
+#QuestionStart
+Q113) All offences punishable under the Protection of Civil Rights Act, 1955 are: [M.P.P.C.S. (Pre) 2012]
+a) Cognizable and Non-bailable
+b) Cognizable and Non-compoundable
+c) Non-cognizable and Bailable
+d) Non-cognizable and Compoundable
+#QuestionEnd
+#AnswerStart
+Answer: b) Cognizable and Non-compoundable
+#AnswerEnd
+
+#QuestionStart
+Q114) The Protection of Civil Rights Act extends to: [M.P.P.C.S. (Pre) 2012]
+a) The whole of India
+b) The whole of India except the Scheduled areas
+c) The whole of India except the State of Jammu and Kashmir
+d) The whole of India except the Union Territories of Goa, Daman and Diu
+#QuestionEnd
+#AnswerStart
+Answer: a) The whole of India
+#AnswerEnd
+
+#QuestionStart
+Q115) Consider the following statements with respect to qualification to become the member of Rajya Sabha and select the correct answer from the code given below:
+(1) Should be at least 30 years of age
+(2) Should be registered as a voter on the list of voters in the state from which the candidate is to be elected
+(3) Should not hold office of profit under the state
+Code: [M.P.P.C.S. (Pre) 2008]
+a) (1) and (2) are correct
+b) (1) and (3) are correct
+c) (2) and (3) are correct
+d) (1), (2) and (3) are correct
+#QuestionEnd
+#AnswerStart
+Answer: b) (1) and (3) are correct
+#AnswerEnd
+
+#QuestionStart
+Q116) Who prorogues the Vidhan Sabha of a State? [M.P.P.C.S. (Pre) 2002]
+a) Governor
+b) Vidhan Sabha Speaker
+c) Chief Minister
+d) Law Minister
+#QuestionEnd
+#AnswerStart
+Answer: a) Governor
+#AnswerEnd
+
+#QuestionStart
+Q117) How can the speaker of the Lok Sabha be removed? [M.P.P.C.S. (Mains) 1994]
+a) By a resolution of Lok Sabha passed by a two-third Majority of members present.
+b) By a resolution of the Lok Sabha passed by a majority of all the members of the House.
+c) By President on the advice of the Prime Minister.
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: b) By a resolution of the Lok Sabha passed by a majority of all the members of the House.
+#AnswerEnd
+
+#QuestionStart
+Q118) In which assembly of States, money Bills are proposed? [M.P.P.C.S. (Pre) 1993]
+a) Any one of the two
+b) Together in both
+c) Only in Legislative Assembly
+d) Only in upper chamber
+#QuestionEnd
+#AnswerStart
+Answer: c) Only in Legislative Assembly
+#AnswerEnd
+
+#QuestionStart
+Q119) What is the consequence of the failure of Government in Rajya Sabha? [M.P.P.C.S. (Pre) 1990]
+a) Prime Minister gives his resignation
+b) Parliament will dissolve
+c) The operation of President Rule
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q120) In any State of India, Legislative Council can be created or can be abolished by [U.P. Lower (Spl) (Pre) 2008]
+a) the President on the recommendation of the Governor of the State
+b) the Parliament
+c) the Parliament as per Resolution passed by the Legislative Assembly of the State
+d) The Governor on the recommendation of the Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: c) the Parliament as per Resolution passed by the Legislative Assembly of the State
+#AnswerEnd
+
+#QuestionStart
+Q121) The ‘Contingency Fund’ of the State is operated by- [U.P. Lower Sub. (Spl) (Pre) 2004]
+a) The Governor of the State
+b) The Chief Minister of the State
+c) The State Finance Minister
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) The Governor of the State
+#AnswerEnd
+
+#QuestionStart
+Q122) Which one of the following is not basic element of the citizen charter? [R.A.S./R.T.S. (Pre) 2021]
+a) Description of services being provided by department of the agency
+b) Promotion of various methods to get benefit from the services available
+c) To expect any public record
+d) Provision for the inspection of the agency’s work
+#QuestionEnd
+#AnswerStart
+Answer: d) Provision for the inspection of the agency’s work
+#AnswerEnd
+
+#QuestionStart
+Q123) Which of the following is not true about the objectives of the Right to Information Act? [R.A.S./R.T.S. (Pre) 2021]
+a) To promote transparency and accountability in the working of the government
+b) To make our democracy work for the people in real sense
+c) To empower the women and weaker sections of the society
+d) To empower citizens
+#QuestionEnd
+#AnswerStart
+Answer: c) To empower the women and weaker sections of the society
+#AnswerEnd
+
+#QuestionStart
+Q124) Which of the following statement about resolution adopted by a State Legislative Assembly under Article 169 of the Constitution of India for the abolition of the State Legislative Council is correct? [R.A.S./R.T.S. (Pre) 2021]
+a) It does impose an obligation on the Governor to reserve resolution for the consideration of the President.
+b) It does not impose an obligation on the Union Government to take action for initiating legislative in Parliament.
+c) It does not impose an obligation on the Governor to reserve resolution for the consideration of the President.
+d) It does impose an obligation on the Union Government to take action for initiating legislation in Parliament.
+#QuestionEnd
+#AnswerStart
+Answer: b) It does not impose an obligation on the Union Government to take action for initiating legislative in Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q125) The President of India addresses the Parliament under Article 87 of the Indian Constitution- [R.A.S./R.T.S. (Pre) 2018]
+a) in a joint sitting of both Houses of Parliament.
+b) in a joint meeting of both Houses of Parliament.
+c) in a joint session of both Houses of Parliament.
+d) both Houses of Parliament assembled together.
+#QuestionEnd
+#AnswerStart
+Answer: d) both Houses of Parliament assembled together.
+#AnswerEnd
+
+#QuestionStart
+Q126) Which of the following are Financial Committees of Indian Parliament?
+1. Estimates Committee
+2. Public Accounts Committee
+3. Committee on Public Undertakings
+4. Joint Committee on Salaries and Allowance for Members of Parliament
+Select the correct answer using code given below: [R.A.S./R.T.S. (Pre) 2018]
+a) 1, 3 and 4
+b) 1, 2 and 4
+c) 1,2 and 3
+d) 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q127) Which of the following terminology is/are mentioned in the Preamble of the Right to Information Act, 2005? [R.A.S./R.T.S. (Pre) 2018]
+1. Transparency of Information
+2. Revelation of Information
+3. Informed Citizenry
+4. Paramountcy of the democratic ideal
+Select the correct answer using code given below:
+a) 1 only
+b) 1 and 2
+c) 1,2 and 3
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q128) Which of the following statements are correct in reference to rule of procedure for Motion for Adjournment on a matter of public importance in Rajasthan Legislative Assembly?
+1. Speaker’s consent necessary to make motion.
+2. The motion raises a question of privilege.
+3. The motion shall be restricted to a specific matter of recent occurrence.
+4. Not more than one such motion shall be made at the same sitting.
+Select the correct answer using code given below: [R.A.S./R.T.S. (Pre) 2018]
+a) 1 and 3
+b) 1, 2 and 4
+c) 1, 3 and 4
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q129) Which among the following group of States/ Union Territories has only one seat in the Lok Sabha? [R.A.S./R.T.S. (Pre) 2016]
+a) Goa, Meghalaya, Nagaland
+b) Manipur, Dadra and Nagar Haveli, Puducherry
+c) Arunachal Pradesh, Sikkim, Lakshadweep
+d) Chandigarh, Sikkim, Mizoram
+#QuestionEnd
+#AnswerStart
+Answer: d) Chandigarh, Sikkim, Mizoram
+#AnswerEnd
+
+#QuestionStart
+Q130) The objective of Right to Information Act is to- [R.A.S./R.T.S. (Pre) 2007]
+a) Secure access to information from public authorities.
+b) Provide information to the public through a person who has the information.
+c) Provide information by Government on a public place.
+d) Secure information by police from culprits.
+#QuestionEnd
+#AnswerStart
+Answer: a) Secure access to information from public authorities.
+#AnswerEnd
+
+#QuestionStart
+Q131) Which of the following statements is/ are true in reference to the joint sitting of Parliament for passage of bill?
+(i) Provision for Joint sitting is applicable for ordinary bills, financial bills and constitutional amendment bills
+(ii) In no situation, Deputy Chairman of Rajya Sabha can preside over the joint sitting
+(iii) Quorum of l/6th of the total number of members of both houses to be maintained for joint sitting
+Code: [Chhattisgarh P.C.S. (Pre) 2021]
+a) (i), (ii) and (iii)
+b) (i) and (ii)
+c) (i) and (iii)
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: d) None of these
+#AnswerEnd
+
+#QuestionStart
+Q132) Which of the following Committees does not come under the jurisdiction of Lok Sabha? [Chhattisgarh P.C.S. (Pre) 2021]
+a) Committee on Social Justice and Empowerment
+b) Committee on Urban Development
+c) Committee on Labour
+d) Committee on Health and Family Welfare
+#QuestionEnd
+#AnswerStart
+Answer: d) Committee on Health and Family Welfare
+#AnswerEnd
+
+#QuestionStart
+Q133) In the following questions, there are two statements. One is labelled as Assertion (A) and other is labelled as Reason (R):
+Assertion (A): The courts are barred from enquiring into the advice rendered by the ministers to the Governor.
+Reason (R): There is no provision in the Indian Constitution for the system of legal responsibility of the ministers in the States.
+In the context of the above two statements which of the following is correct? [Chhattisgarh P.C.S. (Pre) 2021]
+a) Both Assertion and Reason (R) are true, and Reason (R) is correct explanation of Assertion
+b) Both Assertion and Reason (R) are true, but Reason (R) is not correct explanation of Assertion
+c) Assertion is true, but Reason (R) is false
+d) Assertion is false, but Reason (R) is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Assertion and Reason (R) are true, and Reason (R) is correct explanation of Assertion
+#AnswerEnd
+
+#QuestionStart
+Q134) Match the articles related to State Legislature:
+| List -I | List-II |
+|---|---|
+| A. Constitution of legislature in States | 1. Article 178 |
+| B. The Speaker and Deputy Speaker of the Legislative Assembly | 2. Article 199 |
+| C. Salaries and allowances of members | 3. Article 168 |
+| D. Definition of‘Money Bills’ | 4. Article 195 |
+Code: [Chhattisgarh P.C.S. (Pre) 2021]
+a) A1 B2 C3 D4
+b) A4 B2 C1 D3
+c) A3 B1 C4 D2
+d) A2 B3 C1 D4
+#QuestionEnd
+#AnswerStart
+Answer: c) A3 B1 C4 D2
+#AnswerEnd
+
+#QuestionStart
+Q135) The merger of a political party with another political party in India is recognized in which of the following conditions? [Chhattisgarh P.C.S. (Pre) 2019]
+a) When not less than one-third members of the legislature party have agreed to such merger.
+b) When not less than half members of the legislature party have agreed to such merger.
+c) When not less than two-third members of the legislature party have agreed to such merger.
+d) When not less than three-fourth members of the legislature party have agreed to such merger.
+#QuestionEnd
+#AnswerStart
+Answer: c) When not less than two-third members of the legislature party have agreed to such merger.
+#AnswerEnd
+
+#QuestionStart
+Q136) What will be happened if President summons for the joint session of Parliament and in the meantime, Lok Sabha dissolved? [Chhattisgarh P.C.S. (Pre) 2018]
+a) Joint session will be held in scheduled time
+b) Joint session will be cancelled
+c) Joint session will be held after composition of New Lok Sabha
+d) Bill will be lapsed
+#QuestionEnd
+#AnswerStart
+Answer: a) Joint session will be held in scheduled time
+#AnswerEnd
+
+#QuestionStart
+Q137) Which of the following doesn’t take the oath of the office? [Chhattisgarh P.C.S. (Pre) 2017]
+a) President
+b) Vice-President
+c) Speaker
+d) Prime Minister
+e) Members of Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: c) Speaker
+#AnswerEnd
+
+#QuestionStart
+Q138) What is correct about the State Legislative Council?
+(i) Its tenure is 6 years
+(ii) It is a permanent House
+(iii) It cannot be dissolved
+(iv) 1/6 members are elected by local institutions
+(v) 1/6 members are elected by legislative assembly
+(vi) Every two years 1/3 members are retired
+(vii) Deputy Governor is the Chairman of House
+(viii) The tenure of its members is 6 years
+Code: [Chhattisgarh P.C.S. (Pre) 2015]
+a) (i), (iii), (iv), (v)
+b) (iii), (vi), (vii), (viii)
+c) (ii), (iii), (vi), (viii)
+d) (ii), (iv), (i), (viii)
+e) (i), (iii), (v), (vii)
+#QuestionEnd
+#AnswerStart
+Answer: c) (ii), (iii), (vi), (viii)
+#AnswerEnd
+
+#QuestionStart
+Q139) The tenure of which Lok Sabha was about 6 years? [Chhattisgarh P.C.S. (Pre) 2014]
+a) 5th Lok Sabha
+b) 7th Lok Sabha
+c) 9th Lok Sabha
+d) 11th Lok Sabha
+e) 13th Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a) 5th Lok Sabha
+#AnswerEnd
+
+#QuestionStart
+Q140) Who among the following can participate in the deliberations of Lok Sabha while being a member of Rajya Sabha? [Chhattisgarh P.C.S (Pre) 2013]
+a) Nominated member of Rajya Sabha who is an expert in a field
+b) Deputy Chairperson of Rajya Sabha
+c) Minister who is a member of Rajya Sabha
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: c) Minister who is a member of Rajya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q141) Privilege motion can be raised against a Minister when he- [Chhattisgarh P.C.S. (Pre) 2011]
+a) Loses confidence in the Government,
+b) Absents himself for a long time.
+c) Withholds facts of a case or gives distorted versions of Facts.
+d) Limit value.
+#QuestionEnd
+#AnswerStart
+Answer: c) Withholds facts of a case or gives distorted versions of Facts.
+#AnswerEnd
+
+#QuestionStart
+Q142) Which of the following is not true about the Anti-Defection Bill? [Chhattisgarh P.C.S. (Pre) 2011]
+a) An M.P. or an M.L.A. will be disqualified if he has voluntarily given up the membership of the party to which he belonged.
+b) In the event of a member’s absence from voting in the House on a particular issue, an M.P. or M.L.A. will be disqualified.
+c) A member shall not be disqualified if there is a merger of political parties.
+d) The Speaker of the Lok Sabha will not be disqualified if he becomes a member of another political party later on.
+#QuestionEnd
+#AnswerStart
+Answer: d) The Speaker of the Lok Sabha will not be disqualified if he becomes a member of another political party later on.
+#AnswerEnd
+
+#QuestionStart
+Q143) Which one of the following provisions deals with the privileges and immunities of the Members of Parliament under the Constitution of India? [Chhattisgarh P.C.S. (Pre) 2011]
+a) Article 104
+b) Article 105
+c) Article 82
+d) Article 117
+#QuestionEnd
+#AnswerStart
+Answer: b) Article 105
+#AnswerEnd
+
+#QuestionStart
+Q144) The state wise seat allocation in Lok Sabha is based on- [Chhattisgarh P.C.S. (Pre) 2005]
+a) Population
+b) Area
+c) Poverty
+d) Language
+#QuestionEnd
+#AnswerStart
+Answer: a) Population
+#AnswerEnd
+
+#QuestionStart
+Q145) The Lok Sabha Secretariat conies under the direct supervision of: [Uttarakhand P.C.S. (Pre) 2012]
+a) Ministry of Home Affairs
+b) Ministry of Parliamentary Affairs
+c) President of India
+d) Lok Sabha Speaker
+#QuestionEnd
+#AnswerStart
+Answer: d) Lok Sabha Speaker
+#AnswerEnd
+
+#QuestionStart
+Q146) State Legislative Assembly can participate in the election of which of the following:
+I. President of India
+II. Vice-President of India
+III. Members of Rajya Sabha
+IV. Members of Legislative Council
+Select the correct answer: [Uttarakhand P.C.S. (Pre) 2012]
+a) I, II and III
+b) I, III and IV
+c) I and III
+d) I, II and IV
+#QuestionEnd
+#AnswerStart
+Answer: b) I, III and IV
+#AnswerEnd
+
+#QuestionStart
+Q147) Which of the following statements about the Committee on Public Undertakings is/ are correct?
+1. There are more members from the Rajya Sabha than the Lok Sabha in the Committee.
+2. The Chairperson of the Committee is appointed by the Speaker of the Lok Sabha.
+Select the correct answer using the code given below. [CAPF 2022]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q148) Which one of the following statements is not correct? [CAPF 2022]
+a) A censure motion can be moved, against a single Minister of the Council of Ministers.
+b) A motion of no-confidence cannot be moved against the Prime Minister alone.
+c) A censure motion cannot be moved against the entire Council of Ministers.
+d) A censure motion can be moved against a group of Ministers.
+#QuestionEnd
+#AnswerStart
+Answer: c) A censure motion cannot be moved against the entire Council of Ministers.
+#AnswerEnd
+
+#QuestionStart
+Q149) Which one of the following statements about Public Accounts committee is correct? [CAPF 2021]
+a) The committee Consists of not more than 15 members from the Lok Sabha and 10 members from the Rajya Sabha.
+b) The finance minister is an ex officio member of the Committee.
+c) A member of the Committee is given a term for one year.
+d) The term of the office of the members of the Committee from the Rajya Sabha is extended even when they retire from the Rajya Sabha.
+#QuestionEnd
+#AnswerStart
+Answer: c) A member of the Committee is given a term for one year.
+#AnswerEnd
+
+#QuestionStart
+Q150) Who among the following warned his colleagues that the Constituent Assembly was British made and was “working the British plan as the British should like it to be worked out”? [CAPF 2021]
+a) Somnath Lahiri
+b) B.R. Ambedkar
+c) Shyama Prasad Mukherjee
+d) B.N. Ran
+#QuestionEnd
+#AnswerStart
+Answer: a) Somnath Lahiri
+#AnswerEnd
+
+#QuestionStart
+Q151) Who among the following fixes the date of election of the Speaker of the Lok Sabha? [CAPF 2021]
+a) The President of India
+b) The Minister of Parliamentary Affairs
+c) The Secretary General of the Lok Sabha
+d) The Deputy Speaker of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a) The President of India
+#AnswerEnd
+
+#QuestionStart
+Q152) Which one of the following statements with regard to Censure Motion is NOT correct? [CAPF 2020]
+a) A leave of the House is required to move it
+b) The Government is free to fix time and date for its discussion
+c) It can also be moved against the entirety of the Council of Ministers
+d) The Speaker decides whether the motion is in order
+#QuestionEnd
+#AnswerStart
+Answer: a) A leave of the House is required to move it
+#AnswerEnd
+
+#QuestionStart
+Q153) As per provisions of the Constitution of India which one of the following is correct? [CAPF 2020]
+a) Only Parliament has the power to legislate over a subject under the Concurrent list
+b) Both Parliament and State Legislatures have the power to legislate over a subject under the Concurrent list.
+c) A legislation made under the Concurrent list hy Parliament should be ratified by half of the State Legislatures so as to become a law of the country
+d) Only State Legislatures are empowered to make laws under Concurrent list
+#QuestionEnd
+#AnswerStart
+Answer: b) Both Parliament and State Legislatures have the power to legislate over a subject under the Concurrent list.
+#AnswerEnd
+
+#QuestionStart
+Q154) Which of the following statement(s) regarding passing a law under the State list is/are correct?
+1. Even in the sphere (State list) exclusively reserved for the States, Parliament can legislate under certain circumstances.
+2. Parliament cannot legislate a subject under the State list under any circumstances.
+3. A resolution supported by two-thirds of the members present and voting is required to be passed by Rajya Sabha to pass a law under the State list
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1,2 and 3
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1 Only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q155) Which of the following statements are correct with regard to Speaker/Deputy Speaker of the Lok Sabha?
+1. On dissolution of the Lok Sabha, both the Speaker and Deputy Speaker cease to be members of the House.
+2. Both Speaker and Deputy Speaker vacate their office on dissolution of the Lok Sabha.
+3. Only Deputy Speaker vacates his office and Speaker shall not vacate his office until immediately before the first meeting of the Lok Sabha after dissolution.
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1 only
+b) 1, 2 and 3
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q156) With regard to Panel of Chairperson, Lok Sabha, which of the following statements is/ are correct?
+1. Panel of Chairperson is drawn from the ruling party only.
+2. Panel of Chairperson is nominated by different political parties and appointed by Speaker, Lok Sabha.
+3. Panel of Chairperson consists of 10 members and one of them presides over the House when both Speaker and Deputy Speaker are not there.
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 1 and 3
+b) 2 and 3
+c) 3 only
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q157) A member giving notice of a resolution for removal of Speaker, Lok Sabha should be addressed to the [CAPF 2020]
+a) Deputy Speaker, Lok Sabha
+b) Secretary General, Lok Sabha
+c) Prime Minister
+d) President
+#QuestionEnd
+#AnswerStart
+Answer: b) Secretary General, Lok Sabha
+#AnswerEnd
+
+#QuestionStart
+Q158) Which one of the following statements regarding Public Accounts Committee is correct? [CAPF 2020]
+a) It consists of fifteen members from Lok Sabha and seven members from Rajya Sabha
+b) It consists of twenty members from Lok sabha and ten members from Rajya Sabha
+c) The term of members of Public Accounts Committee is five years
+d) Finance Minister is the Chairperson of the Public Accounts Committee
+#QuestionEnd
+#AnswerStart
+Answer: a) It consists of fifteen members from Lok Sabha and seven members from Rajya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q159) Which of the following statements with regard to the Speaker, Lok Sabha is/are correct?
+1. The election of the Speaker of Lok Sabha is conducted by the Election Commission of India.
+2. The Speaker on assuming his office is not required to make and subscribe oath or affirmation.
+3. The Speaker does not exercise a casting vote in case of equality of votes.
+Select the correct answer using the codes given below: [CAPF 2020]
+a) 2 only
+b) 1 and 3
+c) 1 only
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q160) Which one of the following does not fall under the definition of the Money bill? [CAPF 2019]
+a) Amendment of law with respect to any financial obligations undertaken by the government of India
+b) The payment of money into the Consolidated Fund of India
+c) Any financial bill as per requirements of Article-117
+d) Appropriation of money out of the Consolidated Fund of India
+#QuestionEnd
+#AnswerStart
+Answer: c) Any financial bill as per requirements of Article-117
+#AnswerEnd
+
+#QuestionStart
+Q161) Consider the following statements relating to short notice questions asked in the Legislature
+1. These relate to matters of urgent public importance and can be asked for oral answer at a notice less than 10 days.
+2. Short notice questions can be admissible if the Minister concerned agrees to answer to it,
+3. Short notice questions are asked during question hour.
+Which of the statements given above are correct? [CAPF 2019]
+a) 1, 2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q162) Which one of the following is NOT true of the 10th Schedule of the Constitution of India pertaining to disqualification of members of the Parliament and State legislatures? [CAPF 2019]
+a) The schedule lays down that elected members may be disqualified on the grounds of defection.
+b) Disqualification on grounds of defection does not apply in cases of merger with another political party.
+c) Cases of dispute are decided by the speaker or Chairman of the House concerned.
+d) The Supreme Court of India is the final arbiter in cases which remain unresolved.
+#QuestionEnd
+#AnswerStart
+Answer: d) The Supreme Court of India is the final arbiter in cases which remain unresolved.
+#AnswerEnd
+
+#QuestionStart
+Q163) Which of the following pairs of list and contents is/are correctly matched?
+1. State List: Public health and sanitation
+2. Union List: Citizenship, naturalization and aliens
+3. Concurrent List: Legal, medical and other professions
+Select the correct answer using the code given below: [CAPF 2019]
+a) 1 only
+b) 1, 2 and 3
+c) 2 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q164) The following item consists of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the codes given below
+Codes: [CAPF 2018]
+Statement I: In India, a majority of the members of the Rajya Sabha are elected by the elected members of the State Legislatures.
+Statement II: Members of the Rajya Sabha elected by the State Legislative Assemblies need to have their domicile in the concerned State.
+a) Both the statements are individually true and Statements II is the correct explanation of Statement I
+b) Both the statements are individually true but Statement II is not the correct explanation of Statement I
+c) Statement I is true but Statement II is false
+d) Statement I is false but Statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: c) Statement I is true but Statement II is false
+#AnswerEnd
+
+#QuestionStart
+Q165) Which one of the following Constitutional Amendments has enormously strengthened the powers of the Speaker/Chairman of the 2 Houses of the Parliament/State Legislatures? [CAPF 2018]
+a) 61st Amendment which reduced the voting age from 21 to 18 years
+b) Anti-defection provisions of 52nd Amendment
+c) Repealing of many of the provisions of 42nd Amendment by 44th Amendment
+d) 73rd Amendment that conferred extensive the powers on Panchayat Bodies
+#QuestionEnd
+#AnswerStart
+Answer: b) Anti-defection provisions of 52nd Amendment
+#AnswerEnd
+
+#QuestionStart
+Q166) Which one of the following Committees of the Parliament has no Members from the Rajya Sabha? [CAPF 2018]
+a) Public Accounts Committee
+b) Committee on Public Undertakings
+c) Estimates Committee
+d) Departmentally Related Standing Committee (DRSC) on Finance
+#QuestionEnd
+#AnswerStart
+Answer: c) Estimates Committee
+#AnswerEnd
+
+#QuestionStart
+Q167) Over which of the following, the Lok Sabha and the Rajya Sabha held joint sittings to resolve their differences?
+1. The Dowry Prohibition Bill, 1959
+2. The Banking Service Commission (Repeal) Bill, 1978
+3. The Prevention of Terrorism Bill, 2002
+4. The Land Acquisition, Rehabilitation and Resettlement Act, 2013
+Select the correct answer using the codes given below: [CAPF 2018]
+a) 1, 2, 3 and 4
+b) 3 and 4 only
+c) 1,2 and 3 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q168) Which of the following pair(s) is/are correctly matched?
+1. Rule of lapse: Part of grant that can be carried over to next year.
+2. Supplementary grant: An advance grant to meet expenditures.
+3. Vote on account: Additional funds granted in the course of financial year.
+Select the correct answer using the code given below: [CAPF 2017]
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+
+#QuestionStart
+Q169) Which one of the following is the correct sequence of different stages a budget has to go through in the Parliament?
+1. Presentation of the Budget
+2. Scrutiny by Departmental Committees
+3. Passing of Finance Bill
+4. Passing of Appropriation Bill
+Select the correct answer using the code given below: [CAPF 2017]
+a) 1-2-4-3
+b) 1-3-2-4
+c) 2-1-3-4
+d) 4-3-2-1
+#QuestionEnd
+#AnswerStart
+Answer: a) 1-2-4-3
+#AnswerEnd
+
+#QuestionStart
+Q170) Which one of the following is a characteristic of Presidential form of government? [CAPF 2016]
+a) President is not a part of legislative body
+b) It does not separate Legislative and Executive functions
+c) President follows the principle of collective responsibility
+d) The tenure of the President depends on the legislature
+#QuestionEnd
+#AnswerStart
+Answer: a) President is not a part of legislative body
+#AnswerEnd
+
+#QuestionStart
+Q171) Which one of the following articles of the Constitution of India contains provisions for the abolition and creation of Legislative Councils? [CAPF 2016]
+a) Article-171
+b) Article-169
+c) Article-356
+d) Article-182
+#QuestionEnd
+#AnswerStart
+Answer: b) Article-169
+#AnswerEnd
+
+#QuestionStart
+Q172) With regard to a Constitution Amendment Bill, which one of the following statements is not correct? [CAPF 2016]
+a) The Speaker of the Lok Sabha can call a joint sitting of both the Houses to pass the Bill
+b) Each House needs to pass the Bill separately by a prescribed special majority end
+c) The Bill can be introduced in either House of Parliament
+d) The Bill can be sponsored by a Private Member
+#QuestionEnd
+#AnswerStart
+Answer: a) The Speaker of the Lok Sabha can call a joint sitting of both the Houses to pass the Bill
+#AnswerEnd
+
+#QuestionStart
+Q173) ‘Cut Motion’ can be introduced after the presentation of [CAPF 2016]
+a) any Bill introduced in the Parliament
+b) the Railway and General Budgets
+c) any Private Member’s Bill
+d) a Constitution Amendment Bill
+#QuestionEnd
+#AnswerStart
+Answer: b) the Railway and General Budgets
+#AnswerEnd
+
+#QuestionStart
+Q174) According to Article 3 of the Constitution of India, the Parliament may by law
+1. declare war on any country.
+2. alter the boundaries of any State.
+3. increase the area of any State
+4. establish an Autonomous Council within any State.
+Select the correct answer using the code given below. [CAPF 2015]
+a) Only 3
+b) 1, 2 and 4
+c) 2 and 3
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q175) The Rajya Sabha can withhold its consent to Money Bill for: [CAPF 2015]
+a) 14 days
+b) 15 days
+c) 30 days
+d) 18 day’
+#QuestionEnd
+#AnswerStart
+Answer: a) 14 days
+#AnswerEnd
+
+#QuestionStart
+Q176) The following item consists of two Statements I and II. You are to examine these two statements carefully and select the answer to these items using the code given below.
+Statement I: The Rajya Sabha is not subject to dissolution and the members enjoy a tenure of six years.
+Statement II: According to Article 83 of the Constitution of India, one-third of members of Rajya Sabha retire every two years.
+Codes: [CAPF 2014]
+a) Both the statements are individually true and Statement II is the correct explanation of Statement I
+b) Both the statements are individually true but Statement II is not the correct explanation of Statement I
+c) Statement I is true and Statement II is false
+d) Statement I is false but Statement II is true
+#QuestionEnd
+#AnswerStart
+Answer: a) Both the statements are individually true and Statement II is the correct explanation of Statement I
+#AnswerEnd
+
+#QuestionStart
+Q177) The issue whether a commitment made by a Minister on the floor of the House has been fulfilled or not is decided by the [CAPF 2014]
+a) Concerned Departmentally Related Committee
+b) Business Advisory Committee
+c) Committee on Public Assurances
+d) Political Affairs Committee of the Union Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: c) Committee on Public Assurances
+#AnswerEnd
+
+#QuestionStart
+Q178) Which of the following statements related to Money Bills is not correct? [CAPF 2014]
+a) It cannot be introduced in the Council of States.
+b) If any question arises whether the Bill is Money Bill or not, the decision of the Speaker is final.
+c) In case of deadlock over a Money Bill, the President can summon a joint sitting of the Parliament.
+d) A Money Bill cannot be introduced except on the recommendation of the President.
+#QuestionEnd
+#AnswerStart
+Answer: c) In case of deadlock over a Money Bill, the President can summon a joint sitting of the Parliament.
+#AnswerEnd
+
+#QuestionStart
+Q179) Which of the following statements regarding the residuary powers under the Constitution of India is/are correct?
+1. Residuary powers have been given to the Union Parliament.
+2. In the matter of residuary powers, the Constitution of India follows the Constitution of Australia.
+3. Schedule 7 of the Constitution of India provides a list of residuary powers.
+4. The Government of India Act, 1935 placed residuary powers in the hands of the Governor-General.
+Select the correct answer using the codes given below:
+Codes: [CAPF 2014]
+a) 1 and 3
+b) 2 and 3
+c) 1 and 4
+d) Only 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q180) Which of the following statements about the Presidential system is/are correct?
+1. The Head of Government is also the Head of State.
+2. The Executive can veto Legislative acts.
+Select the correct answer using the codes given below.
+Codes: [CAPF 2014]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q181) Which one of the following is not a provision related to a Money Bill?- [CDS 2022 (I)]
+a) Imposition, abolition, remission alteration or regulation of any tax.
+b) Appropriation of money out of the Consolidated Fund of India.
+c) Imposition of fines by local authority for local purpose.
+d) Custody of the Consolidated Fund of India or the Contingency Fund of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) Imposition of fines by local authority for local purpose.
+#AnswerEnd
+
+#QuestionStart
+Q182) Which of the following statements is/are correct?
+1. Committee on Estimates is an ad hoc committee of the Parliament.
+2. Committee on Railway Convention is a standing committee of the Parliament.
+Select the correct answer using the code given below:- [CDS 2022 (I)]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q183) Which one of the following statements about the Speaker of Lok Sabha is not correct?- [CDS 2022 (I)]
+a) He shall vacate his office if he ceases to be a member of the House of the People.
+b) He may, at any time, resign by writing his resignation to the President of India.
+c) He may be removed from his office by a resolution of the House of the People passed by majority of all the then members of the House.
+d) While the office of the Speaker is vacant, the duties of the office shall be performed by the Deputy Speaker.
+#QuestionEnd
+#AnswerStart
+Answer: b) He may, at any time, resign by writing his resignation to the President of India.
+#AnswerEnd
+
+#QuestionStart
+Q184) Which one of the following statements about a Bill for Amendment of the Constitution of India is not correct?- [CDS 2022 (I)]
+a) It is governed by Article 368(2) of the Constitution of India.
+b) Joint sitting can be resorted to for Passing a Bill amending the Constitution of India.
+c) The State Legislatures cannot initiate any Bill or proposal for amendment of the Constitution of India.
+d) The previous sanction of the President of India is not required for introducing any Bill in the Parliament for amendment of the Constitution of India.
+#QuestionEnd
+#AnswerStart
+Answer: b) Joint sitting can be resorted to for Passing a Bill amending the Constitution of India.
+#AnswerEnd
+
+#QuestionStart
+Q185) Which one of the following statements about the Public Accounts Committee (PAC) of the Parliament is not correct? [CDS 2022 (II)]
+a) It examines the Finance Accounts of the Government of India.
+b) Fifteen members of the Committee are elected by the Lok Sabha from amongst its members.
+c) The Chairperson of the Committee is elected by its members.
+d) In case a member of any other Committee constituted by the Government is elected to the PAC, the Speaker of the Lok Sabha decides whether he should continue to be a member of the former Committee.
+#QuestionEnd
+#AnswerStart
+Answer: c) The Chairperson of the Committee is elected by its members.
+#AnswerEnd
+
+#QuestionStart
+Q186) Which one of the following statements about Money Bill is not correct? [CDS 2022 (II)]
+a) Money Bill cannot be introduced in the Council of States.
+b) The Council of States has no power to reject or amend the Money Bill.
+c) The Speaker of the Lok Sabha has the sole and final power in deciding whether a Bill is a Money Bill or otherwise.
+d) The Council of States has no power to discuss the Money Bill.
+#QuestionEnd
+#AnswerStart
+Answer: d) The Council of States has no power to discuss the Money Bill.
+#AnswerEnd
+
+#QuestionStart
+Q187) Which one of the following is not a category under which the President of India nominates Members of Parliament? [CDS 2022 (II)]
+a) Literature
+b) Science
+c) Art
+d) State Service
+#QuestionEnd
+#AnswerStart
+Answer: d) State Service
+#AnswerEnd
+
+#QuestionStart
+Q188) Which among the following is not the strength or chief benefit of Bicameralism? [CDS 2022 (II)]
+a) Second chambers check the first chambers and prevent majoritarian rule.
+b) It checks the powers of the executive.
+c) The second chambers can act as a constitutional safeguard.
+d) It often acts as a check on democratic rule, particularly when their members are non-elected or indirectly elected.
+#QuestionEnd
+#AnswerStart
+Answer: d) It often acts as a check on democratic rule, particularly when their members are non-elected or indirectly elected.
+#AnswerEnd
+
+#QuestionStart
+Q189) Which of the following statements regarding the ‘casting vote’ in the Parliament is/are correct? [CDS 2021(1)]
+1. It is cast by the speaker or a person acting as such.
+2. It is cast in addition to voting in the first instance.
+3. It is cast in the case of equality of votes.
+4. It is always cast to maintain the status quo.
+Select the correct answer using the codes given below:
+a) 1,2 and 3 only
+b) 1 and 3 only
+c) 2 and 4 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q190) Which one among the following motions cannot be made while introducing an ordinary Bill in the Parliament? [CDS 2021(1)]
+a) That the Bill be taken into consideration
+b) That the Bill be circulated for the purpose of eliciting public opinion
+c) That the Bill be referred to a Select Committee
+d) That the Bill be referred to a Joint Committee of the House without the concurrence of the other House
+#QuestionEnd
+#AnswerStart
+Answer: d) That the Bill be referred to a Joint Committee of the House without the concurrence of the other House
+#AnswerEnd
+
+#QuestionStart
+Q191) Which one of the following statements about the composition of the Parliament is not correct? [CDS 2021(1)]
+a) Representatives of the states in Rajya Sabha are elected directly by the people.
+b) Representatives from Union Territories in Lok Sabha are chosen by direct elections.
+c) Rajya Sabha has 12 nominated members.
+d) Lok Sabha has seats reserved for SCs and STs.
+#QuestionEnd
+#AnswerStart
+Answer: a) Representatives of the states in Rajya Sabha are elected directly by the people.
+#AnswerEnd
+
+#QuestionStart
+Q192) A motion of no- confidence is moved against [CDS 2021(1)]
+a) an individual Minister.
+b) the Council of Ministers.
+c) the Prime Minister.
+d) a political party.
+#QuestionEnd
+#AnswerStart
+Answer: b) the Council of Ministers.
+#AnswerEnd
+
+#QuestionStart
+Q193) Which of the following statements are correct?
+1. Speaker may permit any Member to address the House in his/her mother tongue, if he/she cannot adequately express in either Hindi or English.
+2. Business of the Parliamentary Committees is transacted either in Hindi or in English.
+3. The minutes of the Parliamentary Committees are prepared invariably in Hindi or English.
+Select the correct answer using the codes given below: [CDS 2021 (II)]
+a) 1,2 and 3
+b) 1 and 2
+c) 2 and 3
+d) 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q194) Which one among the following is the largest State in terms of seats in the Rajya Sabha? [CDS 2021 (II)]
+a) Andhra Pradesh
+b) Bihar
+c) Rajasthan
+d) Karnataka
+#QuestionEnd
+#AnswerStart
+Answer: b) Bihar
+#AnswerEnd
+
+#QuestionStart
+Q195) Which of the following statements regarding constitutional amendment is/are correct?
+1. The procedure for amendment to the Constitution is provided in Article 368.
+2. A Bill to amend the Constitution can be introduced in either House of the Parliament.
+3. The special procedure in Article 368 vests constituent powers upon the ordinary legislation.
+Select the correct answer using the codes given below. [CDS 2021 (II)]
+a) Only 1
+b) 1,2 and 3
+c) 2 and 3
+d) 1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q196) Which one of the following is not correct? [CDS 2021 (II)]
+a) Taxes on agricultural income is a subject under the State List.
+b) Price control is a subject under the Concurrent List.
+c) Insurance does not come under the Union List.
+d) ‘Forests’ is a subject under the Concurrent List.
+#QuestionEnd
+#AnswerStart
+Answer: c) Insurance does not come under the Union List.
+#AnswerEnd
+
+#QuestionStart
+Q197) Which among the following is not a condition for the disqualification of a Member of Parliament? [CDS 2021 (II)]
+a) Voluntary acquisition of citizenship of a foreign country
+b) Holding the office of the Chairperson of the National Commission for Women
+c) The member abstains from voting in the House without prior permission
+d) The Member holds the office of the Chairman of the Board of Directors of the National Coal Development Corporation Ltd
+#QuestionEnd
+#AnswerStart
+Answer: b) Holding the office of the Chairperson of the National Commission for Women
+#AnswerEnd
+
+#QuestionStart
+Q198) Overseas Indians can exercise franchise in an election to the Lok Sabha under which of the following conditions?
+1. They must be citizens of India.
+2. Their names must figure in the electoral roll.
+3. They must be present in India to vote.
+Select the correct answer using the codes given below. [CDS 2020 (I)]
+a) 1,2 and 3
+b) 2 and 3
+c) I and 2
+d) Only 1
+#QuestionEnd
+#AnswerStart
+Answer: a) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q199) Which one among the following is not correct about the Secretary General of the Lok Sabha? [CDS 2020 (II)]
+a) The Secretary General is the advisor to the Speaker,
+b) The Secretary General acts under the authority in the name of the Speaker.
+c) The Secretary General works under the Speaker with delegated authority.
+d) The Secretary General passes orders in the name of the Speaker.
+#QuestionEnd
+#AnswerStart
+Answer: c) The Secretary General works under the Speaker with delegated authority.
+#AnswerEnd
+
+#QuestionStart
+Q200) Which of the following statements with regard to the privileges of the Members of the Parliament are correct?
+1. Privileges would not be fettered by the Article-19(l)of the Constitution of India.
+2. Privileges must be read subject to the Articles 20-22 and Article-32 of the Constitution of India.
+3. Immunity is available in relation to both civil and criminal prosecution.
+4. Immunity is available in relation to freedom of speech even in his/her private or personal capacity.
+Select the correct answer using codes given below [CDS 2020 (II)]
+a) 1,2 and 4 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q201) Which one of the following statements with regard to the appointment of the Members of the Parliamentary Committees is correct? [CDS 2020 (II)]
+a) The Members are only appointed
+b) The Members are only elected
+c) The Members are only nominated.
+d) The Members are appointed or elected on a motion made and adopted or nominated by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d) The Members are appointed or elected on a motion made and adopted or nominated by the Speaker of the Lok Sabha or the Chairman of the Rajya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q202) Which one of the following is not a correct statement regarding the provision of Legislative Council in the State Legislature? [CDS Pre.2019 I]
+a) The States of Bihar and Telangana have Legislative Councils
+b) The total number of members in the Legislative Council of a State shall not exceed one third of the total number of members in the Legislative Assembly
+c) One-twelfth of all members shall be elected by electorates consisting of local bodes and authorities
+d) One-twelfth of all members shall be elected by graduates residing in the state.
+#QuestionEnd
+#AnswerStart
+Answer: c) One-twelfth of all members shall be elected by electorates consisting of local bodes and authorities
+#AnswerEnd
+
+#QuestionStart
+Q203) Rajya Sabha has exclusive jurisdiction in [CDS Pre. 2019 II]
+a) creation of new states
+b) declaring a war
+c) financial emergency
+d) authorising Parliament to legislate on a subject in the state list
+#QuestionEnd
+#AnswerStart
+Answer: d) authorising Parliament to legislate on a subject in the state list
+#AnswerEnd
+
+#QuestionStart
+Q204) Which one of the following regarding the procedure and conduct of business in the Parliament is not correct?[CDS Pre.2018 II]
+a) To discuss state matters
+b) To discuss issues of the use of police force in suppressing the Scheduled Caste and Scheduled Tribe communities
+c) To discuss issues in dealing with violent disturbances in an undertaking under the control of the Union Government
+d) To discuss issues for putting down the demands of the industrial labour
+#QuestionEnd
+#AnswerStart
+Answer: a) To discuss state matters
+#AnswerEnd
+
+#QuestionStart
+Q205) Which one of the following is not considered a part Legislature of States? [CDS Pre.2018 II]
+a) The Governor
+b) The Legislative Assembly
+c) The Legislative Council
+d) The Chief Minister State
+#QuestionEnd
+#AnswerStart
+Answer: d) The Chief Minister State
+#AnswerEnd
+
+#QuestionStart
+Q206) A joint sitting of the Parliament is resorted to, for resolving the deadlock between two Houses of the Parliament for passing which of the following Bills?
+1. Money Bill
+2. Constitutional Amendment Bill
+3. Ordinary Bill
+Select the correct answer using the codes given below : [CDS Pre.2017 II]
+a) 1 and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) Only 3
+#QuestionEnd
+#AnswerStart
+Answer: d) Only 3
+#AnswerEnd
+
+#QuestionStart
+Q207) Which one of the following cannot be introduced first in the Rajya Sabha? [CDS Pre.2017 II]
+a) Constitutional Amendment
+b) CAG Report
+c) Annual Financial Statement
+d) Bill to alter the boundaries of any state
+#QuestionEnd
+#AnswerStart
+Answer: c) Annual Financial Statement
+#AnswerEnd
+
+#QuestionStart
+Q208) Which one of the following Schedules of the Constitution of India has fixed the number of Members of the Rajya Sabha to be elected from each state? [CDS Pre.2017 II]
+a) Fifth Schedule
+b) Third Schedule
+c) Sixth Schedule
+d) Fourth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d) Fourth Schedule
+#AnswerEnd
+
+#QuestionStart
+Q209) A Member of Lok Sabha does not become disqualified to continue as a Member of the House if the member [CDS Pre.2016 I]
+a) voluntarily gives up his/her membership of the political party from which he/she was elected
+b) is expelled by the political party from which he/she had been elected to the House
+c) joins a political party after being elected as an independent candidate
+d) abstains from voting contrary to the direction by his/her political party
+#QuestionEnd
+#AnswerStart
+Answer: b) is expelled by the political party from which he/she had been elected to the House
+#AnswerEnd
+
+#QuestionStart
+Q210) After the general elections, the Protem Speaker is [CDS Pre. 2015 II]
+a) elected by the Lok Sabha
+b) appointed by the President of India
+c) appointed by the Chief Justice of The Supreme Court
+d) the senior most member of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: b) appointed by the President of India
+#AnswerEnd
+
+#QuestionStart
+Q211) Which of the following statement(s) in the context of structure of the Parliament is/are correct?
+1. The Parliament of India consists of the President, the Council of States and the House of People.
+2. The President of India is directly elected by an electoral college consisting of the elected members of both the Houses of the Parliament only.
+Select the correct answer using the codes given below: [CDS Pre.2014 (I)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q212) The Annual Financial Statement of the Government of India in respect of each financial year shall be presented to the House on such day as the [CDS Pre.2014 (I)]
+a) Speaker may direct
+b) President of India may direct
+c) Parliament may decide
+d) Finance Minister may decide
+#QuestionEnd
+#AnswerStart
+Answer: b) President of India may direct
+#AnswerEnd
+
+#QuestionStart
+Q213) The principle of ‘collective responsibility’ under parliamentary democracy implies that
+1. a motion of no-confidence can be moved in the Council of Ministers as a whole as well as an individual minister.
+2. no person shall be nominated to the cabinet except on the advice of the Prime Minister.
+3. no person shall be retained as a member of the Cabinet if the Prime minister says that he shall be dismissed.
+Select the correct answer using the codes given below : [CDS Pre.2014 (I) ]
+a) Only 1
+b) Only 2
+c) Only 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q214) The subject matter of an adjournment motion in the Parliament
+1. must be directly related to the conduct of the Union Government.
+2. may involve failure of the Government of India to perform its duties in accordance with the Constitution.
+Select the correct answer using the codes given below [CDS Pre.2014 (I)]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) Only 2 ( ⭐ Please Re-check)
+#AnswerEnd
+
+#QuestionStart
+Q215) Certain Bills cannot be introduced or proceeded with unless the recommendation of the President is received.
+However, no recommendation is required in some other cases. In which one of the following cases such recommendation is not required? [CDS Pre.2014 I]
+a) For introduction of Bills and for moving amendments relating to financial matters.
+b) For introduction of a Bill relating to formation of new states or of alternation of areas of existing states
+c) For moving of an amendment making provision for the reduction or abolition of any tax
+d) For introduction of a Bill or moving of an amendment affecting taxation in which states are interested
+#QuestionEnd
+#AnswerStart
+Answer: c) For moving of an amendment making provision for the reduction or abolition of any tax
+#AnswerEnd
+
+#QuestionStart
+Q216) Which one of the following statements regarding the Departmental Committee of the Parliament of India on the empowerment of women is correct? [CDS Pre.2014 I]
+a) The Committee will consist of members of the Lok Sabha only
+b) A Cabinet Minister can be a member of the Committees
+c) The term of office of the members of the Committee shall not exceed two years
+d) It reports on the working of welfare programmes for the women
+#QuestionEnd
+#AnswerStart
+Answer: d) It reports on the working of welfare programmes for the women
+#AnswerEnd
+
+#QuestionStart
+Q217) The legislative power of the Parliament includes making laws
+1. On matters not enumerated in the Concurrent List and State list.
+2. In respect of entries in State List if two or more State Legislatures consider it desirable
+3. For implementing any treaty agreement or convention with any country even if it falls in the State List.
+Select the correct answer using the codes given below : [CDS Pre.2014 I]
+a) Only 2
+b) 1 and 2
+c) 1 and 3
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: d) All of these
+#AnswerEnd
+
+#QuestionStart
+Q218) There are provisions in the Constitution of India which empower the Parliament to modify or annul the operation of certain provisions of the Constitution without actually amending them. They include
+1. any law made under Article 2 (relating to admission or establishment of new states).
+2. any law made under Article 3 (relating to formation of new states).
+3. amendment of First Schedule and Fourth Schedule.
+Select the correct answer using the codes given below : [CDS Pre.2014 I]
+a) 1 and 2
+b) 2 and 3
+c) 1.2 and 3
+d) None of these
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q219) Which of the statements relating to the Deputy Speaker of the Lok Sabha is/are correct?
+1. The office of the Deputy Speaker acquired a more prominent position after the enforcement of the Constitution of India in 1950.
+2. He/She is elected from amongst the members.
+3. He/She holds office until he/she ceases to be a member of the House.
+Select the correct answer using the codes given below : [CDS Pre.2014 I]
+a) Only 1
+b) 1 and 2
+c) 1, 2 and 3
+d) 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q220) The Committee on Public Accounts under the Constitution of India is meant for :
+1. The examination of accounts showing the appropriation of sums granted by the House for the expenditure of the Government of India.
+2. scrutinising the report of the Comptroller and Auditor General.
+3. suggesting the form in which estimates shall be presented to the Parliament.
+Select the correct answer using the codes given below: [CDS Pre.2014 I]
+a) Only 1
+b) Only 2
+c) 1 and 2
+d) All of these
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q221) Thefunctions of the committee on estimates, as incorporated in the Constitution of India, shall be to
+1. report what economies, improvements in organisation, efficiency or administrative reform may be effected.
+2. suggest alternative policies in order to bring about efficiency and economy in administration.
+3. examine whether the money is well laid out within the limits of the policy implied in the estimates.
+4. examine the reports, if any, of the Comptroller and Auditor General on the public undertakings.
+Select the correct answer using the codes given below : [CDS Pre.2014 I]
+a) 1 and 2
+b) 2 and 3
+c) 1, 2 and 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q222) Which of the following statements are correct regarding Joint Session of the Houses of the Parliament in India?
+1. It is an enabling provision, empowering the President to take steps for resolving deadlock between the two Houses,
+2. It is not obligatory upon the President to summon the Houses to meet in a joint sitting.
+3. It is being notified by the President.
+4. It is frequently resorted to establish the supremacy of the Lok Sabha
+Select the correct answer using the codes given below : [CDS Pre.2014 I]
+a) 1 and 2
+b) 1, 2 and 3
+c) 2 and 3
+d) 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 and 3
+#AnswerEnd

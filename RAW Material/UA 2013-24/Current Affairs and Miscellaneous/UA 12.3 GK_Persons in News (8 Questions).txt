@@ -1,0 +1,97 @@
+#QuestionStart
+Q1) Who of the following is the author of the books "The India Way" and "Why Bharat Matters"? (2024)
+a) Bhupender Yadav
+b) Nalin Mehta
+c) Shashi Tharoor
+d) Subrahmanyam Jaishankar
+#QuestionEnd
+#AnswerStart
+Answer: d) Subrahmanyam Jaishankar
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to coal-based thermal power plants in India, consider the following statements: (2023)
+1. None of them uses seawater.
+2. None of them are set up in water- stressed districts.
+3. None of them is privately owned.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q3) Consider the following statements: (2023)
+Statement-I: 7th August is declared as the National Handloom day.
+Statement-II: It was in 1905 that the Swadeshi movement was launched on the same day.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements in respect of the National Flag of India according to the Flag Code of India, 2002: (2023)
+Statement-I: One of the standard sizes of the National Flag of India is 600 mm × 400 mm.
+Statement-II: The ratio of the length to the height (width) of the Flag shall be 3 : 2.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statements-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statements-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: d) Statement-I is incorrect but Statement- II is correct
+#AnswerEnd
+
+#QuestionStart
+Q5) A recent movie titled The Man Who Knew Infinity is based on the biography of: (2016)
+a) S. Ramanujan
+b) S. Chandrasekhar
+c) S. N. Bose
+d) C. V. Raman
+#QuestionEnd
+#AnswerStart
+Answer: a) S. Ramanujan
+#AnswerEnd
+
+#QuestionStart
+Q6) H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases? (2016)
+a) AIDS
+b) Bird flu
+c) Dengue
+d) Swine flu
+#QuestionEnd
+#AnswerStart
+Answer: d) Swine flu
+#AnswerEnd
+
+#QuestionStart
+Q7) Indira Gandhi Peace Prize for Peace, Disarmament and Development for 2014 was given to which of the following? (2015)
+a) Bhabha Atomic Research Centre
+b) Indian Institute of Science
+c) Indian Space Research Organisation
+d) Tata Institute of Fundamental Research
+#QuestionEnd
+#AnswerStart
+Answer: c) Indian Space Research Organisation
+#AnswerEnd
+
+#QuestionStart
+Q8) Karl Marx explained the process of class struggle with the help of which one of the following theories? (2011)
+a) Empirical liberalism
+b) Existentialism
+c) Darwin's theory of evolution
+d) Dialectical materialism
+#QuestionEnd
+#AnswerStart
+Answer: d) Dialectical materialism
+#AnswerEnd

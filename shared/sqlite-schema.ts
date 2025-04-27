@@ -59,6 +59,7 @@ export const testsRelations = relations(tests, ({ many }) => ({
 export const questions = sqliteTable("questions", {
   id: integer("id").primaryKey({ autoIncrement: true }),
   testId: integer("test_id").notNull().references(() => tests.id),
+  questionNumber: integer("question_number").notNull().default(0), // Added question number
   questionText: text("question_text").notNull(),
   optionA: text("option_a").notNull(),
   optionB: text("option_b").notNull(),
@@ -174,7 +175,7 @@ export const userAnswers = sqliteTable("user_answers", {
   createdAt: text("created_at").notNull().$defaultFn(() => new Date().toISOString()),
 });
 
-export const userAnswersRelations = relations(userAnswers, ({ one }) => ({
+export const userAnswersRelations = relations(userAnswers, ({ one, many }) => ({ // Added 'many'
   attempt: one(attempts, {
     fields: [userAnswers.attemptId],
     references: [attempts.id],
@@ -183,6 +184,7 @@ export const userAnswersRelations = relations(userAnswers, ({ one }) => ({
     fields: [userAnswers.questionId],
     references: [questions.id],
   }),
+  notes: many(questionNotes), // Add this relation
 }));
 
 // Flashcards generated from incorrect answers
@@ -203,6 +205,23 @@ export const flashcardsRelations = relations(flashcards, ({ one }) => ({
   question: one(questions, {
     fields: [flashcards.questionId],
     references: [questions.id],
+  }),
+}));
+
+// Add this new table definition
+export const questionNotes = sqliteTable("question_notes", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  userAnswerId: integer("user_answer_id").notNull().references(() => userAnswers.id, { onDelete: 'cascade' }), // Link to the specific answer instance
+  noteText: text("note_text").notNull(),
+  createdAt: text("created_at").notNull().$defaultFn(() => new Date().toISOString()),
+  updatedAt: text("updated_at").notNull().$defaultFn(() => new Date().toISOString()), // Track edits
+});
+
+// Add relations for the new table
+export const questionNotesRelations = relations(questionNotes, ({ one }) => ({
+  userAnswer: one(userAnswers, {
+    fields: [questionNotes.userAnswerId],
+    references: [userAnswers.id],
   }),
 }));
 
@@ -275,6 +294,14 @@ export const insertFlashcardSchema = createInsertSchema(flashcards).omit({
 });
 export type InsertFlashcard = z.infer<typeof insertFlashcardSchema>;
 
+// Add insert/select types for the new table
+export const insertQuestionNoteSchema = createInsertSchema(questionNotes).omit({
+  id: true,
+  createdAt: true,
+  updatedAt: true, // Omit updatedAt on insert
+});
+export type InsertQuestionNote = z.infer<typeof insertQuestionNoteSchema>;
+
 // Type exports for select operations
 export type User = typeof users.$inferSelect;
 export type Subject = typeof subjects.$inferSelect;
@@ -287,6 +314,7 @@ export type Tag = typeof tags.$inferSelect;
 export type Attempt = typeof attempts.$inferSelect;
 export type UserAnswer = typeof userAnswers.$inferSelect;
 export type Flashcard = typeof flashcards.$inferSelect;
+export type QuestionNote = typeof questionNotes.$inferSelect; // Add this line
 
 // Extended types for related data
 export type QuestionWithTags = Question & {
@@ -314,15 +342,47 @@ export type SubjectStats = {
   leftCount: number;
   percentage: number;
 };
+// Define the new TagStats type (based on calculated data in sqlite-storage)
+export type TagStats = {
+  tag: string;
+  attempts: number;
+  correct: number;
+  incorrect: number;
+  left: number;
+  accuracy: number;
+  avgTime: number;
+  score: number;
+  highConfidencePercent: number;
+  mediumConfidencePercent: number;
+  lowConfidencePercent: number;
+  knowledgePercent: number;
+  techniquePercent: number;
+  guessworkPercent: number;
+};
+
 
 export type TestAnalytics = {
   attempt: Attempt;
   test: Test;
   questions: QuestionWithTags[];
   userAnswers: UserAnswer[];
-  subjectStats: SubjectStats[];
+  tagStats: TagStats[]; // Changed from subjectStats
   timePerQuestion: number; // in seconds
   correctPercentage: number;
   incorrectPercentage: number;
   leftPercentage: number;
+};
+
+// Potentially update related types if needed (e.g., if fetching notes with answers)
+export type UserAnswerWithDetails = UserAnswer & {
+  question: QuestionWithTags;
+  attempt: AttemptWithTest;
+  notes?: QuestionNote[]; // Include notes
+};
+
+// Type definition for heatmap data point
+export type HeatmapData = {
+  date: string; // YYYY-MM-DD
+  count: number;
+  testNames: string[];
 };

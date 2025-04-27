@@ -1,0 +1,61 @@
+#QuestionStart
+Q1) Indigo cultivation in India declined by the beginning of the 20th century because of: (2020)
+a) peasant resistance to the oppressive conduct of planters
+b) its unprofitability in the world market because of new inventions
+c) national leaders’ opposition to the cultivation of indigo
+d) Government control over the planters
+#QuestionEnd
+#AnswerStart
+Answer: b) its unprofitability in the world market because of new inventions
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the history of India, “Ulgulan” or the Great Tumult is the description of which of the following events? (2020)
+a) The Revolt of 1857
+b) The Mappila Rebellion of 1921
+c) The Indigo Revolt of 1859-60
+d) BirsaMunda’s Revolt of 1899-1900
+#QuestionEnd
+#AnswerStart
+Answer: d) BirsaMunda’s Revolt of 1899-1900
+#AnswerEnd
+
+#QuestionStart
+Q3) After the Santhal Uprising subsided, what were the measure/measures taken by the colonial government? (2018)
+1. The territories called ‘Santhal Parganas’ were created.
+2. It became illegal for a Santhal to transfer land to a non-Santhal.
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q4) What was/were the object/objects of Queen Victoria’s Proclamation (1858)? (2014)
+1. To disclaim any intention to annex Indian States.
+2. To place the Indian administration under the British Crown.
+3. To regulate East India Company’s trade with India.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q5) Which amongst the following provided a common factor for tribal insurrection in India in the 19th century? (2011)
+a) Introduction of a new system of land revenue and taxation- of tribal products
+b) Influence of foreign religious missionaries in tribal areas
+c) Rise of a large number of money lenders, traders and revenue farmers as middlemen in tribal areas
+d) The complete disruption of the old agrarian order of the tribal communities
+#QuestionEnd
+#AnswerStart
+Answer: d) The complete disruption of the old agrarian order of the tribal communities
+#AnswerEnd

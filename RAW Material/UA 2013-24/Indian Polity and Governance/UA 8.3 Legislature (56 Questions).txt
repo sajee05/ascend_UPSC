@@ -1,0 +1,748 @@
+#QuestionStart
+Q1) With reference to the Speaker of the Lok Sabha, consider the following statements:
+While any resolution for the removal of the Speaker of the Lok Sabha is under consideration (2024)
+1. He/She shall not preside.
+2. He/She shall not have the right to speak.
+3. He/She shall not be entitled to vote on the resolution in the first instance.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q2) With reference to the Indian Parliament, consider the following statements : (2024)
+1. A bill pending in the Lok Sabha lapses on its dissolution.
+2. A bill passed by the Lok Sabha and pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.
+3. A bill in regard to which the President of India notified his/her intention to summon the Houses to a joint sitting lapses on the dissolution of the Lok Sabha.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q3) With reference to the Parliament of India, consider the following statements: (2024)
+1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers.
+2. Prorogation of a House is generally done after the House is adjourned sine die but there is no bar to the President of India prorogating the House which is in session.
+3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2
+c) 2 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) Consider the following statements regarding 'Nari Shakti Vandan Adhiniyam': (2024)
+1. Provisions will come into effect from the 18th Lok Sabha.
+2. This will be in force for 15 years after becoming an Act.
+3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes.
+Which of the statements given above are correct?
+a) 1,2 and 3
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q5) With reference to Union Budget, consider the following statements: (2024)
+1. The Union Finance Minister on behalf of the Prime Minister lays the Annual Financial Statement before both the Houses of Parliament.
+2. At the Union level, no demand for a grant can be made except on the recommendation of the President of India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q6) How many Delimitation Commissions have been constituted by the Government of India till December 2023. (2024)
+a) One
+b) Two
+c) Three
+d) Four
+#QuestionEnd
+#AnswerStart
+Answer: d) Four
+#AnswerEnd
+
+#QuestionStart
+Q7) The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages? (2024)
+1. Konkani
+2. Manipuri
+3. Nepali
+4. Maithili
+Select the correct answer using the code given below:
+a) 1, 2 and 3
+b) 1, 2 and 4
+c) 1,3 and 4
+d) 2,3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q8) As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of: (2024)
+1. Addition
+2. Variation
+3. Repeal
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q9) Which of the following statements are correct in respect of a Money Bill in the Parliament? (2024)
+1. Article 109 mentions a special procedure in respect of Money Bills.
+2. A Money Bill shall not be introduced in the Council of States.
+3. The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it.
+4. Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha.
+Select the answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1,2 and 3
+d) 1,3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q10) Consider the following statements : (2023)
+Statement-I : In India, prisons are managed by State Governments with their own rules and regulations for the day-to-day administration of prisons.
+Statement-II: In India, prisons are governed by the Prisons Act, 1894 which expressly kept the subject of prisons in the control of Provincial Governments.
+Which one of the following is correct in respect of the above statements?
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I
+c) Statement-I is correct but Statement-II is incorrect
+d) Statement-I is incorrect but Statement- II is correct
+#QuestionEnd
+#AnswerStart
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I
+#AnswerEnd
+
+#QuestionStart
+Q11) With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements : (2023)
+1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.
+2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.
+3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+a) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q12) With reference to 'Scheduled Areas' in India, consider the following statements : (2023)
+1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President.
+2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.
+3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States.
+How many of the above statements are correct?
+a) Only one
+b) Only two
+c) All three
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) Only two
+#AnswerEnd
+
+#QuestionStart
+Q13) With reference to Deputy Speaker of Lok Sabha, consider the following statements : (2022)
+1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix.
+2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party.
+3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings.
+4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.
+Which of the statements given above are correct ?
+a) 1 and 3 only
+b) 1, 2 and 3
+c) 3 and 4 only
+d) 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q14) With reference to anti-defection law in India, consider the following statements : (2022)
+1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House.
+2. The law does not provide any time- frame within which the presiding officer has to decide a defection case.
+Which of the statements given above is/are correct ?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q15) Which of the following is/are the exclusive power(s) of Lok Sabha ? (2022)
+1. To ratify the declaration of Emergency
+2. To pass a motion of no-confidence against the Council of Ministers
+3. To impeach the President of India
+Select the correct answer using the code given below :
+a) 1 and 2
+b) 2 only
+c) 1 and 3
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q16) Consider the following statements : (2022)
+1. A bill amending the Constitution requires a prior recommendation of the President of India.
+2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent.
+3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.
+Which of the statements given above are correct ?
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1,2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q17) Along with the Budget, the Finance Minister also places other documents before the Parliament which include ‘The Macro Economic Framework Statement’. The aforesaid document is presented because this is mandated by (2020)
+a) Long standing parliamentary convention
+b) Article 112 and Article 110 (1) of the Constitution of India
+c) Article 113 of the Constitution of India
+d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#QuestionEnd
+#AnswerStart
+Answer: d) Provisions of the Fiscal Responsibility and Budget Management Act, 2003
+#AnswerEnd
+
+#QuestionStart
+Q18) A Parliamentary System of Government is one in which (2020)
+a) all political parties in the Parliament are represented in the Government
+b) the Government is responsible to the Parliament and can be removed by it
+c) the Government is elected by the people and can be removed by them.
+d) the Government is chosen by the Parliament but cannot be removed by it before completion of a fixed-term
+#QuestionEnd
+#AnswerStart
+Answer: b) the Government is responsible to the Parliament and can be removed by it
+#AnswerEnd
+
+#QuestionStart
+Q19) Consider the following statements: (2020)
+1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a state for six months even if he/she is not a member of the Legislature of that state.
+2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Rajya Sabha has equal powers with Lok Sabha in (2020)
+a) the matter of creating new All India Services
+b) amending the Constitution
+c) the removal of the government
+d) making cut motions
+#QuestionEnd
+#AnswerStart
+Answer: b) amending the Constitution
+#AnswerEnd
+
+#QuestionStart
+Q21) Consider the following statements: (2019)
+1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of ‘Office of Profit’.
+2. The above-mentioned Act was amended five times.
+3. The term ‘Office of Profit’ is well-defined in the Constitution of India.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q22) Consider the following statements: (2018)
+1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party.
+2. In the Lok Sabha, a “Leader of the Opposition” was recognised for the first time in 1969.
+3. In the Lok Sabha, if the party does not have a minimum of 75 members, its leader cannot be recognised as the leader of opposition.
+Which of the following statements given is/ are correct?
+a) 1 and 3 only
+b) 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q23) Consider the following statements: (2018)
+1. Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.
+2. The validity of law placed in the Ninth Schedule cannot be examined by any court and no Judgement can be made on it.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) 1 and 2 only
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q24) With reference to the Parliament of India, which of the following Parliamentary Committees scrutinises and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executives within the scope of such delegation? (2018)
+a) Committee on Government Assurances
+b) Committee on Subordinate Legislation
+c) Committee on rules
+d) Business Advisory Committee
+#QuestionEnd
+#AnswerStart
+Answer: b) Committee on Subordinate Legislation
+#AnswerEnd
+
+#QuestionStart
+Q25) Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? (2018)
+a) Article 14 and the provisions under the 42nd amendment to the Constitution.
+b) Article 17 and the Directive Principle of the State Policy in Part IV
+c) Article 21 and the freedoms guaranteed in Part III
+d) Article 24 and provisions under the 44th Amendments to the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 21 and the freedoms guaranteed in Part III
+#AnswerEnd
+
+#QuestionStart
+Q26) Regarding Money Bill, which of the following statements is not correct? (2018)
+a) A bill shall be deemed to be a Money Bill if it contains only provisions related to imposition, abolition, remission, alteration or regulation of any tax.
+b) A Money Bill has the provisions for the custody of the Consolidated Fund of India or the Contingency Fund of India.
+c) A Money Bill is concerned with the appropriation of money out of the Contingency Fund of India.
+d) A Money Bill deals with the regulations of borrowings of money or giving of any guarantee by the Government of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) A Money Bill is concerned with the appropriation of money out of the Contingency Fund of India.
+#AnswerEnd
+
+#QuestionStart
+Q27) Consider the following statements: (2018)
+1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly.
+2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/ her office immediately.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q28) Consider the following statements: (2017)
+1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 per cent of the votes polled to be declared elected.
+2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker's post goes to the majority party and the Deputy Speaker's to the Opposition.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q29) Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government: (2017)
+a) An arrangement for minimising criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.
+b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.
+c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.
+#QuestionEnd
+#AnswerStart
+Answer: c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.
+#AnswerEnd
+
+#QuestionStart
+Q30) With reference to the Parliament of India, consider the following statements: (2017)
+1. A private member's bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.
+2. Recently, a private member's bill has been passed in the Parliament of India for the first time in its history.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q31) For election to the Lok Sabha, a nomination paper can be filed by (2017)
+a) anyone residing in India.
+b) a resident of the constituency from which the election is to be contested.
+c) any citizen of India whose name appears in the electoral roll of a constituency.
+d) any citizen of India.
+#QuestionEnd
+#AnswerStart
+Answer: c) any citizen of India whose name appears in the electoral roll of a constituency.
+#AnswerEnd
+
+#QuestionStart
+Q32) Which of the following statements is/are correct? (2016)
+1. A bill pending in the Lok Sabha lapses on its prorogation.
+2. A bill pending in the Rajya Sabha, which has not been passed by the Lok Sabha, shall not lapse on the dissolution of the Lok Sabha.
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q33) The Parliament of India acquires the powers to legislate on any items in the State List in the national interest if the resolution to that effect has been passed by the (2016)
+a) Lok Sabha by a simple majority of its total membership
+b) Lok Sabha by a majority of not less than two-thirds of its total membership
+c) Rajya Sabha by a simple majority of its total membership
+d) Rajya Sabha by a majority of not less than two- thirds of its members present and voting
+#QuestionEnd
+#AnswerStart
+Answer: d) Rajya Sabha by a majority of not less than two- thirds of its members present and voting
+#AnswerEnd
+
+#QuestionStart
+Q34) There is a Parliamentary System of Government in India because the (2015)
+a) Lok Sabha is elected directly by the people
+b) Parliament can amend the Constitution
+c) Rajya Sabha cannot be dissolved
+d) Council of Ministers is responsible to the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d) Council of Ministers is responsible to the Lok Sabha
+#AnswerEnd
+
+#QuestionStart
+Q35) Consider the following statements: (2015)
+1. The Legislative Council of a State in India can be larger in size than half of the Legislative Assembly of that particular State.
+2. The Governor of a State nominates the Chairman of the Legislative Council of that particular State.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q36) When a bill is referred to a joint sitting both the Houses of the Parliament, has to be passed by (2015)
+a) a simple majority of member present and voting
+b) three-fourths majority of member present and voting
+c) two-thirds majority of the House
+d) absolute majority of the House
+#QuestionEnd
+#AnswerStart
+Answer: a) a simple majority of member present and voting
+#AnswerEnd
+
+#QuestionStart
+Q37) Consider the following statements: (2015)
+1. The Rajya Sabha has no power either to reject or to amend a Money Bill.
+2. The Rajya Sabha cannot vote on the Demands for Grants.
+3. The Rajya Sabha cannot discuss the Annual Financial Statement.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 1 and 2 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q38) Which one of the Schedules of the Constitution of India contains provisions regarding the anti-defection? (2014)
+a) Second Schedule
+b) Fifth Schedule
+c) Eighth Schedule
+d) Tenth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d) Tenth Schedule
+#AnswerEnd
+
+#QuestionStart
+Q39) Which of the following committees is the largest Committee of the Parliament? (2014)
+a) The Committee on Public Accounts
+b) The Committee on Estimates
+c) The Committee on Public Undertakings
+d) The Committee on Petitions
+#QuestionEnd
+#AnswerStart
+Answer: b) The Committee on Estimates
+#AnswerEnd
+
+#QuestionStart
+Q40) Consider the following statements regarding a No-Confidence Motion in India: (2014)
+1. There is no mention of No-Confidence Motion in the Constitution of India.
+2. A Motion of No-Confidence can be introduced in the Lok Sabha only.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q41) Consider the following statements: (2013)
+The Parliamentary Committee on Public Accounts (PAC)
+1. Consists of not more than 25 Members of the Lok Sabha.
+2. Scrutinises appropriation and finance accounts of Government.
+3. Examine the report of CAG.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3 only
+c) 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q42) In the context of India, which of the following principles is/are implied institutionally in the parliamentary government? (2013)
+1. Members of the Cabinet are Members of the Parliament.
+2. Ministers hold the office till they enjoy confidence in the Parliament.
+3. The Cabinet is headed by the Head of the State.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 3 only
+c) 2 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q43) Consider the following statements: (2013)
+1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the Members of that House.
+2. While the nominated members of the two Houses of the Parliament have no voting right in the Presidential election, they have the right to vote in the election of the Vice President.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+
+#QuestionStart
+Q44) What will follow if a Money Bill is substantially amended by the Rajya Sabha? (2013)
+a) The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha
+b) The Lok Sabha cannot consider the Bill further
+c) The Lok Sabha may send the Bill to the Rajya Sabha for reconsideration
+d) The President may call a joint sitting for passing the Bill
+#QuestionEnd
+#AnswerStart
+Answer: a) The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha
+#AnswerEnd
+
+#QuestionStart
+Q45) Consider the following statements: (2013)
+1. An amendment to the Constitution of India can be initiated by an introduction of a Bill in the Lok Sabha only.
+2. If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the Legislature of all the States of India.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+
+#QuestionStart
+Q46) The Parliament can make any law for whole or any part of India for implementing International Treaties (2013)
+a) with the consent of all the States
+b) with the consent of the majority of States
+c) with the consent of the States concerned
+d) without the consent of any State
+#QuestionEnd
+#AnswerStart
+Answer: d) without the consent of any State
+#AnswerEnd
+
+#QuestionStart
+Q47) Regarding the Office of the Lok Sabha Speaker, consider the following statements: (2012)
+1. He/She holds the office during the pleasure of the President.
+2. He/She need not be a member of the House at the time of his/her election but has to become a member of the House within six months from the date of his/her election.
+3. If he/she intends to resign, the letter of his/her resignation has to be addressed to the Deputy Speaker.
+Which of the statements given above is/are correct?
+a) 1 and 2 only
+b) 3 only
+c) 1, 2 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: b) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q48) Consider the following statements: (2012)
+1. Union Territories are not represented in the Rajya Sabha.
+2. It is within the purview of the Chief Election Commissioner to adjudicate the election disputes.
+3. According to the Constitution of India, the Parliament consists of the Lok Sabha and the Rajya Sabha only.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 and 3
+c) 1 and 3
+d) None
+#QuestionEnd
+#AnswerStart
+Answer: d) None
+#AnswerEnd
+
+#QuestionStart
+Q49) In the Parliament of India, the purpose of an Adjournment Motion is: (2012)
+a) to allow a discussion on a definite matter of urgent public importance
+b) to let opposition members, collect information from the ministers
+c) to allow a reduction of specific amount in demand for grant
+d) to postpone the proceedings to check the inappropriate or violent behaviour on the part of some members
+#QuestionEnd
+#AnswerStart
+Answer: a) to allow a discussion on a definite matter of urgent public importance
+#AnswerEnd
+
+#QuestionStart
+Q50) Which of the following are the methods of Parliamentary control over public finance in India? (2012)
+1. Placing Annual Financial Statement before the Parliament.
+2. Withdrawal of moneys from Consolidated Fund of India only after passing the Appropriation Bill.
+3. Provisions of supplementary grants and vote-on-account.
+4. A periodic or at least a mid-year review of programmes of the Government against macroeconomic forecasts and expenditure by a Parliamentary Budget Office.
+5. Introducing Finance Bill in the Parliament.
+Select the correct answer using the code given below:
+a) 1, 2, 3 and 5 only
+b) 1, 2 and 4 only
+c) 3, 4 and 5 only
+d) 1, 2, 3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a) 1, 2, 3 and 5 only
+#AnswerEnd
+
+#QuestionStart
+Q51) Which of the following special powers have been conferred on the Rajya Sabha by the Constitution of India? (2012)
+a) To change the existing territory of a State and to change the name of a State.
+b) To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services.
+c) To amend the election procedure of the President and to determine the pension of the President after his/her retirement.
+d) To determine the functions of the Election Commission and to determine the number of Election Commissioners.
+#QuestionEnd
+#AnswerStart
+Answer: b) To pass a resolution empowering the Parliament to make laws in the State List and to create one or more All India Services.
+#AnswerEnd
+
+#QuestionStart
+Q52) A deadlock between the Lok Sabha and the Rajya Sabha calls for a joint sitting of the Parliament during the passage of (2012)
+1. Ordinary Legislation
+2. Money Bill
+3. Constitution Amendment Bill
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q53) The authorization for the withdrawal of funds from the Consolidated Fund of India must come from (2011)
+a) The President of India
+b) The Parliament of India
+c) The Prime Minister of India
+d) The Union Finance Minister
+#QuestionEnd
+#AnswerStart
+Answer: b) The Parliament of India
+#AnswerEnd
+
+#QuestionStart
+Q54) All revenues received by the Union Government by way of taxes and other receipts for the conduct of Government business are credited to the (2011)
+a) Contingency Fund of India
+b) Public Account
+c) Consolidated Fund of India
+d) Deposits and Advances Fund
+#QuestionEnd
+#AnswerStart
+Answer: c) Consolidated Fund of India
+#AnswerEnd
+
+#QuestionStart
+Q55) When the annual Union Budget is not passed by the Lok Sabha, (2011)
+a) the Budget is modified and presented again
+b) the Budget is referred to the Rajya Sabha for suggestions
+c) the Union Finance Minister is asked to resign
+d) the Prime Minister submits the resignation of Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: d) the Prime Minister submits the resignation of Council of Ministers
+#AnswerEnd
+
+#QuestionStart
+Q56) What is the difference between “vote-on-account” and “interim budget”? (2011)
+1. The provision of a “vote-on-account” is used by a regular Government, while an “interim budget” is a provision used by a caretaker Government.
+2. A “vote-on-account” only deals with the expenditure in the Government’s Budget, while an “interim budget” includes both expenditure and receipts.
+Which of the statements given above is/are correct?
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd

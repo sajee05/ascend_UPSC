@@ -21,8 +21,7 @@ interface Settings {
   studyPlanPrompt: string;
   learningPatternPrompt: string;
   parsingPromptTitle: string;
-  databaseType: "sqlite" | "postgresql";
-  postgresConnectionString: string;
+  // Removed databaseType and postgresConnectionString as SQLite is now the only option
 }
 
 interface SettingsContextType {
@@ -43,8 +42,7 @@ const defaultSettings: Settings = {
   studyPlanPrompt: DEFAULT_STUDY_PLAN_PROMPT,
   learningPatternPrompt: DEFAULT_LEARNING_PATTERN_PROMPT,
   parsingPromptTitle: DEFAULT_PARSING_PROMPT_TITLE,
-  databaseType: "postgresql", // Default to PostgreSQL for web mode
-  postgresConnectionString: "", // Empty by default
+  // Removed databaseType and postgresConnectionString defaults
 };
 
 const SettingsContext = createContext<SettingsContextType>({

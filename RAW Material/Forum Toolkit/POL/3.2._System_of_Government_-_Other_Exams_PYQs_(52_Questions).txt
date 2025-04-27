@@ -1,0 +1,661 @@
+QuestionStart
+Q15) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): The nature of Indian Political System embodies the elements of ‘continuity and change’.
+Reason (R): The Indian Political System contains the elements of the following political system such as the modern style, the traditional style and saint style.
+Select the correct answer from the codes given below. [U.P.P.C.S. (Pre) 2020]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q16) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): Indian federalism is called ‘Quasi-federal’.
+Reason (R): India has an independent judiciary with power of Judicial Review.
+Select the correct answer from the codes given below. [U.P.P.C.S. (Pre) 2020]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q17) With reference to the federal system in India, which of the statements is/are correct?
+1. States have no right to secede from the Union under the constitution of India.
+2. Just advocacy of secession will have the protection of freedom of expression.
+Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2019]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q18) Of the following political features, which is/are common to India and the USA?
+1. Residuary powers vested in the centre.
+2. Residuary powers vested in the states.
+3. President has the power of pocket veto.
+4. The upper house has some nominated members.
+Code: [U.P.P.C.S. (Pre) 2017]
+a) 3 only
+b) 3 and 4 only
+c) 2, 3 and 4 only
+d) 1,3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 3 only
+#AnswerEnd
+
+#QuestionStart
+Q19) With reference to the Sovereignty of India, which of the following statements is/are correct?
+1. India is a member of Commonwealth of Nations.
+2. Sovereignty of India is curtailed due to its membership of Commonwealth of Nations.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Mains) 2017]
+a) 1 only
+b) 2 only
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+
+#QuestionStart
+Q20) Who among the following is empowered to establish the Inter-State council? [U.P.P.C.S. (Pre) 2017]
+a) Parliament
+b) President
+c) Speaker of Lok Sabha
+d) Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: b) President
+#AnswerEnd
+
+#QuestionStart
+Q21) Which one of the following is not a feature of a zonal council? [U.P.P.C.S. (Pre) 2017]
+a) It is a constitutional body
+b) Five Zonal Councils have set up under the State Reorganization Act, 1956
+c) Chandigarh although not a state, is included in Zonal Council
+d) It is an Advisory body
+#QuestionEnd
+#AnswerStart
+Answer: a) It is a constitutional body
+#AnswerEnd
+
+#QuestionStart
+Q22) Which one of the following is not related to Union-State relations in India? [U.P.P.C.S. (Pre) 2015]
+a) Sarkaria Commission
+b) Rajmannar Committee
+c) Indrajit Gupta Committee
+d) Punchhi Commission
+#QuestionEnd
+#AnswerStart
+Answer: c) Indrajit Gupta Committee
+#AnswerEnd
+
+#QuestionStart
+Q23) Which of the following is correct? [U.P.P.C.S. (Mains) 2014]
+The main feature of a Presidential form of Government is/are -
+a) The Head of the Executive is the President.
+b) The President appoints his Council of Ministers.
+c) The President cannot dissolve the Legislature.
+d) All of the above.
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above.
+#AnswerEnd
+
+#QuestionStart
+Q24) Consider the following statements:
+1. India is a democratic polity.
+2. India is a sovereign state.
+3. India has a democratic society.
+4. India is a welfare state.
+Which of the above statements are true? [U.P.P.C.S. (Mains) 2012]
+a) 1 and 2 only
+b) 1,2 and 3 only
+c) 2, 3 and 4 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q25) Is a State of the Indian Union empowered under the Constitution to take foreign loans directly? [U.P.P.C.S. (Mains) 2012]
+a) Yes
+b) No
+c) Yes, but from international organizations only
+d) Yes, but only with the permission of the Reserve Bank of India
+#QuestionEnd
+#AnswerStart
+Answer: b) No
+#AnswerEnd
+
+#QuestionStart
+Q26) Centre-State relations in India are dependent upon-
+1. Constitutional provisions
+2. Conventions and practices
+3. Judicial interpretations
+4. Mechanisms for dialogue
+Select the correct answer from the codes given below: [U.P.P.C.S. (Pre) 2009]
+a) 1 and 2
+b) 1, 2 and 3
+c) 2, 3 and 4
+d) All the four
+#QuestionEnd
+#AnswerStart
+Answer: d) All the four
+#AnswerEnd
+
+#QuestionStart
+Q27) Article 249 of the Indian Constitution deals with [U.P.P.C.S. (Mains) 2009]
+a) Emergency Power of the President
+b) Dissolution of the Lok Sabha
+c) Administrative Power of the Parliament
+d) Legislative Powers of the Parliament with respect to subjects in the State List
+#QuestionEnd
+#AnswerStart
+Answer: d) Legislative Powers of the Parliament with respect to subjects in the State List
+#AnswerEnd
+
+#QuestionStart
+Q28) In a Parliamentary system of Government-[U.P.P.C.S. (Mains 2010)]
+a) Judiciary controls Executive
+b) Executive controls Judiciary
+c) Executive controls Legislature
+d) Legislature controls Executive
+#QuestionEnd
+#AnswerStart
+Answer: d) Legislature controls Executive
+#AnswerEnd
+
+#QuestionStart
+Q29) Here are two statements:
+Assertion (A): Political Parties are lifeblood of democracy.
+Reason (R): Normally people blame political parties for bad governance.
+Which of the following is correct in the above context? [U.P.P.C.S. (Pre) 2009]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+c) (A) is true, but (R) is wrong.
+d) (A) and (R) both are wrong.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are true, but (R) is not a correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q30) Which one is the most prominent element of a state? [U.P.P.C.S. (Pre) 2008]
+a) Flag
+b) Capital
+c) Sovereignty
+d) Head of State
+#QuestionEnd
+#AnswerStart
+Answer: c) Sovereignty
+#AnswerEnd
+
+#QuestionStart
+Q31) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): Indian Constitution is quasifederal.
+Reason (R): Indian Constitution is neither federal nor unitary.
+Select the correct answer using the codes given below: [U.P.P.C.S. (Pre) 2007]
+a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) (A) is true, but (R) is false.
+d) (A) is false, but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true, and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q32) Sarkaria Commission was set up to review-[U.P.P.C.S. (Mains) 2006]
+a) The relations between the President and the Prime Minister
+b) The relations between the Legislature and the Executive
+c) The relations between the Executive and the Judiciary
+d) The relations between the Union and the States
+#QuestionEnd
+#AnswerStart
+Answer: d) The relations between the Union and the States
+#AnswerEnd
+
+#QuestionStart
+Q33) Consider the following statements-
+In India taxes on transactions in StockExchanges and Futures Markets are-
+1. Levied by Union
+2. Collected by the State Government
+Code: [U.P.P.C.S. (Mains) 2006]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) Only 1
+#AnswerEnd
+
+#QuestionStart
+Q34) Which of the following statements about the federal system in India are correct?
+1. The Constitution introduces a federal system as the basic structure of Government.
+2. There is a strong admixture of a unitary bias.
+3. Both the Union and State Legislatures are sovereign.
+4. The legislative, financial and judicial powers have been divided between the Union and its units.
+Select the correct answer from the codes given below: [U.P.P.C.S. (Mains) 2004]
+a) 1 only
+b) 1 and 2 only
+c) 1,2 and 3 only
+d) All the four
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q35) Under which of the following taxes is the total amount payable by an individual, limited by the Constitution? [U.P.P.C.S. (Mains) 2004]
+a) Corporation tax
+b) Estate Duty
+c) Succession Duty
+d) Tax on profession, trade, and callings
+#QuestionEnd
+#AnswerStart
+Answer: d) Tax on profession, trade, and callings
+#AnswerEnd
+
+#QuestionStart
+Q36) What is the source of Inter-State councils [U.P.P.C.S. (Pre) 2000]
+a) Constitution
+b) Parliamentary laws
+c) Recommendation of Planning Commission
+d) Approved Resolution by CM
+#QuestionEnd
+#AnswerStart
+Answer: a) Constitution
+#AnswerEnd
+
+#QuestionStart
+Q37) The cardinal features of political system in India are-
+1. It is a democratic republic.
+2. It has a Parliamentary form of government.
+3. The supreme power vests in People of India.
+4. It provides for a unified authority.
+Select the correct answer from the code given below: [U.P. Lower Sub. (Pre) 2008]
+a) I and 2 only
+b) 1,2 and 3 only
+c) 2, 3 and 4 only
+d) All the four
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 only
+#AnswerEnd
+
+#QuestionStart
+Q38) ‘India is a Republic’ means- [U.P.P.C.S. (Pre) 1997]
+a) It is the people who are the final authority in all matters.
+b) There is no Parliamentary System of Government in India.
+c) There are no hereditary rulers in India,
+d) India is the Union of States.
+#QuestionEnd
+#AnswerStart
+Answer: c) There are no hereditary rulers in India,
+#AnswerEnd
+
+#QuestionStart
+Q39) The Indian Constitution vests the residuary powers with: [U.P.P.C.S. (Pre) 1995]
+a) The Union Government
+b) The State Governments
+c) Both the Union as well as State Governments
+d) Neither the Union nor the State Governments
+#QuestionEnd
+#AnswerStart
+Answer: a) The Union Government
+#AnswerEnd
+
+#QuestionStart
+Q40) Main agency to resolve the fiscal disputes between the Centre and States is- [U.P.P.C.S. (Pre) 1995]
+a) Supreme Court
+b) Law Minister
+c) Finance Minister
+d) Finance Commission
+#QuestionEnd
+#AnswerStart
+Answer: a) Supreme Court
+#AnswerEnd
+
+#QuestionStart
+Q41) Freedom of inter-state trade and commerce has been regulated by the Indian Constitution under Article: [U.P.P.C.S. (Pre) 1999]
+a) 19(1) (d-e)
+b) 301
+c) 301 to 307
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 301 to 307
+#AnswerEnd
+
+#QuestionStart
+Q42) Who among the following chairs the Zonal Council [Uttarakhand P.C.S. (Pre) 2021]
+a) Prime Minister of India
+b) Home Minister of India
+c) Chief Ministers of the zones in rotations
+d) Finance Minister of India
+#QuestionEnd
+#AnswerStart
+Answer: b) Home Minister of India
+#AnswerEnd
+
+#QuestionStart
+Q43) Which of the following institutes are considered necessary to promote ‘Unity among diversity’ in the Indian Federalism? [Uttarakhand P.C.S. (Pre) 2016]
+a) Inter-State Councils & National Development Council
+b) Finance Commission & Regional Council
+c) Unitary Judicial System & All India Services
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+
+#QuestionStart
+Q44) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): Women, Dalits, Poor and Minority groups are the biggest stakeholders of Democracy in India.
+Reason (R): Democracy in India has emerged as the carrier for the desire of Self Respect.
+Select the correct answer from the codes given below. [R.A.S./R.T.S. (Pre) 2013]
+a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+b) Both (A) and (R) are true but (R) is not the correct explanation of (A).
+c) (A) is true but (R) is false.
+d) (A) is false but (R) is true.
+#QuestionEnd
+#AnswerStart
+Answer: a) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q45) Given below are two statements one is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A): Sarkaria Commission recommended that Article 356 should be sparingly used.
+Reason (R): The political parties that came to form the Government at the Centre misused Article 356.
+Code: [R.A.S./R.T.S. (Pre) (Re. Exam.) 2013]
+a) (R) is true, but (A) is false.
+b) Both (A) and (R) are true, but (R) is not the correct explanation of (A).
+c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+d) (A) is true, but (R) is false.
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (A) and (R) are true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q46) Given below are two statements, one is labelled as Assertion (A) and the other as Reason (R):
+Assertion (A): The primary objective of Indias federal design was to weave a nation out of its many diverse parts and protect national integration.
+Reason (R): Accommodation of diversities has built a stronger, not weaker, Indian nationhood.
+Code: [R.A.S./R.T.S. (Pre) 2013]
+a) (A) is false, but (R) is true.
+b) Both (A) and (R) are individually true and (R) is the correct explanation of (A).
+c) Both (A) and (R) are individually true, but (R) is not the correct explanation of (A).
+d) (A) is true, but (R) is false.
+#QuestionEnd
+#AnswerStart
+Answer: b) Both (A) and (R) are individually true and (R) is the correct explanation of (A).
+#AnswerEnd
+
+#QuestionStart
+Q47) In the Indian Fiscal federal system resources are allocated from the centre to the states, which of the following is not a means of resource allocation at present [Jharkhand P.C.S. (Pre) 2021]
+a) Grant-in-aid
+b) Centrally sponsored schemes
+c) Transfer for plan implementation under Gadgil formula
+d) Tax sharing
+#QuestionEnd
+#AnswerStart
+Answer: c) Transfer for plan implementation under Gadgil formula
+#AnswerEnd
+
+#QuestionStart
+Q48) Under constitutional provision of tax assignment in India, which of the following is a tax exclusively imposed and collected by the states? [Jharkhand P.C.S. (Pre) 2021]
+a) Income Tax
+b) Land Revenue
+c) Corporation Tax
+d) GST
+#QuestionEnd
+#AnswerStart
+Answer: b) Land Revenue
+#AnswerEnd
+
+#QuestionStart
+Q49) Under which Article of the Constitution of India, Taxes are levied and collected by the centre but distributed between the centre and the States? [Jharkhand P.C.S. (Pre) 2016]
+a) Article 268
+b) Article 269
+c) Article 270
+d) Article 271
+#QuestionEnd
+#AnswerStart
+Answer: c) Article 270
+#AnswerEnd
+
+#QuestionStart
+Q50) Which Commission advocated the establishment of a Permanent Inter-State Council, called ‘Inter-Governmental Council’? [Jharkhand P.C.S. (Pre) 2013]
+a) Punchhi Commission
+b) Sarkaria Commission
+c) Radhakrishnan Commission
+d) Moily Commission
+#QuestionEnd
+#AnswerStart
+Answer: b) Sarkaria Commission
+#AnswerEnd
+
+#QuestionStart
+Q51) Which Article of the Indian Constitution describes “The Executive power of every State shall be so exercised as not to impede or prejudice the exercise of the Executive power of the Union”? [Jharkhand P.C.S. (Pre) 2011]
+a) Article 257
+b) Article 258
+c) Article 355
+d) Article 356
+#QuestionEnd
+#AnswerStart
+Answer: a) Article 257
+#AnswerEnd
+
+#QuestionStart
+Q52) Which unitary elements are found in Indian Federal System?
+(i) Written Constitution
+(ii) Rigid Constitution
+(iii) Supremacy of the Constitution
+(iv) Appointment of Governor
+(v) Decentralization of Powers
+(vi) President’s approval on state bills
+(vii) Constitutional Crisis
+(viii) One Supreme Court
+Code: [Chhattisgarh P.C.S. (Pre) 2017]
+a) i, iii, vii
+b) ii, v, viii
+c) i, ii, v
+d) iv, vi, vii
+e) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) iv, vi, vii
+#AnswerEnd
+
+#QuestionStart
+Q53) Which of the following States/UTs are included in the Northern Zonal Council? [CDS 2023 (I)]
+a) Uttarakhand, Uttar Pradesh, Haryana, Punjab, Jammu and Kashmir
+b) Haryana, Punjab, Himachal Pradesh, Rajasthan and NCT of Delhi
+c) Uttar Pradesh, Uttarakhand, Punjab, Haryana and Rajasthan
+d) Uttarakhand, Uttar Pradesh, Himachal Pradesh, Punjab and Haryana
+#QuestionEnd
+#AnswerStart
+Answer: b) Haryana, Punjab, Himachal Pradesh, Rajasthan and NCT of Delhi
+#AnswerEnd
+
+#QuestionStart
+Q54) Which one of the following is not a characteristic feature of Indian Federalism? [CDS 2022 (I)]
+a) The federating units consented to form a union
+b) Residuary powers vest with the Centre
+c) Single citizenship
+d) An extensive Union and Concurrent list
+#QuestionEnd
+#AnswerStart
+Answer: a) The federating units consented to form a union
+#AnswerEnd
+
+#QuestionStart
+Q55) M.M. Punchhi Commission on Centre-State Relationship has recommended the disposal of a bill reserved for the consideration of the Union Executive within [CDS 2021 (I)]
+a) four months
+b) Six months
+c) Eight months
+d) five months
+#QuestionEnd
+#AnswerStart
+Answer: b) Six months
+#AnswerEnd
+
+#QuestionStart
+Q56) The Inter-State Council was set-up in 1990 on the recommendation of [CDS Pre.2019 I]
+a) Punchhi Commission
+b) Sarkaria Commission
+c) Rajamannar Commission
+d) Mungerilal Commission
+#QuestionEnd
+#AnswerStart
+Answer: b) Sarkaria Commission
+#AnswerEnd
+
+#QuestionStart
+Q57) Which one of the following is not a feature of Indian federalism? [CAPF 2022]
+a) Courts can interpret the Constitution and powers different levels of the Government.
+b) Sources of revenue for the Union Government and the State Governments are specified.
+c) Powers of the Union and the States are specified in the Constitution.
+d) Indian federalism is based on the principle of Separation of Powers.
+#QuestionEnd
+#AnswerStart
+Answer: d) Indian federalism is based on the principle of Separation of Powers.
+#AnswerEnd
+
+#QuestionStart
+Q58) Which of the following is/are source/ sources of Law in India?
+1. Constitution of India
+2. Statutes
+3. Customary Law
+4. Case Law
+Select the correct answer using the code given below. [CAPF 2022]
+a) 1 only
+b) 1,2 and 4 only
+c) 2 and 3 only
+d) 1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2, 3 and 4
+#AnswerEnd
+
+#QuestionStart
+Q59) Match List I with List II and select the correct answer using the codes given below the lists:
+| ListI (Concept) | List 11 (Explanation/Aim) |
+|---|---|
+| A. Pluralist democracy | 1. Power is always exercised by a privileged few |
+| B. People’s democracy | 2. Highest and harmonious development of individual capabilities |
+| C. Developmental democracy | 3. Social equality through common ownership of wealth |
+| D. Elitist democracy | 4. Capacity of groups to ensure Governmental responsiveness |
+Codes: [CAPF 2020]
+a) A4 B3 C2 D1
+b) A4 B2 C3 D1
+c) A1 B2 C3 D4
+d) A1 B3 C2 D4
+#QuestionEnd
+#AnswerStart
+Answer: a) A4 B3 C2 D1
+#AnswerEnd
+
+#QuestionStart
+Q60) Which one of the following is a characteristic of Presidential form of government? [CAPF 2016]
+a) President is not a part of legislative body
+b) It does not separate Legislative and Executive functions
+c) President follows the principle of collective responsibility
+d) The tenure of the President depends on the legislature
+#QuestionEnd
+#AnswerStart
+Answer: a) President is not a part of legislative body
+#AnswerEnd
+
+#QuestionStart
+Q61) Which one of the following is not a feature of Indian federalism? [CAPF 2016]
+a) Every State Government has powers of its own
+b) Courts have the power to interpret the constitution and the powers of different levels of government
+c) States are subordinate to the Central Government
+d) Sources of revenue for each level of government are clearly specified.
+#QuestionEnd
+#AnswerStart
+Answer: c) States are subordinate to the Central Government
+#AnswerEnd
+
+#QuestionStart
+Q62) The setting up of the Inter-State Council in 1990 was meant to: [CAPF 2015]
+a) substitute the National Development Council
+b) strengthen the federal provisions of the Constitution
+c) be an institutional interface between the Judiciary and the Government
+d) provide membership to local customary bodies
+#QuestionEnd
+#AnswerStart
+Answer: b) strengthen the federal provisions of the Constitution
+#AnswerEnd
+
+#QuestionStart
+Q63) Which of the following statements regarding the residuary powers under the Constitution of India is/are correct?
+1. Residuary powers have been given to the Union Parliament.
+2. In the matter of residuary powers, the Constitution of India follows the Constitution of Australia.
+3. Schedule 7 of the Constitution of India provides a list of residuary powers.
+4. The Government of India Act, 1935 placed residuary powers in the hands of the Governor-General.
+Select the correct answer using the codes given below. [CAPF 2014]
+Codes:
+a) 1 and 3
+b) 2 and 3
+c) 1 and 4
+d) Only 4
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 4
+#AnswerEnd
+
+#QuestionStart
+Q64) Which of the following statements about the Presidential system is/are correct?
+1. The Head of Government is also the Head of State.
+2. The Executive can veto Legislative acts.
+Select the correct answer using the codes given below.
+Codes: [CAPF 2014]
+a) Only 1
+b) Only 2
+c) Both 1 and 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 and 2
+#AnswerEnd
+
+#QuestionStart
+Q65) Article 300 of the Indian Constitution deals with- [67th B.P.S.C. (Pre) 2022]
+a) suits and proceedings
+b) government contracts
+c) Attorney General
+d) restriction on trade and commerce
+e) None of the above/More than one of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) suits and proceedings
+#AnswerEnd
+
+#QuestionStart
+Q66) The Democracy of India is based on the fact that- [39"' B.P.S.C. (Pre) 1994]
+a) The Constitution is written
+b) Fundamental rights have been provided
+c) Public enjoys the rights to choose and change the Government
+d) Directive principles of state policy have been provided here
+#QuestionEnd
+#AnswerStart
+Answer: c) Public enjoys the rights to choose and change the Government
+#AnswerEnd

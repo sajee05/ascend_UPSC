@@ -1,0 +1,57 @@
+#QuestionStart
+Q1) Who among the following was associated as Secretary with Hindu Female School which later came to be known as Bethune Female School? (2021)
+a) Annie Besant
+b) Debendranath Tagore
+c) Ishwar Chandra Vidyasagar
+d) Sarojini Naidu
+#QuestionEnd
+#AnswerStart
+Answer: c) Ishwar Chandra Vidyasagar
+#AnswerEnd
+
+#QuestionStart
+Q2) Regarding Wood's Dispatch, which of the following statements are true? (2018)
+1. Grants-in-Aid system was introduced.
+2. Establishment of universities was recommended.
+3. English as a medium of instruction at all levels of education was recommended.
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 and 3 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 and 2 only
+#AnswerEnd
+
+#QuestionStart
+Q3) Which of the following led to the introduction of English Education in India? (2018)
+1. Charter Act of 1813
+2. General Committee of Public Instruction, 1823
+3. Orientalist and Anglicist Controversy
+Select the correct answer using the code given below:
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 and 3
+#AnswerEnd
+
+#QuestionStart
+Q4) With reference to educational institutions during colonial rule in India, consider the following pairs: (2018)
+| Institution | Founder |
+|---|---|
+| 1. Sanskrit College at Benaras | William Jones |
+| 2. Calcutta Madrasa | Warren Hastings |
+| 3. Fort William College | Arthur Wellesley |
+Which of the pairs given above is/are correct?
+a) 1 and 2 only
+b) 2 only
+c) 1 and 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd

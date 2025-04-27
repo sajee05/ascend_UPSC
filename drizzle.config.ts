@@ -1,14 +1,12 @@
 import { defineConfig } from "drizzle-kit";
 
-if (!process.env.DATABASE_URL) {
-  throw new Error("DATABASE_URL, ensure the database is provisioned");
-}
+// No longer need DATABASE_URL check for SQLite
 
 export default defineConfig({
   out: "./migrations",
-  schema: "./shared/schema.ts",
-  dialect: "postgresql",
+  schema: "./shared/sqlite-schema.ts", // Use SQLite specific schema
+  dialect: "sqlite", // Change dialect to SQLite
   dbCredentials: {
-    url: process.env.DATABASE_URL,
+    url: "file:./ascend-upsc.db", // Point to the SQLite file
   },
 });
