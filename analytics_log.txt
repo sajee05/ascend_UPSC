@@ -5244,3 +5244,182 @@ Data:
 
 ---
 
+[2025-05-05T17:00:50.265Z] Type: test
+Data:
+{
+  "testId": 38,
+  "attemptId": 33,
+  "title": "2011",
+  "date": "2025-05-05T16:59:55.205Z",
+  "totalTimeSeconds": 54,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 2,
+    "correct": 0,
+    "incorrect": 2,
+    "left": 0,
+    "score": -1.32,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 35.5,
+    "confidenceHigh": 1,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 1,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 2
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 1713,
+      "questionNumber": 1,
+      "status": "incorrect",
+      "tags": [
+        "Environment & ecology"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "yes",
+        "confidence": "high"
+      }
+    },
+    {
+      "questionId": 1714,
+      "questionNumber": 2,
+      "status": "incorrect",
+      "tags": [
+        "Environment & ecology"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": null
+      }
+    }
+  ]
+}
+
+---
+
+[2025-05-05T17:29:18.411Z] Type: test
+Data:
+{
+  "testId": 39,
+  "attemptId": 34,
+  "title": "2020",
+  "date": "2025-05-05T17:28:39.701Z",
+  "totalTimeSeconds": 38,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 2,
+    "correct": 1,
+    "incorrect": 1,
+    "left": 0,
+    "score": 1.3399999999999999,
+    "accuracy": 50,
+    "personalBest": 0,
+    "avgTimeSeconds": 15.5,
+    "confidenceHigh": 1,
+    "confidenceMid": 0,
+    "confidenceLow": 1,
+    "knowledgeYes": 1,
+    "techniqueYes": 1,
+    "guessworkYes": 1,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 2
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 1813,
+      "questionNumber": 1,
+      "status": "correct",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "yes",
+        "technique": "yes",
+        "guess": "no",
+        "confidence": "high"
+      }
+    },
+    {
+      "questionId": 1814,
+      "questionNumber": 2,
+      "status": "incorrect",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "yes",
+        "confidence": "low"
+      }
+    }
+  ]
+}
+
+---
+
+[2025-05-05T17:30:33.878Z] Type: overall
+Data:
+{
+  "testCount": 1,
+  "attemptCount": 1,
+  "totalCorrect": 1,
+  "totalIncorrect": 1,
+  "totalLeft": 0,
+  "avgTimeSeconds": 0,
+  "totalQuestions": 2,
+  "accuracy": 50,
+  "subjectStats": [
+    {
+      "subject": "Polity and Governance",
+      "attempts": 2,
+      "correct": 1,
+      "incorrect": 1,
+      "left": 0,
+      "score": 1.3399999999999999,
+      "accuracy": 50,
+      "personalBest": 50,
+      "avgTimeSeconds": 0,
+      "confidenceHigh": 0,
+      "confidenceMid": 0,
+      "confidenceLow": 0,
+      "knowledgeYes": 0,
+      "techniqueYes": 0,
+      "guessworkYes": 0,
+      "firstAttemptCorrect": 0,
+      "secondAttemptCorrect": 0,
+      "thirdPlusAttemptCorrect": 0,
+      "attemptDistribution": {}
+    }
+  ],
+  "trendData": [
+    {
+      "date": "2025-05-05T17:28:39.701Z",
+      "accuracy": 50,
+      "score": 0
+    }
+  ]
+}
+
+---
+

@@ -84,9 +84,36 @@ export function initializeDatabase() {
       applyMigrationsAndSeed(); // Apply migrations and seed
     }
   } else {
-    // Not in portable mode, always attempt migrations
-    logger('Not in portable mode (based on initial getDbPath), applying migrations.', 'sqlite');
-    applyMigrationsAndSeed(); // Apply migrations and seed
+    // Not in portable mode, verify existing migrations before applying.
+    logger('Not in portable mode (based on initial getDbPath), verifying existing migrations.', 'sqlite'); // Modified log message
+    try {
+      // Check if migrations have already been applied by looking at Drizzle's internal table
+      const migrationTableCheck = db.select({
+        count: sql`count(*)`
+      }).from(sql`sqlite_master WHERE type='table' AND name='__drizzle_migrations'`).all();
+
+      if (migrationTableCheck[0].count > 0) {
+        // Check if the migration table has any entries
+        const migrationEntries = db.select({ count: sql`count(*)` }).from(sql`__drizzle_migrations`).all();
+        if (migrationEntries[0].count > 0) {
+          // Migrations already applied, do nothing further.
+          logger('Migrations already applied (found entries in __drizzle_migrations), skipping.', 'sqlite');
+          // NOTE: We don't call applyMigrationsAndSeed() here
+        } else {
+           // __drizzle_migrations table exists but is empty, apply migrations.
+           logger('__drizzle_migrations table exists but is empty, applying migrations.', 'sqlite');
+           applyMigrationsAndSeed(); // Apply migrations and seed
+        }
+      } else {
+        // __drizzle_migrations table not found, apply migrations.
+        logger('__drizzle_migrations table not found, applying migrations.', 'sqlite');
+        applyMigrationsAndSeed(); // Apply migrations and seed
+      }
+    } catch (error) {
+      // If there's an error checking the migration table (e.g., table doesn't exist yet), assume migrations need to run
+      logger(`Error checking migration status (${error}), proceeding with migrations.`, 'sqlite');
+      applyMigrationsAndSeed(); // Apply migrations and seed
+    }
   }
 }
 

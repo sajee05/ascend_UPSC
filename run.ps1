@@ -5,7 +5,7 @@ Start-Process powershell -ArgumentList "npm run dev" -WindowStyle Minimized
 Start-Sleep -Seconds 1
 
 # Open the app in the default browser
-Start-Process "http://localhost:3000"
+Start-Process "http://localhost:8000"
 
 # Minimize this current PowerShell window
 Add-Type @"
