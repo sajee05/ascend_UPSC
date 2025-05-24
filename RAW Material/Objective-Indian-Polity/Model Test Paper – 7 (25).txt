@@ -1,0 +1,315 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  After the President has asked the Council of Ministers to reconsider the advice given by the Council of Ministers, the President may not act in accordance with the advice rendered after such reconsideration.
+2.  The President can grant pardon under Article 72 of the Constitution of India, to any person convicted of any offence.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+1.  The legislation passed by the Parliament is subject to judicial review.
+2.  The Constitution of India lays down the mechanism for the enforcement of Fundamental Rights.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+1.  Administrative expenses of the Supreme Court of India are not subject to a vote in the Parliament.
+2.  No discussion on the conduct of a Judge of the Supreme Court of India can take place in Parliament except upon a motion for an address to the President of India for removal of the judge.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following does not fall within the scope of the Committee on Public Undertakings?
+a)  Examination of the reports and accounts of such public undertakings as have been specifically allotted to the committee
+b)  Matters of major government policy as distinct from business or commercial functions of the public undertakings
+c)  Examination of the reports of the Comptroller and Auditor General
+d)  Examination of the autonomy and efficiency of the public undertakings
+#QuestionEnd
+#AnswerStart
+Answer: b)  Matters of major government policy as distinct from business or commercial functions of the public undertakings
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following statements is correct?
+Emergency is proclaimed by the President under Article 352 of the Constitution of India when:
+a)  He is of the opinion that security of India is under threat
+b)  The Prime Minister advises him to issue such a proclamation
+c)  Parliament passes a resolution
+d)  Written decision of the cabinet is communicated to him
+#QuestionEnd
+#AnswerStart
+Answer: d)  Written decision of the cabinet is communicated to him
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+1.  If the Rajya Sabha has declared by resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest to do so, Parliament may by law provide for the creation of one or more all-India services.
+2.  Article 311 of the Constitution of India deals with the dismissal or removal of a person who is a member of a civil service of the Union or an all-India service or a civil service of a State or holds a civil post under the Union or a State.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q7) A new Panchayat constituted upon the dissolution of a Panchayat before the expiration of its term shall continue:
+a)  For next five years from the date of its first meeting and no longer
+b)  For the remainder of the period for which the dissolved Panchayat would have continued had it not been so dissolved
+c)  Till it enjoys the pleasure of the Governor
+d)  Till State Legislative Assembly allows it to continue
+#QuestionEnd
+#AnswerStart
+Answer: b)  For the remainder of the period for which the dissolved Panchayat would have continued had it not been so dissolved
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Writs)                                        | List-II (Subject Matter)                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Habeas Corpus                                     | 1.  A command to produce the body in person                        |
+| B.  Certiorari                                        | 2.  A command to a public authority to do its duty                 |
+| C.  Mandamus                                          | 3.  A proceeding to enquire into the legality of a claim of a person |
+| D.  Quo-Warranto                                      | 4.  A directive to a lower court or judicial body not to exceed its limits |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 3 2
+b)  4 1 3 2
+c)  4 1 2 3
+d)  1 4 2 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 4 2 3
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following is not the occasion for criticizing the government in the Lok Sabha?
+a)  General discussion on the budget
+b)  Voting on demands for grants
+c)  Motion of thanks to the President
+d)  Discussion on the Finance Bill
+#QuestionEnd
+#AnswerStart
+Answer: a)  General discussion on the budget
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following Committees appointed to examine and report on local governments:
+1.  Balwant Rai Mehta Committee
+2.  Ashok Mehta Committee
+3.  Smt. Daya Choubey Committee
+4.  R.K. Khanna Committee
+Which one of the following is the correct chronological sequence in which these Committees were set up?
+a)  2 – 3 – 4 – 1
+b)  1 – 4 – 3 – 2
+c)  2 – 4 – 3 – 1
+d)  1 – 3 – 4 – 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 – 4 – 3 – 2
+#AnswerEnd
+#QuestionStart
+Q11) If the Union Parliament is to assume legislative power over any subject included in the State List, the resolution to that effect has to be passed by which of the following?
+a)  Lok Sabha
+b)  Rajya Sabha
+c)  Both Lok Sabha and Rajya Sabha
+d)  Lok Sabha, Rajya Sabha and the legislatures of the concerned States
+#QuestionEnd
+#AnswerStart
+Answer: b)  Rajya Sabha
+#AnswerEnd
+#QuestionStart
+Q12) Statement I:  Responsive Government would require complete decentralization of delivery of services through fully empowered elected Local Government bodies consistent with the spirit of the 73rd and 74th Constitutional Amendments.
+Statement II: State Governments are required to take steps to strengthen the financial and administrative capacity of the local bodies and vest them with adequate resources and powers.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following is not a function of the Election Commission?
+a)  To superintend, direct and control elections to the office of the President
+b)  To select candidates for election
+c)  To recognize and derecognize political parties
+d)  To prepare electoral rolls
+#QuestionEnd
+#AnswerStart
+Answer: b)  To select candidates for election
+#AnswerEnd
+#QuestionStart
+Q14) Which of the following are provided for by the 74th Constitutional Amendment in respect of Municipal Corporations?
+1.  Seats to be filled by direct elections on the basis of wards.
+2.  Reservation of seats for SC/ST.
+3.  Reservation of seats for backward classes.
+4.  One-third reservation of seats for women.
+Choose the correct answer from the codes given below:
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  2, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following is not the duty of the Prime Minister?
+a)  To communicate to the President all the decisions of the Council of Ministers
+b)  To furnish to the President information relating to the administration of the affairs of the State
+c)  To submit to the President the agenda of the Cabinet meeting for his approval
+d)  To submit any matter for the consideration of the Council of Ministers, if the President so requires
+#QuestionEnd
+#AnswerStart
+Answer: c)  To submit to the President the agenda of the Cabinet meeting for his approval
+#AnswerEnd
+#QuestionStart
+Q16) Which of the following are not subject to the detailed audit of the Comptroller and Auditor General of India?
+1.  All cooperative societies
+2.     All public corporations
+3.  All civil expenditure
+4.     All defence expenditure
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)   3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q17) In the Constitution of India, economic and social planning is included in the:
+a)  Union List of the VII Schedule
+b)  State List of the VII Schedule
+c)  Concurrent List of the VII Schedule
+d)  None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c)  Concurrent List of the VII Schedule
+#AnswerEnd
+#QuestionStart
+Q18) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Institutions)                                 | List-II (Articles of Constitution)                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Comptroller & Auditor General of India            | 1.  Article 315                                                    |
+| B.  Finance Commission                                | 2.  Article 280                                                    |
+| C.  Administrative Tribunals                          | 3.  Article 148                                                    |
+| D.  Union Public Service Commission                   | 4.  Article 323(A)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 2 1
+b)  1 2 4 3
+c)  3 2 4 1
+d)  1 4 2 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 2 4 1
+#AnswerEnd
+#QuestionStart
+Q19) When the name of a state is changed or a new state is created, the Constitution of India is required to be amended by Parliament by a:
+a)  Simple majority
+b)  Majority of total number of members of both the Houses
+c)  Special majority
+d)  Special majority after obtaining opinion of concerned state
+#QuestionEnd
+#AnswerStart
+Answer: a)  Simple majority
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following statements:
+President’s Rule in a State can be proclaimed if:
+1.  There is constitutional breakdown in a State.
+2.  The Governor sends a report to the President to that effect.
+3.  The Governor of a State fails to perform his constitutional functions.
+4.  The  State  Administration  fails  to  function  in  accordance  with  the  provisions  of  the Constitution.
+Which of these statements are correct?
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  2, 3 and 4
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q21) Assertion (A): The Cabinet Committees have no authority to give binding decisions on matters assigned to them.
+Reason (R):  Any decision of a Cabinet Committee may be revised by the Cabinet.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q22) For which one of the following judgements of the Supreme Court, the Kesavananda Bharati case is considered a landmark?
+a)  The religion cannot be mobilized for political ends
+b)  Abolishing untouchability from the country
+c)  The basic structure of the Constitution cannot be changed
+d)  Right to life and liberty cannot be suspended under any circumstance
+#QuestionEnd
+#AnswerStart
+Answer: c)  The basic structure of the Constitution cannot be changed
+#AnswerEnd
+#QuestionStart
+Q23) In which one of the following states, is provision relating to reservation for Scheduled Castes in panchayats under 73rd Constitutional Amendment not applicable?
+a)  Nagaland
+b)  Mizoram
+c)  Meghalaya
+d)  Arunachal Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: d)  Arunachal Pradesh
+#AnswerEnd
+#QuestionStart
+Q24) Consider the following statements:
+1.  The Constitution of India grants personal immunity to the President of India and the Governor of a State for official acts, but no such immunity is granted to the Ministers.
+2.  Civil proceedings may be brought against the President of India or the Governor of a State in respect of their personal acts only if six months’ notice has been delivered to them.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q25) Consider the following statements:
+1.  The Parliament has exclusive power to make any law with respect to any matter enumerated in List I.
+2.  State Legislatures have exclusive power to make any law with respect to any matter enumerated in List II.
+3.  The Parliament as well as State Legislatures have concurrent power to make any law with respect to any matter not enumerated in any of the three lists.
+Which of the statements given above is/are correct?
+a)  1 and 2
+b)  Only 1
+c)  Only 2
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd

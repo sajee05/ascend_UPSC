@@ -1,0 +1,400 @@
+#QuestionStart
+Q378) Consider regarding the following statements National Sample Survey (NSS);
+1.   It is conducted by National Statistical Office (NSO)
+2.   It is a socioeconomic survey conducted annually
+3.          It is conducted on rotating topics
+Select the correct answer using the code given below:
+a)         1 only
+b)          1 & 3 only
+c)         3 only
+d)          All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q379) Match the following regarding how frequently they are conducted:
+(i)        Periodic Labour Force Survey
+(ii)       Economic Census
+(iii)       Consumer Expenditure Survey
+(iv)        Census
+4.         Decadal
+5.        Quinquennial
+6.        Annual
+7.        No fixed periodicity
+Select the correct answer using the code given below:
+a)       (i) - 4, (ii) - 2, (iii) - 4, (iv) - 1
+b)       (i) - 3, (ii) - 4, (iii) - 2, (iv) - 1
+c)      (i) - 4, (ii) - 2, (iii) - 3, (iv) - 1
+d)      (i)-3,(ii)-l,(iii)-4, (iv)-2
+#QuestionEnd
+#AnswerStart
+Answer: b) (i) - 3, (ii) - 4, (iii) - 2, (iv) - 1
+#AnswerEnd
+#QuestionStart
+Q380) Consider the following statements regarding the “Periodic Labour Force Survey":
+8.           It is conducted quinquennially
+9.  It is conducted for both rural and urban labour force
+10.  It collects data for urban labour on a quarterly basis
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 only
+d) 2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q381) Consider the following statements regarding ‘Quarterly Employment Survey’: ⭐ (please re-check)
+11.          It is conducted by labour bureau
+12.  It provides employment scenario from the supply side
+13. It provides employment updates in both organized and unorganized segments
+Select the correct answer using the code given below:
+a)         1 & 2 only
+b) 1 & 3 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q382) The unemployment caused due to the workers living far from the regions and are unable to move to the locations where jobs are available is an example of:
+a)      Cyclical
+b)      Frictional
+c)      Structural
+d)      Disguised
+#QuestionEnd
+#AnswerStart
+Answer: c) Structural
+#AnswerEnd
+#QuestionStart
+Q383) The unemployment caused due to the workers lacking the requisite job skills is an example of:
+a)     Cyclical
+b)     Structural
+c)    Frictional
+d)     Disguised
+#QuestionEnd
+#AnswerStart
+Answer: b) Structural
+#AnswerEnd
+#QuestionStart
+Q384) In a country, jobs are available but still people are unemployed as there is a serious mismatch between what companies need and what workers can offer. This kind of unemployment is referred as:
+a)   Cyclical
+b)   Structural
+c)      Seasonal
+d)      Frictional
+#QuestionEnd
+#AnswerStart
+Answer: b) Structural
+#AnswerEnd
+#QuestionStart
+Q385) A person has left his current job and is looking for another job. He/ she is facing which type of unemployment;
+a)      Structural
+b)      Cyclical
+c)      Frictional
+d)  He/ she will not be considered as unemployed
+#QuestionEnd
+#AnswerStart
+Answer: c) Frictional
+#AnswerEnd
+#QuestionStart
+Q386) An auto worker in Gurgaon lost his job because the company relocated the plant to another country represents an example of;
+a)      Frictional
+b)      Structural
+c)      Cyclical
+d)      Seasonal
+#QuestionEnd
+#AnswerStart
+Answer: b) Structural
+#AnswerEnd
+#QuestionStart
+Q387) In case of disguised unemployment, which of the following will hold true:
+14.  Marginal productivity of capital will be zero
+15.       Productivity of labour will be less
+Select the correct answer using the code given below:
+a)      1 only
+b)       2 only
+c)      Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q388) Consider the following statements regarding an economy facing cyclical unemployment:
+16. It may lead to inflation in the economy
+17. It may lead to deflation in the economy
+18.        It  can   be   tackled through
+expansionary monetary policy
+19.        It  can be tackled       through
+expansionary fiscal policy
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)      1, 3 & 4 only
+d)      2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q389) Which of the following arc true for underemployment?
+1, Workers in job that are not able to utilize their skills
+20. Workers in low paying jobs as relative to their skills
+21. Part time workers preferring full time jobs
+22.       Productivity of labour is low
+Select the correct answer using the code given below;
+a) 1 & 2 only
+b) 1, 2 & 3 only
+c) 2, 3 & 4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q390) Consider the following statements:
+23. 'Jobless growth¹ implies labour is becoming more productive
+24. If 'employment elasticity' is decreasing that implies labour productivity is increasing
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c) Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q391) 'Demographic Dividend' is estimated/calculated in terms of which of the following:
+a)       Population
+b)       Total Fertility Rate (TFR)
+c) Working Age to Non-Working Age population ratio
+d) Additional per capita income growth
+#QuestionEnd
+#AnswerStart
+Answer: d) Additional per capita income growth
+#AnswerEnd
+#QuestionStart
+Q392) Consider the following statements:
+25.  Human capital considers education and health as a means to increase labour productivity
+26.          Under    human development,
+human beings       are end in
+themselves
+Select the correct answer using the code given below:
+a)         1 only
+b)         2 only
+c)         Both 1 & 2
+d)         Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q393) The term ‘ASEEM’ is related to which of the following?
+a) Online delivery of government services
+b) An online portal for procurement of goods by MSMEs
+c) Online platform for procurement of defence items
+d) A digital portal to map skills of workers with jobs
+#QuestionEnd
+#AnswerStart
+Answer: d) A digital portal to map skills of workers with jobs
+#AnswerEnd
+#QuestionStart
+Q394) Consider the following statements regarding the ‘e-SHRAM’ portal:
+27. It is under Ministry of Labour and Employment
+28. It is for organized as well as unorganized workers
+29. Insurance cover is also being provided to workers registered on this portal
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      2 & 3 only
+d)      1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q395) Which organization publishes the ‘Gender Gap Index?
+a)     World Economic Forum
+b)     World Health Organization
+c) United Nations Development Programme
+d)     International Labour Organization
+#QuestionEnd
+#AnswerStart
+Answer: a) World Economic Forum
+#AnswerEnd
+#QuestionStart
+Q396) Consider the following statements:
+30.  Insurance penetration is measured as the percentage of insurance premium to GDP
+31.  Insurance density is measured as the ratio of premium (in US dollar) to total population
+Select the correct answer using the code given below:
+a)        1 only
+b)        2 only
+c)        1 & 2 both
+d)        Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 2 both
+#AnswerEnd
+#QuestionStart
+Q397) Consider the following statements:
+32.  Life insurance business was nationalized in mid 1950s
+33.  Life Insurance Corporation (LIC) was established in the early 1960s
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q398) Consider the statements regarding general insurance sector in India:
+34.  The sector was nationalized in I970's
+35.       It was liberalized in early 1990's
+36.  Insurance Regulatory and Development Authority (IRDA) was established as a statutory body in 2000
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 & 3 only
+c) I & 3 only
+d) 2 only
+#QuestionEnd
+#AnswerStart
+Answer: c) I & 3 only
+#AnswerEnd
+#QuestionStart
+Q399) Which of the following statements are true regarding 'replacement level fertility?
+a) It is the level of fertility at which population remains constant
+b) It is the level of fertility at which population growth remains constant
+c) It is the level of fertility at which a population exactly replaces itself from one generation to another
+d)     None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) It is the level of fertility at which a population exactly replaces itself from one generation to another
+#AnswerEnd
+#QuestionStart
+Q400) Which of the following statements are true regarding India’s Total Fertility Rate (TFR)?
+37.  It has declined below the ‘replacement level of fertility’
+38.  Since it has gone below the replacement level fertility, the population will stop increasing
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q401) Consider the following statements regarding poverty:
+1,  Incidence of poverty is defined as the percentage of population which is poor and is also called headcount ratio
+39.  Intensity of poverty is defined as the average share of deprivations across various indicators which the people experience simultaneously
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q402) Global Multidimensional Poverty Index (MP!) has been developed by: ■
+a) Oxford Poverty and Human Development Initiative (OPHI)
+b) United Nations Development Program (UNDP)
+c)      OPHI in collaboration with UNDP
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) OPHI in collaboration with UNDP
+#AnswerEnd
+#QuestionStart
+Q403) Consider the following statements regarding MGNREGA wages:
+40.  It is decided by respective state governments
+41.  It is revised annually linked with CPI-Rural labourers
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q404) Consider the following statements regarding the newly enacted The Code on Wages 2019':
+42.  There will be a statutory minimum/floor wage which will be applicable for both organized and unorganized sector labours
+43.  This code will not be applicable to MGNREGA wages
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q405) Consider the following statements regarding the newly enacted The Industrial Relations Code 2020*:
+44. Permission will not be required from the government to close a factory if the number of workers are less than 300
+45. Fixed term employment has been made applicable for all industries
+Select the correct answer using the code given below:
+a) 1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q406) Consider the following statements regarding the newly enacted The Code on Social Security 2020’:
+46. A social security fund is proposed to be established for workers of unorganized sector
+2- Aggregators will have to contribute a small portion of their turnover which will be used to pay gig and platform workers
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q407) Consider the following statements regarding the newly enacted The Occupational Safety, Health and Working Conditions Code 2020’:
+47.   An inter-state migrant worker is one whose wages does not exceed Rs. 18,000 per month
+48.    Employment of women has been allowed in all establishments for
+all types of works and in the night shift also
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q408) The National Census is conducted by which offices/ agencies:
+a)      National Statistical Office (NSO)
+b)      Labour Bureau
+c) Registrar General and Census Commissioner, Ministry of Home Affairs
+d)      Census Bureau of India
+#QuestionEnd
+#AnswerStart
+Answer: c) Registrar General and Census Commissioner, Ministry of Home Affairs
+#AnswerEnd
+#QuestionStart
+Q409) Which of the following agency conducts Time Use Survey’ in India?
+a) National Statistical Office
+b)     Reserve Bank of India
+c) Ministry of Labour and Employment
+d)     None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) National Statistical Office
+#AnswerEnd

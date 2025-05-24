@@ -1,0 +1,166 @@
+#QuestionStart
+Q1) The first Amendment to the Constitution (1951) made changes in relation to which of the following provisions?
+1.  Special provisions for advancement of socially and educationally backward classes.
+2.  Validation of certain Acts and Regulations specified in the Ninth Schedule.
+3.  Saving of certain laws giving effect to certain Directive Principles
+4.  Saving of laws providing for acquisition of estates
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  2, 3 and 4
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q2) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Constitutional Amendment Act)                 | List-II (Major Subject)                                            |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  19th Amendment                                    | 1.  Reservation of seats for SC/ST in Lok Sabha and Legislative Assemblies in the States |
+| B.  25th Amendment                                    | 2.  Duties of the Election Commission                              |
+| C.  31st Amendment                                    | 3.  Compensation in the acquisition of property                    |
+| D.  45th Amendment                                    | 4.  Increase in the elected seats in Lok Sabha                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 1 2 3
+b)  2 3 4 1
+c)  4 3 2 1
+d)  2 1 4 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 3 4 1
+#AnswerEnd
+#QuestionStart
+Q3) What does the Constitution (Ninety-second Amendment) Act, 2003, deal with?
+a)  Creation of a separate National Commission for Scheduled Tribes
+b)  Cyber crimes
+c)  Inclusion of Bodo, Dogri, Maithili and Santhali languages in the Eighth Schedule
+d)  Making right to free and compulsory education a Fundamental Right
+#QuestionEnd
+#AnswerStart
+Answer: c)  Inclusion of Bodo, Dogri, Maithili and Santhali languages in the Eighth Schedule
+#AnswerEnd
+#QuestionStart
+Q4) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Amendment)                                    | List-II (Nature of Amendment)                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  42nd Amendment Act, 1976                          | 1.  Disqualification for defection                                 |
+| B.  52nd Amendment Act, 1985                          | 2.  It amended Schedule VIII to the Constitution and added Sindhi as recognised language. |
+| C.  62nd Amendment Act, 1989                          | 3.  This Amendment inserted three new words ‘Socialist’, ‘Secular’ and ‘Integrity’ in the Preamble. |
+| D.  21st Amendment Act, 1966                          | 4.  This Amendment has extended the reservation of seats for SCs and STs in the House of the People and State Legislative Assemblies. |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 1 2 4
+b)  1 3 4 2
+c)  3 1 4 2
+d)  1 3 2 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 1 4 2
+#AnswerEnd
+#QuestionStart
+Q5) 86th Amendment to the Constitution of India has:
+a)  Made free and compulsory primary education a fundamental right
+b)  Incorporated provision of right to inheritance in the Directive Principles of State Policy
+c)  Enhanced the scope of reservation for backward communities in educational institutions
+d)  Brought minority educational institutions under strict control of the Central Government
+#QuestionEnd
+#AnswerStart
+Answer: a)  Made free and compulsory primary education a fundamental right
+#AnswerEnd
+#QuestionStart
+Q6) Which of the following pairs are correctly matched?
+1.  24th Amendment : Asserted the right of the Parliament to amend any part of the Constitution including Part III.
+2.  39th Amendment : Election  of  President,  Vice-President,  Prime Minister and Speaker is beyond the purview of the Judiciary.
+3.  42nd Amendment : Political defections made illegal and reservations for SC/ST extended for another 10 years.
+4.  70th Amendment : Granting of statehood to the Union Territory of Delhi.
+Select the correct answer using the codes given below:
+a)  1 and 4
+b)  1 and 2
+c)  2 and 3
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q7) The Constitution (93rd Amendment) Act deals with:
+a)  Local self-government
+b)  Extension of reservation in educational institutions
+c)  Basic structure of the Constitution of India
+d)  Appointment of judges in the Supreme Court of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  Extension of reservation in educational institutions
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Constitutional Amendment)                     | List-II (Effects)                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  37th Amendment                                    | 1.  Tripura in the Sixth Schedule                                  |
+| B.  49th Amendment                                    | 2.  Legislature to a UT                                            |
+| C.  58th Amendment                                    | 3.  Publication of the Constitution in Hindi                       |
+| D.  77th Amendment                                    | 4.  National Capital status to Delhi                               |
+|                                                       | 5.  Reservation in promotions to SCs and STs                       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 3 5
+b)  3 4 2 1
+c)  2 4 3 1
+d)  3 1 2 5
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 1 3 5
+#AnswerEnd
+#QuestionStart
+Q9) Part IV-A was added to the Constitution of India by the:
+a)  Twenty-fifth Amendment Act
+b)  Forty-second Amendment Act
+c)  Forty-fourth Amendment Act
+d)  Fifty-second Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: b)  Forty-second Amendment Act
+#AnswerEnd
+#QuestionStart
+Q10) Select the correct sequence of the following constitutional amendments:
+1.  Voting age reduced from 21 years to 18 years
+2.  Right to property deleted from the list of Fundamental Rights
+3.  Sikkim became a State of the Indian Union
+4.  Hindi version of the Constitution was accepted officially
+Select the correct answer using the codes given below:
+a)  3-1-4-2
+b)  4-2-3-1
+c)  3-2-4-1
+d)  4-1-3-2
+#QuestionEnd
+#AnswerStart
+Answer: c)  3-2-4-1
+#AnswerEnd
+#QuestionStart
+Q11) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Amendments of the Constitution)               | List-II (Purpose of the Amendments)                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  53rd Amendment                                    | 1.  Extension of reservation for SCs and STs and Anglo-Indians in the House of People and in the State Assemblies for a period of ten years |
+| B.  61st Amendment                                    | 2.  Special provisions for Mizoram                                 |
+| C.  74th Amendment                                    | 3.  Lowering of voting age from 21 to 18                           |
+| D.  79th Amendment                                    | 4.  Constitution of three types of Municipalities                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 4 3 1
+b)  1 3 4 2
+c)  2 3 4 1
+d)  1 4 3 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 3 4 1
+#AnswerEnd

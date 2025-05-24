@@ -1,0 +1,187 @@
+#QuestionStart
+Q1) Which of the following are not mentioned in the Constitution of India?
+1.  Council of Ministers
+2.  Collective Responsibility
+3.  Resignation of Ministers
+4.  Office of the Deputy Prime Minister
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  3 and 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+5.  The President cannot function without the Union Council of Ministers.
+6.  The Solicitor-General is the highest legal authority of the Union Government.
+7.  The Union Council of Ministers can function for sometime even after death or resignation of the Prime minister.
+8.  In the absence of the Prime Minister, only the Home Minister can preside over emergency meetings of the Union Council of Ministers.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  3 and 4
+c)  1, 2 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) According to Article 74 of the Constitution, which of the following statements relating to the advice tendered by Ministers to the President would be correct?
+a)  It shall not be inquired into in any court.
+b)  It can be inquired into in the Supreme Court.
+c)  It can be inquired into in all the courts.
+d)  It cannot be inquired into in the High Courts.
+#QuestionEnd
+#AnswerStart
+Answer: a)  It shall not be inquired into in any court.
+#AnswerEnd
+#QuestionStart
+Q4) How are the salaries and allowances of the Union Ministers determined?
+a)  By the Cabinet Secretariat
+b)  By the Parliament
+c)  By the Ministry of Finance
+d)  By the Ministry of Parliamentary Affairs
+#QuestionEnd
+#AnswerStart
+Answer: b)  By the Parliament
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following Constitutional Amendment Acts has / have made the decisions of the Council of Ministers binding on the President of India?
+a)  42nd and 44th Amendment Acts
+b)  43rd Amendment Act
+c)  40th Amendment Act
+d)  40th and 41st Amendment Acts
+#QuestionEnd
+#AnswerStart
+Answer: a)  42nd and 44th Amendment Acts
+#AnswerEnd
+#QuestionStart
+Q6) Which of the Articles of the Constitution of India are relevant to analyse the constitutional provisions that deal with the relationship of the President with the Council of Ministers?
+a)  Articles 71, 75 and 78
+b)  Articles 74, 75 and 78
+c)  Articles 73, 76 and 78
+d)  Articles 72, 73 and 76
+#QuestionEnd
+#AnswerStart
+Answer: b)  Articles 74, 75 and 78
+#AnswerEnd
+#QuestionStart
+Q7) The accountability or responsibility of the Prime Minister and Cabinet to the Lok Sabha is:
+a)  Intermittent
+b)  Indirect
+c)  At the time of elections
+d)  Direct, continuous and collective
+#QuestionEnd
+#AnswerStart
+Answer: d)  Direct, continuous and collective
+#AnswerEnd
+#QuestionStart
+Q8) Assertion (A): Collective responsibility of the Cabinet signifies unity and coordination among members of the Council of Ministers.
+Reason (R):  It is the prerogative of the Prime Minister to select or drop a member of the Cabinet.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q9) In which of the following provisions of the Constitution of India is the principle of collective responsibility of the Council of Ministers enshrined?
+a)  Article 75
+b)  Article 74
+c)  Article 77
+d)  Article 78
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 75
+#AnswerEnd
+#QuestionStart
+Q10) “There shall be a Council of Ministers with the Prime Minister at the head to aid and advice the President who shall in the exercise of his functions act in accordance with such advice”. This provision in the Constitution has been laid down by which one of the following Constitutional Amendment Acts?
+a)  41st Amendment
+b)  42nd Amendment
+c)  43rd Amendment
+d)  72nd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: b)  42nd Amendment
+#AnswerEnd
+#QuestionStart
+Q11) Article 74 of the Constitution provides that:
+a)  There shall be a Council of Ministers with the Prime Minister at the head, to aid and advise the President in exercise of his functions.
+b)  There shall be a Council of Ministers with the Prime Minister at the head, to aid and advise the President, who shall in exercise of his functions, act in accordance with such advice.
+c)  There shall be a Council of Ministers with the Prime Minister at the head, to aid and advise the President, who shall in exercise of his functions act in accordance with such advice provided that the President may require the Council of Ministers to reconsider such advice, either generally or otherwise and the President shall act in accordance with the advice tendered after such reconsideration.
+d)  There shall be a Council of Ministers with the Prime Minister at the head, to aid and advise the President, who shall in exercise of his functions, act in accordance with such advice or otherwise on his own.
+#QuestionEnd
+#AnswerStart
+Answer: c)  There shall be a Council of Ministers with the Prime Minister at the head, to aid and advise the President, who shall in exercise of his functions act in accordance with such advice provided that the President may require the Council of Ministers to reconsider such advice, either generally or otherwise and the President shall act in accordance with the advice tendered after such reconsideration.
+#AnswerEnd
+#QuestionStart
+Q12) According to the Constitution of India, if the President so requires, it shall be the duty of the Prime  Minister to submit for the consideration of the Council of Ministers any matter on which a decision has been taken by a Minister, but which has not been considered by the Council. This ensures:
+a)  Collective responsibility
+b)  The status of the Prime Minister as the first among the equals
+c)  The power of the President to nullify the decision of the Minister
+d)  The inherent power of the Minister to take a decision independent of the Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: a)  Collective responsibility
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following statements:
+9.  All decisions of the Council of Ministers relating to the administration of the Union must be communicated to the President.
+10.  The President can call for information relating to proposals for legislation.
+11.  The President can direct that any matter on which decision has been taken by a Minister should be placed before the Council of Ministers.
+12.  The President has the right to address and send messages to the Council of Ministers to elicit specific information.
+Which of these is / are correct?
+a)  Only 1
+b)  3 and 4
+c)  1, 2 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q14) Which one among the following features of the Constitution of India is indicative of the fact that the real executive power is vested in the Council of Ministers headed by the Prime Minister?
+a)  Federalism
+b)  Representative legislature
+c)  Universal adult franchise
+d)  Parliamentary democracy
+#QuestionEnd
+#AnswerStart
+Answer: d)  Parliamentary democracy
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following is not correct in relation to the Council of Ministers?
+a)  It is recognized by the Constitution
+b)  The number of its members is not specified in the Constitution
+c)  Its working is as per the provisions in the Constitution
+d)  Its members and their ranks are decided by the Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  Its working is as per the provisions in the Constitution
+#AnswerEnd
+#QuestionStart
+Q16) The executive power of the Union is vested in the:
+a)  Union Cabinet
+b)  President of India
+c)  Prime Minister
+d)  Union Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: b)  President of India
+#AnswerEnd
+#QuestionStart
+Q17) Whenever the Constitution requires the ‘satisfaction’ of the President for the exercise of any power or function by him, it means:
+a)  The personal satisfaction of the President
+b)  The satisfaction of the Council of Ministers
+c)  The satisfaction of the Members of the Parliament
+d)  None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b)  The satisfaction of the Council of Ministers
+#AnswerEnd

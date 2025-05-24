@@ -1,0 +1,86 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Parliamentary Forum on Population and Public Health is the first Parliamentary Forum.
+2.  The first Parliamentary Forum was established in 2004.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Statement I:  The  Parliamentary  Forum  will  not  interfere  with  the  jurisdiction  of  the Departmentally-Related Standing Committees of the Ministry concerned.
+Statement II: The Chairman of Departmentally-Related Standing Committees are the ex-office Vice-Presidents of the respective Forums.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q3) The Speaker of Lok Sabha is the President of all the Parliamentary Forums except the:
+a)  Parliamentary Forum on Population and Public Health
+b)  Parliamentary Forum on Global Warming and Climate Change
+c)  Parliamentary Forum on Water Conservation and Management
+d)  Parliamentary Forum on Children
+#QuestionEnd
+#AnswerStart
+Answer: a)  Parliamentary Forum on Population and Public Health
+#AnswerEnd
+#QuestionStart
+Q4) What is the strength of a Parliamentary Forum (excluding the President and ex-officio Vice-Presidents)?
+a)  21 Members
+b)  15 Members
+c)  31 Members
+d)  25 Members
+#QuestionEnd
+#AnswerStart
+Answer: c)  31 Members
+#AnswerEnd
+#QuestionStart
+Q5) Who is the Speaker of Lok Sabha when the first Parliamentary Forum was constituted?
+a)  Ms. Meira Kumar
+b)  Manohar Joshi
+c)  Somnath Chatterjee
+d)  G.M.C. Balayogi
+#QuestionEnd
+#AnswerStart
+Answer: c)  Somnath Chatterjee
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following is not a sub-forum of the Parliamentary Forum on Youth?
+a)  Sub-Forum on Empowerment
+b)  Sub-Forum on Health
+c)  Sub-Forum on Education
+d)  Sub-Forum on Employment
+#QuestionEnd
+#AnswerStart
+Answer: a)  Sub-Forum on Empowerment
+#AnswerEnd
+#QuestionStart
+Q7) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Parliamentary Forums)                         | List-II (Year of Establishment)                                    |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Parliamentary Forum on Population and Public Health | 1.   2011                                                         |
+| B.  Parliamentary Forum on Disaster Management        | 2.   2006                                                          |
+| C.  Parliamentary Forum on Water Conservation and Management | 3.   2004                                                          |
+| D.  Parliamentary Forum on Global Warming and Climate Change | 4.   2005                                                          |
+|                                                       | 5.   2008                                                          |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 3 1 4
+b)  3 1 5 2
+c)  2 1 4 5
+d)  3 2 5 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 1 4 5
+#AnswerEnd

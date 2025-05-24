@@ -1,0 +1,144 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  An administrator of a union territory is an agent of the President of India and not head of state like a Governor.
+2.  The Parliament can make laws on any subject of the three lists (including the state list) for the Union territories.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) The President can make regulations for the peace, progress and good government of the:
+1.  Andaman and Nicobar Islands
+2.  Lakshadweep
+3.  Dadra and Nagar Haveli
+4.  Daman and Diu
+5.  Chandigarh
+Select the correct answer from the codes given below:
+a)  1, 2, 3, 4 and 5
+b)  1, 2, 3 and 4
+c)  2, 3, 4 and 5
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following is correct regarding the union territories?
+1.  Articles 239 to 241 contain provisions regarding the union territories.
+2.  Part VIII of the Constitution deal with the union territories.
+3.  Part VII of the Constitution deal with the union territories.
+4.  Articles 238 to 242 contain provisions regarding the union territories.
+Select the correct answer from the codes given below:
+a)  1 and 3
+b)  1 and 2
+c)  3 and 4
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following Constitutional Amendment Acts provides a special status to the Union Territory of Delhi and redesignated it the National Capital Territory of Delhi?
+a)  59th Amendment Act
+b)  62nd Amendment Act
+c)  67th Amendment Act
+d)  69th Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: d)  69th Amendment Act
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Union Territories)                            | List-II (Judiciary)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Andaman and Nicobar Islands                       | 1.   Under Bombay High Court                                        |
+| B.  Dadra and Nagar Haveli                            | 2.   Under Madras High Court                                        |
+| C.  Lakshadweep                                       | 3.   Under Punjab High Court                                        |
+| D.  Puducherry                                        | 4.   Under Calcutta High Court                                      |
+|                                                       | 5.   Under Kerala High Court                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 5 4
+b)  4 1 5 2
+c)  4 3 2 1
+d)  2 5 4 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 1 5 2
+#AnswerEnd
+#QuestionStart
+Q6) The Part ‘C’ and Part ‘D’ states were constituted as the ‘union territories’ by the:
+a)  5th Constitutional Amendment Act
+b)  16th Constitutional Amendment Act
+c)  14th Constitutional Amendment Act
+d)  7th Constitutional Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: d)  7th Constitutional Amendment Act
+#AnswerEnd
+#QuestionStart
+Q7) Which of the following are the reasons for the creation of Union Territories?
+1.  Special treatment of the tribal people
+2.  Cultural distinctiveness
+3.  Strategic importance
+4.  Care of the backward people
+5.  Political and administrative considerations
+Select the correct answer from the codes given below:
+a)  1, 3 and 5
+b)  2, 3, 4 and 5
+c)  1, 2, 3, 4 and 5
+d)  1, 2, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3, 4 and 5
+#AnswerEnd
+#QuestionStart
+Q8) Who/which of the following can put a union territory under the jurisdiction of the high court of adjacent state?
+a)  President of India
+b)  Chief Justice of India
+c)  Parliament of India
+d)  Administrator of the concerned union territory
+#QuestionEnd
+#AnswerStart
+Answer: c)  Parliament of India
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following union territories has a high court of its own?
+a)  Puducherry
+b)  Chandigarh
+c)  Delhi
+d)  Lakshadweep
+#QuestionEnd
+#AnswerStart
+Answer: c)  Delhi
+#AnswerEnd
+#QuestionStart
+Q10) In the case of Puducherry, the President of India can legislate by making regulations only:
+a)  When the Parliament passes a resolution to that effect
+b)  When the Assembly passes a resolution to that effect
+c)  When the Assembly is suspended or dissolved
+d)  When the Lt. Governor requests him to do so
+#QuestionEnd
+#AnswerStart
+Answer: c)  When the Assembly is suspended or dissolved
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following statements:
+1.  The Constitution of India contains separate provisions for the administration of acquired territories.
+2.  The constitutional provisions for the administration of union territories also apply to the acquired territories.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd

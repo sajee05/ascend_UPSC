@@ -1,0 +1,117 @@
+#QuestionStart
+Q1) The Institution of Ombudsman was first introduced in:
+a)  New Zealand
+b)  Norway
+c)  Finland
+d)  Sweden
+#QuestionEnd
+#AnswerStart
+Answer: d)  Sweden
+#AnswerEnd
+#QuestionStart
+Q2) Which one of the following committees recommended the establishment of the institutions of Lokpal and Lokayukta?
+a)  Gorwala Committee
+b)  Appleby Committee
+c)  Administrative Reforms Commission
+d)  Ashok Mehta Committee
+#QuestionEnd
+#AnswerStart
+Answer: c)  Administrative Reforms Commission
+#AnswerEnd
+#QuestionStart
+Q3) At present, institutions for the redressal of citizen’s grievances in India include:
+a)  Supreme Court and the Lokpal
+b)  Lokpal and the Lokayukta
+c)  Lokayukta and the Supreme Court
+d)  Administrative Tribunals and the Lokpal
+#QuestionEnd
+#AnswerStart
+Answer: c)  Lokayukta and the Supreme Court
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following are major features of the institutions of Lokpal and Lokayukta as recommended by the Administrative Reforms Commission?
+1.  They should be demonstrably independent and impartial.
+2.  They should compare with the highest judicial functionary in the country.
+3.  They should be directly accountable to Parliament.
+4.  Their appointments should as far as possible be non-political.
+Select the correct answer by using the codes given below:
+a)  1 and 4
+b)  1, 2 and 4
+c)  1, 2, 3 and 4
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q5) Assertion (A): Lokayuktas have been appointed in all the States of India.
+Reason (R):  An independent institution is required to redress the grievances of the people against the actions of civil servants.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true.
+#AnswerEnd
+#QuestionStart
+Q6) The Lokayukta and Uplokayuktas Act was first passed in:
+a)  Maharashtra
+b)  West Bengal
+c)  Karnataka
+d)  Odisha
+#QuestionEnd
+#AnswerStart
+Answer: d)  Odisha
+#AnswerEnd
+#QuestionStart
+Q7) The Administrative Reforms Commission (1966), recommended the establishment of ‘Lokpal’ in India on the lines of Ombudsman of which of the following countries?
+1.  Finland
+2.  Denmark
+3.  Norway
+4.  Switzerland
+Select the correct answer using the codes given below:
+a)  1, 2 and 4
+b)  1 and 2
+c)  1, 2 and 3
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q8) The specific purpose of the institution of Lok Pal is to:
+a)  Strengthen legislative control over administration
+b)  Supplement judicial control over administration
+c)  Protect and promote integrity in administration
+d)  Enable effective popular control over administration
+#QuestionEnd
+#AnswerStart
+Answer: c)  Protect and promote integrity in administration
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following States require(s) judicial qualifications for the appointment of Lokayukta?
+1.  Maharashtra
+2.  Rajasthan
+3.  Bihar
+4.  Andhra Pradesh
+Select the correct answer using the codes given below:
+a)  1 only
+b)  2 and 3
+c)  4 only
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  4 only
+#AnswerEnd
+#QuestionStart
+Q10) The office of Lokpal and Lokayukta in India is based on which one of the following?
+a)  Parliamentary Commissioner of UK
+b)  Ombudsman in Scandinavia
+c)  Procurator General of Russia
+d)  Council of State in France
+#QuestionEnd
+#AnswerStart
+Answer: b)  Ombudsman in Scandinavia
+#AnswerEnd

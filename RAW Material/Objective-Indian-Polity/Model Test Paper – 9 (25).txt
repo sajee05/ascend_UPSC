@@ -1,0 +1,317 @@
+#QuestionStart
+Q1) Which of the following statements is/are not violative of the principle of federalism in India?
+1.  The President takes over administration of states under the emergency provisions.
+2.  The Parliament has exclusive power to make any law with respect to any matter not enumerated in any of the three lists.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+1.  Report  of  the  Administrative  Reforms  Commission  recommended  the  establishment  of Lokpal and Lokayukta institutions.
+2.  Lokpal is conceived as the highest institution in India to investigate corruption at higher places in Government.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) The most important device of supplying power to the judiciary to invalidate a Statute in India is provided by:
+a)  The Directive Principles of State Policy
+b)  The Fundamental Rights
+c)  Articles 350 and 351
+d)  Prerogative Writs
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Fundamental Rights
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements:
+1.  Whether the expenditure is charged on the Consolidated Fund of India or it is an amount voted by the Lok Sabha, no money can be issued out of the Consolidated Fund of India unless the expenditure is authorized by an Appropriation Act.
+2.  The Rajya Sabha has no power of amending or rejecting the Appropriation Bill or the Annual Finance Bill.
+3.  The Rajya Sabha has no further business with the Annual Financial Statement beyond the general discussion.
+Which of the statements given above are correct?
+a)  1, 2 and 3
+b)  Only 1 and 2
+c)  Only 2 and 3
+d)  Only 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q5) Which among the following is not a fundamental duty as enumerated in Article 51A?
+a)  To develop the scientific temper, humanism and the spirit of inquiry and reform
+b)  To cherish and follow the noble ideals which inspired our national struggle for freedom
+c)  To uphold and protect the sovereignty, unity and integrity of India
+d)  To cherish fraternity assuring the dignity of the individual
+#QuestionEnd
+#AnswerStart
+Answer: d)  To cherish fraternity assuring the dignity of the individual
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+1.  The Central Vigilance Commission comprises a Central Vigilance Commissioner and three Vigilance Commissioners.
+2.  The Central Vigilance Commission became a multi-member Commission with statutory status in the year 1998 after promulgation of an Ordinance by the President of India.
+3.  The Committee for the selection to the post of the Director in the Directorate of Enforcement, Ministry of Finance, Government of India is chaired by the Central Vigilance Commissioner.
+Which of the statements given above is/are correct?
+a)  1, 2 and 3
+b)  Only 2
+c)  Only 2 and 3
+d)  Only 1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  Only 2 and 3
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following fundamental rights is also available to a foreigner on Indian soil?
+a)  Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth
+b)  Equality of opportunity in matters of public employment
+c)  Protection of life and personal liberty according to procedure established by law
+d)  To practice any profession or to carry on any occupation, trade or business
+#QuestionEnd
+#AnswerStart
+Answer: c)  Protection of life and personal liberty according to procedure established by law
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Features)                                     | List-II (Acts)                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Dyarchy                                           | 1.  The Regulating Act, 1773                                       |
+| B.  Federalism                                        | 2.  Government of India Act, 1919                                  |
+| C.  Introduction of communal electorates              | 3.  Indian Councils Act, 1892                                      |
+| D.  Creation of the office of Governor General        | 4.  Government of India Act, 1935                                  |
+|                                                       | 5.  Minto-Morley Reforms, 1909                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 4 5 1
+b)  1 5 3 2
+c)  2 5 3 1
+d)  1 4 5 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 4 5 1
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following Committees scrutinizes and reports to the Parliament whether the power to make rules and regulations conferred by the Constitution or Statutes is being properly exercised by the delegated authority?
+a)  Committee on Government Assurances
+b)  Committee on Subordinate Legislation
+c)  Rules Committee
+d)  General Purposes Committee
+#QuestionEnd
+#AnswerStart
+Answer: b)  Committee on Subordinate Legislation
+#AnswerEnd
+#QuestionStart
+Q10) In the post-independence period the Government appointed several committees and commissions to improve the urban local bodies.  Some of them are:
+1.  Rural-Urban Relationship Committee
+2.  Taxation Enquiry Commission
+3.  National Commission on Urbanization
+4.  Local Finance Enquiry Committee
+Which one of the following is the correct chronological sequence in which the above committees and commissions were set up?
+a)  1–2–4–3
+b)  4–3–1–2
+c)  1–3–4–2
+d)  4–2–1–3
+#QuestionEnd
+#AnswerStart
+Answer: d)  4–2–1–3
+#AnswerEnd
+#QuestionStart
+Q11) Statement I:  The principle of Cabinet responsibility in the States differs from that in the Union of India.
+Statement II: The Constitution of India does not empower the President of India to exercise any function ‘in his discretion’; it authorizes the Governor to exercise some functions ‘in his discretion’.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Statement I is false but Statement II is true.
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following is the correct statement?
+Double Jeopardy means:
+a)  Trying two persons jointly for the same offence
+b)  Trying the same person for two offences at two different times
+c)  Putting the same person on trial twice for the same offence
+d)  Trying a person for two offences committed by him in one incident
+#QuestionEnd
+#AnswerStart
+Answer: c)  Putting the same person on trial twice for the same offence
+#AnswerEnd
+#QuestionStart
+Q13) Who among the following is not a member of the committee which makes recommendation to the President of India for appointment as Chief Information Commissioner and Information Commissioners?
+a)  Prime Minister
+b)  Leader of Opposition in the Lok Sabha
+c)  A Union Cabinet Minister to be nominated by the Prime Minister
+d)  Union Law Minister
+#QuestionEnd
+#AnswerStart
+Answer: d)  Union Law Minister
+#AnswerEnd
+#QuestionStart
+Q14) In case of difference of opinion amongst the Chief Election Commissioner and other Election Commissioners in the Election Commission of India:
+a)  the matter is to be referred to the Supreme Court of India.
+b)  the opinion of the Chief Election Commissioner is final.
+c)  the matter is to be referred to the Law Commission.
+d)  the matter is decided by the Election Commission by majority.
+#QuestionEnd
+#AnswerStart
+Answer: d)  the matter is decided by the Election Commission by majority.
+#AnswerEnd
+#QuestionStart
+Q15) Which of the following statements are not correct?
+1.  A Member of UPSC holds office for a term of six years or until he attains the age of 65 years.
+2.  A Member of UPSC is eligible for re-appointment for the same post for a second term.
+3.  A  Member  of  UPSC  can  accept  employment  under  Central  or  State  government  after retirement.
+4.  A Member of UPSC can accept employment as a member of State P.S.C. after retirement.
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  1 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q16) An executive action taken during national emergency in violation of Article 19 of the Constitution of India:
+a)  Can only be challenged during the emergency
+b)  Can only be challenged after the emergency is over
+c)  Cannot be challenged at all
+d)  Can be challenged during or after the emergency
+#QuestionEnd
+#AnswerStart
+Answer: c)  Cannot be challenged at all
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements:
+1.  The Estimates Committee comprises 20 members elected each year by the Lok Sabha from its elected members and 10 members elected each year by the Rajya Sabha from its elected members.
+2.  The Estimates Committee has no role in suggesting the form in which the estimates shall be presented to the Parliament as that is a function of the Comptroller and Auditor-General of India.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q18) The powers of the Parliament in budgetary matters are covered in:
+a)  Article 111 to 115
+b)  Article 112 to 117
+c)  Article 114 to 119
+d)  Article 115 to 119
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 112 to 117
+#AnswerEnd
+#QuestionStart
+Q19) Consider the following institutions:
+1.  The National Human Rights Commission
+2.  The Supreme Court
+3.  The Finance Commission
+4.  Special Officer for Linguistic Minorities
+Which of these is/are not enumerated in the Constitution of India?
+a)  1 and 2
+b)  Only 1
+c)  Only 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 1
+#AnswerEnd
+#QuestionStart
+Q20) Which of the following opportunities is provided by the Appropriation Bill to the legislature?
+a)  To discuss the policy and other matters related to the expenditure of various ministries
+b)  To change amount of demands of various ministries
+c)  To reallocate the grants of various ministries
+d)  To vary the amount of expenditure charged upon the Consolidated Fund of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  To discuss the policy and other matters related to the expenditure of various ministries
+#AnswerEnd
+#QuestionStart
+Q21) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Grants)                                       | List-II (Explanation)                                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Vote on account                                   | 1.  To  make  any  grant  in  advance  in  respect  of estimated  expenditure  for  a  part  of  financial year  pending  the  completion  of  the  procedure prescribed in Article 113 |
+| B.  Excess grant                                      | 2.  To  make  a  grant  for  meeting  an  unexpected demand upon resources of India |
+| C.  Exceptional grant                                 | 3.  To  take  approval  for  money  spent  during  a financial year in excess of amount granted for the service |
+| D.  Supplementary grant                               | 4.  To  take  approval  if  the  amount  authorized  by  law for the current year is found insufficient |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 3 2 4
+b)  2 4 1 3
+c)  1 4 2 3
+d)  2 3 1 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 3 2 4
+#AnswerEnd
+#QuestionStart
+Q22) Consider the following statements:
+1.  The minimum prescribed age for any person to be a member of Panchayat is 25 years.
+2.  A Panchayat reconstituted after premature dissolution continues only for the remainder period.
+3.  The 73rd and 74th amendments to the Constitution of India do not apply to Sikkim, Arunachal Pradesh, Jammu and Kashmir, and Delhi.
+Which of the statements given above is/are correct?
+a)  Only 2
+b)  Only 2 and 3
+c)  Only 1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 2
+#AnswerEnd
+#QuestionStart
+Q23) Assertion (A): The principles which govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India are determined by the Finance Commission.
+Reason (R):  The Finance Commission is a constitutional body to deal with financial relations between the Union and the States.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q24) What does the 86th Constitutional Amendment Act deal with?
+a)  Inclusion of Bodo, Dogri, Maithili and Santhali languages in the Eighth Schedule
+b)  Inclusion of service tax levied by Union and collected and appropriated by the Union and the states in the Seventh Schedule
+c)  Free and compulsory education for all children between the age of 6 and 14 years
+d)  No reservation in Panchayats need to be made in favour of Scheduled Castes in Arunachal Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: c)  Free and compulsory education for all children between the age of 6 and 14 years
+#AnswerEnd
+#QuestionStart
+Q25) Consider the following statements:
+The State government shall appoint a finance commission to review the financial position of the Panchayats and to make recommendations as to:
+1.  The distribution between the State and Panchayats of the net proceeds of taxes, tolls and fees leviable by the states.
+2.  The determination of the taxes, duties, tolls and fees which may be assigned to the Panchayats.
+3.  The principles that will determine grants-in-aid to the Panchayats.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd

@@ -1,0 +1,83 @@
+#QuestionStart
+Q1) Which one of the following statements is not an explanation of the general characteristics of a pressure group?
+a)  A major objective of a pressure group is to acquire, consolidate and extend political power.
+b)  A pressure group aims at projecting and fulfilling specific interests.
+c)  A pressure group seeks to influence decision-makers in a manner favourable to its specific interests.
+d)  A pressure group is generally too limited in its organisation and goals to be mistaken for a bonafide political party.
+#QuestionEnd
+#AnswerStart
+Answer: a)  A major objective of a pressure group is to acquire, consolidate and extend political power.
+#AnswerEnd
+#QuestionStart
+Q2) To which one of the following major political parties is the Centre of Indian Trade Unions (CITU) attached?
+a)  Indian National Congress
+b)  Communist Party of India (Marxist)
+c)  Communist Party of India
+d)  Bharatiya Janata Party
+#QuestionEnd
+#AnswerStart
+Answer: b)  Communist Party of India (Marxist)
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following is the primary purpose of a pressure group?
+a)  To criticise the government
+b)  To contest the elections
+c)  To formulate policy
+d)  To bring pressure on government to influence policy decision
+#QuestionEnd
+#AnswerStart
+Answer: d)  To bring pressure on government to influence policy decision
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following was the first country-wide pressure group of the organised Indian working class?
+a)  All India Trade Union Congress
+b)  Indian National Trade Union Congress
+c)  United Trade Union Congress
+d)  Hind Mazdoor Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a)  All India Trade Union Congress
+#AnswerEnd
+#QuestionStart
+Q5) A pressure group is distinct from a political party in as much as it does not directly:
+a)  Contest elections
+b)  Finance a candidate
+c)  Propagate a policy
+d)  Resort to mobilisation of opinion
+#QuestionEnd
+#AnswerStart
+Answer: a)  Contest elections
+#AnswerEnd
+#QuestionStart
+Q6) Assertion (A): Pressure groups involve themselves in politics and policy-making process in India through direct and indirect means.
+Reason (R):  They aspire to come to power to achieve their goals.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false.
+#AnswerEnd
+#QuestionStart
+Q7) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Parties)                                      | List-II (Trade Unions)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Indian National Congress                          | 1.   C.I.T.U.                                                      |
+| B.  Bhartaiya Janata Party                            | 2.   A.I.T.U.C.                                                    |
+| C.  Communist Party of India                          | 3.   B.M.S.                                                        |
+| D.  Communist Party of India (Marxist)                | 4.   I.N.T.U.C.                                                    |
+|                                                       | 5.   B.K.S.                                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 2 1
+b)  4 3 1 5
+c)  3 4 1 5
+d)  4 3 2 1
+#QuestionEnd
+#AnswerStart
+Answer: d)  4 3 2 1
+#AnswerEnd

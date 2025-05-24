@@ -1,0 +1,328 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  There is no provision in the Constitution of India under which the President of India may entrust, with the consent of the Government of a State, to that Government, functions in relation to any matter to which the executive power of the Union extends.
+2.  Under the provisions of the Constitution of India, only legislature of a State can by law alter the name of that State.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) The President is recommended by the Finance Commission as to the:
+1.  Distribution of net proceeds of taxes between the Union and States
+2.  Principles governing grants-in-aid of the revenues of States out of Contingency Fund of India
+3.  Measures to augment Consolidated Fund of a State to supplement resources of Municipalities
+4.  Measures to augment Consolidated Fund of a State to supplement resources of Panchayats
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1, 3 and 4
+c)  1 and 4
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Who was the President of India at the time of proclamation of emergency in the year 1975?
+a)  V.V. Giri
+b)  Giani Zail Singh
+c)  Fakhruddin Ali Ahmed
+d)  Shankar Dayal Sharma
+#QuestionEnd
+#AnswerStart
+Answer: c)  Fakhruddin Ali Ahmed
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following statements as per the Constitution of India is/are correct?
+1.  The State shall endeavour to provide early childhood care and education for all children until they complete the age of 6 years.
+2.  It is a fundamental duty of every citizen who is the parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of 6 and 14 years.
+3.  The State shall provide free and compulsory education to all children of the age of 6 to 14 years.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  Only 1
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Commission)                                   | List-II (Chairperson)                                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Second Administrative Reforms Commission          | 1.  Vijay Kelkar                                                   |
+| B.  Second Commission on Centre-State Relations       | 2.  M.N. Venkatachaliah                                            |
+| C.  Thirteenth Finance Commission                     | 3.  Madan Mohan Punchhi                                            |
+| D.  National Commission to Review the Working of the Constitution | 4.  Veerappa Moily                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 3 1 2
+b)  2 3 1 4
+c)  4 1 3 2
+d)  2 1 3 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  4 3 1 2
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following Committees/Commissions appointed in the post-Independence period to examine and report on local governments:
+1.  Committee of Ministers on Augmentation of Financial Resources of Urban Local Bodies
+2.  Rural-Urban Relationship Committee
+3.  National Commission on Urbanisation
+4.  Local Finance Enquiry Committee
+The correct chronological sequence in which these Committees/ Commissions were set up is:
+a)  1, 4, 3, 2
+b)  1, 4, 2, 3
+c)  4, 1, 3, 2
+d)  4, 1, 2, 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  4, 1, 2, 3
+#AnswerEnd
+#QuestionStart
+Q7) Which of the following statements is correct regarding the procedure of passing of Bills in Parliament?
+a)  A Bill pending in Parliament shall not lapse because of the prorogation of the two Houses of Parliament.
+b)  A Bill pending in the Rajya Sabha which has not been passed by the Lok Sabha shall lapse on the dissolution of the Lok Sabha.
+c)  A Bill passed by the Lok Sabha and pending in the Rajya Sabha shall not lapse on the dissolution of the Lok Sabha.
+d)  A Bill passed by both Houses but returned by the President for reconsideration of Houses shall lapse on the dissolution of the Lok Sabha.
+#QuestionEnd
+#AnswerStart
+Answer: a)  A Bill pending in Parliament shall not lapse because of the prorogation of the two Houses of Parliament.
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following statements:
+1.  The Union Executive consists of the President and the Council of Ministers with the Prime Minister as the head.
+2.  The President may, by writing in his hand, addressed to the Vice-President, resign his office.
+3.  The executive power of the Union is vested in the Prime Minister.
+Which of the statements given above is/are correct?
+a)  1 and 3
+b)  2 and 3
+c)  1, 2 and 3
+d)  Only 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Only 2
+#AnswerEnd
+#QuestionStart
+Q9) The Sachar Committee Report pertains to:
+a)  Indian federalism
+b)  Economic development of backward regions
+c)  Indian Muslims
+d)  Backward Classes
+#QuestionEnd
+#AnswerStart
+Answer: c)  Indian Muslims
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+1.  The Comptroller and Auditor-General of India has no control over the issue of money from the Consolidated Fund unlike his British counterpart.
+2.  Government companies do not fall within the duties of the Comptroller and Auditor-General of India to audit and report on their receipts and expenditure.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q11) Who of the following is not a part of the Committee that recommends the appointment of the Chief Information Commissioner to the President?
+a)  The Prime Minister
+b)  The leader of the opposition in the Lok Sabha
+c)  The Chief Justice of the Supreme Court
+d)  A Union Cabinet Minister, nominated by the Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Chief Justice of the Supreme Court
+#AnswerEnd
+#QuestionStart
+Q12) Assertion (A): A  State  law  on  any  matter  of  Concurrent  List  prevails  notwithstanding  any repugnancy with an earlier law made by the Parliament.
+Reason (R):  On any matter in the Concurrent List, the Parliament can make a law that prevails over any repugnant State law.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true.
+#AnswerEnd
+#QuestionStart
+Q13) Which of the following statements is/are correct?
+Under the provisions of Article 200 of the Constitution of India, the Governor of a State may:
+1.  Withhold his assent to a Bill passed by the State Legislature.
+2.  Reserve the Bill passed by the State Legislature for consideration of the President.
+3.  Return the Bill, other than a money Bill, for reconsideration of the State Legislature.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 2
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q14) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provisions Pertaining To)                     | List-II (Schedules in the Constitution)                            |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  The tribal areas in the states of Assam, Meghalaya, Tripura and Mizoram | 1.  Second Schedule                                                |
+| B.  All-India services                                | 2.  Fifth Schedule                                                 |
+| C.  Control of scheduled areas and scheduled tribes   | 3.  Sixth Schedule                                                 |
+| D.  Comptroller and Auditor-General of India          | 4.  Seventh Schedule                                               |
+|                                                       | 5.  Eighth Schedule                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 3 4 5
+b)  2 4 3 5
+c)  4 3 1 2
+d)  3 4 2 1
+#QuestionEnd
+#AnswerStart
+Answer: d)  3 4 2 1
+#AnswerEnd
+#QuestionStart
+Q15) Consider the following statements:
+1.  Zonal Councils have been set up under a provision of the Constitution of India.
+2.  Parliament may by law provide for the exclusion of the jurisdiction of all Courts, except the Supreme Court for the adjudication of any dispute with respect to use, distribution or control of waters of, or in, any inter-State river or river valley.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q16) Which one of the following is not correctly matched?
+a)  Abolition of Untouchability : Article 17
+b)  Reservation of appointments or posts in favour of any backward class of citizens : Article 16
+c)  Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth : Article 18
+d)  Laws inconsistent with or in derogation of the fundamental rights : Article 13
+#QuestionEnd
+#AnswerStart
+Answer: c)  Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth : Article 18
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements:
+1.  The Annual Appropriation Bill is passed by the Lok Sabha in the same manner as an Ordinary Bill.
+2.  An amendment to the Constitution of India can be initiated by an introduction of a Bill in either Lok Sabha or Rajya Sabha.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q18) Statement I:  The principle of equality before the law is not applicable to the President of India.
+Statement II: The President of India enjoys some special privileges under the Constitution of India.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q19) A member of the UPSC may be removed on the ground of misbehaviour by:
+a)  Both the Houses of Parliament by way of impeachment
+b)  The President on the basis of enquiry by the Supreme Court
+c)  The Chairman of the UPSC
+d)  The Prime Minister on the basis of the recommendation of the Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: b)  The President on the basis of enquiry by the Supreme Court
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following statements:
+Judicial review under the Constitution of India:
+1.  Is a part of the basic structure of the Constitution.
+2.  Can only be ousted or excluded by a constitutional amendment.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q21) Which one of the following procedures is valid for passing a Bill seeking abolition of the Vidhan Parishad?
+a)  Resolution in the Rajya Sabha and consent of each House of the Parliament by majority of the members present and voting.
+b)  Resolution in the Vidhan Sabha by a majority of the total membership of the House and by majority of not less than two-thirds of the members of the House present and voting, followed by consent of each House of the Parliament by the majority of the members present and voting.
+c)  Resolution in either House of the Parliament and consent of each House of Parliament by absolute majority of the whole House, coupled with two-thirds majority of members present and voting.
+d)  Resolution in the Vidhan Parishad and consent of the Vidhan Sabha by simple majority, followed by consent of each House of the Parliament by simple majority.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Resolution in the Vidhan Sabha by a majority of the total membership of the House and by majority of not less than two-thirds of the members of the House present and voting, followed by consent of each House of the Parliament by the majority of the members present and voting.
+#AnswerEnd
+#QuestionStart
+Q22) Consider the following statements on Parliamentary Committees:
+1.  Members of the Rajya Sabha are not associated with the Committees on Public Accounts and Public Undertakings.
+2.  Members of the Committee on Estimates are drawn from both the Lok Sabha and the Rajya Sabha.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q23) Which one among the following is a function of the Pro-Tem Speaker of the Lok Sabha?
+a)  Conduct of the proceedings of the House in the absence of the Speaker
+b)  To check if the election certificates of the members of the House are in order
+c)  Swear-in the members of the House and hold the charge till a regular Speaker is elected
+d)  Give his assent to the Bills passed by the House
+#QuestionEnd
+#AnswerStart
+Answer: c)  Swear-in the members of the House and hold the charge till a regular Speaker is elected
+#AnswerEnd
+#QuestionStart
+Q24) Which among the following are listed in the Eleventh Schedule?
+1.  Minor irrigation
+2.  Animal husbandry
+3.  Women and child development
+4.  Fire services
+5.  Cattle ponds, prevention of cruelty to animals
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1, 4 and 5
+c)  2, 3 and 4
+d)  3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following provisions of the Constitution of India need the ratification by the legislatures of not less than one-half of the States to effect amendment?
+1.  The manner of election of the President of India
+2.  Extent of the executive power of the Union and the States
+3.  The Supreme Court and High Courts
+4.  Any of the Lists in the 7th Schedule
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 3
+c)  3 and 4
+d)  1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd

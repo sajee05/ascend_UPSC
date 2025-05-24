@@ -1,0 +1,62 @@
+#QuestionStart
+Q1) Consider the following statements:
+According to the Model Code of Conduct Relating to Elections, all political parties and candidates shall:
+1.  Refrain from serving or distributing liquor on polling day and during the twenty-eight hours preceding it.
+2.  Supply to their authorized workers suitable badges or identity cards.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Statement I:  During the conduct of elections, the Election Commission appoints Observers.
+Statement II: If the candidates or their agents have any specific complaint or problem regarding the conduct of elections, they may bring the same to the notice of the Observer.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements with respect to the Model Code of Conduct Relating to Elections:
+1.  Ministers  shall  not  sanction  grants/payments  out  of  discretionary  funds  from  the  time elections are announced by the Election Commission.
+2.  Ministers shall not enter any polling station or place of counting except in their capacity as a candidate or voter or authorized agent.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following formulates the “Model Code of Conduct for the Guidance of Political Parties and Candidates “?
+a)  Parliament
+b)  Law Ministry
+c)  Supreme Court
+d)  Election Commission
+#QuestionEnd
+#AnswerStart
+Answer: d)  Election Commission
+#AnswerEnd
+#QuestionStart
+Q5) Consider the following statements with respect to the Model Code of Conduct Relating to Elections:
+1.  The Ministers shall not combine their official visit with electioneering work.
+2.  The Ministers shall not make use of official machinery or personnel during the electioneering work.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd

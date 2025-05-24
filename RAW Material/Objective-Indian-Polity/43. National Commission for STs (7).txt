@@ -1,0 +1,78 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The National Commission for Scheduled Tribes was constituted under the Constitution (Eighty-ninth Amendment) Act.
+2.  The first National Commission for Scheduled Tribes was constituted in 2006.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Which one of the following is a Constitutional Body?
+a)  National Commission for Scheduled Tribes
+b)  National Commission for Minorities
+c)  National Commission for Women
+d)  Planning Commission
+#QuestionEnd
+#AnswerStart
+Answer: a)  National Commission for Scheduled Tribes
+#AnswerEnd
+#QuestionStart
+Q3) The National Commission for STs submits its annual report to the:
+a)  Parliament of India
+b)  Union Cabinet
+c)  Ministry of Tribal Affairs
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  President of India
+#AnswerEnd
+#QuestionStart
+Q4) Which Article of the Constitution of India deals with the National Commission for STs?
+a)  Article 338-A
+b)  Article 339
+c)  Article 334
+d)  Article 338
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 338-A
+#AnswerEnd
+#QuestionStart
+Q5) The members of the National Commission for STs are appointed by the:
+a)  Cabinet Committee on Appointments
+b)  Parliament of India
+c)  President of India
+d)  Minister for Tribal Affairs
+#QuestionEnd
+#AnswerStart
+Answer: c)  President of India
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+1.  The National Commission for STs presents an annual report to the Parliament.
+2.  The  central  government  and  state  governments  are  required  to  consult  the  National Commission for STs on all major policy matters affecting the STs.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q7) Statement I:  The National Commission for STs is vested with the power to regulate its own procedure.
+Statement II: The National Commission for STs, while investigating any matter or inquiring into any complaint, has all the powers of a civil court.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd

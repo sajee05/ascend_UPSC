@@ -1,0 +1,66 @@
+#QuestionStart
+Q1) With reference to the definitions under the Constitution, consider the following statements:
+1.  Indian state means any territory which the Government of the Dominion of India recognized as such a state.
+2.  Union territory means any union territory specified in the First Schedule and does not include any other territory comprised within the territory of India but not specified in that Schedule.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following Amendment Acts is related to the definition of ‘Ruler’?
+a)  26th Amendment Act
+b)  16th Amendment Act
+c)  19th Amendment Act
+d)  24th Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: a)  26th Amendment Act
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following Articles of the Constitution of India contains the definitions of various terms used in different provisions of the Constitution?
+a)  Article 363
+b)  Article 369
+c)  Article 366
+d)  Article 362
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 366
+#AnswerEnd
+#QuestionStart
+Q4) In the context of the definitions under the Constitution, the ‘Federal Court’ means the Federal Court constituted under the:
+a)  Government of India Act, 1919
+b)  Government of India Act, 1935
+c)  Indian Independence Act, 1947
+d)  Constitution of India, 1950
+#QuestionEnd
+#AnswerStart
+Answer: b)  Government of India Act, 1935
+#AnswerEnd
+#QuestionStart
+Q5) Article 342 of the Constitution deals with the definition of:
+a)  Scheduled Castes
+b)  Scheduled Tribes
+c)  Backward Classes
+d)  Minorities
+#QuestionEnd
+#AnswerStart
+Answer: b)  Scheduled Tribes
+#AnswerEnd
+#QuestionStart
+Q6) With reference to the definitions under the Constitution, consider the following statements:
+1.  Proclamation of emergency means a proclamation issued under Article 356.
+2.  Railway does not include any other line of communication wholly situated in one state and declared by the State Legislature by law not to be a railway.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd

@@ -1,0 +1,118 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Constitution of India provides that the Vice-President of India shall be the ex-officio Chairman of the Council of States.
+2.  The Constitution of India has not fixed any emoluments for the Vice-President of India in that capacity.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The Vice-President of India may be removed from his office by a resolution of the council of states passed by a majority of all the then members of the council and agreed to by the House of the People.
+4.  An election to fill a vacancy caused by the expiration of the term of office of Vice-President shall be completed before the expiration of the term.
+5.  The Vice-President shall, not withstanding the expiration of his term, continue to hold office until his successor enters upon his office.
+Which of the statements given above are correct?
+a)  1, 2 and 3
+b)  1 and 2
+c)  2 and 3
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) The Vice-President is elected by an electoral college consisting of:
+a)  Members of both Houses of Parliament
+b)  Elected members of both Houses of Parliament
+c)  Elected members of both Houses of Parliament and the State Legislative Assemblies
+d)  Members of both Houses of Parliament and the State Legislative Assemblies
+#QuestionEnd
+#AnswerStart
+Answer: a)  Members of both Houses of Parliament
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following statements is/are correct with regard to the Vice-President of India?
+6.  He must be a Member of Parliament.
+7.  He is elected by proportional representation.
+8.  He should not hold any other office of profit.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 3
+c)  2 and 3
+d)  1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q5) Assertion (A): A candidate for Vice-President must be qualified for election as a member of Rajya Sabha.
+Reason (R):  The Vice-President functions as the Chairman of Rajya Sabha.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not   the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q6) The Vice-President of India may be removed from his office by
+a)  Impeachment
+b)  A resolution passed by Lok Sabha and Rajya Sabha with a two-thirds majority
+c)  A resolution passed with a two-thirds majority in a joint session of Parliament
+d)  A resolution passed by Rajya Sabha with simple majority and agreed to by a majority members of Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d)  A resolution passed by Rajya Sabha with simple majority and agreed to by a majority members of Lok Sabha
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following statements is not correct?
+a)  The Vice-President of India holds office for a period of five years.
+b)  The Vice-President of India is eligible for re-election.
+c)  The Vice-President of India can act as President only for a maximum period of nine months.
+d)  The Supreme Court of India has to look into all disputes with regard to the election of the Vice-President of India.
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Vice-President of India can act as President only for a maximum period of nine months.
+#AnswerEnd
+#QuestionStart
+Q8) Assertion (A): During any period when the Vice-President of India acts as President of India or discharges the functions of the President, he continues to perform the duties of the office of the chairman of the Council of States.
+Reason (R):  The Vice-President of India is the ex-officio Chairman of the Council of States.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not   the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q9) The Vice-President of India can resign from his office at any time by addressing the resignation letter to the:
+a)  Deputy Chairman of Rajya Sabha
+b)  Chief Justice of India
+c)  President of India
+d)  Speaker of Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: c)  President of India
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+9.  No ground has been mentioned in the constitution for the removal of Vice-President.
+10.  No resolution for the removal of Vice-President can be moved unless at least 21 days’ advance notice has been given.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd

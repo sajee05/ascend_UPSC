@@ -1,0 +1,127 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Governor of Arunachal Pradesh shall have special responsibility for law and order in the state.
+2.  The Arunachal Pradesh Legislative Assembly is to consist of not less than 40 members.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) The Acts of Parliament relating to the following matters would not apply to Nagaland unless the State Legislative Assembly so decides:
+3.  Religious or social practices of the Nagas
+4.  Naga customary law and procedure
+5.  Administration of civil and criminal justice involving decisions according to Naga customary law
+6.  Ownership and transfer of land and its resources
+Which of the statements given above is/are correct?
+a)  2 and 3
+b)  1 and 2
+c)  1, 2, 3 and 4
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Who / which of the following can extend (with restrictions or modifications) to Sikkim any law which is in force in a state of the Indian Union?
+a)  Parliament of India
+b)  President of India
+c)  Governor of Sikkim
+d)  Legislative Assembly of Sikkim
+#QuestionEnd
+#AnswerStart
+Answer: b)  President of India
+#AnswerEnd
+#QuestionStart
+Q4) The temporary, transitional and special provisions mentioned in Part XXI of the Constitution of India relate to which State(s)?
+7.  Jammu & Kashmir
+8.  Nagaland
+9.  Assam
+10.  Andhra Pradesh
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  3 and 4
+c)  1, 2 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q5) Under the provisions of Article 371-E of the Constitution of India, who/which of the following is empowered to provide for the establishment of a Central University in the State of Andhra Pradesh?
+a)  President of India
+b)  Parliament of India
+c)  Legislative Assembly of Andhra Pradesh
+d)  Governor of Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: b)  Parliament of India
+#AnswerEnd
+#QuestionStart
+Q6) Who/which of the following is authorized to provide for the creation of a committee of the Manipur Legislative Assembly consisting of the members elected from the Hill areas of the State?
+a)  Governor of Manipur
+b)  Chief Minister of Manipur
+c)  Parliament of India
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  President of India
+#AnswerEnd
+#QuestionStart
+Q7) According to Article 371-A of the Constitution of India, the Governor of which one of the following States has special responsibility with respect to law and order in the State?
+a)  Assam
+b)  Manipur
+c)  Nagaland
+d)  Andhra Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: c)  Nagaland
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (States)                                       | List-II (Special Provisions Contained In)                          |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Goa                                               | 1.  Article 371-D                                                  |
+| B.  Mizoram                                           | 2.  Article 371-B                                                  |
+| C.  Assam                                             | 3.  Article 371-I                                                  |
+| D.  Andhra Pradesh                                    | 4.  Article 371-H                                                  |
+|                                                       | 5.  Article 371-G                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 5 2 1
+b)  5 3 4 2
+c)  5 4 3 1
+d)  3 5 1 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  3 5 2 1
+#AnswerEnd
+#QuestionStart
+Q9) Article 371 of the Constitution of India provides for special provisions with respect to which of the following states?
+a)  Andhra Pradesh
+b)  Assam
+c)  Nagaland
+d)  Maharashtra and Gujarat
+#QuestionEnd
+#AnswerStart
+Answer: d)  Maharashtra and Gujarat
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+11.  Article 371-E of the Constitution of India contains special provisions with respect to Sikkim.
+12.  The 38th Constitutional Amendment Act made Sikkim a full-fledged state of the Indian Union.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd

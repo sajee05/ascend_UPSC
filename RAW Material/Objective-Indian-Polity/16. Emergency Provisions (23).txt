@@ -1,0 +1,277 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  No Proclamation of Emergency can be made by the President of India unless the Union Ministers of Cabinet rank, headed by the Prime Minister, recommended to him, in writing, that such a Proclamation should be issued.
+2.  The President of India must issue a Proclamation of Revocation of Emergency any time that the Lok Sabha passes a resolution disapproving the proclamation or its continuance.
+Which of the statements given above is / are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+If the financial emergency has been declared by the President under the Article 360, then its proclamation:
+3.  May be revoked or varied by a subsequent proclamation
+4.  Shall cease to operate at the expiration of two months, unless before the expiration of that period it has been approved by the resolution of both Houses of Parliament
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+5.  While a Proclamation of Emergency is in operation, Article 359 of the Constitution of India does not come into operation till an order is issued by the President specifying the rights which are suspended.
+6.  While a Proclamation of Emergency is in operation, Article 358 makes the restrictions imposed by Article 19 non-existent against the state.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following are not necessarily the consequences of the proclamation of the President’s Rule in a State?
+7.  Dissolution of the State Legislative Assembly
+8.  The removal of the Council of Ministers in the State
+9.  Dissolution of the local bodies
+10.  Takeover of the State administration by the Union Government
+Choose the correct answer from the codes given below:
+a)  1, 2 and 4
+b)  1 and 3
+c)  2 and 3
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q5) Consider the following statements:
+Proclamation of Emergency under Article 352 of the Constitution of India:
+11.  Requires written communication of the Union Cabinet to the President to that effect.
+12.  Can be issued for the whole of India or part thereof.
+13.  Lapses, if not approved by both Houses of Parliament within a month.
+14.  Requires a resolution, approving the proclamation passed by both Houses of Parliament only by a majority of the total membership of each House, and not less than 2/3rd members present and voting.
+15.  Once approved by Parliament can last for six months.
+Which of the statements given above are correct?
+a)  1, 2, 3, 4 and 5
+b)  2, 3 and 4
+c)  1, 4 and 5
+d)  1, 2, 3 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3, 4 and 5
+#AnswerEnd
+#QuestionStart
+Q6) In case of declaration of financial emergency:
+a)  All the State Governments will be dissolved and management of economy will be taken over by the Union Government
+b)  All Money Bills of the states will be considered and passed only by the Parliament
+c)  All the State Assemblies will be put under suspended animation and laws on the State List will be enacted by the Parliament
+d)  The President may give such directions to the states as may be deemed necessary for economic recovery and salaries of officials may be temporarily reduced
+#QuestionEnd
+#AnswerStart
+Answer: d)  The President may give such directions to the states as may be deemed necessary for economic recovery and salaries of officials may be temporarily reduced
+#AnswerEnd
+#QuestionStart
+Q7) Law made by the Parliament with respect to any matter enumerated in State List, during a proclamation of national emergency, will cease to have effect in which one of the following conditions?
+a)  When the proclamation of emergency has ceased to operate
+b)  When it is repealed by the Parliament
+c)  On the expiration of six months after the proclamation of emergency has ceased to operate
+d)  On the expiration of one year after the proclamation of emergency has ceased to operate
+#QuestionEnd
+#AnswerStart
+Answer: c)  On the expiration of six months after the proclamation of emergency has ceased to operate
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following statements:
+The Supreme Court judgement in S.R. Bommai vs. Union of India has been interpreted to mean that the Governor can dismiss a Council of Ministers or the Chief Minister:
+16.  At his pleasure on his subjective estimate of the strength of the Chief Minister in the Assembly.
+17.  When the Legislative Assembly has expressed its want of confidence in the Council of Ministers.
+18.  When a measure of the Council of Ministers has been defeated on the floor of the Assembly.
+19.  When a censure motion against the Council of Ministers has been rejected in the Legislative Assembly.
+Which of the statements given above are correct?
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q9) Assertion (A): An  imminent  danger  of  war  or  external  aggression  is  not  enough  for  the proclamation of emergency.
+Reason (R):  The Proclamation of Emergency shall cease to operate at the expiration of one month unless approved by both the Houses of Parliament.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following statements is the correct one?
+a)  War,  external  aggression,  internal  disturbance  and  armed  rebellion  are  the  grounds  for proclaiming emergency.
+b)  Words “armed rebellion” were replaced by the word “war” by the 44th Amendment.
+c)  Actual existence of any one or more grounds mentioned in Article 352 is necessary for proclaiming emergency.
+d)  The President proclaims emergency on the basis of any ground mentioned in Article 352 or possibility thereof.
+#QuestionEnd
+#AnswerStart
+Answer: d)  The President proclaims emergency on the basis of any ground mentioned in Article 352 or possibility thereof.
+#AnswerEnd
+#QuestionStart
+Q11) If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then:
+a)  The Assembly of the State is automatically dissolved
+b)  Article 19 is suspended in that State
+c)  Parliament assumes the power to legislate on the subjects in the State list
+d)  The President can make laws relating to that state
+#QuestionEnd
+#AnswerStart
+Answer: c)  Parliament assumes the power to legislate on the subjects in the State list
+#AnswerEnd
+#QuestionStart
+Q12) When a proclamation of emergency is issued by the President under Article 352 of the Constitution of India:
+a)  Fundamental Rights are automatically suspended
+b)  The freedoms under Article 19 are automatically suspended and other Fundamental Rights can be suspended by an order of the President
+c)  The freedoms under Article 19 are automatically suspended and other Fundamental Rights, except those under Articles 20 and 21, can be suspended by an order of the President
+d)  Only the freedoms under Article 19 are suspended and other Fundamental Rights cannot be suspended
+#QuestionEnd
+#AnswerStart
+Answer: c)  The freedoms under Article 19 are automatically suspended and other Fundamental Rights, except those under Articles 20 and 21, can be suspended by an order of the President
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following is the correct statement?
+Proclamation of Emergency in a State under Article 356 can continue beyond one year if:
+a)  The High Court of the State certifies that the situation in the State is very serious
+b)  The Governor of the State certifies that the law and order situation is not under control
+c)  The Election Commission certifies that it is difficult to hold elections to the Assembly
+d)  The  President  is  satisfied  about  the  grave  situation  in  the  State  through  independent investigation
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Election Commission certifies that it is difficult to hold elections to the Assembly
+#AnswerEnd
+#QuestionStart
+Q14) Which of the following may be done under conditions of financial emergency?
+20.  Reduction in the number of districts in the country for effecting economy
+21.  Abolition of all State Legislative Assemblies to reduce expenditure
+22.  Reduction in the salaries of the judges of the High Court
+23.  Reservation of Money Bills of State Legislative Assemblies for the consideration of the President
+Choose the correct answer from the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q15) When a state fails to implement the administrative directions given by the Union under Article 256 of the Constitution of India:
+a)  Parliament may compel the state to execute the said directions
+b)  The Governor may dissolve the State Legislature
+c)  The President may presume that Constitutional machinery in the State has failed
+d)  The President may impose emergency under Article 352 of the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: c)  The President may presume that Constitutional machinery in the State has failed
+#AnswerEnd
+#QuestionStart
+Q16) Proclamation of emergency by the President of India can be made on the written advice of the Cabinet only. This provision has been added:
+a)  After 44th Constitutional Amendment
+b)  After 42nd Constitutional Amendment
+c)  By the Constituent Assembly in the Constitution of India
+d)  By the Supreme Court of India in 1975
+#QuestionEnd
+#AnswerStart
+Answer: a)  After 44th Constitutional Amendment
+#AnswerEnd
+#QuestionStart
+Q17) The President’s Rule under Article 356 remains valid in a state for the maximum period of:
+a)  One year
+b)  Two years
+c)  Three years
+d)  Four years
+#QuestionEnd
+#AnswerStart
+Answer: c)  Three years
+#AnswerEnd
+#QuestionStart
+Q18) Proclamation of Emergency under Article 352, when Lok Sabha stands dissolved has to be approved by:
+a)  Rajya Sabha and then it will continue till the reconstitution of new Lok Sabha, which must approve it within 30 days of its first sitting.
+b)  New Lok Sabha within six months of its constitution.
+c)  Lok Sabha in the next session after six months.
+d)  Rajya Sabha only.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Rajya Sabha and then it will continue till the reconstitution of new Lok Sabha, which must approve it within 30 days of its first sitting.
+#AnswerEnd
+#QuestionStart
+Q19) Assertion (A): Proclamation of Emergency can be issued by the President if there is imminent danger of war or external aggression or armed rebellion.
+Reason (R):  The President can suspend the enforcement of all the fundamental rights during the period of Emergency.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q20) Which one of the following is not an automatic consequence of the Proclamation of Emergency?
+a)  Suspension of the enforcement of fundamental rights except those conferred by Articles 20 and 21.
+b)  Extension of the Union’s executive power to the issue of directions to any State as to the manner in which its executive power has to be exercised.
+c)  Extension of the power of Parliament to the making of legislation in regard to items of the State List
+d)  Suspension of Article 19.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Suspension of the enforcement of fundamental rights except those conferred by Articles 20 and 21.
+#AnswerEnd
+#QuestionStart
+Q21) Consider the following statements:
+Parliament may make law on a subject enumerated in State List only if the:
+24.  President deems it proper that such law is necessary for all the States.
+25.  Proclamation of Emergency under Article 352 is in operation.
+26.  Lok Sabha passes a resolution by 2/3rd majority of its total membership.
+27.  Governor of the State requests the President for such legislation.
+Of these statements:
+a)  1 and 4 are correct
+b)  2 alone is correct
+c)  3 alone is correct
+d)  3 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 alone is correct
+#AnswerEnd
+#QuestionStart
+Q22) The judgement in the S.R. Bommai vs. Union of India case pertained broadly to which Article of the Constitution of India?
+a)  Article 29
+b)  Article 32
+c)  Article 353
+d)  Article 356
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 356
+#AnswerEnd
+#QuestionStart
+Q23) Consider the following statements in respect of provisions as to financial emergency:
+28.  A proclamation of financial emergency has to be laid before each House of Parliament.
+29.  A proclamation of financial emergency ceases to operate at the expiration of six months, unless before the expiration of that period, it has been approved by resolutions of both Houses of Parliament.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd

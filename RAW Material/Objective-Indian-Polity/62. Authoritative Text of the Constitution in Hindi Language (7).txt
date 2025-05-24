@@ -1,0 +1,81 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Originally, the Constitution of India did not make any provision with respect to an authoritative text of the Constitution in the Hindi language.
+2.  Later, a provision in this regard was made in 1978.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+1.  The President shall cause to be published under his authority the translation of the Constitution in Hindi language.
+2.  The President shall cause to be published under his authority the translation in Hindi of every amendment of the Constitution made in English.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) In pursuance of which of the following Articles of the Constitution of India, the President published an authoritative text of the Constitution in the Hindi language?
+a)  Article 393
+b)  Article 394
+c)  Article 394-A
+d)  Article 395
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 394-A
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following Parts of the Constitution of India deals with the authoritative text of the Constitution in the Hindi language?
+a)  Part XXI
+b)  Part XIX
+c)  Part XVII
+d)  Part XXII
+#QuestionEnd
+#AnswerStart
+Answer: d)  Part XXII
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following Constitutional Amendment Acts made a provision with respect to an authoritative text of the Constitution of India in the Hindi language?
+a)  56th Amendment Act
+b)  58th Amendment Act
+c)  54th Amendment Act
+d)  55th Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: b)  58th Amendment Act
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+1.  The translation of the constitution and its every amendment published shall be construed to have the same meaning as the original text in English.
+2.  The translation of the constitution and its every amendment published shall be deemed to be, for all purposes, its authoritative text in Hindi.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q7) Statement I:   The Constitution of India adopted by the Constituent Assembly on November 26, 1949, was in the English Language.
+Statement II: A Hindi translation of the Constitution, signed by the members of the Constituent Assembly, was also published in 1950 under the authority of the President of the Constituent Assembly.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd

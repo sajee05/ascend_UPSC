@@ -1,0 +1,70 @@
+#QuestionStart
+Q1) Which one of the following statements is correct with regard to the office of the Attorney General of India?
+a)  He shall have the right of audience in all the Courts within the territory of India.
+b)  He shall perform his duties only in the Supreme Court.
+c)  He enjoys a fixed tenure.
+d)  The President appoints a person who is qualified to be a judge of a High Court, to be the Attorney General of India.
+#QuestionEnd
+#AnswerStart
+Answer: a)  He shall have the right of audience in all the Courts within the territory of India.
+#AnswerEnd
+#QuestionStart
+Q2) Who is the first Law Officer of the Government of India?
+a)  Chief Justice of India
+b)  Union Law Minister
+c)  Attorney General of India
+d)  Law Secretary
+#QuestionEnd
+#AnswerStart
+Answer: c)  Attorney General of India
+#AnswerEnd
+#QuestionStart
+Q3) Who among the following holds his office at the pleasure of the President?
+a)  Chairman of the Union Public Service Commission
+b)  Attorney General of India
+c)  Speaker of the Lok Sabha
+d)  Comptroller and Auditor General of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  Attorney General of India
+#AnswerEnd
+#QuestionStart
+Q4) Who among the following can attend the meetings of both Houses of Parliament while being not a member of either of the Houses?
+a)  Solicitor-General of India
+b)  Vice-President of India
+c)  Comptroller and Auditor-General of India
+d)  Attorney General of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  Attorney General of India
+#AnswerEnd
+#QuestionStart
+Q5) Which Article of the Constitution of India has provided for the office of the Attorney General of India?
+a)  Article 76
+b)  Article 74
+c)  Article 78
+d)  Article 77
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 76
+#AnswerEnd
+#QuestionStart
+Q6) The remuneration of the Attorney General of India is determined by:
+a)  Parliament of India
+b)  President of India
+c)  Prime Minister of India
+d)  Union Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: b)  President of India
+#AnswerEnd
+#QuestionStart
+Q7) The Solicitor General of India provides assistance to the:
+a)  Union Law Secretary
+b)  Chief Justice of India
+c)  Union Law Minister
+d)  Attorney General of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  Attorney General of India
+#AnswerEnd

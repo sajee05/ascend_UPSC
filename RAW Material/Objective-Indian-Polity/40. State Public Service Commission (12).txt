@@ -1,0 +1,139 @@
+#QuestionStart
+Q1) The State Public Service Commission is consulted on:
+1.  All matters relating to methods of recruitment to civil services and for civil posts in the State.
+2.  All disciplinary matters affecting a person in service under the State.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+A member of the State Public Service Commission can be removed only by the:
+1.  Governor on the ground of his misbehaviour
+2.  President on the ground of his infirmity of body or mind
+3.  Governor when such member becomes insolvent
+4.  President on the ground of misbehaviour after receiving report of the Supreme Court after due enquiry
+Which of the above statement(s) is/are correct?
+a)  1, 2 and 3
+b)  2 and 4
+c)  1 and 3
+d)  2 alone
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+The Constitution provides for the establishment of Public Service Commission:
+1.  For the Union
+2.  For each State
+3.  Common for Union Territories
+4.  Common for two or more States
+Which of these statements are correct?
+a)  1, 2 and 4
+b)  1, 2 and 3
+c)  2 and 3
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q4) Assertion (A): It shall be the duty of the State Public Service Commission to conduct examinations for appointments.
+Reason (R):  The functions of the State Public Service Commission are only advisory and not obligatory upon the Government to act upon.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following functions does not require consultation with the State Public Service Commission as per provisions of the Constitution of India?
+a)  Methods of recruitment to civil services and civil posts
+b)  Principles to be followed in making appointments to civil services
+c)  The manner in which any provision may be made for the reservation of appointments or posts in favour of any backward class of citizens
+d)  Any claim for the award of a pension in respect of injuries suffered by a person while serving under the Government of the State in a civil capacity
+#QuestionEnd
+#AnswerStart
+Answer: c)  The manner in which any provision may be made for the reservation of appointments or posts in favour of any backward class of citizens
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following statements is correct?
+The Union Public Service Commission may agree to serve all or any of the needs of a State:
+a)  On request by the Governor of the State
+b)  On request by the Governor of the State subject to approval of the President of India
+c)  On request by the Chief Minister of the State
+d)  Only if Parliament by law, so prescribes
+#QuestionEnd
+#AnswerStart
+Answer: b)  On request by the Governor of the State subject to approval of the President of India
+#AnswerEnd
+#QuestionStart
+Q7) A Joint Public Service Commission for two or more States can be established by:
+a)  The concerned States
+b)  An Act of Parliament
+c)  The Union Public Service Commission
+d)  The Government of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  An Act of Parliament
+#AnswerEnd
+#QuestionStart
+Q8) The State Public Service Commission submits its annual report to the:
+a)  Parliament
+b)  State Legislature
+c)  President
+d)  Governor
+#QuestionEnd
+#AnswerStart
+Answer: d)  Governor
+#AnswerEnd
+#QuestionStart
+Q9) When the report of the State Public Service Commission is not accepted, the reasons for such non-acceptance are to be laid before:
+a)  Parliament
+b)  President
+c)  State Legislature
+d)  Cabinet Committee presided over by the Chief   Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  State Legislature
+#AnswerEnd
+#QuestionStart
+Q10) The salaries, allowances and other service conditions of the SPSC members are determined by the:
+a)  Governor
+b)  Chief Minister
+c)  Chairman, SPSC
+d)  State Legislature
+#QuestionEnd
+#AnswerStart
+Answer: a)  Governor
+#AnswerEnd
+#QuestionStart
+Q11) A member of the State Public Service Commission can be removed on the ground of misbehaviour only after an inquiry has been held by:
+a)  A Joint Parliamentary Committee
+b)  The Supreme Court of India
+c)  The High Court of the concerned State
+d)  A Committee constituted by the Governor of the State
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Supreme Court of India
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following is the correct statement?
+Parliament may by law provide for the appointment of a Joint State Public Service Commission to serve the needs of two or more States:
+a)  When the President deems it to be necessary
+b)  When the Governors of those States request the Centre to appoint such Commission
+c)  When a resolution to that effect is passed by the legislatures of those States
+d)  When the Parliament deems it to be necessary
+#QuestionEnd
+#AnswerStart
+Answer: c)  When a resolution to that effect is passed by the legislatures of those States
+#AnswerEnd

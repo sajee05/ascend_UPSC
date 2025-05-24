@@ -1,0 +1,79 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The first National Commission for Scheduled Castes and Scheduled Tribes was constituted in the year 1992.
+2.  The first National Commission for Scheduled Castes and Scheduled Tribes was constituted under the Constitution (Sixty-fifth Amendment) Act.
+3.  The 87th Amendment bifurcated the combined National Commission for Scheduled Castes and Scheduled Tribes into two separate bodies.
+Which of the statements given above are correct?
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following were created under the provisions of the Constitution of India?
+1.  National Development Council
+2.  Finance Commission
+3.  National Commission for Scheduled Castes
+4.  Commission to investigate the conditions of Backward Classes
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 3 only
+c)  2, 3 and 4 only
+d)  1 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c)  2, 3 and 4 only
+#AnswerEnd
+#QuestionStart
+Q3) Who of the following places the annual report of the National Commission for SCs before the Parliament?
+a)  Union Minister for Social Justice
+b)  Union Cabinet
+c)  Prime Minister of India
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  President of India
+#AnswerEnd
+#QuestionStart
+Q4) Which Article of the Constitution of India deals with the National Commission for SCs?
+a)  Article 336
+b)  Article 337
+c)  Article 338
+d)  Article 338-A
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 338
+#AnswerEnd
+#QuestionStart
+Q5) The National Commission for SCs consists of a chairperson, a vice-chairperson and:
+a)  Two other members
+b)  Three other members
+c)  Four other members
+d)  Five other members
+#QuestionEnd
+#AnswerStart
+Answer: b)  Three other members
+#AnswerEnd
+#QuestionStart
+Q6) The separate National Commission for SCs came into existence in:
+a)  2000
+b)  2002
+c)  2004
+d)  2006
+#QuestionEnd
+#AnswerStart
+Answer: c)  2004
+#AnswerEnd
+#QuestionStart
+Q7) The conditions of service of the members of the National Commission for SCs are determined by the:
+a)  Parliament of India
+b)  President of India
+c)  Union Cabinet
+d)  Constitution of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  President of India
+#AnswerEnd

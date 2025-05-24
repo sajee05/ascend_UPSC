@@ -1,0 +1,643 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Chairperson of every District Planning Committee shall forward the development plan as recommended by such Committee to the Governor of the State.
+2.  Not less than two-thirds of the total number of members of the District Planning Committee shall be elected, from amongst, the elected members of the Panchayat at the district level and the Municipalities in the district.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  In an urban area where municipal services are being provided by an industrial establishment, it is still mandatory to constitute a Municipality under the 74th Constitutional Amendment Act.
+4.  It is obligatory to constitute Ward Committees for one or more wards within the territorial area of a Municipality having a population of 3 lakhs or more.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following statements regarding the Seventy-Fourth Amendment to the Constitution of India are correct?
+5.  It provides for the insertion of a new Schedule to the Constitution.
+6.  It restructures the working of the municipalities.
+7.  It provides for the reservation of seats for women and Scheduled Castes in the municipalities.
+8.  It is applicable only to some specified states.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1,2 and 4
+c)  1, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following:
+9.  District Board
+10.  Municipal Corporation
+11.  Notified Area Authority and Town Area Committee
+12.  Township Committee and Port Trust
+Which of these is/are urban local body / bodies in India?
+a)  Only 1
+b)  2 and 3
+c)  1, 3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q5) As per the Constitution (74th Amendment) Act, Legislatures of States have not been conferred the power to empower municipalities with the responsibility of:
+a)  Preparation of plans for economic development and social justice
+b)  Management of law and order
+c)  Implementation of schemes as may be entrusted to them
+d)  Levy, collection and appropriation of taxes, duties, tolls, etc
+#QuestionEnd
+#AnswerStart
+Answer: b)  Management of law and order
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following is not correct?
+Part IX-A of the Constitution of India pertaining to the Municipalities provides
+a)  That grants-in-aid be made to the Municipalities from the Consolidated Fund of the State
+b)  For setting up a separate Finance Commission for the Municipalities
+c)  For setting up Committee for District Planning
+d)  For setting up Committee for Metropolitan Planning
+#QuestionEnd
+#AnswerStart
+Answer: b)  For setting up a separate Finance Commission for the Municipalities
+#AnswerEnd
+#QuestionStart
+Q7) The sources of revenue of urban local bodies in India are:
+13.  Taxes
+14.  Fees and fines
+15.  Grants
+16.  Loans
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  1, 2, 3 and 4
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q8) ‘A transitional area’, ‘a smaller urban area’ or ‘a larger urban area’ in the context of a Nagar Panchayat, a Municipal Council or a Municipal Corporation, are specified by the Governor after considering which of the following:
+17.  Density of population
+18.  Percentage of employment in non-agricultural activities
+19.  Number of hospitals in the area
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1 and 2, only
+c)  2 and 3, only
+d)  1 and 3, only
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2, only
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following functions is not the concern of the Local Government in India?
+a)  Public health
+b)  Sanitation
+c)  Public utility services
+d)  Maintenance of public order
+#QuestionEnd
+#AnswerStart
+Answer: d)  Maintenance of public order
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following Constitution (Amendment) Acts provided for the formation of the Metropolitan Planning Committee?
+a)  42nd Constitution (Amendment) Act
+b)  44th Constitution (Amendment) Act
+c)  73rd Constitution (Amendment) Act
+d)  74th Constitution (Amendment) Act
+#QuestionEnd
+#AnswerStart
+Answer: d)  74th Constitution (Amendment) Act
+#AnswerEnd
+#QuestionStart
+Q11) Which of the following statements is not correct?
+a)  A Metropolitan area is specified by the Governor through a public notification.
+b)  Metropolitan area means an area having a population of 8 lakhs or more.
+c)  Metropolitan area may be comprised in more than one district.
+d)  Metropolitan area may consist of more than two Municipalities or Panchayats or other contiguous areas.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Metropolitan area means an area having a population of 8 lakhs or more.
+#AnswerEnd
+#QuestionStart
+Q12) According to the Constitution of India, it is obligatory to constitute ‘Ward Committees’ in the area of a municipality. The population of such municipality should be:
+a)  One lac or more
+b)  Two lacs or more
+c)  Three lacs or more
+d)  Five lacs or more
+#QuestionEnd
+#AnswerStart
+Answer: c)  Three lacs or more
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following objectives:
+1.  Bringing about uniformity in the structure of local governments throughout the country
+2.  Ensuring regular and rational flow of funds from the State’s revenue
+3.  Having properly elected governments at regular intervals
+4.  Having single unified authority for the city’s management and development
+Which of these did the 74th Amendment to the Constitution of India, try to inject into the working of urban local bodies?
+a)  1 and 2
+b)  1, 3 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q14) In 1989, the 64th and 65th Amendment Bills were not passed and the Amendment Acts could not come in force at that time because:
+a)  Lok Sabha was dissolved in November, 1989.
+b)  Lok Sabha could not pass the Bills for lack of required majority.
+c)  Rajya Sabha could not pass the Bills due to lack of required majority.
+d)  The President sent the Bills for reconsideration.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Rajya Sabha could not pass the Bills due to lack of required majority.
+#AnswerEnd
+#QuestionStart
+Q15) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Items)                                        | List-II (Articles)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Constitution of Municipalities                    | 1.  Article 243Q                                                   |
+| B.  Reservation of seats in Municipal Bodies          | 2.  Article 243T                                                   |
+| C.  State Finance Commission                          | 3.  Article 243Y                                                   |
+| D.  Duration of Municipalities                        | 4.  Article 243U                                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 1 2
+b)  1 2 3 4
+c)  3 2 1 4
+d)  1 4 3 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 2 3 4
+#AnswerEnd
+#QuestionStart
+Q16) Which one of the following statements with regard to Finance Commission in States is not correct?
+a)  The 74th Amendment of the Constitution of India provides for the establishment of a Finance Commission by a State to review the financial position of the municipalities.
+b)  The Chief Minister of the State decides the composition of the Finance Commission and nominates the Chairman.
+c)  The Finance Commission is expected to recommend the division of resources between the State and the municipalities within the State.
+d)  The Finance Commission is authorised to make recommendations with regard to grants-in-aid to the Panchayats from the Consolidated Fund of a State.
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Chief Minister of the State decides the composition of the Finance Commission and nominates the Chairman.
+#AnswerEnd
+#QuestionStart
+Q17) Who among the following is hailed as the father of local self-government in India?
+a)  Lord Mayo
+b)  Lord Ripon
+c)  Jawaharlal Nehru
+d)  Mahatma Gandhi
+#QuestionEnd
+#AnswerStart
+Answer: b)  Lord Ripon
+#AnswerEnd
+#QuestionStart
+Q18) Municipal Area means the territorial area of a Municipality as is notified by the:
+a)  Governor
+b)  Municipal Commissioner
+c)  Municipal Council
+d)  Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: a)  Governor
+#AnswerEnd
+#QuestionStart
+Q19) To whom does the Chairperson of every Metropolitan Planning Committee forward the development plan, as recommended by such a Committee?
+a)  The Planning Commission
+b)  The Finance Minister, Government of India
+c)  The Urban Development Minister,  Government of India
+d)  The Government of the State
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Government of the State
+#AnswerEnd
+#QuestionStart
+Q20) The Constitution (74th Amendment) Act, 1992 provides for which of the following?
+24.  Municipal Committees
+25.  Ward Committees
+26.  Committee for District Planning
+27.  Committee for Metropolitan Planning
+Select the correct answer using the codes given below:
+a)  1 and 3
+b)  2 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q21) Nagar Palika bill was first introduced in Parliament during the prime ministership of
+a)  V.P. Singh
+b)  Chandrasekhar
+c)  Rajiv Gandhi
+d)  Narasimha Rao
+#QuestionEnd
+#AnswerStart
+Answer: c)  Rajiv Gandhi
+#AnswerEnd
+#QuestionStart
+Q22) Which of the following is correct in respect of financial powers of local governments in India?
+a)  Local Governments have constitutionally earmarked taxation powers.
+b)  Local Governments are empowered to levy such taxes as are permitted under the law.
+c)  Local Governments are empowered to levy charges on all items within their sphere of activities.
+d)  Local Governments are empowered to levy taxes with the permission of the department concerned.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Local Governments are empowered to levy such taxes as are permitted under the law.
+#AnswerEnd
+#QuestionStart
+Q23) Under which Article of the Constitution of India, did the District Planning Committee come into existence?
+a)  Article 243 ZD
+b)  Article 243 ZE
+c)  Article 244 ZD
+d)  Article 242 ZD
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 243 ZD
+#AnswerEnd
+#QuestionStart
+Q24) Which of the following functions have been laid down in the 12th Schedule of the Constitution of India for the municipalities?
+28.  Urban poverty alleviation
+29.  Planning for economic and social development
+30.  Regulation for tanneries
+31.  Urban forestry
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following units of urban local self-government does not have a constitutional foundation?
+a)  Cantonment Boards
+b)  Municipal Councils
+c)  Municipal Corporations
+d)  Nagar Panchayats
+#QuestionEnd
+#AnswerStart
+Answer: a)  Cantonment Boards
+#AnswerEnd
+#QuestionStart
+Q26) 73rd and 74th Amendments to the Constitution of India provide for elections to the local bodies:
+a)  Every year
+b)  After every three years
+c)  After every five years
+d)  After every two years
+#QuestionEnd
+#AnswerStart
+Answer: c)  After every five years
+#AnswerEnd
+#QuestionStart
+Q27) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Functionary)                                  | List-II (Institution)                                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Sarpanch                                          | 1.  Municipal Corporation                                          |
+| B.  Chairman                                          | 2.  Village Panchayat                                              |
+| C.  Mayor                                             | 3.  Municipality                                                   |
+| D.  Counsellor                                        | 4.  Cantonment Board                                               |
+|                                                       | 5.  Ward                                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 1 5
+b)  4 3 2 1
+c)  2 3 1 5
+d)  2 5 4 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 3 1 5
+#AnswerEnd
+#QuestionStart
+Q28) An election to constitute a municipality has to be completed:
+a)  Immediately on completion of its term of five years
+b)  Before the expiry of its fixed tenure
+c)  Before the expiry of a period of six months from the date of its dissolution
+d)  Before the expiry of a period of three months from the date of its dissolution
+#QuestionEnd
+#AnswerStart
+Answer: b)  Before the expiry of its fixed tenure
+#AnswerEnd
+#QuestionStart
+Q29) To which of the following, the 74th Constitutional Amendment has not paid attention?
+1.  Municipal personnel system
+2.  Constitution and composition of municipality
+3.  Relations between elected executive and bureaucracy
+4.  Disqualifications for membership of municipality
+Select the correct answer using the codes given below:
+a)  1 and 4 only
+b)  1 and 3 only
+c)  2, 3 and 4
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q30) Who consolidates the plans prepared by the Panchayats and Municipalities in the district?
+a)  State Planning Commission
+b)  Public Accounts Committee
+c)  District Planning Committee
+d)  District Planning and Development Council
+#QuestionEnd
+#AnswerStart
+Answer: c)  District Planning Committee
+#AnswerEnd
+#QuestionStart
+Q31) The first municipal corporation that was established in India is at
+a)  Madras
+b)  Delhi
+c)  Bombay
+d)  Hyderabad
+#QuestionEnd
+#AnswerStart
+Answer: a)  Madras
+#AnswerEnd
+#QuestionStart
+Q32) The Metropolitan Planning Committee while preparing the draft plan has to give due regard to:
+1.  Matters of common interest between Municipalities and Panchayats
+2.  Overall objectives and priorities set by the Union Government
+3.  Plans prepared by Panchayats in Metropolitan area
+4.  Contingent circumstances emerging out of natural calamities
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  2 and 4
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q33) Consider the following pairs:
+1.  Cantonment Board : Administered centrally by Defence Ministry
+2.  Notified Area Committee : Administers newly developing towns
+3.  Municipal Council : Administers big cities with complex problems
+4.  Municipal Corporation : Headed by an elected Mayor
+Which of these pairs are correctly matched?
+a)  1, 2, 3 and 4
+b)  1 and 4
+c)  1, 2 and 4
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q34) Consider the following statements:
+1.  The Constitution (Seventy-third Amendment) Act, 1992 has added 16 Articles and a new Schedule in the Constitution of India.
+2.  The Constitution (Seventy-fourth Amendment) Act, 1992 has added 18 Articles but no new Schedule in the Constitution of India.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q35) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Urban Bodies)                                 | List-II (Features)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Town Area Committee                               | 1.  No elected members                                             |
+| B.  Port Trust                                        | 2.  Semi-municipal authority                                       |
+| C.  Township                                          | 3.  Created by an Act of Parliament                                |
+| D.  Town Improvement Trust                            | 4.  Special Purpose Agency                                         |
+|                                                       | 5.  Works under Defence Ministry                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 5 2 4
+b)  2 3 1 4
+c)  1 5 4 3
+d)  2 1 5 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 3 1 4
+#AnswerEnd
+#QuestionStart
+Q36) The following are associated with well known local government policies:
+1.  Balwant Rai Mehta
+2.  Lord Mayo
+3.  Lord Ripon
+4.  Ashok Mehta
+Which is the correct chronological sequence of the above?
+Choose the correct answer from the codes given below:
+a)  1, 2, 3 and 4
+b)  2, 3, 1 and 4
+c)  3, 2, 4 and 1
+d)  4, 1, 3 and 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  2, 3, 1 and 4
+#AnswerEnd
+#QuestionStart
+Q37) Which of the following are the sources of revenue of urban local bodies?
+1.  Property tax
+2.  Octroi
+3.  Sales tax
+4.  Animal tax
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2, 3 and 4
+c)  1, 3 and 4
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q38) Consider the following statements:
+1.  The State Finance Commissions receive grants directly from the Finance Commission set up by the Union Government.
+2.  The State Finance Commissions review the economic conditions of the various Panchayati Raj Institutions and Municipal Bodies in the States.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q39) Statement I: The Directorates of Local Bodies in States supervise the working of Municipal Corporations.
+Statement II: The State governments need to exercise control over all the local bodies.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q40) In which pair of Schedules of the Constitution, the functions of Panchayats and Municipalities are incorporated?
+a)  8th and 9th
+b)  9th and 10th
+c)  10th and 11th
+d)  11th and 12th
+#QuestionEnd
+#AnswerStart
+Answer: d)  11th and 12th
+#AnswerEnd
+#QuestionStart
+Q41) The Chairperson of a District Planning Committee forwards the development plan recommended by the Committee to which one of the following?
+a)  The State Government
+b)  The District Development Officer
+c)  The District Collector
+d)  Chairperson, Zilla Parishad
+#QuestionEnd
+#AnswerStart
+Answer: a)  The State Government
+#AnswerEnd
+#QuestionStart
+Q42) Consider the following statements:
+1.  Local government including self-government institutions in both urban and rural areas is a subject under the Concurrent List of the Seventh Schedule of the Constitution of India.
+2.  Provisions inserted in the Constitution of India by article 243-243ZG are in the nature of basic provisions.
+3.  These provisions have to be supplemented by laws made by the respective State Legislatures.
+Which of the statements given above is/are correct?
+a)  Only 1 and 2
+b)  Only 2 and 3
+c)  Only 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2 and 3
+#AnswerEnd
+#QuestionStart
+Q43) When was the first municipal corporation in India at Madras set up?
+a)  1587
+b)  1687
+c)  1787
+d)  1887
+#QuestionEnd
+#AnswerStart
+Answer: b)  1687
+#AnswerEnd
+#QuestionStart
+Q44) Regarding the Municipalities, who makes the provisions with respect to the composition and the territorial area of a Wards Committee?
+a)  Municipal Commissioner
+b)  District Collector
+c)  State Legislature by law
+d)  State Election Commissioner
+#QuestionEnd
+#AnswerStart
+Answer: c)  State Legislature by law
+#AnswerEnd
+#QuestionStart
+Q45) Which one of the following is not correct for the Local Government?
+a)  A constitutional obligation for the Village Panchayats to function as units of self-government
+b)  The Constitution places the subject of local self-government as a responsibility of the states
+c)  A constitutional obligation for the states to constitute Finance Commission to ensure financial viability of Municipalities
+d)  A constitutional obligation for the Municipalities to carry out schemes related to public distribution system
+#QuestionEnd
+#AnswerStart
+Answer: d)  A constitutional obligation for the Municipalities to carry out schemes related to public distribution system
+#AnswerEnd
+#QuestionStart
+Q46) In which one of the following Schedules of the Constitution of India, is Urban Local Self-Government mentioned?
+a)  Seventh Schedule
+b)  Eighth Schedule
+c)  Eleventh Schedule
+d)  Twelfth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: a)  Seventh Schedule
+#AnswerEnd
+#QuestionStart
+Q47) Which one of the following has the authority to constitute an area into a municipality or a municipal corporation or a panchayat?
+a)  Central Government
+b)  Divisional Commissioner
+c)  District Collector
+d)  State Government
+#QuestionEnd
+#AnswerStart
+Answer: d)  State Government
+#AnswerEnd
+#QuestionStart
+Q48) A metropolitan committee can be set up in an area having a population of:
+a)  3 lac - 4.99 lac
+b)  5 lac - 9.99 lac
+c)  Upto 10 lac
+d)  Above 10 lac
+#QuestionEnd
+#AnswerStart
+Answer: d)  Above 10 lac
+#AnswerEnd
+#QuestionStart
+Q49) Consider the following statements with respect to the Constitutional (Seventy-fourth Amendment) Act, 1992:
+It provided for:
+1.  Three-tier municipalities
+2.  Ward committees
+3.  District Planning Committees
+4.  Direct election of chairperson of a municipality
+Which of these is/are correct?
+a)  Only 1
+b)  2 and 3
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q50) Statement I:  Multiplicity of authorities in urban areas has added to the problems of citizens.
+Statement II: New special purpose agencies have been created for urban functions.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q51) The State Government’s administrative control over municipalities does not include power:
+a)  Of inspection
+b)  Of approving bye-laws and rules
+c)  To decide over-borrowings
+d)  Of dissolution and supersession
+#QuestionEnd
+#AnswerStart
+Answer: c)  To decide over-borrowings
+#AnswerEnd
+#QuestionStart
+Q52) Consider the following statements:
+1.  The Constitution (74th Amendment) Act introduced a new part IX-A in the Constitution of India.
+2.  The provisions of the Constitution (74th Amendment) Act also apply to the Scheduled Areas and Tribal Areas.
+3.  The Constitution (74th Amendment) Act specifies the manner and procedure of election of the Chairperson of a Municipal Corporation.
+Which of the statements given above is/are correct?
+a)  1 only
+b)  3 only
+c)  l and 2
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 only
+#AnswerEnd

@@ -1,0 +1,125 @@
+#QuestionStart
+Q1) Which of the following are the matters covered under List-I of Seventh Schedule of the Constitution of India?
+1.  Foreign loans
+2.  Atomic energy
+3.  Insurance
+4.  Public health
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 3
+c)  1 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q2) Which one of the following is not a part of the State List in the Seventh Schedule of the Constitution of India?
+a)  Relief of the disabled and unemployable
+b)  Taxes on lands and buildings
+c)  Prisons
+d)  Stock exchanges
+#QuestionEnd
+#AnswerStart
+Answer: d)  Stock exchanges
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following subjects is included in the concurrent list of the constitution of India?
+a)  Citizenship
+b)  Inter-state rivers
+c)  Trade unions
+d)  All-India services
+#QuestionEnd
+#AnswerStart
+Answer: c)  Trade unions
+#AnswerEnd
+#QuestionStart
+Q4) In which List is the subject of Preventive Detention enumerated?
+a)  Union List
+b)  Both Union List & Concurrent List
+c)  State List
+d)  Concurrent List
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both Union List & Concurrent List
+#AnswerEnd
+#QuestionStart
+Q5) Public Order is included in the Constitution as an item in
+a)  Union list
+b)  State list
+c)  Concurrent list
+d)  Both Union and State lists
+#QuestionEnd
+#AnswerStart
+Answer: b)  State list
+#AnswerEnd
+#QuestionStart
+Q6) Which one among the following pairs is not correctly matched?
+a)  Union List : Banking
+b)  State List : Agriculture
+c)  Concurrent List : Marriage
+d)  Residuary List : Education
+#QuestionEnd
+#AnswerStart
+Answer: d)  Residuary List : Education
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following is mentioned in the Union List?
+a)  Excise duties on alcoholic liquor, opium,  Indian hemp and other narcotic drugs
+b)  Sales tax
+c)  Corporation tax
+d)  Professional tax
+#QuestionEnd
+#AnswerStart
+Answer: c)  Corporation tax
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following is not included in the State List in the Constitution of India?
+a)  Police
+b)  Law and Order
+c)  Prisons
+d)  Criminal Procedure Code
+#QuestionEnd
+#AnswerStart
+Answer: d)  Criminal Procedure Code
+#AnswerEnd
+#QuestionStart
+Q9) The entry ‘Public Health and Sanitation’ is included in the Constitution of India in:
+a)  Union List
+b)  State List
+c)  Concurrent List
+d)  Both Union and State Lists
+#QuestionEnd
+#AnswerStart
+Answer: b)  State List
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following items come under the concurrent list of Indian Constitution?
+a)  Inter-State rivers
+b)  Trade Unions
+c)  Citizenship
+d)  Local Government
+#QuestionEnd
+#AnswerStart
+Answer: b)  Trade Unions
+#AnswerEnd
+#QuestionStart
+Q11) Taxation on imports and exports, and taxation on sales in the course of inter-state trade and commerce are exclusive:
+a)  Union subjects
+b)  State subjects
+c)  Concurrent subjects
+d)  State subjects upon which Union may legislate
+#QuestionEnd
+#AnswerStart
+Answer: a)  Union subjects
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following issues come under the Concurrent List?
+a)  Taxes on Professions, trades, callings and employments
+b)  Capitation Taxes
+c)  Adulteration of foodstuffs and other goods
+d)  Corporation Tax
+#QuestionEnd
+#AnswerStart
+Answer: c)  Adulteration of foodstuffs and other goods
+#AnswerEnd

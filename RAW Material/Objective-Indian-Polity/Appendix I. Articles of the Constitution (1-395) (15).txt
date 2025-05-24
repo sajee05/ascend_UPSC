@@ -1,0 +1,195 @@
+#QuestionStart
+Q1) Which of the following is/are provided by Article 249 of the Constitution of India?
+1.  Residuary powers of legislation
+2.  Power of the Parliament to legislate with respect to a matter in the state list in the national interest
+3.  Legislation for giving effect to international agreements
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 2
+c)  2 and 3
+d)  2 only
+#QuestionEnd
+#AnswerStart
+Answer: d)  2 only
+#AnswerEnd
+#QuestionStart
+Q2) Which one of the following pairs is correctly matched?
+a)  Reservation of seats for SCs and STs in the Lok Sabha : Article 330
+b)  Constitutional Amendment Procedure : Article 268
+c)  Public Service Commissions for the Union and States : Article 313
+d)  Special Provisions with respect to the State of Nagaland : Article 371-D
+#QuestionEnd
+#AnswerStart
+Answer: a)  Reservation of seats for SCs and STs in the Lok Sabha : Article 330
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following Articles of the Constitution of India deals with the promotion of international peace and security?
+a)  Article 51
+b)  Article 39
+c)  Article 44
+d)  Article 265
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 51
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following Articles of the Constitution of India gives the right to Ministers and Attorney-General to speak in or to take part in the proceedings of either House of Parliament?
+a)  Article 84
+b)  Article 85
+c)  Article 87
+d)  Article 88
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 88
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provisions)                                   | List-II (Articles)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Prohibition of discrimination on grounds of religion, race, caste, sex, place of birth | 1.  Article 22                                                     |
+| B.  Prohibition of employment of children in factories | 2.  Article 15                                                     |
+| C.  Protection against arrest and detention in certain cases | 3.  Article 24                                                     |
+| D.  Abolition of untouchability                       | 4.  Article 17                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 2 3
+b)  2 3 1 4
+c)  2 4 1 3
+d)  1 3 2 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 3 1 4
+#AnswerEnd
+#QuestionStart
+Q6) Under which Article of the Indian Constitution has the State been empowered to protect and improve the environment, forests and wildlife?
+a)  Article 43-A
+b)  Article 48-A
+c)  Article 44
+d)  Article 46
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 48-A
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following is correctly matched?
+a)  Article 141 : Advisory jurisdiction of the Supreme Court
+b)  Article 136 : Power of the Supreme Court to grant special leave to appeal
+c)  Article 226 : Power of the superintendence of the High Court
+d)  Article 131 : Appellate jurisdiction of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 136 : Power of the Supreme Court to grant special leave to appeal
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Article)                                      | List-II (Matter Dealt With)                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Article 39-A                                      | 1.  Living wage for workers                                        |
+| B.  Article 43                                        | 2.  Uniform Civil Code                                             |
+| C.  Article 44                                        | 3.  Separation of judiciary                                        |
+| D.  Article 50                                        | 4.  Free legal aid                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 2 3
+b)  4 1 3 2
+c)  4 1 2 3
+d)  1 4 3 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  4 1 2 3
+#AnswerEnd
+#QuestionStart
+Q9) Article 359 of the Constitution of India deals with which one of the following?
+a)  Declaration of financial emergency
+b)  Promulgation of President’s rule in a State
+c)  Suspension of the enforcement of fundamental rights except a few during emergency
+d)  Terms and conditions of service of Members of   the Union Public Service Commission
+#QuestionEnd
+#AnswerStart
+Answer: c)  Suspension of the enforcement of fundamental rights except a few during emergency
+#AnswerEnd
+#QuestionStart
+Q10) Which Article of the Constitution of India directs the State to make effective provision for securing the Right to work?
+a)  Article 16
+b)  Article 38
+c)  Article 41
+d)  Article 43
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 41
+#AnswerEnd
+#QuestionStart
+Q11) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Article)                                      | List-II (Subject)                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Article 50                                        | 1.  Impeachment of the President                                   |
+| B.  Article 143                                       | 2.  Separation between judiciary and executive                     |
+| C.  Article 61                                        | 3.  Functions of Public Service Commissions                        |
+| D.  Article 320                                       | 4.  Advisory Jurisdiction of the Supreme Court                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 4 1 3
+b)  3 1 4 2
+c)  2 1 4 3
+d)  3 4 1 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 4 1 3
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following Articles of the Constitution of India deals with the saving of laws giving effect to certain directive principles?
+a)  Article 32
+b)  Article 31-A
+c)  Article 31-B
+d)  Article 31-C
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 31-C
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following pairs is not correctly matched?
+a)  Protection of childhood and youth from exploitation : Article 39
+b)  Right to work, to education and to public assistance in certain cases : Article 41
+c)  Provision for early childhood care and education to children below six years : Article 45
+d)  Protection of monuments and places and objects of national importance : Article 48-A
+#QuestionEnd
+#AnswerStart
+Answer: d)  Protection of monuments and places and objects of national importance : Article 48-A
+#AnswerEnd
+#QuestionStart
+Q14) Which Article of the Constitution of India has the provisions in respect of the amendment of any provision of the Constitution of India and procedure thereof?
+a)  Article 361
+b)  Article 364
+c)  Article 366
+d)  Article 368
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 368
+#AnswerEnd
+#QuestionStart
+Q15) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Matter)                                       | List-II (Article)                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Right to Equality                                 | 1.  Article 14                                                     |
+| B.  Right to Freedom                                  | 2.  Article 25                                                     |
+| C.  Right to Freedom of Religion                      | 3.  Article 32                                                     |
+| D.  Right to Constitutional Remedies                  | 4.  Article 19                                                     |
+|                                                       | 5.  Article 13                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 3 2 4
+b)  2 4 5 3
+c)  1 4 2 3
+d)  2 3 5 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 4 2 3
+#AnswerEnd

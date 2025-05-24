@@ -1,0 +1,185 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  A new all-India service can be created if both the Lok Sabha and Rajya Sabha declare by a resolution supported by not less than two-thirds of the members present and voting that it is necessary or expedient in the national interest to do so.
+2.  There is no provision in the Constitution of India as to what level of authority can dismiss a member of a civil service of the Union or an all-India service or a civil service of a State.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+1.  The personnel of the All-India Services serve in the Central Government, Union Territories and States.
+2.  They bring a national perspective to their jobs.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) In the context of All-India Service, which one of the following finds mention in Article 312 of the Constitution of India?
+a)  All-India Service of Engineers
+b)  All-India Revenue Service
+c)  All-India Judicial Service
+d)  All-India Medical and Health Service
+#QuestionEnd
+#AnswerStart
+Answer: c)  All-India Judicial Service
+#AnswerEnd
+#QuestionStart
+Q4) A new All-India service can be created by
+a)  An amendment of the Constitution
+b)  An executive order
+c)  A resolution under Article 312 of the Constitution
+d)  A statute
+#QuestionEnd
+#AnswerStart
+Answer: d)  A statute
+#AnswerEnd
+#QuestionStart
+Q5) Assertion (A): Recruitment to the public services is to be regulated by the Acts of appropriate legislatures.
+Reason (R):  The Constitution does not have provisions to regulate the recruitment of the civil servants.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A.
+#AnswerEnd
+#QuestionStart
+Q6) According to the Constitution of India, a new All India Service can be instituted with the initiative taken by
+a)  More than two-thirds of the States
+b)  The Inter-State Council
+c)  The Lok Sabha
+d)  The Rajya Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Rajya Sabha
+#AnswerEnd
+#QuestionStart
+Q7) Which of the following services under the Government of India are termed as All-India Services?
+a)  IAS, IPS and Indian Foreign Service
+b)  IAS only
+c)  IAS and IPS only
+d)  IAS, IPS and Indian Forest Service
+#QuestionEnd
+#AnswerStart
+Answer: d)  IAS, IPS and Indian Forest Service
+#AnswerEnd
+#QuestionStart
+Q8) The Article in the Constitution of India that says that the Parliament may by law, provide for the creation of an All India Service is:
+a)  Article 300
+b)  Article 312
+c)  Article 320
+d)  Article 420
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 312
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following Amendments made a provision for the creation of All-India Judicial Service?
+a)  44th Amendment
+b)  38th Amendment
+c)  57th Amendment
+d)  42nd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: d)  42nd Amendment
+#AnswerEnd
+#QuestionStart
+Q10) Assertion (A): The Rajya Sabha under Article 312 is empowered to create new All India Services in the national interest.
+Reason (R):  The Rajya Sabha can define national interest better.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q11) Which one of the following is a Central Service?
+a)  Educational Service
+b)  Agricultural Service
+c)  Overseas Communication Service
+d)  Cooperative Service
+#QuestionEnd
+#AnswerStart
+Answer: c)  Overseas Communication Service
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements:
+1.  The Constitution (42nd Amendment) Act, 1976, provides the right of the government servant to make a representation against the penalty proposed to be imposed on him.
+2.  The right of the Government of India to dismiss a government servant at its pleasure cannot be fettered by any contract.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q13) In pursuance of which Article of the Constitution of India are the conditions of service including recruitment to the Central Services regulated by a large number of rules?
+a)  Article 309
+b)  Article 310
+c)  Article 311
+d)  Article 312
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 309
+#AnswerEnd
+#QuestionStart
+Q14) Statement I:  There is a feeling that the institution of All-India Services needs reconsideration.
+Statement II: Members of the All-India Services foster national integration, as they are recruited from different parts of the country.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q15) The Articles in the Indian Constitution that are grouped under Services under the Union and the States are:
+a)  Articles 310 to 323
+b)  Articles 308 to 323
+c)  Articles 306 to 323
+d)  Articles 305 to 323
+#QuestionEnd
+#AnswerStart
+Answer: b)  Articles 308 to 323
+#AnswerEnd
+#QuestionStart
+Q16) Which among the following is empowered to create more All-India Services?
+a)  Rajya Sabha
+b)  Union Parliament
+c)  Lok Sabha
+d)  Union Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: b)  Union Parliament
+#AnswerEnd
+#QuestionStart
+Q17) Which one of the following Articles of the Constitution of India provides that every person who is a member of a defence service or of civil service of the Union or of All-India Services holds the office during the pleasure of the President of India?
+a)  Article 310
+b)  Article 315
+c)  Article 323
+d)  Article 323A
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 310
+#AnswerEnd

@@ -1,0 +1,710 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  A Panchayat elected in the place of a dissolved one, does not enjoy the full period but remains in office for the remaining period after the dissolution.
+2.  In Panchayats, seats are reserved for the Scheduled Castes, Scheduled Tribes and women but not for Backward Classes of citizens.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  Courts  have  no  jurisdiction  to  examine  the  validity  of  a  law  relating  to  delimitation  of constituencies or allotment of seats in respect of Panchayats.
+4.  An election to a Panchayat can be called in question only by an election petition, which should be presented to such authority and in such manner as may be prescribed by the State Election Commission.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+5.  The Eleventh Schedule was inserted in the Constitution of India by the Constitution (Seventy Third Amendment) Act, 1992.
+6.  The Eleventh Schedule of the Constitution of India corresponds to Article 243-W of the Constitution of India.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements:
+7.  According to Article 243D, one-third of the seats are reserved for the Scheduled Castes and Scheduled Tribes in every Panchayat.
+8.  Not less than one-third of the total number of seats reserved for the SCs and STs in every Panchayat are reserved for women belonging to the Scheduled Castes, or as the case may be, the Scheduled Tribes.
+9.  Not less than one-third of the total number of offices of chairpersons in Panchayats at each level are reserved for women.
+Which of the statements given above are correct?
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q5) On which of the following subjects, does the Finance Commission of a State constituted under the Part IX of the Constitution of India make recommendations to the Governor?
+10.  Distribution between the State and the Panchayats of the net proceeds of the taxes by the State.
+11.  Determination of the taxes which may be assigned to or appropriated by the Panchayats.
+12.  Grants-in-aid to the Panchayats from the Consolidated Fund of the State.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1 and 2 only
+c)  2 and 3 only
+d)  1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following is not correct?
+a)  Part IX of the Constitution of India pertaining to the Panchayats provided for setting up of a Finance Commission.
+b)  Part IX of the Constitution of India pertaining to the Panchayats provided for vesting all elections to the Panchayats in a State Election Commission.
+c)  Part IX of the Constitution of India pertaining to the Panchayats provided for reservation of posts of chairpersons at the village level or any other level for the Scheduled Castes, Scheduled Tribes and women.
+d)  Organisation of Village Panchayats is not included in the Directive Principles of State Policy.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Organisation of Village Panchayats is not included in the Directive Principles of State Policy.
+#AnswerEnd
+#QuestionStart
+Q7) 73rd Amendment to the Constitution of India provides for:
+a)  Two tiers of Panchayati Raj institutions at the village and district levels
+b)  Two tiers of Panchayati Raj institutions at the village and block levels
+c)  Two tiers of Panchayati Raj institutions at the block and district levels
+d)  Three tiers of Panchayati Raj institutions at the village, block and district levels.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Three tiers of Panchayati Raj institutions at the village, block and district levels.
+#AnswerEnd
+#QuestionStart
+Q8) Who makes provisions with respect to the maintenance of accounts by the Panchayats and the auditing of such accounts?
+a)  Finance Commission of the concerned State
+b)                 Legislature of the State
+c)  Comptroller and Auditor General of India
+d)  District Collector
+#QuestionEnd
+#AnswerStart
+Answer: b)                 Legislature of the State
+#AnswerEnd
+#QuestionStart
+Q9) The State Election Commissioner can be removed:
+a)  By the Governor of the State
+b)  By the State Assembly
+c)  Through an order issued by the Chief Minister
+d)  Through a procedure similar to that for removal of the judge of a High Court
+#QuestionEnd
+#AnswerStart
+Answer: d)  Through a procedure similar to that for removal of the judge of a High Court
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+In the post-73rd Amendment era, there has to be decentralisation of:
+13.  Decision-making powers
+14.  System as a whole
+15.  Judicial powers
+16.  Administrative powers
+Which of these statements are correct?
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  2, 3 and 4
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q11) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Amendments / Committees)                      | List-II (Provisions)                                               |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  73rd Constitutional Amendment                     | 1.  Administrative Arrangement for Rural Development               |
+| B.  74th Constitutional Amendment                     | 2.  State Finance Commission                                       |
+| C.  G.V.K. Rao Committee                              | 3.  Municipal Councils                                             |
+| D.  L.M. Singhvi Committee                            | 4.  Constitutional status to Panchayati Raj                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 3 4 1
+b)  2 3 1 4
+c)  3 2 1 4
+d)  3 2 4 1
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 3 1 4
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following about Article 243 (G) is correct?
+a)  Panchayats should be enabled by law to function as agents of the State Government.
+b)  Panchayats should be enabled by law to function as institutions of self-government.
+c)  Panchayats will act as the implementing agencies for centrally sponsored schemes.
+d)  Gram Panchayats will be answerable to District Panchayats.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Panchayats should be enabled by law to function as institutions of self-government.
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following statements:
+17.  The Chairperson of a Panchayat at district level is elected in such manner as the Legislature of the State may provide.
+18.  Legislature of a State may provide for representation of members of the Legislative Assembly of the State representing constituencies which comprise wholly or partly a Panchayat area at a level other than the village level, in such Panchayat.
+19.  The Lok Sabha may provide for the representation of its members representing constituencies which comprise wholly or partly a Panchayat area at a level other than the village level, in such Panchayat.
+Which of the statements given above is/are correct?
+a)  1 and 2
+b)  Only 2
+c)  Only 3
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q14) 73rd Constitutional Amendment does not apply to which of the following states?
+a)  Meghalaya
+b)  Goa
+c)  Sikkim
+d)  Himachal Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: a)  Meghalaya
+#AnswerEnd
+#QuestionStart
+Q15) Assertion (A): The Constitution of India now provides a mechanism for regular flow of funds to Panchayati Raj institutions.
+Reason (R):  The Panchayati Raj institutions have been greatly handicapped in the performance of their assigned duties by paucity of funds.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q16) Consider the following statements with respect to the 73rd Constitutional Amendment:
+20.  It envisages the Gram Sabha as the foundation of the Panchayati Raj System.
+21.  It provides that Panchayat bodies will have a duration of five years.
+22.  It stipulates that the Chairperson of a Panchayat shall be elected by and from amongst the elected members thereof.
+23.  It has reserved 33 per cent of the seats to Other Backward Classes in Panchayati Raj Institutions.
+Which of the statements given above are correct?
+a)  1, 2, 3 and 4
+b)  1, 2 and 3
+c)  2, 3 and 4
+d)  1 and 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q17) Under which one of the following provisions is reservation for the Scheduled Castes and the Scheduled Tribes in every Panchayat made?
+a)  Article 243 (Q) of the Constitution of India
+b)  Article 243 (V) of the Constitution of India
+c)  Article 243 (S) of the Constitution of India
+d)  Article 243 (D) of the Constitution of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 243 (D) of the Constitution of India
+#AnswerEnd
+#QuestionStart
+Q18) Which of the following provisions can be made by law by a State Legislature?
+24.  Representation of the members of the House of People in Panchayats subject to fulfilling certain conditions
+25.  Reservation of seats in any Panchayat in favour of backward class of citizens
+26.  Authorising a Panchayat to levy, collect and appropriate taxes
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1 and 2, only
+c)  2 and 3, only
+d)  1 and 3, only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q19) What is the minimum population below which Panchayats at the intermediate level are not constituted as per provision of the Constitution (Seventy-third Amendment) Act?
+a)  20 lakhs
+b)  25 lakhs
+c)  30 lakhs
+d)  35 lakhs
+#QuestionEnd
+#AnswerStart
+Answer: a)  20 lakhs
+#AnswerEnd
+#QuestionStart
+Q20) State Finance Commission is appointed by a State Government every five years to determine:
+a)  Financial resources of the State for placing State’s requirement before the Union Government
+b)  Development requirements of the State for formulating State Five Year Plan
+c)  Budgetary requirements of various departments of the State Government
+d)  Pattern of distribution of State’s tax revenue between the State Government and local bodies (both rural and urban) and the pattern of grants-in-aid to local bodies
+#QuestionEnd
+#AnswerStart
+Answer: d)  Pattern of distribution of State’s tax revenue between the State Government and local bodies (both rural and urban) and the pattern of grants-in-aid to local bodies
+#AnswerEnd
+#QuestionStart
+Q21) Which of the following is/are correct with respect to the 73rd Amendment to the Constitution of India?
+27.  Constitutional status to Panchayats
+28.  Reservation of seats for women belonging to the Scheduled Castes or the Scheduled Tribes
+29.  Providing permanent structures for district planning
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  Only 1
+c)  2 and 3
+d)  Only 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q22) Under which of the following Articles of the Constitution of India, the State Legislatures delegate powers and functions to the Panchayats?
+a)  243 and 243 A
+b)  243 A and 243 B
+c)  243 G and 243 H
+d)  243 D and 243 F
+#QuestionEnd
+#AnswerStart
+Answer: c)  243 G and 243 H
+#AnswerEnd
+#QuestionStart
+Q23) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (States)                                       | List-II (Intermediate Panchayats)                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Madhya Pradesh                                    | 1.  Panchayat Samiti                                               |
+| B.  West Bengal                                       | 2.  Block Panchayat                                                |
+| C.  Uttar Pradesh                                     | 3.  Taluka Panchayat                                               |
+| D.  Gujarat                                           | 4.  Kshetra Panchayat                                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 2 3 4
+b)  1 2 4 3
+c)  2 1 4 3
+d)  2 1 3 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 1 4 3
+#AnswerEnd
+#QuestionStart
+Q24) In 1977, under whose chairmanship, the Panchayati Raj Committee was formed?
+a)  Ashok Mehta
+b)  Sardar Swaran Singh
+c)  Balwant Rai Mehta
+d)  Madhu Dandawate
+#QuestionEnd
+#AnswerStart
+Answer: a)  Ashok Mehta
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following statements are correct?
+Village Panchayats are responsible for:
+30.  Agricultural production
+31.  Rural industrial development
+32.  Maternity and child welfare
+33.  Higher vocational education
+Select the correct answer using the codes given below:
+a)  1, 2 and 4
+b)  1 and 3
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q26) Which one of the following States was the first to introduce the Panchayati Raj system?
+a)  Tamil Nadu
+b)  West Bengal
+c)  Rajasthan
+d)  Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: c)  Rajasthan
+#AnswerEnd
+#QuestionStart
+Q27) Constitution (Seventy-third Amendment) Act that provided for the establishment of Panchayats also made which of the following provisions?
+34.  Addition of a new Schedule (XI) to the Constitution listing 29 subjects which are to be handled by the Panchayats.
+35.  Addition of a new Schedule (XI) to the Constitution listing 18 subjects which are to be handled by the Panchayats.
+36.  Bar on the courts to question the validity of laws relating to delimitation of constituencies.
+37.  Reservation of not less than one-third of the total number of seats in Panchayats for women (excluding the number of seats reserved for women belonging to the Scheduled Castes and Scheduled Tribes).
+Select the correct answer using the codes given below:
+a)  1, 3 and 4
+b)  1 and 3
+c)  2 and 4
+d)  1 only
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q28) Which one of the following Articles of the Indian Constitution lays down that the State shall take steps to organise Village Panchayats?
+a)  Article 40
+b)  Article 26
+c)  Article 39
+d)  Article 38
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 40
+#AnswerEnd
+#QuestionStart
+Q29) Assertion (A): Reservation of seats for women in Panchayati Raj bodies will pave the way for their political empowerment.
+Reason (R):  Empowerment of women is essential for the achievement of democracy and development.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q30) Consider the following features:
+38.  Panchayats have now been brought under the direct supervision of the Governor.
+39.  Finance Commission of the State now determines the distribution of taxes and duties between the State and Panchayats.
+40.  Panchayats are now entitled to receive grants-in-aid directly from the Central Government.
+41.  1/3 of the seats in the Panchayats are now reserved for women.
+According to the 73rd Amendment of the Constitution, which of these are correct features of Panchayats?
+a)  1 and 3
+b)  2 and 3
+c)  3 and 4
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q31) The Panchayati Raj is included in the:
+a)  Union List
+b)  State List
+c)  Concurrent List
+d)  Residuary List
+#QuestionEnd
+#AnswerStart
+Answer: b)  State List
+#AnswerEnd
+#QuestionStart
+Q32) The 73rd Amendment Act emanates from the:
+a)  Article 38
+b)  Article 40
+c)  Article 44
+d)  Article 52
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 40
+#AnswerEnd
+#QuestionStart
+Q33) Who among the following are among those who comprise the Zila Parishad?
+42.  Chairmen / Presidents of the Panchayat Samities within the jurisdiction of the district
+43.  MPs, MLAs and MLCs whose constituencies are in the district
+44.  Representatives of co-operative societies, municipalities, notified area committees, etc.
+45.  Health care specialists
+Choose the correct answer from the codes given below:
+a)  1 and 2
+b)  1, 2 and 3
+c)  1, 2 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q34) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Features)                                     | List-II (Related to)                                               |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Democratic Decentralisation                       | 1.  73rd Amendment                                                 |
+| B.  Nagar Panchayats                                  | 2.  74th Amendment                                                 |
+| C.  Panchayati Raj Elections                          | 3.  B.R. Mehta Committee                                           |
+| D.  Two Tier System                                   | 4.  Ashok Mehta Committee                                          |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 1 2 4
+b)  4 1 2 3
+c)  4 2 1 3
+d)  3 2 1 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  3 2 1 4
+#AnswerEnd
+#QuestionStart
+Q35) Which of the following are within the mandate of the 73rd Amendment to the Constitution of India?
+46.  Disqualification provision for Panchayat membership
+47.  Setting up of a State Finance Commission
+48.  Empowering the State Election Commission to hold periodic local government elections
+49.  Constitution of a District Planning Committee
+Select the correct answer using the codes given below:
+a)  1, 2 and 4
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q36) Under Article 243-D, which one of the following categories enjoys reservation for Panchayat membership in proportion to their population?
+a)  Scheduled Castes and Scheduled Tribes
+b)  Women
+c)  Backward Classes
+d)  Physically handicapped persons
+#QuestionEnd
+#AnswerStart
+Answer: a)  Scheduled Castes and Scheduled Tribes
+#AnswerEnd
+#QuestionStart
+Q37) The members of a Panchayat Samiti are:
+a)  Directly elected by the people
+b)  Indirectly elected by the members of the Village Panchayat
+c)  Nominated by the Block Development Officer
+d)  Nominated by the president / chairman of the Panchayat Samiti
+#QuestionEnd
+#AnswerStart
+Answer: a)  Directly elected by the people
+#AnswerEnd
+#QuestionStart
+Q38) Which of the following is not a feature of Ashok Mehta Committee recommendations on Panchayati Raj Institutions (PRIs)?
+a)  Constitutional recognition to the PRIs
+b)  Non-involvement of political parties in elections to the PRIs
+c)  Reservation of seats for SCs and STs
+d)  A minister-in-charge of Panchayati Raj
+#QuestionEnd
+#AnswerStart
+Answer: b)  Non-involvement of political parties in elections to the PRIs
+#AnswerEnd
+#QuestionStart
+Q39) Consider the following statements:
+The 73rd Constitutional Amendment Act provided:
+50.  For 27% reservation of seats in the Panchayats for the Other Backward Castes (OBCs).
+51.  That the Chairpersons of the Panchayats at intermediate or district level, shall be elected by, and from amongst the elected members thereof.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q40) Consider the following statements in reference to the Constitution (73rd Amendment) Act
+52.  The Governor of a State shall constitute a Finance Commission every fifth year to review the financial position of the Panchayats.
+53.  The superintendence, direction and control of all elections to the Panchayats are vested in a State Election Commission.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q41) Which one of the following committees had recommended people’s participation in community development programmes?
+a)  Ashok Mehta Committee
+b)  Balwant Rai Mehta Committee
+c)  Rural-urban Relationship Committee
+d)  L.M. Singhvi Committee
+#QuestionEnd
+#AnswerStart
+Answer: b)  Balwant Rai Mehta Committee
+#AnswerEnd
+#QuestionStart
+Q42) Statement I:  The 73rd Constitutional Amendment Act is the culmination of the process of democratic decentralisation.
+Statement II: The state should take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q43) Consider the following with reference to 73rd Constitutional Amendment in respect of Panchayati Raj:
+54.  Direct elections of members at all levels
+55.  Direct elections of chairpersons at the village level
+56.  Indirect election of chairpersons at the intermediate levels and district levels
+57.  Mandatory provision for holding elections
+Which of the above are correct?
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1, 2 and 4
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q44) Which one of the following government documents first suggested for having elections of Panchayati Raj Institutions on political party basis?
+a)  Report of the Administrative Reforms Commission
+b)  Ashok Mehta Committee Report
+c)  Balwant Rai Mehta Committee Report
+d)  Diwakar Committee Report
+#QuestionEnd
+#AnswerStart
+Answer: b)  Ashok Mehta Committee Report
+#AnswerEnd
+#QuestionStart
+Q45) Consider the following with respect to the revolutionary features of the 73rd Constitutional Amendment:
+58.  Bestowal of Constitutional status on Panchayati Raj Institutions (PRIs).
+59.  Mandatory elections to PRIs.
+60.  Introduction of third tier of Government with powers in rural India.
+61.  33% reservation of seats and chairpersonships for women in the Panchayats at each level.
+Which of these are correct?
+a)  1 and 4
+b)  1, 2 and 3
+c)  3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q46) Under which provision does the Governor of a State constitute a State Finance Commission to review the financial position of Panchayats?
+a)  Under the discretionary powers of the Governor
+b)  By a resolution passed in the Legislative Assembly
+c)  In accordance with the Article 243-1 of the Constitution of India
+d)  In accordance with a resolution passed in the Rajya Sabha
+#QuestionEnd
+#AnswerStart
+Answer: c)  In accordance with the Article 243-1 of the Constitution of India
+#AnswerEnd
+#QuestionStart
+Q47) Consider the following statements:
+73rd Amendment of the Constitution has provided constitutional sanction for:
+62.  Building a three-tier structure of Panchayati Raj
+63.  Reservation of seats for women
+64.  Withdrawal of the right of governments to hold elections to Panchayats
+65.  Taking away the right of State Governments to give grants to Panchayats
+Which of these statements are correct?
+a)  l and 2
+b)  1, 2 and 3
+c)  2, 3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  l and 2
+#AnswerEnd
+#QuestionStart
+Q48) In which part of the Indian Constitution, has the provision for panchayats been made?
+a)  Part IX
+b)  Part IV
+c)  Part III
+d)  Part IX-A
+#QuestionEnd
+#AnswerStart
+Answer: a)  Part IX
+#AnswerEnd
+#QuestionStart
+Q49) Which one of the following committees recommended the separation of regulatory and development functions at the district level?
+a)  Dantwallah Committee
+b)  Hanumantha Rao Committee
+c)  Kothari Committee
+d)  G.V.K. Rao Committee
+#QuestionEnd
+#AnswerStart
+Answer: d)  G.V.K. Rao Committee
+#AnswerEnd
+#QuestionStart
+Q50) Who recommends to the Governor the principles which should govern the distribution between the State and the Panchayats of the net proceeds of the taxes, tolls and fees leviable by the state which may be divided between them?
+a)  Zilla Parishad
+b)  Chief Minister
+c)  Finance Minister of the State
+d)  State Finance Commission
+#QuestionEnd
+#AnswerStart
+Answer: d)  State Finance Commission
+#AnswerEnd
+#QuestionStart
+Q51) Which of the following are provided for in the 73rd Constitutional Amendment?
+66.  Elections through the Chief Election Commissioner.
+67.  Devolution of functions by the state government.
+68.  Creation of the State Finance Commission.
+69.  Setting up a three-tiered Indian Federation.
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q52) The Ashok Mehta Committee (1977) was recommended for the establishment of:
+a)  Mandal Panchayat
+b)  Nagar Panchayat
+c)  Panchayat Samiti
+d)  Gram Panchayat
+#QuestionEnd
+#AnswerStart
+Answer: a)  Mandal Panchayat
+#AnswerEnd
+#QuestionStart
+Q53) The Eleventh Schedule of the Constitution relating to the Panchayats contains:
+a)  18 items
+b)  28 items
+c)  19 items
+d)  29 items
+#QuestionEnd
+#AnswerStart
+Answer: d)  29 items
+#AnswerEnd
+#QuestionStart
+Q54) Consider the following statements with respect to the 73rd Constitutional Amendment:
+70.  For 27% reservation to the Other Backward Classes.
+71.  That the chairperson of the panchayat at intermediate/district level shall be elected by, and from amongst the elected members thereof.
+72.  For reservation for SCs/STs.
+73.  For uniform five-year term for local bodies.
+Which of these is/are correct?
+a)  Only 1
+b)  1 and 2
+c)  2, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q55) As per Article 243-H of 73rd Constitutional Amendment Act, the Legislature of a State, may by law, provide for making grants-in-aid to the Panchayats from:
+a)  Contingency Fund of the President
+b)  Contingency Fund of the Governor
+c)  Consolidated Fund of the State
+d)  Consolidated Fund of India
+#QuestionEnd
+#AnswerStart
+Answer: c)  Consolidated Fund of the State
+#AnswerEnd
+#QuestionStart
+Q56) Which one of the following provisions has been left to the will of the State Governments in the 73rd Constitutional Amendment Act?
+a)  Providing reservation to the Backward Classes
+b)  All posts at all levels to be filled by direct elections
+c)  Reservation of seats for SC/ST in proportion to their population
+d)  Reservation up to 1/3 seats for women in panchayats
+#QuestionEnd
+#AnswerStart
+Answer: a)  Providing reservation to the Backward Classes
+#AnswerEnd
+#QuestionStart
+Q57) Consider the following Committees set up to study the structure, powers and functions to be assigned to Panchayati Raj Institutions:
+74.  Santhanam Committee
+75.  Ashok Mehta Committee
+76.  Balwantrai Mehta Committee
+77.  G.V.K. Rao Committee
+Which one of the following is their correct chronological order?
+a)  3-4-2-1
+b)  2-1-3-4
+c)  3-1-2-4
+d)  2-4-3-1
+#QuestionEnd
+#AnswerStart
+Answer: c)  3-1-2-4
+#AnswerEnd

@@ -1,0 +1,132 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  A person who was born on 26th January, 1951 in Rangoon, whose father was a citizen of India by birth at the time of his birth, is deemed to be an Indian citizen by descent.
+2.  A person who was born on 1st July, 1988 in Itanagar, whose mother is a citizen of India at the time of his birth but the father was not, is deemed to be a citizen of India by birth.
+Which one of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Under the Citizenship Act, 1955, by which of the following ways can a person become a citizen of India?
+3.  By birth
+4.   By descent
+5.  By registration
+6.   By nationalisation
+7.  By incorporation of territory
+Select the correct answer using the codes given below:
+a)  1, 2, 3, 4 and 5
+b)  1 and 2
+c)  1, 2, 3 and 5
+d)  3, 4 and 5
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3 and 5
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following Articles of the Indian Constitution deal with citizenship in India?
+a)  Articles 333 to 337
+b)  Articles 17 to 20
+c)  Articles 5 to 11
+d)  Articles 1 to 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  Articles 5 to 11
+#AnswerEnd
+#QuestionStart
+Q4) In which of the following years, the Citizenship Act, 1955 has been amended?
+8.  1986
+9.  1992
+10.  2003
+11.  2005
+Select the correct answer using the codes given below:
+a)  2, 3 and 4
+b)  1, 2 and 4
+c)  1, 2, 3 and 4
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q5) Which Article of the Constitution of India deals with the rights of citizenship of certain persons of Indian origin residing outside India?
+a)  Article 7
+b)  Article 10
+c)  Article 8
+d)  Article 9
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 8
+#AnswerEnd
+#QuestionStart
+Q6) Which one among the following has the power to regulate the right of citizenship in India?
+a)  The Union Cabinet
+b)  The Parliament
+c)  The Supreme Court
+d)  The Law Commission
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Parliament
+#AnswerEnd
+#QuestionStart
+Q7) In which Part of the Constitution, details of citizenship are mentioned?
+a)  Part I
+b)  Part II
+c)  Part III
+d)  Part IV
+#QuestionEnd
+#AnswerStart
+Answer: b)  Part II
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provisions Pertaining to Citizenship)         | List-II (Contained in Articles)                                    |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Rights of citizenship of certain persons who have migrated to India from Pakistan | 1.     Article 5                                                  |
+| B.  Persons voluntarily acquiring citizenship of a foreign state not to be citizens | 2.     Article 7                                                  |
+| C.  Citizenship at the commencement of the Constitution | 3.     Article 6                                                  |
+| D.  Rights of citizenship of certain migrants to Pakistan | 4.     Article 8                                                  |
+|                                                       | 5.     Article 9                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 2 5
+b)  2 5 3 1
+c)  2 4 1 3
+d)  3 5 1 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  3 5 1 2
+#AnswerEnd
+#QuestionStart
+Q9) According to the Citizenship Act, 1955, by which of the following ways can a person lose citizenship of India?
+12.  By Renunciation
+13.  By Termination
+14.  By Deprivation
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1, 2 and 3
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+15.  Originally, the Citizenship Act (1955), also provided for the Commonwealth Citizenship.
+16.  The provision for Commonwealth Citizenship was repealed by the Citizenship (Amendment) Act, 2005.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd

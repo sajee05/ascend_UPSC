@@ -1,0 +1,88 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The non-cabinet ministers are debarred from the membership of the Cabinet Committees.
+2.  The Cabinet Committees are an organizational device to reduce the enormous workload of the cabinet.
+Which of the statements given above is/are correct ?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following provides for the establishment of the Cabinet Committees ?
+a)  Constitution of India
+b)  Parliamentary Statutes
+c)  Rules of Business
+d)  Presidential Orders
+#QuestionEnd
+#AnswerStart
+Answer: c)  Rules of Business
+#AnswerEnd
+#QuestionStart
+Q3) Statement I:  The number, nomenclature and composition of the Cabinet Committees varies from time to time.
+Statement II: The Cabinet Committees are set up by the Prime Minister according to the exigencies of the time and requirements of the situation.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following Cabinet Committees is described as a “Super-Cabinet” ?
+a)  Economic Affairs Committee
+b)  Parliamentary Affairs Committee
+c)  Political Affairs Committee
+d)  Appointments Committee
+#QuestionEnd
+#AnswerStart
+Answer: c)  Political Affairs Committee
+#AnswerEnd
+#QuestionStart
+Q5) Consider the following statements:
+3.  The Cabinet cannot review the decisions taken by the Cabinet Committees.
+4.  The Cabinet Committees are based on the principles of division of labour and effective delegation.
+Which of the statements given above is/are correct ?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q6) Which of the following cabinet committees is chaired by the Union Home Minister ?
+a)  Parliamentary Affairs Committee
+b)  Economic Affairs Committee
+c)  Political Affairs Committee
+d)  Appointments Committee
+#QuestionEnd
+#AnswerStart
+Answer: a)  Parliamentary Affairs Committee
+#AnswerEnd
+#QuestionStart
+Q7) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Cabinet Committees)                           | List-II (Functions)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Appointments Committee                            | 1.  Looks after the progress of government business in the Parliament |
+| B.  Economic Affairs Committee                        | 2.  Deals with all policy matters pertaining to domestic and foreign affairs |
+| C.  Parliamentary Affairs Committee                   | 3.  Decides all higher level appointments in the Central Secretariat |
+| D.  Political Affairs Committee                       | 4.  Directs and coordinates the governmental activities in the economic sphere |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 2 4 1
+b)  3 4 1 2
+c)  4 3 2 1
+d)  4 2 1 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 4 1 2
+#AnswerEnd

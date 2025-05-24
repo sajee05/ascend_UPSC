@@ -1,0 +1,127 @@
+#QuestionStart
+Q1) The following are enshrined in the Preamble to the Constitution of India:
+1.  Equality of status and opportunity.
+2.  Liberty of thought, expression, belief, faith and worship.
+3.  Justice—social, economic and political.
+4.  Fraternity assuring the dignity of the individual.
+5.  Unity and integrity of the Nation.
+Which one of the following is the correct order in which they appear in the Preamble?
+a)  5, 1, 2, 4, 3
+b)  3, 2, 1, 4, 5
+c)  3, 1, 2, 5, 4
+d)  1, 2, 4, 3, 5
+#QuestionEnd
+#AnswerStart
+Answer: b)  3, 2, 1, 4, 5
+#AnswerEnd
+#QuestionStart
+Q2) The philosophical postulates of the Constitution of India are based on:
+a)  Nehru Report, 1928.
+b)  Objectives Resolution of Pandit Nehru, 1947.
+c)  Mahatma Gandhi’s article ‘Independence in Young India’,1922.
+d)  Indian National Congress’s Resolution for Complete Independence, 1929.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Objectives Resolution of Pandit Nehru, 1947.
+#AnswerEnd
+#QuestionStart
+Q3) The Preamble to the Indian Constitution is:
+a)  Not a part of the Constitution.
+b)  A part of the Constitution but it neither confers any powers nor imposes any duties nor can it be of any use in interpreting other provisions of the Constitution.
+c)  A  part  of  the  Constitution  and  can  be  of  use  in  interpreting  other  provisions  of  the Constitution in cases of ambiguity.
+d)  A part of the Constitution and it confers powers and imposes duties as any other provisions of the Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: c)  A  part  of  the  Constitution  and  can  be  of  use  in  interpreting  other  provisions  of  the Constitution in cases of ambiguity.
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following statements is correct?
+The Preamble to the Indian Constitution declares the resolve of the people of India to secure to all its citizens:
+a)  Freedom of residence anywhere in the country.
+b)  Right to establish and administer educational institutions of choice.
+c)  Liberty of belief, faith and worship.
+d)  Right to education at primary level.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Liberty of belief, faith and worship.
+#AnswerEnd
+#QuestionStart
+Q5) The term “economic justice” in the Preamble to the Constitution of India, is a resolution for:
+a)  Equal distribution of wealth.
+b)  Economy in the administration of justice.
+c)  Socio-economic revolution.
+d)  Cheap justice to the poor.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Equal distribution of wealth.
+#AnswerEnd
+#QuestionStart
+Q6) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Terms Mentioned in Preamble)                  | List-II (Implications)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Republic                                          | 1.  Head of the State is not a hereditary monarch                  |
+| B.  Secular                                           | 2.  State does not recognise any religion as a state religion      |
+| C.  Democratic                                        | 3.  Government gets its authority from the will of the people      |
+| D.  Sovereign                                         | 4.  State is free to conduct its own internal and external affairs |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 2 3 4
+b)  1 3 2 4
+c)  2 3 1 4
+d)  3 2 1 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 2 3 4
+#AnswerEnd
+#QuestionStart
+Q7) The text of the Preamble to the Constitution of India aims to secure:
+a)  Fundamental rights to all individuals.
+b)  Fundamental duties to citizens of India.
+c)  Dignity of the individual and unity and integrity of the nation.
+d)  Security of service to Government servants.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Dignity of the individual and unity and integrity of the nation.
+#AnswerEnd
+#QuestionStart
+Q8) Which of the following terms was not included in a ‘Union of Trinity’ by Dr. B.R. Ambedkar in his concluding speech in the Constituent Assembly?
+a)  Liberty
+b)  Flexibility
+c)  Equality
+d)  Fraternity
+#QuestionEnd
+#AnswerStart
+Answer: b)  Flexibility
+#AnswerEnd
+#QuestionStart
+Q9) The words “Socialist” and “Secular” were inserted in the Preamble by the:
+a)  Fifteenth Amendment
+b)  Thirty-ninth Amendment
+c)  Forty-second Amendment
+d)  Forty-fourth Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c)  Forty-second Amendment
+#AnswerEnd
+#QuestionStart
+Q10) The sequence in which the given terms are mentioned in the Preamble to the Constitution of India is:
+a)  Sovereign, Socialist, Secular, Democratic, Republic
+b)  Socialist, Secular, Sovereign, Democratic, Republic
+c)  Secular, Sovereign, Democratic, Socialist, Republic
+d)  Sovereign, Democratic, Secular, Socialist, Republic
+#QuestionEnd
+#AnswerStart
+Answer: a)  Sovereign, Socialist, Secular, Democratic, Republic
+#AnswerEnd
+#QuestionStart
+Q11) The Preamble to the Constitution of India:
+a)  Is not a part of the Constitution.
+b)  Indicates the objectives to be achieved.
+c)  Cannot be amended by the Parliament.
+d)  Is a source of authority of the Constitution of India.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Indicates the objectives to be achieved.
+#AnswerEnd

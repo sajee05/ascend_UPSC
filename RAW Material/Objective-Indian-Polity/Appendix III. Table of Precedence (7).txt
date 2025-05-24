@@ -1,0 +1,81 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Table of Precedence is related to the rank and order of the officials of the Union and State Governments.
+2.  The order in the Table of Precedence is meant for state and ceremonial occasions and has no application in the day-to-day business of Government.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) What is the correct sequence of the following functionaries in the Order of Precedence?
+1.  Judges of Supreme Court
+2.  Comptroller and Auditor General of India
+3.  Governors of States within their respective states
+4.  Former Prime Ministers
+Select the correct answer using the codes given below:
+a)  4, 1, 3, 2
+b)  3, 4, 1, 2
+c)  4, 3, 2, 1
+d)  3, 1, 2, 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  3, 4, 1, 2
+#AnswerEnd
+#QuestionStart
+Q3) Who among the following ranks lowest in the Warrant of Precedence?
+a)  Attorney-General of India
+b)  Members of the Planning Commission
+c)  Chairperson of the UPSC
+d)  Leader of Opposition in the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a)  Attorney-General of India
+#AnswerEnd
+#QuestionStart
+Q4) In which of the following years, the present notification on the Warrant of Precedence (Order of Precedence) was issued by the government?
+a)  1963
+b)  1976
+c)  1979
+d)  1967
+#QuestionEnd
+#AnswerStart
+Answer: c)  1979
+#AnswerEnd
+#QuestionStart
+Q5) Who of the following is placed at the fifth position in the Order of Precedence?
+a)  Chief Justice of India
+b)  Deputy Prime Minister
+c)  Speaker of Lok Sabha
+d)  Former Presidents
+#QuestionEnd
+#AnswerStart
+Answer: d)  Former Presidents
+#AnswerEnd
+#QuestionStart
+Q6) Who of the following is not placed at the same rank in the Table of Precedence?
+a)  Leader of Opposition in Rajya Sabha
+b)  Cabinet Minister of the Union
+c)  Deputy Chairman of Planning Commission
+d)  Chief Election Commissioner
+#QuestionEnd
+#AnswerStart
+Answer: d)  Chief Election Commissioner
+#AnswerEnd
+#QuestionStart
+Q7) Consider the following statements:
+1.  The Ministry of External Affairs may assign appropriate ranks to foreign dignitaries and Indian Ambassadors, High Commissioners and Ministers Plenipotentiary during their visit to India.
+2.  Secretaries in the Ministry of External Affairs other than the Foreign Secretary, between themselves, will take precedence in the order of their seniority in Grade-I of the Indian Foreign Service and both of them will take precedence after the Foreign Secretary.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd

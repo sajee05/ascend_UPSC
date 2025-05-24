@@ -1,0 +1,75 @@
+#QuestionStart
+Q1) The Representation of the People (Amendment) Act, 2003, passed by the Parliament of India sought to:
+a)  Provide the facility to opt to vote through proxy to the service voters belonging to armed forces
+b)  Introduce open ballot system for elections to the Council of States
+c)  Insert provision regarding supply of copies of electoral rolls to candidates of recognized political parties
+d)  Make it mandatory for political parties to report all cases of contributions received above Rs.20,000 to Election Commission
+#QuestionEnd
+#AnswerStart
+Answer: b)  Introduce open ballot system for elections to the Council of States
+#AnswerEnd
+#QuestionStart
+Q2) Indrajit Gupta Committee is related to:
+a)  Registration of political parties
+b)  Criminalisation of politics
+c)  State funding of elections
+d)  Anti-defection law
+#QuestionEnd
+#AnswerStart
+Answer: c)  State funding of elections
+#AnswerEnd
+#QuestionStart
+Q3) The Electronic Voting Machines (EVMs) were used for the first time in 1999 in the general elections (entire state) to the Legislative Assembly of:
+a)  Goa
+b)  Rajasthan
+c)  Madhya Pradesh
+d)  Kerala
+#QuestionEnd
+#AnswerStart
+Answer: a)  Goa
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following Constitutional Amendment Acts reduced the voting age from 21 years to 18 years for the Lok Sabha as well as the assembly elections?
+a)  56th Amendment
+b)  59th Amendment
+c)  61st Amendment
+d)  63rd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c)  61st Amendment
+#AnswerEnd
+#QuestionStart
+Q5) What was the subject of the Vohra Committee?
+a)  Reform of the electoral laws
+b)  Nexus between crime and politics
+c)  Registration of political parties
+d)  Judicial interference in electoral matters
+#QuestionEnd
+#AnswerStart
+Answer: b)  Nexus between crime and politics
+#AnswerEnd
+#QuestionStart
+Q6) Which of the following are included in booth capturing?
+1.  Seizure of a polling station and making polling authorities surrender ballot papers or voting machines.
+2.  Taking possession of polling station and allowing only one’s own supporters to exercise their franchise.
+3.  Threatening and preventing any elector from going to polling station.
+4.  Seizure of the place being used for counting of votes.
+Select the correct answer by using the codes given below:
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1, 2, 3 and 4
+d)  3 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q7) Dinesh Goswami Committee on electoral reforms was appointed by the:
+a)  United Front Government
+b)  BJP-led coalition Government
+c)  United Progressive Alliance Government
+d)  National Front Government
+#QuestionEnd
+#AnswerStart
+Answer: d)  National Front Government
+#AnswerEnd

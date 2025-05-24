@@ -1,0 +1,58 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Every member of either House of Parliament shall, before taking his seat, make and subscribe before the Speaker, an oath or affirmation.
+2.  Every person appointed to be the Comptroller and Auditor-General of India shall, before he enters upon his office, make and subscribe before the President an oath or affirmation.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following are contained in the form of oath of the President of India?
+1.  To faithfully execute the office
+2.  To preserve, protect and defend the Constitution and the law
+3.  To devote himself to the service and well-being of the people of India
+4.  To uphold the sovereignty and integrity of India
+Select the correct answer using the codes given below:
+a)  2, 3 and 4
+b)  1, 2 and 3
+c)  1, 2 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) In the absence of the Chief Justice of the State High Court, who among the following administers the oath of office to the Governor of a State?
+a)  The Speaker of the State Legislative Assembly
+b)  The Law Minister of the State
+c)  The seniormost Judge of the State High Court available
+d)  The Chief Justice of India
+#QuestionEnd
+#AnswerStart
+Answer: c)  The seniormost Judge of the State High Court available
+#AnswerEnd
+#QuestionStart
+Q4) Who of the following administers the oath of office to the State Chief Information Commissioner?
+a)  President of India
+b)  Chief Justice of India
+c)  Governor of the State
+d)  Chief Justice of the State High Court
+#QuestionEnd
+#AnswerStart
+Answer: c)  Governor of the State
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following is not a part of the form of oath or affirmation for the judges of High Courts?
+a)  To bear true faith and allegiance to the Constitution of India
+b)  To uphold the sovereignty and integrity of India
+c)  To uphold the Constitution and the laws
+d)  To devote himself to the service and well-being of the people of the state
+#QuestionEnd
+#AnswerStart
+Answer: d)  To devote himself to the service and well-being of the people of the state
+#AnswerEnd

@@ -1,0 +1,179 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Governor cannot function without the State Council of Ministers.
+2.  A person who is not a member of the State Legislature cannot be appointed as a minister.
+3.  The State Council of Ministers can function for sometime even after death or resignation of the Chief Minister.
+4.  In the absence of the Chief Minister, only the Home Minister can preside over emergency meetings of the State Council of Ministers.
+Which of these is / are correct?
+a)  Only 1
+b)  3 and 4
+c)  1, 2 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) There is a constitutional requirement to have a Minister in-charge of Tribal Welfare for the States of:
+a)  Assam, Nagaland and Manipur
+b)  Himachal Pradesh, Haryana and Rajasthan
+c)  Madhya Pradesh, Odisha, Chhattisgarh and Jharkhand
+d)  Manipur, Tripura and Meghalaya
+#QuestionEnd
+#AnswerStart
+Answer: c)  Madhya Pradesh, Odisha, Chhattisgarh and Jharkhand
+#AnswerEnd
+#QuestionStart
+Q3) Some state governments have, besides Cabinet Ministers and Ministers of State, Parliamentary Secretaries also. These Parliamentary Secretaries who are also members of the State Legislature are appointed by:
+a)  The Chief Minister
+b)  The Governor
+c)  The Chief Whip of the ruling party
+d)  The Speaker
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Governor
+#AnswerEnd
+#QuestionStart
+Q4) The salaries and allowances of the Council of Ministers of the State Government are paid from the:
+a)  Reserve Bank of India
+b)  Treasury of the State Government
+c)  Contingency Fund of the State
+d)  Consolidated Fund of the state
+#QuestionEnd
+#AnswerStart
+Answer: d)  Consolidated Fund of the state
+#AnswerEnd
+#QuestionStart
+Q5) Which of the Articles of the Constitution of India are relevant to analyse the constitutional provisions that deal with the relationship of the Governor with the State Council of Ministers?
+a)  Articles 161, 165 and 166
+b)  Articles 163, 164 and 167
+c)  Articles 162, 163 and 168
+d)  Articles 164, 165 and 169
+#QuestionEnd
+#AnswerStart
+Answer: b)  Articles 163, 164 and 167
+#AnswerEnd
+#QuestionStart
+Q6) Assertion (A): Collective responsibility of the Cabinet signifies unity and coordination among members of the State Council of Ministers.
+Reason (R):  It is the prerogative of the Chief Minister to select or drop a member of the Cabinet.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q7) Consider the following statements:
+5.  All decisions of the State Council of Ministers relating to the administration of the State must be communicated to the Governor.
+6.  The Governor can call for information relating to proposals for legislation.
+7.  The Governor can direct that any matter on which decision has been taken by a Minister should be placed before the State Council of Ministers.
+8.  The Governor has the right to address and send messages to the State Council of Ministers to elicit specific information.
+Which of these is/are correct?
+a)  Only 1
+b)  3 and 4
+c)  1, 2 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q8) In which of the following provisions of the Constitution of India is the principle of collective responsibility of the State Council of Ministers enshrined?
+a)  Article 164
+b)  Article 162
+c)  Article 163
+d)  Article 167
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 164
+#AnswerEnd
+#QuestionStart
+Q9) The ministers in the State could be prosecuted only with the approval of the Governor because they:
+a)  Are the heads of the ministries
+b)  Are representatives of the people
+c)  Enjoy certain immunities under the provisions of the Constitution
+d)  Exercise executive powers on behalf of the Governor
+#QuestionEnd
+#AnswerStart
+Answer: c)  Enjoy certain immunities under the provisions of the Constitution
+#AnswerEnd
+#QuestionStart
+Q10) The ministers in the Council of Ministers at the state level are appointed by:
+a)  President of the party
+b)  Governor
+c)  Chief Minister
+d)  Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: b)  Governor
+#AnswerEnd
+#QuestionStart
+Q11) Assertion (A): The strength of the State Council of Ministers has not been specified in the Constitution of India.
+Reason (R):  A number of pressures operate in the determination of the strength of the Ministry.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q12) Which of the following are not mentioned in the Constitution of India?
+9.  Council of Ministers headed by a Chief Minister
+10.  Collective Responsibility of the State Council of Ministers
+11.  Resignation of State Ministers
+12.  Office of the Deputy Chief Minister
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  3 and 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q13) According to the Constitution of India, if the Governor so requires, it shall be the duty of the Chief Minister to submit for the consideration of the State Council of Ministers any matter on which a decision has been taken by a Minister, but which has not been considered by the Council. This ensures:
+a)  Collective responsibility
+b)  The status of the Chief Minister as the first among the equals
+c)  The power of the Governor to nullify the decision of the Minister
+d)  The inherent power of the Minister to take a decision independent of the State Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: a)  Collective responsibility
+#AnswerEnd
+#QuestionStart
+Q14) The accountability or responsibility of the Chief Minister and Cabinet to the State Legislative Assembly is
+a)  Intermittent
+b)  Indirect
+c)  At the time of elections
+d)  Direct, continuous and collective
+#QuestionEnd
+#AnswerStart
+Answer: d)  Direct, continuous and collective
+#AnswerEnd
+#QuestionStart
+Q15) According to Article 163 of the Constitution, which of the following statements relating to the question whether any, and if so what, advice was tendered by Ministers to the Governor would be correct?
+a)  It shall not be inquired into in any court.
+b)  It can be inquired into in the Supreme Court.
+c)  It can be inquired into in all the courts.
+d)  It cannot be inquired into in the High Court.
+#QuestionEnd
+#AnswerStart
+Answer: a)  It shall not be inquired into in any court.
+#AnswerEnd
+#QuestionStart
+Q16) How are the salaries and allowances of the State Ministers determined?
+a)  By the Home Department
+b)  By the State Legislature
+c)  By the Finance Department
+d)  By the Law Department
+#QuestionEnd
+#AnswerStart
+Answer: b)  By the State Legislature
+#AnswerEnd

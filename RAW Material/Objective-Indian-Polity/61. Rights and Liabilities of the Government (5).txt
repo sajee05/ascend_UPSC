@@ -1,0 +1,52 @@
+#QuestionStart
+Q1) Which one of the following was affirmed by the Supreme Court, with respect to the sovereign immunity of the State?
+a)  Doctrine of sovereign immunity has relevance in the present day context.
+b)  State can succeed in pleading its immunity by showing that the tort was committed by its servants in the course of discharge of statutory functions.
+c)  State cannot claim sovereign immunity if its officers are negligent in exercise of their powers.
+d)  State can claim sovereign immunity even if its officers are negligent in exercise of their powers.
+#QuestionEnd
+#AnswerStart
+Answer: c)  State cannot claim sovereign immunity if its officers are negligent in exercise of their powers.
+#AnswerEnd
+#QuestionStart
+Q2) Article 361 of the Constitution of India guarantees the privilege to the President of India that, he shall:
+a)  Not participate in Parliamentary proceedings
+b)  Only be answerable to the Chief Justice of India
+c)  Address both the Houses of Parliament at the time of joint session
+d)  Not be answerable to any court for the exercise of the powers of his office
+#QuestionEnd
+#AnswerStart
+Answer: d)  Not be answerable to any court for the exercise of the powers of his office
+#AnswerEnd
+#QuestionStart
+Q3) Which part of the Constitution of India deals with the rights and liabilities of the Government?
+a)  Part XII
+b)  Part XI
+c)  Part IX
+d)  Part XIII
+#QuestionEnd
+#AnswerStart
+Answer: a)  Part XII
+#AnswerEnd
+#QuestionStart
+Q4) Assertion (A): Article 300 of the Constitution of India has specifically removed the distinction between sovereign and non-sovereign functions with respect to government’s liability for tort in India.
+Reason (R):  Government is liable for tort which is the result of its non-sovereign function.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q5) No criminal proceedings shall be instituted or continued against which one of the following in any court during the term of his office?
+a)  President, Vice-President and Governor
+b)  President, Prime Minister and Governor
+c)  President and Governor only
+d)  President, Vice-President and Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  President and Governor only
+#AnswerEnd

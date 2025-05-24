@@ -1,0 +1,657 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  When the President of India is to be impeached for violation of the Constitution, the charge shall be preferred by either House of Parliament.
+2.  An election to fill a vacancy in the office of President of India occurring by reason of his death, resignation or removal or otherwise shall be held in no case later than nine months from the date of occurrence of the vacancy.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The President nominates twelve members of the Rajya Sabha on the advice of the Council of Ministers.
+4.  The President has absolute power to appoint and remove the Chairman and members of statutory bodies at his discretion.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+5.  On the expiry of the term of five years by the President of India, the outgoing President must continue to hold office until his successor enters upon his office.
+6.  The Electoral College for the President’s election consists of the elected members of the Legislative Assemblies of Delhi and Puducherry also.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q4) The Executive power of the Union Government is vested in the President of India. The President shall exercise these powers:
+a)  Himself
+b)  Directly or through officers subordinate to him if he so desires
+c)  Either directly or through officers subordinate to him in accordance with the provisions of the Constitution
+d)  Only on the advice of Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  Either directly or through officers subordinate to him in accordance with the provisions of the Constitution
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following statements is correct?
+a)  The Chief Election Commissioner of India holds his office during the pleasure of President
+b)  The Governor of a State holds his office during the pleasure of the President
+c)  The Prime Minister can only be removed by a resolution passed by both Houses of Parliament
+d)  The speaker of the Lok Sabha can be removed at the pleasure of the President
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Governor of a State holds his office during the pleasure of the President
+#AnswerEnd
+#QuestionStart
+Q6) In which of the following cases the President of India is not bound by the advice of the Council of Ministers?
+7.  The choice of the Prime Minister
+8.  The dismissal of a Government which refuses to quit, after having lost its majority in the House of the People
+9.  The allocation of business
+10.  The dissolution of the House, when appeal to the electorate becomes necessary
+Choose the correct answer from the codes given below:
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  1, 3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q7) Which of the following statements is not correct?
+a)  There shall be a Council of Ministers headed by the Prime Minister to aid and advise the President who shall act in accordance with such advice.
+b)  The President may require the Council of Ministers to reconsider such advice
+c)  The President need not act in accordance with the advice tendered after such reconsideration
+d)  The President shall act in accordance with the advice tendered after such reconsideration
+#QuestionEnd
+#AnswerStart
+Answer: c)  The President need not act in accordance with the advice tendered after such reconsideration
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Power of President)                           | List-II (Relevant Provision)                                       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Power to grant pardon                             | 1.   Article 76                                                     |
+| B.  Executive power of the Union                      | 2.   Article 75                                                     |
+| C.  Power to appoint Prime Minister                   | 3.   Article 53                                                     |
+| D.  Appointment of Attorney-General                   | 4.   Article 72                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 2 3 1
+b)  4 3 2 1
+c)  1 2 3 4
+d)  1 3 2 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 3 2 1
+#AnswerEnd
+#QuestionStart
+Q9) Consider the following statements:
+11.  The President can commute death sentence to life imprisonment.
+12.  The Governor cannot commute death sentence to life imprisonment.
+13.  The President’s power to pardon extends to punishments or sentences by court martial.
+Which of the statements given above is / are correct?
+a)  2 only
+b)  1 and 3 only
+c)  1, 2 and 3
+d)  2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q10) Assertion (A): President of India is the Chief Executive of Government of India.
+Reason (R):  President of India is elected by the elected members of Parliament and elected members of state legislative assemblies.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q11) In which one of the following cases, is the President of India not bound by the aid and advice of the Union Council of Ministers?
+a)  In deciding the question of removal of a Governor
+b)  In deciding the question whether a member of Lok Sabha has become disqualified to continue as a member
+c)  While exercising power to grant pardon
+d)  In dismissing a civil servant without any enquiry and hearing on the ground of security of state
+#QuestionEnd
+#AnswerStart
+Answer: b)  In deciding the question whether a member of Lok Sabha has become disqualified to continue as a member
+#AnswerEnd
+#QuestionStart
+Q12) Money can be advanced out of the Contingency Fund of India to meet unforeseen expenditure by the
+a)  Parliament
+b)  President
+c)  Finance Minister
+d)  Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: b)  President
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following statements:
+The charge of violation of the Constitution by the President of India for his impeachment cannot be preferred by a House unless:
+14.  A resolution containing the proposal is moved after a seven days’ notice in writing signed by not less than 1/4th of the total number of the members of that House.
+15.  The resolution is passed by a majority of not less than 2/3rd of the total membership of that House.
+Which of the statement(s) given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q14) The Constitution (Forty-Second Amendment) Act, 1976, made it obligatory for the President of India to act in accordance with the advice of the Council of Ministers.
+For the above purpose, which one of the following Articles of the Constitution of India was amended by the Constitution (Forty-Second Amendment) Act, 1976?
+a)  Article 73
+b)  Article 74
+c)  Article 75
+d)  Article 77
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 74
+#AnswerEnd
+#QuestionStart
+Q15) Assertion (A): The  President  of  India  has  the  power  to  grant  pardon,  reprieve,  respite  or remission of punishment or to suspend, remit or commute sentence.
+Reason (R):  The President exercises not only executive functions but also judicial and legislative functions.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q16) Which of the following is a correct statement about the President of India?
+a)  He can address both Houses of Parliament, can summon the Houses of Parliament and can send messages to either House of Parliament
+b)  He can summon the Houses of Parliament but cannot send messages to either House of Parliament
+c)  He can send messages to either House of Parliament, but cannot summon the Houses of Parliament
+d)  He cannot send messages to either House of Parliament or summon the Houses of Parliament
+#QuestionEnd
+#AnswerStart
+Answer: a)  He can address both Houses of Parliament, can summon the Houses of Parliament and can send messages to either House of Parliament
+#AnswerEnd
+#QuestionStart
+Q17) The President of India:
+a)  Can be a member of Parliament
+b)  Is part of Parliament
+c)  Cannot stand for election for more than two terms
+d)  Presides over joint sittings of both the Houses of Parliament
+#QuestionEnd
+#AnswerStart
+Answer: b)  Is part of Parliament
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following statements about the impeachment of the President of India is not correct?
+a)  The charge for violation of the Constitution shall be preferred by either House of Parliament.
+b)  The resolution has to be moved after at least thirty days’ notice in writing.
+c)  The resolution has to be signed by not less than one-fourth of the total number of members of the House.
+d)  The resolution has to be passed by a majority of not less than two-thirds of the total membership of the House.
+#QuestionEnd
+#AnswerStart
+Answer: b)  The resolution has to be moved after at least thirty days’ notice in writing.
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following propositions is a correct description of the powers of the President of India under Article 356 of the Constitution?
+a)  If the Chief Minister inspite of commanding the confidence of the Legislative Assembly, cannot run his government in accordance with the Constitution, the President can proclaim emergency.
+b)  If the law and order in a state completely breaks-down, the President can proclaim emergency.
+c)  The President can refer the matter to the Supreme Court for advice and act in accordance with such advice.
+d)  The President cannot make a proclamation of emergency if the governor refuses to make a report.
+#QuestionEnd
+#AnswerStart
+Answer: a)  If the Chief Minister inspite of commanding the confidence of the Legislative Assembly, cannot run his government in accordance with the Constitution, the President can proclaim emergency.
+#AnswerEnd
+#QuestionStart
+Q20) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Articles)                                     | List-II (Contents)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Article 61                                        | 1.  The President of India                                         |
+| B.  Article 54                                        | 2.  Term of President’s Office                                     |
+| C.  Article 52                                        | 3.  Impeachment of President                                       |
+| D.  Article 56                                        | 4.  Election of President                                          |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 2 4 1
+b)  2 4 1 3
+c)  2 1 3 4
+d)  3 4 1 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  3 4 1 2
+#AnswerEnd
+#QuestionStart
+Q21) The rule of passing resolution by two-thirds majority of total number of members of the House of Parliament is applicable is case of:
+a)  Amendment of the Constitution
+b)  Approval of proclamation of emergency
+c)  Impeachment of the President
+d)  Disapproval of proclamation of emergency
+#QuestionEnd
+#AnswerStart
+Answer: c)  Impeachment of the President
+#AnswerEnd
+#QuestionStart
+Q22) Assertion (A): No public expenditure can be incurred except with the sanction of the Parliament.
+Reason (R):  During an emergency, the President of India is empowered to authorize the expenditure from the Consolidated Fund of India.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q23) As per provisions of the Constitution of India, who makes rules for more convenient transaction of the business of the Government of India, and for allocation among Ministers of the said business?
+a)  The President
+b)  The Union Law Minister
+c)  The Attorney-General of India
+d)  The Cabinet Secretariat
+#QuestionEnd
+#AnswerStart
+Answer: a)  The President
+#AnswerEnd
+#QuestionStart
+Q24) Which one of the following statements is correct?
+On receipt of a Constitutional Amendment Bill after its passing by each House of the Parliament, the President:
+a)  Shall give his assent
+b)  May give his assent
+c)  May withhold his assent
+d)  May return the Bill for reconsideration
+#QuestionEnd
+#AnswerStart
+Answer: a)  Shall give his assent
+#AnswerEnd
+#QuestionStart
+Q25) “The President may require the Council of Ministers to reconsider the advice tendered by the latter and shall act in accordance with the advice tendered after such reconsideration.”
+The above provision was inserted in the Indian Constitution by the:
+a)  38th Amendment
+b)  42nd Amendment
+c)  44th Amendment
+d)  52nd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c)  44th Amendment
+#AnswerEnd
+#QuestionStart
+Q26) Assertion (A): The President of India can return any bill passed by Parliament for reconsideration of the Houses.
+Reason (R):  The President cannot return money bills to the Parliament for reconsideration of the Houses.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q27) Which one of the following is not correct about the powers of the President of India to grant pardons, reprieves, respites or remissions of punishment or to suspend, remit or commute the sentence of any person convicted of any offence?
+a)  The President can do so in all cases where the punishment or sentence is by a Court Martial.
+b)  The President may exercise such powers in all cases where punishment or sentence is for an offence against any law falling within the executive power of the Union.
+c)  The President may exercise such powers in all cases where the sentence is a sentence of death.
+d)  The President may reject a petition for mercy but he must hear a petition for mercy before rejecting.
+#QuestionEnd
+#AnswerStart
+Answer: d)  The President may reject a petition for mercy but he must hear a petition for mercy before rejecting.
+#AnswerEnd
+#QuestionStart
+Q28) Which one of the following statements about the executive powers of the President is incorrect?
+a)  All important appointments are made by the President on the advice of the Council of Ministers.
+b)  The Prime Minister and all Union Ministers are appointed by the President.
+c)  The President has the absolute power to appoint and remove the chairmen and the members of statutory bodies at his discretion.
+d)  The President is the supreme commander of the Armed Forces.
+#QuestionEnd
+#AnswerStart
+Answer: c)  The President has the absolute power to appoint and remove the chairmen and the members of statutory bodies at his discretion.
+#AnswerEnd
+#QuestionStart
+Q29) The President of India is elected by the ‘Electoral College’ consisting of
+a)  All Members of Parliament.
+b)  Elected Members of Parliament and State Legislative Assemblies.
+c)  Members of Parliament, State Legislative Assemblies and Legislative Councils.
+d)  All the Members of Parliament and State Legislative Assemblies.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Elected Members of Parliament and State Legislative Assemblies.
+#AnswerEnd
+#QuestionStart
+Q30) Consider the following statements:
+16.  If a Bill other than Money Bill is returned by the President for reconsideration of the Houses and the Bill is again passed by both the Houses of Parliament with or without amendments and again presented to the President, then also it is not obligatory upon him to declare his assent to it.
+17.  A Bill for the purpose of formation of new States and alteration of areas, boundaries or names of existing States can be introduced in either House of Parliament and no recommendation of the President is required for the introduction of such a Bill.
+Which of the statement(s) given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q31) Assertion (A): The President of India is indirectly elected.
+Reason (R):  Under a parliamentary system of government, the head of the state is only a nominal head.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q32) The authority to declare war or peace under the Indian Constitutions is vested in:
+a)  The Prime Minister
+b)  The Defence Minister
+c)  The Parliament
+d)  The President
+#QuestionEnd
+#AnswerStart
+Answer: d)  The President
+#AnswerEnd
+#QuestionStart
+Q33) Which one of the following statements is correct?
+a)  The President may continue to be a member of Parliament even after assuming charge of Presidential office.
+b)  The President is not barred from holding any other office of profit even after assuming charge of Presidential office.
+c)  The President is entitled to use his official residence only on payment of the rent fixed.
+d)  The emoluments and allowances of the President shall not be diminished during his term of office.
+#QuestionEnd
+#AnswerStart
+Answer: d)  The emoluments and allowances of the President shall not be diminished during his term of office.
+#AnswerEnd
+#QuestionStart
+Q34) Which one of the following is not a constitutional prerogative of the President of India?
+a)  Returning a Legislative Bill for reconsideration
+b)  Returning a Money Bill for reconsideration
+c)  Dissolving the Lok Sabha
+d)  Summoning the Rajya Sabha
+#QuestionEnd
+#AnswerStart
+Answer: b)  Returning a Money Bill for reconsideration
+#AnswerEnd
+#QuestionStart
+Q35) Consider the following statements relating to the President of India:
+18.  He may resign by writing to the Vice-President.
+19.  He shall continue, not withstanding the expiration of his term, to hold office until his successor enters upon his office.
+20.  He is not entitled to hold the office for more than two terms.
+Which of the statements given above are correct?
+a)  1 and 3 only
+b)  1 and 2 only
+c)  1, 2 and 3
+d)  2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q36) Assertion (A): The President of India occupies almost the same position as the King or Queen of England.
+Reason (R):  The President is ultimately bound to act in accordance with the advice given by the Council of Ministers.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q37) The President of India is not the authority for the appointment of:
+a)  Judges of the High Courts
+b)  State Governors
+c)  Union Ministers
+d)  Chairman of a State Public Service Commission
+#QuestionEnd
+#AnswerStart
+Answer: d)  Chairman of a State Public Service Commission
+#AnswerEnd
+#QuestionStart
+Q38) Who among the following do not participate in the election of the President of India?
+a)  Elected Members of the Rajya Sabha
+b)  Elected Members of the Lok Sabha
+c)  Elected Members of the Vidhan Sabhas
+d)  Elected Members of the Vidhan Parishads
+#QuestionEnd
+#AnswerStart
+Answer: d)  Elected Members of the Vidhan Parishads
+#AnswerEnd
+#QuestionStart
+Q39) Assertion (A): The President is part of the Parliament.
+Reason (R):  A bill passed by the two Houses of Parliament cannot become law without the assent of the President.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q40) Once the proclamation of emergency is made, the right of a citizen to move the Supreme Court for enforcement of his fundamental rights is suspended by the:
+a)  Prime Minister of India
+b)  President of India
+c)  Speaker of the Lok Sabha
+d)  Chief Justice of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  President of India
+#AnswerEnd
+#QuestionStart
+Q41) Which one of the following is not correct regarding the executive powers of the President?
+a)  He must be kept informed by the Prime Minister of all decisions of the Cabinet.
+b)  He presides over the meetings of the Council of Ministers when he deems fit.
+c)  He can ask the Prime Minister to submit a decision of any minister for the consideration of the Council of Ministers.
+d)  He must be supplied with such other information about the administration of the country as he asks for it.
+#QuestionEnd
+#AnswerStart
+Answer: b)  He presides over the meetings of the Council of Ministers when he deems fit.
+#AnswerEnd
+#QuestionStart
+Q42) Assertion (A): The President of India can issue a proclamation of emergency under Article 352 on the advice of the Prime Minister.
+Reason (R):  When a proclamation of emergency is in operation, the President may suspend the operation of all the fundamental rights except Articles 20 and 21.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q43) The power of the President of India to issue an ordinance is a / an:
+a)  Executive power
+b)  Legislative power
+c)  Constituent power
+d)  Quasi-judicial power
+#QuestionEnd
+#AnswerStart
+Answer: b)  Legislative power
+#AnswerEnd
+#QuestionStart
+Q44) The impeachment of the President of India can be initiated in:
+a)  Either House of Parliament
+b)  A joint sitting of both Houses of Parliament
+c)  The Lok Sabha alone
+d)  The Rajya Sabha alone
+#QuestionEnd
+#AnswerStart
+Answer: a)  Either House of Parliament
+#AnswerEnd
+#QuestionStart
+Q45) Who amongst the following decides about the disqualification of the Members of Parliament?
+a)  Election Commission
+b)  Supreme Court
+c)  Speaker
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  President of India
+#AnswerEnd
+#QuestionStart
+Q46) Assertion (A): The Constitution vests the executive powers of the Union in the President of India.
+Reason (R):  President of India is the Constitutional head of the State.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q47) When the President of India is satisfied that the financial credit of Government of India is threatened, he may:
+a)  Direct reduction in the number of members in the Finance Commission
+b)  Proclaim financial emergency
+c)  Impose President’s Rule in any State
+d)  Direct Parliament to pass a special Financial Bill.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Proclaim financial emergency
+#AnswerEnd
+#QuestionStart
+Q48) In the event of occurrence of vacancies in the offices of both, the President and the Vice-President of India, who among the following shall discharge the functions of the President till a new President is elected?
+a)  Speaker of the Lok Sabha
+b)  Leader of the majority party in the Lok Sabha
+c)  Chief Justice of India
+d)  Seniormost Governor
+#QuestionEnd
+#AnswerStart
+Answer: c)  Chief Justice of India
+#AnswerEnd
+#QuestionStart
+Q49) The President of India has power to declare emergency under Article 352 on which of the following grounds?
+21.  War
+22.  Internal disturbance
+23.  External aggression
+24.  Armed rebellion
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1, 3 and 4
+c)  1, 2 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q50) Consider the following statements in respect of an Ordinance promulgated by the President of India during recess of Parliament:
+25.  Such an Ordinance may be withdrawn at any time by the President.
+26.  Such an Ordinance shall be laid before both the Houses of Parliament and shall cease to operate at the expiration of six weeks from the reassembly of Parliament, or before that period if disapproved by both the Houses.
+Which of the statement(s) given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q51) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Pardoning Power of President)                 | List-II (Implications)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Commutation                                       | 1.  Stay of the execution of a sentence for a temporary period     |
+| B.  Reprieve                                          | 2.  Awarding  a  lesser  sentence  in    place  of  one originally awarded. |
+| C.  Remission                                         | 3.  Substitution of one form of punishment for a lighter form.     |
+| D.  Respite                                           | 4.  Reducing the period of sentence without changing its character. |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 2 1
+b)  4 2 1 3
+c)  3 1 4 2
+d)  4 3 2 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 1 4 2
+#AnswerEnd
+#QuestionStart
+Q52) The President of India is not empowered to proclaim:
+a)  Emergency arising out of war, external aggression or armed rebellion
+b)  Emergency due to breakdown of constitutional machinery in states
+c)  Financial emergency in the state of Jammu and Kashmir
+d)  Emergency arising out of threat to financial stability
+#QuestionEnd
+#AnswerStart
+Answer: c)  Financial emergency in the state of Jammu and Kashmir
+#AnswerEnd
+#QuestionStart
+Q53) Consider the following statements:
+The President of India has the power to address both the Houses of Parliament at the commencement of:
+27.  The first session after the general elections
+28.  Each session
+29.  The first session of each year
+30.  The budget session of each year
+Which of these are correct?
+a)  2 and 3
+b)  1 and 4
+c)  1 and 3
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q54) Consider the following statements:
+31.  When the Vice-President of India acts as the President of India, he performs simultaneously the functions of the Chairman of the Rajya Sabha.
+32.  The President of India can promulgate Ordinances at any time except when both the Houses of Parliament are in session.
+Which of the statements given above is/are correct?
+a)  1 only
+b)  2 only
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 only
+#AnswerEnd
+#QuestionStart
+Q55) The Constitutional Amendment relating to the declaration of emergency (1978) requires the President of India to act in accordance with the:
+a)  Collective advice of the entire Council of Ministers
+b)  Advice of the Union Cabinet
+c)  Advice of the Attorney General for India
+d)  Advice of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: b)  Advice of the Union Cabinet
+#AnswerEnd
+#QuestionStart
+Q56) The Union Executive of India consists of:
+a)  The President, the Vice-President, the Lok Sabha Speaker and the Council of Ministers
+b)  The President, the Deputy Chairman of the Rajya Sabha, the Lok Sabha Speaker and the Prime Minister
+c)  The President and the Council of Ministers
+d)  The President, the Vice-President and the Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: d)  The President, the Vice-President and the Council of Ministers
+#AnswerEnd

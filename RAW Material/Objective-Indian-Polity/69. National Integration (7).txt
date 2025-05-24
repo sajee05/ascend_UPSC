@@ -1,0 +1,77 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The National Integration Council is a recommendatory body.
+2.  The National Integration Council is a constitutional body.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Communalism in Indian context means:
+a)  Serving the community in a befitting manner
+b)  Using communal identity for political gains
+c)  A group of people bound by ethnic feelings
+d)  Creating friendly relations with the other communities
+#QuestionEnd
+#AnswerStart
+Answer: b)  Using communal identity for political gains
+#AnswerEnd
+#QuestionStart
+Q3) In which of the following years, was the National Integration Council constituted first?
+a)  1950
+b)  1956
+c)  1961
+d)  1963
+#QuestionEnd
+#AnswerStart
+Answer: c)  1961
+#AnswerEnd
+#QuestionStart
+Q4) Assertion (A):  Regionalism in Indian politics reflects the cultural diversity of the country.
+Reason (R):  Political leaders whip up the ethnic identities.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A.
+#AnswerEnd
+#QuestionStart
+Q5) Who of the following is the Chairman of the National Integration Council?
+a)  President of India
+b)  Chief Justice of India
+c)  Speaker of the Lok Sabha
+d)  Prime Minister of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  Prime Minister of India
+#AnswerEnd
+#QuestionStart
+Q6) The National Foundation for Communal Harmony is under the administrative control of:
+a)  Minority Affairs Ministry
+b)  Home Affairs Ministry
+c)  Cabinet Secretariat
+d)  Prime Minister’s Office
+#QuestionEnd
+#AnswerStart
+Answer: b)  Home Affairs Ministry
+#AnswerEnd
+#QuestionStart
+Q7) Statement I:  The  states  were  reorganized  on  a  large-scale  in  1956  on  the  basis  of  the recommendations made by the States Reorganisation Commission.
+Statement II: The creation of the first linguistic state of Andhra in 1953 led to the country-wide demand for the reorganization of states on the basis of language.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd

@@ -1,0 +1,58 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The district judge exercises both judicial and administrative powers.
+2.  The sessions judge has no power to impose capital punishment.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following statements regarding subordinate courts are correct?
+3.  They function at district and lower levels.
+4.  The pattern and designation of subordinate courts in the States is not uniform.
+5.  Munsiff’s courts have both civil and criminal jurisdiction.
+6.  The pattern of subordinate courts in metropolitan areas is the same as that in districts.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) Who among the following appoints the District judge in a State?
+a)  The Governor of the State
+b)  The President of India
+c)  The Chief Minister of the State
+d)  Chief Justice of the High Court of the State
+#QuestionEnd
+#AnswerStart
+Answer: a)  The Governor of the State
+#AnswerEnd
+#QuestionStart
+Q4) Who appoints the judicial officers of the subordinate judiciary other than the district judges?
+a)  Union Public Service Commission
+b)  State Public Service Commission
+c)  Governor in accordance with the rules made by him in consultation with the High Court and State Public Service Commission
+d)  Governor in consultation with the High Court exercising jurisdiction in relation to such state
+#QuestionEnd
+#AnswerStart
+Answer: c)  Governor in accordance with the rules made by him in consultation with the High Court and State Public Service Commission
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following is not a qualification for a person to be appointed as district judge?
+a)  He should not already be in the service of the Central or the State Government.
+b)  He should have been an advocate or a pleader for seven years.
+c)  He should have completed the 30 years of age.
+d)  He should be recommended by the High Court for appointment.
+#QuestionEnd
+#AnswerStart
+Answer: c)  He should have completed the 30 years of age.
+#AnswerEnd

@@ -1,0 +1,239 @@
+#QuestionStart
+Q431) Consider the following statements regarding ‘Startups’:
+1. An entity is considered startup up to a period of 10 years from the date of its incorporation
+2. Turnover of the entity should not be more than 10 crores in any year since incorporation
+3. They are included in priority sector lending
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 3 only
+c)     2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q432) Parliament passed "Factoring Regulation (Amendment) Bill, 2021". Which of the following statements are true regarding factoring?
+a) It is an unsecured lending facility by banks to generally MSMEs
+b) Banks provide lending facility where receivables act as collateral
+c) It is a way to get immediate liquidity by selling receivables
+d) It is a short-term lending facility by NBFCs to MSMEs
+#QuestionEnd
+#AnswerStart
+Answer: c) It is a way to get immediate liquidity by selling receivables
+#AnswerEnd
+#QuestionStart
+Q433) Consider the following statements regarding ‘Merchanting Trade’:
+a) There is no physical delivery of goods
+b) Goods bought and sold does not enter into the merchant territory
+c)     It involves trade in services only
+d)     Trade does not involve a merchant
+#QuestionEnd
+#AnswerStart
+Answer: b) Goods bought and sold does not enter into the merchant territory
+#AnswerEnd
+#QuestionStart
+Q434) Which of the following statements are true regarding ‘National Monetization Pipeline?
+4. Plans for monetization of core assets of central government and central PSUs
+5. Monetization through disinvestment and monetization of non-core assets have not been included in the NMP
+6. The pipeline has been developed by NITI Aayog
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q435) Consider the following statements:
+7. Private Label products are sold under the name of specific retailers
+8. White Label products are sold by multiple sellers under their brand
+Select the correct answer using the code given below:
+a)        1 only       ,
+b)        2 only
+c)        Both 1 & 2
+d)        Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q436) Which of the following statements are true regarding 'Production Linked Incentive Scheme'?
+a) Govt, is giving incentive as interest subvention for domestic manufacturing units
+b) Govt is providing guarantee on loan for domestic manufacturing units
+c) Govt, is giving incentive on additional sales from domestic manufacturing
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Govt, is giving incentive on additional sales from domestic manufacturing
+#AnswerEnd
+#QuestionStart
+Q437) Which of the following are part of the 'Index of Industrial Production (IIP)'?
+9.        Mining and quarrying
+10.        Electricity generation
+11.        Construction
+12.        Forestry
+Select the correct answer using the code given below;
+a)       1 & 2 only
+b)       2 & 3 only
+c)       1, 2 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q438) industrial Outlook Survey’ is conducted by:
+a)  Ministry of Commerce and Industry
+b)      RBI
+c)      National Statistical Office
+d)      Dept, of Economic Affairs
+#QuestionEnd
+#AnswerStart
+Answer: b) RBI
+#AnswerEnd
+#QuestionStart
+Q439) The term "Graded Surveillance Measure" is related to which of the following:
+a)       Security of Indian coastal areas
+b) Companies listed on stock exchanges
+c)       ISRO's satellite programme
+d)       IMF monitoring various economies
+#QuestionEnd
+#AnswerStart
+Answer: b) Companies listed on stock exchanges
+#AnswerEnd
+#QuestionStart
+Q440) Consider the following statements regarding ‘Core Industries*:
+13. It comprises of around 40% of the weight of items included in Index of Industrial production (IIP)
+14. Fertilizers have the lowest weight in Core Industries index
+Select the correct answer using the code given below:
+a) I only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q441) In which of the following sectors FDI is prohibited?
+15.       Lottery
+16.  Gambling and betting including casinos
+17.       Atomic Energy
+18.       Railway operations
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)      3 only
+c)      3 & 4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q442) The term “Open access’ in electricity means which of the following:
+a)  Consumers have access to the transmission and distribution network to obtain electricity from the suppliers of their choice
+b)  Consumers can choose the distribution company of their choice
+c)  Any consumer of electricity can also generate electricity from their own resource and can feed on to the distribution network.
+d) Distribution companies can choose from which of the power producers they want to purchase power without government interference
+#QuestionEnd
+#AnswerStart
+Answer: a) Consumers have access to the transmission and distribution network to obtain electricity from the suppliers of their choice
+#AnswerEnd
+#QuestionStart
+Q443) Consider the following statements;
+19. Under the Old Pension Scheme (OPS), the monthly pension is exempt from tax
+20. Under the New Pension Scheme (NPS), the lump sum amount that someone gets at maturity (60 years) is taxable
+21. Under the Unified Pension Scheme (UPS), employees do not need to contribute and there is an assured pension
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     3 only
+d)     None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+#QuestionStart
+Q444) Arrange the following in the correct the correct chronological order i.e., the one which was established as a statutory body first should come first in the order.
+22. Pension Fund Regulatory Development Authority (PFRDA)
+23. Insurance Regulatory and Development Authority of India (IRDAI)
+24. Securities and Exchange Board of India (SEBI)
+Select the correct answer using the code given below:
+a) 2-1-3
+b)     3-2-1
+c)     1-2-3
+d)     2-3-1
+#QuestionEnd
+#AnswerStart
+Answer: b) 3-2-1
+#AnswerEnd
+#QuestionStart
+Q445) As per SEBI, minimum 'Public Shareholding' (the shares which are traded on the stock exchange) for listed companies is:
+a)     5%
+b)     10%
+c)     25%
+d)     35%
+#QuestionEnd
+#AnswerStart
+Answer: c) 25%
+#AnswerEnd
+#QuestionStart
+Q446) Which stock exchange has got the approval by SEBI to set up a Social Stock Exchange?
+a)     National Stock Exchange
+b)     Bombay Stock Exchange
+c)     Delhi Stock Exchange
+d) Multi Commodity Exchange of India
+#QuestionEnd
+#AnswerStart
+Answer: a) National Stock Exchange
+#AnswerEnd
+#QuestionStart
+Q447) Arrange the States in decreasing order of merchandise exports (by value):
+a) Maharashtra > Gujarat > Karnataka > Tamil Nadu
+b) Maharashtra > Gujarat > Tamil Nadu > Karnataka
+c) Gujarat > Maharashtra > Karnataka > Tamil Nadu
+d) Gujarat > Maharashtra > Tamil Nadu > Karnataka
+#QuestionEnd
+#AnswerStart
+Answer: d) Gujarat > Maharashtra > Tamil Nadu > Karnataka
+#AnswerEnd
+#QuestionStart
+Q448) Consider the following statements:
+25. Renewable Energy Certificates (REC) are traded on Indian Energy Exchange and Power Exchange of India
+26. Ministry of Power in consultation with ministry of New and Renewable Energy sets target every year for Renewable Purchase Obligation (RPO) for all States/UTs
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q449) Project Nexus’ is related to which of the following?
+a)     Defence
+b)     Cross border Payment
+c) Indian Space Research Organization
+d)     Artificial intelligence
+#QuestionEnd
+#AnswerStart
+Answer: b) Cross border Payment
+#AnswerEnd
+#QuestionStart
+Q450) Consider the following statements regarding Dabba Trading’:
+27. Trading of securities outside the purview of stock exchange
+28.      It is illegal
+29. Trading is done in blocks of securities
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     1 & 2 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 2 only
+#AnswerEnd

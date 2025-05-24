@@ -1,0 +1,390 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  After the Annual Financial Statement is presented before the House of the People, it is examined by the Public Accounts Committee.
+2.  The Public Accounts Committee examines the report of the Comptroller and Auditor-General of India after it is laid before the Parliament.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The Parliamentary Committee on Empowerment of Women was constituted in 1997.
+4.  The Parliamentary Committee on Empowerment of Women consists of 20 members of the Lok Sabha and 10 members of the Rajya Sabha.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) Which among the following are the merits of the Parliamentary Departmental Standing Committees constituted to scrutinize the budget proposals?
+5.  Legislative control is now more legal because the committees are established by law
+6.  Experts and specialists have been nominated to help the members of the Parliament
+7.  Legislative control is now much more close, continuous and in-depth
+8.  The Rajya Sabha and the opposition parties can play a greater role in exercising financial control
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following committees is not a Standing Committee of the Parliament?
+a)  Public Accounts Committee
+b)  Estimates Committee
+c)  Committee on Public Undertakings
+d)  Consultative Committee of the Ministry of Finance
+#QuestionEnd
+#AnswerStart
+Answer: d)  Consultative Committee of the Ministry of Finance
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Parliamentary Committees)                     | List-II (Functions)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Select Committee                                  | 1.  Allocates time for discussion on various items                 |
+| B.  Committee on Petitions                            | 2.  Considers the question o contempt of the House                 |
+| C.  Business Advisory Committee                       | 3.  Entertains representations from individuals                    |
+| D.  Estimates Committee                               | 4.  Scrutinises a bill clause by clause and suggests changes       |
+|                                                       | 5.  Examines departmental expenditure in the budget                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 3 1 5
+b)  3 4 1 5
+c)  4 3 5 2
+d)  3 4 5 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  4 3 1 5
+#AnswerEnd
+#QuestionStart
+Q6) The Chairman of the Public Accounts Committee of the Parliament is appointed by the:
+a)  Speaker of Lok Sabha
+b)  Prime Minister of India
+c)  President of India
+d)  Chairman of Rajya Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a)  Speaker of Lok Sabha
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following Parliamentary Committees consists exclusively of members of the Lok Sabha?
+a)  The Public Accounts Committee
+b)  The Estimates Committee
+c)  The Committee on Public Undertakings
+d)  The Committee on the Welfare of Scheduled Castes and Scheduled Tribes
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Estimates Committee
+#AnswerEnd
+#QuestionStart
+Q8) Which of the following committees are helped by the CAG in their work of exercising Parliamentary control over the executive?
+9.  Public Accounts Committee
+10.  Committee of Privileges
+11.  Estimates Committee
+12.  Committee on Public Undertakings
+Select the correct answer by using the codes given below:
+a)  1 and 4
+b)  1, 2 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following is the correct chronological order of the evolution of the given Committees?
+a)  Committee on Public Undertakings — Estimates Committee — Public Accounts Committee
+b)  Estimates Committee — Public Accounts Committee — Committee on Public Undertakings
+c)  Committee on Public Undertakings — Public Accounts Committee — Estimates Committee
+d)  Public Accounts Committee — Estimates Committee — Committee on Public Undertakings
+#QuestionEnd
+#AnswerStart
+Answer: d)  Public Accounts Committee — Estimates Committee — Committee on Public Undertakings
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following is a Parliamentary Standing Committee?
+a)  Committee on Draft Five-Year Plan
+b)  Railway Convention Committee
+c)  Business Advisory Committee
+d)  Joint Committee on Fertilizer Pricing
+#QuestionEnd
+#AnswerStart
+Answer: c)  Business Advisory Committee
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following statements regarding Public Accounts Committee:
+13.  It examines the Audit Report of the CAG
+14.  The suggestions made by the Committee are necessarily accepted by the Government
+15.  It ensures the observance of the canons of financial propriety in all transactions
+16.  The Committee functions in a non-partisan manner
+Which of these statements are correct?
+a)  1, 3 and 4
+b)  2, 3 and 4
+c)  1 and 2
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following committees recommended for the creation of Committee on Public Undertakings?
+a)  Krishna Menon Committee
+b)  Ashok Chanda Committee
+c)  Gorwala Committee
+d)  T. Krishnamachari Committee
+#QuestionEnd
+#AnswerStart
+Answer: a)  Krishna Menon Committee
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following pairs is not correctly matched?
+a)  Committee on Petitions: Standing Committee to inquire
+b)  Committee on Government Assurances: Standing Committee to scrutinize
+c)  Committee on Subordinate Legislation: Standing Committee to inquire
+d)  Select or Joint Committee on Bills: Ad hoc Committee
+#QuestionEnd
+#AnswerStart
+Answer: c)  Committee on Subordinate Legislation: Standing Committee to inquire
+#AnswerEnd
+#QuestionStart
+Q14) Which one of the following statements is not correct with regard to Parliamentary Committees?
+a)  The Public Accounts Committee and the Public Undertakings Committee are joint committees of both the Houses of Parliament.
+b)  Seventeen Departmentally Related Committees were set-up in early 1990s.
+c)  There are Standing and Ad hoc Committees.
+d)  The Estimates Committee and the Public Accounts Committee are always headed by a senior leader of the ruling party/coalition.
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Estimates Committee and the Public Accounts Committee are always headed by a senior leader of the ruling party/coalition.
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following committees scrutinize in detail the report of the Comptroller and Auditor-General of India?
+a)  Public Accounts Committee
+b)  Estimates Committee
+c)  Select Committee of Expenditure
+d)  Consultative Committee of the Finance Ministry
+#QuestionEnd
+#AnswerStart
+Answer: a)  Public Accounts Committee
+#AnswerEnd
+#QuestionStart
+Q16) The Speaker is the ex-officio Chairman of the:
+a)  Rules Committee
+b)  Committee of privileges
+c)  Committee on public undertakings
+d)  Committee on government assurances
+#QuestionEnd
+#AnswerStart
+Answer: a)  Rules Committee
+#AnswerEnd
+#QuestionStart
+Q17) Which of the following Committees consist of representatives of both the Houses namely Lok Sabha and Rajya Sabha?
+17.  Estimates Committee
+18.  Committee on Subordinate Legislation
+19.  Public Accounts Committee
+20.  Committee on Public Undertakings
+Select the correct answer using the codes given below:
+a)  1 and 4
+b)  1, 2 and 3
+c)  3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q18) Which of the following statements does not reflect the jurisdiction of the Estimates Committee?
+a)  It suggests alternative policies in order to bring efficiency and economy in administration
+b)  It examines whether the money is well laid out within the limits of the policy implied in the estimates
+c)  It suggests the form in which estimates are to be presented to Parliament
+d)  It helps in checking Governmental extravagance in making demands as its report is debated in the House
+#QuestionEnd
+#AnswerStart
+Answer: d)  It helps in checking Governmental extravagance in making demands as its report is debated in the House
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following committees is constituted by the Lok Sabha but comprises members of the Rajya Sabha also?
+a)  Business Advisory Committee
+b)  Committee of Privileges
+c)  Public Accounts Committee
+d)  Rules Committee
+#QuestionEnd
+#AnswerStart
+Answer: c)  Public Accounts Committee
+#AnswerEnd
+#QuestionStart
+Q20) The report of Public Accounts Committee is presented to the:
+a)  Prime Minister
+b)  Finance Minister
+c)  President
+d)  Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d)  Lok Sabha
+#AnswerEnd
+#QuestionStart
+Q21) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Parliamentary Committees)                     | List-II (Functions)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Rules Committee                                   | 1.  Examination of Appropriation Accounts                          |
+| B.  Public Accounts Committee                         | 2.  Considers matters of procedure in the House                    |
+| C.  Committee on Subordinate Legislation              | 3.  Examination of rules made by the executive departments under the Acts passed by the Parliament |
+| D.  Committee on Public Undertakings                  | 4.  Review of the working of the public sector undertakings        |
+|                                                       | 5.  Control of the department of public enterprises                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 2 3 5
+b)  2 1 3 4
+c)  3 4 1 2
+d)  5 1 2 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 1 3 4
+#AnswerEnd
+#QuestionStart
+Q22) The Parliament exercises final control on public finance:
+a)  Through the Public Accounts Committee
+b)  Through the Estimates Committee
+c)  Through the enactment of the Budget
+d)  Through the Comptroller and Auditor-General of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  Through the Public Accounts Committee
+#AnswerEnd
+#QuestionStart
+Q23) The issue of whether a commitment made by a Minister on the floor of the House has been fulfilled or not is decided by the:
+a)  Consultative Committee attached to the Ministry concerned
+b)  Select Committee dealing with the Ministry concerned
+c)  Political Affairs Committee of the Union Cabinet
+d)  Committee on Government Assurances
+#QuestionEnd
+#AnswerStart
+Answer: d)  Committee on Government Assurances
+#AnswerEnd
+#QuestionStart
+Q24) Which one of the following Parliamentary Committees act as a ‘watchdog’ on departmental expenditures and irregularities?
+a)  Estimates Committee
+b)  Committee on Public Undertakings
+c)  Public Accounts Committee
+d)  Committee on Government Assurances
+#QuestionEnd
+#AnswerStart
+Answer: c)  Public Accounts Committee
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following is/are true with respect to the Public Accounts Committee?
+21.  Its work is based on the audit reports of the CAG.
+22.  It examines the accounts of the Government of India for appropriations made by the Lok Sabha.
+23.  It examines the accounts of autonomous and semi-autonomous bodies.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2 and 3
+c)  1 and 2
+d)  Only 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q26) Consider the following statements:
+24.  Members of Rajya Sabha are not associated with the Committee on Public Undertakings.
+25.  Railway Convention Committee is an ad hoc Parliamentary Committee
+Which of these statements is/are correct?
+a)  Only 2
+b)  1 and 2
+c)  None
+d)  Only 1
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 2
+#AnswerEnd
+#QuestionStart
+Q27) Consider the following statements:
+26.  The Public Accounts Committee consists of 10 members from Lok Sabha and 5 members from Rajya Sabha.
+27.  The Public Accounts Committee examines both the Appropriation and Finance Reports submitted by the Comptroller and Auditor-General of India.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q28) When were 17 Departmental Related Standing Committees set up on the recommendations of the Rules Committee of the Lok Sabha?
+a)  1964
+b)  1977
+c)  1990
+d)  1993
+#QuestionEnd
+#AnswerStart
+Answer: d)  1993
+#AnswerEnd
+#QuestionStart
+Q29) Which one of the following is not a function of the Committee on Subordinate Legislation?
+a)  To evolve a systematic pattern of the terms of delegation
+b)  To improve the methods of publicity of the rules
+c)  To lay down rules and regulations on the table of the House
+d)  To achieve uniformity in rule-making procedures
+#QuestionEnd
+#AnswerStart
+Answer: c)  To lay down rules and regulations on the table of the House
+#AnswerEnd
+#QuestionStart
+Q30) Statement I:  The Annual Financial Statement presented in the Lok Sabha contains apart from the estimates of expenditure, ways and means to raise revenue.
+Statement II: After the Annual Financial Statement is presented in the Lok Sabha, the Estimates Committee examines it.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q31) Which one of the following statements is not correct?
+a)  The main function of the Public Accounts Committee is to examine the Report of the Comptroller and Auditor-General of India.
+b)  The Public Accounts Committee comprises Members of the Lok Sabha only.
+c)  A member of opposition can also be appointed as the Chairman of the Public Accounts Committee.
+d)  A member of the Public Accounts Committee can be re-elected for a second term.
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Public Accounts Committee comprises Members of the Lok Sabha only.
+#AnswerEnd
+#QuestionStart
+Q32) At present, the number of Standing Parliamentary Committees that exist to scrutinize the demands for grants of various ministries is:
+a)  Twenty-two
+b)  Twenty-six
+c)  Twenty-four
+d)  Twenty-eight
+#QuestionEnd
+#AnswerStart
+Answer: c)  Twenty-four
+#AnswerEnd
+#QuestionStart
+Q33) The Estimates Committee of the Lok Sabha:
+a)  Prepares estimates of expenditure of the Central Government
+b)  Examines the accounts of Departments of Government of India
+c)  Prevents unauthorized collection of taxes
+d)  Suggests economies to be made in the Central administration
+#QuestionEnd
+#AnswerStart
+Answer: d)  Suggests economies to be made in the Central administration
+#AnswerEnd

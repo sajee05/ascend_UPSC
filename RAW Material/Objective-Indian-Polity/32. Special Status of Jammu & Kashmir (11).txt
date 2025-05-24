@@ -1,0 +1,128 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Part III of the Constitution of India dealing with Fundamental Rights is not applicable to the state of Jammu & Kashmir.
+2.  Part IV of the Constitution of India dealing with Directive Principles is applicable to the state of Jammu & Kashmir with some exceptions and conditions.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The Constitution of J & K provides for Governor’s Rule in the state.
+4.  The Constitution of J & K declares Kashmiri as the official language of the state.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following is correct?
+a)  The High Court of J & K can issue writs only for the enforcement of the fundamental rights and not for any other purpose.
+b)  The High Court of J & K can issue writs not only for the enforcement of the fundamental rights but also for any other purpose.
+c)  The High Court of J & K can issue writs for any purpose except for enforcement of the fundamental rights.
+d)  The High Court of J & K can issue writs neither for the enforcement of the fundamental rights nor for any other purpose.
+#QuestionEnd
+#AnswerStart
+Answer: a)  The High Court of J & K can issue writs only for the enforcement of the fundamental rights and not for any other purpose.
+#AnswerEnd
+#QuestionStart
+Q4) The power of the President of India to declare that Article 370 (under which the state of J & K enjoys a special status) shall cease to be operative, is subject to:
+5.  Public notification
+6.  Recommendation of Parliament
+7.  Advice of the Union Council of Ministers
+8.  Recommendation of the Constituent Assembly of J & K
+Of these statements:
+a)  1 and 3 are correct
+b)  1 and 2 are correct
+c)  2 and 4 are correct
+d)  1 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 4 are correct
+#AnswerEnd
+#QuestionStart
+Q5) Originally, the head of the state in Jammu & Kashmir was designated as:
+a)  Sadar-i-Azam
+b)  Sadar-i-Riyasat
+c)  Wazir-i-Riyasat
+d)  Wazir-i-Azam
+#QuestionEnd
+#AnswerStart
+Answer: b)  Sadar-i-Riyasat
+#AnswerEnd
+#QuestionStart
+Q6) Which part of the Constitution of India grants a special status to the state of Jammu & Kashmir?
+a)  Part XX
+b)  Part XXI
+c)  Part XXII
+d)  Part XIX
+#QuestionEnd
+#AnswerStart
+Answer: b)  Part XXI
+#AnswerEnd
+#QuestionStart
+Q7) According to the Constitution of India, which of the following statement(s) is/are not correct with regard to Jammu & Kashmir?
+9.  Provisions of Article 368 cannot be extended to J & K unless it is extended by an order of the President.
+10.  No alteration of the boundaries of the State without the consent of the Legislature of the State of J & K.
+11.  The Union has power to make a proclamation of financial emergency with respect to the State of J & K.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 2
+c)  3 only
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 only
+#AnswerEnd
+#QuestionStart
+Q8) In India, there is a single constitution for the Union and the states with the exception of:
+a)  Sikkim
+b)  Jammu & Kashmir
+c)  Nagaland
+d)  Tamil Nadu
+#QuestionEnd
+#AnswerStart
+Answer: b)  Jammu & Kashmir
+#AnswerEnd
+#QuestionStart
+Q9) The Constitution of Jammu & Kashmir came into force on:
+a)  January 26, 1950
+b)  January 26, 1952
+c)  January 26, 1955
+d)  January 26, 1957
+#QuestionEnd
+#AnswerStart
+Answer: d)  January 26, 1957
+#AnswerEnd
+#QuestionStart
+Q10) With respect to the state of Jammu & Kashmir, the Article 370 of the Constitution of India contains:
+a)  Special Provisions
+b)  Transitional Provisions
+c)  Temporary Provisions
+d)  Emergency Provisions
+#QuestionEnd
+#AnswerStart
+Answer: c)  Temporary Provisions
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following statements:
+12.  The Fifth Schedule of the Constitution of India (dealing with administration and control of scheduled areas and scheduled tribes) is applicable to the state of Jammu & Kashmir.
+13.  The Sixth Schedule of the Constitution of India (dealing with administration of tribal areas) is not applicable to the state of Jammu & Kashmir.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd

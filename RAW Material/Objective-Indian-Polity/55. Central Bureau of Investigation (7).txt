@@ -1,0 +1,75 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Director of Central Bureau of Investigation as Inspector-General of Police, Delhi Special Police Establishment, is responsible for the administration of the organisation.
+2.  With  the  enactment  of  CVC  Act,  2003,  the  superintendence  of  Delhi  Special  Police Establishment vests with the Central Government save investigations of offences under the Prevention of Corruption Act, 1988, in which, the superintendence vests with the Central Vigilance Commission.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) The Central Bureau of Investigation was set-up by:
+a)  An Act of the Parliament
+b)  An Amendment to the Constitution
+c)  A Resolution of the Home Ministry
+d)  A Resolution of the Personnel Ministry
+#QuestionEnd
+#AnswerStart
+Answer: c)  A Resolution of the Home Ministry
+#AnswerEnd
+#QuestionStart
+Q3) Statement I:  The Central Bureau of Investigation (CBI) is a statutory body.
+Statement II: The CBI derives its powers from the Delhi Special Police Establishment Act, 1946.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Statement I is false but Statement II is true.
+#AnswerEnd
+#QuestionStart
+Q4) The Central Bureau of Investigation was set-up in:
+a)  1962
+b)  1963
+c)  1964
+d)  1965
+#QuestionEnd
+#AnswerStart
+Answer: b)  1963
+#AnswerEnd
+#QuestionStart
+Q5) The Central Bureau of Investigation comes under the administrative control of the:
+a)  Ministry of Home Affairs
+b)  Cabinet Secretariat
+c)  Prime Minister’s Office
+d)  Ministry of Personnel
+#QuestionEnd
+#AnswerStart
+Answer: d)  Ministry of Personnel
+#AnswerEnd
+#QuestionStart
+Q6) Which of the following Committees/Reports recommended for the establishment of the Central Bureau of Investigation?
+a)  Santhanam Committee
+b)  Administrative Reforms Commission
+c)  P.H. Appleby Report
+d)  A.D. Gorwala Report
+#QuestionEnd
+#AnswerStart
+Answer: a)  Santhanam Committee
+#AnswerEnd
+#QuestionStart
+Q7) Who of the following is the chairperson of the Committee recommending the appointment of the Director of the Central Bureau of Investigation?
+a)  Cabinet Secretary
+b)  Personnel Secretary
+c)  Home Secretary
+d)  Central Vigilance Commissioner
+#QuestionEnd
+#AnswerStart
+Answer: d)  Central Vigilance Commissioner
+#AnswerEnd
