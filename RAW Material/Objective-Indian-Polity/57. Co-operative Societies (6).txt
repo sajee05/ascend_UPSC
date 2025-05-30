@@ -1,0 +1,76 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Parliament may make provisions for the incorporation and regulation of co-operative societies.
+2.  The maximum number of directors of a co-operative society shall not exceed twenty-five.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following constitutional amendment acts gave a constitutional status and protection to the co-operative societies?
+a)  95th Amendment
+b)  96th Amendment
+c)  97th Amendment
+d)  98th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c)  97th Amendment
+#AnswerEnd
+#QuestionStart
+Q3) Which part of the Constitution of India contain provisions with respect to the co-operative societies?
+a)  Part IX
+b)  Part IX-B
+c)  Part IX-A
+d)  Part XI
+#QuestionEnd
+#AnswerStart
+Answer: b)  Part IX-B
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following sets of the Articles of the Constitution of India deal with the co-operative societies?
+a)  Articles 243-ZH to 243-ZT
+b)  Articles 243-ZI to 243-ZT
+c)  Articles 243-ZH to 243-ZS
+d)  Articles 243-ZG to 243-ZS
+#QuestionEnd
+#AnswerStart
+Answer: a)  Articles 243-ZH to 243-ZT
+#AnswerEnd
+#QuestionStart
+Q5) Statement I:  The accounts of every co-operative society shall be audited within one year of the close of the financial year.
+Statement II: The audit report of the accounts of an apex co-operative society shall be laid before the state legislature.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Statement I is false but Statement II is true.
+#AnswerEnd
+#QuestionStart
+Q6) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Articles Related to Co-operative Societies)   | List-II (Matter Dealt With)                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Article 243-ZI                                    | 1.  Right of a Member to get Information                           |
+| B.  Article 243-ZO                                    | 2.  Incorporation of Co-operative Societies                        |
+| C.  Article 243-ZR                                    | 3.  Supersession and Suspension of Board                           |
+| D.  Article 243-ZL                                    | 4.  Election of Members of Board                                   |
+|                                                       | 5.  Application to Multi-state Co-operative Societies              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 3 2
+b)  2 5 1 4
+c)  2 1 5 3
+d)  1 5 3 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 1 5 3
+#AnswerEnd

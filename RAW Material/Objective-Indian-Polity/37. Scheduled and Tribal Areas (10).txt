@@ -1,0 +1,100 @@
+#QuestionStart
+Q1) Who/Which of the following is empowered to declare an area to be a scheduled area?
+a)  Governor of the State
+b)  Legislative Assembly of the State
+c)  Parliament of India
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  President of India
+#AnswerEnd
+#QuestionStart
+Q2) Sixth Schedule to the Constitution of India makes special administrative provisions in regard to the tribal areas in:
+a)  Assam, Meghalaya, Tripura and Mizoram
+b)  Meghalaya, Assam, Nagaland and Manipur
+c)  Tripura, Manipur, Mizoram and Meghalaya
+d)  Arunanchal Pradesh, Nagaland, Assam and Tripura
+#QuestionEnd
+#AnswerStart
+Answer: a)  Assam, Meghalaya, Tripura and Mizoram
+#AnswerEnd
+#QuestionStart
+Q3) What is the maximum number of members in a Tribes Advisory Council?
+a)  20 members
+b)  25 members
+c)  28 members
+d)  34 members
+#QuestionEnd
+#AnswerStart
+Answer: a)  20 members
+#AnswerEnd
+#QuestionStart
+Q4) As per the sixth schedule to the Constitution of India, the rules for the first Constitution of District and Regional Councils are prepared by:
+a)  The Ministry of Home, Government of India
+b)  The Chief Minister in consultation with existing tribal councils or other representative tribal organisations of the region
+c)  The Governor in consultation with existing tribal councils or other representative tribal organisations of the region
+d)  The State Legislature
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Governor in consultation with existing tribal councils or other representative tribal organisations of the region
+#AnswerEnd
+#QuestionStart
+Q5) Which Article of the Constitution of India envisages a special system of administration for scheduled areas and tribal areas?
+a)  Article 242
+b)  Article 244
+c)  Article 246
+d)  Article 248
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 244
+#AnswerEnd
+#QuestionStart
+Q6) Which/Who of the following can appoint a commission to examine and report on any matter relating to the administration of the autonomous districts or regions?
+a)  Legislative Assembly of the State
+b)  Governor of the State
+c)  President of India
+d)  Parliament of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  Governor of the State
+#AnswerEnd
+#QuestionStart
+Q7) Which schedule of the Constitution of India deals with the administration and control of scheduled areas and scheduled tribes?
+a)  Fourth Schedule
+b)  Fifth Schedule
+c)  Sixth Schedule
+d)  Seventh Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b)  Fifth Schedule
+#AnswerEnd
+#QuestionStart
+Q8) The Autonomous District Council, under the Sixth Schedule of the Constitution, is not operative in which one of the following states of North-East India?
+a)  Assam
+b)  Tripura
+c)  Nagaland
+d)  Meghalaya
+#QuestionEnd
+#AnswerStart
+Answer: c)  Nagaland
+#AnswerEnd
+#QuestionStart
+Q9) How many members of a district council are nominated by the Governor of the State?
+a)  2 members
+b)  4 members
+c)  5 members
+d)  7 members
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 members
+#AnswerEnd
+#QuestionStart
+Q10) Who/Which of the following is empowered to direct that a law of Parliament does not apply to a scheduled area?
+a)  President of India
+b)  Supreme Court of India
+c)  High Court of the State
+d)  Governor of the State
+#QuestionEnd
+#AnswerStart
+Answer: d)  Governor of the State
+#AnswerEnd

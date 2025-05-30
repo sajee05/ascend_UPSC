@@ -1,0 +1,317 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The First Amendment to the Constitution of India was made in 1955.
+2.  The First Amendment to the Constitution of India made some changes in Article 19 and Article 31.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following statements is/are correct?
+1.  The constitutional remedy under Article 32 is available only in case of fundamental rights, not in the case of rights which follow from some other provision in the Constitution.
+2.  Both the Supreme Court and High Courts can issue the writs of habeas corpus, mandamus, prohibition, certiorari and quo-warranto only for the purpose of enforcement of fundamental rights.
+Select the correct answer from the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+1.  The Chairman and the members of the UPSC are appointed by the President.
+2.  The Chairman and the members of the UPSC are eligible for further employment under the Government.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q4) Where was the first position of ombudsman instituted to safeguard the rights of citizens?
+a)  Austria
+b)  Sweden
+c)  Finland
+d)  Denmark
+#QuestionEnd
+#AnswerStart
+Answer: b)  Sweden
+#AnswerEnd
+#QuestionStart
+Q5) Consider the following statements:
+1.  The Constitution of India classifies the members of the Council of Ministers at the Centre into different ranks.
+2.  A member of one House of the Parliament who has been chosen as a Union Minister does not have the right to vote in the House of which he is not a member.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q6) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provision of the Constitution of India)       | List-II (Source)                                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Amendment of the Constitution                     | 1.  Constitution of Germany                                        |
+| B.  Directive Principles                              | 2.  Constitution of Canada                                         |
+| C.  Emergency Powers of the President                 | 3.  Constitution of South Africa                                   |
+| D.  The Union-State Relations                         | 4.  Irish Constitution                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 2 4 3
+b)  3 4 1 2
+c)  1 4 2 3
+d)  3 1 4 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 4 1 2
+#AnswerEnd
+#QuestionStart
+Q7) Which of the following is not reserved by the Governor for the consideration of the President?
+a)  Bills affecting powers of the High Courts
+b)  Bills relating to compulsory acquisition of property
+c)  Bills seeking to impose restrictions on the inter-state trade
+d)  Bills relating to imposition of taxes on agricultural income.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Bills relating to imposition of taxes on agricultural income.
+#AnswerEnd
+#QuestionStart
+Q8) The Supreme Court does not have original jurisdiction regarding a dispute between:
+a)  The Government of India and a State or States
+b)  The Government of India and one State on one side and one or more States on the other side
+c)  Two States
+d)  A citizen and a State
+#QuestionEnd
+#AnswerStart
+Answer: d)  A citizen and a State
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following are included in the non-tax revenue of the municipal bodies?
+1.  Toll on new bridges
+2.  Fees and fines
+3.  Income from enterprises
+4.  Octroi
+Select the correct answer from the codes given below:
+a)  1 and 3
+b)  2, 3 and 4
+c)  2 and 4
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q10) Statement I :  State governments are obliged to appoint a State Finance Commission under the Constitution.
+Statement II: The quantum of money to be paid annually by the state governments to the local bodies is determined by the State Finance Commission.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q11) Which one of the following pairs is not correctly matched?
+    Committee Subject
+a)  L.M. Singhvi Committee, 1986 : Constitutional Status for Panchayati Raj
+b)  Santhanam Committee, 1964 : Prevention of Corruption
+c)  Satish Chandra Committee, 1988 : Civil Services Examination, Union Public Service Commission
+d)  Verma Committee, 1999 : Parliamentary control over public expenditure
+#QuestionEnd
+#AnswerStart
+Answer: d)  Verma Committee, 1999 : Parliamentary control over public expenditure
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following is not expressly covered as a Fundamental Right under the Constitution of India?
+a)  Right to form association
+b)  Right to equality before law
+c)  Right to freedom of press
+d)  Right to assemble peaceably and without arms
+#QuestionEnd
+#AnswerStart
+Answer: c)  Right to freedom of press
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following statements:
+The Committee on Public Enterprises:
+1.  Is a creation of Parliament
+2.  Is a constitutional body
+3.  Was created by the Cabinet
+4.  Has 22 members
+Which of these statements are correct?
+a)  1 and 2
+b)  2 and 3
+c)  3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q14) Who among the following determines the authority who shall readjust the allocation of seats in the Lok Sabha to the states, and division of each State into territorial constituencies?
+a)  The President of India
+b)  The Parliament of India
+c)  The Chief Election Commissioner of India
+d)  The Lok Sabha alone
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Parliament of India
+#AnswerEnd
+#QuestionStart
+Q15) Which of the following are the functions of the Chief Minister?
+1.  To communicate to the Central Government all the decisions of the Council of Ministers relating to the administration of the State.
+2.  To instruct District Collectors to carry out all the decisions of the Council of Ministers relating to the administration of the State.
+3.  To communicate to the Governor all decisions of the Council of Ministers relating to the administration of the State.
+4.  To communicate to the Governor all decisions of the Council of Ministers regarding proposals for legislation.
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  1 and 4
+c)  2 and 3
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q16) Ashok Mehta Committee Report, 1978 recommended Constitution of:
+a)  Two tiers of Panchayati Raj institutions at the village and block levels
+b)  Two tiers of Panchayati Raj institutions at Mandal (group of villages) and district levels
+c)  Three tiers of Panchayati Raj institutions at the village, block and district levels
+d)  Three tiers of Panchayati Raj institutions at the village, district and regional levels
+#QuestionEnd
+#AnswerStart
+Answer: b)  Two tiers of Panchayati Raj institutions at Mandal (group of villages) and district levels
+#AnswerEnd
+#QuestionStart
+Q17) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Officials)                                    | List-II (Functions)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  The Speaker                                       | 1.  Fixes the time limit for discussion of Demands                 |
+| B.  The Finance Minister                              | 2.  Examines the financial operation of the executive              |
+| C.  The President                                     | 3.  Makes mention in the Parliament about the annual financial statement |
+| D.  The Comptroller and Auditor-General               | 4.  Participates in the formulation of Five Year Plans             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 3 2
+b)  4 1 2 3
+c)  1 4 2 3
+d)  4 1 3 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 4 3 2
+#AnswerEnd
+#QuestionStart
+Q18) In which one of the following cases, the Supreme Court gave verdict which has a direct bearing on the Centre-State relations?
+a)  Keshavananda Bharati case
+b)  Vishakha case
+c)  S R Bommai case
+d)  Indira Sawhney case
+#QuestionEnd
+#AnswerStart
+Answer: c)  S R Bommai case
+#AnswerEnd
+#QuestionStart
+Q19) Consider the following statements:
+The Comptroller and Auditor-General of India is responsible for the audit of the accounts of:
+1.  The Union Government
+2.  State Governments
+3.  The Governments of Union Territories
+4.  The urban and rural local bodies
+Which of these statements are correct?
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1, 3 and 4
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q20) Who among the following come under the jurisdiction of the Central Vigilance Commission?
+1.  Members of All-India Services serving in connection with the affairs of the Union and Group A officers of the Central Government.
+2.  Senior officers in the Public Sector Undertakings of the Central Government.
+3.  Senior officers in the Public Sector Banks.
+4.  Senior officers in the Insurance Companies in the Public Sector.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2, 3 and 4
+c)  Only 1 and 2
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q21) Which one of the following statements is not correct?
+a)  A Minister is appointed by the Governor on the advice of the Chief Minister.
+b)  Before a Minister enters upon his office, the Governor shall administer to him the oath of office and of secrecy.
+c)  There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor who shall, in the exercise of his functions, act in accordance with such advice.
+d)  Only the Governor of Jammu & Kashmir is vested with the power to impose Governor’s rule in Jammu & Kashmir.
+#QuestionEnd
+#AnswerStart
+Answer: c)  There shall be a Council of Ministers with the Chief Minister at the head to aid and advise the Governor who shall, in the exercise of his functions, act in accordance with such advice.
+#AnswerEnd
+#QuestionStart
+Q22) The Legislative Council of a state can be abolished or created by the:
+a)  President of India on the recommendation of the Parliament
+b)  Legislative Assembly of the state concerned
+c)  Parliament on the recommendation of the Governor of the State concerned
+d)  Parliament on the recommendation of the Legislative Assembly of the state concerned
+#QuestionEnd
+#AnswerStart
+Answer: d)  Parliament on the recommendation of the Legislative Assembly of the state concerned
+#AnswerEnd
+#QuestionStart
+Q23) Assertion (A): Whenever Government seeks to replace an Ordinance by a Bill, a statement explaining the circumstances which necessitated promulgation of Ordinance must accompany the Bill.
+Reason (R):  President shall have the power to legislate on any subject through an Ordinance which is co-extensive with the legislative powers of the Parliament.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q24) For the purpose of inquiring into and advising upon inter-state dispute, if at any time, it appears to the President that the public interest would be served by the establishment of such council, he is empowered to establish which one of the following?
+a)  Zonal Council
+b)  Inter-State Council
+c)  Inter-State Zonal Council
+d)  The Central Inter-Zonal Council
+#QuestionEnd
+#AnswerStart
+Answer: b)  Inter-State Council
+#AnswerEnd
+#QuestionStart
+Q25) Consider the following statements:
+1.  A Bill pending in the Parliament shall not lapse by reason of the prorogation of the Houses.
+2.  A Bill pending in the Council of States which has not been passed by the House of the People shall not lapse on dissolution of the House of the People.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd

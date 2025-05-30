@@ -1,0 +1,324 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Attorney-General of India has the right of audience in all courts in the territory of India.
+2.  Attorney-General of India has the right to take part in the proceedings of the Parliament without the right to vote.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following expenditures are charged on the Consolidated Fund of India?
+1.  Emoluments and allowances of the President of India
+2.  Salaries and allowances of the Chairman of the Council of States
+3.  Salaries and allowances of the Speaker of the House of the People
+4.  The pensions payable to or in respect of Judges of any High Court
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1,2 and 3, only
+c)  1, 3 and 4, only
+d)  2 and 4, only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) The Chief Election Commissioner of India can be removed from office during his tenure:
+a)  By the Chief Justice of India if some charges are proved against him
+b)  By the President on the basis of a resolution of the Union Cabinet
+c)  By a Committee consisting of Chief Justice of India, Law Minister of India and the Vice-President of India
+d)  By the President on the basis of resolution passed by the Parliament by two-thirds majority
+#QuestionEnd
+#AnswerStart
+Answer: d)  By the President on the basis of resolution passed by the Parliament by two-thirds majority
+#AnswerEnd
+#QuestionStart
+Q4) Which of the statements given below is/are correct?
+1.  The  Speaker  immediately  vacates  his  office  whenever  the  State  Legislative  Assembly  is dissolved.
+2.  No Member of a State Legislative Assembly shall be liable to any proceedings in any court in respect of anything said or any vote given by him in the legislature.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following pairs is correctly matched?
+a)  Republic : Head of the State is hereditary monarch
+b)  Sovereign : Constitution rests on the people’s will
+c)  Democratic : Constitution does not recognise legal supremacy of another country
+d)  Secular : State is without any religion of its own
+#QuestionEnd
+#AnswerStart
+Answer: d)  Secular : State is without any religion of its own
+#AnswerEnd
+#QuestionStart
+Q6) Which of the following statements with regard to financial emergency is/are correct?
+1.  It is required to be approved by both the Houses of the Parliament within one month.
+2.  Once approved by both the Houses of the Parliament, it remains valid for six months.
+3.  Salary of any government official including the Supreme Court judges can be reduced during financial emergency.
+4.  During financial emergency, the executive authority of the Union shall extend to the giving of directions to any State to observe such canons of financial propriety as may be specified in the directions.
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1 and 4
+c)  3 and 4
+d)  Only 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 and 4
+#AnswerEnd
+#QuestionStart
+Q7) The purpose of Directive Principles of State Policy is to:
+a)  Lay down positive instructions which would guide State Policy at all levels
+b)  Implement Gandhiji’s idea for a decentralised state
+c)  Check the use of arbitrary powers by the Government
+d)  Promote welfare of the backward sections of the society
+#QuestionEnd
+#AnswerStart
+Answer: a)  Lay down positive instructions which would guide State Policy at all levels
+#AnswerEnd
+#QuestionStart
+Q8) Which of the following issues were included in the terms of reference of the second Commission on Centre-State Relations set up by the Government of India?
+1.  Inter-linking of rivers
+2.  Devolution of powers and autonomy to Panchayati Raj Institutions
+3.  Freeing Inter-State trade
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q9) Article 368 of the Constitution of India lays down:
+a)  Power of the Parliament to amend the Constitution
+b)  Power of the Parliament to amend the Constitution and procedure therefore
+c)  Procedure for amendment of the Constitution
+d)  Limitation on the power of the Parliament to amend the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: b)  Power of the Parliament to amend the Constitution and procedure therefore
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+1.  Ministry of Parliamentary Affairs constitutes Consultative Committees of Members of both the Houses of Parliament.
+2.  The  main  purpose  of  these  Committees  is  to  provide  a  forum  for  formal  discussions between the Government and Members of Parliament on policies and programmes of the Government.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q11) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Articles of the Constitution)                 | List-II (Fundamental Rights)                                       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Article 20                                        | 1.  Administration of minority educational institutions            |
+| B.  Article 30                                        | 2.  Equal opportunity in State Employment                          |
+| C.  Article 16                                        | 3.  Retrospective operation of criminal law                        |
+| D.  Article 15                                        | 4.  Protection against discrimination                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 2 1
+b)  2 1 3 4
+c)  3 1 2 4
+d)  2 4 3 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 1 2 4
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements:
+1.  In the Lok Sabha, 12 members are nominated by the President of India.
+2.  In the Rajya Sabha, a maximum of 2 members of the Anglo-Indian community can be nominated by the President of India.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following matters stands excluded from the jurisdiction of Inter-State Council?
+a)  Enquiring into and advising upon disputes which may have arisen between the States
+b)  Adjudication of any dispute or complaint with respect to the use, distribution or control of water of any inter-state river or river-valley
+c)  Investigation and discussion of subjects in which some or all of the States or the Union and one or more States, have a common interest
+d)  Recommendation on any such subject, in particular, recommendation for a better coordination of policy and action with respect to that subject
+#QuestionEnd
+#AnswerStart
+Answer: b)  Adjudication of any dispute or complaint with respect to the use, distribution or control of water of any inter-state river or river-valley
+#AnswerEnd
+#QuestionStart
+Q14) Consider the following duties:
+1.  To value and preserve the rich heritage of our composite culture
+2.  To safeguard private property
+3.  To develop scientific temper, humanism and spirit of enquiry and reform
+Of these, fundamental duties include:
+a)  1, 2 and 3
+b)  1 and 2
+c)  2 and 3
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following statements is correct?
+The members of the Constituent Assembly were:
+a)  Elected through indirect election by the members of the Provincial Legislative Assemblies
+b)  Elected directly by the people
+c)  Nominated by the Government
+d)  Elected by the local self-government bodies
+#QuestionEnd
+#AnswerStart
+Answer: a)  Elected through indirect election by the members of the Provincial Legislative Assemblies
+#AnswerEnd
+#QuestionStart
+Q16) Assertion (A): The Government cannot be held liable for the torts committed by its servants.
+Reason (R):  It was affirmed by the Supreme Court that, if injury is caused to any citizen in consequence of negligent act of Government servant, the Government cannot claim sovereign immunity.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true.
+#AnswerEnd
+#QuestionStart
+Q17) Which of the following features is/are contrary to the norms of a federal polity?
+1.  Common All-India Services
+2.  Single integrated judiciary
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q18) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Constitutional Amendment Act)                 | List-II (Broad Subject)                                            |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  52nd Amendment Act                                | 1.  National Commission for Scheduled Castes and Scheduled Tribes  |
+| B.  57th Amendment Act                                | 2.  Voting age reduction                                           |
+| C.  61st Amendment Act                                | 3.  Reservation of Seats for Scheduled Tribes in the Legislative Assemblies of Nagaland, Meghalaya, Mizoram and Arunachal Pradesh |
+| D.  65th Amendment Act                                | 4.  Anti-defection law                                             |
+|                                                       | 5.  Municipalities                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 1 2 3
+b)  2 3 5 1
+c)  4 3 2 1
+d)  2 1 5 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  4 3 2 1
+#AnswerEnd
+#QuestionStart
+Q19) Statement I:  The  fundamental  rights  protect  the  rights  and  liberties  of  people  against encroachment by the legislative and executive wings of the government.
+Statement II: The fundamental rights guarantee the rights of the citizens only.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Statement I is true but Statement II is false.
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following statements with respect to the Comptroller and Auditor-General of India:
+1.  He shall only be removed from office in like manner and on the like grounds as a judge of the Supreme Court.
+2.  He shall not be eligible for further office either under the Government of India or under the Government of any State after he has ceased to hold his office.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q21) Which one of the following is not within the purview of the functions of a State Public Service Commission?
+a)  Consultation relating to recruitment to civil services
+b)  Consultation in relation to promotions and transfers from one service to the other
+c)  Consultation in relation to reservation of appointments or posts in favour of any backward class of citizens
+d)  Consultation in relation to disciplinary matters affecting civil servants
+#QuestionEnd
+#AnswerStart
+Answer: c)  Consultation in relation to reservation of appointments or posts in favour of any backward class of citizens
+#AnswerEnd
+#QuestionStart
+Q22) Consider the following statements:
+1.  The President of India may be removed from his office before expiry of his term for violation of the Constitution.
+2.  The impeachment charge against the President may be preferred by either House of the Parliament.
+3.  For the resolution of impeachment, votes of two-thirds of the Members of the House present and voting are required.
+Which of the statements given above is/are correct?
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  only 1
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q23) A writ of Prohibition is an order issued by the Supreme Court or High Court which:
+a)  Affects the subject of production and consumption of liquor
+b)  Prohibits the police from arresting a person
+c)  Forbids the administrative authority from taking a particular action
+d)  Prohibits a quasi-judicial authority from proceeding with a case
+#QuestionEnd
+#AnswerStart
+Answer: d)  Prohibits a quasi-judicial authority from proceeding with a case
+#AnswerEnd
+#QuestionStart
+Q24) Which of the following statements with respect to the judiciary in India is/are correct?
+1.  Unlike in the United States, India has not provided for a double system of courts.
+2.  Under the Constitution of India, there is a single integrated system of courts for the Union as well as the States.
+3.  The organisation of the subordinate judiciary varies slightly from State to State.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 2
+c)  1, 2 and 3
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q25) Consider the following statements:
+1.  The Preamble of the Constitution of India can be amended by the Parliament up to any extent barring its basic features.
+2.  The Preamble can be amended only by a special majority of the Parliament and ratification by legislatures of half of the States.
+3.  The Preamble has no role to play in the interpretation of any provision of the Constitution.
+Which of the statements given above is/are correct?
+a)  1, 2 and 3
+b)  Only 1
+c)  2 and 3
+d)  Only 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 1
+#AnswerEnd

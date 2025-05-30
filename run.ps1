@@ -4,8 +4,8 @@ Start-Process powershell -ArgumentList "npm run dev" -WindowStyle Minimized
 # Wait a few seconds for the server to start (optional tweak as per your needs)
 Start-Sleep -Seconds 1
 
-# Open the app in the default browser
-Start-Process "http://localhost:8000"
+# Open the app in Microsoft Edge app mode
+Start-Process -FilePath "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" -ArgumentList "--app=http://localhost:8000"
 
 # Minimize this current PowerShell window
 Add-Type @"

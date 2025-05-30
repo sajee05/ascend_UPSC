@@ -1,0 +1,433 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  A retired Supreme Court Judge cannot act as a Judge of the Supreme Court even for a temporary period.
+2.  A High Court Judge may be appointed as an ad hoc Judge of the Supreme Court for a temporary period.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The Supreme Court has original jurisdiction in any dispute between the Government of India and one or more States.
+4.  The Supreme Court has original jurisdiction in any dispute between the Government of India and any State or States on one side and one or more other States on the other.
+5.  The Supreme Court has original jurisdiction in any dispute between the Government of India and any corporation or individual on one side and one or more States on the other.
+6.  The Supreme Court has original jurisdiction in any dispute between two or more States.
+Which of these statements are correct?
+a)  1 and 2
+b)  1, 2 and 4
+c)  3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q3) In which of the following categories of cases, the Supreme Court of India has the power to decide?
+7.  A reference made by the President on a question of law or fact.
+8.  A case involving interpretation of the Constitution.
+9.  A case involving a substantial question of law of general importance.
+10.  A case where the constitutionality of any law has been challenged.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1, 3 and 4
+c)  1, 2 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements:
+11.  The Supreme Court of India can sit only in Delhi.
+12.  The Supreme Court of India can sit in places other than Delhi which the Chief Justice of India may appoint with the approval of the President.
+13.  The Parliament may make provisions for conferring supplemental powers upon the Supreme Court.
+Which of the statements given above is/are correct?
+a)  1 and 3
+b)  2 and 3
+c)  Only 2
+d)  Only 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q5) Assertion (A): The Supreme Court is a Court of Record.
+Reason (R):  Once a Court is made a Court of Record, its power to punish for its contempt necessarily follows from that position.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q6) In the appointment of the Judges of the Supreme Court, the recommendations of the collegium consisting of the Chief Justice of India and four of the senior most Judges of the Supreme Court is binding on the President of India, because:
+a)  It is so provided in the Constitution of India
+b)  It has been the consistent practice for a long time
+c)  It has been laid down by the Parliament
+d)  It has been laid down by the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: d)  It has been laid down by the Supreme Court
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following statements regarding the exercise of judicial review is not correct?
+a)  A case must be brought before the Supreme Court regarding the validity of a law.
+b)  Unanimous opinion of all the judges is necessary for declaring a law null and void.
+c)  Legislative enactments and executive orders may be struck down by the Supreme Court.
+d)  The power is implicit in the provisions of Article 13 of the Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Unanimous opinion of all the judges is necessary for declaring a law null and void.
+#AnswerEnd
+#QuestionStart
+Q8) Article 141 of the Constitution lays down that the law declared by Supreme Court shall be binding on all courts within the territory of India. Therefore, the Supreme Court:
+a)  Is bound by its earlier decisions as the expression “all courts” include Supreme Court also.
+b)  Is not bound by its own decisions and may reverse a previous decision.
+c)  Can reverse a previous decision only when a new legislation is enacted having the effect of abrogating decision.
+d)  Can reverse a previous decision only when that previous decision was given as a result of overlooking another previous decision.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Is not bound by its own decisions and may reverse a previous decision.
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following is directly related to the Appellate jurisdiction of the Supreme Court of India?
+a)  Appeals made in civil, criminal and constitutional cases
+b)  Appeals made in constitutional cases only
+c)  Adjudication of disputes between the Union and the States
+d)  Adjudication of disputes between the States
+#QuestionEnd
+#AnswerStart
+Answer: a)  Appeals made in civil, criminal and constitutional cases
+#AnswerEnd
+#QuestionStart
+Q10) How can the number of Judges in the Supreme Court of India be increased?
+a)  By a Presidential notification
+b)  By a Parliamentary Act
+c)  By an Amendment of the Constitution of India
+d)  By a Representation from the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: b)  By a Parliamentary Act
+#AnswerEnd
+#QuestionStart
+Q11) Assertion (A): Judicial  Review  is  a  process  to  restrain  the  executive  or  the  legislature  from exercising power which may not be sanctioned by the Constitution.
+Reason (R):  The source of the power of judicial review is Article 13 of the Constitution.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements:
+14.  Parliament can extend, but cannot curtail the jurisdiction and power of the Supreme Court.
+15.  No discussion can take place in Parliament with respect to the conduct of any judge of the Supreme Court in the discharge of his duties.
+16.  A retired judge of the Supreme Court cannot appear or plead in any court or before any authority within the territory of India.
+17.  The  salaries  and  allowances  of  the  judges  of  the  Supreme  Court  are  charged  on  the Consolidated Fund of India.
+Which of these statements are correct?
+a)  1, 2, 3 and 4
+b)  1 and 2
+c)  1 and 3
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following categories of disputes is excluded from the original jurisdiction of the Supreme Court?
+a)  Between the Government of India and one or more States
+b)  Between two or more States inter se
+c)  Between residents of two or more States
+d)  Between the Government of India and one or more states on one side and one or more other States on the other
+#QuestionEnd
+#AnswerStart
+Answer: c)  Between residents of two or more States
+#AnswerEnd
+#QuestionStart
+Q14) In order to remove a judge of the Supreme Court, the President is required by the Constitution to receive an address by each House of Parliament supported by a majority of the total membership of the House, and by a prescribed majority of members of the House present and voting. The prescribed majority is
+a)  One-third
+b)  One-half
+c)  Two-thirds
+d)  Three-fourths
+#QuestionEnd
+#AnswerStart
+Answer: c)  Two-thirds
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following is not an essential condition for appointment as a judge of the Supreme Court?
+a)  A citizen of India
+b)  At least five years’ experience as judge of a High Court or of two or more such Courts in succession
+c)  Must have completed 35 years of age
+d)  At least ten years’ experience as an advocate of a High Court or of two or more such Courts in succession
+#QuestionEnd
+#AnswerStart
+Answer: c)  Must have completed 35 years of age
+#AnswerEnd
+#QuestionStart
+Q16) The rules for regulating the practice and procedure of the Supreme Court are made by the:
+a)  President of India
+b)  Supreme Court with the approval of the President of India
+c)  Supreme Court alone
+d)  Supreme Court in consultation with the Bar Council of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  Supreme Court with the approval of the President of India
+#AnswerEnd
+#QuestionStart
+Q17) Assertion (A): The rule-making power of the Supreme Court is not subject to any law made by the Parliament of India.
+Reason (R):  Only an impartial and independent judiciary can protect the rights of the individual without fear or favour.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q18) When the Chief Justice of India is appointed by the President, he is required to consult:
+a)  The Council of Ministers and all the Judges of the Supreme Court
+b)  The Prime Minister, the Law Minister and the Attorney-General of India
+c)  Such of the Ministers of the Cabinet and the Prime Minister as he deems necessary
+d)  Such of the Judges of the Supreme Court and High Courts as he deems necessary
+#QuestionEnd
+#AnswerStart
+Answer: d)  Such of the Judges of the Supreme Court and High Courts as he deems necessary
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following statements is not correct?
+a)  A retired judge of Supreme Court is prohibited from appearing and pleading in any court within the territory of India.
+b)  Supreme Court may issue writs for the enforcement of any legal right within the territory of India.
+c)  Supreme Court has the power to punish any person for its contempt.
+d)  Salary of Judges of the Supreme Court is not subject to vote of the legislature.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Supreme Court may issue writs for the enforcement of any legal right within the territory of India.
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following statements regarding the Advisory Jurisdiction of the Supreme Court:
+18.  The reference for advice may be made to the Supreme Court on a question of law or fact by the President of India.
+19.  Disputes arising out of pre-constitution treaties and agreements excluded from the original jurisdiction of the Supreme Court may also be referred to it.
+20.  The advice given by the Supreme Court is binding on the Government.
+21.  One of the cases referred to the Supreme Court for its advice was the constitutionality of the Kerala Education Bill.
+Which of these are correct?
+a)  1, 2 and 4
+b)  2 and 3
+c)  1 and 2
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q21) Appellate jurisdiction of the Supreme Court in appeals from High Courts in regard to civil matters pertains only to a:
+a)  Substantial question of law
+b)  Question of law
+c)  Question of fact
+d)  Mixed question of fact and law
+#QuestionEnd
+#AnswerStart
+Answer: a)  Substantial question of law
+#AnswerEnd
+#QuestionStart
+Q22) The Supreme Court of India is different from its counterpart in the U.S.A.:
+a)  In its role as the guardian of the Constitution
+b)  In its advisory role
+c)  In its role as the supreme authority in the judicial field in the country
+d)  In its writ jurisdiction
+#QuestionEnd
+#AnswerStart
+Answer: b)  In its advisory role
+#AnswerEnd
+#QuestionStart
+Q23) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Jurisdiction of Supreme Court)                | List-II (Type of Cases)                                            |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Appellate Jurisdiction                            | 1.  Acts as a court of record and also has power to review its own judgements |
+| B.  Advisory Jurisdiction                             | 2.  Any question of law or fact of public importance referred      |
+| C.  Miscellaneous Powers                              | 3.  Civil cases, criminal cases and constitutional cases           |
+| D.  Original Jurisdiction                             | 4.  Acts as a federal court                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 2 1 4
+b)  2 3 1 4
+c)  3 4 2 1
+d)  2 4 3 1
+#QuestionEnd
+#AnswerStart
+Answer: a)  3 2 1 4
+#AnswerEnd
+#QuestionStart
+Q24) Law declared by the Supreme Court shall be binding on all the courts within the territory of India. Here ‘courts’ mean
+a)  All courts including the Supreme Court of India
+b)  All courts except the Supreme Court of India
+c)  All courts including the Supreme Court except such benches of the Supreme Court which consists of seven judges or more
+d)  All courts including Supreme Court except a bench of the Supreme Court which consists of all the judges of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: b)  All courts except the Supreme Court of India
+#AnswerEnd
+#QuestionStart
+Q25) Which one of the following statements is correct?
+If the Chief Justice of India is to make a request for attendance of a Judge of a High Court at the sitting of the Supreme Court as an ad hoc judge:
+a)  Only previous consent of the President of India is required.
+b)  Previous consent of the President of India and consultation with the Chief Justice of the concerned High Court is required.
+c)  Only consultation with the Chief Justice of the concerned High Court is required.
+d)  Neither previous consent of the President of India nor consultation with the Chief Justice of the concerned High Court is required.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Previous consent of the President of India and consultation with the Chief Justice of the concerned High Court is required.
+#AnswerEnd
+#QuestionStart
+Q26) Which of the following has jurisdiction to decide a dispute between Central Government and a State Government?
+a)  Inter-State Council
+b)  High Court under Article 226 of the Constitution of India
+c)  Supreme Court under Article 143 of the Constitution of India
+d)  Supreme Court under Article 131 of the Constitution of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  Supreme Court under Article 131 of the Constitution of India
+#AnswerEnd
+#QuestionStart
+Q27) Assertion (A): The Supreme Court is a court of record.
+Reason (R):  It delivers judgements in open court.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q28) Which one of the following statements is correct?
+a)  The original jurisdiction of the Supreme Court is unlimited
+b)  A dispute between one State and another can only be dealt with by the Supreme Court
+c)  The Supreme Court must admit appeal from any judgement or order made by any court
+d)  All courts including the Supreme Court are bound by a Supreme Court decision
+#QuestionEnd
+#AnswerStart
+Answer: b)  A dispute between one State and another can only be dealt with by the Supreme Court
+#AnswerEnd
+#QuestionStart
+Q29) Which one of the following statements is correct?
+The power of judicial review means the power of the Supreme Court to:
+a)  Set aside any executive decision if it is against statutory law.
+b)  Set aside any provision of law if it is contrary to the Fundamental Rights.
+c)  Examine constitutional validity of any administrative action as well as legislative provision and strike it down if not found in accordance with the constitutional provisions.
+d)  Review its own decisions or decisions of any court or tribunal within the territory of India.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Examine constitutional validity of any administrative action as well as legislative provision and strike it down if not found in accordance with the constitutional provisions.
+#AnswerEnd
+#QuestionStart
+Q30) What is the correct chronological sequence of the following advisory opinions given by the Supreme Court under Article 143 of the Constitution of India?
+22.  Delhi Laws Act
+23.  Berubari Union
+24.  Sea Customs Act
+25.  Special Courts Bill
+Select the correct answer using the codes given below:
+a)  1, 2, 3, 4
+b)  2, 1, 3, 4
+c)  2, 3, 4, 1
+d)  2, 4, 3, 1
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3, 4
+#AnswerEnd
+#QuestionStart
+Q31) The jurisdiction of the Supreme Court of India may be enlarged by:
+a)  Parliament by law
+b)  Parliament by resolution
+c)  The President
+d)  The President in consultation with the Chief Justice of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  Parliament by law
+#AnswerEnd
+#QuestionStart
+Q32) What age is prescribed for a person to qualify for appointment as a Judge of the Supreme Court of India?
+a)  Not below 30 years on the date of appointment
+b)  Not below 35 years on the date of appointment
+c)  Not below 40 years on the date of appointment
+d)  No age is prescribed
+#QuestionEnd
+#AnswerStart
+Answer: d)  No age is prescribed
+#AnswerEnd
+#QuestionStart
+Q33) Assertion (A): The Supreme Court of India is bound by its own judgements.
+Reason (R):  The highest court binds all subordinate courts by its own judgements.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q34) Judicial Review in the Indian Constitution is based on:
+a)  Procedure established by law
+b)  Due process of Law
+c)  Rule of Law
+d)  Precedents and conventions
+#QuestionEnd
+#AnswerStart
+Answer: a)  Procedure established by law
+#AnswerEnd
+#QuestionStart
+Q35) Disputes between States come to the Supreme Court under:
+a)  Appellate jurisdiction
+b)  Original jurisdiction
+c)  Advisory jurisdiction
+d)  Writ jurisdiction
+#QuestionEnd
+#AnswerStart
+Answer: b)  Original jurisdiction
+#AnswerEnd
+#QuestionStart
+Q36) Consider the following statements:
+26.  Supreme Court’s power to issue writs is narrower than that of High Court.
+27.  A citizen is free to approach High Court or Supreme Court as he chooses whenever his fundamental rights are violated.
+28.  The law declared by the Supreme Court is binding on all courts throughout India.
+Which of the above statement(s) is / are correct?
+a)  Only 1
+b)  1 and 2
+c)  1, 2 and 3
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q37) Which of the following statements regarding Supreme Court of India are correct?
+29.  It has the power to entertain appeal from any court or tribunal within India.
+30.  It has the power to deliver advisory opinion on any question of fact or law referred to it by the President.
+31.  Salaries of the Judges of the Supreme Court are subject to vote by the Parliament.
+32.  Its jurisdiction is binding on all other courts within India.
+Select the correct answer from the codes given below:
+a)  1 and 3
+b)  2 and 4
+c)  2, 3 and 4
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 4
+#AnswerEnd

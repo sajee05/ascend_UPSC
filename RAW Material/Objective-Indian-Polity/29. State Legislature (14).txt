@@ -1,0 +1,163 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  A bill pending in the Legislature of a State shall not lapse by reason of the prorogation of the House or Houses thereof.
+2.  A bill pending in the Legislative Council of a State which has not been passed by the Legislative Assembly shall not lapse on dissolution of the Assembly.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  Parliament may by law provide for the abolition of the Legislative Council of a State having such a council or for the creation of such a council in a state having no such council.
+4.  The total number of members in the Legislative Council of a State having such a council shall not exceed one half of the total number of members in the Legislative Assembly of that State.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) The Upper Chamber of the State Legislature, besides other members, consists of:
+a)  1/12 elected by teachers’ electorate; 1/3 elected by municipalities; 1/12 elected by registered graduates
+b)  1/12 elected by registered graduates; 1/12 elected by women; 1/3 elected by trade unions and co-operative institutions
+c)  1/12 elected by women; 1/12 elected by municipalities and other local bodies; 1/3 elected by teachers’ electorate
+d)  1/3 directly elected by the people; 1/12 elected by registered graduates; 1/12 elected by co-operative banks, women’s organisations and other co-operative bodies
+#QuestionEnd
+#AnswerStart
+Answer: a)  1/12 elected by teachers’ electorate; 1/3 elected by municipalities; 1/12 elected by registered graduates
+#AnswerEnd
+#QuestionStart
+Q4) The quorum to hold a meeting of a House of the State Legislature shall be:
+a)  Thirty members or one-tenth of total membership whichever is less
+b)  One-half of the total membership of the House
+c)  One-tenth of the total membership of the House
+d)  Ten members or one-tenth of total membership whichever is more
+#QuestionEnd
+#AnswerStart
+Answer: d)  Ten members or one-tenth of total membership whichever is more
+#AnswerEnd
+#QuestionStart
+Q5) Assertion (A): A Bill which, if enacted and brought into operation, would involve expenditure from the consolidated fund of a State must have been recommended by the Governor to a House of the Legislature of the State for consideration of the Bill.
+Reason (R):  Such a bill cannot be passed by the House without the recommendation of the Governor for consideration of the Bill.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+A Bill is reserved by the Governor of a State for the consideration of the President. The President may
+5.  Give his assent to the Bill
+6.  Withhold his assent to the Bill
+7.  Veto the Bill
+8.  Direct the Governor of the State to return it to the House for reconsideration
+Which of these are correct?
+a)  1, 2 and 3
+b)  3 and 4
+c)  1, 2 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following states does not have Vidhan Parishad?
+a)  Bihar
+b)  Maharashtra
+c)  Rajasthan
+d)  Uttar Pradesh
+#QuestionEnd
+#AnswerStart
+Answer: c)  Rajasthan
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following statements:
+9.  No discussion can take place in the Legislature of a State with respect to the conduct of any Judge of the Supreme Court as per the provisions of Constitution of India.
+10.  There is no restriction on the discussion to take place in the Legislature of a State with respect to the conduct of any Judge of the State’s High Court as per provisions of the Constitution of India.
+11.  Courts cannot enquire into any proceedings of the Legislatures as per the provisions of the Constitution of India.
+Which of the statements given above are correct?
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q9) The Legislative Assembly of a State can pass a resolution to abolish or create a Legislative Council in the State by a:
+a)  Majority of not less than 2/3 of the members of the Legislative Assembly present and voting.
+b)  Majority of not less than 1/3 of the members of the Legislative Assembly present and voting
+c)  Majority of the total membership of the Legislative Assembly and by a majority of not less than 2/3 of the members present and voting
+d)  Simple majority of the members of the State Legislative Assembly
+#QuestionEnd
+#AnswerStart
+Answer: c)  Majority of the total membership of the Legislative Assembly and by a majority of not less than 2/3 of the members present and voting
+#AnswerEnd
+#QuestionStart
+Q10) Assertion (A): Governor can withhold a non-Money Bill passed by the State Legislature.
+Reason (R):        Governors are empowered by the Article 200 of the Constitution of India to do so.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q11) What is the maximum permissible strength of the Legislative Assembly (Vidhan Sabha) of any State?
+a)  400 members
+b)  425 members
+c)  500 members
+d)  545 members
+#QuestionEnd
+#AnswerStart
+Answer: c)  500 members
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements:
+12.  Reservation of a State Bill for the assent of the President is a discretionary power of the Governor of a State.
+13.  President of India is not empowered to keep a bill of the State Legislature pending for an indefinite period of time, without expressing his mind.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q13) What is the time-limit within which a non-money Bill has to be sent to the State Legislature by the Governor for reconsideration?
+a)  14 days
+b)  One month
+c)  Three months
+d)  No time limit specified
+#QuestionEnd
+#AnswerStart
+Answer: d)  No time limit specified
+#AnswerEnd
+#QuestionStart
+Q14) Which one of the following is not correct with respect to the powers of the Governor regarding a Bill passed by the State Legislature?
+a)  He may give his assent to the Bill
+b)  He may withhold the Bill
+c)  He may reserve the Bill for the consideration of the President
+d)  He shall have no alternative but to give his assent to the Bill
+#QuestionEnd
+#AnswerStart
+Answer: d)  He shall have no alternative but to give his assent to the Bill
+#AnswerEnd

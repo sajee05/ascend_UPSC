@@ -1,0 +1,380 @@
+#QuestionStart
+Q350) Consider the following statements:
+1. Agriculture GVA at constant prices has steadily increased in the last 5 years
+2. Horticulture production has surpassed food grain production consistently in the last ten years
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q351) Select the correct code arranging the production of foodgrains in descending order:
+a) Rice> Wheat> Coarse grain> Pulses
+b) Rice >Wheat > Pulses > Coarse grain
+c) Wheat> Rice> Coarse grain> Pulses
+d) Wheat> Rico Pulses> Coarse Grains
+#QuestionEnd
+#AnswerStart
+Answer: a) Rice> Wheat> Coarse grain> Pulses
+#AnswerEnd
+#QuestionStart
+Q352) Consider the following statements regarding agriculture trade:
+3.  India’s agriculture trade has consistently been in surplus in the last 5 years
+4.  Agriculture exports in value terms has steadily increased in the last 5 years
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)     Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q353) Consider the following statements regarding agriculture trade:
+5.      USA is our top exporter
+6.      China is our top importer
+7. India’s highest import commodity is vegetable oil in terms of value
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)     2 & 3 only
+d)      1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q354) Consider the following statements regarding millets:
+8. India is the largest producer of millets in the world
+9. Among states, Rajasthan is the largest producer of millets
+Select the correct answer using the code given below:
+a) 1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q355) Consider the following statements regarding Jute:
+10. National Jute Board has been constituted under an act of parliament to promote jute production and its products
+11.  Govt, mandates packaging of commodities in jute packaging materials through ‘Jute Packaging Materials Act 1987’
+Select the correct answer using the code given below:
+a)       1 only
+b)        2 only
+c)       Both 1 & 2
+d)        Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q356) Which of the following factors are taken into account by CACP for recommending MSP of agriculture crops?
+12.        Demand and supply
+13.  Price trends in domestic and international markets
+14.  Terms of trade between agriculture and non-agriculture sector
+15.        Inter-crop price parity
+16.        Cost of production
+17.  Likely implications of MSP on the consumers of that product
+Select the correct answer using the code given below.-
+a) 5 only
+b) 1,2 and 5 only
+c)       2, 3&6
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q357) Government declares MSP which is at least 50% over cost of production. This cost includes:
+18.       Actual paid out cost on rentals
+19.       Rentals forgone on owned land
+20.  Depreciation on agricultural implements
+21.       Actual storage cost post-harvest
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 4 only
+c)      2 & 3 only
+d)      1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q358) Consider the following statements regarding electronic National Agriculture Market (e-NAM)
+22. It will ensure one nation one price . of agri commodities for the consumers
+23. Farmers can sell their agriproduce through e-NAM sitting at their homes without bringing it in the physical APMC man dis
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q359) Consider the following statements regarding organic foods in India:
+24.  FSSAI regulates organic foods in India
+25.   Any food to be sold as ‘organic’ in India must be certified through National Program for Organic Production (NPOP)
+26.   ‘Jaivik Bharat’ is a logo developed by FSSAI for organic products in India
+Select the correct answer using the code given below:
+a)      1 only
+b) 3 only
+c)      1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q360) Which of the following statements are true regarding “Farmer Producer Organization" (FPO):
+27. It can be a company, a cooperative society or any other legal entity
+28.  It should provide sharing of benefits/profit to the farmers
+29. Ownership control is always with the farmers
+30. NAB ARD is providing support for promotion of FPOs
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 & 4 only
+c)    1,2&4
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q361) FCI stores the food grains procured for the central pool in the following:
+31.      FCl's own godowns
+32.      Central             Warehousing
+Corporation’s godowns
+3, State Warehousing Corporation's godowns
+33.      Godowns hired from private sector
+Select the correct answer using the code given below:
+a)     1 only
+b)     1, 2 & 3 only
+c)     2&4
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q362) “Economic Threshold Limit" is related to which of the following?
+a)     Potential GDP growth
+b) Capacity utilization of the economy
+c)     Pest management for crops
+d)     Underground water level
+#QuestionEnd
+#AnswerStart
+Answer: c) Pest management for crops
+#AnswerEnd
+#QuestionStart
+Q363) The term ‘under-recovery’ seen in the news, is related to which of the following?
+a) Government spending more on the subsidies than the budgeted amount
+b) Loss of Oil Marketing Companies (OMCs) in providing fuel at cheaper rate to the public
+c) Government giving exemptions on certain types of taxes
+d) Central government getting less repayment on loans given to States
+#QuestionEnd
+#AnswerStart
+Answer: b) Loss of Oil Marketing Companies (OMCs) in providing fuel at cheaper rate to the public
+#AnswerEnd
+#QuestionStart
+Q364) Consider the following statements regarding Urea subsidy:
+34. The subsidy amount is transferred directly into farmer’s account
+35. The per kg subsidy amount is fixed and does not change with market fluctuation
+36. Price of Urea is regulated by the government
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)      2 & 3 only
+c)      3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q365) Consider the following statements regarding the 'Nutrient Based Subsidy' (NBS) Scheme.
+37.  It is given for phosphatic, potassic and complex fertilizers
+38.       It is given for urea
+39.  The prices of fertilizers under nutrient based scheme are regulated by the government
+40.  Subsidy is based on per kg of nutrients present in the fertilizer
+Select the correct answer using the code given below:
+a) 1 & 3 only
+b)      2 & 3 only
+c)      1 & 4 only
+d)      3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 4 only
+#AnswerEnd
+#QuestionStart
+Q366) Consider the following statements regarding 'Liquid Nano Urea’:
+41.  Liquid Nano Urea has been developed and Patented by Indian Farmers Fertilizer Cooperative (IFFCO)
+42.  Govt, provides subsidy on liquid nano urea
+43.  Liquid Nano Urea contains 4% nitrogen by volume and needs to be sprayed on leaves of the crops
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b)      2 only
+c)      2 & 3 only
+d)      1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q367) Consider the following statements regarding ‘One Nation One Fertilizer Scheme’:
+I. Fertilizers will be sold under the single brand name ‘BHARAT’
+44.  Companies will not be allowed to put their own name on fertilizer bags
+45.  The BHARAT logo has a tractor and drone in its image
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 only
+c) 2 & 3 only
+d) 1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q368) Consider the following statements regarding ‘Kerosene’.
+46.  Central Govt, allocates States kerosene for PDS
+47.  Central Govt, does not provide any subsidy on kerosene
+48.  Some states have been declared as Kerosene free states
+Select the correct answer using the code given below:
+a)         2 only
+b)         2 & 3 only
+c)         1 & 3
+d)         All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q369) Consider the following statements;
+49. Minimum Export Price (MEPJ/Minimum Import Price (MIP) restrictions are imposed under “The Foreign Trade (Dev. & Reg.) Act 1992’
+50. “The Foreign Trade (Dev. & Reg.) Act 1992’ can be used to put quantitative restrictions on export/import
+Select the correct answer using the code given below;
+a)      I only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q370) Which of the following statements are true regarding Central Government’s procurement policy of wheat and rice?
+51. It is an open-ended procurement policy
+52.  Under the centralized procurement policy, all the wheat and rice is procured by FCI
+3,   Under decentralized procurement policy, States procure wheat and rice and distribute under NFSA
+Select the correct answer using the code given below:
+a)          1 only
+b)          2 & 3 only
+c)         1 & 3 only
+d)          All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q371) Consider the following statements regarding "Warehouse Receipts":
+I.  They are issued as per the Warehousing (Development & Regulation) Act 2007
+53.  Warehousing Development & Regulatory Authority (WDRA) is under ministry of Commerce and Industry
+54.       Warehouse receipts are negotiable
+55.  These receipts are govt, recognized and can be used for taking Ioan
+Select the correct answer using the code given below;
+a)       1 only
+b)       3 & 4 only
+c)       I, 3 &4 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) I, 3 &4 only
+#AnswerEnd
+#QuestionStart
+Q372) Consider the following statements regarding "Agricultural and Processed Food Products Export Development Authority (APEDA)":
+56. It is not a statutory body as it was created through a Govt, resolution
+57.     Established in early 1990s
+58.  APEDA is implementing the National Program for Organic Production (NPOP)
+Select the correct answer using the code given below:
+a)   1 only
+b)   1 and 2 only
+c)  3 only
+d)   2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q373) Consider the following statements regarding 'Ethanol Blended Petrol’ Programme:
+59. Govt, notifies differential price of ethanol based on different feedstock
+60. Ethanol price for blending is approved by Cabinet Committee on Economic Affairs
+61. Govt, has set the target of 20% ethanol blending in petrol by 2025-26
+Select the correct answer using the code given below:
+a)     1 & 2 only
+b)     2 & 3 only
+c)     3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q374) Under the National Food Security Act 2013, the expenditure towards intra state transportation and handling charges for movement from FCI depots to Fair Price Shops is borne by:
+a)     Central Government
+b)     State Government
+c) Shared between Central and State Government
+d)     Is passed on to the beneficiaries
+#QuestionEnd
+#AnswerStart
+Answer: c) Shared between Central and State Government
+#AnswerEnd
+#QuestionStart
+Q375) Consider the following Statements regarding under National Food Security Act 2013:
+62. Within a state, transportation and distribution cost is incurred by State Govt.
+63. The Food subsidy burden is shared equally between Centre and States
+64. The Central Issue Price (CIP) at which foodgrains are issued to states are decided by FCI
+65. Presently central govt. is transferring the food to states at zero prices
+Select the correct answer using the code given below:
+a)     1 & 2 only
+b)     2, 3 & 4 only
+c)     3 & 4 only
+d)     4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 4 only
+#AnswerEnd
+#QuestionStart
+Q376) Consider the following statements regarding Price Stabilization Fund (PSF)
+66. Govt, provides budgetary support for working capital as well as long term loan
+67. The scheme targets intervention in the retail market
+68. Sale of 'Bharat Atta' is being done under the PSF scheme
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q377) Consider the following statements regarding 'Custom Hiring Centre’ (CHC)?
+69. Government is establishing CHC under National Mission on Agricultural Extension & Technology
+70. Government is providing subsidy on purchase of equipment by CHCs
+71. CHC provides costly equipment to small fanners on rental basis
+Select the correct answer using the code given below;
+a)     2 only
+b)     2 & 3 only
+c)     1 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd

@@ -1,0 +1,313 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The powers of the High Court under Article 226 of the Constitution of India are wider than those of Supreme Court under Article 32 of the Constitution of India.
+2.  Both High Court and Supreme Court have concurrent power to enforce the fundamental rights.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) What is the correct chronological order in which the following provisions were incorporated into the Constitution of India through amendments?
+1.  Directive Principle on Free Legal Aid
+2.  Relaxation for SCs and STs in promotions
+3.  Twelfth Schedule
+4.  Article 51-A (k)
+Select the correct answer using the codes given below:
+a)  1-3-2-4
+b)  2-1-4-3
+c)  2-3-4-1
+d)  4-2-1-3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1-3-2-4
+#AnswerEnd
+#QuestionStart
+Q3) Which of the following is/are the provisions of Article 18 of the Constitution of India which pertains to the Right to Equality?
+a)  No title, not being military or academic distinction, shall be conferred by the State
+b)  No citizen of India shall accept any title from any foreign State
+c)  No person holding any office of profit or trust under the State, shall without the consent of the President, accept any present, emolument or office of any kind from or under any foreign State
+d)  All the above three
+#QuestionEnd
+#AnswerStart
+Answer: d)  All the above three
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements:
+1.  The Council of Ministers of a State in India is collectively as well as individually responsible to the Legislative Assembly of the State.
+2.  The Governor of a State has the power to appoint the Members of the State Public Service Commission as well as the State High Court Judges.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Schedule)                                     | List-II (Subject)                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Tenth Schedule                                    | 1.  Languages                                                      |
+| B.  Eighth Schedule                                   | 2.  Provisions as to disqualification on the grounds of defection  |
+| C.  First Schedule                                    | 3.  Validation of certain Acts and Regulations                     |
+| D.  Ninth Schedule                                    | 4.  The States                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 3 2 1
+b)  2 1 4 3
+c)  4 1 2 3
+d)  2 3 4 1
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 1 4 3
+#AnswerEnd
+#QuestionStart
+Q6) The expression ‘Prime Ministerial form of government’ indicates a form of government in which:
+a)  The Prime Minister is directly elected by the people
+b)  The Prime Minister heads a coalition
+c)  The Prime Minister is the Head of the State
+d)  The Prime Minister is no longer the first among equals but is dominant
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Prime Minister is no longer the first among equals but is dominant
+#AnswerEnd
+#QuestionStart
+Q7) Consider the following statements:
+1.  The Comptroller and Auditor General of India/the Chairman and the Members of the Union Public Service Commission are appointed by the President by warrant under his hand and seal and shall be removed from office in like manner and on the like grounds as a Judge of the Supreme Court.
+2.  A  Judge  of  the  Supreme  Court  can  be  removed  from  his  office  on  grounds  of  proved misbehaviour or incapacity after an address by each House of Parliament is supported by a majority of total membership of that House.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q8) With reference to the conduct of government business in the Parliament, the term ‘closure’ refers to:
+a)  Suspension of debate at the termination of a day’s sitting of the Parliament
+b)  A rule of legislative procedure under which further debate on a motion can be halted
+c)  The termination of a Parliamentary session
+d)  Refusal on the part of the Government to have the opposition look at important documents
+#QuestionEnd
+#AnswerStart
+Answer: b)  A rule of legislative procedure under which further debate on a motion can be halted
+#AnswerEnd
+#QuestionStart
+Q9) Whenever the Governor of a State has to address the State Legislature, who among the following prepares his address?
+a)  Chief Secretary of the State
+b)  Chief Minister and his Council of Ministers
+c)  Speaker of the Legislative Assembly
+d)  Governor himself
+#QuestionEnd
+#AnswerStart
+Answer: b)  Chief Minister and his Council of Ministers
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following taxes belong to the States exclusively?
+1.  Taxes on lands and buildings
+2.  Taxes on mineral rights
+3.  Taxes on entry of goods into local areas
+4.  Taxes on income other than agricultural income
+Select the correct answer using the codes given below:
+a)  Only 1, 2 and 3
+b)  Only 2 and 3
+c)  Only 1 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q11) Statement I:  The impeachment of the President is a quasi-judicial procedure in Parliament.
+Statement II: Either House of Parliament has to prefer a charge of violation of the Constitution before the other House which may investigate and resolve to remove the President by not less than 2/3rd of the total membership of the House.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q12) Which one among the following statements about the States Re-organisation Act is not correct?
+a)  The Act dealt with the issue of redrawing of the boundaries of States
+b)  It was passed in the year 1956
+c)  It created fourteen States and six Union Territories
+d)  The State boundaries were drawn for administrative convenience
+#QuestionEnd
+#AnswerStart
+Answer: d)  The State boundaries were drawn for administrative convenience
+#AnswerEnd
+#QuestionStart
+Q13) Which of the following are provided for by the Constitution (74th Amendment) Act in respect of planning of urban and rural local governments?
+1.  Constitution of the District Planning Committee.
+2.  Not less than 2/3rd of the total members of the District Planning Committee should be elected by, from amongst, the elected members of district panchayats and municipalities.
+3.  All other details regarding the composition of the District Planning Committee are left to the State Legislatures.
+4.  Constitution of the Metropolitan Planning Committee.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2 and 4
+c)  1, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q14) Which one of the following statements regarding secularism is not correct?
+a)  ‘Secular Republic’ implies a republic in which there is equal respect for all religions.
+b)  It was decided in the S.R. Bommai case that secularism is a basic feature of the Constitution of India
+c)  According to the Supreme Court, the concept of secularism means that the ‘State’ will have no religion
+d)  The word ‘secular’ was introduced under the Constitution by the 44th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: d)  The word ‘secular’ was introduced under the Constitution by the 44th Amendment
+#AnswerEnd
+#QuestionStart
+Q15) The President enjoys the right to issue regulations with regard to:
+a)  Andaman and Nicobar Islands
+b)  Lakshadweep
+c)  Both Andaman and Nicobar Islands, and Lakshadweep
+d)  Neither Andaman and Nicobar Islands nor Lakshadweep
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both Andaman and Nicobar Islands, and Lakshadweep
+#AnswerEnd
+#QuestionStart
+Q16) Consider the following statements:
+1.  Like a Member of the Union Public Service Commission, the Chief Information Commissioner holds the office for a period of six years or till he attains the age of 65 years, whichever is earlier.
+2.  The Chief Information Commissioner shall only be removed from his office in like manner and on the like grounds as that for a Member of the Union Public Service Commission.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q17) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Fund)                                         | List-II (Explanation)                                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Consolidated Fund                                 | 1.  Unforeseen expenditure                                         |
+| B.  Contingency Fund                                  | 2.  Safety net to workers in sick enterprises and to finance their training |
+| C.  Public Account                                    | 3.  Receipts through PF, small savings and other deposits          |
+| D.  National Renewal Fund                             | 4.  All revenue receipts, loans raised and recovery of loans       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 3 1 4
+b)  2 1 3 4
+c)  4 3 1 2
+d)  4 1 3 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  4 1 3 2
+#AnswerEnd
+#QuestionStart
+Q18) What is ‘Look East Policy’ of India?
+a)  Government of India’s initiative for the infrastructural development in the North-Eastern States
+b)  India’s search for oil and gas in its Eastern shoreline
+c)  India’s collaboration with some East Asian countries in the exploration of oil and gas
+d)  India’s continuing pursuit of close relations with South-East Asian countries
+#QuestionEnd
+#AnswerStart
+Answer: d)  India’s continuing pursuit of close relations with South-East Asian countries
+#AnswerEnd
+#QuestionStart
+Q19) Consider the following statements:
+1.  The Estimates Committee of Parliament lacks the expert assistance of the Comptroller and Auditor General of India which is available to the Public Accounts Committee of Parliament.
+2.  All the Ministries/Departments of the Union Government are not taken up for examination every year by the Estimates Committee, but only a few of them are selected for this purpose.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q20) Assertion (A): The  President  of  India  causes  every  recommendation  made  by  the  Finance Commission under the provisions of the Constitution of India to be laid before the Lok Sabha only.
+Reason (R):  The Finance Commission is a body set up under the provisions of the Constitution of India.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q21) What is the purpose of issue of Mandamus?
+a)  Directing an official for the performance of a duty
+b)  Release of an illegally detained person
+c)  Transferring of a case from an inferior court to a court of higher jurisdiction
+d)  Calling upon one to show as to by what authority he holds or claims a franchise or office
+#QuestionEnd
+#AnswerStart
+Answer: a)  Directing an official for the performance of a duty
+#AnswerEnd
+#QuestionStart
+Q22) At the time of becoming the Prime Minister of our country one:
+a)  Must be a member of one of the Houses of the Parliament.  If not, must become a member of one of the Houses within six months.
+b)  Need not necessarily be a member of one of the Houses of Parliament but must get elected as a member of Lok Sabha within six months
+c)  Must be a member of one of the Houses of Parliament prior to appointment
+d)  Must be a member of Rajya Sabha
+#QuestionEnd
+#AnswerStart
+Answer: a)  Must be a member of one of the Houses of the Parliament.  If not, must become a member of one of the Houses within six months.
+#AnswerEnd
+#QuestionStart
+Q23) In which one of the following States, is unified personnel system operating in municipal corporations?
+a)  Andhra Pradesh
+b)  West Bengal
+c)  Gujarat
+d)  Kerala
+#QuestionEnd
+#AnswerStart
+Answer: a)  Andhra Pradesh
+#AnswerEnd
+#QuestionStart
+Q24) What is the correct chronological sequence of the following events?
+1.  Montagu-Chelmsford Reforms
+2.  Inauguration of Provincial Autonomy
+3.  Morley-Minto Reforms Bill
+Select the correct answer using the codes given below:
+a)  1–2–3
+b)  2–3–1
+c)  3–2–1
+d)  3–1–2
+#QuestionEnd
+#AnswerStart
+Answer: d)  3–1–2
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following are not the functions of Union Public Service Commission?
+1.  Disciplinary matters relating to Union civil servants.
+2.  Matters referred to under Article 16(4).
+3.  Manner in which Article 335 may be given effect.
+4.  Principles to be followed in making appointment o Union civil servants.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 and 3
+#AnswerEnd

@@ -1,0 +1,271 @@
+#QuestionStart
+Q1) On which of the following matters, does the Finance Commission make recommendations to the President of India?
+1.  The distribution between Union and States of net proceeds of taxes and allocation between the States of their respective shares of such proceeds.
+2.  The principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements with regard to the Finance Commission:
+1.  The recommendations of the Finance Commission cover a period of five years.
+2.  The Report of the Finance Commission is submitted to the Prime Minister.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following statements about the Finance Commission is not correct?
+a)  The Commission comprises a Chairman and four other members.
+b)  The Parliament is authorised to determine by law the qualifications of the members of the Commission.
+c)  All the appointments are made by the President of India.
+d)  All the members have to be from Indian Economic Service or Indian Statistical Service.
+#QuestionEnd
+#AnswerStart
+Answer: d)  All the members have to be from Indian Economic Service or Indian Statistical Service.
+#AnswerEnd
+#QuestionStart
+Q4) Assertion (A): The  Finance  Commission  prescribes  the  framework  for  the  working  of  the Planning Commission.
+Reason (R):  The jurisdiction and functions of the Finance Commission are outlined in the Constitution of India.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following is/are the issue(s) on which recommendations to be made by the Finance Commission to the President of India are specified in the Constitution of India?
+1.  The principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India
+2.  Measures needed to augment the Consolidated Fund of a State to supplement the resources of the Panchayats in the State
+3.  Measures needed to augment the Consolidated Fund of a State to supplement the resources of the Municipalities in the State
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2 and 3 only
+c)  1 only
+d)  2 only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q6) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Finance Commission)                           | List-II (Chairman)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  First Finance Commission                          | 1.  P.V. Rajamannar                                                |
+| B.  Fourth Finance Commission                         | 2.  K.C. Neogy                                                     |
+| C.  Sixth Finance Commission                          | 3.  Y.B. Chavan                                                    |
+| D.  Eighth Finance Commission                         | 4.  Brahamananda Reddy                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 4 3
+b)  4 3 2 1
+c)  2 3 4 1
+d)  4 1 2 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 1 4 3
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following is not correct about Finance Commission?
+a)  The members of the Commission are appointed by the President.
+b)  It is to act as a balancing wheel of Indian fiscal federalism.
+c)  The qualifications of members of the Commission are determined by the Parliament.
+d)  It is constituted under the provisions of Article 180 of the Constitution of India.
+#QuestionEnd
+#AnswerStart
+Answer: d)  It is constituted under the provisions of Article 180 of the Constitution of India.
+#AnswerEnd
+#QuestionStart
+Q8) The role of the Finance Commission in Centre-State fiscal relations has been undermined by the:
+a)  State Governments
+b)  Zonal Councils
+c)  Planning Commission
+d)  Central Government
+#QuestionEnd
+#AnswerStart
+Answer: c)  Planning Commission
+#AnswerEnd
+#QuestionStart
+Q9) Assertion (A): The qualifications which shall be requisite for appointment as the members of the Finance Commission are distinctly stated in the Constitution of India.
+Reason (R):  Finance Commission is constituted under Article 280 of the Constitution of India.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q10) The Finance Commission recommends the distribution of the net proceeds of the Union Government arising from:
+a)  All taxes between the Union and the States
+b)  Specified taxes among the States only
+c)  All sources including taxes, fees and surcharges between the Union and the States
+d)  Specified taxes without the surcharge between the Union and the States
+#QuestionEnd
+#AnswerStart
+Answer: d)  Specified taxes without the surcharge between the Union and the States
+#AnswerEnd
+#QuestionStart
+Q11) The principles concerning the provisions of the grants-in-aid to the States out of the Consolidated Fund of India are recommended by the:
+a)  Planning Commission
+b)  Administrative Reforms Commission
+c)  Finance Commission
+d)  Public Accounts Committee
+#QuestionEnd
+#AnswerStart
+Answer: c)  Finance Commission
+#AnswerEnd
+#QuestionStart
+Q12) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Bodies)                                       | List-II (Articles)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Finance Commission                                | 1.  Article 148                                                    |
+| B.  Union Public Service Commission                   | 2.  Article 280                                                    |
+| C.  Election Commission                               | 3.  Article 315                                                    |
+| D.  Comptroller and Auditor-General of India          | 4.  Article 324                                                    |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 1 2 3
+b)  2 3 4 1
+c)  4 3 2 1
+d)  2 1 4 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 3 4 1
+#AnswerEnd
+#QuestionStart
+Q13) The Finance Commission is constituted to recommend criteria for:
+a)  Framing a financial bill
+b)  Preparing the annual budget of Union Government
+c)  Distribution of financial resources between Union and the States
+d)  Auditing the receipts and expenditures of the Union Government
+#QuestionEnd
+#AnswerStart
+Answer: c)  Distribution of financial resources between Union and the States
+#AnswerEnd
+#QuestionStart
+Q14) Consider the following statements:
+The Finance Commission makes recommendation to the President in respect of:
+1.  The distribution of net proceeds of taxes to be shared between the Union and the States
+2.  Assessment of natural, capital and human resources
+3.  The principles governing grants-in-aid to the States
+4.  Any other matter concerning financial relations between the Union and the States
+Of these statements:
+a)  1, 2, 3 and 4 are correct
+b)  2 and 4 are correct
+c)  1, 3 and 4 are correct
+d)  1, 2 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 3 and 4 are correct
+#AnswerEnd
+#QuestionStart
+Q15) The qualifications for the members of Finance Commission:
+a)  Are laid down in the Constitution of India
+b)  Can be prescribed by the Parliament of India
+c)  Can be prescribed by the President of India
+d)  Can be prescribed by the Union Finance Minister
+#QuestionEnd
+#AnswerStart
+Answer: b)  Can be prescribed by the Parliament of India
+#AnswerEnd
+#QuestionStart
+Q16) Consider the following statements about the Finance Commission:
+1.  The duty of the Finance Commission is to make recommendations as to the distribution of revenue resources between the Union and the States.
+2.  It is appointed every fifth year by the President of India.
+3.  It raises revenue for central financial transfers to the States.
+4.  It borrows money from the market for central grants to the States.
+Which of the statements given above is/are correct?
+a)  1 and 2
+b)  1, 2 and 3
+c)  1 only
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q17) Statement I:  The Finance Commission depends mainly on the data and information of the financial needs of the states, supplied by the states themselves.
+Statement II: This information and data may not be free from the hidden unrealities; and an attempt to secure more financial assistance and window dressing of the financial position of the states cannot be ruled out.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q18) Which one among the following is the function of the Finance Commission?
+a)  Preparation of the Central Budget
+b)  Assessing income tax proceeds
+c)  Determining the principles governing grants-in-aid the states
+d)  Exercising control over Government expenditure
+#QuestionEnd
+#AnswerStart
+Answer: c)  Determining the principles governing grants-in-aid the states
+#AnswerEnd
+#QuestionStart
+Q19) Which of the following is/are the functions of the Finance Commission?
+1.  Making recommendations as to the principles governing grants-in-aid of the revenues of the States.
+2.  To suggest measures to augment the Consolidated Fund of India.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q20) In which Article of our Constitution, is the Finance Commission dealt with?
+a)  Article 280
+b)  Article 380
+c)  Article 281
+d)  Article 381
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 280
+#AnswerEnd
+#QuestionStart
+Q21) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Function)                                     | List-II (Authority)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Principles governing grants-in-aid to states      | 1.  President of India                                             |
+| B.  Coordination in the Central Secretariat           | 2.  Chief Minister                                                 |
+| C.  Appointment of High Court Judges                  | 3.  Finance Commission                                             |
+| D.  Alternative Expenditure Policy                    | 4.  Cabinet Secretary                                              |
+|                                                       | 5.  Estimates Committee                                            |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 5 2 4
+b)  3 4 1 5
+c)  1 4 2 5
+d)  3 5 1 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 4 1 5
+#AnswerEnd

@@ -1,0 +1,105 @@
+#QuestionStart
+Q1) Which one of the following scholars described the party system prevailing in India in the early years of independence as one-party-dominant system?
+a)  Bhikhu Parekh
+b)  Paul Brass
+c)  Granville Austin
+d)  Rajni Kothari
+#QuestionEnd
+#AnswerStart
+Answer: d)  Rajni Kothari
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following correctly indicates the features of regional political parties in India?
+1.  Regional political parties identify with region’s culture.
+2.  Regional political parties use regional language for their electoral gains.
+3.  Regional political parties enter into electoral alliance with national parties.
+4.  Regional political parties are a post-independence political phenomenon.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1, 2 and 3
+c)  1, 3 and 4
+d)  2 only
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) On the basis of the criterion issued by the Election Commission of India, what is the minimum number of states in which a political party must be recognised to be termed as a ‘national party’ throughout the whole of India?
+a)  3 states
+b)  4 states
+c)  5 states
+d)  6 states
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 states
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following functions pertains only to political party and not to pressure group?
+a)  Collecting money for the organisation
+b)  Contesting political election with own symbol
+c)  Organising public meetings and rallies
+d)  Publishing pamphlets and leaflets
+#QuestionEnd
+#AnswerStart
+Answer: b)  Contesting political election with own symbol
+#AnswerEnd
+#QuestionStart
+Q5) Consider the following political parties of India:
+1.  DMK
+2.  CPI (M)
+3.  AGP
+4.  TDP
+Which one of the following is the correct chronology of their formation?
+a)  1-2-4-3
+b)  1-2-3-4
+c)  2-1-4-3
+d)  4-3-2-1
+#QuestionEnd
+#AnswerStart
+Answer: a)  1-2-4-3
+#AnswerEnd
+#QuestionStart
+Q6) Who among the following advocated party-less democracy in India?
+a)  Mahatma Gandhi
+b)  M.N. Roy
+c)  Jayaprakash Narayan
+d)  Acharya Vinoba Bhave
+#QuestionEnd
+#AnswerStart
+Answer: c)  Jayaprakash Narayan
+#AnswerEnd
+#QuestionStart
+Q7) The basic problem in the working of parliamentary system in India arises out of:
+a)  Lack of a cohesive and viable party system
+b)  The absence of an efficient and independent bureaucracy
+c)  Lack of clear constitutional provisions
+d)  Weak political executive on account of its dependence on the legislature
+#QuestionEnd
+#AnswerStart
+Answer: a)  Lack of a cohesive and viable party system
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following statements is not correct?
+a)  Communist Party of India was formed in 1925
+b)  Bharatiya Janata Party was formed in 1978
+c)  Shiromani Akali Dal was formed in 1920
+d)  AIADMK was formed in 1972
+#QuestionEnd
+#AnswerStart
+Answer: b)  Bharatiya Janata Party was formed in 1978
+#AnswerEnd
+#QuestionStart
+Q9) Growth of regional political parties in India is attributed to which of the following?
+1.  Diversified nature of Indian Society
+2.  Inability to accommodate demands of various sections of society
+3.  Regional imbalances in the development
+4.  Factional fight within the larger parties
+Select the correct answer by using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 3 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd

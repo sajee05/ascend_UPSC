@@ -1,0 +1,119 @@
+#QuestionStart
+Q1) The Planning Commission was established immediately after the inauguration of the Constitution to:
+1.  Determine the machinery for implementing the Directive Principles
+2.  Assess national resources and plan for their effective and balanced use
+3.  Lay down the conditions for government participation in agriculture and industry
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  1 and 2
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following is/are correct regarding the Planning Commission?
+1.  Deputy Chairman has always been a whole-time member.
+2.  Some Union Cabinet Ministers have been part-time members.
+3.  Members of the Planning Commission enjoy the status of a Cabinet Minister.
+4.  Number of whole-time expert members has varied.
+Select the correct answer using the codes given below:
+a)  2 and 4
+b)  Only 4
+c)  1 and 3
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following statements is not correct in regard to the functions performed by the Planning Commission?
+a)  It makes an assessment of the material, economic and human resources of the country.
+b)  It makes recommendations to the President of India with regard to distribution of proceeds of taxes between the Union and the States.
+c)  It formulates plans for the most effective and balanced utilisation of country’s resources.
+d)  It appraises from time to time the progress made in the execution of each stage of the plan and recommends adjustments in policy and measures which it deems necessary.
+#QuestionEnd
+#AnswerStart
+Answer: b)  It makes recommendations to the President of India with regard to distribution of proceeds of taxes between the Union and the States.
+#AnswerEnd
+#QuestionStart
+Q4) The Planning Commission is:
+a)  A line agency
+b)  An auxiliary agency
+c)  A constitutional agency
+d)  A staff agency
+#QuestionEnd
+#AnswerStart
+Answer: d)  A staff agency
+#AnswerEnd
+#QuestionStart
+Q5) “Planning has superseded the Federation and our country is functioning like a unitary system in many respects” – was stated by:
+a)  Ashok Chanda
+b)  K. Santhanam
+c)  Estimates Committee
+d)  Administrative Reforms Commission
+#QuestionEnd
+#AnswerStart
+Answer: b)  K. Santhanam
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following agencies does not have statutory oversight over public expenditure?
+a)  The Parliament
+b)  The Planning Commission
+c)  The Comptroller and Auditor-General
+d)  The Finance Ministry
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Planning Commission
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following is not a function of the Planning Commission?
+a)  Formulation of a plan
+b)  Execution of development plans
+c)  Appraisal of plan progress
+d)  Making recommendations on policy and  administration
+#QuestionEnd
+#AnswerStart
+Answer: b)  Execution of development plans
+#AnswerEnd
+#QuestionStart
+Q8) The Planning Commission was set up:
+a)  Under the Government of India Act, 1935
+b)  As per the provisions of the Constitution of India
+c)  By a Cabinet Resolution
+d)  As per the recommendations of the National Development Council
+#QuestionEnd
+#AnswerStart
+Answer: c)  By a Cabinet Resolution
+#AnswerEnd
+#QuestionStart
+Q9) The role of the Finance Commission in Centre-State fiscal relations has been undermined by:
+a)  The State Governments
+b)  The Zonal Councils
+c)  The Planning Commission
+d)  The Election Commission
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Planning Commission
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following statements about the Planning Commission is true?
+a)  It is a constitutional body.
+b)  It is a statutory body.
+c)  It has been created by an executive order.
+d)  It is quasi-judicial in character.
+#QuestionEnd
+#AnswerStart
+Answer: c)  It has been created by an executive order.
+#AnswerEnd
+#QuestionStart
+Q11) Which one of the following is not correct?
+a)  The Planning Commission prepares the plan in consultation with Union Ministries and State Governments.
+b)  The various Central Ministries and State Governments draw up their own plans according to their needs, irrespective of the allocation received.
+c)  An effort is made through negotiation and discussion to secure agreement among the Central Ministries and State Governments regarding planning.
+d)  The draft five year plan prepared by the Planning Commission is placed before the Parliament for its sanction.
+#QuestionEnd
+#AnswerStart
+Answer: b)  The various Central Ministries and State Governments draw up their own plans according to their needs, irrespective of the allocation received.
+#AnswerEnd

@@ -1,0 +1,1157 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  A Bill pending in the Rajya Sabha which has not been passed by the Lok Sabha shall lapse on dissolution of the Lok Sabha.
+2.  A Bill pending in Parliament shall lapse by reason of the prorogation of the Houses.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The Chairman of the Council of States or Speaker of the House of the People, or person acting as such, shall not vote at any sitting of either House of Parliament or joint sitting of the House in the first instance, but shall have and exercise a casting vote in the case of an equality of votes.
+4.  A person is qualified to fill a seat in the Council of States or House of the People if he is not less than twenty-five years of age.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+5.  Since  the  sums  required  to  meet  expenditure  described  by  the  Constitution  of  India  as expenditure charged upon the Consolidated Fund of India are not submitted to the vote of Parliament, no House is competent to discuss these estimates.
+6.  Annual  Finance  Bill  provides  the  legal  authority  for  the  withdrawal  of  sums  from  the Consolidated Fund of India.
+Which of the statement(s) given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements in respect of provisions for removing deadlock between the two  Houses of Parliament:
+After a bill has been passed by one House and transmitted to the other House, the President may notify to the Houses his intention to summon them for a joint sitting, if:
+7.  The Bill is rejected by the other House.
+8.  The Houses have finally disagreed as to the amendments to be made in the Bill.
+9.  More than three months have elapsed from the date of the receipt of the Bill by the other House without the Bill being passed by it.
+Which of the statements given above are correct?
+a)  1, 2 and 3
+b)  1 and 2 only
+c)  2 and 3 only
+d)  1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following statements about the reasons for separation of the Railway Budget from the General Budget are correct?
+10.  To introduce flexibility in railway finance management
+11.  To facilitate a business approach to the railway policy
+12.  To secure stability of the general revenues by providing an assured annual contribution from railway revenues
+13.  To enable the railways to keep their profits for their own development
+Select the correct answer using the codes given below:
+a)  2, 3 and 4 only
+b)  1 and 4 only
+c)  1, 2 and 3 only
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q6) An exceptional grant under the Constitution of India is regarded as
+a)  An advance on account of estimated expenditure for a part of any financial year pending completion of procedure for voting of grant
+b)  A grant for meeting an unexpected demand on account of indefinite character of the service which cannot be stated with details
+c)  A grant forming no part of current service of any financial year
+d)  A  grant  made  when  a  need  has  arisen  during  the  current  financial  year  for  additional expenditure upon some new service
+#QuestionEnd
+#AnswerStart
+Answer: c)  A grant forming no part of current service of any financial year
+#AnswerEnd
+#QuestionStart
+Q7) The provision for the Contingency Fund of India results in:
+a)  Absolving the executive from preparing the estimates of the expenditure
+b)  Compelling the legislature to approve the expenditure
+c)  Reducing the legislative control over the executive
+d)  Providing a safety-valve to tide over a crisis
+#QuestionEnd
+#AnswerStart
+Answer: d)  Providing a safety-valve to tide over a crisis
+#AnswerEnd
+#QuestionStart
+Q8) Which of the following tools of control may be adopted for raising a discussion in the House on a matter of urgent public importance?
+a)  Censure motion
+b)  Adjournment motion
+c)  Calling attention
+d)  Cut motion
+#QuestionEnd
+#AnswerStart
+Answer: b)  Adjournment motion
+#AnswerEnd
+#QuestionStart
+Q9) Consider the following statements relating to the procedure of the election of the Speaker and the Deputy Speaker of the Lok Sabha:
+14.  The election of a Speaker shall be held on such date as the Prime Minister may fix and the Secretary General shall send to every member notice of this date.
+15.  The election of a Deputy Speaker shall be held on such date as the Speaker may fix and the Secretary General shall send to every member notice of this date.
+Which of the statement(s) given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following statements is not correct?
+a)  An Appropriation Act is not essential for passing a grant under a Vote of Credit.
+b)  Re-appropriation does not involve any additional expenditure.
+c)  The Rajya Sabha has no power to vote on the demands for grants.
+d)  No amendment can be proposed in the Appropriation Bill in either House of Parliament.
+#QuestionEnd
+#AnswerStart
+Answer: a)  An Appropriation Act is not essential for passing a grant under a Vote of Credit.
+#AnswerEnd
+#QuestionStart
+Q11) According to the Constitution, the Lok Sabha must meet at least:
+a)  Thrice each year with no more than two months between sessions
+b)  Twice each year with no more than three months between sessions
+c)  Twice each year with no more than four months between sessions
+d)  Twice each year with no more than six months between sessions
+#QuestionEnd
+#AnswerStart
+Answer: d)  Twice each year with no more than six months between sessions
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements:
+16.  The nature of a Bill, if it is certified by the Speaker of the House of People as a Money Bill, is not open to question in a Court of Law.
+17.  The President of India has the power to question the nature of a Bill to be taken as a Money Bill even if it is certified to be so by the Speaker of the House of People.
+Which of the statement(s) given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q13) Assertion (A): The estimates that relate to the expenditure charged upon the Consolidate Fund of India shall not be submitted to the vote of Parliament.
+Reason (R):  Parliament is not empowered to discuss expenditure charged upon the Consolidated Fund of India.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q14) What does the ‘Rule of Lapse’ mean?
+a)  All pending bills in Parliament lapse with its prorogation.
+b)  All appropriations voted by the Parliament expire at the end of the financial year.
+c)  The demand for grants of a ministry lapses with criticism of its policy by the opposition.
+d)  The appropriation bill lapses if it is not returned by the Rajya Sabha within 14 days.
+#QuestionEnd
+#AnswerStart
+Answer: b)  All appropriations voted by the Parliament expire at the end of the financial year.
+#AnswerEnd
+#QuestionStart
+Q15) Consider the following statements:
+The expenditure charged on the Consolidated Fund of India comprises:
+18.  Pension payable to Judges of High Court
+19.  Debt charges for which the Government of India is liable
+20.  Salary, allowances and pension payable to Comptroller and Auditor General of India
+Which of the statements given above are correct?
+a)  1, 2 and 3
+b)  1 and 3 only
+c)  2 and 3 only
+d)  1 and 2 only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q16) The object of the adjournment motion in Parliament is to:
+a)  Collect information from the ministers
+b)  Make a cut in the budget proposals
+c)  Criticise a particular policy of the Government
+d)  Topple the Government
+#QuestionEnd
+#AnswerStart
+Answer: c)  Criticise a particular policy of the Government
+#AnswerEnd
+#QuestionStart
+Q17) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Parliamentary Procedure)                      | List-II (Implications)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Division                                          | 1.  Brings the debate to a close                                   |
+| B.  Guillotine                                        | 2.  Formal proposal made by a member to the House                  |
+| C.  Motion                                            | 3.  Relates to interpretation or  enforcement of the rules of procedure or Constitution |
+| D.  Point of order                                    | 4.  Concludes discussion on demand for grants                      |
+|                                                       | 5.  Mode of arriving at a decision                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 5 1 2
+b)  5 4 1 3
+c)  5 4 2 3
+d)  4 5 2 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  5 4 2 3
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following is the correct sequence of the given stages in relation to the enactment of the budget?
+a)  Voting  of  demands  for  grants-General  discussion-Consideration  and  passing  of  the Appropriation Bill-Consideration and passing of the Finance Bill
+b)  General  discussion-Voting  of  demands  for  grants-Consideration  and  passing  of  the Appropriation Bill-Consideration and passing of the Finance Bill
+c)  Voting  of  demands  for  grants-Consideration  and  passing  of  the  Appropriation  Bill-Consideration and passing of the Finance Bill-General discussion
+d)  General discussion-Consideration and passing of the Finance Bill-Consideration and passing of the Appropriation Bill-Voting of demands for grants
+#QuestionEnd
+#AnswerStart
+Answer: b)  General  discussion-Voting  of  demands  for  grants-Consideration  and  passing  of  the Appropriation Bill-Consideration and passing of the Finance Bill
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following pairs is not correctly matched?
+    State No. of members in the Rajya Sabha
+a)  Maharashtra — 19
+b)  Tamil Nadu — 18
+c)  Bihar — 18
+d)  West Bengal — 16
+#QuestionEnd
+#AnswerStart
+Answer: c)  Bihar — 18
+#AnswerEnd
+#QuestionStart
+Q20) Which one of the following events is not considered to be an indication of loss of confidence of the lower House of the Parliament?
+a)  Adjournment motion is carried
+b)  Vote of thanks on the President’s address is not carried
+c)  Cut on Money Bill is passed
+d)  Censure motion is passed
+#QuestionEnd
+#AnswerStart
+Answer: a)  Adjournment motion is carried
+#AnswerEnd
+#QuestionStart
+Q21) How much is the quorum of a House of Parliament of India?
+a)  One-half of the membership of the House
+b)  One-third of the membership of the House
+c)  Two-third of the membership of the House
+d)  One-tenth of the membership of the House
+#QuestionEnd
+#AnswerStart
+Answer: d)  One-tenth of the membership of the House
+#AnswerEnd
+#QuestionStart
+Q22) Assertion (A): After a Money Bill is passed by the Lok Sabha and transmitted to the Rajya Sabha, the recommendations of the Rajya Sabha have to be accepted by the Lok Sabha within 14 days from receipt of the recommendations and then get them incorporated in the Bill.
+Reason (R):  A Money Bill cannot be introduced in the Rajya Sabha.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true.
+#AnswerEnd
+#QuestionStart
+Q23) Consider the following statements:
+A Bill is deemed to be a Money Bill if it contains only provisions dealing with the:
+21.  Alteration or regulation of any tax
+22.  Regulation of the borrowing of money by the government
+23.  Appropriation of moneys out of the Consolidated Fund of India
+24.  Custody of the Contingency Fund of India
+Which of the above statements are correct?
+a)  1, 2 and 3 only
+b)  2, 3 and 4 only
+c)  1 and 4 only
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q24) The Rajya Sabha has exclusive jurisdiction in:
+a)  Approving a proclamation of emergency
+b)  The creation and abolition of States
+c)  The election of the Vice-President
+d)  Authorising Parliament to legislate on a subject in the State List
+#QuestionEnd
+#AnswerStart
+Answer: d)  Authorising Parliament to legislate on a subject in the State List
+#AnswerEnd
+#QuestionStart
+Q25) What is the maximum period that shall not intervene between last sitting in one session and the date appointed for first sitting in the next session for each House of Parliament?
+a)  Four months
+b)  Five months
+c)  Six months
+d)  Eight months
+#QuestionEnd
+#AnswerStart
+Answer: c)  Six months
+#AnswerEnd
+#QuestionStart
+Q26) When Demands for Grants are introduced in Lok Sabha, the Speaker applies the guillotine:
+a)  After the demands are discussed and approved
+b)  After the demands are discussed and voted down by Lok Sabha
+c)  When the demands are discussed and reduced
+d)  When the time allotted is coming to a close
+#QuestionEnd
+#AnswerStart
+Answer: d)  When the time allotted is coming to a close
+#AnswerEnd
+#QuestionStart
+Q27) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Parliamentary Device)                         | List-II (Substance)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Cut Motion                                        | 1.  To draw attention of the Ministers on the matters of urgent public importance |
+| B.  Call Attention Motion                             | 2.  To draw attention of the Speaker towards incorrect or incomplete answer by Ministers |
+| C.  Privilege Motion                                  | 3.  To  move  a  proposal  to  reduce  expenditure  on  the budget proposals |
+| D.  Adjournment Motion                                | 4.  To interrupt the normal business of the House                  |
+|                                                       | 5.  To conclude a discussion on demand for grants                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 1 2 4
+b)  2 4 5 1
+c)  3 4 2 1
+d)  2 1 5 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  3 1 2 4
+#AnswerEnd
+#QuestionStart
+Q28) Which one of the following powers of the Rajya Sabha is provided in the Constitution of India?
+a)  To reject or amend a money bill
+b)  To decide whether a bill is a money bill
+c)  To vote for public expenditure
+d)  To delay a money bill for a period not exceeding fourteen days.
+#QuestionEnd
+#AnswerStart
+Answer: d)  To delay a money bill for a period not exceeding fourteen days.
+#AnswerEnd
+#QuestionStart
+Q29) The method of election of the members of the Rajya Sabha on the basis of proportional representation by the State Legislatures was borrowed from the
+a)  Constitution of U.S.A.
+b)  Constitution of Australia
+c)  Constitution of South Africa
+d)  Constitution of Ireland
+#QuestionEnd
+#AnswerStart
+Answer: c)  Constitution of South Africa
+#AnswerEnd
+#QuestionStart
+Q30) Which one of the following statements is correct?
+Parliament can make a law with respect to a matter in the state list in the national interest if:
+a)  The President of India gives permission
+b)  The Parliament passes a resolution
+c)  A State makes a request
+d)  The Rajya Sabha passes a resolution by a  two-thirds majority
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Rajya Sabha passes a resolution by a  two-thirds majority
+#AnswerEnd
+#QuestionStart
+Q31) Which one of the following statements is not correct?
+a)  There is a provision in the Constitution of India for readjustment of allocation of seats in the Lok Sabha upon the completion of each census.
+b)  If for a period of 60 days, a member of either House is absent without permission of the House from all meetings thereof, the House may declare his seat vacant.
+c)  The Rajya Sabha approves Money Bill after it has been passed by the Lok Sabha.
+d)  The Attorney-General of India has the right to speak in, and otherwise to take part in the proceedings of either House of Parliament.
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Rajya Sabha approves Money Bill after it has been passed by the Lok Sabha.
+#AnswerEnd
+#QuestionStart
+Q32) Assertion (A): Money bills originate only in the Lower House of Parliament.
+Reason (R):  The Lower House of the Parliament is a popularly elected body.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not   the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q33) Which one of the following schedules of the Constitution of India deals with allocation of seats in the Council of States?
+a)  Third Schedule
+b)  Fourth Schedule
+c)  Fifth Schedule
+d)  Sixth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: b)  Fourth Schedule
+#AnswerEnd
+#QuestionStart
+Q34) Under Article 312 of the Constitution of India, the Rajya Sabha has exclusive power to recommend the Constitution of which one of the following?
+a)  River-valley Development Authorities
+b)  Zonal Councils
+c)  Administrative Tribunals
+d)  New All-India Services
+#QuestionEnd
+#AnswerStart
+Answer: d)  New All-India Services
+#AnswerEnd
+#QuestionStart
+Q35) Payments from the Consolidated Fund of India are authorised by the
+a)  Money Bill
+b)  Appropriation Act
+c)  Finance Act
+d)  Consolidated Fund Act
+#QuestionEnd
+#AnswerStart
+Answer: b)  Appropriation Act
+#AnswerEnd
+#QuestionStart
+Q36) Vote of Credit provides for making
+a)  An exceptional grant which forms no part of current service of any financial year
+b)  Any grant in advance in respect of estimated expenditure for a part of any financial year
+c)  A grant for meeting an unexpected demand upon resources of India
+d)  A grant for additional expenditure upon new service not contemplated in the financial year
+#QuestionEnd
+#AnswerStart
+Answer: c)  A grant for meeting an unexpected demand upon resources of India
+#AnswerEnd
+#QuestionStart
+Q37) Which one of the following is not a measure of control exercised by the Parliament over government?
+a)  Asking questions
+b)  Committees system
+c)  Review of decision
+d)  No-confidence motion
+#QuestionEnd
+#AnswerStart
+Answer: c)  Review of decision
+#AnswerEnd
+#QuestionStart
+Q38) Consider the following statements:
+25.  A Bill returned by the President for reconsideration does not lapse on the dissolution of the Lok Sabha.
+26.  A Bill passed by the Lok Sabha and pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.
+27.  A Bill under consideration of the Lok Sabha lapses when the Lok Sabha is prorogued.
+28.  A Bill pending in the Rajya Sabha but not passed by the Lok Sabha does not lapse on the dissolution of the Lok Sabha.
+Which of the statements given above are correct?
+a)  2, 3 and 4 only
+b)  1 and 2 only
+c)  3 and 4 only
+d)  1, 2 and 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 4 only
+#AnswerEnd
+#QuestionStart
+Q39) During the discussion on the Demands for Grants, cut motions can be moved to reduce the amount of a demand.  Which of the following categories are classified as cut-motion?
+29.  Policy cut
+30.  Economy cut
+31.  Token cut
+32.  Programme cut
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 4
+c)  1, 2 and 3
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q40) Which one of the following statements holds good in respect of the Rajya Sabha?
+a)  One-third of its members retire after every three years.
+b)  Two-thirds of its members retire after every three years.
+c)  Two-thirds of its members retire after every two years.
+d)  One-third of its members retire after every two years.
+#QuestionEnd
+#AnswerStart
+Answer: d)  One-third of its members retire after every two years.
+#AnswerEnd
+#QuestionStart
+Q41) Which one of the following is the correct sequence through which an Ordinary Bill passes through in the Parliament?
+a)  Authentication, Discussion of Principles, Clause-by-Clause consideration, Post-introduction motion, Assent
+b)  Post-introduction  motion,  Discussion  of  Principles,  Clause-by-Clause  consideration, Authentication, Assent
+c)  Discussion  of  Principles,  Authentication,  Post-introduction  motion,  Clause-by-Clause consideration, Assent
+d)  Discussion  of  Principles,  Post-introduction  motion,  Clause-by-Clause  consideration, Authentication, Assent
+#QuestionEnd
+#AnswerStart
+Answer: b)  Post-introduction  motion,  Discussion  of  Principles,  Clause-by-Clause  consideration, Authentication, Assent
+#AnswerEnd
+#QuestionStart
+Q42) Who among the following decides whether a Bill is a Money Bill?
+a)  The Finance Minister
+b)  The Chairman of the Rajya Sabha
+c)  The President of India
+d)  The Speaker of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Speaker of the Lok Sabha
+#AnswerEnd
+#QuestionStart
+Q43) A non-money bill passed by the Parliament is returned by the President to Parliament for reconsideration. It is passed once again by the Parliament without any change. Now, the:
+a)  President can again withhold his assent
+b)  Bill will automatically lapse
+c)  Bill will be referred to the Supreme Court
+d)  President will give his assent
+#QuestionEnd
+#AnswerStart
+Answer: d)  President will give his assent
+#AnswerEnd
+#QuestionStart
+Q44) The Lok Sabha Secretariat comes under direct supervision of the:
+a)  Ministry of Home Affairs
+b)  Ministry of Parliamentary Affairs
+c)  Prime Minister’s Office
+d)  Speaker of the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: d)  Speaker of the Lok Sabha
+#AnswerEnd
+#QuestionStart
+Q45) Consider the following statements regarding money bills:
+33.  They originate in Lok Sabha
+34.  They originate in Rajya Sabha
+35.  Rajya Sabha can recommend amendments.
+36.  Both the Houses have equal powers over them.
+Which of these statements is / are correct?
+a)  Only 1
+b)  1 and 3
+c)  Only 2
+d)  Only 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q46) If a member of either House of Parliament is without the permission of the House absent from all meetings thereof for more than a certain period, the House may declare his seat vacant. What is the duration of this period?
+a)  60 days
+b)  45 days
+c)  30 days
+d)  15 days
+#QuestionEnd
+#AnswerStart
+Answer: a)  60 days
+#AnswerEnd
+#QuestionStart
+Q47) Vote on account means:
+a)  The expenditure charged on the Consolidated Fund of India is not submitted to the vote of Parliament.
+b)  A proposal submitted by Finance Minister before presenting the budget.
+c)  To bring a proposal related to the speech of the President before the joint session of the Parliament.
+d)  If the budget is not passed before 1st April, the Parliament is authorised to sanction any grant in advance to meet the expenses.
+#QuestionEnd
+#AnswerStart
+Answer: d)  If the budget is not passed before 1st April, the Parliament is authorised to sanction any grant in advance to meet the expenses.
+#AnswerEnd
+#QuestionStart
+Q48) The Railway Budget was separated from the Central Budget in the year
+a)  1920
+b)  1921
+c)  1922
+d)  1923
+#QuestionEnd
+#AnswerStart
+Answer: b)  1921
+#AnswerEnd
+#QuestionStart
+Q49) Which one of the following statements related to Money Bills is not correct?
+a)  It cannot be introduced in the Council of States.
+b)  If any question arises whether the bill is Money Bill or not, the decision of the Lok Sabha Speaker is final.
+c)  In  case  of  a  deadlock  over  a  Money  Bill,  the  President  can  summon  a  joint  sitting  of Parliament.
+d)  A Money Bill cannot be introduced except on the recommendation of the President.
+#QuestionEnd
+#AnswerStart
+Answer: c)  In  case  of  a  deadlock  over  a  Money  Bill,  the  President  can  summon  a  joint  sitting  of Parliament.
+#AnswerEnd
+#QuestionStart
+Q50) Which one of the following statements is correct?
+The estimates which relate to expenditure charged upon the Consolidated Fund of India:
+a)  Can be discussed in the House of People only
+b)  Can be discussed in the Council of States only
+c)  Can be discussed in either House of Parliament
+d)  Cannot be discussed in any House of Parliament
+#QuestionEnd
+#AnswerStart
+Answer: c)  Can be discussed in either House of Parliament
+#AnswerEnd
+#QuestionStart
+Q51) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Subject)                                      | List-II (Articles of the Constitution of India)                    |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Annual Financial Statement or Budget              | 1.     Article 110                                                |
+| B.  Supplementary, additional or excess grants        | 2.     Article 112                                                |
+| C.  Appropriation Bill                                | 3.     Article 114                                                |
+| D.  Definition of ‘Money Bill’                        | 4.     Article 115                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 3 4 1
+b)  1 4 3 2
+c)  2 4 3 1
+d)  1 3 4 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 4 3 1
+#AnswerEnd
+#QuestionStart
+Q52) Which one of the following is not applicable regarding the purpose of Cut Motion?
+a)  Raising questions of urgent public importance
+b)  Drawing attention to any lapse on the part of the administration
+c)  Drawing attention to specific problems
+d)  Concentrating discussion on some concrete points
+#QuestionEnd
+#AnswerStart
+Answer: a)  Raising questions of urgent public importance
+#AnswerEnd
+#QuestionStart
+Q53) The quorum requirement in the Rajya Sabha is:
+a)  25
+b)  50
+c)  100
+d)  126
+#QuestionEnd
+#AnswerStart
+Answer: a)  25
+#AnswerEnd
+#QuestionStart
+Q54) What will follow if a Money Bill is substantially amended by the Rajya Sabha?
+a)  The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha.
+b)  The Lok Sabha cannot consider the Bill further.
+c)  The Lok Sabha may send the Bill to the Rajya Sabha for reconsideration.
+d)  The President may call a joint sitting for passing the Bill.
+#QuestionEnd
+#AnswerStart
+Answer: a)  The Lok Sabha may still proceed with the Bill, accepting or not accepting the recommendations of the Rajya Sabha.
+#AnswerEnd
+#QuestionStart
+Q55) Which one of the following statements about the Speaker of the Lok Sabha is not correct?
+a)  He has the power to adjourn the House sine die.
+b)  He has the power to summon the House even after prorogation.
+c)  He continues to be in office even after the dissolution of the House and until immediately before the first meeting of the House.
+d)  He must vacate the office if he ceases to be a member of the Lok Sabha.
+#QuestionEnd
+#AnswerStart
+Answer: b)  He has the power to summon the House even after prorogation.
+#AnswerEnd
+#QuestionStart
+Q56) The Chairman of the Rajya Sabha is elected by:
+a)  Elected members of Rajya Sabha
+b)  All members of Rajya Sabha
+c)  Elected members of Parliament
+d)  All members of Parliament
+#QuestionEnd
+#AnswerStart
+Answer: d)  All members of Parliament
+#AnswerEnd
+#QuestionStart
+Q57) Assertion (A): The rule of lapse is not essential for effective financial control.
+Reason (R):  The rule of lapse suffers from weaknesses relating to planning and control of expenditure.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q58) The Joint Session of the two Houses of the Parliament is chaired by the:
+a)  Vice-President of India
+b)  Speaker of the House of the People
+c)  Chairman of the Rajya Sabha
+d)  Prime Minister of India
+#QuestionEnd
+#AnswerStart
+Answer: b)  Speaker of the House of the People
+#AnswerEnd
+#QuestionStart
+Q59) Under Article 368 of the Constitution of India, a Constitutional Amendment Bill is passed by the Parliament by:
+a)  Simple majority of members present and voting
+b)  Two-thirds majority of members present and voting
+c)  Three-fourths majority of members present and voting
+d)  Majority of total membership and majority of not less than two-thirds of the members present and voting
+#QuestionEnd
+#AnswerStart
+Answer: d)  Majority of total membership and majority of not less than two-thirds of the members present and voting
+#AnswerEnd
+#QuestionStart
+Q60) Which one of the following statements is not correct?
+a)  The Railway budget and the demand for grants relating to Railways are presented to the Parliament separately.
+b)  Generally one demand for grant is presented in respect of each Ministry or Department.
+c)  The demand for grants for the Department of Telecommunications is presented to the Parliament separately.
+d)  The demands for grants of various Ministries include both plan and non-plan estimates of expenditure under each head.
+#QuestionEnd
+#AnswerStart
+Answer: c)  The demand for grants for the Department of Telecommunications is presented to the Parliament separately.
+#AnswerEnd
+#QuestionStart
+Q61) Which of the following is not correct with regard to the Speaker of the Lok Sabha?
+a)  The Speaker certifies whether a particular bill is money bill or not.
+b)  Discussion on a motion for the removal of the Speaker is presided over by the Vice-President.
+c)  The Speaker has power to curtail or cancel the zero hour.
+d)  The Speaker nominates chairpersons of various committees.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Discussion on a motion for the removal of the Speaker is presided over by the Vice-President.
+#AnswerEnd
+#QuestionStart
+Q62) Which of the following statements are correct in respect of parliamentary debate on Appropriation Bill?
+37.  No amendments can be moved on the amount of expenditure.
+38.  Speaker is empowered to withhold permission on matters of repetitive nature.
+39.  Rajya Sabha has power to amend or reject the Bill.
+Select the correct answer using the codes given below:
+a)  1 and 2 only
+b)  1 and 3 only
+c)  2 and 3 only
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q63) According to Parliamentary procedure, the term ‘guillotine’ means that the Speaker:
+a)  Stops the business on hand and puts the matter to vote
+b)  Adjourns the House before expiry of the time
+c)  Disallows voting on a motion
+d)  Reprimands a member for misbehaviour
+#QuestionEnd
+#AnswerStart
+Answer: a)  Stops the business on hand and puts the matter to vote
+#AnswerEnd
+#QuestionStart
+Q64) While discussing a budget, the Parliament cannot:
+a)  Give assent to the demand
+b)  Reduce the demand
+c)  Refuse the demand
+d)  Increase the demand
+#QuestionEnd
+#AnswerStart
+Answer: d)  Increase the demand
+#AnswerEnd
+#QuestionStart
+Q65) Which one of the following is not related to Adjournment Motion?
+a)  The matter is framed in general terms.
+b)  The matter is urgent.
+c)  The matter is of general public interest.
+d)  The matter does not raise a question of privilege.
+#QuestionEnd
+#AnswerStart
+Answer: a)  The matter is framed in general terms.
+#AnswerEnd
+#QuestionStart
+Q66) Which one among the following carries out demarcation of electoral constituencies in each State and allocation of seats in the Lok Sabha to different States?
+a)  Election Commission
+b)  Register General
+c)  Delimitation Commission
+d)  States Reorganisation Commission
+#QuestionEnd
+#AnswerStart
+Answer: c)  Delimitation Commission
+#AnswerEnd
+#QuestionStart
+Q67) Which of the following is/are correct in respect of ‘Zero Hour’ discussion?
+40.  It is not directed against individual Minister.
+41.  It covers questions raised over matters of public importance.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q68) Which one of the following is true of the Appropriation Act?
+a)  It is the demand for grants approved by the Parliament.
+b)  It applies to approval of the budget by the Parliament.
+c)  Authorisation by the Parliament for withdrawal of money from the consolidated fund
+d)  Authorisation by the Parliament for withdrawal of money from the contingency fund
+#QuestionEnd
+#AnswerStart
+Answer: c)  Authorisation by the Parliament for withdrawal of money from the consolidated fund
+#AnswerEnd
+#QuestionStart
+Q69) Which one of the following statements is correct with regard to the power of Parliament in enacting the Budget?
+a)  It can increase a tax, but not reduce it.
+b)  It can increase a tax, as well as reduce or abolish it.
+c)  It cannot increase a tax, but can reduce or abolish it.
+d)  It can neither increase a tax nor reduce it.
+#QuestionEnd
+#AnswerStart
+Answer: c)  It cannot increase a tax, but can reduce or abolish it.
+#AnswerEnd
+#QuestionStart
+Q70) Who among the following can establish additional courts for better administration of any existing law with respect to a matter contained in the Union List?
+a)  Chief Justice of India
+b)  High Court of the concerned State
+c)  Parliament
+d)  Concerned State Legislature
+#QuestionEnd
+#AnswerStart
+Answer: c)  Parliament
+#AnswerEnd
+#QuestionStart
+Q71) Which of the following statements is/are correct?
+42.  No Member of the Parliament shall be liable to any proceedings in any Court in respect of any vote given by him in any Committee of the Parliament.
+43.  A House of the Parliament can try anyone or any case directly, as a Court of Justice.
+44.  No Member of the Parliament shall be liable to any proceedings in any Court in respect of anything said in the Parliament.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2 and 3
+c)  1 and 3
+d)  Only 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q72) Rajya Sabha has equal powers with Lok Sabha:
+a)  In the matter of creating new All-India Services
+b)  In amending the Constitution
+c)  In the removal of the Government
+d)  In making cut motions
+#QuestionEnd
+#AnswerStart
+Answer: b)  In amending the Constitution
+#AnswerEnd
+#QuestionStart
+Q73) Who among the following chooses a member of the Council of States to be its Deputy Chairman?
+a)  The President
+b)  The Union Minister of Parliamentary Affairs
+c)  The Prime Minister
+d)  The Council of States
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Council of States
+#AnswerEnd
+#QuestionStart
+Q74) The Demands for Supplementary Grants must be presented to and passed by the House:
+a)  Before the end of the respective financial year
+b)  Before the budget of the following year is passed
+c)  After the withdrawal of money from the Consolidated Fund
+d)  After the submission of report of C.A.G.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Before the end of the respective financial year
+#AnswerEnd
+#QuestionStart
+Q75) Which of the following expenditures shall be charged on the Consolidated Fund of India?
+45.  The emoluments and allowances of the President and other expenditure relating to his office
+46.  The emoluments and allowances of the Prime Minister and other expenditure relating to his office
+47.  The salaries and allowances of the Chairman and the Deputy Chairman of the Council of States
+48.  The salaries and allowances of the Speaker and the Deputy Speaker of the Lok Sabha
+Choose the correct answer from the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1, 3 and 4
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q76) Demands for grants can emanate only from:
+a)  The leader of the Opposition
+b)  The Executive
+c)  The chairman of the Estimates Committee
+d)  Any member who is not a member of the ruling party
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Executive
+#AnswerEnd
+#QuestionStart
+Q77) Match List I with List II and select the correct answer by using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Grants)                                       | List-II (Meanings)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Vote on account                                   | 1.      Lumpsum money granted without detailed estimates           |
+| B.  Vote on credit                                    | 2.      Additional expenditure not covered in the approved budget  |
+| C.  Supplementary demand for grants                   | 3.      Amount spent in excess of the grants                       |
+| D.  Excess demand for grants                          | 4.      Grants in advance pending budgetary approval                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 3 2
+b)  1 4 2 3
+c)  4 1 2 3
+d)  4 1 3 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  4 1 2 3
+#AnswerEnd
+#QuestionStart
+Q78) What is meant by ‘Zero Hour’?
+a)  Exact time when the question hour ends
+b)  Time between question hour and next item on the agenda
+c)  Time allotted for informal discussion between two stages of discussion on a bill
+d)  Specific time allotted for a discussion on budget
+#QuestionEnd
+#AnswerStart
+Answer: b)  Time between question hour and next item on the agenda
+#AnswerEnd
+#QuestionStart
+Q79) Which of the following regarding the Rajya Sabha are correct?
+49.  It is not subject to dissolution.
+50.  It has a term of six years.
+51.  One-third of its members retire after every two years.
+52.  Its members shall not be less than 25 years of age .
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1 and 3
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q80) Which one of the following has precedence over every other motion?
+a)  Calling attention
+b)  Half-an-hour discussion
+c)  Adjournment motion
+d)  A resolution by both the Houses jointly
+#QuestionEnd
+#AnswerStart
+Answer: c)  Adjournment motion
+#AnswerEnd
+#QuestionStart
+Q81) A Money Bill deals with:
+53.  The receipt of money on account of the public account of India
+54.  Giving any guarantee by the Government of India for borrowing of money
+55.  Custody of Consolidated Fund of India
+56.  Withdrawal of money from Contingency Fund of India
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1, 2, 3 and 4
+c)  1, 2 and 4
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q82) When an advance grant is made by Parliament, pending the regular passage of the budget it is called:
+a)  Vote on credit
+b)  Token grant
+c)  Vote on account
+d)  Supplementary grant
+#QuestionEnd
+#AnswerStart
+Answer: c)  Vote on account
+#AnswerEnd
+#QuestionStart
+Q83) Consider the following statements:
+57.  The allocation of seats in the Rajya Sabha to be filled by the representatives of the States and of the Union Territories is in accordance with the provisions in that behalf contained in the Fourth Schedule of the Constitution of India.
+58.  The representatives of each State and Union Territory in the Rajya Sabha are elected by elected members of the Legislative Assembly of the State and the body functioning as Legislature for the Union Territory in accordance with the system of proportional representation by means of the single transferable vote.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q84) Consider the following statements:
+59.  The nature of a Bill which is certified by the Speaker as a Money Bill shall not be open to question in the either House of Parliament but can be taken up only in a court of law.
+60.  After the grants included in the Annual Financial Statement are voted by the House of the People, the grants so made by the House of the People, as well as the expenditure charged on the Consolidated Fund of India and the taxing proposals of the budget are incorporated in the Appropriation Bill.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q85) Statement I:   Usually a vote on account is discussed in detail and voted upon by the Parliament.
+Statement II:  A vote on account empowers the Lok Sabha to make a grant in advance for a part of the financial year pending completion of the budgetary process.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Statement I is false but Statement II is true.
+#AnswerEnd
+#QuestionStart
+Q86) When an Ordinary Bill is referred to a joint sitting of both the Houses of Parliament, it has to be passed by a:
+a)  Simple majority of the total number of members of both the Houses present and voting
+b)  Two-thirds majority of the total number of members of both the Houses
+c)  Simple majority of the total number of members of both the Houses
+d)  Two-thirds majority of the total number of members of both the Houses present and voting
+#QuestionEnd
+#AnswerStart
+Answer: a)  Simple majority of the total number of members of both the Houses present and voting
+#AnswerEnd
+#QuestionStart
+Q87) Consider the following statements with respect to the Rajya Sabha:
+61.  The origin of the Rajya Sabha can be traced back to 1919, when in pursuance to the Government of India Act, 1919, a second chamber known as the Council of States was created.
+62.  The Rajya Sabha has special powers to declare that it is necessary and expedient in the national interest that Parliament may make laws with respect to a matter in the State List.
+Which of the statement(s) given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q88) Charged expenditure upon the Consolidated Fund of India:
+a)  Is submitted to the vote of the Parliament
+b)  Is not submitted to the vote of Rajya Sabha
+c)  Is not submitted for the sanction of the President
+d)  Is not submitted to the vote of the Parliament
+#QuestionEnd
+#AnswerStart
+Answer: d)  Is not submitted to the vote of the Parliament
+#AnswerEnd
+#QuestionStart
+Q89) ‘No tax shall be levied or collected except by authority of law.’ Which Article of the Constitution of India provides this?
+a)  Article 209
+b)  Article 215
+c)  Article 256
+d)  Article 265
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 265
+#AnswerEnd
+#QuestionStart
+Q90) The estimates of expenditure from the Consolidated Fund of India included in the budget and required to be voted by the Lok Sabha are submitted in the form of:
+a)  Charged Expenditure
+b)  Capital Budget
+c)  Demands for Grants
+d)  Revenue Budget
+#QuestionEnd
+#AnswerStart
+Answer: c)  Demands for Grants
+#AnswerEnd
+#QuestionStart
+Q91) The question asked orally after the Question Hour in the House is called:
+a)  Supplementary question
+b)  Short-notice question
+c)  Starred question
+d)  Unstarred question
+#QuestionEnd
+#AnswerStart
+Answer: a)  Supplementary question
+#AnswerEnd
+#QuestionStart
+Q92) The economy cut-motion seeks to reduce the proposed expenditure of a demand for grant by:
+a)  Rupees one hundred
+b)  Rupee one
+c)  A specified amount
+d)  An unspecified amount
+#QuestionEnd
+#AnswerStart
+Answer: c)  A specified amount
+#AnswerEnd
+#QuestionStart
+Q93) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Terms)                                        | List-II (Implications)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Voting on the demands for grants                  | 1.  Prior consent of the President                                 |
+| B.  Budget                                            | 2.  Not subject to vote of Parliament                              |
+| C.  Money Bill                                        | 3.  An instrument of socio-economic change                         |
+| D.  Charged Expenditure                               | 4.  Enactment of Budget                                            |
+|                                                       | 5.  Public Accounts Committee                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)   4 3 1 2
+b)   3 4 2 5
+c)   1 3 4 2
+d)   1 4 3 2
+#QuestionEnd
+#AnswerStart
+Answer: a)   4 3 1 2
+#AnswerEnd
+#QuestionStart
+Q94) Pending the passage of Finance Bill in the Parliament, the Provisional Collection of Taxes Act, 1931 empowers the government to collect taxes for a period of:
+a)  50 days
+b)  60 days
+c)  75 days
+d)  90 days
+#QuestionEnd
+#AnswerStart
+Answer: c)  75 days
+#AnswerEnd
+#QuestionStart
+Q95) The Consolidated Fund of India is made up of:
+a)  The excise duty and the income tax
+b)  The income tax and the corporate tax
+c)   The money raised from all loans
+d)  All revenue receipts of the Government of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  All revenue receipts of the Government of India
+#AnswerEnd
+#QuestionStart
+Q96) A grant provided by the Parliament in respect of the estimated expenditure for the part of the ensuing financial year pending the regular passage of the budget is called:
+a)  Appropriation account
+b)  Token cut
+c)  Vote on account
+d)  Cut motion
+#QuestionEnd
+#AnswerStart
+Answer: c)  Vote on account
+#AnswerEnd
+#QuestionStart
+Q97) In the context of the budget, the term ‘guillotine’ is used with reference to:
+a)  Appropriation Bill
+b)  Consolidated Fund charges
+c)  Voting of Demands
+d)  Finance Bill
+#QuestionEnd
+#AnswerStart
+Answer: c)  Voting of Demands
+#AnswerEnd
+#QuestionStart
+Q98) The charged expenditure includes:
+a)  Any sums required to satisfy any judgement, decree or award of any court or arbitral tribunals
+b)  Debt charges for which the Government of India is liable
+c)  The salaries and allowances of certain high officials
+d)  All the above
+#QuestionEnd
+#AnswerStart
+Answer: d)  All the above
+#AnswerEnd
+#QuestionStart
+Q99) Statement I: The Parliament exerts authority over administration through the appropriation process.
+Statement II: The gross amount of the appropriation determines the volume of official activity and an itemized appropriation act may leave little or no administrative discretion.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q100) Consider the following statements:
+63.  After the demands for grants in the Annual Financial Statement are voted by the Lok Sabha, the grants so made as well as the expenditure charged on the Consolidated Fund of India are incorporated in the Annual Finance Bill.
+64.  The taxing proposals of the budget are included in an Appropriation Bill.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd

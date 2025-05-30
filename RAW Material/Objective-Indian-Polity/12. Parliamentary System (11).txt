@@ -1,0 +1,134 @@
+#QuestionStart
+Q1) Which of the following are the principles on the basis of which the Parliamentary system of government in India operates?
+1.  Nominal Executive Head
+2.  Vice-President as the Chairman of the Upper House
+3.  Real executive authority with the Council of Ministers
+4.  Executive responsibility to the Lower House
+Choose the correct answer from the codes given below:
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  1, 3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q2) The Constitution of India establishes parliamentary form of Government, and the essence of this form of government is its responsibility to the:
+a)  People of India
+b)  President
+c)  Prime Minister
+d)  Legislature
+#QuestionEnd
+#AnswerStart
+Answer: d)  Legislature
+#AnswerEnd
+#QuestionStart
+Q3) Under a cabinet form of Government, the cabinet generally remains in office:
+a)  For a fixed term
+b)  So long as it enjoys the confidence of the popular chamber of legislature
+c)  So long as it enjoys the confidence of the head of state
+d)  So long as it enjoys the confidence of the electorate
+#QuestionEnd
+#AnswerStart
+Answer: b)  So long as it enjoys the confidence of the popular chamber of legislature
+#AnswerEnd
+#QuestionStart
+Q4) In the parliamentary form of Government, the members of the Council of Ministers are collectively  responsible to:
+a)  The Head of State
+b)  The Chairman of the Upper House and the  Speaker of the Lower House
+c)  The popular House of the Parliament
+d)  The Prime Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  The popular House of the Parliament
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Types of Government)                          | List-II (Characteristics)                                          |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Parliamentary Government                          | 1.    Centralisation of powers                                     |
+| B.  Presidential Government                           | 2.    Division of powers                                           |
+| C.  Federal System                                    | 3.    Separation of powers                                         |
+| D.  Unitary System                                    | 4.    Collective responsibility                                    |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 4 3
+b)  4 3 2 1
+c)  2 3 4 1
+d)  4 1 2 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 3 2 1
+#AnswerEnd
+#QuestionStart
+Q6) Assertion (A): In a parliamentary democracy like India the Government goes out of power if the Lower House passes a no-confidence motion against the Government.
+Reason (R):  The Constitution of India provides for the removal of the Prime Minister through a  no-confidence motion passed in the Lok Sabha.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q7) Which one of the following is the main principle on which the Parliamentary system operates?
+a)  Supremacy of Parliament
+b)  Responsibility of Executive to Legislature
+c)  Supremacy of Judiciary
+d)  Theory of Separation of Power
+#QuestionEnd
+#AnswerStart
+Answer: b)  Responsibility of Executive to Legislature
+#AnswerEnd
+#QuestionStart
+Q8) In a parliamentary form of Government, ministers are appointed by:
+a)  The head of the state at his discretion
+b)  The head of the government
+c)  The head of the state on the recommendations of the head of the government
+d)  The legislature
+#QuestionEnd
+#AnswerStart
+Answer: c)  The head of the state on the recommendations of the head of the government
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following is not an essential feature of the parliamentary system?
+a)  Fusion of the Executive and the Legislature
+b)  Nominal head of the state
+c)  Collective responsibility
+d)  Fixed tenure of the executive
+#QuestionEnd
+#AnswerStart
+Answer: d)  Fixed tenure of the executive
+#AnswerEnd
+#QuestionStart
+Q10) Assertion (A): Parliamentary  system  of  government  is  based  on  the  principle  of  collective responsibility.
+Reason (R):  A parliamentary defeat is not necessarily a sufficient cause for resignation of the Ministry.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following features:
+5.  Presence of a nominal or titular head of state.
+6.  Collective responsibility of cabinet
+7.  Accountability of executive to the legislature
+8.  Separation of Powers
+Which of these are the features of a parliamentary form of Government?
+a)  2, 3 and 4
+b)  1, 2 and 4
+c)  1, 3 and 4
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd

@@ -1,0 +1,215 @@
+#QuestionStart
+Q1) Which of the following federal principles are not found in Indian federation?
+1.  Bifurcation of the judiciary between the Federal and State Governments
+2.  Equality of representation of the states in the upper house of the Federal Legislature
+3.  The Union cannot be destroyed by any state seceding from the Union at its will
+4.  Federal Government can redraw the map of the Indian Union by forming new States
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1 and 2
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) The Constitution of India is federal in character because:
+a)  The Head of the State (the President) is elected by an electoral college consisting of the elected members of both the Houses of Parliament and the elected members of the Legislative Assemblies of the States.
+b)  The Governors of States are appointed by the President and they hold office during the pleasure of the President.
+c)  There is distribution of powers between the Union and the States.
+d)  The amendment of the Constitution can be made only by following the procedure laid down in the Constitution and in some cases the amendment requires ratification by Legislatures of the States.
+#QuestionEnd
+#AnswerStart
+Answer: c)  There is distribution of powers between the Union and the States.
+#AnswerEnd
+#QuestionStart
+Q3) Assertion (A): Article 1 of the Constitution of India describes India as a Union of States rather than a federal state.
+Reason (R):  Indian federation is not the result of an agreement by the units; and the component units have no freedom to secede from it.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q4) In the Constitution of India, the term ‘Federal’:
+a)  Figures in the Preamble
+b)  Figures in Part III of the Constitution
+c)  Figures in Article 368
+d)  Does not figure anywhere
+#QuestionEnd
+#AnswerStart
+Answer: d)  Does not figure anywhere
+#AnswerEnd
+#QuestionStart
+Q5) When can the Parliament legislate on a subject in the state list?
+a)  If the Parliament passes a resolution to that effect in the national interest.
+b)  If the Supreme Court grants necessary authority to the Parliament.
+c)  If the Rajya Sabha passes a resolution by two-thirds majority declaring that the subject in the state list under consideration is of national importance.
+d)  If the President issues an ordinance transferring the subject from the state list to the union or the concurrent lists.
+#QuestionEnd
+#AnswerStart
+Answer: c)  If the Rajya Sabha passes a resolution by two-thirds majority declaring that the subject in the state list under consideration is of national importance.
+#AnswerEnd
+#QuestionStart
+Q6) The quotation, “The Indian Constitution establishes, indeed, a system of government which is at the most quasi-federal, a unitary State with subsidiary federal features rather than the federal State with unitary features” is attributed to:
+a)  I. Jennings
+b)  G. Austin
+c)  K.C. Wheare
+d)  H.J. Laski
+#QuestionEnd
+#AnswerStart
+Answer: c)  K.C. Wheare
+#AnswerEnd
+#QuestionStart
+Q7) What does the term “Federation” imply?
+a)  Fusion of powers
+b)  Separation of powers
+c)  Division of powers
+d)  Devolution of powers
+#QuestionEnd
+#AnswerStart
+Answer: c)  Division of powers
+#AnswerEnd
+#QuestionStart
+Q8) Assertion (A): India is a Union of States and not a Federal State.
+Reason (R):  In the Indian Constitution, the Centre is given emergency powers which can convert the Federal State into a Unitary State.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q9) The best form of federalism suited for countries like India is:
+a)  Centralised federalism
+b)  Bargaining federalism
+c)  Cooperative federalism
+d)  Conflicting federalism
+#QuestionEnd
+#AnswerStart
+Answer: c)  Cooperative federalism
+#AnswerEnd
+#QuestionStart
+Q10) Under the Indian Constitution, the residuary powers are vested in the:
+a)  Executive
+b)  Judiciary
+c)  Parliament
+d)  State legislatures
+#QuestionEnd
+#AnswerStart
+Answer: c)  Parliament
+#AnswerEnd
+#QuestionStart
+Q11) The structure of the Indian Constitution is:
+a)  Federal in form and unitary in spirit
+b)  Unitary
+c)  Unitary in form and federal in spirit
+d)  Pure federal
+#QuestionEnd
+#AnswerStart
+Answer: a)  Federal in form and unitary in spirit
+#AnswerEnd
+#QuestionStart
+Q12) Indian Federation closely resembles:
+a)  U.S.A.
+b)  Canada
+c)  Australia
+d)  Nigeria
+#QuestionEnd
+#AnswerStart
+Answer: b)  Canada
+#AnswerEnd
+#QuestionStart
+Q13) Assertion (A): K.C. Wheare calls Indian Constitution a quasi-federal Constitution.
+Reason (R):  There are three lists (Union, State and Concurrent) in the Seventh Schedule of the Constitution of India dividing powers between the Centre and the state and giving residuary powers to the central government.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q14) Parliament has power to legislate with respect to a matter in the State list provided it is in the:
+a)  National interest
+b)  Interest of the State concerned
+c)  Interest of the public
+d)  Interest of the minority
+#QuestionEnd
+#AnswerStart
+Answer: a)  National interest
+#AnswerEnd
+#QuestionStart
+Q15) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Forms of Government)                          | List-II (Essential Features)                                       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Cabinet Government                                | 1.    Separation of powers                                         |
+| B.  Presidential Government                           | 2.    Collective responsibility                                    |
+| C.  Federal Government                                | 3.    Concentration of powers                                      |
+| D.  Unitary Government                                | 4.    Division of powers                                           |
+|                                                       | 5.    Administrative law                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 2 5
+b)  2 1 4 3
+c)  3 5 1 2
+d)  4 1 2 5
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 1 4 3
+#AnswerEnd
+#QuestionStart
+Q16) Which among the following is/are the feature (s) of a Federal State ?
+5.  The powers of the Central and the State (Constituent Unit) Governments are clearly laid down.
+6.  It has an unwritten constitution.
+Select the correct answer using the codes given below :
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q17) Which Schedule of the Constitution of India contains the three lists that divide powers between the Union and the sates ?
+a)  Fifth Schedule
+b)  Sixth Schedule
+c)  Seventh Schedule
+d)  Eighth Schedule
+#QuestionEnd
+#AnswerStart
+Answer: c)  Seventh Schedule
+#AnswerEnd
+#QuestionStart
+Q18) Which one among the following pairs of level of government and legislative power is not correctly matched ?
+a)  Central Government : Union List
+b)  Local Governments : Residuary Powers
+c)  State Governments : State List
+d)  Central and State Governments : Concurrent List
+#QuestionEnd
+#AnswerStart
+Answer: b)  Local Governments : Residuary Powers
+#AnswerEnd
+#QuestionStart
+Q19) Who, among the following, expressed the view that the Indian Constitution is federal in as much as it establishes what may be called a Dual Polity ?
+a)  H.M. Seervai
+b)  K.C. Wheare
+c)  B.R. Ambedkar
+d)  Ivor Jennings
+#QuestionEnd
+#AnswerStart
+Answer: c)  B.R. Ambedkar
+#AnswerEnd

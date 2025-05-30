@@ -1,0 +1,97 @@
+#QuestionStart
+Q1) Consider the following functions:
+1.  Prescribing guidelines for preparation of the National Plan
+2.  Reviewing periodically the working of the National Plan
+3.  Recommending measures for the achievement of the aims and targets set out in the National Plan
+4.  Assessing the material, capital and human resources of the country
+Which of these are the functions of the National Development Council?
+a)  1, 2, 3 and 4
+b)  1 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q2) The National Development Council was set up as per:
+a)  The Government of India Act, 1935
+b)  The recommendations of the Finance Commission
+c)  The provisions of the Indian Constitution
+d)  The recommendations of the Planning Commission
+#QuestionEnd
+#AnswerStart
+Answer: d)  The recommendations of the Planning Commission
+#AnswerEnd
+#QuestionStart
+Q3) What is the objective of the National Development Council?
+a)  To approve the Five-Year Plan made by the Planning Commission with inputs from the Union and the State Governments.
+b)  To settle economic disputes among the Union and the State Governments.
+c)  To settle inter-ministerial disputes in the Union Government.
+d)  To settle inter-ministerial disputes in the State Governments.
+#QuestionEnd
+#AnswerStart
+Answer: a)  To approve the Five-Year Plan made by the Planning Commission with inputs from the Union and the State Governments.
+#AnswerEnd
+#QuestionStart
+Q4) The highest policy-making body in matters relating to National Planning is the:
+a)  Planning Commission
+b)  Finance Commission
+c)  Inter-State Council
+d)  National Development Council
+#QuestionEnd
+#AnswerStart
+Answer: d)  National Development Council
+#AnswerEnd
+#QuestionStart
+Q5) Assertion (A): The National Development Council was constituted to secure the cooperation of States in the execution of the plan.
+Reason (R):  The Planning Commission is primarily an expert body without representatives from State Governments.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q6) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Bodies)                                       | List-II (Functions)                                                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  The Finance Commission                            | 1.  Plan Grants                                                    |
+| B.  The National Development Council                  | 2.  Certificate of Net Proceeds                                    |
+| C.  The Planning Commission                           | 3.  Common Economic Policies                                       |
+| D.  The C&AG                                          | 4.  Allocation of I.T. Proceeds                                    |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 4 3
+b)  4 3 1 2
+c)  3 4 2 1
+d)  2 1 3 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 3 1 2
+#AnswerEnd
+#QuestionStart
+Q7) For which one of the following, has a provision not been explicitly stated in the Constitution of India?
+a)  Inter-State Council
+b)  All India Services
+c)  Contingency Fund of India
+d)  National Development Council
+#QuestionEnd
+#AnswerStart
+Answer: d)  National Development Council
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following is the first and foremost function of the National Development Council?
+a)  To effect co-operation of efforts between the Union executive and the bureaucracy.
+b)  To effect co-operation of efforts between the Union executive and the Parliament.
+c)  To achieve the targets of the plan and to promote administrative efficiency.
+d)  To  effect  co-ordination  of  plan  efforts  among  the  Union  Government,  the  Planning Commission and the State Governments.
+#QuestionEnd
+#AnswerStart
+Answer: d)  To  effect  co-ordination  of  plan  efforts  among  the  Union  Government,  the  Planning Commission and the State Governments.
+#AnswerEnd

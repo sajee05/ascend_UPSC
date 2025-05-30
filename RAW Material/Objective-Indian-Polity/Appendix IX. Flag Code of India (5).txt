@@ -1,0 +1,76 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Flag Code of India, 2002, took effect from January 26, 2002 and superseded the “Flag Code-India” as it existed earlier.
+2.  For the sake of convenience, the Flag Code of India, 2002, has been divided into four parts.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q2) Who of the following dignitaries may fly the national flag on their cars, whenever they consider it necessary or advisable?
+1.  Deputy Minister of a State
+2.  Chairman of a State Legislative Council
+3.  Union Cabinet Minister
+4.  Head of Indian Mission
+Select the correct answer using the codes given below:
+a)  2 and 3
+b)  1 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+1.  The National Flag shall be rectangular in shape.
+2.  The ratio of the length to the height (width) of the flag shall be 4:3.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q4) The privilege of flying the national flag on motor cars is limited to the:
+1.  President
+2.  Vice-President
+3.  Governors
+4.  Lieutenant Governors
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1, 2 and 3
+c)  1, 2, 3 and 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Death of the Dignitary)                       | List-II (Half-Masting of the National Flag)                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Union Cabinet Minister                            | 1.  Throughout India                                               |
+| B.  Chief Justice of India                            | 2.  Throughout the State concerned                                 |
+| C.  Vice-President                                    | 3.  Delhi                                                          |
+| D.  Governor                                          | 4.  Delhi and State Capitals                                       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 1 2 3
+b)  3 1 4 2
+c)  3 4 2 1
+d)  4 3 1 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  4 3 1 2
+#AnswerEnd

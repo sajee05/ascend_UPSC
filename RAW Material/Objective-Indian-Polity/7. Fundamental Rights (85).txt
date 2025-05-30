@@ -1,0 +1,1007 @@
+#QuestionStart
+Q1) Consider the following statements:
+In view of Article 20 of the Constitution of India, no person accused of an offence can be compelled to:
+1.  Give his signature or thumb impression for identification.
+2.  Give oral testimony either in or out of the court.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+3.  The  writ  of  mandamus  is  available  not  only  against  judicial  authorities  but  also  against administrative authorities.
+4.  The writ of prohibition is issued only against judicial or quasi-judicial authorities.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+5.  There is no provision in the Constitution of India for reservation in the matters of promotion in the services under the state in favour of the scheduled castes and the scheduled tribes.
+6.  As per provisions of the Constitution of India, for getting reservation for the appointments and posts under the state, a class must be backward and should not be adequately represented in the services under the state.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements:
+7.  A Constitutional amendment inserting a regulation in the Ninth Schedule can be challenged on the ground of violation of basic structure of the Constitution.
+8.  Any legislation enacted by Parliament cannot be successfully challenged for affecting the basic structure of the Constitution.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following pairs is not correctly matched?
+a)  Freedom of speech and expression : Include the freedom of Press
+b)  Freedom of conscience : Include the right to wear and carry kirpans by Sikhs
+c)  Right to personal liberty : Include the right to carry on any trade or business
+d)  Right to equality : Include the principle of natural justice
+#QuestionEnd
+#AnswerStart
+Answer: c)  Right to personal liberty : Include the right to carry on any trade or business
+#AnswerEnd
+#QuestionStart
+Q6) Assertion (A): The principle of equality before law means that there should be equality of treatment under equal circumstances.
+Reason (R):  All persons are not equal by nature, attainment or circumstances.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q7) Which of the following are envisaged by the Right Against Exploitation in the Constitution of India?
+9.  Prohibition of traffic in human beings and forced labour
+10.  Abolition of untouchability
+11.  Protection of the interests of minorities
+12.  Prohibition of employment of children in factories and mines
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  2, 3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q8) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Writs)                                        | List-II (Ground)                                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Habeas Corpus                                     | 1.  Non-performance of public duties                               |
+| B.  Mandamus                                          | 2.  Unlawful detention                                             |
+| C.  Quo-Warranto                                      | 3.  Correctional directions to subordinate courts                  |
+| D.  Certiorari                                        | 4.  Unlawful occupation of public office                           |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 4 1 2
+b)  2 1 4 3
+c)  3 1 4 2
+d)  2 4 1 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 1 4 3
+#AnswerEnd
+#QuestionStart
+Q9) As far as the Armed Forces are concerned, the Fundamental Rights granted under Articles 14 and 19 of Constitution are:
+a)  Not available at all
+b)  Available to the Armed Forces but not to other forces
+c)  Available only at the discretion of the Chief of the Army staff
+d)  Available only according to law made by Parliament
+#QuestionEnd
+#AnswerStart
+Answer: d)  Available only according to law made by Parliament
+#AnswerEnd
+#QuestionStart
+Q10) In Indian Constitution, the power to issue a writ of ‘Habeas Corpus’ is vested only in:
+a)  The Supreme Court
+b)  The High Courts
+c)  The Subordinate Courts
+d)  The Supreme Court and the High Courts
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Supreme Court and the High Courts
+#AnswerEnd
+#QuestionStart
+Q11) Which of the following rights is not explicitly mentioned in the Fundamental Rights but has been upheld to be so by several pronouncements of the Supreme Court?
+a)  Equity before law
+b)  Right to non-discrimination in public employment
+c)  Right to form associations or unions
+d)  Right to freedom of Press
+#QuestionEnd
+#AnswerStart
+Answer: d)  Right to freedom of Press
+#AnswerEnd
+#QuestionStart
+Q12) Which of the following statements are true with regard to the Fundamental Rights of the minorities in educational matters?
+13.  The minority has only the right to administer the educational institutions.
+14.  The minority has the right to establish and administer educational institutions.
+15.  The right is absolute and not subject to any restriction.
+16.  Reasonable restrictions may be imposed to promote efficiency and prevent maladministration.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2 and 4
+c)  2, 3 and 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following pairs is not correctly matched?
+a)  Article 15 : Special  provisions  for  socially  and  educationally backward classes.
+b)  Article 22 : Safeguards under Preventive Detention
+c)  Article 20 : Immunity from double punishment
+d)  Article 16 : Discrimination in favour of women in service under the State
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 16 : Discrimination in favour of women in service under the State
+#AnswerEnd
+#QuestionStart
+Q14) Which of the following statements is/are correct of the writ of prohibition?
+17.  It is an order issued by a higher court commanding a lower court to cease from proceeding in some matters not within its jurisdiction.
+18.  It can be claimed by an aggrieved party as a matter of right.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q15) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provisions)                                   | List-II (Contained In)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Liberty of thought and expression                 | 1.  Right to freedom                                               |
+| B.  Freedom of speech and expression                  | 2.  Cultural and educational rights                                |
+| C.  Making special provision for women and children   | 3.  Preamble                                                       |
+| D.  Protection of interest of Minorities              | 4.  Protection of life and liberty                                 |
+|                                                       | 5.  Right to equality                                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 1 5 2
+b)  2 5 4 1
+c)  3 5 4 2
+d)  2 4 5 1
+#QuestionEnd
+#AnswerStart
+Answer: a)  3 1 5 2
+#AnswerEnd
+#QuestionStart
+Q16) Under the Indian Constitution, which one of the following is not a specific ground on which the State can place restrictions on freedom of religion?
+a)  Public order
+b)  Morality
+c)  Social Justice
+d)  Health
+#QuestionEnd
+#AnswerStart
+Answer: c)  Social Justice
+#AnswerEnd
+#QuestionStart
+Q17) The scope of ‘life and personal liberty’, as envisaged in Article 21 of the Constitution of India, has expanded considerably over the years. Which one of the following can still not be subject of this protection?
+a)  The Right to good health
+b)  The Right of a bonded labour to rehabilitation after release
+c)  The Right, under a settlement, to claim bonus or dearness allowance
+d)  The Right to livelihood by means which are not illegal, immoral or opposed to public policy
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Right, under a settlement, to claim bonus or dearness allowance
+#AnswerEnd
+#QuestionStart
+Q18) Assertion (A): Preventive Detention is included in the chapter on Fundamental Rights in the Constitution of India.
+Reason (R):  The  Constitution  has  vested  the  legislative  power  with  regard  to  preventive detention in the Parliament only and the State Legislatures have no authority in this regard.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q19) Which of the following is not included in Article 19 of the Constitution of India, pertaining to the Right to Freedom?
+a)  Right to reside and settle in any part of the territory of India
+b)  Right of minorities to establish and administer educational institutions
+c)  Right to form associations or unions
+d)  Right to assemble peaceably and without arms
+#QuestionEnd
+#AnswerStart
+Answer: b)  Right of minorities to establish and administer educational institutions
+#AnswerEnd
+#QuestionStart
+Q20) Consider the following statements:
+The ‘State’ under Article 12 of the Indian Constitution includes:
+19.  The Government and Parliament of India.
+20.  The Government and legislature of the states.
+21.  Local authorities or other authorities within the territories of India or under the control of Government of India.
+Which of the statements given above are correct?
+a)  1, 2 and 3
+b)  1 and 2
+c)  2 and 3
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q21) Which one of the following rights was described by Dr. Ambedkar as ‘the heart and soul’ of the Constitution?
+a)  Right to equality
+b)  Right against exploitation
+c)  Right to constitutional remedies
+d)  Right to freedom of religion
+#QuestionEnd
+#AnswerStart
+Answer: c)  Right to constitutional remedies
+#AnswerEnd
+#QuestionStart
+Q22) Which one of the following freedoms is not guaranteed by the Constitution of India?
+a)  Freedom to own, acquire and dispose of property
+b)  Freedom to move freely throughout the country
+c)  Freedom to assemble peaceably and without arms
+d)  Freedom to practice any trade or profession
+#QuestionEnd
+#AnswerStart
+Answer: a)  Freedom to own, acquire and dispose of property
+#AnswerEnd
+#QuestionStart
+Q23) Assertion (A): One of the fundamental principles of the Indian Constitution is the Rule of Law.
+Reason (R):  The Constitution of India has guaranteed to every citizen the equality before law and has recognized the judiciary as the unfailing guardian of the rights of people.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q24) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Cases)                                        | List-II (Related to)                                               |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Indra Sawhney Case                                | 1.  Power of Parliament to amend Part III of the Constitution upheld |
+| B.  Minerva Mills Case                                | 2.  Procedure Established by Law                                   |
+| C.  Gopalan Case                                      | 3.  Reservation for Backward Classes                               |
+| D.  Shankari Prasad Case                              | 4.  Revival of Judicial Review                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 1 2 4
+b)  2 4 3 1
+c)  3 4 2 1
+d)  2 1 3 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 4 2 1
+#AnswerEnd
+#QuestionStart
+Q25) Which one of the following is the correct statement?
+Right to privacy as a Fundamental Right is implicit in:
+a)  The Right to Freedom
+b)  The Right to Personal Liberty
+c)  The Right to Equality
+d)  The Right Against Exploitation
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Right to Personal Liberty
+#AnswerEnd
+#QuestionStart
+Q26) Assertion (A):  An accused person cannot be compelled to give his thumb impression.
+Reason (R):   An accused person cannot be compelled to be a witness against himself.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q27) Right to Education is a fundamental right emanating from right to:
+a)  Freedom of speech and expression under Article 19
+b)  Culture and education under Articles 29 and 30
+c)  Life and personal liberty under Article 21
+d)  Equality before law and equal protection of the laws under Article 14
+#QuestionEnd
+#AnswerStart
+Answer: c)  Life and personal liberty under Article 21
+#AnswerEnd
+#QuestionStart
+Q28) The State shall not make any law which takes away or abridges the fundamental rights. Which one of the following shall not be construed as law for this purpose?
+a)  Ordinance
+b)  Bye-law
+c)  Rule
+d)  Constitutional amendment
+#QuestionEnd
+#AnswerStart
+Answer: d)  Constitutional amendment
+#AnswerEnd
+#QuestionStart
+Q29) On which one of the following freedoms, can reasonable restrictions be imposed on the ground of the security of the state?
+a)  Speech and expression
+b)  Peaceful assembly
+c)  Association or union
+d)  Movement
+#QuestionEnd
+#AnswerStart
+Answer: a)  Speech and expression
+#AnswerEnd
+#QuestionStart
+Q30) Which of the following are mentioned under separate Articles in Part III of the Constitution of India pertaining to Fundamental Rights?
+22.  Abolition of untouchability
+23.  Abolition of titles
+24.  Freedom as to payment of taxes for promotion of any particular religion
+25.  Protection of interests of minorities
+Select the correct answer by using the codes given below:
+a)  1 and 2
+b)  2, 3 and 4
+c)  3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q31) Fundamental rights guaranteed in the Indian Constitution can be suspended only by:
+a)  A proclamation of national emergency
+b)  An Act passed by the Parliament
+c)  An amendment of the Constitution
+d)  The judicial decisions of the Supreme Court
+#QuestionEnd
+#AnswerStart
+Answer: a)  A proclamation of national emergency
+#AnswerEnd
+#QuestionStart
+Q32) The Right to Property was converted into a legal right from a Fundamental Right, because it:
+a)  Tied the hands of the government to prevent corruption
+b)  Gave rise to litigations that made judiciary overburden
+c)  Led to severe conflict between judiciary and the Parliament
+d)  Increased public resentment
+#QuestionEnd
+#AnswerStart
+Answer: c)  Led to severe conflict between judiciary and the Parliament
+#AnswerEnd
+#QuestionStart
+Q33) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Writ)                                         | List-II (Purpose)                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Writ of mandamus                                  | 1.  Prohibition of an action                                       |
+| B.  Writ of injunction                                | 2.  Direction to the official for the performance of a duty        |
+| C.  Writ of certiorari                                | 3.  Trial of  the right to a title or elective office              |
+| D.  Writ of quo-warranto                              | 4.  Transferring of a case from lower court to a court of higher jurisdiction |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 4 3
+b)  1 2 3 4
+c)  3 4 2 1
+d)  4 3 1 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 1 4 3
+#AnswerEnd
+#QuestionStart
+Q34) Under Article 22 of the Constitution of India, with the exception of certain provisions stated therein, what is the maximum period for detention of a person under preventive detention?
+a)  2 months
+b)  3 months
+c)  4 months
+d)  6 months
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 months
+#AnswerEnd
+#QuestionStart
+Q35) Which one of the following Fundamental Rights is guaranteed only to the citizens of India and not to the foreigners living in India?
+a)  Equality before law and equal protection of laws
+b)  Freedom of speech and expression
+c)  Right to life and liberty
+d)  Right to the freedom of religion
+#QuestionEnd
+#AnswerStart
+Answer: b)  Freedom of speech and expression
+#AnswerEnd
+#QuestionStart
+Q36) The Supreme Court has increased the ambit of the Right to Life (Article 21) to include which of the following?
+26.  Right to life includes the Right to live with dignity
+27.  Right to life includes the Right to livelihood
+28.  Right to life includes the Right to receive minimum wages
+29.  Right to life includes the Right to guaranteed employment for 100 days in a year
+Select the correct answer using the codes given below:
+a)  Only 4
+b)  1 and 2
+c)  1, 2 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q37) In accordance with the text of the Constitution, a reasonable restriction in the interest of ‘sovereignty and integrity’ of India can be imposed on the right to:
+a)  Freedom of speech and expression
+b)  Move freely throughout the territory of India
+c)  Reside and settle in any part of the territory
+d)  Carry on any occupation, trade or business of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  Freedom of speech and expression
+#AnswerEnd
+#QuestionStart
+Q38) Which one of the following is the best justification for the affirmative action policies in India?
+a)  The principle of non-discrimination
+b)  The principle of equal opportunity
+c)  The principle of group disadvantage
+d)  The principle of radical redistribution
+#QuestionEnd
+#AnswerStart
+Answer: b)  The principle of equal opportunity
+#AnswerEnd
+#QuestionStart
+Q39) Assertion (A): The Indian Constitution recognizes the supremacy of judiciary.
+Reason (R):  The question as to what constitutes a reasonable restriction on fundamental rights is to be determined by the courts of law.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q40) Under the term “Double Jeopardy” implied in Article 20 of the Constitution of India, a person:
+a)  Convicted by a court of law cannot be punished under departmental proceedings for the same offence.
+b)  Punished departmentally cannot be prosecuted in a court of law for the same offence.
+c)  Shall not be prosecuted and punished for the same offence more than once.
+d)  Cannot be subjected to proceedings in civil courts for disobedience of an injunction along with criminal proceedings.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Shall not be prosecuted and punished for the same offence more than once.
+#AnswerEnd
+#QuestionStart
+Q41) Reservation of seats in educational institutions in favour of Scheduled Castes and Scheduled Tribes is governed by:
+a)  Article 15 of the Constitution
+b)  Article 16 of the Constitution
+c)  Article 29 of the Constitution
+d)  Article 14 of the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: a)  Article 15 of the Constitution
+#AnswerEnd
+#QuestionStart
+Q42) What is the correct sequence of the following?
+30.  Scheduled Castes Order
+31.  Untouchability Offences Act
+32.  Protection of Civil Rights Act
+33.  Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act
+Select the correct answer using the codes given below:
+a)  3, 4, 1, 2
+b)  4, 1, 2, 3
+c)  1, 2, 3, 4
+d)  2, 3, 4, 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2, 3, 4
+#AnswerEnd
+#QuestionStart
+Q43) Which one of the following pairs is not correctly matched?
+a)  Right to Equality : Includes the principle of natural justice
+b)  Right to personal liberty : Includes right to livelihood
+c)  Protections available to an accused person : Includes protection against ex-post facto laws in civil matters
+d)  Protections against arrest and detention : Includes right to consult and to be defended by a legal practitioner of one’s choice
+#QuestionEnd
+#AnswerStart
+Answer: c)  Protections available to an accused person : Includes protection against ex-post facto laws in civil matters
+#AnswerEnd
+#QuestionStart
+Q44) Which of the following Fundamental Rights cannot be suspended during emergency?
+a)  Freedoms under Article 19
+b)  Right to constitutional remedies under Articles 32 and 226
+c)  Rights under Articles 21 and 22
+d)  Rights under Articles 20 and 21
+#QuestionEnd
+#AnswerStart
+Answer: d)  Rights under Articles 20 and 21
+#AnswerEnd
+#QuestionStart
+Q45) Assertion (A): Speaking on Article 32 in the Constituent Assembly, Dr. Ambedkar described the Article as the very soul of the Constitution.
+Reason (R):  Article 32 provides effective remedies against violation of fundamental rights.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q46) Which of the following statements about the right to freedom of religion is not correct?
+a)  The State can regulate the economic, financial, political or other secular activities which may be associated with religious practices.
+b)  Restrictions can be imposed on the right to freedom of religion on grounds of maintenance of public order, morality or health.
+c)  Every religious denomination has the right to establish and maintain institutions for religious and charitable purposes.
+d)  Funds appropriated by a religious denomination for promoting and maintaining a particular religion are taxable.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Funds appropriated by a religious denomination for promoting and maintaining a particular religion are taxable.
+#AnswerEnd
+#QuestionStart
+Q47) Through which provisions does the Constitution of India explicitly prohibits racial discrimination in India?
+a)  Articles 14 and 17
+b)  Articles 17 and 23
+c)  Articles 15 and 16
+d)  Article 17 only
+#QuestionEnd
+#AnswerStart
+Answer: c)  Articles 15 and 16
+#AnswerEnd
+#QuestionStart
+Q48) Which one of the following rights cannot be inferred from Article 21 of the Constitution?
+a)  Right against inhuman treatment
+b)  Right against delayed execution
+c)  Right against solitary confinement
+d)  Right to form association
+#QuestionEnd
+#AnswerStart
+Answer: d)  Right to form association
+#AnswerEnd
+#QuestionStart
+Q49) Which one of the following pairs is correctly matched?
+a)  Writ of Habeas Corpus : Available against private individuals as well
+b)  Writ of Quo-Warranto : Available against subordinate courts only
+c)  Writ of Certiorari : Available against autonomous bodies only
+d)  Writ of Prohibition : Available against public servants only
+#QuestionEnd
+#AnswerStart
+Answer: a)  Writ of Habeas Corpus : Available against private individuals as well
+#AnswerEnd
+#QuestionStart
+Q50) Assertion (A): Education is the fundamental right of every child between the age of 6 and 14 years.
+Reason (R):  The 84th Constitutional Amendment Act provided for right to education.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not   the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q51) Which one of the following Fundamental Rights is available to both the citizens and aliens?
+a)  The right to equality of opportunity in public employment
+b)  The right to freedoms under Article 19
+c)  Cultural and educational rights
+d)  The right to equality before law
+#QuestionEnd
+#AnswerStart
+Answer: d)  The right to equality before law
+#AnswerEnd
+#QuestionStart
+Q52) Which of the following are not included in the right to freedom of religion in the Constitution of India?
+34.  Freedom of conscience and the right to practice and propagate religion
+35.  Levying of taxes or use of funds of the Government for the promotion or maintenance of any religion
+36.  Establishment and maintenance of religious and charitable institutions
+37.  Imparting of religious instruction in any Government maintained institution
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1, 2 and 3
+c)  1, 3 and 4
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q53) Which one of the under mentioned rights is guaranteed to citizens as right to freedom under Article 19?
+a)  The right to vote
+b)  The right to citizenship
+c)  The right to contest an election
+d)  The right to assemble peaceably and without arms
+#QuestionEnd
+#AnswerStart
+Answer: d)  The right to assemble peaceably and without arms
+#AnswerEnd
+#QuestionStart
+Q54) Assertion (A): In Minerva Mills v. Union of India, Art.31-C as amended by the Constitution (Forty-second Amendment) Act, 1976 was held invalid.
+Reason (R):  The amendment of Art. 31-C destroyed the basic structure of the Constitution.
+Codes:
+a)  Both A and R are individually true and R  is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R  is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q55) Which of the following are the grounds on which discrimination of citizens for admission into educational institutions is constitutionally prohibited?
+38.  Religion and Race
+39.  Sex and Place of birth
+40.  Nationality and Colour
+41.  Age and Nativity
+Choose the correct answer from the codes given below:
+a)  1, 2, 3 and 4
+b)  1 and 2
+c)  1, 2 and 3
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q56) Which one of the following is the correct association?
+a)  Indra Sawhney Case : Basic structure of the Constitution
+b)  Minerva Mills Case : Invocation of Article 356
+c)  Menaka Gandhi Case : Just, fair and reasonable procedure of law
+d)  Gopalan Case : Financial Emergency
+#QuestionEnd
+#AnswerStart
+Answer: c)  Menaka Gandhi Case : Just, fair and reasonable procedure of law
+#AnswerEnd
+#QuestionStart
+Q57) Assertion (A): An accused person has been guaranteed the right to be informed of the nature and cause of accusation.
+Reason (R):             The accused person can get his conviction quashed upon vague and obscure charges.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q58) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Writ)                                         | List-II (Matter in Dispute)                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Habeas Corpus                                     | 1.  Appointment of a university teacher                            |
+| B.  Mandamus                                          | 2.  Custody of a child by parents                                  |
+| C.  Quo-Warranto                                      | 3.  Violation of natural justice                                   |
+| D.  Certiorari                                        | 4.  Refund of money illegally collected as cess by taxing  authority |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 3 2 4
+b)  2 4 1 3
+c)  1 4 2 3
+d)  2 3 1 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 4 1 3
+#AnswerEnd
+#QuestionStart
+Q59) Right to life emanates from:
+a)  Article 21 and includes right to die
+b)  Article 19 and does not include right to die
+c)  Articles 19 and 20 and does include right to die
+d)  Article 21 and does not include right to die
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 21 and does not include right to die
+#AnswerEnd
+#QuestionStart
+Q60) Which of the following Article (s) of the Constitution of India is/are exceptions to the Fundamental Rights enumerated in Article 14 or Article 19?
+a)  Article 31 A only
+b)  Article 31 C only
+c)  Article 31 A and Article 31 C both
+d)  Neither Article 31 A nor Article 31 C
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 31 A and Article 31 C both
+#AnswerEnd
+#QuestionStart
+Q61) Assertion (A): Article 14 of the Indian Constitution does not lay down that all laws must be of universal application.
+Reason (R):  State has power to classify persons for legitimate purpose and on reasonable grounds.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q62) For which of the following can special provisions be made under Article 15 of the Constitution of India?
+42.  Women and children
+43.           Scheduled Tribes
+44.  Economically backward classes
+45.           Socially backward classes
+Select the correct answer using the codes given below:
+a)  1, 2 and 4
+b)  1 and 3
+c)  2, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q63) Consider the following statements:
+46.  Quo-warranto is a very powerful instrument for safeguarding against the usurpation of public offices.
+47.  A High Court can issue a mandamus to compel a court or judicial tribunal to exercise its jurisdiction when it has refused to exercise it.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q64) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Writs)                                        | List-II (Implications)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Mandamus                                          | 1.  Direction to an official for the performance of duty           |
+| B.  Habeas Corpus                                     | 2.  Release of an illegally detained person                        |
+| C.  Certiorari                                        | 3.  Transferring of a case from an interior court to a court of higher jurisdiction. |
+| D.  Quo-warranto                                      | 4.  Calling upon one to show by what authority does he hold or claim a franchise or office. |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes :
+    A B C D
+a)  1 2 3 4
+b)  3 4 1 2
+c)  1 4 3 2
+d)  3 2 1 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 2 3 4
+#AnswerEnd
+#QuestionStart
+Q65) Freedom of the press in India is :
+a)  Available to the people under the law of the Parliament
+b)  Specifically provided in the Constitution
+c)  Implied in the right to freedom of expression
+d)  Available to the people of India under executive order
+#QuestionEnd
+#AnswerStart
+Answer: c)  Implied in the right to freedom of expression
+#AnswerEnd
+#QuestionStart
+Q66) The right to freedom of religion guaranteed in Article 25 of the Constitution of India is subject to which of the following ?
+a)  Public order, morality and to the other provisions of Part III of the Constitution of India
+b)  Public order, morality and health
+c)  Reasonable restrictions in the interests of the security of the State
+d)  Public order, morality and health and to the other provisions of Part III of the Constitution of India.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Public order, morality and health and to the other provisions of Part III of the Constitution of India.
+#AnswerEnd
+#QuestionStart
+Q67) Which one of the following writs examines the procedures of inferior Courts or Tribunals ?
+a)  Quo-warranto
+b)  Mandamus
+c)  Prohibition
+d)  Certiorari
+#QuestionEnd
+#AnswerStart
+Answer: d)  Certiorari
+#AnswerEnd
+#QuestionStart
+Q68) The 86th Constitutional Amendment deals with which of the following ?
+a)  Allocation of more number of parliamentary seats for recently created states.
+b)  Reservation of 30% posts for women in Panchayati Raj Institutions.
+c)  Insertion of Article 21A related with free and compulsory education for all children between the age of 6 and 14 years.
+d)  Continuation of reservation for backward classes in government employment.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Insertion of Article 21A related with free and compulsory education for all children between the age of 6 and 14 years.
+#AnswerEnd
+#QuestionStart
+Q69) The Article of the Constitution which automatically becomes suspended on proclamation of emergency is :
+a)  Article 14
+b)  Article 19
+c)  Article 21
+d)  Article 32
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 19
+#AnswerEnd
+#QuestionStart
+Q70) Which one of the following rights conferred by the Constitution of India is also available to non-citizens ?
+a)  Freedom of speech, assembly and form association
+b)  Freedom to move, reside and settle in any part of the territory of India
+c)  Freedom to carry on any occupation, trade or business
+d)  Equality before law and equal protection of laws
+#QuestionEnd
+#AnswerStart
+Answer: d)  Equality before law and equal protection of laws
+#AnswerEnd
+#QuestionStart
+Q71) Which one of the following writs is issued by an appropriate judicial authority/body to free a person who has been illegally detained ?
+a)  Quo-warranto
+b)  Mandamus
+c)  Certiorari
+d)  Habeas Corpus
+#QuestionEnd
+#AnswerStart
+Answer: d)  Habeas Corpus
+#AnswerEnd
+#QuestionStart
+Q72) Untouchability has been abolished by the Constitution of India under:
+a)  Article 14
+b)  Article 15
+c)  Article 16
+d)  Article 17
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 17
+#AnswerEnd
+#QuestionStart
+Q73) Which of the following Constitutional Amendments have added Article 15(5) in the Constitution of India providing for reservation in educational institutions in the private sector also ?
+a)  81st Amendment
+b)  86th Amendment
+c)  91st Amendment
+d)  93rd Amendment
+#QuestionEnd
+#AnswerStart
+Answer: d)  93rd Amendment
+#AnswerEnd
+#QuestionStart
+Q74) The writ of certiorari is issued by a superior court to :
+a)  An inferior court to stop further proceedings in a particular case
+b)  An inferior court to transfer the record of proceedings in a case for review
+c)  An officer to show his right to hold a particular office
+d)   A public authority to produce a person detained by it before the court within 24 hours
+#QuestionEnd
+#AnswerStart
+Answer: b)  An inferior court to transfer the record of proceedings in a case for review
+#AnswerEnd
+#QuestionStart
+Q75) Which one of the following statements is not correct ?
+a)  Right to livelihood is an integral facet of the Right to life
+b)  Natural justice is implicit in Article 21
+c)  The Right to life includes the Right to health
+d)  Right to go abroad is not a Fundamental Right under Article 21
+#QuestionEnd
+#AnswerStart
+Answer: d)  Right to go abroad is not a Fundamental Right under Article 21
+#AnswerEnd
+#QuestionStart
+Q76) Which one of the following is the correct statement ?
+The writ of Mandamus can be issued :
+a)  Against the legislature for making law
+b)  For performance of a public duty
+c)  For exercise of discretionary powers
+d)  For deciding legality of an arrest
+#QuestionEnd
+#AnswerStart
+Answer: b)  For performance of a public duty
+#AnswerEnd
+#QuestionStart
+Q77) According to the Constitution of India, which one of the following rights cannot be taken away during emergency ?
+a)  Right to speak
+b)  Right to freedom of movement
+c)  Right to life
+d)  Right to organize
+#QuestionEnd
+#AnswerStart
+Answer: c)  Right to life
+#AnswerEnd
+#QuestionStart
+Q78) The right to property was removed from the list of Fundamental Rights enlisted in the Constitution through which one of the following Amendments ?
+a)  73rd Amendment
+b)  23rd Amendment
+c)  44th Amendment
+d)  76th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: c)  44th Amendment
+#AnswerEnd
+#QuestionStart
+Q79) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Writs)                                        | List-II (Meanings)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Habeas Corpus                                     | 1.  What warrant or authority                                      |
+| B.  Mandamus                                          | 2.  Certified or to be made certain                                |
+| C.  Certiorari                                        | 3.  Command to perform public duty                                 |
+| D.  Quo-Warranto                                      | 4.  Produce the body of a person                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 3 2 1
+b)  3 4 2 1
+c)  4 3 1 2
+d)  3 4 1 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  4 3 2 1
+#AnswerEnd
+#QuestionStart
+Q80) Under the provisions of the Indian Constitution, a community can be declared a minority community on the basis of:
+a)  Religion only
+b)  Either religion or language
+c)  Either language or caste
+d)  Either religion or race
+#QuestionEnd
+#AnswerStart
+Answer: b)  Either religion or language
+#AnswerEnd
+#QuestionStart
+Q81) Article 30 of the Indian Constitution deals with the :
+a)  Freedom of conscience
+b)  Right to propagate religion
+c)  Right of minorities to establish and manage educational institutions
+d)  Cultural and educational rights of the majority community
+#QuestionEnd
+#AnswerStart
+Answer: c)  Right of minorities to establish and manage educational institutions
+#AnswerEnd
+#QuestionStart
+Q82) The 93rd amendment to the Constitution of India deals with :
+a)  Right to education
+b)  Rights in respect of physically handicapped persons for appointments in the services under the state
+c)  Reservation for admission in educational institutions
+d)  Reservation in the matters of promotion in the services under the State in favour of the other backward classes.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Reservation for admission in educational institutions
+#AnswerEnd
+#QuestionStart
+Q83) The Supreme Court of India declared by issuing a writ that “the respondent was not entitled to an office he was holding or a privilege he was exercising”. Which writ is that ?
+a)  Habeas Corpus
+b)  Prohibition
+c)  Quo-Warranto
+d)  Certiorari
+#QuestionEnd
+#AnswerStart
+Answer: c)  Quo-Warranto
+#AnswerEnd
+#QuestionStart
+Q84) When emergency under Article 352 of the Constitution is proclaimed, the President of India has no power to suspend the Fundamental Rights contained in which of the following Articles ?
+a)  20 and 21
+b)  19 and 20
+c)  21 and 22
+d)  19 and 21
+#QuestionEnd
+#AnswerStart
+Answer: a)  20 and 21
+#AnswerEnd
+#QuestionStart
+Q85) Which one of the following is not covered under Article 20 of the Constitution of India ?
+a)  Ex post facto laws
+b)  Preventive detention
+c)  Double jeopardy
+d)  Self-incrimination
+#QuestionEnd
+#AnswerStart
+Answer: b)  Preventive detention
+#AnswerEnd

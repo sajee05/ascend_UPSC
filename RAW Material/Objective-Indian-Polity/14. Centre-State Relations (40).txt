@@ -1,0 +1,509 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  For the Parliament to make laws with respect to any matter enumerated in the State List, a resolution must be passed in both the Houses of the Parliament.
+2.  A resolution passed as stated above can be extended beyond one year.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+The Article 73 of the Constitution of India which deals with the extent of executive power of the Union, provides that:
+3.  The executive power of the Union extends to all matters with respect to which the Parliament has the power to make laws.
+4.  The Government of India may also exercise such authority available under any treaty.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements about Union-State relations:
+5.  In case of overlapping of a matter between the three kinds of subjects of legislations, predominance has been given to the Union Legislation.
+6.  In the concurrent sphere, in the case of repugnancy between a Union and a State law relating to the same subject, the former prevails, even if the State law was reserved for the assent of the President and has received such assent.
+7.  The vesting of residual power under the Indian Constitution follows the precedent of Canada and not that of the Government of India Act, 1935.
+Which of the statements given above is/are correct?
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q4) Consider the following statements:
+8.  With the consent of the Government of India, the Governor of a State may entrust on the Union Government or to its officers functions relating to a State subject , to which executive power of that State extends.
+9.  The President of India cannot entrust to any State Government or to its officers, functions in relation to any matter to which the executive power of the Union extends.
+10.  There is a provision in the Constitution of India to create the National Integration Council.
+Which of the statements given above is/are correct?
+a)  1, 2 and 3
+b)  2 and 3 only
+c)  1 and 3 only
+d)  Only 1
+#QuestionEnd
+#AnswerStart
+Answer: d)  Only 1
+#AnswerEnd
+#QuestionStart
+Q5) What is the implication of the Union Government giving ‘Special Status’ to a State?
+a)  Subsequently large percentage of the Central assistance will be grants-in-aid
+b)  Current account budgetary deficit will be bridged by the Union Government
+c)  The extent of loan as a percentage of total assistance will be high
+d)  The Union Government meets entire expenditure of the State during the period of ‘Special Status’
+#QuestionEnd
+#AnswerStart
+Answer: a)  Subsequently large percentage of the Central assistance will be grants-in-aid
+#AnswerEnd
+#QuestionStart
+Q6) Who, among the following, can establish additional courts for better administration of any existing law with respect to a matter contained in the Union List?
+a)  Parliament by law
+b)  Parliament with the consent of states
+c)  Union Government by resolution
+d)  Supreme Court of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  Parliament by law
+#AnswerEnd
+#QuestionStart
+Q7) Assertion (A): The All-India Services violate the federal principle of the Constitution as well as the autonomy of States.
+Reason (R):  The All-India Service officers are governed by Central Government rules and the State Governments do not have full control over them.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following statements:
+11.  Parliament shall, while a proclamation of Emergency is in operation, have the power to make laws for the whole or any part of territory of India with respect to any of the matters enumerated in the State List.
+12.  Parliament has exclusive power to make any law with respect to any matter not enumerated in the Concurrent List or State List.
+13.  Parliament has power to make any law for the whole or any part of the territory of India for implementing any treaty, agreement or convention with any other country.
+14.  Parliament has power to legislate with respect to a matter in the State List in the national interest subject to the resolution passed by the Council of States by two-thirds majority.
+Which of these statements are correct?
+a)  1, 2 and 3
+b)  1, 2, 3 and 4
+c)  1, 3 and 4
+d)  2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q9) A law made by Parliament having extra-territorial operation shall:
+a)  Not be deemed invalid
+b)  Be deemed invalid
+c)  Be deemed ultravires
+d)  Be deemed unconstitutional
+#QuestionEnd
+#AnswerStart
+Answer: a)  Not be deemed invalid
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following is not a principal source of non-tax revenue of the Union?
+a)  Posts and Telegraphs
+b)  Broadcasting
+c)  Forests
+d)  Opium
+#QuestionEnd
+#AnswerStart
+Answer: c)  Forests
+#AnswerEnd
+#QuestionStart
+Q11) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Source)                                       | List-II (Tax)                                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Taxes levied by the Union but collected and appropriated by the States | 1.  Taxes on income other than agriculture and corporate tax       |
+| B.  Taxes levied, collected and retained by the states | 2.  Stamp duties                                                   |
+| C.  Taxes levied and collected by the Centre but assigned to the States | 3.  Capitation tax                                                 |
+| D.  Taxes levied and collected by the Centre and distributed between the Union and the States | 4.  Taxes on lands and buildings                                   |
+|                                                       | 5.  Taxes on consignment of goods in the course of inter-state trade |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 5 4 2
+b)  2 4 5 1
+c)  1 3 5 2
+d)  2 5 4 1
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 4 5 1
+#AnswerEnd
+#QuestionStart
+Q12) If any directions are issued by the Union Government to a State and they have not been complied with, then which one of the following statements is correct?
+a)  It shall be presumed that the constitutional machinery in the State had failed as per Article 365 of the Constitution
+b)  It shall be presumed that the State had law and order problem and action under Article 365 is required
+c)  The Union Government can appoint advisers to help the Governor for performing his functions
+d)  The Parliament may make laws for that State
+#QuestionEnd
+#AnswerStart
+Answer: a)  It shall be presumed that the constitutional machinery in the State had failed as per Article 365 of the Constitution
+#AnswerEnd
+#QuestionStart
+Q13) Which one of the following is the correct statement?
+A resolution passed by the Council of States under Article 249 empowering Parliament to legislate on State subjects in national interest remains in force for a period:
+a)  Not exceeding six months
+b)  Not exceeding two years
+c)  Not exceeding one year
+d)  Of unlimited time
+#QuestionEnd
+#AnswerStart
+Answer: c)  Not exceeding one year
+#AnswerEnd
+#QuestionStart
+Q14) Which of the following statements regarding the residuary powers in the Constitution of India are correct?
+15.  Residuary powers have been given to the Union Parliament
+16.  In the matter of residuary powers, the Constitution of India follows the Constitution of Australia
+17.  The final authority to decide whether a particular matter falls under the residuary power or not is the Parliament
+18.  The Government of India Act, 1935 placed residuary powers in the hands of the Governor-General
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2 and 3
+c)  1 and 4
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q15) Assertion (A): The Constitution makes a distinction between the legislative power to levy a tax and the power to appropriate the proceeds of tax so levied.
+Reason (R):  The constitution provides for grants-in-aid to the states from the central resources.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q16) Which of the following is/are correctly matched?
+19.  Duty levied by the Union but collected and appropriated by the States : Succession duty and estate duty in respect of property other than agricultural land
+20.  Taxes levied and collected by the Union but assigned to the States : Stamp duties and duties of excise on medicinal and toilet preparations
+Choose the correct answer from the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q17) Which of the following constitutional provisions facilitate Union control over States?
+21.  All-India services
+22.  Grants-in-aid
+23.  Inter-State Councils
+Select the correct answer using the codes given below:
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q18) The idea of the Union giving directions to the States was adopted by the makers of the Indian Constitution from:
+a)  The Government of India Act, 1935
+b)  The US Constitution
+c)  The Soviet Constitution
+d)  The Australian Constitution
+#QuestionEnd
+#AnswerStart
+Answer: a)  The Government of India Act, 1935
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following statements is not correct?
+a)  Parliament has exclusive power to make law on any matter in the Union List.
+b)  Parliament and State Legislatures both have power to make law on any matter in the Concurrent List.
+c)  In certain exceptional circumstances, State Legislatures can make law on a subject given in the Union List.
+d)  Parliament can make law on State subjects in certain circumstances.
+#QuestionEnd
+#AnswerStart
+Answer: c)  In certain exceptional circumstances, State Legislatures can make law on a subject given in the Union List.
+#AnswerEnd
+#QuestionStart
+Q20) Assertion (A): Sarkaria  Commission  recommended  that  the  Governor  of  a  state  should  be appointed after consultation with the Chief Minister of the state.
+Reason (R):  This could be achieved through amending Article 165 of the Indian Constitution.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q21) Who among the following said, “There can be no doubt that the standard of administration depends upon the caliber of civil servants who are appointed to these strategic posts”?
+a)  Jawaharlal Nehru
+b)  Dr. B.R. Ambedkar
+c)  Sardar Vallabhbhai Patel
+d)  Warren Hastings
+#QuestionEnd
+#AnswerStart
+Answer: b)  Dr. B.R. Ambedkar
+#AnswerEnd
+#QuestionStart
+Q22) On the subject of Income Tax:
+a)  The Union Government has more powers than State governments
+b)  The State governments have more powers than the Union government
+c)  Both Union and State governments have equal powers but Union shall prevail in case of conflict
+d)  Only the Union government has power
+#QuestionEnd
+#AnswerStart
+Answer: d)  Only the Union government has power
+#AnswerEnd
+#QuestionStart
+Q23) Verdicts of the Supreme Court of India in which of the following cases have a direct bearing on Centre-State relations?
+24.  S.R. Bommai Case
+25.  Kesavananda Bharati Case
+26.  Menaka Case
+27.  Indra Sawhney Case
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 2
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q24) Which one of the following is the correct statement?
+The rule of repugnancy has application in a case where:
+a)  Both Union and State occupy two different fields in different Lists
+b)  Both Union and State laws are enacted under the Concurrent List
+c)  The Union law is enacted under List III and State law is enacted under List II
+d)  The Union and State laws are enacted under the State List
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both Union and State laws are enacted under the Concurrent List
+#AnswerEnd
+#QuestionStart
+Q25) Assertion (A): Parliament or a State Legislature should keep within the domain assigned to it and one should not trespass into the domain reserved for the other.
+Reason (R):  Legislation will be invalid if it encroaches on matters which have been assigned to another legislature.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q26) Which of the following taxes are levied and collected and retained by the States?
+28.  Taxes on mineral rights
+29.  Taxes on entry of goods into a local area
+30.  Taxes on agricultural income
+31.  Taxes on professions, trades, callings and employments
+Select the correct answer using the codes given below:
+a)  1, 3 and 4
+b)  1, 2 and 3
+c)  2 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q27) Which of the following taxes belong to the Union exclusively?
+a)  Customs Duties
+b)  Land Revenue
+c)  Surcharge on Income Tax
+d)  Corporation Tax
+#QuestionEnd
+#AnswerStart
+Answer: c)  Surcharge on Income Tax
+#AnswerEnd
+#QuestionStart
+Q28) Consider the following statements:
+The executive power of the Union extends to giving of directions to a State in respect of:
+32.  Construction and maintenance of means of communication of national or military importance
+33.  Maintenance of law and order in the State
+34.  Protection of railways within the State
+35.  Protection of secular character of the country
+Which of the statements given above are correct?
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q29) In case of inconsistency between laws made by Parliament and the laws made by the State Legislatures, which one of the following shall prevail?
+a)  The law made by Parliament before the law made by the legislature of the State
+b)  The law made by Parliament after the law made by the legislature of the State
+c)  The law made by Parliament before or after the law made by the legislature of the State
+d)  The law made by the legislature of the State
+#QuestionEnd
+#AnswerStart
+Answer: c)  The law made by Parliament before or after the law made by the legislature of the State
+#AnswerEnd
+#QuestionStart
+Q30) Consider the following pairs:
+36.  Taxes levied by the Union but collected and appropriated by the States : Stamp duties
+37.  Taxes levied and collected by the Centre but assigned to the States : Taxes on the sale of goods in the course of inter-state trade
+Which of the pairs given above is/are correctly matched?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q31) Which of the following formed a part of the terms of reference of the Punchhi Commission on Centre-State Relations constituted by the Government of India?
+38.  Panchayati Raj institutions
+39.  Communal violence
+40.  An integrated domestic market
+41.  Central Law Enforcement Agency
+Select the correct answer using the codes given below:
+a)  1 and 4 only
+b)  2 and 3 only
+c)  1, 2 and 3 only
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q32) Consider the following statements:
+The Parliament becomes competent to make law on a matter enumerated in the state list only if the:
+42.  Council of States passes a resolution supported by not less than two-thirds majority of the members present and voting that it is in the national interest that the Parliament should make law on such matter.
+43.  Council of States and House of the People, both passes a resolution that it is in the national interest that the Parliament should make law on such matter.
+44.  President gives the prior permission for such legislation.
+45.  Speaker of the House of the People in consultation with Chairman of the Council of States gives the prior permission for such legislation.
+Which of these statements is/are correct?
+a)  Only 1
+b)  1, 2 and 3
+c)  2 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q33) Assertion (A): There has been a growing demand for review of Centre-State relationships.
+Reason (R):  The states have no adequate resources to take up developmental projects.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q34) Which one of the following statements is not correct?
+a)  No law made by a State legislature shall be treated as unconstitutional if it incidentally touches upon the jurisdiction provided for under List I or List III.
+b)  The legislature of a State cannot make a law to regulate “Water”.
+c)  The law made by Parliament under Article 357 for a State continues its application after the expiry of President’s rule.
+d)  Parliament has full power to make law on a residuary matter.
+#QuestionEnd
+#AnswerStart
+Answer: b)  The legislature of a State cannot make a law to regulate “Water”.
+#AnswerEnd
+#QuestionStart
+Q35) Which one of the following is not correct?
+a)  The executive power of every State shall be so exercised as to ensure compliance with the laws made by the Parliament
+b)  Full faith and credit shall be given throughout the territory of India to public acts, records and judicial proceedings of the Union and of every State.
+c)  The Governor of a State may entrust to the Government of India any matter to which the executive power of the State extends.
+d)  The executive power of the Union extends to the giving of directions to a state to protect the railways within the State.
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Governor of a State may entrust to the Government of India any matter to which the executive power of the State extends.
+#AnswerEnd
+#QuestionStart
+Q36) The division of legislative powers between the Centre and the States under the present Constitution of India is similar to between the Centre and the Provinces under the Government of India Act, 1935, in some of the following respects:
+46.  In case of overlap of a matter as between the three lists or subjects, predominance in both is given to the Central legislature.
+47.  In case of repugnancy in the Concurrent field, in both a Central law prevails over a Provincial or State law.
+48.  In both, residuary powers were vested in the Central legislature.
+Which of the above are true?
+a)  1, 2 and 3
+b)  1 and 2
+c)  1 and 3
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q37) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Source)                                       | List-II (Tax)                                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Tax levied by the Union of India and assigned to the Centre | 1.  Income Tax                                                     |
+| B.  Tax levied by the Union of India but assigned to the States | 2.  Land Revenue                                                   |
+| C.  Tax levied by the State and assigned to the State | 3.  Taxes on goods of inter-state trade                            |
+| D.  Tax levied by the Union of India and distributed between the Union and the States | 4.  Surcharge                                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 1 2 3
+b)  2 3 4 1
+c)  2 1 4 3
+d)  4 3 2 1
+#QuestionEnd
+#AnswerStart
+Answer: d)  4 3 2 1
+#AnswerEnd
+#QuestionStart
+Q38) Assertion (A): The  second  Commission  on  Centre-State  relations  was  constituted  by  the Government  of  India  by  amending  the  Constitution  of  India,  and  thus  a constitutional status was bestowed on it.
+Reason (R):  Issues like role of Governors, economic and social planning which were a part of the terms of reference of the Commission are very important issues in the governance of India.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q39) Consider the following statements:
+49.  In extraordinary circumstances, the normal distribution of power between the Centre and the States is either suspended or the powers of the union parliament are extended over the state subjects.
+50.  The Indian Constitution vests the residuary power in the Union Parliament and the final decision as to whether a particular matter falls under the residuary power or not is that of the Supreme Court.
+51.  The Union Government has the power to give directions to the state governments to ensure due compliance with Union laws.
+52.  If the Legislatures of two or more states so resolve, Parliament can make laws with respect to any matter included in the state list relating to those states.
+Which of these describe the nature of Indian Federalism?
+a)  1, 2, 3 and 4
+b)  1, 2 and 3
+c)  2 and 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q40) Consider the following statements:
+53.  Sarkaria Commission recommended that the Union Government may persuade the State Governments for constitution of an All-India Service for education.
+54.  All-India Services are included in the Concurrent List of the Constitution of India.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd

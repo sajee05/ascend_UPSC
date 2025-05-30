@@ -1,0 +1,137 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Central Information Commission can order inquiry into any matter if there are reasonable grounds.
+2.  The Central Information Commission has the power to secure compliance of its decisions from the public authority.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Who among the following are members of a committee that recommends the appointment of the Chief Information Commissioner?
+1.  Prime Minister
+2.  Leader of opposition in the Lok Sabha
+3.  Leader of opposition in the Rajya Sabha
+4.  Union Cabinet Minister nominated by the Prime Minister
+5.  Speaker of the Lok Sabha
+Select the correct answer using the codes given below:
+a)  1, 2 and 4
+b)  1, 2, 3 and 5
+c)  1, 2, 3 and 4
+d)  1, 2 and 5
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q3) The Central Information Commission entertains complaints and appeals pertaining to offices, financial institutions and public sector undertakings under the:
+1.  Central government
+2.  State government
+3.  Local government
+4.  Union territories
+Select the correct answer using the codes given below:
+a)  1 and 4
+b)  Only 1
+c)  1, 2, 3 and 4
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q4) The salary, allowances and other service conditions of the Chief Information Commissioner are similar to those of:
+a)  A judge of the Supreme Court
+b)  The chairman of the UPSC
+c)  The Chief Election Commissioner
+d)  The Central Vigilance Commissioner
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Chief Election Commissioner
+#AnswerEnd
+#QuestionStart
+Q5) The Central Information Commission submits its annual report to the:
+a)  President
+b)  Parliament
+c)  Supreme Court
+d)  Central Government
+#QuestionEnd
+#AnswerStart
+Answer: d)  Central Government
+#AnswerEnd
+#QuestionStart
+Q6) An Information Commissioner can be removed from the office by the President on the advise / recommendation of the:
+a)  Supreme Court
+b)  Parliament
+c)  Central Vigilance Commission
+d)  Union Public Service Commission
+#QuestionEnd
+#AnswerStart
+Answer: a)  Supreme Court
+#AnswerEnd
+#QuestionStart
+Q7) The Central Information Commission was established in:
+a)  2000
+b)  2002
+c)  2005
+d)  2006
+#QuestionEnd
+#AnswerStart
+Answer: c)  2005
+#AnswerEnd
+#QuestionStart
+Q8) The Central Information Commission consists of a Chief Information Commissioner and not more than:
+a)  Five Information Commissioners
+b)  Ten Information Commissioners
+c)  Six Information Commissioners
+d)  Eight Information Commissioners
+#QuestionEnd
+#AnswerStart
+Answer: b)  Ten Information Commissioners
+#AnswerEnd
+#QuestionStart
+Q9) What is the term of office of the Chief Information Commissioner and an Information Commissioner?
+a)  4 years
+b)  5 years
+c)  6 years
+d)  Not fixed
+#QuestionEnd
+#AnswerStart
+Answer: b)  5 years
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following provided for the establishment of the Central Information Commission?
+a)  An order of the Supreme Court
+b)  A resolution of the Parliament
+c)  An Act of the Parliament
+d)  A resolution of the Union Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: c)  An Act of the Parliament
+#AnswerEnd
+#QuestionStart
+Q11) The Central Information Commission falls under the:
+a)  Ministry of Law
+b)  Ministry of Home Affairs
+c)  Ministry of Personnel
+d)  Ministry of Communications and Information  Technology
+#QuestionEnd
+#AnswerStart
+Answer: c)  Ministry of Personnel
+#AnswerEnd
+#QuestionStart
+Q12) Consider the following statements:
+1.  The Central Information Commission is a high-powered independent body.
+2.  The Central Information Commission is a constitutional body.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd

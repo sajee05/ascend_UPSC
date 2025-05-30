@@ -1,0 +1,247 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The Comptroller and Auditor-General of India has no control over the issue of money from the Consolidated Fund of India.
+2.  The term of the office of the Comptroller and Auditor General of India has been fixed by an Act enacted by Parliament.
+Which of the statement(s) given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following statements regarding the Comptroller and Auditor General of India is / are true?
+The Report of the Comptroller and Auditor General of India:
+1.  Can be considered by the joint session of both Houses of Parliament
+2.  Includes examination of income and expenditure of all public sector undertakings
+3.  Is placed before the Lok Sabha with the comments of the Estimates Committee
+4.  Constitutes the basis for scrutiny by the Public Accounts Committee of the Parliament
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  2 and 4
+d)  Only 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following statements is not correct with regard to the Comptroller and Auditor General of India (CAG)?
+a)  The CAG has been awarded a fully independent status.
+b)  The CAG can only be removed on the recommendation of the President.
+c)  The salary and emoluments of the CAG are charged on the Consolidated Fund of India.
+d)  The tenure of CAG is fixed for six years.
+#QuestionEnd
+#AnswerStart
+Answer: b)  The CAG can only be removed on the recommendation of the President.
+#AnswerEnd
+#QuestionStart
+Q4) Who/Which among the following performs the watchdog functions in the financial management in the Government of India?
+1.  The Controller General of Accounts
+2.  The Comptroller and Auditor-General of India
+3.  The Public Accounts Committee
+4.  The Finance Minister
+Choose the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  Only 3
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following statements is not correct regarding the functions and powers of the Comptroller and Auditor-General of India?
+a)  He examines the accounts of the Union Government and submits his report to the President.
+b)  He examines the accounts of the State Governments and submits his report to the Governors of the respective States.
+c)  He does not exercise any administrative control over the offices of the auditors working in the States.
+d)  In case either House of Parliament desires to have any information from him, it can do so through the Public Accounts Committee.
+#QuestionEnd
+#AnswerStart
+Answer: c)  He does not exercise any administrative control over the offices of the auditors working in the States.
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following statements about Comptroller and Auditor-General of India is not correct?
+a)  No minister can represent him in the Parliament.
+b)  His salary and emoluments are chargeable on the Consolidated Fund of India.
+c)  He cannot disallow any expenditure which in his opinion violates the Constitution.
+d)  He has been debarred from holding any office of profit under the Union or State Governments after his retirement.
+#QuestionEnd
+#AnswerStart
+Answer: c)  He cannot disallow any expenditure which in his opinion violates the Constitution.
+#AnswerEnd
+#QuestionStart
+Q7) The Comptroller and Auditor-General of India submits his audit reports to the:
+a)  Prime Minister
+b)  Parliament
+c)  President
+d)  Chief Justice of India
+#QuestionEnd
+#AnswerStart
+Answer: c)  President
+#AnswerEnd
+#QuestionStart
+Q8) Assertion (A): The salary and conditions of service of the Comptroller and Auditor General of India cannot be varied to his disadvantage after he is appointed.
+Reason (R):  The office of the Comptroller and Auditor-General of India is a constitutional office.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q9) Consider the following statements:
+All the Reports of the Comptroller and Auditor-General of India:
+1.  Relating to accounts of the Union and accounts of States are submitted to the President of India
+2.  Relating to accounts of a State are submitted to the Governor of the State
+3.  Relating to accounts of States are submitted to the Union Minister of Finance
+Which of the statements given above is correct?
+a)  Only 1
+b)  Only 2
+c)  Only 3
+d)  None
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q10) The ultimate responsibility of taking due action on the comments of the Comptroller and Auditor-General of India vests with the:
+a)  President of India
+b)  Supreme Court
+c)  Parliament
+d)  National Development Council
+#QuestionEnd
+#AnswerStart
+Answer: c)  Parliament
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following statements:
+The Comptroller and Auditor-General of India has to:
+1.  Audit government expenditure
+2.  Make financial policy
+3.  Sanction grants to various departments
+4.  See that public expenditure are in conformity with the government rules
+Of these statements:
+a)  2, 3 and 4 are correct
+b)  1 and 3 are correct
+c)  2 and 3 are correct
+d)  1 and 4 are correct
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 4 are correct
+#AnswerEnd
+#QuestionStart
+Q12) Who among the following can only be removed from the office in like manner and on the like grounds as a Judge of the Supreme Court?
+1.  Comptroller and Auditor-General of India
+2.  Chief Election Commissioner
+3.  Chairman, Union Public Service Commission
+4.  Attorney General for India
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 4 only
+c)  1 and 2 only
+d)  2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q13) The annual report of the Comptroller and Auditor-General of India is scrutinised in detail by the:
+a)  Public Accounts Committee
+b)  Estimates Committee
+c)  Consultative Committee of the Finance Ministry
+d)  Select Committee on Expenditure
+#QuestionEnd
+#AnswerStart
+Answer: a)  Public Accounts Committee
+#AnswerEnd
+#QuestionStart
+Q14) Which one of the following is not correct regarding the Comptroller and Auditor-General (CAG) of India?
+a)  His salary and other service conditions are determined by the Parliament.
+b)  He shall take an oath before the President.
+c)  He may also take an oath before any other person appointed for that purpose by the President.
+d)  He can be removed on the grounds as in case of a Judge of High Court.
+#QuestionEnd
+#AnswerStart
+Answer: d)  He can be removed on the grounds as in case of a Judge of High Court.
+#AnswerEnd
+#QuestionStart
+Q15) The provisions of the Act relating to the duties of the Comptroller and Auditor-General of India are to audit and report on all the expenditure from which of the following?
+1.  Consolidated Fund of India
+2.  Consolidated Fund of each State
+3.  Contingency Fund of India
+4.  Public Account of India
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 3, only
+c)  2, 3 and 4, only
+d)  1, 3 and 4, only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q16) Which of the following fall within the duties of the Comptroller and Auditor-General of India?
+1.  To audit and report on the receipts and expenditure of all bodies and authorities substantially financed from the Union or State revenues.
+2.  To audit the receipts and expenditure of each State to satisfy himself that the rules and procedures  in  that  behalf  are  designed  to  secure  an  effective  check  on  the  assessment, collection and proper allocation of revenue.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q17) In prescribing the form in which the accounts of the Union and the states are to be kept, the Comptroller and Auditor-General is expected to take approval of the:
+a)  Parliament
+b)  Legislature of the state concerned and the Parliament
+c)  Finance Minister
+d)  The President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  The President of India
+#AnswerEnd
+#QuestionStart
+Q18) Statement I:  Financial  accountability  of  the  Union  Government  to  Parliament  is  ensured through the reports of the Comptroller and Auditor-General.
+Statement II: The Comptroller and Auditor-General has to submit the report to the President who causes it to be laid before the Lok Sabha.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q19) The Comptroller and Auditor-General of India submits three reports to the Parliament/State Legislatures. Which one of the following reports does not come under that category?
+a)  Audit Report on Finance Accounts
+b)  Audit Report on Appropriation Accounts
+c)  Audit Report on Capital Accounts
+d)  Audit Report on Commercial and Public Sector Enterprises
+#QuestionEnd
+#AnswerStart
+Answer: c)  Audit Report on Capital Accounts
+#AnswerEnd
+#QuestionStart
+Q20) The Comptroller and Auditor-General of India has the power to audit which of the following?
+1.  All expenditure from the Contingency Fund and the Public Account of the Union
+2.  All expenditure from the Contingency Fund and the Public Account of a State.
+3.  All expenditure from the Consolidated Fund of each Union Territory having a Legislative Assembly of its own.
+4.  Accounts of all government companies set up under the Indian Companies Act.
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  Only 1 and 2
+c)  Only 3 and 4
+d)  Only 1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd

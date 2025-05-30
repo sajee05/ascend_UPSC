@@ -1,0 +1,95 @@
+#QuestionStart
+Q1) Part XIV-A of the Constitution of India deals with which of the following:
+1.  Administrative tribunals
+2.  Adjudication or trial by tribunals in respect of enforcement of any tax
+3.  Adjudication or trial by tribunals in respect of ceiling on urban property
+4.  Adjudication or trial by tribunals in respect of industrial and labour disputes
+Select the correct answer using the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 3
+c)  3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q2) The Central Administrative Tribunal adjudicates disputes and complaints with respect to the service of persons who are:
+a)  Appointed to public services and posts in connection with the affairs of the Union except members of the Defence services
+b)  Officials and servants of the Supreme Court or High Courts
+c)  Members of the Secretarial staff of the Parliament or State Legislatures
+d)  Members of the Defence Services
+#QuestionEnd
+#AnswerStart
+Answer: a)  Appointed to public services and posts in connection with the affairs of the Union except members of the Defence services
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following is a Quasi-judicial authority?
+a)  Central Vigilance Commission
+b)  National Commission for Women
+c)  Comptroller and Auditor-General of India
+d)  Administrative Tribunal
+#QuestionEnd
+#AnswerStart
+Answer: d)  Administrative Tribunal
+#AnswerEnd
+#QuestionStart
+Q4) The Central Administrative Tribunal was set up on the recommendation of:
+a)  The Ministry of Law and Justice
+b)  The Administrative Reforms Commission
+c)  The Law Commission
+d)  The Sarkaria Commission
+#QuestionEnd
+#AnswerStart
+Answer: b)  The Administrative Reforms Commission
+#AnswerEnd
+#QuestionStart
+Q5) In which one of the following cases, did the Supreme Court rule that the power of judicial review vested in the High Courts in respect of the decisions given by the Service Tribunals, cannot be ousted or excluded even by a Constitutional Amendment?
+a)  High Court of Judicature at Bombay v. Shirish Kumar
+b)  Sampath Kumar v. Union of India
+c)  Chandra Kumar v. Union of India
+d)  All India Judges Association v. Union of India
+#QuestionEnd
+#AnswerStart
+Answer: c)  Chandra Kumar v. Union of India
+#AnswerEnd
+#QuestionStart
+Q6) The Parliament passed the Administrative Tribunals Act in:
+a)  1985
+b)  1975
+c)  1982
+d)  1987
+#QuestionEnd
+#AnswerStart
+Answer: a)  1985
+#AnswerEnd
+#QuestionStart
+Q7) The chairman of a State Administrative Tribunal is appointed by the
+a)  Governor of the State
+b)  Chief Justice of the State High Court
+c)  Speaker of the State Legislative Assembly
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: d)  President of India
+#AnswerEnd
+#QuestionStart
+Q8) Which Article of the Constitution of India deals with administrative tribunals?
+a)  Article 322
+b)  Article 323
+c)  Article 323-A
+d)  Article 323-B
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 323-A
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following Constitutional Amendment Acts included Part XIV-A (entitled as ‘Tribunals’) in the Constitution of India?
+a)  42nd Amendment Act
+b)  44th Amendment Act
+c)  47th Amendment Act
+d)  49th Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: a)  42nd Amendment Act
+#AnswerEnd

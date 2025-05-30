@@ -1,0 +1,75 @@
+#QuestionStart
+Q1) Disqualification on the ground of defection for a Member of Parliament will not apply:
+a)  If he goes out of his party as a result of a merger of the party with another party.
+b)  If he has voluntarily given up his membership of the political party.
+c)  If he abstains from voting in the house contrary to the direction of the political party.
+d)  If a nominated member of a House joins a political party after six months.
+#QuestionEnd
+#AnswerStart
+Answer: a)  If he goes out of his party as a result of a merger of the party with another party.
+#AnswerEnd
+#QuestionStart
+Q2) Which one of the following Amendments to the Constitution of India sought to curb the political defection?
+a)  42nd Amendment
+b)  52nd Amendment
+c)  62nd Amendment
+d)  70th Amendment
+#QuestionEnd
+#AnswerStart
+Answer: b)  52nd Amendment
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following Schedules of the Constitution of India includes the disqualification of a Legislator on grounds of defection?
+a)  8th Schedule
+b)  7th Schedule
+c)  9th Schedule
+d)  10th Schedule
+#QuestionEnd
+#AnswerStart
+Answer: d)  10th Schedule
+#AnswerEnd
+#QuestionStart
+Q4) What is the subject of the 91st Constitutional Amendment Act, 2003?
+a)  Right to Information
+b)  Limiting the size of Council of Ministers
+c)  Right to Education
+d)  Elimination of Corruption at all Levels
+#QuestionEnd
+#AnswerStart
+Answer: b)  Limiting the size of Council of Ministers
+#AnswerEnd
+#QuestionStart
+Q5) Who/Which of the following decides the question of disqualification of a member of the Parliament, arising on the ground of defection?
+a)  President of India
+b)  Supreme Court
+c)  Presiding Officer of the House
+d)  Election Commission
+#QuestionEnd
+#AnswerStart
+Answer: c)  Presiding Officer of the House
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+1.  The anti-defection law is intended to strengthen the fabric of Indian Parliamentary democracy.
+2.  The anti-defection law was enacted during the Prime Ministership of P.V. Narasimha Rao.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q7) Statement I:  The provision of the Tenth Schedule pertaining to exemption from disqualification in case of split by one-third members of legislature party has been deleted by the 91st Amendment.
+Statement II: The  Dinesh  Goswami  Committee,  the  Law  Commission  of  India  and  the Constitutional Review Commission recommended ommission of the provision of the Tenth Schedule pertaining to exemption from disqualification in case of splits.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd

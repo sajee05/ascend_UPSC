@@ -1,0 +1,3113 @@
+#uestionStart
+Q36) What were the reasons which led to bank nationalization of 1969?
+1. Expansion of bank branches was mostly in urban areas
+2. Agriculture and small-scale industries were not getting proper access to banking facilities
+3. Bank credit was not utilized for financing projects according to Plan priorities
+4. Easy and cheap availability of credit to a few industrial houses had encouraged growth of monopolies
+Select the correct answer using the code given below:
+a)    1 & 2 only
+b)    I, 2 & 3 only
+c)    2 & 4 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q37) Which of the following are part of ■Seigniorage”?
+5. Interest income on reserves kept with RBI for money creation
+6.  Interest accruing from bank balances kept with central bank as interest-free balances in order to meet the reserve requirements
+7.     Inflation tax
+Select the correct answer using the code given below:
+a)   1 only
+b)   2 only
+c)    1 & 2 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q38) If a country has ‘Pegged’ (fixed but adjustable) exchange rate, then consider the following statements;
+8. Inflation in the country may make its exports less competitive
+9. If the country devalues its currency in proportion to the inflation, then its exports may remain competitive
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q39) Which of the following statements are true regarding India’s present exchange rate system:
+10.   RBI regulates the Rupee dollar rate
+11.   RBI generally intervenes in the forex market indirectly
+12.    RBI regulates the forex market
+Select the correct answer using the code given below:
+a)  1 only
+b)  1 & 2 only
+c)  3 only
+d)    2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q40) RBI intervenes in the foreign exchange market to:
+13.  To contain the volatility in the rupee
+14.  To set a price band for Rupee in terms of Dollar
+Select the correct answer using the code given below:
+a)    1 only
+b)     2 only
+c)    Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q41) Consider the following statements regarding purchasing power parity (PPP) exchange rates:
+15.  If two countries have same rate of inflation, their PPP exchange rates will remain constant
+16.  The prices of goods will be same in both the countries when converted at PPP exchange rate
+Select the correct answer using the code given below:
+a)    1 only
+b)     2 only
+c)    Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q42) Which of the following statements are true in case "the currency of two countries are at purchasing power parity'¹:
+a) PPP exchange rate is equal to Nominal exchange rate
+b) PPP exchange rate is equal to Real exchange rate
+c) Nominal exchange rate is equal to Real exchange rate
+d) PPP, Nominal and Real exchange rates become equal
+#QuestionEnd
+#AnswerStart
+Answer: a) PPP exchange rate is equal to Nominal exchange rate
+#AnswerEnd
+#QuestionStart
+Q43) If Mr. X has Rs. 20 crores in India and Mr. Y has $1 crore in US and whatever Mr. X can consume in India with Rs. 20 crores, the same items can be consumed by Mr. Y in $ 1 crore in US.
+If both of them, with their money, met at a place other than India and US then who will be richer?
+a)    Mr. X
+b)    Mr. Y
+c)    Equally rich
+d)  Will depend on Nominal Exchange Rate
+#QuestionEnd
+#AnswerStart
+Answer: d) Will depend on Nominal Exchange Rate
+#AnswerEnd
+#QuestionStart
+Q44) Increase in India's trade deficit may lead to which of the following:
+a)  Increase in money supply in the economy
+b)    Depreciation of rupee
+c)    Appreciation of rupee
+d)    Increase in GDP
+#QuestionEnd
+#AnswerStart
+Answer: b) Depreciation of rupee
+#AnswerEnd
+#QuestionStart
+Q45) Which of the following situation will lead to depreciation of a country's currency:
+a)    Foreign Investment inflow
+b)    Rise in the interest rate
+c)    Increase in exports
+d)    None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+#QuestionStart
+Q46) The export competitiveness of a country with its trading partners can be best measured through which of the following exchange rates:
+a)     Nominal Exchange Rate
+b)     Real Exchange Rate
+c)     Nominal Effective Exchange Rate
+d)     Real Effective Exchange Rate
+#QuestionEnd
+#AnswerStart
+Answer: d) Real Effective Exchange Rate
+#AnswerEnd
+#QuestionStart
+Q47) If rupee is appreciating in real terms with respect to US dollars, then:
+a) India’s exports competitiveness will decrease
+b) India’s exports competitive will increase
+c) India’s exports will be more competitive than US
+d) India’s exports will be less competitive than US
+#QuestionEnd
+#AnswerStart
+Answer: a) India’s exports competitiveness will decrease
+#AnswerEnd
+#QuestionStart
+Q48) Consider the following statements:
+17.  If rupee is depreciating, then it leads to increase in cost of imports in dollars
+18.   If rupee is depreciating, then it leads to earning more dollars per unit of exports
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q49) Which of the following will be the impact of rupee depreciation?
+19.  Exports will become more competitive
+2,  Exporters will fetch more dollars for the same amount of goods exported
+20.  Demand for domestic goods and services will increase
+Select the correct answer using the code given below:
+a)  1 only
+b) 2 only
+c)  1 & 3 only
+d)  AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q50) Suppose due to higher domestic inflation, rupee started depreciating but RBI used the Forex reserves to prevent the depreciation of Rupee. Then consider the following statements;
+21.      REER will increase
+22.      REER will decrease
+23.      Exports will     become     more
+competitive
+24.      No      impact on           trade
+competitiveness
+Select the correct answer using the code given below:
+a)  1 only
+b)     4 only
+c)     2 & 3 only
+d) 1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q51) Consider the following statements regarding the transactions happening at the international level for trade and financial flows.
+25. There is an international authority with the power to force the use of a particular currency
+26. There is a basket of currencies which can only be used to settle international transactions
+27. Currencies which maintain a stable purchasing power are generally accepted
+28.  Freely convertible currencies are generally accepted
+Select the correct answer using the code given below;
+a)     1 only
+b)     2 & 4 only
+c)     3 & 4 only
+d)     2,3&4only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q52) Consider the following statements regarding 'internationalization of rupee?
+29. It means use of rupee for transactions between nonresidents
+30.  It means use of rupee transactions between residents and nonresidents
+31.  Military capability of a country plays role in internationalization of currency
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c) 1 & 2 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q53) Retail investors are allowed to directly access Govt, securities market. Consider the following statements:
+32. Retail investors will be allowed in both primary and secondary Govt, securities market
+33.  Individuals participate in the noncompetitive auctioning process of G-Securities in Primary Market
+34.  It will help in reducing the cost of borrowing for government
+Select the correct answer using the code given below:
+a)    1 & 2 only
+b)    3 only
+c)    1 & 3 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q54) Consider the following statements regarding government securities market:
+35.  G-Secs are issued through auctions conducted on E-Kuber which is the core banking solution platform of RBI
+36.  Negotiated Dealing System-Order Matching is a secondary market for G-Secs
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q55) Consider the following statements regarding “State Development Loans”
+37. It can be used under SLR by banks
+38.     It is a tradable instrument
+39. RBI manages the public debt of states
+Select the correct answer using the code given below:
+a) 2 only
+b) 1 & 2 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q56) Which of the following statements are true regarding “Cash Management Bills’?
+40.  Issued by Central Government and not by state governments
+41.      It is used to fund fiscal deficit
+42.  It can be used for temporary mismatches in the cash flow of the government
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 3 only
+d) 1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q57) Consider the following statements regarding the 'Statutory Liquidity Ratio (SLR)' maintained by Scheduled Commercial Banks:
+43.  It is maintained as per the RBI Act 1934
+44.  Can be maintained as cash balance with RBI
+45.  Cash Management Bills, Treasury Bills, Dated Securities and State Development Loans (SDL), all are considered as SLR securities
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 & 3 only
+c) 2 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q58) Consider the following statements regarding “ways and means’ advance:
+46. It is available for both Central and State governments
+47. Government needs to pay interest on ways and means advance
+48. It is to meet the temporary mismatches of receipts and payments
+Select the correct answer using the code given below:
+a)    1 only
+b)    1 & 3 only
+c)    2 & 3 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q59) Consider the following statements regarding 'Ways and Means Advance’:
+49. It is used to fund government’s fiscal deficit
+50.     It is tradable government security
+Select the correct answer using the code given below:
+a) 1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q60) Which of the following statements will be true if the inflation in the economy is increasing?
+51.     Bond price will decrease
+52.     Bondholders will loose
+53.     The yield on bonds will increase
+Select the correct answer using the code given below:
+a)     1 only
+b)     l,&2only
+c)     3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q61) The price of government securities in India is influenced by which of the following? ⭐ (please re-check)
+54.    Repo rate
+55. US Federal Bank benchmark interest rate
+56.    Liquidity in the market
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 1 & 2 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q62) Which one of the following statements correctly describes the meaning of legal tender money?
+a) The money which is tendered in courts of law to defray the fee of legal cases
+b) The money which a creditor is under compulsion to accept in settlement of his claims
+c) The bank money in the form of cheques, drafts, bills of exchange, etc.
+d) The metallic money in circulation in a country
+#QuestionEnd
+#AnswerStart
+Answer: b) The money which a creditor is under compulsion to accept in settlement of his claims
+#AnswerEnd
+#QuestionStart
+Q63) Consider the following statements:
+57. Currencies and coins are fiat money
+58.  Currencies do not have intrinsic value, but coins have
+59.  Currencies and coins are legal tenders
+60.  Currency notes are guaranteed by Govt, of India
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 3 only
+c) 3 & 4 only
+d) 1, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q64) Consider the following statements:
+61. All the currency in circulation is the liability of RBI
+62. All the currency in circulation is part of money supply
+63. Notes and coins are circulated in the economy only through RBI
+Select the correct answer using the code given below:
+a)    1 only
+b)    1 & 2 only
+c)    3 only
+d)    None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q65) Who has the authority to issue currency notes in India?
+a)   Central Government
+b)   Ministry of Finance
+c)   RBI
+d)   RBI governor
+#QuestionEnd
+#AnswerStart
+Answer: c) RBI
+#AnswerEnd
+#QuestionStart
+Q66) Consider the following statements regarding currency circulation in India:
+64. Govt, of India has the sole right to mint coins
+65. The coins are issued for circulation only through RBI in terms of the RBI Act 1934
+66. Coins can be issued up to the denomination of Rs. 1000 as per the Coinage Act 1906
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c)    3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q67) If new currency is being issued, then who has the authority to decide its ‘'Denomination":
+a) RBI Governor
+b)     RBI Central Board of Directors
+c)    Central Government
+d)     Monetary Policy Committee
+#QuestionEnd
+#AnswerStart
+Answer: c) Central Government
+#AnswerEnd
+#QuestionStart
+Q68) Who is the final authority in approving the design, form and material of bank notes:
+a)     Governor of RBI
+b)     Central Board of RBI
+c)    Central Government
+d) Governor of RBI in consultation with Central Government
+#QuestionEnd
+#AnswerStart
+Answer: c) Central Government
+#AnswerEnd
+#QuestionStart
+Q69) Prime Minister, on 8th of Nov 2016, declared that the existing Rs. 500 and Rs. 1000 notes will not be legal tender. This was done under which of the following Act.
+a)    RBI Act 1934
+b)     Banking regulation Act 1949
+c) Payment and Settlement Systems Act 2007
+d) Does not require any statutory backing
+#QuestionEnd
+#AnswerStart
+Answer: a) RBI Act 1934
+#AnswerEnd
+#QuestionStart
+Q70) RBI targets the growth of money supply in the economy based on:
+67.     Expected real GDP growth
+68.     Normal level of inflation
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q71) Which of the following statements are true regarding RBI?
+69.  As per the RBI Act 1934, RBI is bound to undertake the receipt and payments and other banking operations of the central government
+70.  As per the RBI Act 1934, RBI is obliged to act as banker to State governments
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q72) Consider the following statements regarding ‘Agency Banks' of RBI:
+71.  RBI Act 1934 allows RBI to appoint agency banka
+72.  Scheduled payment banks and small finance banks can act as ‘Agency Banks’
+73.  Only those private banks which are of certain size are allowed to act as ‘Agency Banks'
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 1 & 3 only
+d) 2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q73) Which of the following functions are part of the Reserve Bank of India (RBI) acting as Banker to Banks?
+74.  Enabling banks to maintain their accounts with RBI for statutory reserve requirements
+75.  Enabling settlement of interbank transfer of funds
+76.  RBI provides short term loans and advances to banks
+77.       Acting as lender of last resort
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      1, 2 & 3 only
+d)      AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) AU of the above
+#AnswerEnd
+#QuestionStart
+Q74) Consider the following statements regarding RBI acting as 'lender of last resort' for banks:
+78.  It is done to prevent possible failure of the banks and to protect the interest of the depositors
+79.  RBI does it only if the troubled financial institution has exhausted all the resources it can obtain from the market and from the RBI’s regular liquidity facilities like LAF, MSF
+80.  To ensure financial stability in the economy
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q75) Which of the following statements are true regarding lender of last resort?
+81.  It is provided to banks which have been declared bankrupt
+82.      RBI provides funds for long period
+83.  RBI provides fund against collateral and at a penal rate
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 & 3 only
+c) 3 only
+d) 1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q76) Which of the following functions are part of the RBI acting as Banker to Central Government?
+84. RBI maintains the account for the various central government funds like Consolidated Fund of India, Contingency Fund and Public Account of India
+85. RBI acts as advisor to the government on monetary and banking related matters
+86. RBI provides Ways and Means Advances to the government
+87. RBI floats Ioan and manages them on behalf of the government
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c)      1, 2 & 3 only
+d)      AH of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q77) Consider the following statements regarding "Notice Money’:
+I.  It is a money market instrument for overnight lending
+88. It is issued by commercial banks and other financial institutions
+89. It is generally a secured instrument
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c)     2 only
+d)     2&3only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+#QuestionStart
+Q78) Consider the following statements regarding “Commercial Papers":
+90.      It is an unsecured debt instrument
+91. It is a short-term money market instrument
+92.    NBFCs issue commercial papers
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 & 3 only
+c)    2 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q79) Consider the following statements regarding “Certificate of Deposits”:
+93.    It is not a tradable instrument
+94.  It is a secured instrument issued by banks
+95.    It is a money market instrument
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 only
+c) 2 & 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+#QuestionStart
+Q80) Which of the following are instrument/s of money market?
+96.    Cash management bills
+97.    Treasury bills
+98.    Certificate of Deposits
+99.    State Development Loans
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 4 only
+d) 1, 2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q81) Mergers and Acquisitions of commercial banks may require approval of which of the following agency/ies?
+I.     Reserve Bank of India (RBI)
+100.  Competition Commission of India (CCI)
+Select the correct answer using the code given below:
+a)   1 only
+b)    2 only
+c)   Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q82) Consider the following statements regarding the "Financial Services Institutions Bureau (FSIB)" constituted in 2022:
+101. It is responsible for appointment of heads in PSBs and Financial Institutions
+102. It helps PSBs in developing strategies and capital raising plans
+103.  It has been constituted under Banking Regulation Act 1949
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q83) Consider the following statements regarding Financial Services Institutions Bureau (FSIB):
+104.  It selects the chiefs of LIC, NABARD and public financial institutions
+105.  The persons selected by the FSIB require approval of Appointments Committee of the Cabinet (ACC)
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q84) Consider the following statements regarding the insurance cover provided to depositors by Deposit Insurance and Credit Guarantee Corporation (DICGC)
+106. All commercial banks and urban cooperative banks have to register with DICGC for providing insurance to depositors
+107.  RBI incurs the insurance premium burden
+108.  Government incurs the insurance premium burden
+109.  DICGC provides insurance only in case the bank has gone bankrupt
+Select the correct answer using the code gjven below:
+a)    1 only
+b)     1 & 2 only
+c)    3 only
+d)     1 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q85) Consider the following statements regarding payment banks:
+110. They can open demand and time deposit accounts both
+111. They are set up as differentiated banks
+112.  They may act as Business Correspondents for other banks
+113.  They will provide payments / remittance services to migrant labour workforce and small businesses
+Select the correct answer using the code given below:
+a) 1 & 4 only
+b)  1 & 2 only
+c) 2, 3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q86) Consider the following statements regarding ‘India Post Payment Bank*:
+114.  It allows demand and fixed deposit both
+115.  It allows savings and current account both
+116.            It is a public sector company
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 3 only
+c)           2 & 3 only
+d)           None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q87) What is the purpose of setting up of Small Finance Banks (SFBs) in India?
+117. To supply credit to small business units
+118.  To supply credit to small and marginal farmers
+119.  To encourage young entrepreneurs to set up business particularly in rural areas.
+Select the correct answer using the code given below:
+a)           1 & 2 only
+b)           2 & 3 only
+c)           1 & 3 only
+d)           All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q88) Consider the following statements regarding Cooperative Banks:
+I. Ail cooperative banks are under dual regulation of RBI and government
+120.  RBI regulates the cooperative banks under Banking Regulation Act 1949
+121.  All cooperative banks are supervised by NABARD
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       2 & 3 only
+d)       1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q89) NABARD provides refinance to which of the following types of financial institutions:
+122.       Commercial Banks
+123.       Regional Rural Banks
+3, State Cooperative Banks & Land Development Banks
+124.  Non-Banking Financial Companies Select the correct answer using the code given below:
+a)      2 only
+b)     2 & 3 only
+c)     1, 2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q90) Which of the following are the sources of finance for National Bank for Agriculture and Rural Development (NABARD)
+125.      RBI
+126.     Borrowing from commercial banks
+127. Issuing bonds which are fully serviced by Govt, of India
+128.     Foreign currency borrowings
+Select the correct answer using the code given below:
+a)   1 only
+b)   1 & 3 only
+c)   3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q91) Consider the following statements regarding MUDRA Bank:
+129.  It provides direct lending to small entrepreneurs
+130.  MUDRA loans are available to small and marginal farmers
+131.  MUDRA loan is available for manufacturing, trading and service activities
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 & 3 only
+c) 3 only
+d) 1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q92) Consider the following statements regarding National Housing Bank (NHB):
+132. NHB regulates Housing finance companies
+133.  NHB is owned by Govt, of India and regulated by RBI
+134.  NHB provides direct finance for individual housing loans
+Select the correct answer using the code given below:
+a) 1 only
+b)      1 & 2 only
+c)      2 only
+d)      1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q93) Which of the following statements are true regarding Housing Finance Companies (HFC)?
+135. HFCs are under direct regulation of RBI
+136. HFCs are a category of NonBanking Financial Companies (NBFCs)
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q94) Consider the following statements regarding "Peer to Peer Lending Platforms" in India:
+137.  They are regulated by RBI as NonBanking Financial Companies
+138.  They can lend on their own
+139.  They provide credit guarantee
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q95) NBFCs raise their resources from which of the following:
+140.      Loans from Banks
+141.  By issuance of bonds in the financial markets
+142.      Money market
+143.  Through External Commercial Borrowing (ECB)
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c)     1 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q96) Which of the following are risk factors for NBFCs in their lending process?
+144.  Relying on short term financing to fund long-term investments
+145.      Asset liability mismatch (ALM)
+146.      Rollover risk of commercial papers
+Select the correct answer using the code given below:
+a) 1 only
+b)     1,2 only
+c)     2, 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q97) Consider the following statements regarding Digital Banking Units
+(DBUs)’ launched by the Scheduled Commercial Banks:
+147.  It is fixed point business unit / hub housing certain minimum digital infrastructure for delivering digital banking products & services
+148.  It offers banking services in both self-service and assisted mode
+149. It provides services without requiring paper
+Select the correct answer using the code given below:
+a) 1 only
+b)      2 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q98) Consider the following statements regarding "Real Estate Investment Trusts (REITs):
+150. They are regulated by respective Real Estate Regulatory Authorities (RERA) of every State
+151. It will make real estate sector accessible to small investors
+Select the correct answer using the code given below
+a)      1 only
+b)       2 only
+c)      Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q99) Which of the following statements are true regarding "Angel Investors":
+152. Angel investors generally invest their own money
+153. They invest in small start-ups and entrepreneurs
+154. They provide more favourable terms and conditions as compared to other lenders
+155. Angel investment is regulated by SEBI
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)      3 only
+c)     2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q100) Consider the following statements regarding ‘Anchor Investors’:
+a) They are high net worth individual investors who invest in startups
+b) They are individual investors investing first time in the stock market
+c) They are institutional investors who invest in startups and unlisted companies
+d) They are institutional investors who are invited to invest just before the initial public offer
+#QuestionEnd
+#AnswerStart
+Answer: d) They are institutional investors who are invited to invest just before the initial public offer
+#AnswerEnd
+#QuestionStart
+Q101) Consider the following statements regarding ‘Alternative Investment Fund’ (AIF):
+156. Its privately pooled investment vehicle established in India and regulated by SEBI
+157. It collects fund from sophisticated investors from India or Foreign
+158.      Venture capital comes under AIF
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q102) Which of the following statements are true regarding the term "Crowd funding"?
+159. It is a method of financing through the internet/social media
+160. Small amounts of money are raised from large number of investors
+161. It is also referred as marketplace financing
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c)     3 only
+d)      AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) AU of the above
+#AnswerEnd
+#QuestionStart
+Q103) Consider the following statements regarding "Exchange Traded Funds (ETF)":
+1, ETFs are traded like stocks and can be bought and sold throughout the day
+162. ETFs can be used as a vehicle for disinvestment
+163. ETFs offers the benefit of diversification of risks
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 2 only
+c)       2 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q104) Which of the following statements are true regarding impact bonds':
+164.        Subscribed by government
+165. Private sector finances the bond issuance
+166. Repayment is based on agreed upon outcomes
+167. This instrument is used to fund social and development initiatives
+Select the correct answer using the code given below:
+a) 1 & 3 only
+b) 2 & 3 only
+c) 2, 3 & 4 only
+d) 1 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q105) Consider the following statements regarding ‘surety bonds’:
+168.  Insurance companies are allowed to issue surety bonds for infrastructure projects
+169.  It can be used as a substitute for bank guarantee
+170.  It will reduce indirect cost for contractors
+Select the correct answer using the code given below:
+a)    1 & 2 only
+b)    1 & 3 only
+c)    2 & 3 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q106) Consider the following statements regarding the India International Bullion Exchange (IIBX)’:
+171.  It has been launched in the GIFT City in Gandhinagar
+172.  It is the first such bullion exchange in the country to trade physical gold.
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q107) Consider the following statements regarding the term of appointment of RBI Governor:
+a) As fixed by the Central Government while appointing, not exceeding five years and eligible for re-appointment
+b) As fixed by the Central Government while appointing, not exceeding three years and eligible for re-appointment
+c) As fixed by the Central Government while appointing, not exceeding five years and not eligible for re-appointment
+d) As fixed by the Centra] Government while appointing, not exceeding three years and not eligible for re-appointment
+#QuestionEnd
+#AnswerStart
+Answer: a) As fixed by the Central Government while appointing, not exceeding five years and eligible for re-appointment
+#AnswerEnd
+#QuestionStart
+Q108) Consider the following statements:
+173. Banks require prior approval of RBI for appointment of directors
+174. Management of Public Sector banks is under dual regulation of Central Govt. & RBI
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q109) Consider the following statements:
+175. RBI is a wholly owned by Govt, of India
+176.  RBI’s surplus transfer to the central government has steadily decreased in the last 5 years
+Select the correct answer using the code given below:
+a) I only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) I only
+#AnswerEnd
+#QuestionStart
+Q110) Consider the following statements regarding the 'Economic Capital Framework’ of RBI:
+177. RBI Act 1934 specifies to keep some contingency buffer
+178.  RBI Act 1934 specifies that the surplus needs to be transferred to Government of India
+179.  The transfer of surplus to Govt, of India may result in inflation
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q111) Consider the following statements regarding liquidity crisis in the debt markets:
+180.   It may be caused due to defaults in the debt market
+181.   It may be caused due to FPIs running out of Indian markets
+182.  It may result in hardening of interest rates
+183.  RBI may do OMO to resolve the liquidity crisis
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       1 & 3 only
+c)       2, 3 & 4 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q112) Which of the following could be the after effects of demonetization?
+184. RBI's liability would reduce to the extent the old notes does not come to the banking system
+185.  Transfer of wealth from holders of illicit black money to the public sector
+186.       Decrease in liquidity
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b)      1 & 3 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q113) Which of the foUowing is part of Monetary Base of an economy?
+187.  Currency notes and coins with the public
+188.      Vault cash of commercial banks
+189.   Deposits of commercial banks with RBI
+Select the correct answer using the code given below:
+a)  1 only
+b)      1 & 2 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q114) Reserves of commercial banks includes which of the following:
+190.      All deposits of Public
+191. Government securities held by banks
+192.    Cash held by banks in their vaults
+193.     Money deposited with RBI
+Select the correct answer using the code given below:
+a)    2 & 3 only
+b)    2, 3 & 4 only
+c)    4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q115) Money can be created in the economy in which of the following ways?
+194.      Full reserve banking
+195.      Fractional reserve banking
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q116) Consider the following statements regarding Money Multiplier:
+196.  It increases with increase in reserve requirements of banks
+197.  It decreases with increase in reserve requirements of banks
+198.      It increases with Monetary Base
+199.      It decreases with Monetary Base
+Select the correct answer using the code given below:
+a)        1 only
+b)        2 only
+c)        2 & 3 only
+d)        2 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q117) Which of the following will increase 'Monetary Base’?
+200.        Creation of more credit by banks
+201.  Public withdrawing more cash from the banks
+Select the correct answer using the code given below:
+a)        1 only
+b)        2 only
+c)        Both 1 & 2
+d)        Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q118) Money Multiplier depends on which of the following?
+202.        Currency deposit ratio
+203.        Reserve deposit ratio
+Select the correct answer using the code given below:
+a)        1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q119) Consider the following statements regarding *money supply’:
+204. It can be increased by increasing the money multiplier
+205. It can be increased by increasing the monetary base
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q120) Consider the following statements regarding “Open Market Operations’:
+206.       It changes the monetary base
+207.       It changes the money supply
+208.       It changes the money multiplier
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b)      2 only
+c)      1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q121) Which of the following is not part of the money supply in the economy?
+209.       Money lying with the government
+210. Deposits of commercial banks with other commercial banks
+211.       Money lying with the Central bank
+212. Deposits of pubic with commercial banks
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 & 4 only
+c)      1 & 2 only
+d)        1,2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1,2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q122) Which of the following are part of money supply in the economy?
+213.   Cash and deposits of public
+214.       Corporate bonds held by public
+215.  Government securities held by public
+216.       Shares held by public
+Select the correct answer using the code given below:
+a)      1 only
+b)       1, 2&3only
+c)      2 & 3 only
+d)       AH of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q123) Consider the following statements regarding ‘Open Market Operations (OMO)’:
+217.  Outright OMOs are directed at influencing enduring liquidity
+218.  Liquidity Adjustment Facility (LAF) OMO operations target the temporary liquidity in the system
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q124) If RBI is pumping more money in the economy, then which of the following is true?
+219.        Monetary base is increasing
+220.      Money supply is increasing
+221.      Money Multiplier is increasing
+222.      RBI’s balance sheet is increasing
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)     2 & 3 only
+d)      1, 2 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 2 & 4 only
+#AnswerEnd
+#QuestionStart
+Q125) Which of the following actions will lead to immediate increase in money supply in the economy?
+223.       Individuals          purchasing
+government securities in the primary market
+224.  Banks purchasing government securities in the primary market
+225. Banks purchasing government securities from the public in the secondary market
+226. Long Term Repo Operation by RBI to commercial banks
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 3 only
+d) 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q126) Consider the following statements:
+227. Open Market Operation is a monetary policy tool
+228.  Open Market Operations take place in secondary market
+229.  Sterilization is a monetary policy tool
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 3 only
+c) 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q127) Which of the foUowing are part of Liquidity Adjustment Facility (LAF):
+230.       Marginal Standing Facility
+231.       Standing Deposit Facility
+232.      Long term repo operation
+233.      Overnight repo operation
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q128) Consider the following statement regarding ‘Market Stabilization Bonds’ (MSBs):
+234. These are Treasury bills and Dated securities
+235.     RBI is empowered to issue MSBs
+236. The interest payment on these bonds is made by government from its budgetary resources
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q129) Consider the following statements regarding Cash Reserve Ratio (CRR):
+237.  It helps in securing monetary stability and managing liquidity in the economy
+238.  RBI can change the CRR to any level without any floor or ceiling limit
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q130) Consider the following statements regarding Cash Reserve Ratio (CRR) kept with RBI by commercial banks:
+239. It ensures safety to the people’s deposits in banks
+240.       It ensures solvency of banks
+241. It increases the cost of funds for the banks
+242.        Banks earn interest on CRR
+Select the correct answer using the code given below:
+a) I only
+b)       1 & 2 only
+c)       1, 2 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q131) In the context of Indian economy, which of the following is/are the purpose/purposes of “Statutory Reserve Requirements”?
+243. To enable the Central Bank to control the amount of advances the banks can create
+244. To make the people’s deposits with banks safe and liquid
+245. To prevents the commercial banks from making excessive profits
+246. To force the banks to have sufficient vault cash to meet their day-to-day requirements
+Select the correct answer using the code given below,
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d) 1,2, 3 &4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q132) Consider the following statements regarding the 'Monetary Policy Framework' that exists between Govt, of India and Reserve Bank of India:
+247. The primary objective of Monetary Policy is price stability
+248. There is a flexible target for inflation that RBI needs to achieve
+249. Monetary Policy Framework is operated by RBI
+250. If RBI fails to achieve the target, it needs to submit report to the Govt, of India stating reasons of failure
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 3 only
+c) l,2&4only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q133) Consider the following statements regarding the ‘Monetary Policy Framework’⁻.
+251. The operating target is the money market rate
+252. RBI tries to keep the operating target around the government securities yield rate
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q134) Which of the following statements are true regarding the Monetary Policy Committee (MPC)?
+253.  It has the authority to decide repo rate, CRR, SLR
+254.         Its decision is binding on RBI
+Select the correct answer using the code given below:
+a)         1 only
+b)         2 only
+c)         Both 1 & 2
+d)         Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q135) While deciding the repo rate, Monetary Policy Committee may keep in mind the following factors:
+1,         Inflation
+255.         Economic Growth
+256.         Rupee appreciation/depreciation
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 and 2 only
+c)         All of the above
+d)         None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q136) Consider the following statements regarding MPC and its members:
+257.  Three members are appointed by Central Government and three are appointed by Central Board of RBI
+258.  The three members appointed by the Central Government hold office for a period of four years
+259.  There should be at least six meetings of the MPC in a year
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       1 & 3 only
+c)       2 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 only
+#AnswerEnd
+#QuestionStart
+Q137) Which of the following statements are true regarding Marginal Standing Facility' (MSFJ?
+260. Scheduled commercial banks borrow additional amount for overnight
+261.  The banks can dip into their SLR portfolio to borrow from RBI
+262.  It provides a safety valve against unanticipated liquidity shocks
+Select the correct answer using the code given below:
+a)        1 & 2 only
+b)        1 & 3 only
+c)        3 only
+d)        All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q138) Consider the following instruments:
+263.        Reverse Repo Rate
+264.        Marginal Standing Facility
+265.        Standing Deposit Facility
+Which of the following facility/instruments is/are available at RBI’s discretion and not banks?
+a)        1 only
+b)        1 and 2 only
+c)        3 only
+d)        2 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q139) The "Consumer Confidence Survey" in India is conducted by which of the following:
+a)      Reserve Bank of India
+b)      National Statistical Office (NSO)
+c)      Department of Consumer Affairs
+d)      Ministry of Labour & Employment
+#QuestionEnd
+#AnswerStart
+Answer: a) Reserve Bank of India
+#AnswerEnd
+#QuestionStart
+Q140) Which of the following agencies conducts ‘inflation expectation survey’ of households in India?
+a)  Ministry of Statistics and Programme Implementation
+b)      National Statistical Office
+c)      Reserve Bank of India
+d)      Ministry of Finance
+#QuestionEnd
+#AnswerStart
+Answer: c) Reserve Bank of India
+#AnswerEnd
+#QuestionStart
+Q141) Which of the following situations may lead to increase in repo rate by RBI?
+266.       Inflation in the economy is high
+267.  Inflation expectation in the economy is high
+Select the correct answer using the code given below:
+a)     1 only
+b) 2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q142) If the US Central Bank raises their interest rate, then it may lead to which of the following in the Indian economy:
+a)      Rupee depreciation
+b)      Rupee appreciation
+c)      Investors moving to India
+d)      Increase in money supply
+#QuestionEnd
+#AnswerStart
+Answer: a) Rupee depreciation
+#AnswerEnd
+#QuestionStart
+Q143) Which of the following RBI may do to curb the rupee depreciation?
+268.  Allowing importers to directly buy foreign currency from RBI
+269.        Increasing the repo rate
+270.  Selling dollars in foreign exchange market
+4,  Buying dollars in foreign exchange market
+Select the correct answer using the code given below:
+a) 1 & 3 only
+b) 2 & 3 only
+c) 1, 2 & 3 only
+d) 1, 2 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q144) Consider the following statement regarding the term “Operation Twist’:
+271.  It is a kind of open market operation
+272.  RBI pumps additional money into the system to increase liquidity
+273.       It helps in monetary transmission
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)       2 & 3 only
+c)       1 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q145) Which of following statements are true regarding “Long Term Repo Operations’?
+274.  It comes under liquidity adjustment facility
+275.  The interest rate should be at or above the repo rate
+276.      It is long term lending by RBI
+Select the correct answer using the code given below:
+a)     1 & 3 only
+b) 2 & 3 only
+c)     2 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q146) Which of the following could be the impact of Long-Term Repo Operation (LTRO) conducted by RBI:
+277.      Increase in money supply
+278.      Increase in inflation
+279.      Increase in interest rate
+280.      Increase in liquidity with banks
+Select the correct answer using the code given below:
+a) 1, 2 & 3 only
+b) 1 & 4 only
+c) 1, 2 & 4 only
+d) 2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 4 only
+#AnswerEnd
+#QuestionStart
+Q147) Which of the following could be the reasons for the deficit in banking system liquidity?
+281.      An uptick in the bank credit
+282. Advance tax payments by corporates
+283. Incremental deposit growth not keeping pace with credit demand
+284. Intervention of the RBI into the forex market to prevent rupee depreciation
+Select the correct answer using the code given below:
+a) 2 & 3 only
+b) 3 & 4 only
+c) 1, 2 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q148) Consider the following statements regarding the “Monetary Policy* followed by RBI:
+285.         It follows flexible inflation target
+286. While inflation is in control, RBI can focus on growth
+287. Financial Stability is the explicit mandate of monetary policy
+288. Achieving monetary policy objective will ensure financial stability
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 2 only
+c)       2 & 4 only
+d)       2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q149) Which of the following monetary policy tools are used at RBI’s discretion rather than banks availing the facility as per their own requirement?
+289.       Open market operation
+290.       Long Term Repo Operation
+291.       Overnight fixed rate repo lending
+4,      Reverse repo auction
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)      2, 3 & 4 only
+c)     1 & 4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q150) Which of the following indicators is/are used to observe the monetary transmission mechanism in the economy?
+292.      Weighted average lending rate
+293. Weighted average domestic term deposit rate
+294.      1 -year median MCLR
+295.      MSF rate
+Select the correct code:
+a)   1 and 2 only
+b) 1,2 and 3 only
+c)  3 and 4 only
+d)   4 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1,2 and 3 only
+#AnswerEnd
+#QuestionStart
+Q151) Which of the following statements are true regarding the Marginal Cost of Funds based Lending Rate (MCLR);
+296. Banks will do lending at or above MCLR
+297. MCLR may increase because of increase in CRR/SLR
+298. MCLR helps in better transmission of policy rate as compared to base rate
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       1 & 3 only
+c)       3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q152) Consider the following statements regarding the interest rates linked with an external benchmark rate:
+299. External benchmark rate can be repo rate or yield on government securities
+300. Once repo rate changes the lending rate of banks will automatically change
+301. Banks are mandated by RBI to link the deposit and lending rate with external benchmark rate
+Select the correct answer using the code given below:
+a) 1 only
+b)     1 & 2 only
+c)     2 only
+d)     1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q153) Consider the following statements regarding the “spread” charged over the external benchmark rate by the banks:
+302. The spread will be decided by the banks
+303. The spread will change with the change of external benchmark rate
+304. The spread may be different for different category of loans
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b)      2 & 3 only
+c)     1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q154) Consider the following statements regarding Non-Banking Finance Companies (NBFCs):
+305.  RBI mandates NBFCs to link their lending rates with an anchor rate
+306.  MCLR is an anchor rate which acts as external benchmark rate
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)     Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q155) Which of the following could create a hindrance in achieving the objective of inflation targeting by RBI?
+307. Government deviating from the fiscal road map
+308. Impediments in monetary policy transmission
+309.        Supply side bottlenecks
+• Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 2 only
+c)       2 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q156) Which of the following market plays the major role in transmission of monetary policy?
+a)        Government Securities market
+b)        Money Market
+c)        Forex market
+d)        Capital Market
+#QuestionEnd
+#AnswerStart
+Answer: b) Money Market
+#AnswerEnd
+#QuestionStart
+Q157) Consider the following statements regarding real and nominal interest rate:
+310. Real Interest Rate must be positive to encourage savings and reduce consumption
+311. Nominal interest rate must be positive to attract savings in banks
+312.   Real interest rate is always positive
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      2 & 3 only
+d)      2 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q158) Which of the following factors may lead to increase in savings in the economy?
+313.       Positive real interest rate
+314.       Low inflation rate
+315.       Rise in per capita income
+316.       Growth of financial intermediaries
+Select the correct answer using the code given below;
+a)      3 only
+b)      3 & 4 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q159) The term Inflation Premium’ refers to:
+a)  Higher nominal return that equity investors get due to increase in inflation
+b)  It is the risk that investors have to face because of higher inflation
+c) It the higher return that investors demand in exchange for investing in a long-term security because of higher inflation risk
+d)  It is the high return that short term bond investors demand due to higher inflation risk
+#QuestionEnd
+#AnswerStart
+Answer: c) It the higher return that investors demand in exchange for investing in a long-term security because of higher inflation risk
+#AnswerEnd
+#QuestionStart
+Q160) Inflation in the economy generally leads to which of the following:
+317.         Depreciation of currency
+318.         Appreciation of currency
+319.         Increase in real interest rate
+320.         Increase in nominal interest rate
+Select the correct answer using the code given below:
+a)         1 & 3 only
+b)         2 & 3 only
+c)         1 & 4 only
+d)         1, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 4 only
+#AnswerEnd
+#QuestionStart
+Q161) If an economy is in “Liquidity Trap’, then which of the following statements shall be true:
+321. The interest rate in the market will be very low/zero
+322. People and businesses both will hold on to their cash and don’t spend
+323.         Yield on bonds will be very less
+324. Demand Deposits of banks increases
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 & 4 only
+c) 1, 2 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q162) Consider the following statements:
+325.         Inflation benefits creditors
+326.         Inflation benefits debtors
+327.         Inflation benefits bondholders
+328.         Inflation benefits depositors
+Select the correct answer using the code given below:
+a)        1 & 3 only
+b)         2 only
+c)         3 only
+d)         l,3&4only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q163) If a country is experiencing inflation, then what will decrease:
+a)      Wage level
+b) The output of goods and services
+c) The amount of money needed to purchase a given quantity of goods and services
+d)      Purchasing Power
+#QuestionEnd
+#AnswerStart
+Answer: d) Purchasing Power
+#AnswerEnd
+#QuestionStart
+Q164) Which of the following will be the outcome if an economy is under the inflationary pressure?
+329.  Domestic currency heads for depreciation
+330. Exports become less competitive with imports getting costlier
+331.         Cost of borrowing decreases
+Select the correct answer using the code given below:
+a) 1 only
+b)        1 & 2 only
+c)        2 & 3 only
+d)        1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q165) Which of the following may lead to an increase in the overall prices?
+332.        Increase in effective demand
+333.   Decrease in the aggregate level of output
+334.         Increase in aggregate output
+335.         An increase in overall employment
+Select the correct answer using the code given below:
+a)        1 & 4 only
+b)        2 & 4 only
+c)        1, 2 & 4 only
+d)        All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 4 only
+#AnswerEnd
+#QuestionStart
+Q166) Which of the following will necessarily lead to inflation?
+a)       Increase in aggregate demand •
+b)       Increase in effective demand
+c)       Decrease in aggregate output
+d)       Increase in government spending
+#QuestionEnd
+#AnswerStart
+Answer: b) Increase in effective demand
+#AnswerEnd
+#QuestionStart
+Q167) If the supply of money is increased in the economy, then which of the following statements are true:
+a) It may lead to increase in interest rates
+b) It may lead to decrease in interest rates
+c) It will necessarily lead to economic growth
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) It may lead to decrease in interest rates
+#AnswerEnd
+#QuestionStart
+Q168) Which of the following scenarios can support sustainable economic growth?
+336.      Deflation
+337.      Low and moderate inflation
+338.      Galloping inflation
+339.       Hyperinflation
+Select the correct answer using the code gjven below:
+a)      2 only
+b)      1 & 2 only
+c) 2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 only
+#AnswerEnd
+#QuestionStart
+Q169) Which of the following are the reasons that make a moderate level of inflation good for the economy?
+340.       It increases consumption levels
+341.       It keeps businesses profitable
+342.       It induces people to save more
+Select the correct answer using the code given below:
+a)      2 only
+b)      1 & 2 only
+c)      3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q170) Consider the following statements regarding an economy facing deflation:
+343.       Companies defer their investments
+344.       People defer their expenditures
+345.       Demand decreases
+346.       Unemployment increases
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       3 only
+c)       3 & 4 only
+d)       AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) AU of the above
+#AnswerEnd
+#QuestionStart
+Q171) Which of the following factors could potentially contribute to stagflation in the Indian economy:
+347. High inflationary pressures due to increased Government spending
+348.       Expansionary monetary policy
+349. Decline in industrial production and sluggish economic growth
+350. Decrease in aggregate demand and consumer spending
+Select the correct answer using the code given below:
+a)     1 & 2 only
+b)     1, 2 & 3 only
+c)     4 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q172) Which of the following are supply side factor/s responsible for inflation?
+351.      Increase in exports
+352.  Increase in government expenditure
+353.      Increase in credit creation
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 & 3 only
+c)     1 & 3 only
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+#QuestionStart
+Q173) Which of the following are causes of demand-puU inflation?
+354.      Lower interest rate
+355.      Higher government expenditure
+356.      Higher cost of inputs
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)      2 only
+c)     3 only
+d)      AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q174) If the interest rate is decreased in an economy, it wiU
+a) Decrease the consumption expenditure in the economy
+b) Increase the tax collection of the Government
+c) Increase the investment expenditure in the economy
+d) Increase the total savings in the economy
+#QuestionEnd
+#AnswerStart
+Answer: c) Increase the investment expenditure in the economy
+#AnswerEnd
+#QuestionStart
+Q175) Consider the following statements:
+357. High output leads to high unemployment
+358. High unemployment leads to high inflation
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q176) Consider the following statements regarding ‘Overheating Economy’:
+359. It is an economy that is expanding at an unsustainable rate
+360. Unemployment rate is below the normal rate
+361. Cost push inflation is high
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q177) The term ‘Reflation’ is related to which of the following:
+a) Government increasing taxes to curb inflation
+b) RBI increasing interest rate to curb inflation
+c) Increase in inflation after a period of deflation
+d) Government increasing spending to curb deflation
+#QuestionEnd
+#AnswerStart
+Answer: d) Government increasing spending to curb deflation
+#AnswerEnd
+#QuestionStart
+Q178) Which of the following statements are true regarding ‘Disinflation’?
+362. The rate of inflation is decreasing
+363. Prices are decreasing
+364. Demand is decreasing
+365. Unemployment is increasing
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q179) Consider the following statements regarding Sovereign Gold Bonds (SGBs):
+366. The quantity of gold for which the investor pays is protected
+367. The Bond is issued by RBI on behalf of Government of India
+368. SGB is free from issues like making charges and purity
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q180) Consider the following statements regarding ‘Sovereign Green Bonds’:
+369. The proceeds will be deposited to the Consolidated Fund of India
+370. The proceeds will be deployed in public sector projects
+371. Non-Residents will also be allowed to invest in SGBs
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q181) Consider the following statements regarding ‘Sovereign Green Bonds’:
+372. These bonds will be debt on Govt, of India
+373. SGBs will be eligible for Repurchase Transactions (Repo)
+374. SGBs will be reckoned as eligible investment for SLR purpose
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q182) Which of the following will impact the Current Account of India’s Balance of Payment?
+375. Foreign Direct Investment in India
+376. Foreign Portfolio Investment in India
+377. Foreign Investment in Govt, securities
+Select the correct answer using the code given below:
+a) None of the above
+b) 1 & 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) None of the above
+#AnswerEnd
+#QuestionStart
+Q183) Which of the following are part of Capital Account in Balance of Payment?
+378. External Commercial Borrowing
+379. Foreign Direct Investment
+380. Foreign Portfolio Investment
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q184) Which of the following statements are true regarding Integrated Ombudsman Scheme, 2021?
+381. It integrates the earlier three Ombudsman schemes of RBI
+382. It will provide cost-free redress of customer complaints
+383. The scheme will be based on “One Nation-One Ombudsman
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q185) Which of the following are eligible for Kisan Credit Card Scheme?
+384. Tenant Farmers
+385. Self Help Groups of Farmers
+386. Fishermen
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q186) Kisan Credit Card Scheme is being implemented by which of the following:
+387. Commercial Banks
+388. Regional Rural Banks
+389. Small Finance Banks
+390. Cooperatives
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1, 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q187) Which of the following type of financial institutions have the highest share in agriculture credit?
+a) Commercial Banks
+b) Regional Rural Banks
+c) Cooperative Banks
+d) Micro Finance Institutions
+#QuestionEnd
+#AnswerStart
+Answer: a) Commercial Banks
+#AnswerEnd
+#QuestionStart
+Q188) Consider the following statements regarding ‘Prompt Corrective Action’ (PCA) framework:
+391. It is applicable on all Scheduled Commercial Banks
+392. It is applicable on NBFCs also
+393. Return on Assets is one of the parameters for PCA
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q189) Which of the following actions RBI can take once it declares a particular bank under Prompt Corrective Action?
+394.        Prohibit lending
+395.        Increase in provisioning
+396.  Bring in new management or supersede the bank’s board
+397.        Bank merger
+Select the correct answer using the code given below:
+a)        1 & 2 only
+b)        2 & 4 only
+c)       3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q190) Consider the following statements regarding the 'Supervisory Action Framework’:
+398.        It is   applicable for Urban-
+Cooperative banks
+399. It can be initiated in case of serious governance issues
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q191) RBI manages its forex reserves as:
+400. Deposits with Bank for International Settlement (BIS)
+401. Deposits with Foreign Commercial banks
+402. Deposits with foreign Central banks
+Select the correct answer using the code given below:
+a) 1 only
+b)     2 only
+c)     1 & 3 only
+d)     AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) AU of the above
+#AnswerEnd
+#QuestionStart
+Q192) Which of the following statements is true regarding “Line of Credit”:
+a)         It is issued by one bank to another
+b) It is issued mainly in case of international transactions
+c) It is a preset amount of money that a bank has agreed to lend
+d) The company will have to pay interest on the amount for which line of credit has been issued
+#QuestionEnd
+#AnswerStart
+Answer: c) It is a preset amount of money that a bank has agreed to lend
+#AnswerEnd
+#QuestionStart
+Q193) Which of the following statements are true regarding “Teaser Loans'?
+403.  It is a fixed cum floating loan product
+404.        These are short term loans
+3,        These loans are banned by RBI
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 2 only
+c)       3 only
+d)       2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q194) The term “provisioning” in the banking sector is related to which of the following:
+a) It is the loss that the bank incurs on sale of bad assets
+b) It is the amount of fund that the bank needs to set aside when the loan turns NPA
+c) It is the minimum amount of funds that the depositors will receive when the bank goes bankrupt
+d) It is the minimum amount which the borrower will have to pay even if the loan turns NPA
+#QuestionEnd
+#AnswerStart
+Answer: b) It is the amount of fund that the bank needs to set aside when the loan turns NPA
+#AnswerEnd
+#QuestionStart
+Q195) Consider the following statements regarding ‘First Loss Default Guarantee (FLDG)’:
+405.     It has been approved by RBI
+406.   It’s a contractual agreement between banks and Fintechs under which Fintechs give guarantee for loss due to default
+407.  The loan is shared on the books of banks and Fintechs
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)      2 & 3 only
+c)      3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q196) Consider the following statements:
+408.  Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the accountholders fail to repay dues.
+409.  CAR is decided by each individual bank.
+Which of the statements given above is/are correct?
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q197) Consider the following statements regarding ‘Additional Tier 1 bonds’:
+410. They are part of capital under Basel III norms
+411.  They are perpetual in nature and have no maturity period
+412.  They can be written down in case of bank failure
+Select the correct answer using the code given below:
+a)      2 only
+b)      3 only
+c)      1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q198) Which of the following statements are true regarding the “Liberalized Remittance Scheme” (LRS)?
+413. It is applicable for Individuals only and not companies
+414.  It is applicable for both current and capital account
+415.  Foreign exchange trading is not permitted in this scheme
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 3 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q199) Which of the following instruments are permitted for receiving foreign investment’ in an Indian Company?
+416.       Equity shares
+417.       Debentures
+418.       Preference Shares
+419.       Share Warrants
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 3 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q200) Which of the following can be treated
+as FDI:
+420. Investment in Central and State Govt, securities
+421.  Foreign Currency Convertible Bonds (FCCB)
+422.        Global Depository Receipts (GDRs)
+423.        Financial Lease
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       2 & 3 only
+c)       2, 3 & 4 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q201) Foreign Direct Investment (FDI) in India can happen by which of the following ways: ⭐ (please re-check)
+424.         Subsidiary
+425.         Joint Venture
+426.         Acquisition of shares
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1, 2 & 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+#QuestionStart
+Q202) Consider the following statements regarding Foreign Direct Investment (FDI):
+427. FDI investment happens mainly through primary market
+428. FDI investment is about equity securities
+429. FDI investment can happen through convertible debentures
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q203) Consider the following statements regarding Foreign Portfolio Investors (FPI): ⭐ (please re-check)
+430. FPI is mainly into secondary market
+431. FPI investment may happen through primary market
+432. They can invest both in debt and equity
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q204) Consider the following statements: ⭐ (please re-check)
+433.  Foreign Portfolio investments are more volatile than FDI
+434. FDI investors can easily sell their holdings and quit the market
+435. Foreign Portfolio investment is sector specific
+436. FDI investment in general target the capital market
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 3 only
+c) 3 & 4 only
+d) 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q205) Consider the following statements: ⭐ (please re-check)
+437. A Foreign Portfolio Investor can maximum invest 10 per cent in an Indian Company
+438.  When Foreign Investment in an Indian company is more than 10 per cent it is treated as FDI
+Select the correct answer using the code given below:
+a) 1 only
+b)          2 only
+c)         Both 1 & 2
+d)          Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q206) Consider the following statements regarding Foreign Direct Investment (FDI): ⭐ (please re-check)
+439.   FDI is mostly in non-debt instruments
+440. If an earlier FDI investment of more than 10% comes below 10% then it will be treated as FPI
+Select the correct answer using the code given below:
+a) 1 only
+b)        2 only
+c)        Both 1 & 2
+d)        Neither I nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither I nor 2
+#AnswerEnd
+#QuestionStart
+Q207) Consider the following statements ⭐ (please re-check)
+441. FDI requires SEBI approval/license
+442.       FPI requires SEBI approval/license
+443. FDI & FPI both require RBI approval/license
+Select the correct answer using the code given below:
+a)     1 & 2 only
+b)     2 only
+c)     3 only
+d)     AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q208) Consider the following statements regarding FDI/FPI:
+444.       FDI  get  attracted   by  higher
+economic growth
+445.       FPI  get  attracted   by  higher
+economic growth as well as higher interest rate
+446.  FPI get attracted by interest rate differential
+Select the correct answer using the code given below:
+a)      1 & 3 only
+b)      2 & 3 only
+c)      1 & 2 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q209) Which of the following will make Foreign Direct Investment (FDI) inflow attractive in a country: ⭐ (please re-check)
+447. If that country's Real Effective Exchange Rate (REER) depreciates
+448.  If that country's Nominal Effective Exchange Rate (NEER) depreciates (because of higher inflation)
+a)        1 only
+b)        2 only
+c)        Both 1 and 2
+d) FDI inflow becomes attractive in a country if REER or NEER of that country appreciates
+#QuestionEnd
+#AnswerStart
+Answer: d) FDI inflow becomes attractive in a country if REER or NEER of that country appreciates
+#AnswerEnd
+#QuestionStart
+Q210) Consider the following instruments:
+449.       Overseas Direct Investments
+450.       Reserve assets
+451.       India's portfolio investments
+Which of the above are part of 'Overseas financial assets of Indian Residents'?
+a)       1 only
+b)       1 and 2 only
+c)       2 and 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q211) Which of the following statements are true regarding Foreign Portfolio Investors (FPIs): ⭐ (please re-check)
+452.  They fund India’s Current Account Deficit (CAD)
+453.  They help in achieving governments disinvestment target
+454.  They are liable to pay capital gain tax in India
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 & 3 only
+c) 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q212) Foreign Direct Investment in India under "Government Route" is approved by which of the following agency/body:
+a)      Department of Economic Affairs
+b) Department for Promotion of Industry and Internal Trade (DPIIT)
+c)      Reserve Bank of India (RBI)
+d)      Respective        administrative
+Ministry/ Department
+#QuestionEnd
+#AnswerStart
+Answer: d) Respective        administrative Ministry/ Department
+#AnswerEnd
+#QuestionStart
+Q213) Which of the following instruments can be considered as part of External Commercial Borrowing (ECB)?
+455.       Trade credits
+456.       Preference shares
+457. Fully and compulsorily convertible debentures
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 and 3 only
+c)      1 and 2 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 and 2 only
+#AnswerEnd
+#QuestionStart
+Q214) Consider the following statements regarding External Commercial Borrowing (ECB):
+458.        All ECB requires approval
+459. Approval is not required but RBI needs to be informed
+460. It requires approval of RBI
+461. It requires approval of Department of economic Affairs, Ministry of Finance
+Select the correct answer using the code given below:
+a)           1 & 3 only
+b)           1 and 4 only
+c)           2 only
+d)           3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+#QuestionStart
+Q215) Consider the following statements:
+462.   External Commercial Borrowing is a part of 'Foreign Investment’ in India
+463.  Financial Leases are instruments of External Commercial Borrowing
+464.  Foreign Currency Convertible Bonds (FCCB) can be included in both ECB and 'Foreign Investment'
+Select the correct answer using the code given below:
+a)         1 only
+b)         1 & 2 only
+c)         2 & 3 only
+d)         All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q216) Consider the following statements regarding Masala’ bonds:
+1,  Through masala bonds, capital is raised in foreign currency
+465.  Repayment is made in foreign currency
+466.  By issuance of masala bonds, the exchange risk is transferred to the investor
+Select the correct answer using the code given below;
+a)       1 only
+b)       2 & 3 only
+c)       1 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q217) Which of the following measures will help in preventing rupee depreciation:
+467.      Easing restriction on ECB
+468. Easing restrictions on raising funds through Masala Bonds
+469. Restricting imports of non-essential commodities
+470.      Restricting FPI investments in
+India
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 1 & 3 only
+c) 1, 2 & 3 only
+d) 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q218) Consider the following statements regarding “GIFT-SEZ”:
+1-  All transactions are in foreign currency only
+471.  It is the only place in India designated as International Financial Services Centre’
+472.  It provides financial services to residents and non-residents both
+Select the correct answer using the code given below:
+a)         I only
+b)         2 only
+c)         2 & 3 only
+d)         All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q219) Consider the following statements regarding “GIFT-SEZ'’: ⭐ (please re-check)
+473.   GIFT-SEZ units are treated as non-resident in India
+474.   Indian companies can list their shares on international exchanges
+in GIFT-SEZ
+475. Overseas Direct Investment (ODI) rules will be applicable on Indian entities investing in GIFT-SEZ
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q220) Consider the following statements regarding 'Masala Bonds’:
+476.     It may be listed in India
+477.    It is part of India’s external debt
+478. Masala bonds help in financing India’s current account deficit
+Select the correct answer using the code given below:
+a)   1 only
+b)    2 only
+c)   2 & 3 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q221) Consider the following statements regarding “strategic disinvestment’ of PSUs:
+479.  Government sells up to 50% or higher percentage of shares to a strategic partner
+480.  Management control must be transferred to the strategic partner
+481.  Other PSUs can bid in the strategic disinvestment process
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      1 & 2 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q222) Which of the following ministries/departments identify PSUs for “Strategic Disinvestment”? ⭐ (please re-check)
+a) Department of Investment and Public Asset Management (DIPAM)
+b)      NITIAayog
+c)      Jointly by DIPAM and NITI Aayog
+d) Inter-Ministerial body called ‘Alternative Mechanism’
+#QuestionEnd
+#AnswerStart
+Answer: d) Inter-Ministerial body called ‘Alternative Mechanism’
+#AnswerEnd
+#QuestionStart
+Q223) Which of the following are the objectives of the ‘Strategic Disinvestment Policy’ of Govt, of India announced recently? ⭐ (please re-check)
+L Financing of social sector and developmental programmes of Govt.
+482. Creating new space for private sector
+483. Post disinvestment PSUs will be able to create more jobs and contribute to economic growth through private capital and technology
+Select the correct answer using the code given below:
+a)       2 only
+b)       3 only
+c)       1&2
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 2 only
+#AnswerEnd
+#QuestionStart
+Q224) Which of the following will be included in the balance of payments of India?
+484.  It records transactions between the citizens of a country and the rest of the world
+485.  Factor income of Indian residents from abroad
+486.  Gift received by a family in India from his NRI son
+Select the correct answer using the code given below:
+a) 1 only
+b)     1 & 2 only
+c)     2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q225) Which of the following constitute Capital Account in BoP? ⭐ (please re-check)
+1,      Global Depository Receipts (GDRs)
+487.      NRI deposits
+488.  Government securities purchased by foreign Investors
+489.  Securities purchased by foreign portfolio investors
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 3 & 4 only
+c) 1, 2 & 4 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q226) Consider the following statements regarding 'Global Depository Receipts’: ⭐ (please re-check)
+a) It is a form of equity investment in listed Indian companies
+b) These are investments in banks through debt papers
+c) These are a way for external borrowing by Indian companies
+d) It is a way of borrowing by Govt, of India from external sources
+#QuestionEnd
+#AnswerStart
+Answer: d) It is a way of borrowing by Govt, of India from external sources
+#AnswerEnd
+#QuestionStart
+Q227) Which of the following are parts of capital account transaction? ⭐ (please re-check)
+490.      Masala bonds
+491. Purchase of capital equipment’s from abroad
+492.       NRI deposits in Indian banks
+Select the correct answer using the code given below:
+a)           1 only
+b)           1 & 2 only
+c)           3 only
+d)           1 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q228) Which of the following statements are parts of Transfer Payments’ in balance of payment? ⭐ (please re-check)
+493. Gift sent by an NRI to his friend in India
+494.  Money sent by an Indian employee to his family in India who has gone abroad temporarily
+Select the correct answer using the code given below:
+a)          1 only
+b)          2 only
+c)          Both 1 & 2
+d)          Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q229) Arrange the countries in the decreasing order of remittances received (in dollars) last year (2024): ⭐ (please re-check)
+a)        lndia>China>Mexico>Phi!ippines
+b)         China>India>Mexico>Philippines
+c)        India>China>Philippines>Mexico
+d)         India* Mexico* China>Philippines
+#QuestionEnd
+#AnswerStart
+Answer: c) India>China>Philippines>Mexico
+#AnswerEnd
+#QuestionStart
+Q230) The Current Account Deficit in Balance of Payment can be financed through: ⭐ (please re-check)
+495.         Net capital inflow
+496. Foreign exchange reserve transaction
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q231) Consider the following statements regarding currency swap agreement between two countries: ⭐ (please re-check)
+497.  The countries can exchange their own currencies or a third currency
+498.  It is an open-ended credit line from one country to another at a fixed exchange rate
+Select the correct answer using the code given below:
+a)         1 only
+b)         2 only
+c)         Both 1 & 2
+d)         Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q232) Consider the following statements regarding Reserve Bank of India (RBI) Act 1934:
+I. As per the RBI Act 1934, RBI, in public interest can supersede the management of a non-banking financial company
+499.  The Central Government can supersede the “Central Board’ of RBI under RBI Act 1934
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q233) Consider the following statements regarding resolution of stressed assets: ⭐ (please re-check)
+500.  RBI can issue directions to banking companies for resolution of stressed assets
+501. RBI can direct banking companies to move through IBC 2016 for resolution of stressed assets only upon authorization of Govt, of India
+502.  Lenders require RBI authorization for resolution of stressed assets under IBC Code 2016
+Select the correct answer using the code given below:
+a) 1 only
+b) I & 2 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q234) Which of the following statements are true regarding the Insolvency and Bankruptcy Code 2016? ⭐ (please re-check)
+503.  Committee of Creditors consist of only financial creditors
+504.  Operational creditors do not share the resolution proceeds
+505.  NCLT will decide the distribution of proceeds between financial and operational creditors
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)     2 & 3 only
+d)      3 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q235) Consider the following statements regarding Insolvency and Bankruptcy Code (IBC) 2016: ⭐ (please re-check)
+506.  IBC is applicable for Financial Service Providers like NBFCs
+507.  Central Government has the authority to decide which type of financial service providers will be included for resolution under IBC
+508.  IBC has not been made applicable for insolvency of banks
+Select the correct answer using the code given below:
+a)     1 only
+b)      1 & 2 only
+c)     3 only
+d)      AH of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q236) Consider the following statements regarding resolution of Financial Service Providers (FSP) under IBC 2016. ⭐ (please re-check)
+509. Govt, of India in consultation with appropriate regulator will decide which category of FSPs can be taken up for resolution under IBC 2016
+510. To initiate resolution of FSPs under IBC 2016, the appropriate regulator should make an application
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q237) Who cannot bid for companies put up for sale under the new Insolvency and Bankruptcy Code (IBC): ⭐ (please re-check)
+511.      A wilful defaulter
+512.      Promoters of the company
+Select the correct answer using the code given below
+a) 1 only
+b) 2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q238) Which of the following statements are true regarding the SARFAES1 Act 2002? ⭐ (please re-check)
+513. It is applicable to banks and NBFCs both
+514. It allows selling of the security in case of secured lending
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q239) Consider the following statements regarding the recently created had bank’: ⭐ (please re-check)
+515.  It will help in the resolution of bad assets of only public sector banks
+516. The bad bank will purchase bad assets from banks in cash
+517.  Govt, of India is giving guarantee on the securities issued by the bad bank
+Select the correct answer using the code given below:
+a)       1 & 3 only
+b)       2 only
+c)       3 only
+d)       None of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) None of the above
+#AnswerEnd
+#QuestionStart
+Q240) Consider the following statements regarding 'Pre-Pack" scheme under IBC 2016:
+518. It is applicable for defaults by MSMEs of less than Rs. 1 crore
+519. The management will remain with the promoters of the distressed firm
+520. Only debtors can initiate pre-pack insolvency resolution
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 1 & 3 only
+c)       2 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q241) "Liquidity Coverage Ratio’ is defined as a ratio of: ⭐ (please re-check)
+a) High quality liquid assets to cash outflow for 30 days period
+b) High quality liquid assets to deposits of the public in the bank
+c) High quality liquid assets to net cash outflow amount over a 30 days period
+d) High quality liquid assets to total lending of banks
+#QuestionEnd
+#AnswerStart
+Answer: d) High quality liquid assets to total lending of banks
+#AnswerEnd
+#QuestionStart
+Q242) Consider the following statements regarding crypto currencies in India: ⭐ (please re-check)
+1. They are treated as virtual digital assets rather than a legal currency
+2. Income from transfer of these crypto currencies are taxed at rate of 30%
+3. Levy of tax on cryptos does not legalise crypto trade
+Select the correct answer using the code given below:
+a)     1 only
+b)     l&2only
+c)     2&3
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q243) Consider the following statements regarding Central Bank Digital Currency (CBDC) e-Rupee; ⭐ (please re-check)
+1  . It will be a flat currency and legal tender and will not have intrinsic value
+2  . It will exist only in digital form
+3  CBDCs held by people will be reflected as liability on the RBI balance sheet rather than banks
+4  It could lead to instantaneous payment without any processing delays
+Select the correct answer using the code given below:
+a) 1 & 3 only
+b) 2 & 4 only
+c) 3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q244) Consider the following statements regarding CBDC (e-Rupee). ⭐ (please re-check)
+1 . It is a bearer instrument
+2  It would offer features of physical ’ash like trust, safety and settlement facility
+4. RBI Act 1934 has been amended to include e-Rupee as legal tender
+Select the correct answer using the code given below:
+a) I & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) AU of the above
+#AnswerEnd
+#QuestionStart
+Q245) A reduction in repo rate by RBI may not be transmitted into lending rate in the economy because of. ⭐ (please re-check)
+5. Banks cost of funds remaining high                   .      . . .
+6.  Government offering higher interest on its own savings schemes
+7.  Liquidity crunch in the economy
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q246) Which of the following statements are true regarding the ‘Co-lending’ by Banks and NBFCs for lending to priority sector: ⭐ (please re-check)
+8.  The banks can claim the total amount of loan given under colending as priority sector lending
+9.  The banks and NBFCs have to keep the same price for their part of the loan
+10.  In this model banks can leverage their strong presence in local markets while NBFCs will have the cheap availability of funds
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      None of the above
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) None of the above
+#AnswerEnd
+#QuestionStart
+Q247) Which of the following will deter investments in the economy?
+11.      High real interest rate
+12.      High-capacity utilization
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q248) Consider the following statements in a market determined exchange rate system:
+13.  Imposing tariff may not help in improving trade balance as the exchange rate moves to offset the tariff
+14.  The exchange rate depends on the demand and supply of the two currencies
+Select the correct answer using the code given below:
+a)  1 only
+b)  2 only
+c)      Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q249) Consider the following statements regarding rupee-dollar rate in foreign exchange market:
+15.  Inflation in the domestic economy will lead to rupee depreciation
+16.  Rupee depreciation will lead to inflation in the domestic goods in the economy
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q250) Which of the following activities will increase liquidity in the economy?
+17.      Advance tax payment
+18.      Input tax credit on GST
+19.  Front loading of government expenditure
+20.  Recapitalization of public sector banks
+Select the correct answer using the code given below:
+a) 1 & 3 only
+b) 2, 3 & 4 only
+c) 3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q251) The problem of international liquidity is related to the non-availability of:
+a)      Goods and services
+b)      Gold and silver
+c)      Dollars and other hard currencies
+d)      Exportable surplus
+#QuestionEnd
+#AnswerStart
+Answer: c) Dollars and other hard currencies
+#AnswerEnd
+#QuestionStart
+Q252) Surplus liquidity in the economy may result in which of the following:
+21.  Reduction in cost of capital
+22.  Depreciation of currency
+23.  Softening of bond yield
+Select the correct answer using the code given below:
+a)      2 only
+b)        1 & 3 only
+c) 2 & 3 only
+d) Ail of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) Ail of the above
+#AnswerEnd
+#QuestionStart
+Q253) Consider the following statements:
+24. If interest rate goes up, bond yield goes up
+25. Bond yield can change even if interest rate does not change
+Select the correct answer using the code given below:
+a)        1 only
+b)        2 only
+c)        Both 1 & 2
+d)        Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q254) If there is a surge in bond yields in the domestic economy, then:
+26.         Bondholders will gain
+27.       It will attract FPI debt investors
+28. It will positively impact Government's disinvestment plan
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      1 & 2 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q255) Consider the following statements regarding bond yield:
+29. Generally, the yield curve of bonds is upward sloping
+30. Bond yield inversion happens when yield on short duration bonds are higher than long duration bonds
+31. Generally, the inversion in bond, yield curve indicates a trouble in the economy
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b)    3 only
+c)    2&3only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q256) Consider the following statements regarding microfinance loans:
+32.          It should be collateral free loan
+33.          Interest rate is regulated by RBI
+34.  These are loans availed by households having annual income up to Rs. 3,00,000
+Select the correct answer using the code given below:
+a)         1 only
+b)         2 only
+c)         1 & 3 only
+d)         AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q257) Which of the following type of institutions provide the maximum microfinance credit:
+a)        Banks
+b)        NBFCs
+c)        MFI-NBFCs
+d)        Others
+#QuestionEnd
+#AnswerStart
+Answer: a) Banks
+#AnswerEnd
+#QuestionStart
+Q258) Consider the following statements;
+35. Debt overhang refers to a debt burden so large that an entity cannot take on additional debt to finance future projects.
+36.  Debt trap is a situation in which it becomes difficult or impossible to repay the debt
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q259) Which of the following can be considered as a case of ‘financial repression?
+37.  Banks requiring to maintain statutory liquidity ratio
+38.     Cap on banks interest rates
+39.  Issuance of non-marketable debt by the government
+40.  Regulation of cross border capital movement
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 & 3 only
+c) 1, 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q260) In the recent times, Indian companies have aggressively pursued ‘deleveraging’, which refers to:
+a)      Converting their debt into equity
+b) Reducing the debt by selling assets of the companies
+c) Reducing the promoter’s equity in the company
+d) Increasing debt to fund business expansion plans
+#QuestionEnd
+#AnswerStart
+Answer: b) Reducing the debt by selling assets of the companies
+#AnswerEnd
+#QuestionStart
+Q261) Consider the following statements regarding ‘Circuit Breaker’:
+41. Circuit breaker applies when the stock or indices moves too much in either direction
+42. Circuit breakers when triggered may bring about a coordinated trading halt in all the equity markets nationwide
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q262) The term 'Transfer Pricing’ was recently in the news, it is related to which of the following?
+a) The price at which one company sells intermediate goods to other companies
+b)       The price  at  which   goods are
+transferred              within      group
+companies
+c)       The price  at  which   goods are
+transferred              between     shell
+companies
+d) The price at which one company transfers its goods from one state to another state for stocking purpose
+#QuestionEnd
+#AnswerStart
+Answer: b) The price  at  which   goods are transferred within group companies
+#AnswerEnd
+#QuestionStart
+Q263) Consider the following statements regarding 'Advance Pricing Agreement’:
+43.  It is an agreement between a tax authority and a taxpayer
+44.  It is an agreement between two governments
+45.  It is an agreement to discover the pricing methodology between related company transactions
+46.  It helps in making a country an attractive destination for foreign investments
+Select the correct answer using the codes given below the lists:
+a) 1 & 3 only
+b) 2 & 3 only
+c) 2 & 4 only
+d) 1, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q264) Consider the following statements regarding financial Stability Report’:
+a) Released annually by Dept, of Economic Affairs
+b) Released biannually by Dept, of Economic Affairs
+c)    Released annually by RBI
+d)     Released biannually by RBI
+#QuestionEnd
+#AnswerStart
+Answer: d) Released biannually by RBI
+#AnswerEnd
+#QuestionStart
+Q265) Consider the following statements regarding 'National Financial Reporting Authority (NFRA)’:
+47. It has been established under Company's Act 2013
+48. It recommends accounting and auditing policies and standards to the Central Government for adoption by companies
+49. It has the power to enforce compliance                     with
+accounting/auditing standards and undertake investigation of the auditors
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q266) Consider the following statements regarding the National Bank for Financing Infrastructure Development (NaBFID):
+1-  It will provide long term nonrecourse infrastructure financing
+50.  It will seek to attract private sector investors and institutional investors in infrastructure projects in India
+51.  It has been established as a development financial institution by an act of Parliament
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd

@@ -1,0 +1,271 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  The President of India is empowered by the Constitution of India to make regulations specifying the matters on which it is not necessary to consult the Union Public Service Commission.
+2.  The reasons for non-acceptance of the advice of the Union Public Service Commission have to be laid before each House of the Parliament.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following are the functions of the Union Public Service Commission?
+1.  To conduct examinations for recruitment to the services of the Union.
+2.  To advise on matters referred to it by the President or the Governor.
+3.  To advise on all disciplinary matters affecting a government servant.
+4.  To advise on the principles to be followed in respect of promotions and transfers.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1, 2 and 3
+c)  1, 3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+A member of the Union Public Service Commission is:
+1.  Debarred from re-appointment as a member
+2.  Ineligible for any other employment under the Central or State Government
+3.  Disqualified from becoming a constitutional functionary like a Governor
+Of the above statements:
+a)  1, 2 and 3 are correct
+b)  2 and 3 are correct
+c)  1 and 3 are correct
+d)  1 and 2 are correct
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 2 are correct
+#AnswerEnd
+#QuestionStart
+Q4) Assertion (A): The Union Public Service Commission must be consulted as regards the reservation of posts for Backward classes, Scheduled Castes and Scheduled Tribes.
+Reason (R):  The functions of the Union Public Service Commission are only advisory and the Government need not act upon the advice of the Commission in any case.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following statements is not true?
+a)  A member of the Union Public Service Commission (UPSC) holds office for a term of six years or until he attains the age of 65 years.
+b)  The Chairperson of UPSC is not eligible for further employment under the Government of India or Government of any State after retirement.
+c)  One half of the members of the UPSC should be persons who have held office for at least 10 years either under Government of India or Government of State.
+d)  The Chairperson and other members of the UPSC are appointed by the Prime Minister.
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Chairperson and other members of the UPSC are appointed by the Prime Minister.
+#AnswerEnd
+#QuestionStart
+Q6) Under the Constitution of India, the power to extend functions of the Union Public Service Commission has been vested in the:
+a)  President of India
+b)  Parliament
+c)  Chairman of the Commission
+d)  Ministry of Personnel
+#QuestionEnd
+#AnswerStart
+Answer: b)  Parliament
+#AnswerEnd
+#QuestionStart
+Q7) Who among the following is a Constitutional authority for whose removal from office by the President a reference to the Supreme Court is necessary?
+a)  Chairman of the Union Public Service Commission
+b)  Judge of the Supreme Court
+c)  Comptroller and Auditor-General of India
+d)  Chief Election Commissioner
+#QuestionEnd
+#AnswerStart
+Answer: a)  Chairman of the Union Public Service Commission
+#AnswerEnd
+#QuestionStart
+Q8) Which one of the following statements is correct?
+a)  Union  Public  Service  Commission  may  serve  the  needs  of  a  State  if  requested  by  the Governor of that State and approved by the President.
+b)  Union Public Service Commission may serve the needs of a State if requested by the Chief Minister of that State.
+c)  Union Public Service Commission cannot serve the needs of a State.
+d)  Union Public Service Commission may serve the needs of a State simply on request of Governor and the approval of the President is not necessary.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Union  Public  Service  Commission  may  serve  the  needs  of  a  State  if  requested  by  the Governor of that State and approved by the President.
+#AnswerEnd
+#QuestionStart
+Q9) The Constitution of India enjoins upon the government to consult the Union Public Service Commission in disciplinary matters. Which one of the following is an institution whose emergence cannot exactly be reconciled with the constitutionally prescribed role of the Union Public Service Commission?
+a)  The Administrative Reforms Commission
+b)  The Central Bureau of Investigation
+c)  The Central Vigilance Commission
+d)  The Law Commission
+#QuestionEnd
+#AnswerStart
+Answer: c)  The Central Vigilance Commission
+#AnswerEnd
+#QuestionStart
+Q10) Which one of the following is not a function of the Union Public Service Commission?
+a)  It conducts examinations for the appointments to the services of the union.
+b)  It shall be consulted on all matters relating to methods of recruitment to civil services.
+c)  It shall be consulted on all disciplinary matters affecting a person serving the Government of India.
+d)  It  shall  be  consulted  in  cases  as  regards  the  reservation  of  posts  for  Backward Classes, Scheduled Castes and Scheduled Tribes.
+#QuestionEnd
+#AnswerStart
+Answer: d)  It  shall  be  consulted  in  cases  as  regards  the  reservation  of  posts  for  Backward Classes, Scheduled Castes and Scheduled Tribes.
+#AnswerEnd
+#QuestionStart
+Q11) Assertion (A): No qualifications have been prescribed for the membership of the Union Public Service Commission.
+Reason (R):  The Constitution does not fix the number of members of the Union Public Service Commission.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A.
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following statements about a member of the Union Public Service Commission on his ceasing to hold office is incorrect?
+a)  He is eligible to be appointed as Chairman of the U.P.S.C.
+b)  He is ineligible to be appointed as Chairman of any State PSC.
+c)  He is ineligible for employment under the Government of India.
+d)  He is ineligible for employment under the State Governments.
+#QuestionEnd
+#AnswerStart
+Answer: b)  He is ineligible to be appointed as Chairman of any State PSC.
+#AnswerEnd
+#QuestionStart
+Q13) Which of the following does not concern the Union Public Service Commission?
+a)  Recruitment
+b)  Classification of services
+c)  Disciplinary matters
+d)  Promotion
+#QuestionEnd
+#AnswerStart
+Answer: b)  Classification of services
+#AnswerEnd
+#QuestionStart
+Q14) The annual report of the UPSC is submitted to the:
+a)  Ministry of Personnel
+b)  Parliament
+c)  Prime Minister
+d)  President
+#QuestionEnd
+#AnswerStart
+Answer: d)  President
+#AnswerEnd
+#QuestionStart
+Q15) Assertion (A):  UPSC is an independent organisation.
+Reason (R):    UPSC is a constitutional body.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q16) Consider the following statements:
+A member of the Union Public Service Commission
+1.  Is appointed by the President of India.
+2.  Is ineligible for re-appointment to that office.
+3.  Holds office for a period of 6 years or till the age of 60 years, whichever is earlier.
+Of the above statements:
+a)  1, 2 and 3 are correct
+b)  1 and 2 are correct
+c)  2 and 3 are correct
+d)  1 and 3 are correct
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2 are correct
+#AnswerEnd
+#QuestionStart
+Q17) Who / Which is vested with powers to make regulations as to conditions of service of members and staff of the Union Public Service Commission?
+a)  President of India
+b)  Parliament
+c)  Union Minister of Law
+d)  Chairman, Union Public Service Commission
+#QuestionEnd
+#AnswerStart
+Answer: a)  President of India
+#AnswerEnd
+#QuestionStart
+Q18) Immediately before 26 January, 1950, the Union Public Service Commission was known as:
+a)  Public Service Commission
+b)  Federal Public Service Commission
+c)  Central Public Service Commission
+d)  Imperial Public Service Commission
+#QuestionEnd
+#AnswerStart
+Answer: b)  Federal Public Service Commission
+#AnswerEnd
+#QuestionStart
+Q19) According to which one of the following Articles of the Constitution of India, is the Government bound to seek the advice of the UPSC?
+a)  Article 120
+b)  Article 220
+c)  Article 320
+d)  Article 420
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 320
+#AnswerEnd
+#QuestionStart
+Q20) Assertion (A): After being chairman of UPSC, one cannot become a member of Central or State legislature.
+Reason (R):  He is completely debarred from any future employment under the Central or State Government after retirement.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: d)  A is false but R is true
+#AnswerEnd
+#QuestionStart
+Q21) In which of the following, does the Union Public Service Commission advise the Central Government?
+1.  On matters relating to the methods of recruitment to the civil services.
+2.  On the principles to be followed in making appointments to the civil services.
+3.  On disciplinary matters in respect of persons serving in a civil capacity.
+4.  On seniority cases when referred to it.
+Select the correct answer from the codes given below:
+a)  1, 2 and 4
+b)  2, 3 and 4
+c)  1, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q22) In terms of Constitutional status, the Union Public Service Commission is:
+a)  An Advisory Body
+b)  A Grievance Redressal Body
+c)  A body incharge of directing recruitment at State level
+d)  A body which supervises training of civil servants fit
+#QuestionEnd
+#AnswerStart
+Answer: a)  An Advisory Body
+#AnswerEnd
+#QuestionStart
+Q23) How can functions of the Union Public Service Commission be extended in respect of the services of the Union and also in respect of the services of any local authority or other body corporate constituted by law or of any public institution?
+a)  By the President
+b)  By the resolution of the Union Government
+c)  By an Act of Parliament
+d)  By the Union Home Minister
+#QuestionEnd
+#AnswerStart
+Answer: c)  By an Act of Parliament
+#AnswerEnd
+#QuestionStart
+Q24) Which one of the following statements is not correct in respect of the Union Public Service Commission?
+a)  The Constitution of India does not specify the number of Members of the Union Public Service Commission while it specifies the number in case of the Supreme Court judges.
+b)  As nearly as may be one-half of the Members of the Union Public Service Commission must have held office for at least ten years either under the Government of India or under the Government of a State prior to their joining the Commission.
+c)  On ceasing to hold office, a Member of the Union Public Service Commission other than the Chairman is eligible for appointment as the Chairman of a State Public Service Commission.
+d)  Before creation of a new Group ‘A’ post under the Central Government, a clearance from the Union Public Service Commission is required.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Before creation of a new Group ‘A’ post under the Central Government, a clearance from the Union Public Service Commission is required.
+#AnswerEnd

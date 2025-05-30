@@ -1,0 +1,68 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Like the Judge of a High Court, the Advocate-General of a State is appointed by the President of India.
+2.  A person who is qualified to be appointed a judge of a High Court, can be appointed as Advocate General.
+Which of the statement(s) given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements with regard to the Advocate General of a State:
+1.  He holds office during the pleasure of the President of India.
+2.  He can take part in the proceedings of the State Legislative Assembly.
+3.  His salary is paid from the Consolidated Fund of India.
+4.  He advises the State Government on legal matters.
+Which of these is/are correct?
+a)  2 and 4
+b)  Only 3
+c)  Only 1
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q3) The Advocate General of a State enjoys all the privileges and immunities that are available to:
+a)  A member of the State Legislature
+b)  A member of the Parliament of India
+c)  Governor of the State
+d)  President of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  A member of the State Legislature
+#AnswerEnd
+#QuestionStart
+Q4) Which Article of the Constitution of India has provided for the office of the Advocate General of the States?
+a)  Article 163
+b)  Article 168
+c)  Article 165
+d)  Article 169
+#QuestionEnd
+#AnswerStart
+Answer: c)  Article 165
+#AnswerEnd
+#QuestionStart
+Q5) The term of office of the Advocate General of a State is:
+a)  4 years
+b)  5 years
+c)  6 years
+d)  Not fixed
+#QuestionEnd
+#AnswerStart
+Answer: d)  Not fixed
+#AnswerEnd
+#QuestionStart
+Q6) The remuneration of the Advocate General of a State is determined by:
+a)  President of India
+b)  State Legislature
+c)  State Governor
+d)  Parliament of India
+#QuestionEnd
+#AnswerStart
+Answer: c)  State Governor
+#AnswerEnd

@@ -1,0 +1,280 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Under the Government of India Act, 1919, the Indian Legislature was made more representative and for the first time bicameral.
+2.  The Government of India Act, 1935, prescribed a federation taking the Provinces and the Indian States as units.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following are the principal features of the Government of India Act, 1919?
+3.  Introduction of dyarchy in the executive government of the Provinces.
+4.  Introduction of separate communal electorates for Muslims.
+5.  Devolution of legislative authority by the Centre to the Provinces.
+6.  Expansion and reconstitution of Central and Provincial Legislatures.
+Select the correct answer from the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1, 2 and 4
+d)  1, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+7.  The first Public Service Commission in India was set up in the year 1926, on the recommendation of the Lee Commission on the Superior Civil Services in India.
+8.  The Government of India Act, 1935, provided for setting up of public service commissions at both the federal and provincial levels.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following Acts provided the setting up of a Board of Control in Britain, through which the British Government could fully control the British East India Company’s civil, military and revenue affairs in India?
+a)  Regulating Act of 1773
+b)  Pitt’s India Act of 1784
+c)  Charter Act of 1833
+d)  Government of India Act of 1858
+#QuestionEnd
+#AnswerStart
+Answer: b)  Pitt’s India Act of 1784
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I  (Acts)                                        | List-II (Provisions)                                               |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  The Government of India Act, 1935                 | 1.  Transfer of power from the East India Company to the British crown |
+| B.  The Indian Councils Act, 1909                     | 2.  Envisaged Dominion status to India                             |
+| C.  The Government of India Act, 1919                 | 3.  Introduction of provincial autonomy                            |
+| D.  The Government of India Act, 1858                 | 4.  Introduction of Dyarchy in provinces                           |
+|                                                       | 5.  Introduction of separate electorate for Muslims                |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 2 3
+b)  3 5 4 1
+c)  1 5 4 3
+d)  3 4 2 1
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 5 4 1
+#AnswerEnd
+#QuestionStart
+Q6) Partially responsible governments in the provinces were established under which one of the following Acts?
+a)  The Government of India Act, 1919
+b)  The Government of India Act, 1935
+c)  Indian Councils Act, 1909
+d)  Indian Councils Act, 1892
+#QuestionEnd
+#AnswerStart
+Answer: a)  The Government of India Act, 1919
+#AnswerEnd
+#QuestionStart
+Q7) The initial idea of recruitment on merit principle can be traced to the:
+a)  Lee Commission
+b)  Macaulay Committee
+c)  Islington Commission
+d)  Maxwell Committee
+#QuestionEnd
+#AnswerStart
+Answer: b)  Macaulay Committee
+#AnswerEnd
+#QuestionStart
+Q8) During the period of British rule in India, the rules made under which one of the following were known as the Devolution Rules?
+a)  Government of India Act, 1919
+b)  Indian Councils Act, 1909
+c)  Indian Councils Act, 1892
+d)  Government of India Act, 1935
+#QuestionEnd
+#AnswerStart
+Answer: a)  Government of India Act, 1919
+#AnswerEnd
+#QuestionStart
+Q9) Which one of the following pairs is correctly matched?
+a)  Indian Councils Act, 1892 : Principle of Election
+b)  Indian Councils Act, 1909 : Responsible Government
+c)  Government of India Act, 1919 : Provincial Autonomy
+d)  Government of India Act, 1935 : Dyarchy in States
+#QuestionEnd
+#AnswerStart
+Answer: a)  Indian Councils Act, 1892 : Principle of Election
+#AnswerEnd
+#QuestionStart
+Q10) Assertion (A): Notwithstanding the introduction of Provincial Autonomy, the Government of India Act, 1935 retained control of the Central Government over the Provinces in a certain sphere.
+Reason (R):  The Governor was required to act in his own discretion in certain matters for which he was to act without ministerial advice and under the control and directions of the Governor-General.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q11) In the Federation established by the Act of 1935, residuary powers were given to the:
+a)  Federal Legislature
+b)  Provincial Legislature
+c)  Governor General
+d)  Provincial Governor
+#QuestionEnd
+#AnswerStart
+Answer: c)  Governor General
+#AnswerEnd
+#QuestionStart
+Q12) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I  (Acts)                                        | List-II (Provisions)                                               |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Government of India Act, 1858                     | 1.  All-India Federation of Provinces and Princely States          |
+| B.  Indian Councils Act, 1861                         | 2.  Appointment of Secretary of State for India                    |
+| C.  Indian Councils Act, 1909                         | 3.  Beginning of representation and legislative devolution         |
+| D.  Government of India Act, 1919                     | 4.  Dyarchy in Provinces                                           |
+|                                                       | 5.  Morley-Minto Reforms                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 2 3 4
+b)  2 3 5 4
+c)  3 4 5 1
+d)  2 3 4 1
+#QuestionEnd
+#AnswerStart
+Answer: b)  2 3 5 4
+#AnswerEnd
+#QuestionStart
+Q13) The Government of India Act, 1919, was based upon:
+a)  Morley-Minto Reforms
+b)  Montague-Chelmsford Report
+c)  Ramsay McDonald Award
+d)  Nehru Report
+#QuestionEnd
+#AnswerStart
+Answer: b)  Montague-Chelmsford Report
+#AnswerEnd
+#QuestionStart
+Q14) Under which one of the following Acts, was the Communal Electorate System introduced by the British in India, for the first time?
+a)  Government of India Act, 1909
+b)  Government of India Act, 1919
+c)  Indian Councils Act of 1861
+d)  Indian Councils Act of 1892
+#QuestionEnd
+#AnswerStart
+Answer: a)  Government of India Act, 1909
+#AnswerEnd
+#QuestionStart
+Q15) What were the salient features of the Government of India Act, 1935?
+9.  Abolition of Council of India
+10.  Dyarchy at the Centre
+11.  Abolition of Dyarchy in the States
+12.  Establishment of Federal Court
+Select the correct answer using the codes given below:
+a)  2 and 3
+b)  1, 2 and 3
+c)  1, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q16) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Feature)                                      | List-II (Act)                                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Federal Scheme of Government                      | 1.  Minto-Morley Reforms, 1909                                     |
+| B.  Dyarchy in Provincial Government                  | 2.  Indian Councils Act, 1861                                      |
+| C.  Communal representation                           | 3.  Government of India Act, 1935                                  |
+| D.  Rigid centralization                              | 4.  Montague-Chelmsford Reforms, 1919                              |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes :
+    A B C D
+a)  2 1 4 3
+b)  3 4 1 2
+c)  2 4 1 3
+d)  3 1 4 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 4 1 2
+#AnswerEnd
+#QuestionStart
+Q17) Who among the following was the Finance Minister of India in the Interim Government during 1946-1947?
+a)  R.K. Shanmukham Chetty
+b)  John Mathai
+c)  Liaquat Ali Khan
+d)  Chintamanrao Deshmukh
+#QuestionEnd
+#AnswerStart
+Answer: c)  Liaquat Ali Khan
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following Acts laid the foundation of the British Administration in India ?
+a)  Regulating Act, 1773
+b)  Pitt’s India Act, 1784
+c)  Indian Councils Act, 1861
+d)  Indian Councils Act, 1892
+#QuestionEnd
+#AnswerStart
+Answer: a)  Regulating Act, 1773
+#AnswerEnd
+#QuestionStart
+Q19) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provisions)                                   | List-ll (Acts)                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Designation of the Governor-General of Bengal as the Governor-General of India and his Government as the Government of India | 1. Charter Act of 1833 |
+| B.  Dyarchy introduced in Indian Government           | 2. Government of India Act, 1858                                   |
+| C.  Twin features of  All-India Federation and Provincial Autonomy | 3. Government of India Act, 1919                                   |
+| D.  Control of the Government of India transferred from East India Company to the British Crown | 4. Government of India Act, 1935                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 3 2
+b)  2 3 4 1
+c)  1 3 4 2
+d)  2 4 3 1
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 3 4 2
+#AnswerEnd
+#QuestionStart
+Q20) Who among the following was the first Law Minister of India ?
+a)  Jawahar Lal Nehru
+b)  Maulana Abul Kalam Azad
+c)  Dr. BR Ambedkar
+d)  T Krishnamachari
+#QuestionEnd
+#AnswerStart
+Answer: c)  Dr. BR Ambedkar
+#AnswerEnd
+#QuestionStart
+Q21) With reference to the period of British Rule in India, Indian Statutory Commission is popularly known as :
+a)  Cabinet Mission
+b)  Hunter Commission
+c)  Sadlar Commission
+d)  Simon Commission
+#QuestionEnd
+#AnswerStart
+Answer: d)  Simon Commission
+#AnswerEnd
+#QuestionStart
+Q22) During the British Rule in India, who was the first Indian to be appointed as Law Member of the Governor General’s Council ?
+a)  Raja Kishori Lal Goswami
+b)  Motilal Nehru
+c)  Satyendra Sinha
+d)  Tej Bahadur Sapru
+#QuestionEnd
+#AnswerStart
+Answer: c)  Satyendra Sinha
+#AnswerEnd

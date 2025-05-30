@@ -1,0 +1,369 @@
+#QuestionStart
+Q1) Which of the following statements about a uniform civil code is/are correct?
+1.  It is binding on the State that a uniform civil code must be made applicable to all.
+2.  The provision regarding a uniform civil code is contained in Part III of the Constitution.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Directive Principles of State Policy direct the State for which of the following?
+3.  To secure a social order for the promotion of welfare of the people
+4.  To separate judiciary from executive
+5.  To improve public health
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) Consider the following statements:
+Directive Principles of State Policy are:
+6.  Directives in the nature of ideals of the state
+7.  Directives influencing and shaping the policy of State
+8.  Non-justiciable rights of the citizens
+Which of these statements is/are correct?
+a)  Only 1
+b)  2 and 3
+c)  Only 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following statements about the changes made by the forty second amendment to the Constitution relating to the Directive Principles of State Policy are correct?
+9.  It enabled State to provide free legal aid to its citizens.
+10.  It  provided  for  the  State  to  secure  the  participation  of  workers  in  the  management  of undertakings.
+11.  It required the state to minimise inequalities in income and status.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q5) Which one of the following is the real guiding factor for the State to meet social needs and for the establishment of new social order?
+a)  Fundamental Rights
+b)  Preamble of the Constitution
+c)  Directive Principles of State Policy
+d)  Distribution of Powers
+#QuestionEnd
+#AnswerStart
+Answer: c)  Directive Principles of State Policy
+#AnswerEnd
+#QuestionStart
+Q6) Which one of the following is not stated as a Directive Principle of State Policy in the Constitution of India?
+a)  Organisation of village panchayats
+b)  Uniform civil code for the citizens
+c)  Separation of Judiciary from Executive
+d)  Right of minorities to establish and administer educational institutions
+#QuestionEnd
+#AnswerStart
+Answer: d)  Right of minorities to establish and administer educational institutions
+#AnswerEnd
+#QuestionStart
+Q7) Assertion (A): The Directive Principles of State Policy contained in the Constitution of India are relevant in determining the limits of reasonable restrictions laid down in Article 19 dealing with the Fundamental Right to Freedom.
+Reason (R):  The Fundamental Rights in Part III of the Constitution have been superseded by the Directive Principles.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q8) Though the Directive Principles of State Policy contained in the Constitution are not enforceable by any court, yet they are:
+a)  Fundamental in the governance of the country
+b)  Binding on the State
+c)  Enforceable at the instance of the President
+d)  Superior to Fundamental Rights of India
+#QuestionEnd
+#AnswerStart
+Answer: a)  Fundamental in the governance of the country
+#AnswerEnd
+#QuestionStart
+Q9) Which of the following are included in the Directive Principles of State Policy in the Constitution of India?
+12.  Uniform civil code for the citizens
+13.  Separation of judiciary from executive
+14.  Protection of monuments of national importance
+Select the correct answer by using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q10) With respect to the Directive Principles of State Policy, which one of the following pairs is not correctly matched?
+a)  To secure just and humane conditions of work and maternity relief : Article 42
+b)  To organise village Panchayats as units of self government : Article 40
+c)  To secure the improvement of public health and the prohibition of intoxicating drinks and of drugs which are injurious to health : Article 47
+d)  To protect all monuments of historic interest and national importance : Article 50
+#QuestionEnd
+#AnswerStart
+Answer: d)  To protect all monuments of historic interest and national importance : Article 50
+#AnswerEnd
+#QuestionStart
+Q11) Which one of the following is not a Directive Principle of State Policy?
+a)  The State shall endeavour to secure for the citizens a uniform civil code.
+b)  The State shall promote with special care the educational and economic interest of the weaker sections.
+c)  The State shall endeavour to promote adult education to eliminate illiteracy.
+d)  The State shall endeavour to protect every monument, place or object of artistic or historic interest.
+#QuestionEnd
+#AnswerStart
+Answer: c)  The State shall endeavour to promote adult education to eliminate illiteracy.
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following is not the objective of the Directive Principles of State Policy?
+a)  To establish a welfare state
+b)  To ensure socio-economic justice
+c)  To establish a religious state
+d)  To establish a secular state
+#QuestionEnd
+#AnswerStart
+Answer: c)  To establish a religious state
+#AnswerEnd
+#QuestionStart
+Q13) Assertion (A): The directive principles of state policy are not enforceable by any court.
+Reason (R):  The directive principles are more or less fundamental in the governance of the country.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q14) Which one of the following is a correct statement?
+a)  Primacy is given to all the directive principles contained in Part IV of the Constitution over fundamental rights.
+b)  Primacy is given to all the fundamental rights conferred by Article 14-32 of the Constitution over directive principles.
+c)  Primacy is given to all the fundamental rights conferred by Part III of the Constitution over directive principles.
+d)  Primacy is given only to directive principles in clauses (b) and (c) of Article 39 over fundamental rights conferred by Articles 14 and 19 of the Constitution.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Primacy is given only to directive principles in clauses (b) and (c) of Article 39 over fundamental rights conferred by Articles 14 and 19 of the Constitution.
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following Directive Principles was not originally provided for in the Constitution of India?
+a)  Citizen’s right to an adequate means of livelihood
+b)  Free legal aid
+c)  Uniform civil code for the citizens
+d)  Prohibition of the slaughter of cows and calves
+#QuestionEnd
+#AnswerStart
+Answer: b)  Free legal aid
+#AnswerEnd
+#QuestionStart
+Q16) The term ‘equal pay for equal work’ is a:
+a)  Directive Principle of State Policy
+b)  Fundamental Right
+c)  Fundamental Duty
+d)  Constitutional Right
+#QuestionEnd
+#AnswerStart
+Answer: a)  Directive Principle of State Policy
+#AnswerEnd
+#QuestionStart
+Q17) Assertion (A): Secularism is a basic feature of the Constitution of India in the sense that the State should be neutral to the different religions.
+Reason (R):  One of the Directive Principles of State Policy states that it will be a part of the duty of the state to improve the breeds of cattle and stop the slaughter of cows and calves.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following is not a Directive Principle of State Policy?
+a)  Organisation of Village Panchayats
+b)  Uniform Civil Code for citizens as well as non-citizens
+c)  Right to work, to education and to public assistance in certain cases
+d)  Participation of workers in management of industries
+#QuestionEnd
+#AnswerStart
+Answer: b)  Uniform Civil Code for citizens as well as non-citizens
+#AnswerEnd
+#QuestionStart
+Q19) “Directive Principles of State Policy are the conscience of the Constitution which embody the social philosophy of the Constitution” was described by:
+a)  Granville Austin
+b)  A.V. Dicey
+c)  Dr. B.R. Ambedkar
+d)  K.C. Wheare
+#QuestionEnd
+#AnswerStart
+Answer: a)  Granville Austin
+#AnswerEnd
+#QuestionStart
+Q20) Which part of the Constitution of India refers to the responsibility of the state towards international peace and security?
+a)  Fundamental Rights
+b)  Directive Principles of State Policy
+c)  Emergency provisions
+d)  Preamble to the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: b)  Directive Principles of State Policy
+#AnswerEnd
+#QuestionStart
+Q21) Which of the following statements is/are correct?
+15.  42nd Amendment to the Constitution of India gave primacy to Directive Principles over Fundamental Rights.
+16.  Minerva Mills case ruled that there has to be a balance between Part III and Part IV of the Constitution.
+17.  National Commission for Review of the Working of the Constitution has recommended that Directive Principles be made justiceable.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  2 only
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q22) Assertion (A): Laws covered under Article 39 (b) and (c) have been given protective shield against some of the fundamental rights.
+Reason (R):  The Directive  Principles  are  also  regarded  relevant  for  considering  what  are reasonable restrictions under Article 19.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q23) Which of the following is/are among Directive Principles of State Policy?
+18.  The State shall strive to promote science and technology for development.
+19.  The State shall endeavour to secure for citizens a Uniform Civil Code throughout India.
+20.  The State shall try to develop population policy and family planning programmes.
+21.  The State shall take steps to promote tourism.
+Select the correct answer using the codes given below:
+a)  1 and 3
+b)  2 and 4
+c)  2 only
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 only
+#AnswerEnd
+#QuestionStart
+Q24) The Directive Principles of State Policy are fundamental for the:
+a)  Upliftment of backward classes
+b)  Protection of individual rights
+c)  Administration of justice
+d)  Governance of state
+#QuestionEnd
+#AnswerStart
+Answer: d)  Governance of state
+#AnswerEnd
+#QuestionStart
+Q25) Assertion (A): Any individual affected due to violation of any of the Directive Principles of State Policy, cannot move the court.
+Reason (R):  The Directive Principles are not justiciable.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q26) Which one of the following statements regarding the current status of the relationship between Fundamental Rights and Directive Principles is correct?
+a)  Directive Principles cannot get priority over Fundamental Rights in any case.
+b)  Directive Principles always get priority over Fundamental Rights.
+c)  Fundamental Rights always get priority over Directives Principles.
+d)  In some cases Directive Principles may get priority over Fundamental Rights.
+#QuestionEnd
+#AnswerStart
+Answer: d)  In some cases Directive Principles may get priority over Fundamental Rights.
+#AnswerEnd
+#QuestionStart
+Q27) Right to work in India is a:
+a)  Fundamental right
+b)  Directive principle
+c)  Constitutional right
+d)  Constitutional duty
+#QuestionEnd
+#AnswerStart
+Answer: b)  Directive principle
+#AnswerEnd
+#QuestionStart
+Q28) Assertion (A): It is the legal and Constitutional duty of the State to provide legal aid to the poor.
+Reason (R):  No one shall be denied justice by reason of his poverty.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both A and R are individually true and R is the correct explanation of A
+#AnswerEnd
+#QuestionStart
+Q29) Consider the following statements:
+Directive Principles of State Policy are:
+22.  Not amendable
+23.  Not enforceable by any court
+24.  Fundamental in the governance of the country
+Which of the above statements are correct?
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q30) The ‘Instrument of Instructions’ contained in the Government of India Act, 1935, has been incorporated in the Constitution of India in the year 1950 as:
+a)  Fundamental Rights
+b)  Directive Principles of State Policy
+c)  Fundamental Duties
+d)  Emergency provisions
+#QuestionEnd
+#AnswerStart
+Answer: b)  Directive Principles of State Policy
+#AnswerEnd
+#QuestionStart
+Q31) Which one of the following is not a correct description of the Directive Principles of State Policy?
+a)  Directive Principles are not enforceable by the courts.
+b)  Directive Principles have a political sanction.
+c)  Directive Principles are declaration of objectives for State Legislation.
+d)  Directive Principles promise equal income and free health care for all Indians.
+#QuestionEnd
+#AnswerStart
+Answer: d)  Directive Principles promise equal income and free health care for all Indians.
+#AnswerEnd
+#QuestionStart
+Q32) Consider the following statements:
+25.  Article 46 of the Constitution of India provides for free legal aid to Scheduled Castes and Scheduled Tribes.
+26.  Article 44 of the Constitution of India provides for promotion of cottage industries.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd

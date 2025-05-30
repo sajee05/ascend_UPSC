@@ -1,0 +1,1096 @@
+#QuestionStart
+Q267) Which of the following figures are presented as part of the Budget presentation in Parliament?
+1.  Budgeted receipts and expenses for the next Financial Year (FY)
+2.  Budgeted receipts and expenses for the current FY
+3.  Revised receipts and expenses for the current FY
+4.  Actual receipts and expenses for the last FY
+Select the correct answer using the code given below:
+a)      1 only
+b)     1 & 2 only
+c)     1,2, & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q268) Consider the following statements:
+5.  Supplementary demand is presented before the end of the financial year to which it relates for any additional expenditure
+6.   Demand for excess grants is presented once the expenditure has been done and the financial year to which it relates has passed
+Select the correct answer using the code given below:
+a) 1 only
+b)        2 only
+c)        Both 1 & 2
+d)        Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q269) Consider the following statements regarding presentation of Budget in the Parliament:
+7. Finance Bill is introduced on the very first day when the Finance Minister presents Budget in the Parliament
+8.  Appropriation Bill is introduced after the voting on demand for grants is over
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)     Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q270) Consider the following statements:
+9. Demand for Grants are not approved in Vote-on-Account
+10.  Demand for Grants of UTs without assembly are approved as part of Union budget
+11.  Rajya Sabha does not vote on Demand for Grants but can discuss
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)      2 & 3 only
+c)     1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q271) Which of the following department prepares outcome budget?
+a) Public finance division under department of expenditure
+b) Budget division under department of Economic affairs
+c)     Department of financial services
+d)      NITI Aayog
+#QuestionEnd
+#AnswerStart
+Answer: a) Public finance division under department of expenditure
+#AnswerEnd
+#QuestionStart
+Q272) Which of the following statement is not true regarding "Outcome Budget":
+a)      It is not presented in parliament
+b) It measures development outcomes of govt, programmes
+c)     It helps in better service delivery
+d)      It reduces unnecessary expenses
+#QuestionEnd
+#AnswerStart
+Answer: a) It is not presented in parliament
+#AnswerEnd
+#QuestionStart
+Q273) Surplus reserves of RBI transferred to Government of India (GOI) will come under which of the following?
+a) Market borrowings and other liabilities
+b)      Non-tax revenue receipts
+c)     Non-debt capital receipts
+d)      Debt receipts
+#QuestionEnd
+#AnswerStart
+Answer: b) Non-tax revenue receipts
+#AnswerEnd
+#QuestionStart
+Q274) The Grants-in-aid given by the Central Government to the State Governments and local bodies for creation of capital assets are classified in the Union budget under?
+a)      Revenue expenditure
+b)      Capital Expenditure
+c) Both Revenue and Capital expenditure
+d) None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Revenue expenditure
+#AnswerEnd
+#QuestionStart
+Q275) The term 'Effective Capital Expenditure’ is equal to Centre's capital expenditure plus:
+a)      Central PSUs Capital Expenditure
+b) Grants given to States for creation of capital assets
+c) Finance Commission transfers to States for creation of capital assets
+d) Loans given to States for creation of capital assets
+#QuestionEnd
+#AnswerStart
+Answer: b) Grants given to States for creation of capital assets
+#AnswerEnd
+#QuestionStart
+Q276) Which of the following are Non-Tax Revenue Receipts of Govt, of India?
+12.      Spectrum Auction
+13.      Revenues of IRCTC
+14. Examination Fee of Union Public Service Commission
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 3 only
+c)     3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q277) Which of the following are non-debt capital receipts of Govt, of India?
+15.      Disinvestment of PSUs
+16.      Recovery of loans
+17.      Public Account receipts
+18.      Cash Management Bills
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c) 3 & 4 only
+d) 1, 2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q278) Which of the following are part of Capital Budget of Govt, of India?
+19. Proceeds received in the public account of India
+20. PSUs purchasing capital equipment
+21. Establishment of “India Post Payment Bank”
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 & 3 only
+c)       1 & 3 only
+d)       None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q279) Which of the following is/are included the capital budget of the Government of India?
+1- Expenditure on acquisition of assets like roads, buildings, machinery, etc.
+22. Loans received from foreign governments
+23. Loans and advances granted to the States and Union Territories
+Select the correct answer using the code given below.
+a) 1 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q280) Which of the following are parts of capital budget of Govt, of India?
+24.      Issuance of Sovereign Gold Bonds
+25.      Receipt from Gold Monetization
+26. Issuance of Sovereign Green Bonds
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     1 & 2 only
+d)     AU of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) AU of the above
+#AnswerEnd
+#QuestionStart
+Q281) Which of the following are revenue receipts of Central Government budget?
+1- RBI paying dividend to govt, of India
+27. PS Us paying dividend to govt, of India
+28.      PSUs earnings
+29.      Proceeds from sale of govt, land
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c)     l,2&3only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q282) Consider the following statements:
+30. Central Government revenue (tax + non-tax)       receipts/collection is
+more than all States and UTs combined revenue collection
+31. Centra] Government expenditure is more than all States and UTs combined expenditure
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q283) Govt, of India is financing the ■National Infrastructure Pipeline’ through which of the following ways?
+I. Establishment of National Bank for Financing Infrastructure and Development (NaBFID)
+32.  Creation of a ‘National Monetization Pipeline’ of potential brownfield infrastructure assets which can be monetized
+33.  Nudging States to spend more on infrastructure
+Select the correct answer using the code given below:
+a)     2 only
+b)     2 & 3 only
+c)     1 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q284) “Tax Buoyancy” in the economy is defined as;
+34. Ratio of percentage change in tax revenue to percentage change in GDP
+35. Ratio of change in tax revenue to change in GDP
+36. Percentage increase in tax revenues as measured from previous year
+37. Incremental change in tax revenues required to increase the GDP by one percent
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 2 only
+c)      3 only
+d)       2 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q285) Which of the following factors may lead to increase in "Tax Buoyancy ?
+38.      Increase in GDP
+39.      Improvement in tax administration
+40.      Formalization of Economy
+41.  Bringing agriculture income under tax
+Select the correct answer using the code given below:
+a) l,2&3only
+b) 3&4only
+c) 2, 3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q286) Consider the following statements regarding 'Service Charge’ levied by hotels and restaurants:
+42.  It is a kind of indirect tax collected by Government
+43.  Presently hotels and restaurants have been denied to collect ‘service charge’
+44. Hotels and restaurants can levy service charge but not on takeaway orders
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)      3 only
+d)       1 & 2 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q287) Consider the following statements regarding Tax Deducted at Source (TDS) and Tax Collected at Source (TCS):
+45. TDS is part of Income tax while TCS is outside the purview of income tax
+46. TCS payments cannot be adjusted against TDS
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d) Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q288) Which of the following receipts goes to Public Account of India:
+47.      Dated securities
+48.      Kisan Vikas Patra
+49.      Sukanya Samriddhi Account
+50.      Public Provident Fund
+Select the correct answer using the code given below:
+a) 1 & 4 only
+b)      2 & 3 only
+c)      2, 3 & 4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q289) Consider the following statements regarding the various ‘Small Savings Schemes’ offered by Govt, of India
+51. The money collected goes into the National Small Savings Fund (NSSF) under Public Account of India
+52. The interest rate on these schemes have been linked with G-securities of similar maturities
+53. The NSSF fund is used to lend money to Govt, of India and other Govt, agencies like FCI/NHAI
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 2 only
+c)       3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q290) Fiscal Deficit is equal to:
+54. Total expenditure minus total receipts
+55. Total expenditure minus total receipts excluding borrowing
+56. Revenue deficit plus capital expenditure minus non debt creating capital receipts
+57.           Total borrowing
+Select the correct answer using the code given below:
+a)           1 & 4 only
+b)           2 & 3 only
+c)          2, 3 & 4 only
+d)           All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q291) Fiscal Deficit of the Government of India is equal to which of the following:
+a)           Debt creating capital receipts
+b)           Non-Debt capital receipts
+c)          Debt and non-debt capital receipts
+d) Capital receipts less of revenue receipts
+#QuestionEnd
+#AnswerStart
+Answer: a) Debt creating capital receipts
+#AnswerEnd
+#QuestionStart
+Q292) There has been a persistent deficit budget year after year. Which of the following actions can be taken by the Government to reduce the deficit?
+58.          Reducing revenue expenditure
+59.          Introducing new welfare schemes
+60.          Rationalizing subsidies
+Select the correct answer using the code given below.
+a)         1 & 3 only
+b)         2 & 3 only
+c)         1 only
+d)         All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q293) Consider the following statements regarding the government’s fiscal deficit:
+61.        It may be inflationary
+62.        It may not be inflationary
+63.        It raises effective demand
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       1 & 2 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q294) Fiscal Slippage may result in which of the following:
+64.          Increase in bond yield
+65.          decrease in market interest rates
+66.          Increase in aggregate demand
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 1 & 3 only
+c) 2 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q295) Which of the following directly finances Govt, of India’s fiscal deficit?
+67.          Foreign Direct Investors
+68.          Foreign Portfolio Investors
+69.          NRIs
+70.          RBI
+Select the correct answer using the code given below:
+a)         1 only
+b)          2 only
+c)         2 & 3 only
+d)          2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q296) Which of the following statements are true regarding "fiscal stimulus":
+71. It is a strategy to boost sluggish economy
+72. RBI pumps money into the economy
+73.        Government reduces subsidies
+74.        Public spending increases
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 1, 2, & 4 only
+c) 1, 3 & 4 only
+d) 1 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 1 & 4 only
+#AnswerEnd
+#QuestionStart
+Q297) Change in the fiscal policy can have impact on which of the following?
+a)       Current Account in BoP
+b)       Capital Account in BoP
+c)       Both (a) & (b)
+d)       Neither (a) nor (b)
+#QuestionEnd
+#AnswerStart
+Answer: c) Both (a) & (b)
+#AnswerEnd
+#QuestionStart
+Q298) Consider the following statements regarding "counter-cyclical" fiscal policy:
+75. Government uses the counter cyclical policy to cool down the economy during boom period
+76.      In   counter    cyclical  policy,
+government increases spending and reduces taxes         during
+economic slowdown
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q299) Consider the following statements regarding fiscal Consolidation’ policy:
+77. It is an effort by the government to bring down fiscal deficit
+78.      It is an effort to reduce public debt
+79. It is an effort to reduce current account deficit
+80. It is an effort to raise revenues and bring down wasteful expenses
+Select the correct answer using the code given below:
+a)     1, 2 & 3 only
+b)     l,2&4only
+c)     4 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) l,2&4only
+#AnswerEnd
+#QuestionStart
+Q300) Select the correct statement regarding the term ‘Fiscal Dominance’:
+a) Greater influence of fiscal policy in handling the economy as compared to monetary policy
+b) Fiscal policy creating obstacles in achieving the monetary objectives
+c) Crowing out of the private sector because of higher government borrowing
+d) Fiscal considerations limiting the scope for an independent monetary policy
+#QuestionEnd
+#AnswerStart
+Answer: d) Fiscal considerations limiting the scope for an independent monetary policy
+#AnswerEnd
+#QuestionStart
+Q301) As per the Fiscal Responsibility and Budget Management (FRBM) Act 2003, which of the following statement
+is not presented in the budget session of the parliament?
+a) Medium Term Fiscal Policy Statement
+b)      Fiscal Policy Strategy Statement
+c)     Macro-economic      Framework
+Statement
+d)      Medium-term        Expenditure
+Framework Statement
+#QuestionEnd
+#AnswerStart
+Answer: d) Medium-term        Expenditure Framework Statement
+#AnswerEnd
+#QuestionStart
+Q302) Consider the following statements regarding "Monetisation of Deficit":
+81. RBI purchases government bonds in the primary market
+82. It is allowed as per FRBM Act 2003 but only under exceptional circumstances
+83. It may lead to inflation and macroeconomic instability
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 2 & 3 only
+c) 1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q303) Which of the following may lead to rupee depreciation?
+84.      Expansionary fiscal policy
+85.      Expansionary monetary policy
+86.      Monetisation of Deficit
+87.      Debasement of currency
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b) 1, 2 & 3 only
+c)     3 & 4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q304) Which of the following policies help to raise interest rate unambiguously and thereby lead to appreciation of currency?
+a) Expansionary fiscal and monetary policy
+b) Contractionary fiscal and monetary policy
+c) Contractionary fiscal policy and expansionary monetary policy
+d) Contractionary monetary policy and expansionary fiscal policy
+#QuestionEnd
+#AnswerStart
+Answer: d) Contractionary monetary policy and expansionary fiscal policy
+#AnswerEnd
+#QuestionStart
+Q305) Consider the following statements:
+88. Before 1997, central government used to directly monetise its deficit from RBI
+89. The primary objective of OMO is to support government borrowing by purchase of govt bonds in the open market
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q306) Which of the following statement is true regarding “Tax Base"?
+a)       It is the number of taxpayers
+b) It is the number of people and business units under tax net
+c) It is the income of people which can be taxed by the government
+d) It is the aggregate value of financial streams on which tax can be imposed by the government
+#QuestionEnd
+#AnswerStart
+Answer: d) It is the aggregate value of financial streams on which tax can be imposed by the government
+#AnswerEnd
+#QuestionStart
+Q307) Which of the following taxes are regressive in nature?
+90.      Income Tax
+91.      Sales Tax
+92.      Goods & Services Tax (GST)
+93.      Value Added Tax (VAT)
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     1 & 2 only
+d)     2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q308) Consider the following with respect to regressive taxation:
+94. It's the taxation system where the tax% is less for the rich and more for the poor
+95.  Inflation Tax is not regressive, rather a proportional tax in nature
+Select the correct answer using the code given below:
+a)          1 only
+b)          2 only
+c)         Both 1 & 2
+d)          Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q309) Consider the following statements regarding Goods and Services Tax (GST):
+96. Taxes need to be paid at each point in the value chain
+97.  It will have input tax credit mechanism
+98.  The total taxes will be passed on to the consumers
+99.        It is a value added tax
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       1 & 3 only
+c)       2 & 3 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q310) Consider the following statements regarding IGST:
+100.  It is levied by the Centre on interstate supply of goods
+101.  The IGST rate is equal to CGST plus the SGST/UTGST rate
+102.  The tax revenue is shared equally among the Centre and the consuming State/UT
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c)    1 & 3 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q311) Consider the following statements regarding the GST Compensation Cess:
+103.  It is levied and collected by the Centre
+104.  GST compensation fund has been established in Consolidated Fund of India
+105.  GST Compensation Cess has been extended till March 2026 to compensate States for any shortfall in tax revenue growth below 14%
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q312) Consider the following statements regarding Goods and Services Tax?
+106.  It has led to harmonization of taxes
+107.  There is no GST levied in the entire supply chain in case of exports
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q313) Consider the following statements:
+108. Central Government levies National Calamity Contingent Duty to finance National Disaster Response Fund (NDRF)
+109. NDRF has been established under Public Account of India
+Select the correct answer using the code given below.
+a) 1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q314) Consider the following statements regarding import of goods in India:
+110. They are treated as inter-state supplies for GST
+111.  Customs duty and IGST both are applicable
+3,      Imports are zero-rated
+Select the correct answer using the code given below:
+a)     1 & 2 only
+b) 1 & 3 only
+c)     3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q315) Which of the following statements are true regarding the "Electronic - Way Bill"?
+112.      It is mandatory as per the GST law
+113.  It is required for goods transported worth more than Rs. 50,000/-
+114.      It will check tax evasion
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 4 only (⭐ Please Re-check)
+c)     1 & 3 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q316) Consider the following statements regarding "Composition Scheme" in GST:
+115. It exempts small taxpayers from payment of GST
+116.  It allows small businesses to pay tax at a fix percent of their turnover
+117. It reduces the compliance cost for small businesses
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 3 only
+c) 2 only
+d) 2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q317) Which agency deals with the complaints related to GST profiteering?
+a) National Anti-Profiteering Authority
+b)       GST Council
+c) Central Board of Indirect Taxes and Customs
+d)      Competition Commission of India
+#QuestionEnd
+#AnswerStart
+Answer: d) Competition Commission of India
+#AnswerEnd
+#QuestionStart
+Q318) Consider the following statements regarding the recommendations of the GST Council:
+118. It will be binding on Centre and State for tax rate changes or framing of rules under CGST/SGST
+119. It will not be binding on primary legislation like amendments in CGST/SGST
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q319) The term ‘Crowd-out’ in economy is related to which of the following:
+120. Increased public sector spending replaces private sector spending
+121. Governments deficit spending through borrowed money leads to hardening of interest rates
+122. Government spending uses up financial resources that would otherwise be used by private firms
+123. Government providing a service or good that would otherwise be a business opportunity for private industry
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c)     2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q320) The term ‘Crowd-in’ in the economy is related to which of the following?
+124.  Targeted government spending acts as an engine of growth in the short run
+125.        Government              spending
+complements the private investment
+126. Government spending substitutes the private investment
+127. Government spending boosts demand for goods which in turn increases private demand
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       1 & 3 only
+c)       1, 2 & 4 only
+d)       1, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 4 only
+#AnswerEnd
+#QuestionStart
+Q321) Consider the following statements
+128.  Higher growth rate relative to interest rate makes the debt sustainable
+129.  Long maturity profile of debt reduces the rollover risk
+Select the correct answer using the code given below:
+a)       1 only
+b)       2 only
+c)       Both 1 & 2
+d)       Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q322) Consider the following statements regarding inverted duty structure in GST:
+130.  It is the result of several tax slabs in our GST structure
+131.  It results in loss of revenue for the government
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d) Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q323) Consider the following statements regarding use of Aadhar for benefit transfer:
+1- The money can be drawn only by Central Govt. from the Consolidated Fund of India
+132.  The States can also use Aadhar to transfer benefit from Consolidated Fund of States
+133.  Central government can make Aadhar mandatory for authentication to provide any subsidy
+4,  It can be used for transfer of benefit to individuals who are residing in India for more than 182 days
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 & 4 only
+c)     l,3&4only
+d)     2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 2, 3 & 4 only
+#AnswerEnd
+#QuestionStart
+Q324) When a portion of public debt falls due, refinancing of public debt is done by:
+a) Selling new bonds and using proceeds to pay off holders of maturity bonds
+b) Extending maturity of debt by raising the interest payable on rate maturing debt
+c) Raising taxes to provide funds to repay the maturing bonds
+d) Print additional paper currency to meet maturing obligations
+#QuestionEnd
+#AnswerStart
+Answer: a) Selling new bonds and using proceeds to pay off holders of maturity bonds
+#AnswerEnd
+#QuestionStart
+Q325) Which of the following statements are true regarding “Deficit Financing”?
+134. It raises aggregate demand in the economy
+135. It may result in inflation in the economy
+136. It is used as a developmental tool by developing countries
+137. It is done by issuing government bonds
+Select the correct answer using the code given below:
+a)       1 & 2 only
+b)       1, 2 & 3 only
+c)       3 & 4 only
+d)       All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q326) Inflation acts as a tax in the economy. This tax is:
+a)      Progressive
+b)      Proportional
+c)      Regressive
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) Regressive
+#AnswerEnd
+#QuestionStart
+Q327) Consider the following statements regarding the Corporate Income Tax which the government reduced effectively to 25.17%:
+138.  It is applicable for domestic companies
+139.  It is applicable only if the companies are not availing various tax exemptions
+140.  The above rate is including Cess and Surcharge
+Select the correct answer using the code given below:
+a)  1 only
+b)  1 & 2 only
+c)  2 & 3 only
+d)  All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q328) Consider the following statements regarding Equalisation Levy’:
+141.       It is a direct tax
+142. It is imposed as a percentage of profit
+143. It is applicable on Non-resident entities
+Select the correct answer using the code given below:
+a) 3 only
+b)  1 & 3 only
+c) 1 & 2 only
+d)       2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q329) Once the Global Minimum Corporate Tax becomes effective (let the rate be “GMT”) then:
+a) The countries will not be allowed to keep the tax rate below GMT
+b) A country can keep the tax rate below GMT but the foreign firms operating in-that country will have to pay tax to the level of GMT
+c) A country can keep the tax rate below GMT but the foreign firms operating in that country will have to pay tax to the level of tax rate prevalent in their home country
+d) A country can keep the tax rate below GMT but the foreign firms operating in that country can be asked to pay the difference of GMT and the country’s tax rate to their home country
+#QuestionEnd
+#AnswerStart
+Answer: d) A country can keep the tax rate below GMT but the foreign firms operating in that country can be asked to pay the difference of GMT and the country’s tax rate to their home country
+#AnswerEnd
+#QuestionStart
+Q330) Which department decides the outlay for Centrally Sponsored Scheme (CSS)
+a)      NITI Aayog
+b) Public Finance Division under department of Expenditure
+c) Economic Division under department of Economic Affairs
+d)      None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) Public Finance Division under department of Expenditure
+#AnswerEnd
+#QuestionStart
+Q331) The pool of tax resources of the Union Government which is shared with the States (Vertical Devolution as per FC) is called 'Divisible Pool¹. Which of the following are not part of the Divisible Pool?
+144.       Cess and Surcharge
+145.      Cost of collection of taxes
+146. Tax Revenue of the Union Territories
+147. National Calamity Contingency Duty
+Select the correct answer using the code given below:
+a)     1 & 4 only
+b)     3 & 4 only
+c)     1,2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q332) Consider the following statements regarding the Fifteenth Finance Commission (FFC) recommendations for 2021 to 2026:
+148. It has recommended a devolution of 41% of the divisible pool from Central taxes to States
+149.  It has recommended 'State specific grants, based on their special needs
+150.   It has recommended ‘sector specific grants' which are mostly performance-based incentives
+Select the correct answer using the code given below:
+a)         1 only
+b)         2 & 3 only
+c)         1 & 3 only
+d)         All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q333) Which UT/State’s per capita SGDP has been taken as the reference by the Fifteenth Finance Commission for calculating the income distance' for horizontal distribution?
+a)        Goa
+b)        Haryana
+c)        Delhi
+d)        Maharashtra
+#QuestionEnd
+#AnswerStart
+Answer: b) Haryana
+#AnswerEnd
+#QuestionStart
+Q334) “Central Government Debt’ includes which of the following?
+151.  Outstanding liabilities on the security of the Consolidated Fund of India
+152.  Outstanding liabilities in the Public Account of India
+153.      Off-budget liabilities
+Select the correct answer using the code given below:
+a)     1 only
+b)     1 & 2 only
+c)     2 & 3 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q335) The Public Debt of Government of India includes which of the following:
+154.    Treasury Bills & Dated securities
+155. External Commercial Borrowing (ECB)
+156.     NRI deposits
+157. Foreign Direct Investment in India (FDI)
+Select the correct answer using the code given below:
+a)    1 only
+b)      1 & 3 only
+c)     1, 2 & 3 only
+d)      2 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q336) Which of the following is the largest holder of Public Debt?
+a)      Commercial banks
+b)      Provident Funds
+c)     Reserve Bank of India
+d)      Insurance companies
+#QuestionEnd
+#AnswerStart
+Answer: a) Commercial banks
+#AnswerEnd
+#QuestionStart
+Q337) Which of the following is part of India’s External Debt?
+158. External Commercial Borrowing (ECB) .
+159.      NRI Deposits
+160.  Investments made by Portfolio Investors in debt securities
+161.  Portfolio Investors purchasing government securities
+Select the correct answer using the code given below:
+a)     1 only
+b)      4 only
+c)     1, 3 & 4 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q338) Consider the following regarding India’s external debt:
+162.      It is around 20% of GDP
+163.  Sovereign Debt is less than 5% of GDP
+164.  Commercial Borrowings has the highest share in India’s external debt
+Select the correct answer using the code given below:
+a) 1 & 2 only
+b)      3 only
+c)     1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q339) Which of the following is rupee denominated India’s external debt?
+165. FPIs purchasing corporate and Govt, bonds
+166.       Masala bonds
+167. Non-Resident External (NRE) deposits in Indian banks
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 & 3 only
+c)      1 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q340) Consider the following statements regarding currency composition of India’s external debt:
+168.      More   than     50%    debt    is
+denominated in US dollars
+169.       Less  than     10%    debt    is
+denominated in Indian Rupee
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q341) Consider the following statements:
+170. Centre’s accumulated debt is consistently higher than all State’s combined debt in the last decade
+171. Out of the total debt of Central Govt., public debt is around 90%
+172. Public debt is primarily contracted at fixed interest rate
+Select the correct answer using the code given below:
+a)      1 only
+b)      1 & 2 only
+c)      2 & 3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q342) Which of the following statements are true regarding FRBM Act 2003?
+173. RBI generally subscribes to the primary issues of Central government securities
+174. RBI finances Central government fiscal deficit
+175. Central government can take advance from RBI in case there is
+a mismatch in cash disbursements and cash receipts
+Select the correct answer using the code given below:
+a)       1 only
+b)       1 & 3 only
+c) 2 & 3 only
+d) 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d) 3 only
+#AnswerEnd
+#QuestionStart
+Q343) States need to take prior approval from the Centre for their borrowing:
+176. If they have taken debt from Centre and there are pending dues
+177. If there is any outstanding loan on State Govt, with respect to which Central Govt, has given guarantee
+178. If States are breaching their FRBM targets (every state has enacted their own fiscal responsibility and budget management act)
+Select the correct answer using the code given below:
+a)      1 & 2 only
+b)       1 & 3 only
+c)      3 only
+d)      All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 2 only
+#AnswerEnd
+#QuestionStart
+Q344) The General Govt. Debt (Centre and States combined) as on 31M March 2023 is:
+a)      More than the GDP
+b)       Equal to GDP
+c)      Less than 90% of the GDP
+d)      Half of the GDP
+#QuestionEnd
+#AnswerStart
+Answer: c) Less than 90% of the GDP
+#AnswerEnd
+#QuestionStart
+Q345) Consider the following statements regarding Forex Reserves of India:
+a) If the foreign currencies other than dollars in our forex reserve appreciates then forex reserve will increase
+b) If the foreign currencies other than dollars in our forex reserve appreciates then forex reserve will decrease
+c) Appreciation/depreciation of Foreign currencies other than dollars (in our forex reserve) do not have any impact on our forex reserves
+d) Our forex reserves do not include foreign currencies other than dollars
+#QuestionEnd
+#AnswerStart
+Answer: a) If the foreign currencies other than dollars in our forex reserve appreciates then forex reserve will increase
+#AnswerEnd
+#QuestionStart
+Q346) Consider the following statements regarding ‘Net International Investment Position (NIIP)':
+179. It measures the difference between a nation’s stock of foreign assets and foreigner's stock of that nation’s assets at a specific point of time
+180. The FDI inflow in a country will worsen the NIIP position of that country
+181.  It represents the debt and equity service burden
+182.  Increase in our forex reserves will improve NIIP position
+Select the correct answer using the code given below:
+a) 1 & 4 only
+b) 2 & 3 only
+c) 1, 3 & 4 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q347) India’s external liabilities include which of the following?
+183.        FDI investment in India
+184.      FPI’s debt and equity investments
+in India
+Select the correct answer using the code given below:
+a)      1 only
+b)      2 only
+c)      Both 1 & 2
+d)      Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q348) Which of the following statement is true regarding the 'Scheme for Financial Assistance to States for Capital Investment’:
+a) These are interest free loans to States
+b)    These are grants to States
+c) These are within the borrowing limits allowed/ fixed for States
+d)     None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) These are interest free loans to States
+#AnswerEnd
+#QuestionStart
+Q349) Consider the following statements regarding the “e-assessment scheme":
+185.  It allows faceless assessment of taxpayers
+186.      It is for direct taxpayers
+187.  The national e-assessment centre is based in Mumbai
+Select the correct answer using the code given below:
+a) 1 only
+b) 2 only
+c) 1 & 2 only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 1 & 2 only
+#AnswerEnd

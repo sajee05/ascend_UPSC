@@ -1,0 +1,96 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Parliament of India may make any one or more of the languages in use in a State or Hindi as the official language of that State.
+2.  The  Official  Language  Act  lays  down  that  English  should  be  used  for  purposes  of communication between the Union and non-Hindi States.
+Which of the statements given above is / are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following sets of Articles of the Constitution of India contain provisions pertaining to the official language?
+a)  Articles 347 to 353
+b)  Articles 346 to 354
+c)  Articles 342 to 352
+d)  Articles 343 to 351
+#QuestionEnd
+#AnswerStart
+Answer: d)  Articles 343 to 351
+#AnswerEnd
+#QuestionStart
+Q3) Statement I:  The Supreme Court hears only those who petition or appeal in English and not in Hindi.
+Statement II: The Parliament has not made any provision for the use of Hindi in the Supreme Court.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q4) In which of the following years, the Parliament enacted the Official Language Act?
+a)  1963
+b)  1965
+c)  1957
+d)  1955
+#QuestionEnd
+#AnswerStart
+Answer: a)  1963
+#AnswerEnd
+#QuestionStart
+Q5) Sindhi was included in the Eight Schedule of the Constitution of India by the:
+a)  21st Amendment Act
+b)  15th Amendment Act
+c)  27th Amendment Act
+d)  23rd Amendment Act
+#QuestionEnd
+#AnswerStart
+Answer: a)  21st Amendment Act
+#AnswerEnd
+#QuestionStart
+Q6) Which Part of the Constitution of India deals with the official language?
+a)  Part XVI
+b)  Part XVII
+c)  Part XVIII
+d)  Part XIV
+#QuestionEnd
+#AnswerStart
+Answer: b)  Part XVII
+#AnswerEnd
+#QuestionStart
+Q7) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (States)                                       | List-II (Official Languages)                                       |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Meghalaya                                         | 1.  Hindi                                                          |
+| B.  Jammu & Kashmir                                   | 2.  Konkani                                                        |
+| C.  Jharkhand                                         | 3.  English                                                        |
+| D.  Goa                                               | 4.  Kashmiri                                                       |
+|                                                       | 5.  Urdu                                                           |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  1 4 2 3
+b)  3 5 1 2
+c)  3 4 1 2
+d)  1 5 2 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 5 1 2
+#AnswerEnd
+#QuestionStart
+Q8) In 1955, the President appointed an Official Language Commission under the chairmanship of:
+a)  G.B. Pant
+b)  S.K. Dhar
+c)  B.G. Kher
+d)  H.N. Kunzru
+#QuestionEnd
+#AnswerStart
+Answer: c)  B.G. Kher
+#AnswerEnd

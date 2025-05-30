@@ -1,0 +1,333 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  For election of the President of India, each elected member of either House of Parliament shall have such number of votes as may be obtained by dividing the total number of votes assigned to the members of the Legislative Assemblies of the States by the number of the members of the Lok Sabha.
+2.  The Vice-President of India is elected by the members of an electoral college consisting of the members of both the Houses of Parliament and the elected members of the Legislative Assemblies of each State.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: d)  Neither 1 nor 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following Commissions:
+1.  Kaka Kalelkar Commission on Backward Classes
+2.  Sarkaria Commission on Centre-State Relations
+3.  Shah Commission on Emergency Excesses
+Which one of the following is the correct chronological order of the above?
+a)  2-3-1
+b)  1-2-3
+c)  2-1-3
+d)  1-3-2
+#QuestionEnd
+#AnswerStart
+Answer: d)  1-3-2
+#AnswerEnd
+#QuestionStart
+Q3) The Speaker of the Lok Sabha has been empowered to exercise the ‘Guillotine’:
+a)  After demands are discussed
+b)  After demands are discussed and passed
+c)  When the time allotted for budget discussions is exhausted
+d)  When the demands are passed with a cut
+#QuestionEnd
+#AnswerStart
+Answer: c)  When the time allotted for budget discussions is exhausted
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following statements regarding the residuary powers of legislation are correct?
+1.  The Lok Sabha has the exclusive power to make laws on any matter not enumerated in the Concurrent List.
+2.  Residuary powers of legislation are laid down in Article 248 of the Constitution.
+3.  Residuary powers include the power of imposing taxes not mentioned in any of the three lists.
+4.  Article 248 of the Constitution provides for the establishment of additional courts.
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  1 and 3
+c)  2 and 4
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q5) With reference to the Constitution of India, which one of the following pairs is not correctly matched?
+a)  Stock Exchanges : The State List
+b)  Forests : The Concurrent List
+c)  Insurance : The Union List
+d)  Marriage and Divorce : The Concurrent List
+#QuestionEnd
+#AnswerStart
+Answer: a)  Stock Exchanges : The State List
+#AnswerEnd
+#QuestionStart
+Q6) Which of the following statements with regard to Inter-State Council is/are correct?
+1.  It was established under the provisions of the Constitution of India.
+2.  The Council is a recommendatory body.
+3.  There is a standing committee of the Council under the Chairmanship of the Prime Minister of India to process matters for consideration of the Council.
+Select the correct answer using the codes given below:
+a)  1 and 3
+b)  Only 2
+c)  1 and 2
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q7) Assertion (A): An award made by a Lok Adalat is deemed be a decree of a Civil Court.
+Reason (R):  An award of Lok Adalat is final and binding on all parties, and no appeal lies against thereto before any court.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A.
+b)  Both A and R are individually true but R is not the correct explanation of A.
+c)  A is true but R is false.
+d)  A is false but R is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both A and R are individually true but R is not the correct explanation of A.
+#AnswerEnd
+#QuestionStart
+Q8) India’s ‘Look East Policy’:
+1.  Was articulated during the reign of H.D. Deve Gowda as India’s Prime Minister
+2.  Is directed towards South-East Asian countries
+3.  Is about controlling terrorism
+4.  Seeks to develop a bond among various countries on the basis of economic cooperation
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  2 and 4
+d)  3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 and 4
+#AnswerEnd
+#QuestionStart
+Q9) Which one among the following is not true of the Planning Commission?
+a)  It is an advisory body and makes recommendations to the Cabinet.
+b)  It is responsible for the execution of development programmes and plans.
+c)  It is responsible for formulation of a plan for the most effective and balanced utilisation of the country’s resources.
+d)  It indicates the factors which tend to retard economic development.
+#QuestionEnd
+#AnswerStart
+Answer: b)  It is responsible for the execution of development programmes and plans.
+#AnswerEnd
+#QuestionStart
+Q10) The right to ‘freedom of speech and expression’ is restricted on the grounds of:
+1.  The sovereignty and integrity of India
+2.  Contempt of court
+3.  Friendly relations with foreign states
+4.  Protection of minorities
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  2, 3 and 4
+c)  1 and 3
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q11) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Provision)                                    | List-II (Contained In)                                             |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Provisions concerning administration of Tribal Areas | 1.    Part V of the Constitution of India                          |
+| B.  Language of the Union                             | 2.    Part XIII of the Constitution of India                       |
+| C.  Trade and Commerce within India                   | 3.    Part XVII of the Constitution of India                       |
+| D.  The Executive of the Union                        | 4.    Sixth Schedule of the Constitution of India                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  2 1 4 3
+b)  4 3 2 1
+c)  2 3 4 1
+d)  4 1 2 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 3 2 1
+#AnswerEnd
+#QuestionStart
+Q12) Which one of the following is not the role of Pressure Groups?
+a)  To contest elections to promote their interest
+b)  To help candidates favourable to them to get elected
+c)  To patronise legislators to secure their help in furthering their cause
+d)  To try to influence public opinion and enlist its support
+#QuestionEnd
+#AnswerStart
+Answer: a)  To contest elections to promote their interest
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following statements:
+1.  Emergency is always imposed throughout the nation.
+2.  Emergency can be imposed not only on the grounds of actual war, external aggression or armed rebellion, but also in anticipation thereof.
+3.  Every proclamation of Emergency will not remain in force after one month unless it is approved by both the Houses of Parliament.
+Which of the statements given above is/are correct?
+a)  2 and 3
+b)  1 and 2
+c)  Only 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: a)  2 and 3
+#AnswerEnd
+#QuestionStart
+Q14) Statement I:  The Directive Principles of State Policy, enshrined in the Constitution, aim at providing the social and economic base of a genuine democracy.
+Statement II: The Directive Principles are merely directives which the government has to keep in mind while framing policy and are not enforceable through courts.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+#AnswerEnd
+#QuestionStart
+Q15) Which of the following statements is correct?
+A joint session of the Parliament shall be:
+1.  Convened by the Speaker
+2.  Presided over by the seniormost member of the Parliament
+3.  Convened by the President
+Select the correct answer using the codes given below:
+a)  1
+b)  2
+c)  3
+d)  None
+#QuestionEnd
+#AnswerStart
+Answer: c)  3
+#AnswerEnd
+#QuestionStart
+Q16) According to the Cabinet Mission Plan, which one of the following was the method of electing the Constituent Assembly?
+a)  Universal Adult Franchise
+b)  Partly elected by the Provincial Assemblies and partly nominated by the Governor-General
+c)  Nominated by the Princely States
+d)  Partly elected by the Provincial Assemblies and partly nominated by the Princess
+#QuestionEnd
+#AnswerStart
+Answer: d)  Partly elected by the Provincial Assemblies and partly nominated by the Princess
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements with respect to the Attorney-General of India:
+1.  He is appointed by the President
+2.  He must have the same qualifications as are required by a Judge of a High Court.
+3.  In the performance of his duties, he shall have the right of audience in all courts of India.
+Which of the statements given above is/are correct?
+a)  1 Only
+b)  1 and 3
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q18) Which one of the following Articles of the Constitution of India provides for the creation of the All-India Services?
+a)  Article 300
+b)  Article 312
+c)  Article 320
+d)  Article 321
+#QuestionEnd
+#AnswerStart
+Answer: b)  Article 312
+#AnswerEnd
+#QuestionStart
+Q19) Consider the following statements:
+1.  A Money Bill cannot be introduced in the Council of States.
+2.  The Council of States cannot reject a Money Bill nor amend it.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q20) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Subject)                                      | List-II (Act)                                                      |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Dyarchy in the provinces                          | 1.      Government of India Act, 1935                              |
+| B.  Inclusion of Non-official members in the Governor-General’s Executive Council | 2.      Indian Councils Act, 1861                              |
+| C.  Separate electorates                              | 3.      Government of India Act, 1919                              |
+| D.  Federation and provincial autonomy                | 4.      Indian Councils Act, 1892                                  |
+|                                                       | 5.      Indian Councils Act, 1909                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  3 1 5 2
+b)  5 2 4 1
+c)  3 2 5 1
+d)  5 1 4 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  3 2 5 1
+#AnswerEnd
+#QuestionStart
+Q21) A part of the Preamble of the Constitution reads as under:
+“We the people of India, having solemnly resolved to constitute India into a Sovereign Socialist Secular Democratic Republic …..”
+Certain words in the above part were inserted by:
+a)  The Constitution (Seventh Amendment) Act, 1956
+b)  The Constitution (Eighteenth Amendment) Act, 1966
+c)  The Constitution (Thirty-fifth Amendment) Act, 1974
+d)  The Constitution (Forty-second Amendment) Act, 1976
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Constitution (Forty-second Amendment) Act, 1976
+#AnswerEnd
+#QuestionStart
+Q22) Which of the following are the sources of municipal revenue?
+1.  Revenue from taxation by the municipal bodies
+2.  Revenue from non-tax sources under the control of municipal bodies
+3.  Loans
+4.  Share from income tax
+Select the correct answer from the codes given below:
+a)  1, 2, 3 and 4
+b)  1, 2 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q23) Which of the following are the Fundamental Duties mentioned in the Constitution of India?
+1.  To follow the principles of morality
+2.  To uphold and protect the sovereignty, unity and integrity of India
+3.  To value and preserve the rich heritage of our composite culture
+4.  To safeguard public property and to abjure violence
+Choose the correct answer from the codes given below:
+a)  1, 2, 3 and 4
+b)  1 and 4
+c)  1, 2 and 3
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q24) The tenure of every Panchayat shall be for five years from the date of:
+a)  Its first meeting
+b)  Issue of notification for the conduct of elections to the Panchayat
+c)  Declaration of the election results
+d)  Taking oath of office by the elected members
+#QuestionEnd
+#AnswerStart
+Answer: a)  Its first meeting
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following is/are not the function(s) of the UPSC and State Public Service Commissions?
+1.  Advising the appropriate governments on matters relating to methods of recruitment to civil services and for civil posts
+2.  Consultation in creation of All-India Services
+3.  Consultation on disciplinary matters affecting a person serving the Government of India or of a person serving the Government of a State in a civil capacity
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 2
+c)  Only 2
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  Only 2
+#AnswerEnd

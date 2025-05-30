@@ -1,0 +1,63 @@
+#QuestionStart
+Q1) Which of the following in respect of the enlargement of Fundamental Rights were recommended by the “National Commission to Review the Working of the Constitution” constituted by the Government of India in the year 2000?
+1.  Every person has a right to respect for his private and family life.
+2.  Every person has a right to leave the territory of India and every citizen shall have the right to return to India.
+3.  Every person who has been illegally deprived of his right to life or liberty shall have an enforceable right to compensation.
+Select the correct answer using the codes given below:
+a)  1 and 2 only
+b)  2 and 3 only
+c)  1 and 3 only
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q2) Which of the following were the main areas of concern for the “National Commission to Review the Working of the Constitution” constituted by the Government of India in the year 2000?
+1.  Electoral Reforms
+2.  Union-State Relations
+3.  Enlargement of Fundamental Rights
+4.  Administrative System and Standards in Public Life
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q3) Who among the following was not a member of the “National Commission to Review the Working of the Constitution” constituted by the Government of India in the year 2000?
+a)  Soli J. Sorabjee
+b)  C.R. Irani
+c)  P.A. Sangma
+d)  Somnath Chatterjee
+#QuestionEnd
+#AnswerStart
+Answer: d)  Somnath Chatterjee
+#AnswerEnd
+#QuestionStart
+Q4) Which of the following was/were suggested by the National Commission to Review the Working of the Constitution (2002)?
+1.  The Governor should be appointed only after consultation with the Chief Minister of the concerned State.
+2.  A person with fair knowledge of Constitution and Indian polity should be preferred as Governor.
+3.  The Governor should not be allowed to dismiss the ministry, so long as it enjoys the confidence of the Assembly.
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1 and 2 only
+c)  2 and 3 only
+d)  1 and 3 only
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 3 only
+#AnswerEnd
+#QuestionStart
+Q5) Who among the following was the Chairman of the “National Commission to Review the Working of the Constitution” constituted by the Government of India in the year 2000?
+a)  A.M. Ahmadi
+b)  A.S. Anand
+c)  M.N. Venkatachalaiah
+d)  J.S. Verma
+#QuestionEnd
+#AnswerStart
+Answer: c)  M.N. Venkatachalaiah
+#AnswerEnd

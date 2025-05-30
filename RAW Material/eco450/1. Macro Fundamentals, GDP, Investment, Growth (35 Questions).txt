@@ -1,0 +1,440 @@
+#QuestionStart
+Q1) Consider the following statements regarding Gross Domestic Product:
+1.  It is the sum total of domestic final consumption and investment expenditure plus net of exports and imports
+2.  It is the sum total of final domestic consumption and investment expenditure plus exports
+3.  It is the sum total of final consumption and investment expenditure plus net of exports and imports
+4.  It is the sum total of final consumption and investment expenditure plus exports
+Select the correct answer using the code given below;
+a) 1 & 2 only
+b) 2 & 3 only
+c) 3 & 4 only
+d) 1, 2 & 3 only
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 & 3 only
+#AnswerEnd
+#QuestionStart
+Q2) If India is experiencing economic growth, then which of the following statements must hold true:
+5.    Real GDP will increase
+6.     Nominal GDP will increase
+7.  Rate of growth of real GDP will increase
+8.  Increase in employment generation
+Select the correct answer using the code given below:
+a) 1 only
+b) 1 & 2 only
+c) 2 & 3 only
+d) 1 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q3) If a country is experiencing recession, then which of the following must be true:
+a)    Decrease in real GDP
+b)    Decrease in nominal GDP
+c)    Decrease in rate of growth of GDP
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Decrease in real GDP
+#AnswerEnd
+#QuestionStart
+Q4) The National Income of a country (India) is equal to which of the following:
+a)     Gross National Product (GNP)
+b) Net National Product at Market Prices
+c) Net National Product at Factor Cost
+d) Income going to the household sector
+#QuestionEnd
+#AnswerStart
+Answer: b) Net National Product at Market Prices
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following statements are true regarding Gross National Income:
+9.     It is the income    earned   by  a
+country's Residents
+10.     It is  the income   earned   by  a
+country's residents and nonresidents both
+11.  It is calculated at market price by NSO
+12.  It is equal to GDP plus exports minus imports
+Select the correct answer using the code given below:
+a)  1 & 3 only
+b)     1 & 4 only
+c)    2 & 3 only
+d)     2, 3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+13.  Product taxes and production taxes both are included as part of GDP calculation
+14.  Net Factor Income from Abroad is equivalent to net of exports & imports
+Select the correct answer using the code given below:
+a)  1 only
+b)  2 only
+c) Both 1 & 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q7) Welfare of the people of a country is best represented by which of the following parameter:
+a)  Per capita net national income at constant prices
+b)  Per capita net national income at current prices
+c)     Per capita GDP at constant prices
+d)     Per capita GDP at current prices
+#QuestionEnd
+#AnswerStart
+Answer: a) Per capita net national income at constant prices
+#AnswerEnd
+#QuestionStart
+Q8) There is a Chinese company doing business in India. The profit made by the company will be part of:
+15.     India's GDP
+16.     China's GNP
+Select the correct answer using the code given below:
+a)  1 only
+b)     2 only
+c)    Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q9) Consider the following statements regarding Gross National Income (GNI)/GNP:
+1,     It includes production taxes
+17.   It includes transfer payment from rest of the world
+Select the correct answer using the code given below:
+a)  1 only
+b)  2 only
+c)  Both 1 & 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a) 1 only
+#AnswerEnd
+#QuestionStart
+Q10) Which of the following constitutes investment in the economy?
+18.     Production of consumption goods
+19.     Production of capital goods
+20.     Production of services
+21.     Buying and selling of shares
+Select the correct answer using the code given below:
+a)    1 & 2 only
+b)    2 only
+c)    2 & 4 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q11) Consider the following statements:
+22.  Imported capital equipment are part of investment in Indian economy
+23.  Capital goods exported out of India are not part of India’s investment
+Select the correct answer using the code given below:
+a)     1 only
+b)     2 only
+c)     Both 1 & 2
+d)     Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q12) Which of the following statements could be true for a high savings rate in an economy?
+24.     Higher investment
+25.      Higher consumption
+26.      Higher exports
+Select the correct answer using the code given below:
+a)     1 & 2 only
+b)     1 & 3 only
+c)     2 & 3 only
+d)     AI! of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1 & 3 only
+#AnswerEnd
+#QuestionStart
+Q13) Which of the following are part of gross fixed capital formation:
+27.      Machinery and equipment
+28.   Construction of buildings and other infrastructure
+29.      Intellectual property rights
+Select the correct answer using the code given below:
+a)   1 only
+b)   1 & 3 only
+c)    2 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q14) Despite being a high saving economy, capital formation may not result in significant increase in output due to:
+a)    weak administrative machinery
+b)    illiteracy
+c)     high population density
+d)     high capital-output ratio
+#QuestionEnd
+#AnswerStart
+Answer: d) high capital-output ratio
+#AnswerEnd
+#QuestionStart
+Q15) Consider the following statements regarding Incremental Capital Output Ratio (ICOR):
+30.  It shows how efficiently the new capital is being used to produce output
+31.  It is the extra unit of capital required to produce one additional unit of output
+32.  It is the extra unit of output produced from one additional unit of capital
+33.  It is the ratio of change in capital to change in output
+Select the correct answer using the code given below:
+a) 1 only
+b)  1 & 2 only
+c) 1, 2 & 4 only
+d)  l,3&4only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1, 2 & 4 only
+#AnswerEnd
+#QuestionStart
+Q16) Capital formation in a country will lead to which of the following:
+34.     Increase in ICOR
+35.     Decrease in ICOR
+36.     Economic growth
+Select the correct answer using the code given below:
+a) 1 & 3 only
+b) 2 & 3 only
+c)    3 only
+d)    None of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 3 only
+#AnswerEnd
+#QuestionStart
+Q17) Consider the following statements:
+37. Capital output ratio depends on governance, quality of labour, technology etc.
+38. Economic output increases with decrease in capital output ratio
+Select the correct answer using the code given below:
+a)    1 only
+b)     2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q18) For a sustained high growth, which of the following statements will be true:
+a) Raising the investment by keeping the incremental capital output ratio minimum
+b) Raising the investment and incremental capital output ratio both
+c) Increasing capital output ratio and keeping investment at a constant rate
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) Raising the investment by keeping the incremental capital output ratio minimum
+#AnswerEnd
+#QuestionStart
+Q19) If the capacity utilization in the economy is decreasing then consider the following statements:
+39.  Capital to output ratio will decrease
+40.  Per unit cost of production will increase
+Select the correct answer using the code given below:
+a)    1 only
+b)    2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b) 2 only
+#AnswerEnd
+#QuestionStart
+Q20) If factories are running at full capacity utilization, then the marginal productivity of capital will be:
+a)    Positive
+b)    Negative
+c)    Zero
+d)    One
+#QuestionEnd
+#AnswerStart
+Answer: a) Positive
+#AnswerEnd
+#QuestionStart
+Q21) If a country’s growth rate is good but there is no corresponding growth in employment, then which of the following could be the reasons:
+a) The growth is coming from better utilization of existing capacity and not because of increase in investment
+b) The growth is coming from increase in investment but not because of better utilization of existing capacity
+c) The growth is coming from both as a result of increase in investment and increase in capacity utilization
+d)     None of the above
+#QuestionEnd
+#AnswerStart
+Answer: a) The growth is coming from better utilization of existing capacity and not because of increase in investment
+#AnswerEnd
+#QuestionStart
+Q22) Economic growth in a country will necessarily have to occur if:
+a) There is technological progress in the country
+b) There is population growth in the country
+c) There is capital formation in the country
+d) The country's exports are increasing
+#QuestionEnd
+#AnswerStart
+Answer: c) There is capital formation in the country
+#AnswerEnd
+#QuestionStart
+Q23) A country is going through a phase of industrialization. Which of the following statements are correct?
+a)    Capital to labour ratio increases
+b)    Productivity of labour increases
+c)    Total factor productivity increases
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q24) Which of the following statements arc correct about CPI rural, CPI urban and CPI combined index?
+41.  Inflation data is published by NSO
+42.     The base year is 2011-12
+43.  It is released for all India and for states and UTs separately on a monthly basis
+Select the correct answer using the code given below:
+a)  1 only
+b)    2 only
+c)    2&3only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q25) Consider the following statements regarding CPI Combined:
+44.  It captures/reflects the impact of monthly change in prices of various commodities
+45.  It does not capture/reflect the impact of monthly change in
+consumption pattern of various commodities
+46. It captures/reflects the impact of yearly change in consumption pattern of various commodities
+47. It captures the impact of consumption pattern of people through their expenditure on various items
+Select the correct answer using the code given below:
+a)    1 only
+b)    1, 2 & 4 only
+c)    2 & 3 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) 1, 2 & 4 only
+#AnswerEnd
+#QuestionStart
+Q26) Consider the statements regarding the various inflation indices published in the country:
+48. Wholesale Price Index (WPI) does not represent the inflation in services
+49. Consumer Price Index (CPI) represents the inflation in goods and services
+50. CPI and WPI represent the inflation of imported goods also
+51. CPI does not represent the inflation in capital and intermediate goods.
+Select the correct answer using the code given below:
+a)    1 & 2 only
+b)    1, 2, 3 only
+c)    2, 3 & 4 only
+d)    All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q27) Wholesale Price Inflation (WPI) index includes price change of which of the following sectors:
+52.     Agriculture
+53.     Mining
+54.     Manufacturing
+55.     Electricity
+Select the correct answer using the code given below:
+a) 2 & 3 only
+b) 3 only
+c) l,2&3only
+d) All of the above
+#QuestionEnd
+#AnswerStart
+Answer: d) All of the above
+#AnswerEnd
+#QuestionStart
+Q28) Central Government employee’s salary (dearness allowance) is linked with which CPI inflation index?
+a)    CPI - combined
+b)    CPI - Industrial Workers
+c)    Both (a) & (b)
+d)    None of the above
+#QuestionEnd
+#AnswerStart
+Answer: b) CPI - Industrial Workers
+#AnswerEnd
+#QuestionStart
+Q29) Consider the following statements regarding the current "Wholesale Price Index (WPI)” series with base year 2011-12:
+56. The weights of the commodities in WPI basket are fixed till the revision/change in base year
+57. The weights of the commodities in WPI basket are determined based on domestic production plus net of exports
+58. The weights of the commodities in WPI basket are determined based on domestic production plus net of imports
+59. "Manufactured Products" have the highest weight in WPI basket
+Select the correct answer using the code given below:
+a) 1 only
+b) 1, 2 & 4 only
+c)     1,3 &4only
+d)     3 & 4 only
+#QuestionEnd
+#AnswerStart
+Answer: c) 1,3 &4only
+#AnswerEnd
+#QuestionStart
+Q30) If economic growth in 2022-23 is 8% and nominal growth in GDP over the same period is 12%, then ‘GDP Deflator’ in this period would be:
+a)     4%
+b)     Less than 4%
+c)     More than 4%
+d)     Can’t be calculated
+#QuestionEnd
+#AnswerStart
+Answer: b) Less than 4%
+#AnswerEnd
+#QuestionStart
+Q31) Consider the following statement with reference to Income Elasticity of Demand’:
+60.  It measures the responsiveness of demand for a particular good to changes in consumer income.
+61.  Using this concept, it is possible to tell if a particular good represents a necessity or a luxury.
+Which of the statements given above is/are correct?
+a)    1 only
+b)    2 only
+c)    Both 1 & 2
+d)    Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c) Both 1 & 2
+#AnswerEnd
+#QuestionStart
+Q32) Which of the following is a common measure of degree of 'openness of an economy¹?
+a) Exports and imports share in world GDP
+b) Balance of Payments as a percentage of GDP
+c) Trade balance as a percentage of GDP
+d) Exports and imports of goods and services as a percentage of GDP
+#QuestionEnd
+#AnswerStart
+Answer: d) Exports and imports of goods and services as a percentage of GDP
+#AnswerEnd
+#QuestionStart
+Q33) The dependence of an economy (X) on another economy (Y) is measured as:
+a) Ratio of imports of X from Y to total imports of X
+b) Ratio of imports of X from Y to GDP ofX
+c) Bilateral trade of X with Y to X’s total trade
+d) Bilateral trade of X with Y to GDP ofX
+#QuestionEnd
+#AnswerStart
+Answer: c) Bilateral trade of X with Y to X’s total trade
+#AnswerEnd
+#QuestionStart
+Q34) Consider the following statements regarding India:
+62.  Exports (of goods and services) as a percent of GDP has steadily decreased in the last decade
+63. Imports (of goods and services) as a percent of GDP has steadily increased in the last decade
+64.  Trade as a percent of GDP has steadily decreased in the last decade
+65.  Services trade balance has consistently been positive in the last 10 years
+Select the correct answer using the code given below:
+a)       2 only
+b)       1 & 2 only
+c)    4 only
+d)     All of the above
+#QuestionEnd
+#AnswerStart
+Answer: c) 4 only
+#AnswerEnd
+#QuestionStart
+Q35) Which of the following commodities had the highest share in merchandise exports in 2024-25?
+a)    Petroleum products
+b)     Gold and other metal jewellery
+c)    Marine products
+d)     Rice including basmati rice
+#QuestionEnd
+#AnswerStart
+Answer: a) Petroleum products
+#AnswerEnd

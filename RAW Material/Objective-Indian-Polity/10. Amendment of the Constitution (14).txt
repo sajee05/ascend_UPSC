@@ -1,0 +1,162 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  An amendment of the Constitution of India can be initiated by the introduction of a Bill only in the Lok Sabha.
+2.  The Bill for amendment of the Constitution of India has to be passed in each House by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) If an amendment of the Constitution of India seeks to make any change in certain items, the amendment requires to be ratified by the Legislatures of not less than one-half of the States before the Bill making provision for such amendment is presented to the President for assent.  Which of the following are those items?
+3.  Representation of States in Parliament
+4.  Any of the Lists in the Seventh Schedule
+5.  Manner of election of the President of India
+Select the correct answer using the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
+#QuestionStart
+Q3) Restriction of the writ jurisdiction of the High Courts under Article 226 of the Constitution is possible through:
+a)  An amendment of the Constitution passed by two-third majority of members present and voting and a majority of the total membership of each House of Parliament.
+b)  An amendment of the Constitution passed by a simple majority of members present and voting in both Houses of Parliament.
+c)  An amendment of the Constitution passed by two-third majority of members present and voting, and a majority of the total membership of each House of Parliament together with the ratification of half of the State Legislatures.
+d)  An amendment of the Constitution passed by two-third majority of members present and voting and a majority of the total membership of each House of Parliament together with the ratification of three quarters of the State Legislatures.
+#QuestionEnd
+#AnswerStart
+Answer: c)  An amendment of the Constitution passed by two-third majority of members present and voting, and a majority of the total membership of each House of Parliament together with the ratification of half of the State Legislatures.
+#AnswerEnd
+#QuestionStart
+Q4) On receipt of a Constitutional Amendment Bill, after passing by each House of Parliament, the President:
+a)  Shall give his assent
+b)  May give his assent
+c)  May withhold his assent
+d)  May return the Bill for reconsideration
+#QuestionEnd
+#AnswerStart
+Answer: a)  Shall give his assent
+#AnswerEnd
+#QuestionStart
+Q5) Which of the following are matters on which the Parliament has the power to modify provisions of the constitution by a simple majority?
+6.  Alternation of names, boundaries and areas of States
+7.  Appointment of additional judges
+8.  Abolition of the second chamber of a State Legislature
+9.  Administration of Scheduled Areas
+Select the correct answer using the codes given below:
+a)  1, 2 and 3
+b)  1, 2 and 4
+c)  1, 3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: c)  1, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q6) The constituent power of Parliament to amend the Constitution:
+a)  Includes power to amend by way of addition, variation or repeal of the provision of the Constitution
+b)  Is unrestricted by any inherent and implied limitations
+c)  Is not procedurally limited and restricted
+d)  Is extra-constituent
+#QuestionEnd
+#AnswerStart
+Answer: a)  Includes power to amend by way of addition, variation or repeal of the provision of the Constitution
+#AnswerEnd
+#QuestionStart
+Q7) A change in which of the following does not require ratification by the legislatures of not less than one-half of the states by resolutions to that effect passed by those legislatures before the bill making provisions for an amendment in the Constitution of India is presented to the President for assent?
+a)  Any of the lists in the Seventh Schedule
+b)  The provisions of Article 368
+c)  Article 73 about extent of executive power of the Union
+d)  Article 161 about power of Governor to grant pardon
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 161 about power of Governor to grant pardon
+#AnswerEnd
+#QuestionStart
+Q8) Which of the following features are present in the Indian Constitution?
+10.  Multiple procedures for amendment
+11.  States are not empowered to initiate amendment
+12.  Joint-sittings of Parliament to resolve disputes regarding constitutional amendments.
+Select the correct answer from the codes given below:
+a)  1 and 3
+b)  1 and 2
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q9) A Constitutional amendment shall also be ratified by legislatures of not less than one-half of the States by a resolution if it is meant to make any change in:
+a)  Fundamental Rights
+b)  Directive Principles
+c)  Fundamental Duties
+d)  High Court Provisions
+#QuestionEnd
+#AnswerStart
+Answer: d)  High Court Provisions
+#AnswerEnd
+#QuestionStart
+Q10) An amendment of the Constitution of India for the purpose of creating a new state must be passed by:
+a)  Simple majority in Parliament
+b)  A simple majority in Parliament and ratification by not less than half of the states
+c)  Two-thirds majority in Parliament and ratification by not less than two-third of the states
+d)  Two-third of the members of both houses of Parliament present and voting
+#QuestionEnd
+#AnswerStart
+Answer: a)  Simple majority in Parliament
+#AnswerEnd
+#QuestionStart
+Q11) The provision of Article 368 of the Constitution of India deals with:
+a)  Power of Parliament to amend the Constitution
+b)  Procedure for amendment of the constitution to be followed by Parliament
+c)  Power as well as procedure for amendment of the Constitution
+d)  Passing and ratification of amendment Bills by State Legislatures
+#QuestionEnd
+#AnswerStart
+Answer: c)  Power as well as procedure for amendment of the Constitution
+#AnswerEnd
+#QuestionStart
+Q12) How can an amendment in a list in the Seventh Schedule of the Constitution of India be initiated?
+If the Bill seeking amendment is passed in either House of Parliament by:
+a)  A majority of the total membership of that house.
+b)  A majority of the total membership of that house and by a majority of not less than two-thirds of the members of that House present and voting.
+c)  A majority of the total membership of that house and by a majority of not less than two-thirds of the members of that House present and voting and the amendment shall also requires to be ratified by the Legislatures of not less than one-half of the States.
+d)  A majority of the total membership of that house and by a majority of not less than two-thirds of the members of that House present and voting and the amendment shall also requires to be ratified by the Legislatures of not less than two-thirds of the States.
+#QuestionEnd
+#AnswerStart
+Answer: c)  A majority of the total membership of that house and by a majority of not less than two-thirds of the members of that House present and voting and the amendment shall also requires to be ratified by the Legislatures of not less than one-half of the States.
+#AnswerEnd
+#QuestionStart
+Q13) Amendment of which one of the following provisions of the Constitution requires ratification by the Legislatures of the States?
+a)  Article 157 relating to the qualifications for appointment as Governor of the State
+b)  Article 123 relating to the powers of the President to promulgate ordinances on a subject mentioned in Concurrent List during the recess of the Parliament
+c)  Article 56 relating to the term of the office of the President
+d)  Article 54 relating to the election of the President
+#QuestionEnd
+#AnswerStart
+Answer: d)  Article 54 relating to the election of the President
+#AnswerEnd
+#QuestionStart
+Q14) Consider the following statements related to Article 368 of the Constitution:
+13.  A Constitutional Amendment Bill can be passed at a joint session of Parliament in case of deadlock between the two Houses.
+14.  It is obligatory for the President of India to give his assent to a Constitutional Amendment Bill passed under Article 368.
+15.  To amend 7th Schedule of the Constitution, ratification of more than half of the State legislatures is essential.
+16.  A proposal to amend the Constitution can only be introduced in the House of the People.
+Which of these are correct?
+a)  1 and 2
+b)  1 and 3
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: c)  2 and 3
+#AnswerEnd

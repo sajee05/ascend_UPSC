@@ -1,0 +1,322 @@
+#QuestionStart
+Q1) Consider the following statements:
+1.  Parliament and State legislatures have concurrent power to make law prescribing punishment for untouchability.
+2.  Parliament may make law empowering any court to exercise powers of the Supreme Court to enforce the fundamental rights.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: b)  Only 2
+#AnswerEnd
+#QuestionStart
+Q2) Consider the following statements:
+On proclamation of emergency under Article 352, the Fundamental Rights guaranteed in Article 19 become automatically suspended by virtue of Article 358. Additionally, the President of India may by order under Article 359 suspend:
+1.  The enforcement of all or any of the Fundamental Rights (except Articles 20 and 21) as may be specified in his order.
+2.  The enforcement of all or any of the Fundamental Rights except Article 21.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: a)  Only 1
+#AnswerEnd
+#QuestionStart
+Q3) Which one of the following statements is not correct about the Advocate General of the State?
+a)  The Advocate General holds office during the pleasure of the Governor
+b)  The Advocate General is appointed by the Governor
+c)  The Advocate General advises the State Government on legal matters
+d)  The Advocate General cannot take part in the proceedings in the State Legislature
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Advocate General cannot take part in the proceedings in the State Legislature
+#AnswerEnd
+#QuestionStart
+Q4) Which one of the following statements relating to the power of Judicial Review is correct?
+a)  Supreme Court can take up matters for judicial review on its own
+b)  Supreme Court can be directly approached for judicial review of legislative decisions
+c)  Supreme Court can review its own judgements in the light of new developments
+d)  Supreme Court can ask Lower Courts to submit a case for its judicial review
+#QuestionEnd
+#AnswerStart
+Answer: b)  Supreme Court can be directly approached for judicial review of legislative decisions
+#AnswerEnd
+#QuestionStart
+Q5) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Fundamental Rights)                           | List-II (Articles)                                                 |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Right to constitutional remedies                  | 1.  Article 29                                                     |
+| B.  Protection of interests of minorities             | 2.  Article 17                                                     |
+| C.  Abolition of untouchability                       | 3.  Article 16                                                     |
+| D.  Equality of opportunity in matters of public employment | 4.  Article 32                                                     |
+|                                                       | 5.  Article 19                                                     |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  5 3 4 1
+b)  4 1 2 3
+c)  5 1 4 3
+d)  4 3 2 1
+#QuestionEnd
+#AnswerStart
+Answer: b)  4 1 2 3
+#AnswerEnd
+#QuestionStart
+Q6) Consider the following statements:
+The President cannot be a dictator, because:
+1.  He can be impeached for violation of Constitution.
+2.  The ordinances issued by him require the approval of the Parliament.
+3.  The proclamation of Emergency requires Parliament’s approval.
+4.  He has to act on the advice of Council of Ministers
+Which of these are correct?
+a)  1 and 2
+b)  2, 3 and 4
+c)  3 and 4
+d)  1 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 4
+#AnswerEnd
+#QuestionStart
+Q7) In the Interim Government formed in the year 1946, who of the following held the portfolio of Defence?
+a)  Vallabhbhai Patel
+b)  Jagivan Ram
+c)  Baldev Singh
+d)  Asaf Ali
+#QuestionEnd
+#AnswerStart
+Answer: c)  Baldev Singh
+#AnswerEnd
+#QuestionStart
+Q8) Consider the following statements:
+The Finance Commission is created:
+1.  By the President on the advice of the Union Cabinet
+2.  Under Article 280 of the Constitution of India
+3.  To suggest ways and means to augment the financial resources of the Union and the States
+4.  To make recommendations to the President defining the principles which should govern the grants-in-aid of the revenues of the States out of the Consolidated Fund of India
+Which of these statements are correct?
+a)  2, 3 and 4
+b)  1, 2 and 3
+c)  1, 3 and 4
+d)  1, 2 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 4
+#AnswerEnd
+#QuestionStart
+Q9) The original jurisdiction of the Supreme Court extends to:
+a)  Treaties and agreements signed by the Government of India
+b)  Disputes between the Government of India and one or more States
+c)  Disputes relating to implementation of the Directive Principles of State Policy
+d)  A bill passed by the Parliament which is violative of the Constitution
+#QuestionEnd
+#AnswerStart
+Answer: b)  Disputes between the Government of India and one or more States
+#AnswerEnd
+#QuestionStart
+Q10) Consider the following statements:
+1.  Estimates of expenditure charged upon the Consolidated Fund of India are not submitted to the vote of the Parliament and there can be no discussion on the same in either House of the Parliament.
+2.  Vote of credit is a grant approved by the Parliament in advance of the detailed examination of various demands presented to it.
+3.  Token grants do not involve additional expenditure.
+Which of the statements given above is/are correct?
+a)  1, 2 and 3
+b)  3 only
+c)  2 only
+d)  2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 only
+#AnswerEnd
+#QuestionStart
+Q11) Assertion (A):  An Election Commissioner in the Election Commission of India cannot be removed from office except on the recommendation of the Chief Election Commissioner.
+Reason (R):  An Election Commissioner is appointed on the recommendation of the Chief Election Commissioner.
+Codes:
+a)  Both A and R are individually true and R is the correct explanation of A
+b)  Both A and R are individually true but R is not the correct explanation of A
+c)  A is true but R is false
+d)  A is false but R is true
+#QuestionEnd
+#AnswerStart
+Answer: c)  A is true but R is false
+#AnswerEnd
+#QuestionStart
+Q12) If the Prime Minister is a member of the Rajya Sabha:
+a)  He has to get elected to the Lok Sabha within six months
+b)  He can declare the government’s policies only in the Rajya Sabha
+c)  He cannot take part in the voting when a vote of no-confidence is under consideration
+d)  He cannot take part in the budget deliberations in the Lok Sabha
+#QuestionEnd
+#AnswerStart
+Answer: c)  He cannot take part in the voting when a vote of no-confidence is under consideration
+#AnswerEnd
+#QuestionStart
+Q13) Consider the following statements:
+The Comptroller and Auditor-General of India:
+1.  Audits all expenditures from the revenues of the Union and the States.
+2.  Ensures that total withdrawals by the Union Government do not exceed the amounts approved by the Parliament.
+3.  Can comment on correctness or otherwise of financial transactions of the Union and the States.
+4.  Points out cases of non-compliance of rules and regulations in expenditure.
+Which of these are correct?
+a)  1 and 2
+b)  2, 3 and 4
+c)  1, 3 and 4
+d)  1, 2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2, 3 and 4
+#AnswerEnd
+#QuestionStart
+Q14) The Governor of a State in his role as Administrator of an adjoining Union Territory exercises his functions, as such independently of:
+a)  The President of India
+b)  The State Council of Ministers
+c)  The Prime Minister
+d)  The Union Home Minister
+#QuestionEnd
+#AnswerStart
+Answer: b)  The State Council of Ministers
+#AnswerEnd
+#QuestionStart
+Q15) Which one of the following statements is not correct?
+a)  Indian Constitution provides for unified judicial system
+b)  Judiciary has power to scrutinize the acts of all branches of government
+c)  Independence of judiciary is built through elaborate constitutional scheme
+d)  Review of the constitutional amendments on substantive grounds is not permitted
+#QuestionEnd
+#AnswerStart
+Answer: d)  Review of the constitutional amendments on substantive grounds is not permitted
+#AnswerEnd
+#QuestionStart
+Q16) Which of the following are the common compulsory provisions of the 73rd and 74th Constitutional Amendment Acts?
+1.  Five yearly elections
+2.  Reservation for backward classes
+3.  Reservation for women
+4.  Nagar Panchayats
+Select the correct answer using the codes given below:
+a)  2 and 3
+b)  1 and 4
+c)  1, 2, 3 and 4
+d)  1 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1 and 3
+#AnswerEnd
+#QuestionStart
+Q17) What is a ‘Shadow Cabinet’ in the British system?
+a)  A group of young members of the ruling party
+b)  A group of members from the opposition party who scrutinize some functions of the government and present alternative policy
+c)  A team of intellectuals who advise the Cabinet
+d)  A Cabinet Committee that functions under the guidance of the Cabinet
+#QuestionEnd
+#AnswerStart
+Answer: b)  A group of members from the opposition party who scrutinize some functions of the government and present alternative policy
+#AnswerEnd
+#QuestionStart
+Q18) Match List I with List II and select the correct answer using the codes given below:
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| List-I (Name of Panchayats)                           | List-II (States)                                                   |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+| A.  Janpad Panchayat                                  | 1.  Andhra Pradesh                                                 |
+| B.  Mandal Praja Parishad                             | 2.  Karnataka                                                      |
+| C.  Mandal Panchayat                                  | 3.  Madhya Pradesh                                                 |
+| D.  Taluka Panchayat                                  | 4.  Gujarat                                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
+Codes:
+    A B C D
+a)  4 2 1 3
+b)  3 1 2 4
+c)  4 1 2 3
+d)  3 2 1 4
+#QuestionEnd
+#AnswerStart
+Answer: b)  3 1 2 4
+#AnswerEnd
+#QuestionStart
+Q19) Which one of the following statements is not correct?
+a)  In the cabinet form of government prevalent in India, neither the President nor the Governor exercises the executive functions individually or personally
+b)  Executive action taken in the name of the Governor is the executive action of the State
+c)  The Governor cannot be held personally answerable for any portion of the address to the joint session
+d)  The Governor is bound to exercise all his powers and functions on the aid and advice of his Council of Ministers
+#QuestionEnd
+#AnswerStart
+Answer: d)  The Governor is bound to exercise all his powers and functions on the aid and advice of his Council of Ministers
+#AnswerEnd
+#QuestionStart
+Q20) The purpose of an adjournment motion is to:
+a)  Propose a reduction in the budget
+b)  Seek the approval of the House on a proposal
+c)  Draw the attention of the House to a matter of urgent public importance
+d)  Seek the leave of the House to introduce a Government Bill
+#QuestionEnd
+#AnswerStart
+Answer: c)  Draw the attention of the House to a matter of urgent public importance
+#AnswerEnd
+#QuestionStart
+Q21) Statement I:  If in a cut motion during discussion of demands for grants in the Annual Financial Statement,  the  reduction  demanded  is  either  in  the  form  of  a  lump  sum  or omission or reduction of an item in the demand, the motion which enables such cut is known as ‘Economy Cut’.
+Statement II: The motion in the above case represents disapproval of the policy underlying the demand.
+Codes:
+a)  Both the statements are individually true and Statement II is the correct explanation of Statement I.
+b)  Both the statements are individually true but Statement II is not the correct explanation of Statement I.
+c)  Statement I is true but Statement II is false.
+d)  Statement I is false but Statement II is true.
+#QuestionEnd
+#AnswerStart
+Answer: c)  Statement I is true but Statement II is false.
+#AnswerEnd
+#QuestionStart
+Q22) Lokayukta submits his report to the:
+a)  Chief Minister of the State
+b)  Chief Justice of the State High Court
+c)  Governor of the State
+d)  Speaker of State Legislative Assembly
+#QuestionEnd
+#AnswerStart
+Answer: c)  Governor of the State
+#AnswerEnd
+#QuestionStart
+Q23) Which of the following ensure functional autonomy of the UPSC?
+1.  The Chairman and Members can be removed only on the grounds given in the Constitution.
+2.  The expenditure of the Commission is a charge on the Consolidated Fund of India.
+3.  The Members and Chairman are allowed to accept jobs after retirement.
+4.  The Chairman and Members being civil servants function in a neutral manner.
+Select the correct answer from the codes given below:
+a)  1 and 2
+b)  2 and 3
+c)  1, 3 and 4
+d)  2, 3 and 4
+#QuestionEnd
+#AnswerStart
+Answer: a)  1 and 2
+#AnswerEnd
+#QuestionStart
+Q24) Consider the following statements:
+1.  There are 24 High Courts at present in India.
+2.  Calcutta, Bombay and Madras High Courts were established in the year 1862.
+Which of the statements given above is/are correct?
+a)  Only 1
+b)  Only 2
+c)  Both 1 and 2
+d)  Neither 1 nor 2
+#QuestionEnd
+#AnswerStart
+Answer: c)  Both 1 and 2
+#AnswerEnd
+#QuestionStart
+Q25) Which of the following statements is/are correct?
+Article 26 of the Constitution of India states that subject to public order, morality and health, every religious denomination or any section thereof shall have the right:
+1.  to establish and maintain institutions for religious and charitable purposes.
+2.  to manage its own affairs in matters of religion.
+3.  to own and acquire movable and immovable property.
+Select the correct answer using the codes given below:
+a)  Only 1
+b)  1 and 3
+c)  2 and 3
+d)  1, 2 and 3
+#QuestionEnd
+#AnswerStart
+Answer: d)  1, 2 and 3
+#AnswerEnd
