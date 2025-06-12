@@ -31,6 +31,8 @@ const storage = {
   getAnkiData: async (id: number) => (await getStorage()).getAnkiData(id),
   getHistory: async (filter?: string) => (await getStorage()).getHistory(filter), // Correctly added getHistory
   getHeatmapData: async (year: number, month: number) => (await getStorage()).getHeatmapData(year, month), // Added heatmap data
+  getAppSettings: async () => (await getStorage()).getAppSettings(),
+  updateAppSettings: async (data: any) => (await getStorage()).updateAppSettings(data),
 };
 import {
   insertAttemptSchema,
@@ -40,8 +42,15 @@ import {
   insertTestSchema,
   insertUserAnswerSchema,
   Attempt,
-  Flashcard
+  Flashcard,
+  // ApplicationConfiguration, // Not needed from @shared/schema, will use from ../shared/sqlite-schema
+  // InsertApplicationConfiguration // Not needed from @shared/schema, will use from ../shared/sqlite-schema
 } from "@shared/schema";
+import {
+  ApplicationConfiguration,
+  insertApplicationConfigurationSchema, // Import the Zod schema
+  InsertApplicationConfiguration as InsertAppConfigSqliteType // Type alias for clarity
+} from "../shared/sqlite-schema";
 import { fromZodError } from "zod-validation-error";
 import { ZodError } from "zod";
 import * as fs from "fs/promises"; // Ensure fs/promises is imported
@@ -745,6 +754,47 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
   // --- End Heatmap Feature Route ---
+
+  // --- Settings Routes ---
+  apiRouter.get("/api/settings", async (_req: Request, res: Response) => {
+    try {
+      const settings = await storage.getAppSettings();
+      if (!settings) {
+        // This case should ideally be handled by getAppSettings ensuring a default row
+        return res.status(404).json({ message: "Settings not found and failed to create defaults." });
+      }
+      res.json(settings);
+    } catch (error) {
+      logger(`Error fetching settings: ${error}`, "routes");
+      res.status(500).json({ message: "Failed to fetch settings" });
+    }
+  });
+
+  // Zod schema for POST /api/settings payload validation
+  // Use the imported Zod schema and make it partial for updates.
+  const partialInsertAppConfigSchema = insertApplicationConfigurationSchema.partial();
+
+  apiRouter.post("/api/settings", async (req: Request, res: Response) => {
+    try {
+      // Validate the incoming data - allow partial updates
+      const validatedData = partialInsertAppConfigSchema.parse(req.body);
+
+      const updatedSettings = await storage.updateAppSettings(validatedData);
+      if (!updatedSettings) {
+        return res.status(500).json({ message: "Failed to update settings" });
+      }
+      res.json(updatedSettings);
+    } catch (error) {
+      if (error instanceof ZodError) {
+        logger(`Settings update validation error: ${fromZodError(error)}`, "routes");
+        res.status(400).json({ message: "Invalid settings data", error: fromZodError(error) });
+      } else {
+        logger(`Error updating settings: ${error}`, "routes");
+        res.status(500).json({ message: "Failed to update settings" });
+      }
+    }
+  });
+  // --- End Settings Routes ---
 
 
   const httpServer = createServer(app);

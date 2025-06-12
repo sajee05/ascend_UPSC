@@ -16,7 +16,7 @@ import { TestAnalytics } from "@shared/schema";
 import { useUIState } from "@/hooks/use-ui-state";
 import { apiRequest } from "@/lib/queryClient";
 import { downloadCSV, generateFileName } from "@/lib/utils"; // Import utils
-import { Download, Filter } from 'lucide-react';
+import { Download, Filter, Maximize2, Minimize2 } from 'lucide-react'; // Added expand/collapse icons
 import { format } from 'date-fns';
 import { TagAnalytics, calculateTagAnalytics } from '../analytics/analyticsHelpers'; // Corrected import path
 
@@ -142,6 +142,7 @@ const generateHistoryCSV = (data: TestAnalytics[], filter: string) => {
 export function HistoryModal() {
   const { uiState, updateUIState } = useUIState();
   const [activeFilter, setActiveFilter] = useState<string>("all time"); // Default filter
+  const [isExpanded, setIsExpanded] = useState(false); // State for modal expansion
 
   // Fetch history data
   const { data: historyData, isLoading, error } = useQuery<HistoryData>({
@@ -169,7 +170,12 @@ export function HistoryModal() {
 
   return (
     <Dialog open={uiState.historyModalOpen} onOpenChange={(open) => !open && handleClose()}>
-      <DialogContent className="max-w-4xl h-[80vh] flex flex-col">
+      <DialogContent className={`
+        ${isExpanded
+          ? "w-[95vw] max-w-[95vw] h-[95vh] max-h-[95vh]"
+          : "max-w-4xl h-[80vh]"}
+        flex flex-col transition-all duration-300 ease-in-out
+      `}>
         <DialogHeader>
           <DialogTitle>History</DialogTitle>
           <DialogDescription>
@@ -179,7 +185,7 @@ export function HistoryModal() {
 
         {/* Filter and Export Controls */}
         <div className="flex justify-between items-center mb-4 px-6 pt-4 border-t">
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 flex-wrap"> {/* Added flex-wrap for smaller screens */}
              <Filter className="h-4 w-4 text-muted-foreground" />
              <span className="text-sm font-medium mr-2">Filter:</span>
              {filterOptions.map(option => (
@@ -193,19 +199,30 @@ export function HistoryModal() {
                </Button>
              ))}
           </div>
-          <Button
-            variant="outline"
-            size="sm"
+          <div className="flex items-center gap-2"> {/* Group for export and expand buttons */}
+            <Button
+              variant="outline"
+              size="sm"
             onClick={() => generateHistoryCSV(filteredData, activeFilter)} // Use the new function
             disabled={!filteredData || filteredData.length === 0}
           >
             <Download className="h-4 w-4 mr-2" />
             Export
           </Button>
+          <Button
+            variant="outline"
+            size="icon"
+            onClick={() => setIsExpanded(!isExpanded)}
+            className="h-9 w-9"
+          >
+            {isExpanded ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
+            <span className="sr-only">{isExpanded ? 'Collapse' : 'Expand'}</span>
+          </Button>
+          </div>
         </div>
 
         {/* History Content Area */}
-        <ScrollArea className="flex-grow px-6 pb-6">
+        <ScrollArea className={`flex-grow px-6 pb-6 ${isExpanded ? 'h-[calc(95vh-230px)]' : 'h-[calc(80vh-230px)]'}`}> {/* Adjusted height */}
           {isLoading && <p className="text-center text-muted-foreground">Loading history...</p>}
           {error && <p className="text-center text-red-500">Error loading history: {(error as Error).message}</p>}
           {!isLoading && !error && filteredData.length === 0 && (

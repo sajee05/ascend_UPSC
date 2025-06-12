@@ -55,7 +55,7 @@ export function QuizCard({
           question.questionText,
           options,
           settings.aiApiKey,
-          settings.aiModel,
+          settings.subjectTaggingAiModel,
           settings.subjectTaggingPrompt
         );
         
@@ -191,9 +191,12 @@ export function QuizCard({
           line.match(/^\s*[a-z0-9]+\s{2,}/) || // Lines starting with text followed by multiple spaces
           line.match(/^\s*\d+[\.\)]\s+\S+\s{2,}\S+/); // Numbered lists with multiple spaces between items
         
-        let className = isTableLike ? 
-          "font-mono whitespace-pre text-xs md:text-sm overflow-x-auto max-w-full pb-1" : "";
+        let className = isTableLike ?
+          "font-mono whitespace-pre-wrap text-xs md:text-sm max-w-full pb-1" : ""; // Changed whitespace-pre to whitespace-pre-wrap and removed overflow-x-auto
         
+        // Temporary log for debugging wrapping
+        console.log(`Line: "${line.substring(0, 50)}...", isTableLike: ${isTableLike}, className: "${className}"`);
+
         result.push(
           <div key={`line-${i}`} className={className}>
             {line}

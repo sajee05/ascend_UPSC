@@ -1,7 +1,8 @@
 import { db, sqlite } from "./sqlite-db"; // Import the raw sqlite instance
 import * as dbSchema from "../shared/sqlite-schema"; // Alias SQLite schema
 import * as sharedSchema from "../shared/schema"; // Import shared frontend schema
-import { eq, and, or, inArray, sql, desc, SQL, count, getTableColumns, extract, groupBy, alias, gte, lte } from "drizzle-orm"; // Added SQL type and others
+import { eq, and, or, inArray, sql, desc, SQL, count, getTableColumns, gte, lte } from "drizzle-orm"; // Added SQL type and others
+import { extract, groupBy, alias } from "drizzle-orm/sql"; // Moved specific SQL functions
 import { logger } from "./logger";
 
 function dateToString(date: Date | string | null): string | null {
@@ -1264,6 +1265,94 @@ export class SqliteStorage {
       // Now monthString and yearString are accessible here
       logger(`Error fetching heatmap data for ${yearString}-${monthString}: ${error}`, 'sqlite-storage');
       throw error; // Re-throw error to be handled by the route
+    }
+  }
+
+  /**
+   * Application Settings
+   */
+  async getAppSettings(): Promise<dbSchema.ApplicationConfiguration | undefined> {
+    logger('Fetching application settings', 'sqlite-storage');
+    try {
+      let settingsArray = await db.select().from(dbSchema.applicationConfiguration).limit(1);
+      if (settingsArray.length > 0) {
+        logger('Found existing application settings', 'sqlite-storage');
+        return settingsArray[0];
+      } else {
+        logger('No application settings found, creating with defaults.', 'sqlite-storage');
+        const defaultSettings: dbSchema.InsertApplicationConfiguration = {
+          theme: 'light',
+          primaryColor: 'blue',
+          animations: true,
+          aiEnabled: true,
+          aiApiKey: '',
+          aiModel: 'gemini-2.0-flash',
+          subjectTaggingAiModel: 'gemini-1.5-flash',
+          subjectTaggingPrompt: '', 
+          analyticsPrompt: '',      
+          explanationPrompt: '',    
+          studyPlanPrompt: '',      
+          learningPatternPrompt: '',
+          parsingPromptTitle: '',   
+          // 'updatedAt' is handled by $defaultFn in the schema
+        };
+        const newSettingsArray = await db.insert(dbSchema.applicationConfiguration)
+          .values(defaultSettings)
+          .returning();
+        logger('Created default application settings', 'sqlite-storage');
+        return newSettingsArray[0];
+      }
+    } catch (error) {
+      logger(`Error fetching application settings: ${error}`, 'sqlite-storage');
+      return undefined;
+    }
+  }
+
+  async updateAppSettings(settingsUpdate: Partial<dbSchema.InsertApplicationConfiguration>): Promise<dbSchema.ApplicationConfiguration | undefined> {
+    logger('Updating application settings', 'sqlite-storage');
+    try {
+      const currentSettings = await this.getAppSettings(); 
+
+      if (!currentSettings || !currentSettings.id) {
+        logger('Critical error: No settings found or created by getAppSettings before update. Attempting insert as fallback.', 'sqlite-storage');
+        const fullSettingsToInsert: dbSchema.InsertApplicationConfiguration = {
+          theme: settingsUpdate.theme ?? 'light',
+          primaryColor: settingsUpdate.primaryColor ?? 'blue',
+          animations: settingsUpdate.animations ?? true,
+          aiEnabled: settingsUpdate.aiEnabled ?? true,
+          aiApiKey: settingsUpdate.aiApiKey ?? '',
+          aiModel: settingsUpdate.aiModel ?? 'gemini-2.0-flash',
+          subjectTaggingAiModel: settingsUpdate.subjectTaggingAiModel ?? 'gemini-1.5-flash',
+          subjectTaggingPrompt: settingsUpdate.subjectTaggingPrompt ?? '',
+          analyticsPrompt: settingsUpdate.analyticsPrompt ?? '',
+          explanationPrompt: settingsUpdate.explanationPrompt ?? '',
+          studyPlanPrompt: settingsUpdate.studyPlanPrompt ?? '',
+          learningPatternPrompt: settingsUpdate.learningPatternPrompt ?? '',
+          parsingPromptTitle: settingsUpdate.parsingPromptTitle ?? '',
+          updatedAt: new Date().toISOString(), 
+        };
+        const newSettingsArray = await db.insert(dbSchema.applicationConfiguration)
+          .values(fullSettingsToInsert)
+          .returning();
+        logger('Inserted new application settings during update attempt due to no existing row.', 'sqlite-storage');
+        return newSettingsArray[0];
+      }
+
+      const settingsWithTimestamp = {
+        ...settingsUpdate,
+        updatedAt: new Date().toISOString(),
+      };
+
+      const updatedArray = await db.update(dbSchema.applicationConfiguration)
+        .set(settingsWithTimestamp)
+        .where(eq(dbSchema.applicationConfiguration.id, currentSettings.id))
+        .returning();
+      logger('Successfully updated application settings', 'sqlite-storage');
+      return updatedArray[0];
+
+    } catch (error) {
+      logger(`Error updating application settings: ${error}`, 'sqlite-storage');
+      return undefined;
     }
   }
 } // Closing brace for the SqliteStorage class

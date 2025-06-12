@@ -14,7 +14,7 @@ import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select'; // Import Select components
 import { toast } from '@/hooks/use-toast';
-import { AlertCircle, Loader2, Lightbulb, ClipboardX } from 'lucide-react'; // Added Lightbulb & ClipboardX
+import { AlertCircle, Loader2, Lightbulb, ClipboardX, Maximize2, Minimize2 } from 'lucide-react'; // Added Lightbulb & ClipboardX and expand/collapse icons
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { useSettings } from '@/hooks/use-settings'; // Import useSettings
 import { getQuestionExplanation } from '@/lib/gemini'; // Import explanation function
@@ -31,6 +31,7 @@ export function WrongsModal() {
   const [filterType, setFilterType] = useState<'Wrongs' | 'No knowledge' | 'Tukke' | 'Low confidence' | 'Medium confidence'>('Wrongs'); // Add state for new filter
   const [editingNoteAnswerId, setEditingNoteAnswerId] = useState<number | null>(null);
   const [currentNoteText, setCurrentNoteText] = useState('');
+  const [isExpanded, setIsExpanded] = useState(false); // State for modal expansion
   const [explanations, setExplanations] = useState<Record<number, { explanation: string | null; isLoading: boolean; error: string | null }>>({}); // State for explanations
   const { settings } = useSettings();
   const { data: allTags, isLoading: isLoadingTags } = useQuery<string[]>({ // Fetch all available tags
@@ -44,8 +45,8 @@ export function WrongsModal() {
 
   // Fetching function - Use correct QueryFunctionContext type and include filterType
   // Explicitly type the context parameter to match the queryKey structure
-  const fetchWrongs = async (context: import('@tanstack/react-query').QueryFunctionContext<['wrongs', string, string, string]>) => {
-    const [_key, time, tag, type] = context.queryKey; // Destructure from readonly key, add type
+  const fetchWrongs = async (context: import('@tanstack/react-query').QueryFunctionContext) => {
+    const [_key, time, tag, type] = context.queryKey as ['wrongs', string, string, string]; // Assert specific structure
     console.log('[fetchWrongs] Fetching with filterType:', type); // Log the type used by the query
     const params = new URLSearchParams();
     if (time && time !== 'all time') params.append('timeFilter', time);
@@ -119,6 +120,14 @@ export function WrongsModal() {
     }));
 
     try {
+      console.log('[WrongsModal AI Debug] handleFetchExplanation called for answer ID:', answer.id);
+      console.log('[WrongsModal AI Debug] Settings:', {
+        aiEnabled: settings.aiEnabled,
+        aiApiKeyExists: !!settings.aiApiKey, // Log only existence for security
+        aiModel: settings.aiModel,
+        explanationPrompt: settings.explanationPrompt
+      });
+
       // Extract only the properties matching the UserAnswer type expected by getQuestionExplanation
       // Ensure all properties from UserAnswer are included, using null/defaults if not in UserAnswerWithDetails
       // Map confidence number to level string enum expected by UserAnswer type
@@ -127,28 +136,38 @@ export function WrongsModal() {
       else if (answer.confidence === 2) confidenceLevelString = 'mid';
       else if (answer.confidence === 1) confidenceLevelString = 'low';
 
-       const userAnswerForExplanation: UserAnswer = {
-         id: answer.id,
-         attemptId: answer.attemptId,
-         questionId: answer.questionId,
-         selectedOption: answer.selectedOption,
-         isCorrect: answer.isCorrect,
-         isLeft: answer.isLeft,
-         answerTime: answer.answerTime, // Keep original field name from backend schema if needed
-         knowledgeFlag: answer.knowledgeFlag,
-         techniqueFlag: answer.techniqueFlag,
-         guessworkFlag: answer.guessworkFlag,
-         confidence: answer.confidence, // Keep original numeric confidence if needed elsewhere
-         notes: answer.notes && answer.notes.length > 0 ? JSON.stringify(answer.notes) : null, // Fix: Use null instead of undefined
-         createdAt: answer.createdAt, // Keep as string if UserAnswer expects string
+      // Construct userAnswerForExplanation to include all fields expected by getQuestionExplanation's parameter type
+      // This includes fields from the base UserAnswer schema and additional ones TS is asking for.
+      const userAnswerForExplanation = {
+        // Fields from base UserAnswer schema
+        id: answer.id,
+        attemptId: answer.attemptId,
+        questionId: answer.questionId,
+        selectedOption: answer.selectedOption,
+        isCorrect: answer.isCorrect,
+        isLeft: answer.isLeft,
+        answerTime: answer.answerTime, // Base schema field
+        knowledgeFlag: answer.knowledgeFlag,
+        techniqueFlag: answer.techniqueFlag,
+        guessworkFlag: answer.guessworkFlag,
+        confidence: answer.confidence, // Base schema field
+        notes: answer.notes && answer.notes.length > 0 ? JSON.stringify(answer.notes) : null, // Stringify QuestionNote[] for notes
+        createdAt: answer.createdAt, // Base schema field (string)
 
-         // Add missing fields based on TS error to satisfy UserAnswer type
-         attemptNumber: answer.attempt?.attemptNumber ?? null, // Get from nested attempt object
-         answerTimeSeconds: answer.answerTime, // Map answerTime to answerTimeSeconds if needed by UserAnswer type
-         confidenceLevel: confidenceLevelString, // Use the mapped string enum value
-         timestamp: answer.createdAt ? new Date(answer.createdAt) : null, // Use createdAt converted to Date
-       };
+        // Additional fields TypeScript error indicates are expected by the callee's parameter type
+        attemptNumber: answer.attempt?.attemptNumber ?? null,
+        answerTimeSeconds: answer.answerTime, // Assuming answerTimeSeconds is same as answerTime
+        confidenceLevel: confidenceLevelString, // The 'high'/'mid'/'low' string
+        timestamp: answer.createdAt ? new Date(answer.createdAt) : null, // Date object
+      };
 
+      console.log('[WrongsModal AI Debug] Data for getQuestionExplanation:', {
+        question: answer.question,
+        userAnswer: userAnswerForExplanation,
+        apiKeyExists: !!settings.aiApiKey,
+        modelToUse: settings.aiModel || 'gemini-1.0-pro',
+        promptToUse: settings.explanationPrompt || ''
+      });
 
       const explanationText = await getQuestionExplanation(
         answer.question as any, // Cast for now, assuming getQuestionExplanation can handle or needs conversion
@@ -202,7 +221,12 @@ export function WrongsModal() {
 
   return (
     <Dialog open={uiState.wrongsModalOpen} onOpenChange={handleOpenChange}>
-      <DialogContent className="sm:max-w-[80%] md:max-w-[70%] lg:max-w-[60%] xl:max-w-[50%] h-[80vh] flex flex-col"> {/* Adjusted size */}
+      <DialogContent className={`
+        ${isExpanded
+          ? "w-[95vw] max-w-[95vw] h-[95vh] max-h-[95vh]"
+          : "sm:max-w-[80%] md:max-w-[70%] lg:max-w-[60%] xl:max-w-[50%] h-[80vh]"}
+        flex flex-col transition-all duration-300 ease-in-out
+      `}>
         <DialogHeader className="flex flex-row justify-between items-center pr-6"> {/* Added flex layout */}
           <div> {/* Wrap title and description */}
             <DialogTitle>Review Incorrect Questions (Wrongs)</DialogTitle>
@@ -210,19 +234,30 @@ export function WrongsModal() {
               Review questions you answered incorrectly across all tests. Add notes or get AI explanations.
             </DialogDescription>
           </div>
-          {/* Notes Button */}
-          <Button
-            variant="outline"
-            size="sm"
-            onClick={() => {
-              updateUIState({ wrongsModalOpen: false, notesModalOpen: true }); // Switch modals
-            }}
-          >
-            Notes
-          </Button>
+          <div className="flex space-x-2"> {/* Wrap buttons */}
+            {/* Notes Button */}
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => {
+                updateUIState({ wrongsModalOpen: false, notesModalOpen: true }); // Switch modals
+              }}
+            >
+              Notes
+            </Button>
+            <Button
+              variant="outline"
+              size="icon"
+              onClick={() => setIsExpanded(!isExpanded)}
+              className="h-9 w-9" // Adjusted size to match other header buttons better
+            >
+              {isExpanded ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
+              <span className="sr-only">{isExpanded ? 'Collapse' : 'Expand'}</span>
+            </Button>
+          </div>
         </DialogHeader>
 
-        <div className="flex-grow overflow-y-auto p-4 space-y-4">
+        <div className={`flex-grow overflow-y-auto p-4 space-y-4 ${isExpanded ? 'h-[calc(95vh-200px)]' : 'h-[calc(80vh-200px)]'}`}> {/* Adjust height based on expansion */}
           {/* Filters */}
           <div className="p-4 border rounded-md bg-muted/40 space-y-3">
             <div className="flex space-x-4 items-center">

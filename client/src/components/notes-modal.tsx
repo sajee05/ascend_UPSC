@@ -13,7 +13,7 @@ import {
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { toast } from '@/hooks/use-toast';
-import { AlertCircle, Loader2, Download, Edit, Trash2, ClipboardX } from 'lucide-react'; // Added ClipboardX
+import { AlertCircle, Loader2, Download, Edit, Trash2, ClipboardX, Maximize2, Minimize2 } from 'lucide-react'; // Added ClipboardX and expand/collapse icons
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { type QuestionNote } from '@/../../shared/sqlite-schema'; // Import the type
 
@@ -30,6 +30,7 @@ export function NotesModal() {
   const [tagFilter, setTagFilter] = useState('');
   const [editingNoteId, setEditingNoteId] = useState<number | null>(null);
   const [currentNoteText, setCurrentNoteText] = useState('');
+  const [isExpanded, setIsExpanded] = useState(false); // State for modal expansion
   const { data: allTags, isLoading: isLoadingTags } = useQuery<string[]>({ // Fetch tags
     queryKey: ['tags'],
     queryFn: async () => {
@@ -40,8 +41,8 @@ export function NotesModal() {
   });
 
   // Fetching function for all notes - Use correct QueryFunctionContext type
-  const fetchNotes = async (context: import('@tanstack/react-query').QueryFunctionContext<readonly [string, string, string]>) => {
-    const [_key, time, tag] = context.queryKey; // Destructure from the readonly queryKey
+  const fetchNotes = async (context: import('@tanstack/react-query').QueryFunctionContext) => {
+    const [_key, time, tag] = context.queryKey as readonly [string, string, string]; // Assert specific structure
     const params = new URLSearchParams();
     if (time && time !== 'all time') params.append('timeFilter', time);
     if (tag) params.append('tagFilter', tag);
@@ -129,7 +130,12 @@ export function NotesModal() {
 
   return (
     <Dialog open={uiState.notesModalOpen} onOpenChange={handleOpenChange}>
-      <DialogContent className="sm:max-w-[80%] md:max-w-[70%] lg:max-w-[60%] xl:max-w-[50%] h-[80vh] flex flex-col">
+      <DialogContent className={`
+        ${isExpanded
+          ? "w-[95vw] max-w-[95vw] h-[95vh] max-h-[95vh]"
+          : "sm:max-w-[80%] md:max-w-[70%] lg:max-w-[60%] xl:max-w-[50%] h-[80vh]"}
+        flex flex-col transition-all duration-300 ease-in-out
+      `}>
         <DialogHeader className="flex flex-row justify-between items-center pr-6">
            <div>
              <DialogTitle>Manage Notes</DialogTitle>
@@ -159,12 +165,21 @@ export function NotesModal() {
                <Download className="h-4 w-4 mr-2" />
                Export
              </Button>
+             <Button
+               variant="outline"
+               size="icon"
+               onClick={() => setIsExpanded(!isExpanded)}
+               className="h-9 w-9" // Adjusted size to match other header buttons better
+             >
+               {isExpanded ? <Minimize2 className="h-4 w-4" /> : <Maximize2 className="h-4 w-4" />}
+               <span className="sr-only">{isExpanded ? 'Collapse' : 'Expand'}</span>
+             </Button>
            </div>
         </DialogHeader>
 
-        <div className="flex-grow overflow-y-auto p-4 space-y-4">
-          {/* Filters */}
-          <div className="p-4 border rounded-md bg-muted/40 space-y-3">
+       <div className={`flex-grow overflow-y-auto p-4 space-y-4 ${isExpanded ? 'h-[calc(95vh-200px)]' : 'h-[calc(80vh-200px)]'}`}> {/* Adjust height based on expansion, rough estimate for header/footer */}
+         {/* Filters */}
+         <div className="p-4 border rounded-md bg-muted/40 space-y-3">
             <div className="flex space-x-4 items-center">
                <p className="text-sm font-medium">Time:</p>
                <Button size="sm" variant={timeFilter === 'this week' ? 'default' : 'outline'} onClick={() => setTimeFilter('this week')}>This Week</Button>

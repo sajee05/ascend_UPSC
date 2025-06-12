@@ -164,6 +164,69 @@ interface GeminiResponse {
     };
   }[];
 }
+// Interface for individual model in Gemini API list models response
+interface GeminiModel {
+  name: string;
+  // displayName?: string; // Optional: if needed later
+  // version?: string; // Optional: if needed later
+  // description?: string; // Optional: if needed later
+}
+
+// Interface for Gemini API list models response
+interface GeminiListModelsResponse {
+  models: GeminiModel[];
+}
+
+// Function to fetch available Gemini models
+export async function fetchAvailableModels(apiKey: string): Promise<string[]> {
+  try {
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`,
+      {
+        method: "GET",
+        headers: { "Content-Type": "application/json" },
+      },
+    );
+
+    if (!response.ok) {
+      let errorText = "";
+      try {
+        errorText = await response.text();
+      } catch (e) {
+        // Ignore if reading text fails
+      }
+      console.error(
+        `Gemini API error while fetching models: ${response.status}${errorText ? ` - ${errorText}` : ""}`,
+      );
+      return []; // Return empty array on error as per initial plan
+    }
+
+    const data = (await response.json()) as GeminiListModelsResponse;
+
+    if (!data.models || !Array.isArray(data.models)) {
+      console.error("Gemini API error: Invalid response format for models list. Missing 'models' array.");
+      return [];
+    }
+
+    // Extract model names and format them (e.g., "gemini-1.5-pro-latest" from "models/gemini-1.5-pro-latest")
+    // The prompt mentions "models/gemini-1.5-pro-latest", "models/gemini-flash-latest".
+    // The current hardcoded values are like "gemini-2.0-flash".
+    // Extracting the part after "models/" seems to be the primary requirement.
+    const modelIds = data.models
+      .map((model) => {
+        if (model.name && typeof model.name === 'string' && model.name.startsWith("models/")) {
+          return model.name.substring("models/".length);
+        }
+        return null;
+      })
+      .filter((id): id is string => id !== null); // Type guard to ensure we have an array of strings
+
+    return modelIds;
+  } catch (error) {
+    console.error("Error fetching available Gemini models:", error);
+    return [];
+  }
+}
 
 // Function to call Gemini API for subject tagging
 export async function getSubjectTags(
@@ -438,6 +501,14 @@ export async function getQuestionExplanation(
   prompt: string,
 ): Promise<string> {
   try {
+    console.log('[Gemini AI Debug] getQuestionExplanation called with:', {
+      questionId: question.id,
+      userAnswerId: userAnswer.id,
+      apiKeyExists: !!apiKey,
+      model,
+      promptIsEmpty: !prompt, // Log if prompt is empty
+    });
+
     // Format the question and answers for the model
     const formattedQuestion = `
 Question: ${question.questionText}
@@ -448,41 +519,55 @@ B) ${question.optionB}
 C) ${question.optionC}
 D) ${question.optionD}
 
-Correct Answer: ${question.correctAnswer}) ${question.correctAnswerText}
-User Selected: ${userAnswer.selectedOption}) ${
+Correct Answer: ${question.correctAnswer}) ${question.correctAnswerText || `[DEBUG: Text for correct option '${question.correctAnswer}' not found in question object]`}
+User Selected: ${userAnswer.selectedOption || "N/A"}) ${
       userAnswer.selectedOption === "A"
         ? question.optionA
         : userAnswer.selectedOption === "B"
           ? question.optionB
           : userAnswer.selectedOption === "C"
             ? question.optionC
-            : question.optionD
+            : userAnswer.selectedOption === "D"
+              ? question.optionD
+              : (userAnswer.selectedOption ? `[DEBUG: Text for selected option '${userAnswer.selectedOption}' not found]` : "[DEBUG: No option selected by user]")
     }
 `;
+    // console.log('[Gemini AI Debug] Formatted question payload for Gemini:', formattedQuestion); // Log full payload if needed for deep debug
+
+    const requestBody = {
+      contents: [
+        {
+          parts: [{ text: prompt }, { text: formattedQuestion }],
+        },
+      ],
+      generationConfig: {
+        temperature: 0.3,
+        topK: 32,
+        topP: 0.95,
+        maxOutputTokens: 1000,
+      },
+    };
+    // console.log('[Gemini AI Debug] Sending request to Gemini API with body:', JSON.stringify(requestBody, null, 2)); // Log full request body if needed
 
     const response = await fetch(
-      `https://generativelanguage.googleapis.com/v1/models/${model}:generateContent?key=${apiKey}`,
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`, // Changed v1 to v1beta
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          contents: [
-            {
-              parts: [{ text: prompt }, { text: formattedQuestion }],
-            },
-          ],
-          generationConfig: {
-            temperature: 0.3,
-            topK: 32,
-            topP: 0.95,
-            maxOutputTokens: 1000,
-          },
-        }),
+        body: JSON.stringify(requestBody),
       },
     );
 
     if (!response.ok) {
-      throw new Error(`Gemini API error: ${response.status}`);
+      let errorBody = "Could not read error body from API response.";
+      try {
+        errorBody = await response.text(); // Try to get text body for more detailed errors
+      } catch (e) {
+        console.warn("[Gemini AI Debug] Failed to read error response body as text:", e);
+      }
+      console.error(`[Gemini AI Debug] Gemini API request failed! Status: ${response.status} ${response.statusText}. Response Body:`, errorBody);
+      // Throw an error that includes the status and the potentially more informative body
+      throw new Error(`Gemini API error: ${response.status} ${response.statusText}. Details: ${errorBody}`);
     }
 
     const data = (await response.json()) as GeminiResponse;

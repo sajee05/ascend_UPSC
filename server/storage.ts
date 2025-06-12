@@ -10,7 +10,9 @@ import {
   QuestionNote, // Import from sqlite-schema
   InsertQuestionNote, // Import from sqlite-schema
   UserAnswerWithDetails, // Import from sqlite-schema
-  HeatmapData as DbHeatmapData // Import HeatmapData type
+  HeatmapData as DbHeatmapData, // Import HeatmapData type
+  ApplicationConfiguration, // Import for settings
+  InsertApplicationConfiguration // Import for settings
 } from "../shared/sqlite-schema"; // Correct path for DB-specific types
 import { eq, desc, and, sql, asc, inArray } from "drizzle-orm"; // Keep drizzle-orm utils if MemStorage uses them
 
@@ -97,6 +99,10 @@ export interface IStorage {
 
   // Heatmap Feature
   getHeatmapData(year: number, month: number): Promise<DbHeatmapData[]>; // Added heatmap data signature
+
+  // Application Settings
+  getAppSettings(): Promise<ApplicationConfiguration | undefined>;
+  updateAppSettings(settings: Partial<InsertApplicationConfiguration>): Promise<ApplicationConfiguration | undefined>;
 }
 
 // In-memory storage implementation
@@ -883,6 +889,19 @@ export class MemStorage implements IStorage {
   async getHeatmapData(year: number, month: number): Promise<DbHeatmapData[]> {
     console.warn(`MemStorage.getHeatmapData called for ${year}-${month} - Returning empty array.`);
     return [];
+  }
+
+  // Application Settings Placeholders
+  async getAppSettings(): Promise<ApplicationConfiguration | undefined> {
+    console.warn("MemStorage.getAppSettings called - Returning undefined.");
+    // For MemStorage, you might return a default object or manage a single settings object in memory
+    return undefined;
+  }
+
+  async updateAppSettings(settings: Partial<InsertApplicationConfiguration>): Promise<ApplicationConfiguration | undefined> {
+    console.warn("MemStorage.updateAppSettings called - Returning undefined.", settings);
+    // For MemStorage, you would update the in-memory settings object and return it
+    return undefined;
   }
 }
 

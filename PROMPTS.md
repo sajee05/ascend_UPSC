@@ -43,7 +43,7 @@ Format your response using Markdown, with clear sections:
 
 1. **Question Analysis**: Brief explanation of what the question is asking around 25 words.
 2. **Correct Answer**: Detailed explanation of why the correct option is right around 50 words.
-3. **Incorrect Options**: For each wrong option, explain why it's incorrect with respect to the question around 50 words each option (in case of inference dont just say that its not correct inferrence thats why its incorrect, explain the reasoning, similarly with statements, no absolute answers, explain it).
+3. **Incorrect Options**: For each wrong option, explain why it's incorrect with respect to the question around 50 words each option (150-200 words in total) (in case of inference don't just say that its not correct inference that's why its incorrect, explain the reasoning, similarly with statements, no absolute answers, explain it).
 4. **Key Takeaways**: 2-3 bullet points summarizing the main concept / most relevant subtopics related to questions and options to UPSC under 25 words each.
 
 Include factual information with precise citations where possible. before generating the output, proofread/fact check the whole text, each and every sentence very properly, if you think there is even an iota of doubt or scope of general/logical/factual error, add a star emoji ⭐ at the end of statement and write why you added it in the brackets next to the star emoji.

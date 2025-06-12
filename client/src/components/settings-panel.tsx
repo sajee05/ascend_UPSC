@@ -16,7 +16,8 @@ import {
   DEFAULT_EXPLANATION_PROMPT,
   DEFAULT_SUBJECT_TAGGING_PROMPT,
   DEFAULT_STUDY_PLAN_PROMPT,
-  DEFAULT_LEARNING_PATTERN_PROMPT
+  DEFAULT_LEARNING_PATTERN_PROMPT,
+  fetchAvailableModels
 } from "@/lib/gemini";
 import { useToast } from "@/hooks/use-toast";
 
@@ -35,6 +36,10 @@ export default function SettingsPanel() {
   const [studyPlanPrompt, setStudyPlanPrompt] = useState(settings.studyPlanPrompt);
   const [learningPatternPrompt, setLearningPatternPrompt] = useState(settings.learningPatternPrompt);
   const [parsingPromptTitle, setParsingPromptTitle] = useState(settings.parsingPromptTitle || "");
+  const [subjectTaggingAiModel, setSubjectTaggingAiModel] = useState(settings.subjectTaggingAiModel || "gemini-1.5-flash");
+  const [availableModels, setAvailableModels] = useState<string[]>([]);
+  const [modelsLoading, setModelsLoading] = useState(false);
+  const [modelsError, setModelsError] = useState<string | null>(null);
   // Removed postgresConnectionString, showConnectionString, configuringDatabase, connectionStatus, savingDatabase states
 
   // Apply settings when panel closes
@@ -48,8 +53,56 @@ export default function SettingsPanel() {
       setStudyPlanPrompt(settings.studyPlanPrompt);
       setLearningPatternPrompt(settings.learningPatternPrompt);
       setParsingPromptTitle(settings.parsingPromptTitle || "Your Task:** You are an expert data formatter. Your goal is to convert all questions, answers, and explanatios fom the provided input text into a specific, structured format. Adhere strictly to the rules below.");
+      setSubjectTaggingAiModel(settings.subjectTaggingAiModel || "gemini-1.5-flash");
     }
   }, [uiState.settingsPanelOpen, settings]);
+
+  // Fetch available models when panel opens or API key changes
+  useEffect(() => {
+    const loadModels = async () => {
+      if (uiState.settingsPanelOpen && settings.aiApiKey) {
+        setModelsLoading(true);
+        setModelsError(null);
+        try {
+          const models = await fetchAvailableModels(settings.aiApiKey);
+          setAvailableModels(models);
+          if (models.length === 0) {
+            setModelsError("No models returned from API, or API key is invalid.");
+            toast({
+              title: "AI Model Fetching Issue",
+              description: "No models found. Please check your API key or network connection.",
+              variant: "destructive",
+              duration: 5000,
+            });
+          }
+        } catch (error) {
+          console.error("Failed to fetch models:", error);
+          const errorMessage = error instanceof Error ? error.message : "An unknown error occurred";
+          setModelsError(`Failed to fetch models: ${errorMessage}`);
+          toast({
+            title: "Error Fetching AI Models",
+            description: `Could not retrieve model list: ${errorMessage}`,
+            variant: "destructive",
+            duration: 5000,
+          });
+          setAvailableModels([]); // Ensure availableModels is empty on error
+        } finally {
+          setModelsLoading(false);
+        }
+      } else if (uiState.settingsPanelOpen && !settings.aiApiKey) {
+        setAvailableModels([]);
+        setModelsError("API key is missing. Please add your Gemini API key.");
+        setModelsLoading(false);
+      } else {
+        // Reset when panel is closed or API key is removed while panel is open
+        setAvailableModels([]);
+        setModelsLoading(false);
+        setModelsError(null);
+      }
+    };
+
+    loadModels();
+  }, [uiState.settingsPanelOpen, settings.aiApiKey, toast]);
 
   const handleThemeChange = (theme: "light" | "dark" | "system") => {
     // First update DOM to prevent flash
@@ -104,6 +157,7 @@ export default function SettingsPanel() {
   const handleSaveAISettings = () => {
     updateSettings({
       aiApiKey: apiKey,
+      subjectTaggingAiModel,
       subjectTaggingPrompt,
       analyticsPrompt,
       explanationPrompt,
@@ -297,20 +351,77 @@ export default function SettingsPanel() {
                 <Select
                   value={settings.aiModel}
                   onValueChange={(value) => updateSettings({ aiModel: value })}
+                  disabled={modelsLoading || !settings.aiApiKey || !!modelsError}
                 >
                   <SelectTrigger>
-                    <SelectValue placeholder="Select Gemini model" />
+                    <SelectValue placeholder={modelsLoading ? "Loading models..." : (modelsError || "Select Gemini model")} />
                   </SelectTrigger>
                   <SelectContent>
-                    <SelectItem value="gemini-2.0-flash">gemini-2.0-flash (Recommended)</SelectItem>
-                    <SelectItem value="gemini-1.5-flash">gemini-1.5-flash</SelectItem>
-                    <SelectItem value="gemini-1.5-pro">gemini-1.5-pro</SelectItem>
-                    <SelectItem value="gemini-1.0-pro">gemini-1.0-pro</SelectItem>
+                    {availableModels.length > 0 ? (
+                      availableModels.map((modelId) => (
+                        <SelectItem key={modelId} value={modelId}>
+                          {modelId}
+                        </SelectItem>
+                      ))
+                    ) : (
+                      <SelectItem value="placeholder" disabled>
+                        {modelsLoading ? "Loading..." : (modelsError || (settings.aiApiKey ? "No models found" : "Enter API Key"))}
+                      </SelectItem>
+                    )}
                   </SelectContent>
                 </Select>
-                <p className="text-xs text-muted-foreground mt-1">
-                  Model options are updated automatically to reflect the latest available models.
-                </p>
+                {modelsLoading && (
+                  <div className="flex items-center text-xs text-muted-foreground mt-1">
+                    <Loader2 className="mr-2 h-3 w-3 animate-spin" />
+                    Fetching models...
+                  </div>
+                )}
+                {modelsError && !modelsLoading && (
+                  <p className="text-xs text-red-500 mt-1">{modelsError}</p>
+                )}
+                {!modelsError && !modelsLoading && availableModels.length > 0 && (
+                 <p className="text-xs text-muted-foreground mt-1">
+                    Models fetched dynamically. Select your preferred model.
+                  </p>
+                )}
+                 {!modelsError && !modelsLoading && availableModels.length === 0 && !settings.aiApiKey && (
+                  <p className="text-xs text-muted-foreground mt-1">
+                    Enter your API key to load available models.
+                  </p>
+                )}
+              </div>
+
+              {/* Subject Tagging Model Selection */}
+              <div>
+                <Label className="block text-sm font-medium mb-2">Subject Tagging Model (gemini)</Label>
+                <Select
+                  value={subjectTaggingAiModel}
+                  onValueChange={(value) => setSubjectTaggingAiModel(value)}
+                  disabled={modelsLoading || !settings.aiApiKey || !!modelsError}
+                >
+                  <SelectTrigger>
+                    <SelectValue placeholder={modelsLoading ? "Loading models..." : (modelsError || "Select Gemini model for tagging")} />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {availableModels.length > 0 ? (
+                      availableModels.map((modelId) => (
+                        <SelectItem key={modelId} value={modelId}>
+                          {modelId}
+                        </SelectItem>
+                      ))
+                    ) : (
+                      <SelectItem value="placeholder" disabled>
+                         {modelsLoading ? "Loading..." : (modelsError || (settings.aiApiKey ? "No models found" : "Enter API Key"))}
+                      </SelectItem>
+                    )}
+                  </SelectContent>
+                </Select>
+                {/* Error message for this dropdown is covered by the one above, or can be added if specific errors are needed */}
+                {!modelsError && !modelsLoading && availableModels.length > 0 && (
+                  <p className="text-xs text-muted-foreground mt-1">
+                    Select a specific model for subject tagging. Lighter models are often faster.
+                  </p>
+                )}
               </div>
 
               {/* API Key */}

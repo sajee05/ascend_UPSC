@@ -225,6 +225,25 @@ export const questionNotesRelations = relations(questionNotes, ({ one }) => ({
   }),
 }));
 
+// Application Configuration Table
+export const applicationConfiguration = sqliteTable("application_configuration", {
+  id: integer("id").primaryKey({ autoIncrement: true }), // To ensure only one row of settings
+  theme: text("theme").default("light"),
+  primaryColor: text("primary_color").default("blue"),
+  animations: integer("animations", { mode: "boolean" }).default(true),
+  aiEnabled: integer("ai_enabled", { mode: "boolean" }).default(true),
+  aiApiKey: text("ai_api_key").default(""),
+  aiModel: text("ai_model").default("gemini-2.0-flash"),
+  subjectTaggingAiModel: text("subject_tagging_ai_model").default("gemini-1.5-flash"),
+  subjectTaggingPrompt: text("subject_tagging_prompt"), // Default handled in app logic
+  analyticsPrompt: text("analytics_prompt"), // Default handled in app logic
+  explanationPrompt: text("explanation_prompt"), // Default handled in app logic
+  studyPlanPrompt: text("study_plan_prompt"), // Default handled in app logic
+  learningPatternPrompt: text("learning_pattern_prompt"), // Default handled in app logic
+  parsingPromptTitle: text("parsing_prompt_title"), // Default handled in app logic
+  updatedAt: text("updated_at").notNull().$defaultFn(() => new Date().toISOString()),
+});
+
 // Schema insert types
 export const insertUserSchema = createInsertSchema(users).pick({
   username: true,
@@ -302,6 +321,16 @@ export const insertQuestionNoteSchema = createInsertSchema(questionNotes).omit({
 });
 export type InsertQuestionNote = z.infer<typeof insertQuestionNoteSchema>;
 
+export const insertApplicationConfigurationSchema = createInsertSchema(applicationConfiguration).omit({
+  id: true,
+  // updatedAt is managed by $defaultFn on insert, and manually on update.
+  // No need to omit here if we want to allow it in the insert type for flexibility,
+  // but the prompt asked to omit it.
+  // Let's keep it omitted as per original instruction for the insert type.
+  // It will be set by $defaultFn or by the update logic.
+});
+export type InsertApplicationConfiguration = typeof applicationConfiguration.$inferInsert; // Using $inferInsert as per instructions
+
 // Type exports for select operations
 export type User = typeof users.$inferSelect;
 export type Subject = typeof subjects.$inferSelect;
@@ -315,6 +344,7 @@ export type Attempt = typeof attempts.$inferSelect;
 export type UserAnswer = typeof userAnswers.$inferSelect;
 export type Flashcard = typeof flashcards.$inferSelect;
 export type QuestionNote = typeof questionNotes.$inferSelect; // Add this line
+export type ApplicationConfiguration = typeof applicationConfiguration.$inferSelect;
 
 // Extended types for related data
 export type QuestionWithTags = Question & {

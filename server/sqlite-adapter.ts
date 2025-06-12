@@ -2,7 +2,7 @@ import { IStorage } from "./storage";
 import { SqliteStorage } from "./sqlite-storage";
 import * as pgSchema from "../shared/schema";
 import * as sqliteSchema from "../shared/sqlite-schema"; // Keep this
-import { HeatmapData } from "../shared/sqlite-schema"; // Add HeatmapData import
+import { HeatmapData, ApplicationConfiguration, InsertApplicationConfiguration } from "../shared/sqlite-schema"; // Add HeatmapData import
 import { logger } from "./logger";
 
 /**
@@ -618,5 +618,16 @@ export class SqliteAdapter implements IStorage {
   async getHeatmapData(year: number, month: number): Promise<HeatmapData[]> { // Use imported HeatmapData
     // Directly call SqliteStorage method
     return await this.sqliteStorage.getHeatmapData(year, month);
+  }
+
+  // --- Application Settings ---
+  async getAppSettings(): Promise<ApplicationConfiguration | undefined> {
+    // Directly call SqliteStorage method, no schema conversion needed for settings
+    return await this.sqliteStorage.getAppSettings();
+  }
+
+  async updateAppSettings(settings: Partial<InsertApplicationConfiguration>): Promise<ApplicationConfiguration | undefined> {
+    // Directly call SqliteStorage method, no schema conversion needed for settings
+    return await this.sqliteStorage.updateAppSettings(settings);
   }
 } // End of SqliteAdapter class

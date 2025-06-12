@@ -5423,3 +5423,700 @@ Data:
 
 ---
 
+[2025-05-09T22:30:04.851Z] Type: test
+Data:
+{
+  "testId": 41,
+  "attemptId": 35,
+  "title": "1. Historical Background (22)",
+  "date": "2025-05-09T22:29:42.052Z",
+  "totalTimeSeconds": 22,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 2,
+    "correct": 0,
+    "incorrect": 2,
+    "left": 0,
+    "score": -1.32,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 8.5,
+    "confidenceHigh": 1,
+    "confidenceMid": 0,
+    "confidenceLow": 1,
+    "knowledgeYes": 1,
+    "techniqueYes": 1,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 2
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2097,
+      "questionNumber": 1,
+      "status": "incorrect",
+      "tags": [
+        "Modern Indian History"
+      ],
+      "meta": {
+        "knowledge": "yes",
+        "technique": "yes",
+        "guess": "no",
+        "confidence": "high"
+      }
+    },
+    {
+      "questionId": 2098,
+      "questionNumber": 2,
+      "status": "incorrect",
+      "tags": [
+        "Modern Indian History"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": "low"
+      }
+    }
+  ]
+}
+
+---
+
+[2025-05-10T13:07:11.360Z] Type: test
+Data:
+{
+  "testId": 42,
+  "attemptId": 36,
+  "title": "2. Money, Banking and Financial Institutions (231 Questions)",
+  "date": "2025-05-10T13:06:40.897Z",
+  "totalTimeSeconds": 30,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 1,
+    "correct": 0,
+    "incorrect": 1,
+    "left": 0,
+    "score": -0.66,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 4,
+    "confidenceHigh": 0,
+    "confidenceMid": 1,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 1
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2119,
+      "questionNumber": 36,
+      "status": "incorrect",
+      "tags": [
+        "Economics"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": "mid"
+      }
+    }
+  ]
+}
+
+---
+
+[2025-05-30T15:16:32.306Z] Type: test
+Data:
+{
+  "testId": 44,
+  "attemptId": 38,
+  "title": "3. Salient Features of the Constitution (14)",
+  "date": "2025-05-30T14:55:52.796Z",
+  "totalTimeSeconds": 413,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "left": 0,
+    "score": 0,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 0,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 0
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": []
+}
+
+---
+
+[2025-05-30T15:59:19.229Z] Type: test
+Data:
+{
+  "testId": 45,
+  "attemptId": 40,
+  "title": "3. Salient Features of the Constitution (14)",
+  "date": "2025-05-30T15:59:04.672Z",
+  "totalTimeSeconds": 14,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 1,
+    "correct": 0,
+    "incorrect": 1,
+    "left": 0,
+    "score": -0.66,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 8,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 1
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2378,
+      "questionNumber": 1,
+      "status": "incorrect",
+      "tags": [],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": null
+      }
+    }
+  ]
+}
+
+---
+
+[2025-05-30T16:16:47.676Z] Type: overall
+Data:
+{
+  "testCount": 0,
+  "attemptCount": 0,
+  "totalCorrect": 0,
+  "totalIncorrect": 0,
+  "totalLeft": 0,
+  "avgTimeSeconds": 0,
+  "totalQuestions": 0,
+  "accuracy": 0,
+  "subjectStats": [],
+  "trendData": []
+}
+
+---
+
+[2025-05-30T16:36:31.709Z] Type: test
+Data:
+{
+  "testId": 47,
+  "attemptId": 43,
+  "title": "8. Directive Principles of State Policy (32)",
+  "date": "2025-05-30T16:36:11.412Z",
+  "totalTimeSeconds": 20,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 1,
+    "correct": 1,
+    "incorrect": 0,
+    "left": 0,
+    "score": 2,
+    "accuracy": 100,
+    "personalBest": 0,
+    "avgTimeSeconds": 2,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 1
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2410,
+      "questionNumber": 1,
+      "status": "correct",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": null
+      }
+    }
+  ]
+}
+
+---
+
+[2025-05-30T16:52:51.642Z] Type: test
+Data:
+{
+  "testId": 48,
+  "attemptId": 45,
+  "title": "1. Historical Background (22)",
+  "date": "2025-05-30T16:52:46.111Z",
+  "totalTimeSeconds": 5,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "left": 0,
+    "score": 0,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 0,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 0
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": []
+}
+
+---
+
+[2025-05-30T16:54:46.206Z] Type: test
+Data:
+{
+  "testId": 49,
+  "attemptId": 46,
+  "title": "9. Fundamental Duties (18)",
+  "date": "2025-05-30T16:52:56.349Z",
+  "totalTimeSeconds": 78,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 2,
+    "correct": 1,
+    "incorrect": 1,
+    "left": 0,
+    "score": 1.3399999999999999,
+    "accuracy": 50,
+    "personalBest": 0,
+    "avgTimeSeconds": 13,
+    "confidenceHigh": 0,
+    "confidenceMid": 1,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 2
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2464,
+      "questionNumber": 1,
+      "status": "correct",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": "mid"
+      }
+    },
+    {
+      "questionId": 2465,
+      "questionNumber": 2,
+      "status": "incorrect",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": null
+      }
+    }
+  ]
+}
+
+---
+
+[2025-06-11T20:17:06.160Z] Type: test
+Data:
+{
+  "testId": 48,
+  "attemptId": 47,
+  "title": "1. Historical Background (22)",
+  "date": "2025-06-11T20:17:01.361Z",
+  "totalTimeSeconds": 4,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "left": 0,
+    "score": 0,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 0,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 0
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": []
+}
+
+---
+
+[2025-06-11T20:17:41.279Z] Type: test
+Data:
+{
+  "testId": 49,
+  "attemptId": 48,
+  "title": "9. Fundamental Duties (18)",
+  "date": "2025-06-11T20:17:16.449Z",
+  "totalTimeSeconds": 24,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 3,
+    "correct": 1,
+    "incorrect": 2,
+    "left": 0,
+    "score": 0.6799999999999999,
+    "accuracy": 33.33333333333333,
+    "personalBest": 0,
+    "avgTimeSeconds": 11.666666666666666,
+    "confidenceHigh": 0,
+    "confidenceMid": 1,
+    "confidenceLow": 2,
+    "knowledgeYes": 0,
+    "techniqueYes": 1,
+    "guessworkYes": 2,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 3
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2464,
+      "questionNumber": 1,
+      "status": "correct",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "yes",
+        "guess": "yes",
+        "confidence": "low"
+      }
+    },
+    {
+      "questionId": 2465,
+      "questionNumber": 2,
+      "status": "incorrect",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "yes",
+        "confidence": "mid"
+      }
+    },
+    {
+      "questionId": 2466,
+      "questionNumber": 3,
+      "status": "incorrect",
+      "tags": [
+        "Polity and Governance"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": "low"
+      }
+    }
+  ]
+}
+
+---
+
+[2025-06-11T20:21:07.750Z] Type: test
+Data:
+{
+  "testId": 51,
+  "attemptId": 49,
+  "title": "1. Macro Fundamentals, GDP, Investment, Growth (35 Questions)",
+  "date": "2025-06-11T20:20:40.805Z",
+  "totalTimeSeconds": 26,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "left": 0,
+    "score": 0,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 0,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 0
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": []
+}
+
+---
+
+[2025-06-11T20:21:15.267Z] Type: overall
+Data:
+{
+  "testCount": 4,
+  "attemptCount": 6,
+  "totalCorrect": 2,
+  "totalIncorrect": 5,
+  "totalLeft": 0,
+  "avgTimeSeconds": 0,
+  "totalQuestions": 7,
+  "accuracy": 28.57142857142857,
+  "subjectStats": [
+    {
+      "subject": "Polity and Governance",
+      "attempts": 7,
+      "correct": 2,
+      "incorrect": 5,
+      "left": 0,
+      "score": 0.6999999999999997,
+      "accuracy": 28.57142857142857,
+      "personalBest": 28.57142857142857,
+      "avgTimeSeconds": 0,
+      "confidenceHigh": 0,
+      "confidenceMid": 0,
+      "confidenceLow": 0,
+      "knowledgeYes": 0,
+      "techniqueYes": 0,
+      "guessworkYes": 0,
+      "firstAttemptCorrect": 0,
+      "secondAttemptCorrect": 0,
+      "thirdPlusAttemptCorrect": 0,
+      "attemptDistribution": {}
+    }
+  ],
+  "trendData": [
+    {
+      "date": "2025-05-30T16:52:46.111Z",
+      "accuracy": 0,
+      "score": 0
+    },
+    {
+      "date": "2025-05-30T16:52:56.349Z",
+      "accuracy": 50,
+      "score": 0
+    },
+    {
+      "date": "2025-06-11T20:17:01.361Z",
+      "accuracy": 0,
+      "score": 0
+    },
+    {
+      "date": "2025-06-11T20:17:16.449Z",
+      "accuracy": 33.33333333333333,
+      "score": 0
+    },
+    {
+      "date": "2025-06-11T20:20:40.805Z",
+      "accuracy": 0,
+      "score": 0
+    }
+  ]
+}
+
+---
+
+[2025-06-11T20:22:45.141Z] Type: test
+Data:
+{
+  "testId": 48,
+  "attemptId": 50,
+  "title": "1. Historical Background (22)",
+  "date": "2025-06-11T20:22:43.418Z",
+  "totalTimeSeconds": 1,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "left": 0,
+    "score": 0,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 0,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 0
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": []
+}
+
+---
+
+[2025-06-11T20:23:09.380Z] Type: test
+Data:
+{
+  "testId": 50,
+  "attemptId": 51,
+  "title": "1. Historical Background (22)",
+  "date": "2025-06-11T20:22:51.944Z",
+  "totalTimeSeconds": 17,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 1,
+    "correct": 0,
+    "incorrect": 1,
+    "left": 0,
+    "score": -0.66,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 4,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 1,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 1,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 1
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2482,
+      "questionNumber": 1,
+      "status": "incorrect",
+      "tags": [
+        "Modern Indian History"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "yes",
+        "confidence": "low"
+      }
+    }
+  ]
+}
+
+---
+
