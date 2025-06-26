@@ -6120,3 +6120,41 @@ Data:
 
 ---
 
+[2025-06-21T07:40:25.126Z] Type: test
+Data:
+{
+  "testId": 53,
+  "attemptId": 53,
+  "title": "1. Macro Fundamentals, GDP, Investment, Growth (35 Questions)",
+  "date": "2025-06-21T07:40:02.091Z",
+  "totalTimeSeconds": 22,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "left": 0,
+    "score": 0,
+    "accuracy": 0,
+    "personalBest": 0,
+    "avgTimeSeconds": 0,
+    "confidenceHigh": 0,
+    "confidenceMid": 0,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 0
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": []
+}
+
+---
+
