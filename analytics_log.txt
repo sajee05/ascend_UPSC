@@ -6158,3 +6158,70 @@ Data:
 
 ---
 
+[2025-07-10T19:45:05.072Z] Type: test
+Data:
+{
+  "testId": 51,
+  "attemptId": 54,
+  "title": "1. Macro Fundamentals, GDP, Investment, Growth (35 Questions)",
+  "date": "2025-07-10T19:44:19.071Z",
+  "totalTimeSeconds": 45,
+  "overallStats": {
+    "subject": "Overall",
+    "attempts": 2,
+    "correct": 1,
+    "incorrect": 1,
+    "left": 0,
+    "score": 1.3399999999999999,
+    "accuracy": 50,
+    "personalBest": 0,
+    "avgTimeSeconds": 16.5,
+    "confidenceHigh": 0,
+    "confidenceMid": 1,
+    "confidenceLow": 0,
+    "knowledgeYes": 0,
+    "techniqueYes": 0,
+    "guessworkYes": 0,
+    "firstAttemptCorrect": 0,
+    "secondAttemptCorrect": 0,
+    "thirdPlusAttemptCorrect": 0,
+    "attemptDistribution": {},
+    "dataPoints": [],
+    "topicBreakdown": [],
+    "totalQuestions": 2
+  },
+  "subjectStats": [],
+  "attemptQuestionStats": [
+    {
+      "questionId": 2504,
+      "questionNumber": 1,
+      "status": "correct",
+      "tags": [
+        "Economics"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": "mid"
+      }
+    },
+    {
+      "questionId": 2505,
+      "questionNumber": 2,
+      "status": "incorrect",
+      "tags": [
+        "Economics"
+      ],
+      "meta": {
+        "knowledge": "no",
+        "technique": "no",
+        "guess": "no",
+        "confidence": null
+      }
+    }
+  ]
+}
+
+---
+

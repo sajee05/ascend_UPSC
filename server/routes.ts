@@ -56,6 +56,11 @@ import { ZodError } from "zod";
 import * as fs from "fs/promises"; // Ensure fs/promises is imported
 import * as path from "path"; // Ensure path is imported
 import { logger } from "./logger"; // Import logger
+import multer from "multer";
+import Papa from "papaparse";
+
+const upload = multer({ storage: multer.memoryStorage() });
+
 // Helper function to append to log file
 async function appendToAnalyticsLog(data: any, type: 'test' | 'overall') {
   const logFilePath = path.resolve("./analytics_log.txt");
@@ -124,7 +129,97 @@ export async function registerRoutes(app: Express): Promise<Server> {
       }
     }
   });
-
+ 
+  // POST /api/upload-csv - Upload and parse a new test from CSV
+  apiRouter.post("/api/upload-csv", upload.single("file"), async (req: Request, res: Response) => {
+    try {
+      if (!req.file) {
+        return res.status(400).json({ message: "No file uploaded" });
+      }
+ 
+      const csvData = req.file.buffer.toString("utf-8");
+ 
+      Papa.parse(csvData, {
+        header: true,
+        skipEmptyLines: true,
+        complete: async (results) => {
+          try {
+            const questions = results.data.map((row: any) => {
+              const correctOptionString = row["Correct Option"] || "";
+              const correctOptionIndex = correctOptionString.indexOf("1");
+              const correctAnswer = correctOptionIndex !== -1 ? String.fromCharCode(65 + correctOptionIndex) : "";
+ 
+              return {
+                questionText: row.Question,
+                optionA: row.O1,
+                optionB: row.O2,
+                optionC: row.O3,
+                optionD: row.O4,
+                correctAnswer,
+                correctAnswerText: row[`O${correctOptionIndex + 1}`],
+                explanation: row.Explanation,
+                tags: row.Tags.split(" "),
+              };
+            });
+ 
+            if (!req.file) {
+              // This check is for TypeScript's benefit, as it's already handled above.
+              return res.status(400).json({ message: "No file uploaded" });
+            }
+            const test = await storage.createTest({
+              filename: req.file.originalname,
+              title: req.file.originalname,
+              questionCount: questions.length,
+            });
+ 
+            const questionPromises = questions.map(async (q, index) => {
+              const newQuestion = await storage.addQuestionsToTest([
+                {
+                  testId: test.id,
+                  questionNumber: index + 1,
+                  questionText: q.questionText,
+                  optionA: q.optionA,
+                  optionB: q.optionB,
+                  optionC: q.optionC,
+                  optionD: q.optionD,
+                  correctAnswer: q.correctAnswer,
+                  correctAnswerText: q.correctAnswerText,
+                  explanation: q.explanation,
+                },
+              ]);
+ 
+              if (q.tags && q.tags.length > 0) {
+                const tagPromises = q.tags.map((tag: string) =>
+                  storage.addTagsToQuestion([
+                    {
+                      questionId: newQuestion[0].id,
+                      tagName: tag,
+                    },
+                  ])
+                );
+                await Promise.all(tagPromises);
+              }
+            });
+ 
+            await Promise.all(questionPromises);
+ 
+            res.status(201).json({ message: "Test created successfully from CSV", test });
+          } catch (error) {
+            console.error("Error processing CSV data:", error);
+            res.status(500).json({ message: "Failed to process CSV data" });
+          }
+        },
+        error: (error: any) => {
+          console.error("Error parsing CSV:", error);
+          res.status(400).json({ message: "Failed to parse CSV file", error: error.message });
+        },
+      });
+    } catch (error) {
+      console.error("Error uploading CSV:", error);
+      res.status(500).json({ message: "Failed to upload CSV" });
+    }
+  });
+ 
   // GET /api/tests/:id - Get a single test
   apiRouter.get("/api/tests/:id", async (req: Request, res: Response) => {
     try {

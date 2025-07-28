@@ -117,6 +117,7 @@ export const questions = pgTable("questions", {
   optionD: text("option_d").notNull(),
   correctAnswer: text("correct_answer").notNull(), // A, B, C, or D
   correctAnswerText: text("correct_answer_text").notNull(),
+  explanation: text("explanation"),
   difficultyLevel: text("difficulty_level"),
   isActive: boolean("is_active").default(true),
   createdAt: timestamp("created_at").notNull().defaultNow(),
