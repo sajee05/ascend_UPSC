@@ -229,5 +229,5 @@ Answer: [Insert the correct answer letter and text exactly as provided in the in
 
 ## Attribution
 
-Crafted with passion by Mohd Sajeel Memon 
+created by sxjeel,
 Not allowed for commercial use.
