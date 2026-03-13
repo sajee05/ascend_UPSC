@@ -1,6 +1,5 @@
 # Ascend UPSC
-
-<img title="" src="file:///C:/Users/FO/Desktop/ascend_UPSC/generated-icon_old.png" alt="" width="600">
+⚠️NOT MAINTAINED — for issues, ask AI or figure them out yourself
 
 ## Introduction
 
