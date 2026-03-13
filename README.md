@@ -1,5 +1,5 @@
 # Ascend UPSC
-⚠️NOT MAINTAINED — for issues, ask AI or figure them out yourself
+⚠️NOT MAINTAINED - for issues, ask AI or figure them out yourself
 
 ## Introduction
 
