@@ -10,17 +10,15 @@
 ### 📌 **Tech tools shouldn’t be used just for the sake of it or out of FOMO.** Add them to your workflow/Use them only when you genuinely feel the need to. stick to old school methods instead of doing productive procrastination. 
 
 
-## Showcase
+## 📺 YouTube Showcase
 
-<p align="center">
-  <img src="https://github.com/sajee05/ascend_UPSC/blob/main/generated-icon_old.png" width="120">
-</p>
+![Ascend UPSC Icon](https://github.com/sajee05/ascend_UPSC/blob/main/generated-icon_old.png)
 
-<p align="center">
-  <a href="https://youtu.be/GCZYYjAsYY8">
-    <img src="https://img.youtube.com/vi/GCZYYjAsYY8/maxresdefault.jpg" width="600">
-  </a>
-</p>
+Watch the **YouTube demo / showcase** of the tool below:
+
+[![Watch on YouTube](https://img.youtube.com/vi/GCZYYjAsYY8/maxresdefault.jpg)](https://youtu.be/GCZYYjAsYY8)
+
+▶ Click the thumbnail to watch the video on YouTube.
 
 
 ## Introduction
