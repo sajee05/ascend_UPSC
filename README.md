@@ -2,12 +2,12 @@
 
 * The project is **abandoned** and **no longer maintained**.
 * For issues, ask AI or figure them out yourself.
-* It’s **100% functional**, but I personally don’t use it anymore — doing things manually has a much better ROI. I’ve made the repo public in case someone still wants to try it.
+* It’s **100% functional**, but I personally don’t use it anymore. doing things manually has a much better ROI. I’ve made the repo public in case someone still wants to try it.
 * You can check the files in the **“raw material”** folder. I’ve already uploaded processed material for **FORUM Toolkit, Vivek Singh 450 Book, etc.** So if you manage to get the program running, feel free to run it right away. The rest should be self-explanatory.
-* Most of it is **vibe-coded**.
+* Most of it is **vibe coded**.
 * You’ll need a **Gemini API key** to generate explanations. If you want your own explanations from the mock, you’ll have to modify the schema mechanism and add explanation-extraction instructions to the system prompt.
 
-#### **Tech tools shouldn’t be used just for the sake of it or out of FOMO.** Add them to your workflow only when you genuinely feel the need. 
+### 📌 **Tech tools shouldn’t be used just for the sake of it or out of FOMO.** Add them to your workflow/Use them only when you genuinely feel the need to. stick to old school methods instead of doing productive procrastination. 
 
 
 ## Introduction
