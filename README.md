@@ -10,6 +10,19 @@
 ### 📌 **Tech tools shouldn’t be used just for the sake of it or out of FOMO.** Add them to your workflow/Use them only when you genuinely feel the need to. stick to old school methods instead of doing productive procrastination. 
 
 
+## Showcase
+
+<p align="center">
+  <img src="https://github.com/sajee05/ascend_UPSC/blob/main/generated-icon_old.png" width="120">
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/GCZYYjAsYY8">
+    <img src="https://img.youtube.com/vi/GCZYYjAsYY8/maxresdefault.jpg" width="600">
+  </a>
+</p>
+
+
 ## Introduction
 
 Ascend UPSC is a sophisticated, Apple-inspired web application designed as a comprehensive test preparation tool for Union Public Service Commission (UPSC) aspirants in India. It focuses on analyzing mock tests provided in a specific text format (`.txt`), enabling efficient revision through automatically generated flashcards, offering interactive quiz experiences with detailed meta-cognitive feedback, and providing structured, visually rich progress tracking both immediately after a test and over the long term.
