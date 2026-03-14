@@ -12,10 +12,6 @@
 
 ## 📺 YouTube Showcase
 
-![Ascend UPSC Icon](https://github.com/sajee05/ascend_UPSC/blob/main/generated-icon_old.png)
-
-Watch the **YouTube demo / showcase** of the tool below:
-
 [![Watch on YouTube](https://img.youtube.com/vi/GCZYYjAsYY8/maxresdefault.jpg)](https://youtu.be/GCZYYjAsYY8)
 
 ▶ Click the thumbnail to watch the video on YouTube.
