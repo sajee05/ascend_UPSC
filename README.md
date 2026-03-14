@@ -14,7 +14,7 @@
 
 [![Watch on YouTube](https://img.youtube.com/vi/GCZYYjAsYY8/maxresdefault.jpg)](https://youtu.be/GCZYYjAsYY8)
 
-▶ Click the thumbnail to watch the video on YouTube.
+▶ Click the thumbnail to watch the video on YouTube. / or [click on this link](https://youtu.be/GCZYYjAsYY8)
 
 
 ## Introduction
